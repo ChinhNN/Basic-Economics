@@ -1,20 +1,14 @@
 # Chương 18 — Phân tích lợi nhuận cho nhà quản lý doanh nghiệp (Profit Analysis for Business Managers)
 
-**Nguồn:** John A. Tracy, *How to Read a Financial Report: Wringing Vital Signs Out of the Numbers*, ấn bản thứ bảy (John Wiley & Sons, 2009), Phần Hai "Financial Statement Analysis", Chương 18 "Profit Analysis for Business Managers", trang in 139–148.
-**Tác giả:** John A. Tracy, giáo sư kế toán danh dự Đại học Colorado ở Boulder, kế toán viên công chứng (CPA).
-**Vị trí trong lập luận của cả cuốn sách:** Mười lăm chương của Phần Một dựng từng mối nối giữa báo cáo kết quả kinh doanh (income statement), bảng cân đối kế toán (balance sheet) và báo cáo lưu chuyển tiền tệ (statement of cash flows) của một doanh nghiệp ví dụ có doanh thu 52 triệu USD/năm. Phần Hai chuyển sang phân tích: Chương 16 ([C16-tac-dong-cua-tang-truong-va-suy-giam-len-dong-tien.md](C16-tac-dong-cua-tang-truong-va-suy-giam-len-dong-tien.md)) xem tăng trưởng và suy giảm tác động lên dòng tiền ra sao, Chương 17 ([C17-cac-chi-so-tai-chinh.md](C17-cac-chi-so-tai-chinh.md)) trình bày các chỉ số tài chính mà nhà đầu tư và người cho vay bên ngoài dùng. Chương 18 khép lại Phần Hai bằng cách đổi góc nhìn: lần đầu tiên trong sách, Tracy đứng ở vị trí **người quản lý bên trong doanh nghiệp** và hỏi báo cáo lợi nhuận nội bộ phải được trình bày thế nào để giúp ra quyết định. Ông vẫn dùng đúng báo cáo kết quả kinh doanh của doanh nghiệp ví dụ (Exhibit 2.2), nhưng tách chi phí bán hàng, chi phí chung và quản lý theo cách chi phí biến động. Sau chương này, Phần Ba (Chương 19–22, bắt đầu với [C19-chuan-muc-ke-toan-va-bao-cao-tai-chinh.md](C19-chuan-muc-ke-toan-va-bao-cao-tai-chinh.md)) quay lại báo cáo tài chính công bố ra ngoài để bàn về độ tin cậy của chúng: chuẩn mực kế toán, lựa chọn phương pháp kế toán và kiểm toán.
-**Ý chính:** Tracy muốn người đọc hiểu rằng **báo cáo kết quả kinh doanh công bố ra ngoài gộp mọi chi phí hoạt động vào một dòng "chi phí bán hàng, chi phí chung và quản lý", nên không cho nhà quản lý thấy lợi nhuận sẽ thay đổi thế nào khi giá bán hoặc sản lượng thay đổi; báo cáo lợi nhuận nội bộ phải tách chi phí hoạt động thành chi phí biến đổi theo doanh thu, chi phí biến đổi theo sản lượng và chi phí cố định**. Khi tách như vậy, khoản 12.480 nghìn USD chi phí bán hàng, chi phí chung và quản lý của doanh nghiệp ví dụ trở thành 4.420 (biến đổi theo doanh thu, bằng 8,5% doanh thu), 3.120 (biến đổi theo sản lượng) và 4.940 (cố định); cộng với 785 khấu hao cố định, tổng chi phí cố định là 5.725. Lãi đóng góp (Tracy gọi là "profit margin before fixed expenses") là 10.660. Từ đó lộ ra một kết luận mà báo cáo công bố ra ngoài che mất: **tăng giá bán 5% làm lợi nhuận trước lãi vay và thuế (EBIT) tăng 48,2% (từ 4.935 lên 7.314), còn tăng sản lượng 5% chỉ làm EBIT tăng 10,8% (lên 5.468)**, vì khi tăng giá thì chỉ có chi phí biến đổi theo doanh thu tăng theo, còn khi tăng sản lượng thì giá vốn hàng bán và mọi chi phí biến đổi đều tăng 5%. Chiều ngược lại cũng vậy: chỉ cần giá bán giảm 10,4% là EBIT về 0, trong khi sản lượng phải giảm tới 46,3% mới làm EBIT về 0. Vì vậy nhà quản lý phải rất thận trọng với việc hạ giá bán.
+## Ý chính
 
-> **Lưu ý:**
-> - **Chênh lệch làm tròn nhỏ trong Exhibit 18.4 (phương án giảm sản lượng).** Người tổng hợp tính lại: sản lượng hoà vốn bằng 5.725 ÷ 10.660 = 53,705% sản lượng cũ, tức giảm 46,29%. Khi đó doanh thu đúng ra là 52.000 × 53,705% ≈ 27.927 và giá vốn hàng bán ≈ 18.152, lợi nhuận gộp ≈ 9.774. Sách ghi 27.929, 18.154 và 9.775 (lệch 1–2 nghìn USD). Các dòng trong cột của sách vẫn cộng trừ khớp với nhau (27.929 − 18.154 − 2.374 − 1.676 = 5.725), và tỷ lệ 46,3% vẫn đúng; đây chỉ là sai số do sách giải bằng bảng tính rồi làm tròn, không ảnh hưởng kết luận. Mọi con số khác của Exhibit 18.2, 18.3 và 18.4 đã được kiểm tra lại và đều đúng.
-> - **Sách gọi "mẫu" (template) lúc là Exhibit 18.3, lúc là Exhibit 18.2.** Ở trang in 147, Tracy viết rằng định dạng báo cáo lợi nhuận quản trị "trình bày trong Exhibit 18.3" có thể dùng làm mẫu; ngay đoạn sau và ở cuối chương ông lại gọi "mẫu báo cáo lợi nhuận quản trị (Exhibit 18.2)". Thực chất cả hai cùng một định dạng: Exhibit 18.2 là báo cáo gốc, Exhibit 18.3 và 18.4 là báo cáo đó được chạy lại với giả định mới.
-> - **Tên dòng không thống nhất:** Exhibit 18.1 và 18.2 ghi "Earnings before Interest and Income Tax", Exhibit 18.3 và 18.4 ghi gọn "Earnings before Interest and Tax". Hai tên chỉ cùng một chỉ tiêu là lợi nhuận trước lãi vay và thuế (EBIT).
-> - **Sách không dùng chữ "lãi đóng góp" (contribution margin).** Tracy đặt tên dòng là "Profit Margin before Fixed Expenses" (lợi nhuận trước chi phí cố định). Trong kế toán quản trị, chỉ tiêu này thường được gọi là lãi đóng góp; bản tổng hợp dùng cả hai tên.
-> - **Giả định ngầm: toàn bộ giá vốn hàng bán là chi phí biến đổi theo sản lượng.** Exhibit 18.3 cho giá vốn hàng bán tăng đúng 5% khi sản lượng tăng 5%. Với một doanh nghiệp sản xuất, giá vốn hàng bán theo phương pháp tính giá thành toàn bộ (absorption costing, phương pháp bắt buộc trong báo cáo công bố ra ngoài) có chứa một phần chi phí sản xuất chung cố định, nên trên thực tế giá vốn đơn vị có thể giảm nhẹ khi sản lượng tăng (theo hiểu biết của người tổng hợp, không tra cứu). Sách không nêu điều này.
-> - **Nhận xét "chi phí lãi vay có xu hướng đi theo doanh thu" là rất gần đúng.** Tracy tự thừa nhận đây là nhận xét chung chung. Chi phí lãi vay thực ra phụ thuộc vào dư nợ vay và lãi suất; nó chỉ đi theo doanh thu khi doanh nghiệp vay thêm để tài trợ phải thu khách hàng và hàng tồn kho tăng theo doanh thu.
-> - **Thuế suất trong ví dụ là của năm 2008–2009.** Chi phí thuế thu nhập 1.748 trên lợi nhuận trước thuế 4.390 tương ứng khoảng 39,8% (gồm thuế liên bang và thuế bang). Từ năm 2018, thuế suất thuế thu nhập doanh nghiệp liên bang Mỹ chỉ còn 21% (theo hiểu biết của người tổng hợp, không tra cứu). Chương này dừng phân tích ở dòng EBIT nên thay đổi thuế suất không ảnh hưởng tới các kết luận chính.
-> - Một số con số trong bản tổng hợp không có trong sách mà do người tổng hợp tự tính từ số của sách để minh hoạ các câu Tracy nêu mà không tính (EBIT khi giá giảm đúng 10%; phương án tăng 10% sản lượng cùng 5% giá; mức tăng giá hoặc sản lượng cần để lợi nhuận ròng tăng 10%; sản lượng phải tăng bao nhiêu để bù việc giảm giá 5%). Những chỗ đó đều ghi rõ "người tổng hợp tính".
-> - Các câu trích là bản dịch của người tổng hợp.
+Tracy muốn người đọc hiểu rằng **báo cáo kết quả kinh doanh công bố ra ngoài gộp mọi chi phí hoạt động vào một dòng "chi phí bán hàng, chi phí chung và quản lý", nên không cho nhà quản lý thấy lợi nhuận sẽ thay đổi thế nào khi giá bán hoặc sản lượng thay đổi; báo cáo lợi nhuận nội bộ phải tách chi phí hoạt động thành chi phí biến đổi theo doanh thu, chi phí biến đổi theo sản lượng và chi phí cố định**.
+
+Khi tách như vậy, khoản 12.480 nghìn USD chi phí bán hàng, chi phí chung và quản lý của doanh nghiệp ví dụ trở thành 4.420 (biến đổi theo doanh thu, bằng 8,5% doanh thu), 3.120 (biến đổi theo sản lượng) và 4.940 (cố định); cộng với 785 khấu hao cố định, tổng chi phí cố định là 5.725. Lãi đóng góp (Tracy gọi là "profit margin before fixed expenses") là 10.660.
+
+Từ đó lộ ra một kết luận mà báo cáo công bố ra ngoài che mất: **tăng giá bán 5% làm lợi nhuận trước lãi vay và thuế (EBIT) tăng 48,2% (từ 4.935 lên 7.314), còn tăng sản lượng 5% chỉ làm EBIT tăng 10,8% (lên 5.468)**, vì khi tăng giá thì chỉ có chi phí biến đổi theo doanh thu tăng theo, còn khi tăng sản lượng thì giá vốn hàng bán và mọi chi phí biến đổi đều tăng 5%.
+
+Chiều ngược lại cũng vậy: chỉ cần giá bán giảm 10,4% là EBIT về 0, trong khi sản lượng phải giảm tới 46,3% mới làm EBIT về 0. Vì vậy nhà quản lý phải rất thận trọng với việc hạ giá bán.
 
 ## Sơ đồ
 
@@ -189,7 +183,11 @@
 
 Tracy mở chương bằng lời nhắc rằng các chương trước đều xoay quanh báo cáo tài chính công bố ra ngoài (external financial statements), nhưng kế toán còn làm nhiều hơn thế.
 
-**Bốn chức năng của kế toán.** Mọi doanh nghiệp phải có một hệ thống kế toán (accounting system), gồm biểu mẫu, quy trình, sổ sách, báo cáo, phần cứng và phần mềm máy tính, và nhân sự, để hoạt động hằng ngày diễn ra suôn sẻ, không bị chậm trễ hay đình trệ. Hệ thống nào cũng cần kiểm soát nội bộ (internal controls) mạnh để răn đe và phát hiện sai sót và gian lận; gian lận và các hình thức thiếu trung thực khác có thể gây hại cho bất kỳ doanh nghiệp nào. Mọi doanh nghiệp còn phải nộp đúng hạn rất nhiều tờ khai thuế: thuế thu nhập, thuế tài sản, thuế bán hàng, thuế tiền lương. Kế toán phụ trách việc tuân thủ thuế, và họ là chuyên gia thuế vì luật thuế được viết bằng ngôn ngữ kế toán. Thiết kế hệ thống kế toán, tuân thủ luật thuế và lập báo cáo tài chính công bố ra ngoài là ba chức năng nền tảng. Chức năng thứ tư, cũng rất quan trọng, là cung cấp thông tin cho nhà quản lý để ra quyết định, lập kế hoạch và kiểm soát. Chức năng này gọi là "management accounting" hoặc "managerial accounting" (kế toán quản trị); Tracy thích tên thứ hai hơn.
+**Bốn chức năng của kế toán.** Mọi doanh nghiệp phải có một hệ thống kế toán (accounting system), gồm biểu mẫu, quy trình, sổ sách, báo cáo, phần cứng và phần mềm máy tính, và nhân sự, để hoạt động hằng ngày diễn ra suôn sẻ, không bị chậm trễ hay đình trệ. Hệ thống nào cũng cần kiểm soát nội bộ (internal controls) mạnh để răn đe và phát hiện sai sót và gian lận; gian lận và các hình thức thiếu trung thực khác có thể gây hại cho bất kỳ doanh nghiệp nào.
+
+Mọi doanh nghiệp còn phải nộp đúng hạn rất nhiều tờ khai thuế: thuế thu nhập, thuế tài sản, thuế bán hàng, thuế tiền lương. Kế toán phụ trách việc tuân thủ thuế, và họ là chuyên gia thuế vì luật thuế được viết bằng ngôn ngữ kế toán.
+
+Thiết kế hệ thống kế toán, tuân thủ luật thuế và lập báo cáo tài chính công bố ra ngoài là ba chức năng nền tảng. Chức năng thứ tư, cũng rất quan trọng, là cung cấp thông tin cho nhà quản lý để ra quyết định, lập kế hoạch và kiểm soát. Chức năng này gọi là "management accounting" hoặc "managerial accounting" (kế toán quản trị); Tracy thích tên thứ hai hơn.
 
 **Kế toán quản trị là việc nội bộ.** Kế toán quản trị được thực hiện bên trong doanh nghiệp để giúp nhà quản lý ra quyết định đúng, xây dựng kế hoạch và ngân sách, và thực hiện kiểm soát. Nói gọn, mục đích của nó là giúp nhà quản lý làm tốt việc quản lý: trên hết là cung cấp thông tin hữu ích và giúp nhà quản lý dùng thông tin đó hiệu quả nhất.
 
@@ -230,7 +228,9 @@ Kiểm tra: 52.000 − 33.800 = 18.200; 18.200 − 12.480 − 785 = 4.935; 4.935
 
 **Nhà quản lý cần chi tiết để kiểm soát.** Ý nghĩ đầu tiên của người đọc có lẽ là nhà quản lý cần nhiều chi tiết để kiểm soát doanh nghiệp, và điều đó đúng: để kiểm soát, nhà quản lý phải theo dõi "một nghìn lẻ một" chi tiết. Họ cũng phải xây dựng các mốc so sánh (benchmark) phù hợp và tập trung vào các "điểm kiểm soát" (control points). Ví dụ: theo dõi sát tổng số nhân viên và doanh thu trên mỗi nhân viên; với nhà sản xuất, các thước đo năng suất rất quan trọng; nhà bán lẻ nên đo mức hao hụt hàng tồn kho (inventory shrinkage) để biết tổn thất do khách lấy trộm hàng và nhân viên ăn cắp.
 
-**Trung tâm lợi nhuận và trung tâm chi phí.** Tracy nói ông có thể viết cả một cuốn sách về kiểm soát quản trị và thông tin chi tiết cần cho kiểm soát, chẳng hạn cách phân loại doanh thu và chi phí theo các trung tâm lợi nhuận (profit centers) và trung tâm chi phí (cost centers) của doanh nghiệp. Trung tâm lợi nhuận là một nguồn doanh thu tách biệt, xác định được, cùng với các chi phí tương ứng. Ví dụ, một đại lý ô tô có một trung tâm lợi nhuận là bán xe con và xe tải mới, một trung tâm khác là bán xe con và xe tải đã qua sử dụng, và trung tâm thứ ba là bộ phận dịch vụ và phụ tùng. Trung tâm chi phí là một đơn vị tổ chức không tạo doanh thu, như phòng kế toán và phòng bảo trì.
+**Trung tâm lợi nhuận và trung tâm chi phí.** Tracy nói ông có thể viết cả một cuốn sách về kiểm soát quản trị và thông tin chi tiết cần cho kiểm soát, chẳng hạn cách phân loại doanh thu và chi phí theo các trung tâm lợi nhuận (profit centers) và trung tâm chi phí (cost centers) của doanh nghiệp.
+
+Trung tâm lợi nhuận là một nguồn doanh thu tách biệt, xác định được, cùng với các chi phí tương ứng. Ví dụ, một đại lý ô tô có một trung tâm lợi nhuận là bán xe con và xe tải mới, một trung tâm khác là bán xe con và xe tải đã qua sử dụng, và trung tâm thứ ba là bộ phận dịch vụ và phụ tùng. Trung tâm chi phí là một đơn vị tổ chức không tạo doanh thu, như phòng kế toán và phòng bảo trì.
 
 **Điều Tracy thật sự muốn nhấn mạnh.** Vì đây không phải sách về kế toán quản trị, Tracy không đi sâu vào các đề tài đó. Điều ông muốn làm rõ là: cách báo cáo công bố ra ngoài trình bày chi phí hoạt động không phù hợp cho báo cáo lợi nhuận nội bộ. Ý ông không chỉ là nhà quản lý cần thêm chi tiết về chi phí hoạt động (điều này tất nhiên đúng), mà là **chi phí hoạt động phải được phân loại theo cách chúng biến động khi doanh thu và sản lượng thay đổi**.
 
@@ -272,7 +272,9 @@ Giải thích các phép tính:
 
 ### 3. So sánh cùng một tỷ lệ thay đổi của giá bán và của sản lượng (Comparing Equal Percent Changes in Sales Prices and Sales Volume, trang in 145–148)
 
-**Nhà quản lý tập trung vào thay đổi.** Trong khuôn khổ một chương, Tracy chỉ có thể giới thiệu ngắn gọn cách nhà quản lý dùng một báo cáo lợi nhuận như Exhibit 18.2. Nói chung, nhà quản lý tập trung vào **thay đổi**: mọi yếu tố và biến số quyết định lợi nhuận đều có thể thay đổi; thay đổi là điều thường trực, như mọi nhà quản lý có kinh nghiệm đều xác nhận. Ví dụ: chi phí vận chuyển năm tới tăng có thể làm tăng chi phí biến đổi theo sản lượng; thuế tài sản tăng sẽ làm tăng chi phí hoạt động cố định; trưởng phòng bán hàng có thể thuyết phục được rằng nên tăng ngân sách quảng cáo năm tới. Nhà quản lý phải phản ứng với mọi thay đổi như vậy; theo cách nói của Tracy, họ không được trả lương để ngồi khoanh tay nhìn thay đổi xảy ra.
+**Nhà quản lý tập trung vào thay đổi.** Trong khuôn khổ một chương, Tracy chỉ có thể giới thiệu ngắn gọn cách nhà quản lý dùng một báo cáo lợi nhuận như Exhibit 18.2. Nói chung, nhà quản lý tập trung vào **thay đổi**: mọi yếu tố và biến số quyết định lợi nhuận đều có thể thay đổi; thay đổi là điều thường trực, như mọi nhà quản lý có kinh nghiệm đều xác nhận.
+
+Ví dụ: chi phí vận chuyển năm tới tăng có thể làm tăng chi phí biến đổi theo sản lượng; thuế tài sản tăng sẽ làm tăng chi phí hoạt động cố định; trưởng phòng bán hàng có thể thuyết phục được rằng nên tăng ngân sách quảng cáo năm tới. Nhà quản lý phải phản ứng với mọi thay đổi như vậy; theo cách nói của Tracy, họ không được trả lương để ngồi khoanh tay nhìn thay đổi xảy ra.
 
 **Kế hoạch cải thiện lợi nhuận bắt đầu từ giá và sản lượng.** Nhà quản lý cấp cao có trách nhiệm xây dựng kế hoạch thực tế để cải thiện kết quả lợi nhuận, nghĩa là thay đổi các thành phần trong "phương trình lợi nhuận" của doanh nghiệp. Câu hỏi then chốt là thay đổi cụ thể nào. Giả sử chủ tịch công ty muốn lập kế hoạch để lợi nhuận ròng năm tới tăng 10%: làm thế nào chính xác để đạt mục tiêu đó? Chỗ hợp lý để bắt đầu là giá bán và sản lượng.
 
@@ -345,7 +347,7 @@ Giải thích các phép tính (người tổng hợp kiểm tra lại):
 
 *Kịch bản giảm giá (sản lượng giữ nguyên):* giá vốn hàng bán (33.800) và chi phí biến đổi theo sản lượng (3.120) không đổi; chi phí biến đổi theo doanh thu luôn bằng 8,5% doanh thu. Mỗi đồng doanh thu mất đi chỉ làm giảm 0,085 đồng chi phí, nên lãi đóng góp giảm 0,915 đồng. Để lãi đóng góp giảm 4.935, doanh thu phải giảm 4.935 ÷ 0,915 ≈ 5.393, tức còn 46.607 (giảm 10,4%). Kiểm tra: lợi nhuận gộp 46.607 − 33.800 = 12.807 (giảm 5.393, tức 29,6% của 18.200); chi phí biến đổi theo doanh thu 8,5% × 46.607 ≈ 3.962 (giảm 458); lãi đóng góp 12.807 − 3.962 − 3.120 = 5.725; EBIT 5.725 − 5.725 = 0.
 
-*Kịch bản giảm sản lượng (giá giữ nguyên):* doanh thu, giá vốn hàng bán và cả hai loại chi phí biến đổi đều giảm cùng một tỷ lệ với sản lượng, nên lãi đóng góp cũng giảm đúng tỷ lệ đó. Để lãi đóng góp giảm 46,3%, sản lượng phải giảm 46,3%. Sách cho: doanh thu 27.929 (giảm 24.071), giá vốn 18.154 (giảm 15.646), lợi nhuận gộp 9.775 (giảm 8.425), chi phí biến đổi theo doanh thu 2.374 (giảm 2.046), chi phí biến đổi theo sản lượng 1.676 (giảm 1.444); lãi đóng góp 9.775 − 2.374 − 1.676 = 5.725; EBIT bằng 0. Nếu tính chính xác (sản lượng còn 5.725 ÷ 10.660 = 53,705%) thì doanh thu ≈ 27.927 và giá vốn ≈ 18.152; chênh lệch 1–2 nghìn USD so với sách là do làm tròn (xem khối Lưu ý).
+*Kịch bản giảm sản lượng (giá giữ nguyên):* doanh thu, giá vốn hàng bán và cả hai loại chi phí biến đổi đều giảm cùng một tỷ lệ với sản lượng, nên lãi đóng góp cũng giảm đúng tỷ lệ đó. Để lãi đóng góp giảm 46,3%, sản lượng phải giảm 46,3%. Sách cho: doanh thu 27.929 (giảm 24.071), giá vốn 18.154 (giảm 15.646), lợi nhuận gộp 9.775 (giảm 8.425), chi phí biến đổi theo doanh thu 2.374 (giảm 2.046), chi phí biến đổi theo sản lượng 1.676 (giảm 1.444); lãi đóng góp 9.775 − 2.374 − 1.676 = 5.725; EBIT bằng 0. Nếu tính chính xác (sản lượng còn 5.725 ÷ 10.660 = 53,705%) thì doanh thu ≈ 27.927 và giá vốn ≈ 18.152; chênh lệch 1–2 nghìn USD so với sách là do làm tròn (xem mục Lưu ý cuối chương).
 
 *So sánh hai kịch bản:* để mất cùng 4.935 lãi đóng góp, kịch bản giảm giá chỉ cần doanh thu giảm 5.393, còn kịch bản giảm sản lượng cần doanh thu giảm 24.071 — gấp khoảng 4,5 lần. Lý do là khi giá giảm, gần như toàn bộ phần doanh thu mất đi (91,5%) là lợi nhuận mất đi; khi sản lượng giảm, mỗi đồng doanh thu mất đi chỉ mang theo 20,5 xu lãi đóng góp (tỷ lệ lãi đóng góp trên doanh thu), vì phần còn lại là chi phí biến đổi cũng giảm theo.
 
@@ -394,7 +396,9 @@ Báo cáo lợi nhuận dành cho nhà quản lý phải phân loại chi phí h
 
 ### Trong ngôn ngữ kế toán và tài chính
 
-Chương này là phân tích chi phí – sản lượng – lợi nhuận (cost-volume-profit analysis, CVP) dựa trên báo cáo kết quả kinh doanh theo lãi đóng góp (contribution format income statement). Tỷ lệ lãi đóng góp trên doanh thu của doanh nghiệp ví dụ là 20,5%; tỷ số lãi đóng góp trên EBIT là 10.660 ÷ 4.935 ≈ 2,16, chính là độ lớn của đòn bẩy hoạt động (degree of operating leverage): khi lãi đóng góp tăng 5% thì EBIT tăng khoảng 2,16 × 5% = 10,8%. Biên an toàn (margin of safety) về sản lượng là 46,3%: sản lượng có thể giảm chừng đó trước khi EBIT về 0. Điểm riêng trong cách trình bày của Tracy là tách chi phí biến đổi thành hai nhóm, theo doanh thu và theo sản lượng, để phân biệt được tác động của giá và của sản lượng; nhiều giáo trình kế toán quản trị gộp mọi chi phí biến đổi theo sản lượng và xử lý giá bán như một tham số riêng. (Các tên gọi CVP, đòn bẩy hoạt động, biên an toàn không xuất hiện trong chương; đây là cách người tổng hợp đặt chương vào ngôn ngữ chuyên ngành.)
+Chương này là phân tích chi phí – sản lượng – lợi nhuận (cost-volume-profit analysis, CVP) dựa trên báo cáo kết quả kinh doanh theo lãi đóng góp (contribution format income statement). Tỷ lệ lãi đóng góp trên doanh thu của doanh nghiệp ví dụ là 20,5%; tỷ số lãi đóng góp trên EBIT là 10.660 ÷ 4.935 ≈ 2,16, chính là độ lớn của đòn bẩy hoạt động (degree of operating leverage): khi lãi đóng góp tăng 5% thì EBIT tăng khoảng 2,16 × 5% = 10,8%. Biên an toàn (margin of safety) về sản lượng là 46,3%: sản lượng có thể giảm chừng đó trước khi EBIT về 0.
+
+Điểm riêng trong cách trình bày của Tracy là tách chi phí biến đổi thành hai nhóm, theo doanh thu và theo sản lượng, để phân biệt được tác động của giá và của sản lượng; nhiều giáo trình kế toán quản trị gộp mọi chi phí biến đổi theo sản lượng và xử lý giá bán như một tham số riêng. (Các tên gọi CVP, đòn bẩy hoạt động, biên an toàn không xuất hiện trong chương; đây là cách người tổng hợp đặt chương vào ngôn ngữ chuyên ngành.)
 
 ## Thuật ngữ
 
@@ -463,7 +467,9 @@ Exhibit 18.1 và 18.2 cho cùng doanh thu 52.000, cùng EBIT 4.935, cùng lợi 
 
 ### Bài học về sức mạnh của giá bán vẫn đúng, nhưng bảng so sánh bỏ qua phản ứng của khách hàng
 
-Exhibit 18.3 so sánh hai kịch bản mà mỗi kịch bản chỉ thay đổi một biến. Trong thực tế, giá và sản lượng ràng buộc với nhau: tăng giá thường làm mất một phần khách hàng. Tracy có nhắc rằng khách hàng có thể phản ứng và mức nhạy cảm với giá hiếm khi rõ, nhưng không đưa yếu tố đó vào bảng. Người tổng hợp tính từ số của sách: với lãi đóng góp ở mức giá mới là 13.039, doanh nghiệp vẫn có lợi nhuận cao hơn phương án tăng sản lượng 5% chừng nào sản lượng không giảm quá khoảng 14% (lãi đóng góp giảm cùng tỷ lệ với sản lượng: 13.039 × (1 − 14,2%) ≈ 11.193). Nói cách khác, phương án tăng giá có một biên độ khá rộng trước khi thua phương án tăng sản lượng; đây là cách đọc Exhibit 18.3 hữu ích hơn so với chỉ so hai con số 48,2% và 10,8%.
+Exhibit 18.3 so sánh hai kịch bản mà mỗi kịch bản chỉ thay đổi một biến. Trong thực tế, giá và sản lượng ràng buộc với nhau: tăng giá thường làm mất một phần khách hàng. Tracy có nhắc rằng khách hàng có thể phản ứng và mức nhạy cảm với giá hiếm khi rõ, nhưng không đưa yếu tố đó vào bảng.
+
+Người tổng hợp tính từ số của sách: với lãi đóng góp ở mức giá mới là 13.039, doanh nghiệp vẫn có lợi nhuận cao hơn phương án tăng sản lượng 5% chừng nào sản lượng không giảm quá khoảng 14% (lãi đóng góp giảm cùng tỷ lệ với sản lượng: 13.039 × (1 − 14,2%) ≈ 11.193). Nói cách khác, phương án tăng giá có một biên độ khá rộng trước khi thua phương án tăng sản lượng; đây là cách đọc Exhibit 18.3 hữu ích hơn so với chỉ so hai con số 48,2% và 10,8%.
 
 ### Mô hình đơn giản hoá cấu trúc chi phí của một doanh nghiệp sản xuất
 
@@ -475,7 +481,9 @@ Dừng ở EBIT giúp tách quyết định kinh doanh (giá, sản lượng, ch
 
 ### Bối cảnh đã thay đổi từ 2009 không làm yếu đi luận điểm của chương
 
-Theo hiểu biết của người tổng hợp (không tra cứu): thuế suất thuế thu nhập doanh nghiệp liên bang Mỹ đã giảm còn 21% từ 2018, nên tỷ lệ thuế khoảng 39,8% trong ví dụ không còn tiêu biểu; nhưng chương dừng ở EBIT nên kết luận không đổi. Phần mềm quản trị doanh nghiệp (ERP) và công cụ phân tích hiện nay giúp việc gắn mã chi phí theo hành vi và chạy kịch bản dễ hơn nhiều so với thời Tracy viết, nên lý do "thêm việc cho kế toán" mà Tracy nêu để giải thích vì sao kế toán ít làm điều này đã yếu đi. Chuẩn mực báo cáo công bố ra ngoài (US GAAP, IFRS) vẫn không yêu cầu trình bày chi phí theo hành vi cố định – biến đổi, nên khoảng cách giữa báo cáo công bố ra ngoài và báo cáo quản trị mà Tracy mô tả vẫn tồn tại.
+Theo hiểu biết của người tổng hợp (không tra cứu): thuế suất thuế thu nhập doanh nghiệp liên bang Mỹ đã giảm còn 21% từ 2018, nên tỷ lệ thuế khoảng 39,8% trong ví dụ không còn tiêu biểu; nhưng chương dừng ở EBIT nên kết luận không đổi.
+
+Phần mềm quản trị doanh nghiệp (ERP) và công cụ phân tích hiện nay giúp việc gắn mã chi phí theo hành vi và chạy kịch bản dễ hơn nhiều so với thời Tracy viết, nên lý do "thêm việc cho kế toán" mà Tracy nêu để giải thích vì sao kế toán ít làm điều này đã yếu đi. Chuẩn mực báo cáo công bố ra ngoài (US GAAP, IFRS) vẫn không yêu cầu trình bày chi phí theo hành vi cố định – biến đổi, nên khoảng cách giữa báo cáo công bố ra ngoài và báo cáo quản trị mà Tracy mô tả vẫn tồn tại.
 
 ### Vận dụng cho nhà quản lý, người cho vay và nhà đầu tư
 
@@ -483,3 +491,151 @@ Theo hiểu biết của người tổng hợp (không tra cứu): thuế suất
 - **Người cho vay:** báo cáo công bố ra ngoài không cho thấy cấu trúc chi phí cố định – biến đổi, nên người cho vay có thể hỏi doanh nghiệp về điều này để đánh giá EBIT sẽ chịu được cú giảm giá hoặc giảm sản lượng tới đâu, và từ đó khả năng trả lãi vay.
 - **Nhà đầu tư:** doanh nghiệp có tỷ lệ chi phí cố định cao thì EBIT dao động mạnh theo doanh thu (như ví dụ: sản lượng +5% làm EBIT +10,8%); doanh nghiệp có quyền định giá (khả năng tăng giá mà không mất khách) được hưởng lợi rất lớn, như Exhibit 18.3 cho thấy.
 - **Người đọc Việt Nam:** logic của chương áp dụng nguyên vẹn cho doanh nghiệp Việt Nam. Báo cáo kết quả kinh doanh theo chế độ kế toán Việt Nam cũng trình bày chi phí theo chức năng (giá vốn hàng bán, chi phí bán hàng, chi phí quản lý doanh nghiệp), không theo hành vi, nên nhà quản lý cần một báo cáo quản trị riêng để làm phân tích kiểu Tracy (theo hiểu biết của người tổng hợp, không tra cứu).
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 18 trên một trang: năm nhánh lớn đi theo các mục 1–3 của Nội dung chi tiết và phần Đánh giá (kế toán quản trị và câu đố giá hay sản lượng; tách chi phí bán hàng, chi phí chung và quản lý thành ba loại để ra lãi đóng góp; so sánh tăng giá 5% với tăng sản lượng 5%; điểm hoà vốn EBIT khi giảm giá và giảm sản lượng; giới hạn của mô hình), mỗi nhánh ghi định nghĩa, công thức và con số then chốt của doanh nghiệp ví dụ (nghìn USD); nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 18: báo cáo lợi nhuận nội bộ phải tách chi phí theo hành vi, khi đó thấy giá bán là đòn bẩy lợi nhuận mạnh hơn sản lượng`"]
+  n1["`Mục 1 — Kế toán quản trị: chức năng thứ tư của kế toán, phục vụ nhà quản lý`"]
+  n0 --- n1
+  n2["`Bốn chức năng: hệ thống kế toán và kiểm soát nội bộ, tờ khai thuế, báo cáo công bố ra ngoài, kế toán quản trị`"]
+  n1 --- n2
+  n3["`Kế toán quản trị là việc nội bộ, phần lớn bí mật, báo cáo đi theo cơ cấu tổ chức (vùng bán hàng, dòng sản phẩm)`"]
+  n1 --- n3
+  n4["`Nhà quản lý cần thêm hai thứ: chi tiết chi phí để kiểm soát và biết chi phí biến động ra sao khi giá, sản lượng đổi`"]
+  n1 --- n4
+  n5["`Thực tế kế toán ít phân loại chi phí theo hành vi: thêm việc, nhà quản lý không yêu cầu`"]
+  n1 --- n5
+  n6["`Tracy: nhà quản lý đang bỏ lỡ cơ hội`"]
+  n5 --- n6
+  n7["`Câu đố: chỉ được chọn một, tăng giá bán 5% hay tăng sản lượng 5%?`"]
+  n1 --- n7
+  n8["`Chương không bàn ngân sách, chi phí định mức, báo cáo kiểm soát, phân bổ chi phí`"]
+  n1 --- n8
+  n9["`Mục 2 — Tách dòng SG#amp;A 12.480 nghìn USD thành ba loại theo hành vi`"]
+  n0 --- n9
+  n10["`Báo cáo công bố ra ngoài: doanh thu 52.000, giá vốn 33.800, SG#amp;A 12.480, khấu hao 785, EBIT 4.935, lợi nhuận ròng 2.642`"]
+  n9 --- n10
+  n11["`Giữ nguyên: lợi nhuận gộp 18.200 ngay dưới doanh thu, lãi vay và thuế trên dòng riêng`"]
+  n9 --- n11
+  n12["`Biến đổi theo doanh thu 4.420 = 8,5% doanh thu: hoa hồng bán hàng, phí thẻ tín dụng`"]
+  n9 --- n12
+  n13["`Biến đổi theo sản lượng 3.120: đóng gói, vận chuyển`"]
+  n9 --- n13
+  n14["`Cố định trong ngắn hạn 4.940: lương cố định, thuê nhà, thuê thiết bị, thuế tài sản`"]
+  n9 --- n14
+  n15["`Khấu hao 785 cũng xếp vào chi phí cố định, tổng chi phí cố định 5.725`"]
+  n14 --- n15
+  n16["`Lãi đóng góp = 18.200 − 4.420 − 3.120 = 10.660, bằng 20,5% doanh thu`"]
+  n9 --- n16
+  n17["`Tracy gọi là lợi nhuận trước chi phí cố định (profit margin before fixed expenses)`"]
+  n16 --- n17
+  n18["`EBIT 10.660 − 5.725 = 4.935, đúng như báo cáo công bố ra ngoài: chỉ cách trình bày đổi`"]
+  n9 --- n18
+  n19["`Cách làm: nghiên cứu từng khoản chi phí, gắn mã khi ghi sổ để hệ thống tự cộng từng loại`"]
+  n9 --- n19
+  n20["`Kiểm soát còn cần điểm kiểm soát: số nhân viên, doanh thu mỗi nhân viên, năng suất, hao hụt tồn kho`"]
+  n9 --- n20
+  n21["`Trung tâm lợi nhuận có doanh thu riêng (đại lý ô tô: xe mới, xe cũ, dịch vụ), trung tâm chi phí thì không`"]
+  n20 --- n21
+  n22["`Mục 3 — Tăng giá bán 5% tốt hơn hẳn tăng sản lượng 5%`"]
+  n0 --- n22
+  n23["`Cả hai đều làm doanh thu tăng 2.600 lên 54.600, chỉ thay một yếu tố, dừng ở EBIT`"]
+  n22 --- n23
+  n24["`Giá +5%: giá vốn giữ 33.800, chỉ chi phí theo doanh thu tăng 221`"]
+  n22 --- n24
+  n25["`Lãi đóng góp +2.379 (+22,3%) lên 13.039, EBIT lên 7.314 (+48,2%)`"]
+  n24 --- n25
+  n26["`Sản lượng +5%: giá vốn +1.690, chi phí theo doanh thu +221, theo sản lượng +156`"]
+  n22 --- n26
+  n27["`Lãi đóng góp chỉ +533 (+5%), EBIT lên 5.468 (+10,8%)`"]
+  n26 --- n27
+  n28["`Lý do: tăng sản lượng làm mọi chi phí biến đổi tăng 5%, tăng giá chỉ kéo theo một khoản chi phí`"]
+  n22 --- n28
+  n29["`Chi phí cố định 5.725 giả định không đổi, sẽ tăng nếu đã chạy hết công suất`"]
+  n22 --- n29
+  n30["`Tăng sản lượng 5% thường dễ hơn vì khách có thể phản ứng với giá cao, nhưng thay đổi nhỏ về giá tác động lớn tới lợi nhuận`"]
+  n22 --- n30
+  n31["`Lợi nhuận ròng +10% cần EBIT +439: giá chỉ cần +0,9%, sản lượng phải +4,1% (người tổng hợp tính)`"]
+  n22 --- n31
+  n32["`Mẫu báo cáo dùng để chạy kế hoạch: sản lượng +10% cùng giá +5% thì EBIT ≈ 8.618, +74,6% (người tổng hợp tính)`"]
+  n22 --- n32
+  n33["`Mục 3 — Điểm hoà vốn EBIT: phải rất thận trọng khi hạ giá`"]
+  n0 --- n33
+  n34["`Hoà vốn khi lãi đóng góp chỉ còn bằng chi phí cố định 5.725, tức giảm 4.935 (46,3%)`"]
+  n33 --- n34
+  n35["`Giá bán chỉ cần giảm 10,4% (doanh thu còn 46.607) là EBIT về 0`"]
+  n33 --- n35
+  n36["`Mỗi đồng doanh thu mất do giảm giá làm mất 0,915 đồng lãi đóng góp`"]
+  n35 --- n36
+  n37["`Sản lượng phải giảm 46,3% (doanh thu còn 27.929) EBIT mới về 0`"]
+  n33 --- n37
+  n38["`Mỗi đồng doanh thu mất do giảm sản lượng chỉ mang theo 20,5 xu lãi đóng góp`"]
+  n37 --- n38
+  n39["`Giá giảm 10% đã sát hoà vốn: EBIT chỉ còn 177 (người tổng hợp tính)`"]
+  n33 --- n39
+  n40["`Giảm giá 5% thì sản lượng phải tăng ≈ 28,7% mới giữ được lãi đóng góp 10.660 (người tổng hợp tính)`"]
+  n33 --- n40
+  n41["`Lời khuyên: chạy mẫu báo cáo lợi nhuận quản trị trước khi duyệt đề xuất hạ giá để kích sản lượng`"]
+  n33 --- n41
+  n42["`Đánh giá — Giới hạn của mô hình và ngôn ngữ chuyên ngành`"]
+  n0 --- n42
+  n43["`Đây là phân tích chi phí – sản lượng – lợi nhuận (CVP): đòn bẩy hoạt động 10.660 ÷ 4.935 ≈ 2,16, biên an toàn sản lượng 46,3%`"]
+  n42 --- n43
+  n44["`Tách chi phí biến đổi thành hai nhóm là điểm riêng của Tracy, gộp lại sẽ kết luận sai rằng hai phương án như nhau`"]
+  n42 --- n44
+  n45["`Bảng bỏ qua phản ứng khách hàng: tăng giá vẫn hơn chừng nào sản lượng giảm không quá khoảng 14%`"]
+  n42 --- n45
+  n46["`Giả định toàn bộ giá vốn biến đổi theo sản lượng, trong khi giá vốn nhà sản xuất có phần chi phí sản xuất chung cố định`"]
+  n42 --- n46
+  n47["`Dừng ở EBIT tách quyết định kinh doanh khỏi vay nợ và thuế, nhận xét lãi vay đi theo doanh thu chỉ gần đúng`"]
+  n42 --- n47
+  n48["`Chuẩn mực công bố ra ngoài (US GAAP, IFRS, chế độ kế toán Việt Nam) vẫn trình bày chi phí theo chức năng, không theo hành vi`"]
+  n42 --- n48
+  n49["`Thông điệp xuyên suốt`"]
+  n0 --- n49
+  n50["`Cùng con số, cách trình bày chi phí quyết định điều nhà quản lý nhìn thấy`"]
+  n49 --- n50
+  n51["`Giá bán là đòn bẩy lợi nhuận mạnh nhất theo cả chiều tăng lẫn chiều giảm`"]
+  n49 --- n51
+  n52["`Người cho vay và nhà đầu tư nên hỏi cấu trúc chi phí cố định – biến đổi để biết EBIT chịu được cú giảm tới đâu`"]
+  n49 --- n52
+  class n0 root
+  class n1,n9,n22,n33,n42,n49 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n34,n35,n36,n37,n38,n39,n40,n41,n43,n44,n45,n46,n47,n48,n50,n51,n52 leaf
+```
+
+## Nguồn
+
+John A. Tracy, *How to Read a Financial Report: Wringing Vital Signs Out of the Numbers*, ấn bản thứ bảy (John Wiley & Sons, 2009), Phần Hai "Financial Statement Analysis", Chương 18 "Profit Analysis for Business Managers", trang in 139–148.
+
+## Tác giả
+
+John A. Tracy, giáo sư kế toán danh dự Đại học Colorado ở Boulder, kế toán viên công chứng (CPA).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Mười lăm chương của Phần Một dựng từng mối nối giữa báo cáo kết quả kinh doanh (income statement), bảng cân đối kế toán (balance sheet) và báo cáo lưu chuyển tiền tệ (statement of cash flows) của một doanh nghiệp ví dụ có doanh thu 52 triệu USD/năm. Phần Hai chuyển sang phân tích: Chương 16 ([C16-tac-dong-cua-tang-truong-va-suy-giam-len-dong-tien.md](C16-tac-dong-cua-tang-truong-va-suy-giam-len-dong-tien.md)) xem tăng trưởng và suy giảm tác động lên dòng tiền ra sao, Chương 17 ([C17-cac-chi-so-tai-chinh.md](C17-cac-chi-so-tai-chinh.md)) trình bày các chỉ số tài chính mà nhà đầu tư và người cho vay bên ngoài dùng.
+
+Chương 18 khép lại Phần Hai bằng cách đổi góc nhìn: lần đầu tiên trong sách, Tracy đứng ở vị trí **người quản lý bên trong doanh nghiệp** và hỏi báo cáo lợi nhuận nội bộ phải được trình bày thế nào để giúp ra quyết định. Ông vẫn dùng đúng báo cáo kết quả kinh doanh của doanh nghiệp ví dụ (Exhibit 2.2), nhưng tách chi phí bán hàng, chi phí chung và quản lý theo cách chi phí biến động.
+
+Sau chương này, Phần Ba (Chương 19–22, bắt đầu với [C19-chuan-muc-ke-toan-va-bao-cao-tai-chinh.md](C19-chuan-muc-ke-toan-va-bao-cao-tai-chinh.md)) quay lại báo cáo tài chính công bố ra ngoài để bàn về độ tin cậy của chúng: chuẩn mực kế toán, lựa chọn phương pháp kế toán và kiểm toán.
+
+## Lưu ý
+
+- **Chênh lệch làm tròn nhỏ trong Exhibit 18.4 (phương án giảm sản lượng).** Người tổng hợp tính lại: sản lượng hoà vốn bằng 5.725 ÷ 10.660 = 53,705% sản lượng cũ, tức giảm 46,29%. Khi đó doanh thu đúng ra là 52.000 × 53,705% ≈ 27.927 và giá vốn hàng bán ≈ 18.152, lợi nhuận gộp ≈ 9.774. Sách ghi 27.929, 18.154 và 9.775 (lệch 1–2 nghìn USD). Các dòng trong cột của sách vẫn cộng trừ khớp với nhau (27.929 − 18.154 − 2.374 − 1.676 = 5.725), và tỷ lệ 46,3% vẫn đúng; đây chỉ là sai số do sách giải bằng bảng tính rồi làm tròn, không ảnh hưởng kết luận. Mọi con số khác của Exhibit 18.2, 18.3 và 18.4 đã được kiểm tra lại và đều đúng.
+- **Sách gọi "mẫu" (template) lúc là Exhibit 18.3, lúc là Exhibit 18.2.** Ở trang in 147, Tracy viết rằng định dạng báo cáo lợi nhuận quản trị "trình bày trong Exhibit 18.3" có thể dùng làm mẫu; ngay đoạn sau và ở cuối chương ông lại gọi "mẫu báo cáo lợi nhuận quản trị (Exhibit 18.2)". Thực chất cả hai cùng một định dạng: Exhibit 18.2 là báo cáo gốc, Exhibit 18.3 và 18.4 là báo cáo đó được chạy lại với giả định mới.
+- **Tên dòng không thống nhất:** Exhibit 18.1 và 18.2 ghi "Earnings before Interest and Income Tax", Exhibit 18.3 và 18.4 ghi gọn "Earnings before Interest and Tax". Hai tên chỉ cùng một chỉ tiêu là lợi nhuận trước lãi vay và thuế (EBIT).
+- **Sách không dùng chữ "lãi đóng góp" (contribution margin).** Tracy đặt tên dòng là "Profit Margin before Fixed Expenses" (lợi nhuận trước chi phí cố định). Trong kế toán quản trị, chỉ tiêu này thường được gọi là lãi đóng góp; bản tổng hợp dùng cả hai tên.
+- **Giả định ngầm: toàn bộ giá vốn hàng bán là chi phí biến đổi theo sản lượng.** Exhibit 18.3 cho giá vốn hàng bán tăng đúng 5% khi sản lượng tăng 5%. Với một doanh nghiệp sản xuất, giá vốn hàng bán theo phương pháp tính giá thành toàn bộ (absorption costing, phương pháp bắt buộc trong báo cáo công bố ra ngoài) có chứa một phần chi phí sản xuất chung cố định, nên trên thực tế giá vốn đơn vị có thể giảm nhẹ khi sản lượng tăng (theo hiểu biết của người tổng hợp, không tra cứu). Sách không nêu điều này.
+- **Nhận xét "chi phí lãi vay có xu hướng đi theo doanh thu" là rất gần đúng.** Tracy tự thừa nhận đây là nhận xét chung chung. Chi phí lãi vay thực ra phụ thuộc vào dư nợ vay và lãi suất; nó chỉ đi theo doanh thu khi doanh nghiệp vay thêm để tài trợ phải thu khách hàng và hàng tồn kho tăng theo doanh thu.
+- **Thuế suất trong ví dụ là của năm 2008–2009.** Chi phí thuế thu nhập 1.748 trên lợi nhuận trước thuế 4.390 tương ứng khoảng 39,8% (gồm thuế liên bang và thuế bang). Từ năm 2018, thuế suất thuế thu nhập doanh nghiệp liên bang Mỹ chỉ còn 21% (theo hiểu biết của người tổng hợp, không tra cứu). Chương này dừng phân tích ở dòng EBIT nên thay đổi thuế suất không ảnh hưởng tới các kết luận chính.
+- Một số con số trong bản tổng hợp không có trong sách mà do người tổng hợp tự tính từ số của sách để minh hoạ các câu Tracy nêu mà không tính (EBIT khi giá giảm đúng 10%; phương án tăng 10% sản lượng cùng 5% giá; mức tăng giá hoặc sản lượng cần để lợi nhuận ròng tăng 10%; sản lượng phải tăng bao nhiêu để bù việc giảm giá 5%). Những chỗ đó đều ghi rõ "người tổng hợp tính".
+- Các câu trích là bản dịch của người tổng hợp.

@@ -1,18 +1,19 @@
 # Chương 11 — Chi phí thuế thu nhập và khoản thuế phải nộp (Income Tax Expense and Its Liability)
 
-**Nguồn:** John A. Tracy, *How to Read a Financial Report: Wringing Vital Signs Out of the Numbers*, ấn bản thứ bảy (John Wiley & Sons, 2009), Phần Một "Components and Connections in Financial Statements", Chương 11 "Income Tax Expense and Its Liability", trang in 72–77 (Exhibit 11.1 ở trang 72, trang tên chương ở trang 73, phần chữ ở trang 74–77).
-**Tác giả:** John A. Tracy, giáo sư kế toán danh dự Đại học Colorado ở Boulder, kế toán viên công chứng (CPA).
-**Vị trí trong lập luận của cả cuốn sách:** Từ Chương 4 đến Chương 10, Tracy đi lần lượt từ trên xuống dưới báo cáo kết quả kinh doanh của doanh nghiệp ví dụ và với mỗi khoản mục chỉ ra khoản mục tương ứng trên bảng cân đối kế toán: doanh thu với phải thu khách hàng ([Chương 4](C04-doanh-thu-va-phai-thu-khach-hang.md)), giá vốn hàng bán với hàng tồn kho và phải trả người bán (Chương 5–6), chi phí hoạt động với phải trả người bán và chi phí trả trước (Chương 7–8), khấu hao với tài sản cố định ([Chương 9](C09-mot-chi-phi-dac-biet-khau-hao.md)), và chi phí chưa trả (kể cả lãi vay) với chi phí phải trả ([Chương 10](C10-ghi-nhan-chi-phi-phai-tra.md)). Chương 11 xử lý khoản chi phí cuối cùng trước dòng lợi nhuận ròng: chi phí thuế thu nhập 1.748 nghìn USD, và mối nối của nó với khoản nợ "thuế thu nhập phải nộp" 165 nghìn USD trên bảng cân đối kế toán. Chương này cũng giới thiệu thoáng qua khái niệm thuế thu nhập hoãn lại phải trả. [Chương 12](C12-loi-nhuan-rong-loi-nhuan-giu-lai-va-eps.md) đi tiếp xuống dòng cuối cùng (lợi nhuận ròng 2.642 nghìn USD chuyển vào lợi nhuận giữ lại và EPS), còn [Chương 13](C13-dong-tien-tu-hoat-dong-kinh-doanh.md) dùng phần tăng 83 nghìn USD của thuế thu nhập phải nộp như một khoản cộng vào khi tính dòng tiền từ hoạt động kinh doanh.
-**Ý chính:** Tracy muốn người đọc hiểu rằng **chi phí thuế thu nhập trên báo cáo kết quả kinh doanh là số thuế tính trên lợi nhuận của cả năm, nhưng phần lớn số thuế này đã được nộp dần ngay trong năm, nên khoản thuế thu nhập phải nộp còn lại trên bảng cân đối kế toán cuối năm thường chỉ là một phần nhỏ; nếu phần còn nợ cuối năm lớn so với chi phí thuế cả năm thì người đọc nên xem xét kỹ hơn.** Trong ví dụ, doanh nghiệp là một công ty cổ phần thông thường (C corporation), phải nộp cả thuế thu nhập liên bang và thuế thu nhập tiểu bang. Lợi nhuận trước thuế 4.390 nghìn USD được giả định đúng bằng thu nhập chịu thuế; chi phí thuế thu nhập là 1.748 nghìn USD, khoảng 40% (chính xác là 39,8%); lợi nhuận ròng còn 2.642 nghìn USD. Cuối năm doanh nghiệp chỉ còn nợ cơ quan thuế 165 nghìn USD, tức khoảng 9,4% chi phí thuế của năm. Tracy còn nhắc rằng: công ty cổ phần thông thường bị đánh thuế hai lần trên cùng một khoản lợi nhuận, còn các "thực thể chuyển thu nhập" (công ty S, công ty hợp danh, công ty trách nhiệm hữu hạn) thì không; luật thuế dày hàng nghìn trang, đầy kẽ hở và lựa chọn để giảm hoặc hoãn thuế; khi doanh nghiệp dùng phương pháp kế toán thuế khác với phương pháp kế toán trên báo cáo tài chính thì phát sinh **thuế thu nhập hoãn lại phải trả** (ví dụ: chi phí thuế "bình thường" 3.500.000 USD, thuế thực nợ trong năm 2.500.000 USD, chênh lệch 1.000.000 USD ghi vào khoản nợ thuế hoãn lại); và con số thuế trên báo cáo tài chính luôn là con số **tạm thời**, có thể bị điều chỉnh khi Sở Thuế vụ Mỹ (IRS) kiểm tra và không đồng ý với tờ khai.
+## Ý chính
 
-> **Lưu ý:**
-> - **Exhibit 11.1 nằm ở trang in 72, trước trang tên chương (trang 73).** Câu mở đầu của Tracy "Please refer to Exhibit 11.1 at the start of the chapter" đúng theo nghĩa đó: bảng nằm ở trang trái đối diện trang tên chương. Trang PDF 90 (trang in 78) trong khoảng trang được giao thực ra là Exhibit 12.1 của Chương 12, không thuộc Chương 11.
-> - **Kiểm tra số học của Exhibit 11.1: mọi phép cộng trừ đều đúng.** Báo cáo kết quả kinh doanh: 52.000 − 33.800 − 12.480 − 785 − 545 − 1.748 = 2.642. Tổng tài sản: 3.265 + 5.000 + 8.450 + 960 + 16.500 − 4.250 + 5.575 = 35.500. Tổng nợ phải trả và vốn chủ sở hữu: 3.320 + 1.515 + 165 + 3.125 + 4.250 + 8.125 + 15.000 = 35.500. Exhibit 11.1 không in các dòng tổng phụ (lợi nhuận gộp, lợi nhuận trước lãi vay và thuế, lợi nhuận trước thuế) và không in số cổ phiếu cạnh dòng vốn cổ phần; các số đó lấy từ Exhibit 2.1 và 2.2 của Chương 2.
-> - **"Khoảng 40%" là làm tròn:** 1.748 / 4.390 = 39,82%. Tracy không chia con số này ra thành phần thuế liên bang và phần thuế tiểu bang, cũng không nêu thuế suất từng phần; ông chỉ nói việc tính "không đơn giản vì nhiều yếu tố".
-> - **Một câu viết lỏng trong ví dụ thuế hoãn lại (trang 76):** Tracy viết "the normal income tax would be $3,500,000 on this amount of taxable income", trong khi "this amount" là 10.000.000 USD lợi nhuận trước thuế trên báo cáo kết quả kinh doanh, không phải thu nhập chịu thuế (thu nhập chịu thuế trên tờ khai thấp hơn, đó chính là lý do thuế thực nợ chỉ 2.500.000 USD). Nên hiểu: 3.500.000 USD là số thuế "bình thường" tính trên 10.000.000 USD lợi nhuận trước thuế (tương ứng thuế suất 35%). Tỷ lệ 35% trong ví dụ này cũng khác tỷ lệ khoảng 40% của doanh nghiệp ví dụ chính; Tracy không giải thích, có lẽ vì ví dụ 10 triệu chỉ tính thuế liên bang (theo suy đoán của người tổng hợp).
-> - **Số thuế đã nộp trong năm không được Tracy tính ra trong chương này.** Người tổng hợp tính từ Exhibit 2.1: đầu năm còn nợ 82, chi phí thuế trong năm 1.748, cuối năm còn nợ 165, vậy số tiền thuế đã nộp trong năm là 82 + 1.748 − 165 = 1.665 nghìn USD (giả định toàn bộ 82 nợ đầu năm đã nộp trong năm).
-> - **Quy định Mỹ đã khác so với năm 2008–2009 (theo hiểu biết của người tổng hợp, không tra cứu):** (1) Đạo luật Cắt giảm Thuế và Việc làm (Tax Cuts and Jobs Act) đưa thuế suất thuế thu nhập doanh nghiệp liên bang về mức cố định 21% từ năm 2018, thay cho biểu thuế luỹ tiến cao nhất 35% thời Tracy viết; do đó tỷ lệ "khoảng 40%" (liên bang cộng tiểu bang) nay sẽ thấp hơn nhiều với một doanh nghiệp tương tự. (2) Cùng đạo luật đó cho chủ sở hữu các thực thể chuyển thu nhập một khoản giảm trừ trên thu nhập kinh doanh đủ điều kiện, nên phép so sánh "thuế hai lần" giữa hai loại hình đã thay đổi. (3) Chuẩn mực về thuế thu nhập nay nằm trong ASC 740 của Bộ chuẩn mực FASB (FASB Accounting Standards Codification); từ khoảng năm 2017 mọi khoản thuế hoãn lại được trình bày là dài hạn trên bảng cân đối kế toán. (4) FIN 48 (2006, nay trong ASC 740) đã yêu cầu doanh nghiệp ghi nhận và thuyết minh "vị thế thuế không chắc chắn" (uncertain tax positions), tức đúng rủi ro IRS đòi thêm thuế mà Tracy mô tả ở cuối chương, nhưng sách không nhắc tới. (5) FASB ban hành ASU 2023-09 yêu cầu thuyết minh chi tiết hơn về bảng đối chiếu thuế suất và số thuế đã nộp theo từng nơi. (6) Ở tầm quốc tế đã có thuế tối thiểu toàn cầu 15% (Trụ cột Hai của OECD), và Mỹ có thuế tối thiểu 15% tính trên lợi nhuận kế toán của các tập đoàn rất lớn (từ 2023).
-> - Các câu trích trong mục "Câu nói đáng nhớ" là bản dịch của người tổng hợp.
+Tracy muốn người đọc hiểu rằng **chi phí thuế thu nhập trên báo cáo kết quả kinh doanh là số thuế tính trên lợi nhuận của cả năm, nhưng phần lớn số thuế này đã được nộp dần ngay trong năm, nên khoản thuế thu nhập phải nộp còn lại trên bảng cân đối kế toán cuối năm thường chỉ là một phần nhỏ; nếu phần còn nợ cuối năm lớn so với chi phí thuế cả năm thì người đọc nên xem xét kỹ hơn.**
+
+Trong ví dụ, doanh nghiệp là một công ty cổ phần thông thường (C corporation), phải nộp cả thuế thu nhập liên bang và thuế thu nhập tiểu bang. Lợi nhuận trước thuế 4.390 nghìn USD được giả định đúng bằng thu nhập chịu thuế; chi phí thuế thu nhập là 1.748 nghìn USD, khoảng 40% (chính xác là 39,8%); lợi nhuận ròng còn 2.642 nghìn USD.
+
+Cuối năm doanh nghiệp chỉ còn nợ cơ quan thuế 165 nghìn USD, tức khoảng 9,4% chi phí thuế của năm.
+
+Tracy còn nhắc rằng:
+
+- Công ty cổ phần thông thường bị đánh thuế hai lần trên cùng một khoản lợi nhuận, còn các "thực thể chuyển thu nhập" (công ty S, công ty hợp danh, công ty trách nhiệm hữu hạn) thì không.
+- Luật thuế dày hàng nghìn trang, đầy kẽ hở và lựa chọn để giảm hoặc hoãn thuế.
+- Khi doanh nghiệp dùng phương pháp kế toán thuế khác với phương pháp kế toán trên báo cáo tài chính thì phát sinh **thuế thu nhập hoãn lại phải trả** (ví dụ: chi phí thuế "bình thường" 3.500.000 USD, thuế thực nợ trong năm 2.500.000 USD, chênh lệch 1.000.000 USD ghi vào khoản nợ thuế hoãn lại).
+- Con số thuế trên báo cáo tài chính luôn là con số **tạm thời**, có thể bị điều chỉnh khi Sở Thuế vụ Mỹ (IRS) kiểm tra và không đồng ý với tờ khai.
 
 ## Sơ đồ
 
@@ -236,7 +237,9 @@ Bảng này không có trong Chương 11 nhưng giúp thấy ý của Tracy bằ
 
 **Loại hình doanh nghiệp và thuế.** Doanh nghiệp ví dụ được tổ chức dưới dạng công ty cổ phần (incorporated), thay vì công ty hợp danh hay công ty trách nhiệm hữu hạn. Vì là một "người" riêng biệt trước pháp luật, công ty cổ phần có nhiều lợi thế quan trọng (Tracy không liệt kê). Nhưng các công ty cổ phần kinh doanh vì lợi nhuận có một bất lợi nghiêm trọng: chúng phải nộp thuế thu nhập liên bang và tiểu bang trên lợi nhuận, hay nói chính xác hơn, trên thu nhập chịu thuế, tức lợi nhuận trước thuế thu nhập.
 
-Doanh nghiệp ví dụ là một công ty cổ phần thông thường, còn gọi là C corporation. Theo luật thuế thu nhập liên bang Mỹ, các công ty cổ phần nhỏ dạng S (S corporations), công ty hợp danh và công ty trách nhiệm hữu hạn là các thực thể "chuyển thu nhập" (pass-through): bản thân chúng không nộp thuế thu nhập mà chỉ là kênh dẫn. Thu nhập chịu thuế hằng năm của chúng được chuyển sang chủ sở hữu; mỗi chủ sở hữu đưa phần thu nhập chịu thuế của mình vào tờ khai thuế thu nhập cá nhân của năm đó. Bằng cách này, các thực thể đó tránh được việc lợi nhuận kinh doanh bị đánh thuế hai lần: lần thứ nhất ở công ty cổ phần, lần thứ hai ở cổ đông (trong phạm vi lợi nhuận ròng được chia cho họ dưới dạng cổ tức tiền mặt).
+Doanh nghiệp ví dụ là một công ty cổ phần thông thường, còn gọi là C corporation. Theo luật thuế thu nhập liên bang Mỹ, các công ty cổ phần nhỏ dạng S (S corporations), công ty hợp danh và công ty trách nhiệm hữu hạn là các thực thể "chuyển thu nhập" (pass-through): bản thân chúng không nộp thuế thu nhập mà chỉ là kênh dẫn. Thu nhập chịu thuế hằng năm của chúng được chuyển sang chủ sở hữu; mỗi chủ sở hữu đưa phần thu nhập chịu thuế của mình vào tờ khai thuế thu nhập cá nhân của năm đó.
+
+Bằng cách này, các thực thể đó tránh được việc lợi nhuận kinh doanh bị đánh thuế hai lần: lần thứ nhất ở công ty cổ phần, lần thứ hai ở cổ đông (trong phạm vi lợi nhuận ròng được chia cho họ dưới dạng cổ tức tiền mặt).
 
 **Điểm thứ nhất: phải có thu nhập chịu thuế mới nợ thuế.** Một công ty cổ phần phải kiếm được thu nhập chịu thuế thì mới nợ thuế thu nhập. Cách đơn giản nhất để không nộp thuế là không có thu nhập chịu thuế, hoặc bị lỗ theo cách tính thuế. Dĩ nhiên doanh nghiệp muốn có lợi nhuận, nhưng có lợi nhuận thì kèm theo gánh nặng phải chia một phần lợi nhuận trước thuế cho chính phủ liên bang (Tracy dùng cách gọi dân gian "Uncle Sam") và cho các tiểu bang có đánh thuế trên lợi nhuận kinh doanh phát sinh trong địa giới của mình.
 
@@ -390,22 +393,186 @@ Chi phí thuế thu nhập là khoản chi phí cuối cùng trên báo cáo k�
 ## Đánh giá và phát hiện đáng chú ý
 
 ### Chương này ngắn nhưng hoàn thiện chuỗi mối nối giữa báo cáo kết quả kinh doanh và bảng cân đối kế toán
-Điểm mạnh của chương là giữ đúng phương pháp xuyên suốt của Tracy: lấy một khoản mục trên báo cáo kết quả kinh doanh (chi phí thuế 1.748) và chỉ ra khoản mục tương ứng trên bảng cân đối kế toán (thuế phải nộp 165). Với chương này, chuỗi mối nối từ doanh thu đến lợi nhuận ròng đã đủ: mỗi dòng của báo cáo kết quả kinh doanh đều đã được gắn với ít nhất một tài sản hoặc khoản nợ. Lời khuyên thực hành duy nhất của chương rất cụ thể và dễ áp dụng: so khoản thuế còn nợ cuối năm với chi phí thuế cả năm; ở ví dụ là khoảng 9,4%, còn nếu tỷ lệ cao bất thường thì đó là điều cần hỏi (ví dụ doanh nghiệp có đang chậm nộp thuế, gặp khó khăn về tiền, hay đang tranh chấp với cơ quan thuế).
+Điểm mạnh của chương là giữ đúng phương pháp xuyên suốt của Tracy: lấy một khoản mục trên báo cáo kết quả kinh doanh (chi phí thuế 1.748) và chỉ ra khoản mục tương ứng trên bảng cân đối kế toán (thuế phải nộp 165). Với chương này, chuỗi mối nối từ doanh thu đến lợi nhuận ròng đã đủ: mỗi dòng của báo cáo kết quả kinh doanh đều đã được gắn với ít nhất một tài sản hoặc khoản nợ.
+
+Lời khuyên thực hành duy nhất của chương rất cụ thể và dễ áp dụng: so khoản thuế còn nợ cuối năm với chi phí thuế cả năm; ở ví dụ là khoảng 9,4%, còn nếu tỷ lệ cao bất thường thì đó là điều cần hỏi (ví dụ doanh nghiệp có đang chậm nộp thuế, gặp khó khăn về tiền, hay đang tranh chấp với cơ quan thuế).
 
 ### Sách đơn giản hoá mạnh: thu nhập chịu thuế bằng lợi nhuận trước thuế, và không tách thuế liên bang với thuế tiểu bang
-Tracy tự nhận rằng ông phải đơn giản hoá. Giả định thu nhập chịu thuế bằng đúng lợi nhuận trước thuế giúp người đọc thấy mối nối rõ ràng, nhưng trong thực tế gần như không doanh nghiệp lớn nào có hai con số này bằng nhau: khấu hao nhanh cho mục đích thuế, các khoản chi phí không được trừ, các ưu đãi thuế, lỗ chuyển sang năm sau đều tạo chênh lệch. Sách cũng chỉ nói "khoảng 40%" mà không giải thích cách tính. Ví dụ 10 triệu USD dùng tỷ lệ 35%, khác với 40% của doanh nghiệp ví dụ, mà không giải thích lý do; người đọc kỹ có thể bối rối. Ngoài ra, Tracy chỉ nói về thuế hoãn lại phải trả, không nhắc tới chiều ngược lại là **tài sản thuế thu nhập hoãn lại** (deferred tax asset), phát sinh khi thuế thực nộp cao hơn chi phí thuế báo cáo (ví dụ khi có lỗ được chuyển sang năm sau), cùng với khoản dự phòng giảm giá cho tài sản này (theo hiểu biết của người tổng hợp).
+Tracy tự nhận rằng ông phải đơn giản hoá. Giả định thu nhập chịu thuế bằng đúng lợi nhuận trước thuế giúp người đọc thấy mối nối rõ ràng, nhưng trong thực tế gần như không doanh nghiệp lớn nào có hai con số này bằng nhau: khấu hao nhanh cho mục đích thuế, các khoản chi phí không được trừ, các ưu đãi thuế, lỗ chuyển sang năm sau đều tạo chênh lệch.
+
+Sách cũng chỉ nói "khoảng 40%" mà không giải thích cách tính. Ví dụ 10 triệu USD dùng tỷ lệ 35%, khác với 40% của doanh nghiệp ví dụ, mà không giải thích lý do; người đọc kỹ có thể bối rối.
+
+Ngoài ra, Tracy chỉ nói về thuế hoãn lại phải trả, không nhắc tới chiều ngược lại là **tài sản thuế thu nhập hoãn lại** (deferred tax asset), phát sinh khi thuế thực nộp cao hơn chi phí thuế báo cáo (ví dụ khi có lỗ được chuyển sang năm sau), cùng với khoản dự phòng giảm giá cho tài sản này (theo hiểu biết của người tổng hợp).
 
 ### Thuế suất và quy định thuế Mỹ đã thay đổi nhiều từ năm 2009
-Theo hiểu biết của người tổng hợp, không tra cứu: từ năm 2018, thuế suất thuế thu nhập doanh nghiệp liên bang Mỹ là 21% cố định, thay cho biểu thuế luỹ tiến cao nhất 35% thời Tracy viết (khớp với tỷ lệ 35% trong ví dụ 10 triệu USD). Tỷ lệ "khoảng 40%" liên bang cộng tiểu bang của doanh nghiệp ví dụ vì vậy nay sẽ thấp hơn rõ rệt, chỉ còn khoảng một phần tư. Cùng đạo luật năm 2017 cho chủ sở hữu các thực thể chuyển thu nhập một khoản giảm trừ trên thu nhập kinh doanh đủ điều kiện, nên phép so sánh "đánh thuế hai lần" giữa công ty cổ phần thông thường và các thực thể chuyển thu nhập đã thay đổi: chọn loại hình nào có lợi hơn về thuế nay phụ thuộc nhiều hơn vào hoàn cảnh cụ thể. Mỹ còn đưa ra thuế tối thiểu tính trên lợi nhuận kế toán cho các tập đoàn rất lớn (từ 2023), và nhiều nước áp dụng thuế tối thiểu toàn cầu 15% theo Trụ cột Hai của OECD. Những thay đổi này làm câu của Tracy "luật thuế thay đổi từ năm này sang năm khác" càng đúng hơn.
+Theo hiểu biết của người tổng hợp, không tra cứu: từ năm 2018, thuế suất thuế thu nhập doanh nghiệp liên bang Mỹ là 21% cố định, thay cho biểu thuế luỹ tiến cao nhất 35% thời Tracy viết (khớp với tỷ lệ 35% trong ví dụ 10 triệu USD). Tỷ lệ "khoảng 40%" liên bang cộng tiểu bang của doanh nghiệp ví dụ vì vậy nay sẽ thấp hơn rõ rệt, chỉ còn khoảng một phần tư.
+
+Cùng đạo luật năm 2017 cho chủ sở hữu các thực thể chuyển thu nhập một khoản giảm trừ trên thu nhập kinh doanh đủ điều kiện, nên phép so sánh "đánh thuế hai lần" giữa công ty cổ phần thông thường và các thực thể chuyển thu nhập đã thay đổi: chọn loại hình nào có lợi hơn về thuế nay phụ thuộc nhiều hơn vào hoàn cảnh cụ thể.
+
+Mỹ còn đưa ra thuế tối thiểu tính trên lợi nhuận kế toán cho các tập đoàn rất lớn (từ 2023), và nhiều nước áp dụng thuế tối thiểu toàn cầu 15% theo Trụ cột Hai của OECD. Những thay đổi này làm câu của Tracy "luật thuế thay đổi từ năm này sang năm khác" càng đúng hơn.
 
 ### Chuẩn mực kế toán thuế thu nhập đã được tổ chức lại và yêu cầu thuyết minh nhiều hơn
-Theo hiểu biết của người tổng hợp: chuẩn mực kế toán thuế thu nhập của Mỹ (trước là FAS 109) nay nằm trong ASC 740 của Bộ chuẩn mực FASB, có hiệu lực từ năm 2009. Từ năm 2006 đã có FIN 48 (nay là một phần của ASC 740) yêu cầu doanh nghiệp đánh giá từng "vị thế thuế không chắc chắn" và ghi nhận khoản nợ cho phần thuế có khả năng bị IRS đòi thêm; đây chính là rủi ro Tracy mô tả ở cuối chương nhưng ông không nêu chuẩn mực này. Sau đó FASB yêu cầu trình bày mọi khoản thuế hoãn lại là dài hạn (khoảng năm 2017) và, với ASU 2023-09, yêu cầu bảng đối chiếu thuế suất và số thuế đã nộp được thuyết minh chi tiết hơn, theo từng nhóm và từng nơi nộp. Lời than của Tracy rằng thuyết minh thuế là "một trong những thuyết minh khó nhất" vẫn đúng, nhưng nay thuyết minh này chứa nhiều thông tin hơn cho người đọc kiên nhẫn. Chuẩn mực quốc tế tương ứng là IAS 12, cũng dùng cơ chế thuế hoãn lại.
+Theo hiểu biết của người tổng hợp: chuẩn mực kế toán thuế thu nhập của Mỹ (trước là FAS 109) nay nằm trong ASC 740 của Bộ chuẩn mực FASB, có hiệu lực từ năm 2009. Từ năm 2006 đã có FIN 48 (nay là một phần của ASC 740) yêu cầu doanh nghiệp đánh giá từng "vị thế thuế không chắc chắn" và ghi nhận khoản nợ cho phần thuế có khả năng bị IRS đòi thêm; đây chính là rủi ro Tracy mô tả ở cuối chương nhưng ông không nêu chuẩn mực này.
+
+Sau đó FASB yêu cầu trình bày mọi khoản thuế hoãn lại là dài hạn (khoảng năm 2017) và, với ASU 2023-09, yêu cầu bảng đối chiếu thuế suất và số thuế đã nộp được thuyết minh chi tiết hơn, theo từng nhóm và từng nơi nộp.
+
+Lời than của Tracy rằng thuyết minh thuế là "một trong những thuyết minh khó nhất" vẫn đúng, nhưng nay thuyết minh này chứa nhiều thông tin hơn cho người đọc kiên nhẫn. Chuẩn mực quốc tế tương ứng là IAS 12, cũng dùng cơ chế thuế hoãn lại.
 
 ### Ý "báo cáo tài chính là tạm thời" là bài học rộng hơn chủ đề thuế
-Tracy dùng thuế để nói một điều chung: con số trên báo cáo tài chính trông như chắc chắn nhưng thực ra dựa trên ước tính và diễn giải, có thể bị sửa về sau. Với thuế, người có quyền sửa là cơ quan thuế, có khi nhiều năm sau. Ý này chuẩn bị cho Phần Ba của sách (Chương 19–22), nơi Tracy bàn về chuẩn mực kế toán, làm đẹp số liệu và kiểm toán. Một quan điểm bổ sung: khoản thuế hoãn lại phải trả không phải lúc nào cũng "sớm muộn phải nộp" như Tracy nói; với doanh nghiệp đang tăng trưởng và liên tục mua tài sản cố định mới, chênh lệch tạm thời mới phát sinh có thể bù cho phần đảo chiều, khiến khoản nợ này duy trì hoặc tăng trong nhiều năm, vì vậy một số nhà phân tích coi nó gần với vốn chủ sở hữu hơn là nợ (theo hiểu biết của người tổng hợp).
+Tracy dùng thuế để nói một điều chung: con số trên báo cáo tài chính trông như chắc chắn nhưng thực ra dựa trên ước tính và diễn giải, có thể bị sửa về sau. Với thuế, người có quyền sửa là cơ quan thuế, có khi nhiều năm sau. Ý này chuẩn bị cho Phần Ba của sách (Chương 19–22), nơi Tracy bàn về chuẩn mực kế toán, làm đẹp số liệu và kiểm toán.
+
+Một quan điểm bổ sung: khoản thuế hoãn lại phải trả không phải lúc nào cũng "sớm muộn phải nộp" như Tracy nói; với doanh nghiệp đang tăng trưởng và liên tục mua tài sản cố định mới, chênh lệch tạm thời mới phát sinh có thể bù cho phần đảo chiều, khiến khoản nợ này duy trì hoặc tăng trong nhiều năm, vì vậy một số nhà phân tích coi nó gần với vốn chủ sở hữu hơn là nợ (theo hiểu biết của người tổng hợp).
 
 ### Vận dụng cho nhà quản lý, người cho vay và nhà đầu tư
 - **Nhà quản lý:** lập kế hoạch dòng tiền phải tính tới lịch nộp thuế tạm tính trong năm; quyết định dùng phương pháp kế toán thuế khác (ví dụ khấu hao nhanh cho mục đích thuế) giúp hoãn thuế, nhưng chi phí thuế trên báo cáo không giảm, chỉ dòng tiền được lợi.
 - **Người cho vay:** so thuế thu nhập phải nộp với chi phí thuế; tỷ lệ cao bất thường có thể báo hiệu doanh nghiệp đang dùng tiền thuế để bù đắp thiếu hụt tiền mặt. Khoản thuế hoãn lại phải trả lớn cũng là nghĩa vụ trong tương lai cần tính tới.
 - **Nhà đầu tư:** thuế suất thực tế (chi phí thuế chia lợi nhuận trước thuế) biến động mạnh giữa các năm làm lợi nhuận ròng và EPS biến động theo; cần đọc bảng đối chiếu thuế trong thuyết minh để biết lợi nhuận tăng do hoạt động kinh doanh hay do giảm thuế một lần.
 - **Người đọc Việt Nam:** cơ chế tương tự tồn tại trong chế độ kế toán Việt Nam: chi phí thuế thu nhập doanh nghiệp trên báo cáo kết quả kinh doanh, khoản thuế và các khoản phải nộp nhà nước trên bảng cân đối kế toán, việc tạm nộp thuế trong năm và quyết toán sau khi kết thúc năm, cùng khái niệm thuế thu nhập hoãn lại phải trả và tài sản thuế thu nhập hoãn lại. Lời khuyên của Tracy áp dụng được trực tiếp: so khoản thuế còn phải nộp cuối kỳ với chi phí thuế cả năm, và đọc kỹ thuyết minh về thuế, nhất là khi doanh nghiệp đang bị thanh tra hoặc có tranh chấp thuế.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 11 trên một trang: sáu nhánh lớn đi theo các mục 1–3 của phần Nội dung chi tiết (Exhibit 11.1 với mối nối giữa chi phí thuế và thuế phải nộp, ai nộp thuế thu nhập và tính trên cơ sở nào, ví dụ chính và việc nộp thuế theo đợt, thuế hoãn lại và tính tạm thời của con số thuế) cùng phần Đánh giá, mỗi nhánh ghi định nghĩa, con số và cảnh báo then chốt; nhánh cuối là thông điệp xuyên suốt cho người đọc báo cáo tài chính.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 11: chi phí thuế thu nhập 1.748 trên báo cáo kết quả kinh doanh nối với thuế thu nhập phải nộp 165 trên bảng cân đối kế toán`"]
+  n1["`Mục 1 — Exhibit 11.1: mối nối giữa chi phí thuế và thuế phải nộp (nghìn USD)`"]
+  n0 --- n1
+  n2["`Doanh thu 52.000 trừ giá vốn 33.800, SG#amp;A 12.480, khấu hao 785, lãi vay 545 còn lợi nhuận trước thuế 4.390`"]
+  n1 --- n2
+  n3["`Chi phí thuế thu nhập 1.748 là khoản chi phí cuối cùng, lợi nhuận ròng còn 2.642`"]
+  n1 --- n3
+  n4["`Thuế thu nhập phải nộp cuối năm 165, chỉ khoảng 9,4% chi phí thuế cả năm`"]
+  n1 --- n4
+  n5["`Thuế phải nộp đầu năm 82, cuối năm 165, tăng 83 trong năm`"]
+  n1 --- n5
+  n6["`Tiền thuế đã nộp trong năm (người tổng hợp suy ra): 82 + 1.748 − 165 = 1.665`"]
+  n5 --- n6
+  n7["`Phần tăng 83 là chi phí chưa trả bằng tiền, cộng vào lợi nhuận ròng khi tính dòng tiền kinh doanh 3.105`"]
+  n5 --- n7
+  n8["`Tổng tài sản 35.500 bằng tổng nợ phải trả và vốn chủ sở hữu 35.500`"]
+  n1 --- n8
+  n9["`Mục 2 — Ai nộp thuế thu nhập và tính trên cơ sở nào`"]
+  n0 --- n9
+  n10["`Công ty cổ phần thông thường (C corporation) tự nộp thuế liên bang và tiểu bang trên thu nhập chịu thuế`"]
+  n9 --- n10
+  n11["`Thu nhập chịu thuế, nói gọn, là lợi nhuận trước thuế thu nhập`"]
+  n9 --- n11
+  n12["`Công ty S, công ty hợp danh, LLC là thực thể chuyển thu nhập: chủ sở hữu khai thu nhập trong tờ khai cá nhân`"]
+  n9 --- n12
+  n13["`Nhờ vậy tránh đánh thuế hai lần: ở công ty cổ phần, rồi ở cổ đông khi nhận cổ tức tiền mặt`"]
+  n12 --- n13
+  n14["`Cách đơn giản nhất để không nộp thuế là không có thu nhập chịu thuế hoặc bị lỗ theo cách tính thuế`"]
+  n9 --- n14
+  n15["`Có lãi thì phải chia một phần lợi nhuận trước thuế cho Uncle Sam và các tiểu bang`"]
+  n9 --- n15
+  n16["`Luật thuế cần hàng nghìn trang để định nghĩa thu nhập chịu thuế, đầy kẽ hở và lựa chọn giảm hoặc hoãn thuế`"]
+  n9 --- n16
+  n17["`Phần lớn doanh nghiệp thuê chuyên gia thuế để xác định thu nhập chịu thuế và giảm thuế phải nộp`"]
+  n16 --- n17
+  n18["`Mục 2 (tiếp) — Ví dụ chính và nộp thuế theo đợt`"]
+  n0 --- n18
+  n19["`Giả định đơn giản hoá: kế toán báo cáo giống hệt kế toán thuế, nên thu nhập chịu thuế bằng 4.390`"]
+  n18 --- n19
+  n20["`Thuế 1.748 / 4.390 = 39,8%, Tracy làm tròn khoảng 40%, không tách phần liên bang và tiểu bang`"]
+  n18 --- n20
+  n21["`Luật liên bang buộc nộp thuế tạm tính nhiều đợt, cuối năm đã nộp gần đủ 100% thuế cả năm`"]
+  n18 --- n21
+  n22["`Một phần nhỏ chưa nộp cuối năm không bị phạt, ví dụ còn 165 trong tài khoản thuế phải nộp`"]
+  n21 --- n22
+  n23["`Quốc hội liên tục tinh chỉnh luật: bịt kẽ hở cũ, mở kẽ hở mới, đổi thuế suất`"]
+  n18 --- n23
+  n24["`Vì vậy tỷ lệ thuế còn nợ cuối năm khó dự đoán`"]
+  n23 --- n24
+  n25["`Cảnh báo: thuế còn nợ cuối năm là phần lớn chi phí thuế cả năm thì hãy xem xét kỹ hơn`"]
+  n18 --- n25
+  n26["`Mục 3 — Thuế hoãn lại và tính tạm thời của con số thuế`"]
+  n0 --- n26
+  n27["`Doanh nghiệp được dùng phương pháp kế toán thuế khác kế toán báo cáo để hoãn nộp thuế`"]
+  n26 --- n27
+  n28["`Chuẩn mực buộc chi phí thuế trên báo cáo ở mức bình thường, khớp với lợi nhuận trước thuế`"]
+  n26 --- n28
+  n29["`Ví dụ: lợi nhuận trước thuế 10.000.000 USD, thuế bình thường 3.500.000, thuế thực nợ 2.500.000`"]
+  n26 --- n29
+  n30["`Chênh lệch 1.000.000 ghi vào thuế thu nhập hoãn lại phải trả vì sớm muộn phải nộp`"]
+  n29 --- n30
+  n31["`Điều kiện: chênh lệch tạm thời, về sau đảo chiều thì doanh nghiệp nợ thuế nhiều hơn số báo cáo`"]
+  n29 --- n31
+  n32["`Nếu chỉ ghi 2.500.000, lợi nhuận ròng 7.500.000 cao hơn mức hợp lý 6.500.000`"]
+  n29 --- n32
+  n33["`Thuế phải nộp là thuế năm nay chưa nộp, thuế hoãn lại chỉ nộp khi chênh lệch đảo chiều`"]
+  n26 --- n33
+  n34["`Thuyết minh phải có bảng đối chiếu thuế thực nợ với chi phí thuế bình thường, một trong những thuyết minh khó nhất`"]
+  n26 --- n34
+  n35["`Báo cáo tài chính có điều kiện và tạm thời: kế toán viên không có quả cầu pha lê`"]
+  n26 --- n35
+  n36["`IRS có thể không đồng ý với tờ khai, thanh tra toàn diện, đòi thêm thuế hoặc hoàn thuế`"]
+  n35 --- n36
+  n37["`Đánh giá — Giới hạn của chương và thay đổi từ năm 2009`"]
+  n0 --- n37
+  n38["`Chương hoàn thiện chuỗi mối nối: mọi dòng báo cáo kết quả kinh doanh đã gắn với tài sản hoặc khoản nợ`"]
+  n37 --- n38
+  n39["`Thực tế thu nhập chịu thuế hiếm khi bằng lợi nhuận trước thuế: khấu hao nhanh, chi phí không được trừ, ưu đãi, lỗ chuyển sang`"]
+  n37 --- n39
+  n40["`Ví dụ 10 triệu USD dùng 35%, khác 40% của doanh nghiệp ví dụ mà không giải thích`"]
+  n37 --- n40
+  n41["`Sách bỏ qua tài sản thuế thu nhập hoãn lại, phát sinh khi thuế thực nộp cao hơn chi phí thuế báo cáo`"]
+  n37 --- n41
+  n42["`Từ 2018 thuế thu nhập doanh nghiệp liên bang Mỹ cố định 21%, thay mức cao nhất 35% thời Tracy viết`"]
+  n37 --- n42
+  n43["`Chuẩn mực nay nằm trong ASC 740, gồm FIN 48 về vị thế thuế không chắc chắn, quốc tế là IAS 12`"]
+  n37 --- n43
+  n44["`Thuế hoãn lại phải trả có thể duy trì nhiều năm ở doanh nghiệp tăng trưởng, có nhà phân tích coi gần vốn chủ sở hữu`"]
+  n37 --- n44
+  n45["`Thông điệp xuyên suốt`"]
+  n0 --- n45
+  n46["`So thuế thu nhập phải nộp với chi phí thuế cả năm, tỷ lệ cao bất thường là dấu hiệu cần hỏi`"]
+  n45 --- n46
+  n47["`Có thể do chậm nộp thuế, khó khăn về tiền hoặc tranh chấp với cơ quan thuế`"]
+  n46 --- n47
+  n48["`Thuế suất thực tế = chi phí thuế / lợi nhuận trước thuế, biến động mạnh làm lợi nhuận ròng và EPS biến động`"]
+  n45 --- n48
+  n49["`Đọc bảng đối chiếu thuế để biết lợi nhuận tăng do kinh doanh hay do giảm thuế một lần`"]
+  n45 --- n49
+  n50["`Mọi con số thuế trên báo cáo tài chính là tạm thời, có thể bị điều chỉnh sau`"]
+  n45 --- n50
+  class n0 root
+  class n1,n9,n18,n26,n37,n45 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n17,n19,n20,n21,n22,n23,n24,n25,n27,n28,n29,n30,n31,n32,n33,n34,n35,n36,n38,n39,n40,n41,n42,n43,n44,n46,n47,n48,n49,n50 leaf
+```
+
+## Nguồn
+
+John A. Tracy, *How to Read a Financial Report: Wringing Vital Signs Out of the Numbers*, ấn bản thứ bảy (John Wiley & Sons, 2009), Phần Một "Components and Connections in Financial Statements", Chương 11 "Income Tax Expense and Its Liability", trang in 72–77 (Exhibit 11.1 ở trang 72, trang tên chương ở trang 73, phần chữ ở trang 74–77).
+
+## Tác giả
+
+John A. Tracy, giáo sư kế toán danh dự Đại học Colorado ở Boulder, kế toán viên công chứng (CPA).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Từ Chương 4 đến Chương 10, Tracy đi lần lượt từ trên xuống dưới báo cáo kết quả kinh doanh của doanh nghiệp ví dụ và với mỗi khoản mục chỉ ra khoản mục tương ứng trên bảng cân đối kế toán: doanh thu với phải thu khách hàng ([Chương 4](C04-doanh-thu-va-phai-thu-khach-hang.md)), giá vốn hàng bán với hàng tồn kho và phải trả người bán (Chương 5–6), chi phí hoạt động với phải trả người bán và chi phí trả trước (Chương 7–8), khấu hao với tài sản cố định ([Chương 9](C09-mot-chi-phi-dac-biet-khau-hao.md)), và chi phí chưa trả (kể cả lãi vay) với chi phí phải trả ([Chương 10](C10-ghi-nhan-chi-phi-phai-tra.md)).
+
+Chương 11 xử lý khoản chi phí cuối cùng trước dòng lợi nhuận ròng: chi phí thuế thu nhập 1.748 nghìn USD, và mối nối của nó với khoản nợ "thuế thu nhập phải nộp" 165 nghìn USD trên bảng cân đối kế toán. Chương này cũng giới thiệu thoáng qua khái niệm thuế thu nhập hoãn lại phải trả.
+
+[Chương 12](C12-loi-nhuan-rong-loi-nhuan-giu-lai-va-eps.md) đi tiếp xuống dòng cuối cùng (lợi nhuận ròng 2.642 nghìn USD chuyển vào lợi nhuận giữ lại và EPS), còn [Chương 13](C13-dong-tien-tu-hoat-dong-kinh-doanh.md) dùng phần tăng 83 nghìn USD của thuế thu nhập phải nộp như một khoản cộng vào khi tính dòng tiền từ hoạt động kinh doanh.
+
+## Lưu ý
+
+- **Exhibit 11.1 nằm ở trang in 72, trước trang tên chương (trang 73).** Câu mở đầu của Tracy "Please refer to Exhibit 11.1 at the start of the chapter" đúng theo nghĩa đó: bảng nằm ở trang trái đối diện trang tên chương. Trang PDF 90 (trang in 78) trong khoảng trang được giao thực ra là Exhibit 12.1 của Chương 12, không thuộc Chương 11.
+- **Kiểm tra số học của Exhibit 11.1: mọi phép cộng trừ đều đúng.** Báo cáo kết quả kinh doanh: 52.000 − 33.800 − 12.480 − 785 − 545 − 1.748 = 2.642. Tổng tài sản: 3.265 + 5.000 + 8.450 + 960 + 16.500 − 4.250 + 5.575 = 35.500. Tổng nợ phải trả và vốn chủ sở hữu: 3.320 + 1.515 + 165 + 3.125 + 4.250 + 8.125 + 15.000 = 35.500. Exhibit 11.1 không in các dòng tổng phụ (lợi nhuận gộp, lợi nhuận trước lãi vay và thuế, lợi nhuận trước thuế) và không in số cổ phiếu cạnh dòng vốn cổ phần; các số đó lấy từ Exhibit 2.1 và 2.2 của Chương 2.
+- **"Khoảng 40%" là làm tròn:** 1.748 / 4.390 = 39,82%. Tracy không chia con số này ra thành phần thuế liên bang và phần thuế tiểu bang, cũng không nêu thuế suất từng phần; ông chỉ nói việc tính "không đơn giản vì nhiều yếu tố".
+- **Một câu viết lỏng trong ví dụ thuế hoãn lại (trang 76):** Tracy viết "the normal income tax would be $3,500,000 on this amount of taxable income", trong khi "this amount" là 10.000.000 USD lợi nhuận trước thuế trên báo cáo kết quả kinh doanh, không phải thu nhập chịu thuế (thu nhập chịu thuế trên tờ khai thấp hơn, đó chính là lý do thuế thực nợ chỉ 2.500.000 USD). Nên hiểu: 3.500.000 USD là số thuế "bình thường" tính trên 10.000.000 USD lợi nhuận trước thuế (tương ứng thuế suất 35%). Tỷ lệ 35% trong ví dụ này cũng khác tỷ lệ khoảng 40% của doanh nghiệp ví dụ chính; Tracy không giải thích, có lẽ vì ví dụ 10 triệu chỉ tính thuế liên bang (theo suy đoán của người tổng hợp).
+- **Số thuế đã nộp trong năm không được Tracy tính ra trong chương này.** Người tổng hợp tính từ Exhibit 2.1: đầu năm còn nợ 82, chi phí thuế trong năm 1.748, cuối năm còn nợ 165, vậy số tiền thuế đã nộp trong năm là 82 + 1.748 − 165 = 1.665 nghìn USD (giả định toàn bộ 82 nợ đầu năm đã nộp trong năm).
+- **Quy định Mỹ đã khác so với năm 2008–2009 (theo hiểu biết của người tổng hợp, không tra cứu):**
+  - Đạo luật Cắt giảm Thuế và Việc làm (Tax Cuts and Jobs Act) đưa thuế suất thuế thu nhập doanh nghiệp liên bang về mức cố định 21% từ năm 2018, thay cho biểu thuế luỹ tiến cao nhất 35% thời Tracy viết; do đó tỷ lệ "khoảng 40%" (liên bang cộng tiểu bang) nay sẽ thấp hơn nhiều với một doanh nghiệp tương tự.
+  - Cùng đạo luật đó cho chủ sở hữu các thực thể chuyển thu nhập một khoản giảm trừ trên thu nhập kinh doanh đủ điều kiện, nên phép so sánh "thuế hai lần" giữa hai loại hình đã thay đổi.
+  - Chuẩn mực về thuế thu nhập nay nằm trong ASC 740 của Bộ chuẩn mực FASB (FASB Accounting Standards Codification); từ khoảng năm 2017 mọi khoản thuế hoãn lại được trình bày là dài hạn trên bảng cân đối kế toán.
+  - FIN 48 (2006, nay trong ASC 740) đã yêu cầu doanh nghiệp ghi nhận và thuyết minh "vị thế thuế không chắc chắn" (uncertain tax positions), tức đúng rủi ro IRS đòi thêm thuế mà Tracy mô tả ở cuối chương, nhưng sách không nhắc tới.
+  - FASB ban hành ASU 2023-09 yêu cầu thuyết minh chi tiết hơn về bảng đối chiếu thuế suất và số thuế đã nộp theo từng nơi.
+  - Ở tầm quốc tế đã có thuế tối thiểu toàn cầu 15% (Trụ cột Hai của OECD), và Mỹ có thuế tối thiểu 15% tính trên lợi nhuận kế toán của các tập đoàn rất lớn (từ 2023).
+- Các câu trích trong mục "Câu nói đáng nhớ" là bản dịch của người tổng hợp.

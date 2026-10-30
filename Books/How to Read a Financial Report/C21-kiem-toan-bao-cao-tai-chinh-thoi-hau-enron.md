@@ -1,21 +1,22 @@
 # Chương 21 — Kiểm toán báo cáo tài chính thời hậu Enron (Audits of Financial Reports in the Post-Enron Era)
 
-**Nguồn:** John A. Tracy, *How to Read a Financial Report: Wringing Vital Signs Out of the Numbers*, ấn bản thứ bảy (John Wiley & Sons, 2009), Phần Ba "Reliability of Financial Reports", Chương 21 "Audits of Financial Reports in the Post-Enron Era", trang in 173–186 (trang in 173 là trang tên chương; nội dung chương nằm ở trang in 174–185; trang in 186 để trắng).
-**Tác giả:** John A. Tracy, giáo sư kế toán danh dự Đại học Colorado ở Boulder, kế toán viên công chứng (CPA).
-**Vị trí trong lập luận của cả cuốn sách:** Phần Một (Chương 1–15) dạy cách các khoản mục của báo cáo kết quả kinh doanh nối với bảng cân đối kế toán và với dòng tiền; Phần Hai (Chương 16–18) dạy cách phân tích các con số đó. Phần Ba hỏi: các con số ấy có đáng tin không? Chương 19 ([C19](C19-chuan-muc-ke-toan-va-bao-cao-tai-chinh.md)) giới thiệu luật chơi, tức nguyên tắc kế toán được chấp nhận chung (GAAP) và các cơ quan đặt chuẩn mực. Chương 20 ([C20](C20-phuong-phap-ke-toan-va-lam-dep-so-lieu.md)) cho thấy ngay trong luật chơi đó, nhà quản lý vẫn có chỗ để chọn phương pháp kế toán và làm đẹp số liệu (massaging the numbers), và nhắc tới hiện tượng trình bày lại báo cáo tài chính (restatement). Chương 21 trả lời câu hỏi tiếp theo: **ai kiểm tra xem doanh nghiệp có tuân thủ luật chơi không, kiểm tra tới mức nào, và người đọc nên hiểu báo cáo kiểm toán ra sao**. Chương 22 ([C22](C22-loi-ket.md)) là lời kết của cả cuốn sách.
-**Ý chính:** Tracy muốn người đọc hiểu rằng **kiểm toán của một công ty kế toán viên công chứng (CPA) độc lập làm tăng độ tin cậy của báo cáo tài chính, nhưng không phải là con dấu bảo đảm rằng báo cáo không có sai sót hay gian lận**. Mục đích chính của kiểm toán là xác nhận báo cáo tài chính được trình bày *trung thực và hợp lý* (fairness), tức tuân thủ GAAP và công bố đầy đủ, chứ không phải truy tìm gian lận. Kiểm toán viên chỉ kiểm tra *theo phương pháp chọn mẫu* (on a test basis), chỉ đem lại sự bảo đảm *hợp lý* chứ không tuyệt đối, và vì chi phí kiểm toán phải giữ ở mức hợp lý nên xã hội chấp nhận có một số cuộc kiểm toán thất bại. Bối cảnh của chương là làn sóng gian lận kế toán (WorldCom, Enron, Tyco, Ahold, Xerox, Rite Aid, Global Crossing, HealthSouth, Waste Management, Adelphia) mà phần lớn do các hãng kiểm toán "Big Five" kiểm toán; hãng Arthur Andersen bị kết tội cản trở công lý trong vụ Enron và gần như biến mất sau một đêm; Quốc hội Mỹ ban hành Đạo luật Sarbanes-Oxley năm 2002 (SOX) và lập ra Uỷ ban Giám sát Kế toán Công ty Đại chúng (PCAOB). Các con số trung tâm của chương: ở Mỹ có khoảng 10.000 công ty đại chúng (bắt buộc kiểm toán) so với hơn 9 triệu công ty, hợp danh, công ty trách nhiệm hữu hạn vì lợi nhuận và hàng triệu doanh nghiệp một chủ (không bắt buộc kiểm toán theo luật liên bang); để thành CPA cần ba điều kiện (học vấn, thường là 5 năm; thi CPA toàn quốc; kinh nghiệm, thường tối thiểu 1 năm) và thường phải học cập nhật 30–40 giờ mỗi năm; mẫu báo cáo kiểm toán chấp nhận toàn phần chuẩn dài 3 đoạn, 209 chữ tiếng Anh. Tracy dạy người đọc đọc báo cáo kiểm toán theo hai bước: (1) kiểm toán viên có đưa ra ý kiến chấp nhận toàn phần ("sạch") không; (2) báo cáo có thêm đoạn nào cho thấy điều gì kém hơn một ý kiến sạch không, và phân biệt bốn mức: ý kiến chấp nhận toàn phần, ý kiến ngoại trừ ("except for", là "cờ vàng"), ý kiến trái ngược (hiếm gặp), và từ chối đưa ra ý kiến hoặc rút khỏi hợp đồng kiểm toán.
+## Ý chính
 
-> **Lưu ý:**
-> - **Chương này có đúng một Exhibit (Exhibit 21.1, mẫu báo cáo kiểm toán chấp nhận toàn phần), nằm ở trang in 181 (PDF 193), giữa chương**, chứ không nằm ở trang trước trang tên chương như nhiều chương khác; trang PDF 184 (trước trang tên chương) và PDF 198 (trang in 186) đều trắng. Toàn văn tiếng Anh của mẫu báo cáo được chép nguyên văn ở mục 5 của Nội dung chi tiết, kèm bản dịch. Chương **không có mục "Accounting Issues"** ở cuối và không có ví dụ số của doanh nghiệp ví dụ (doanh thu 52 triệu USD); toàn chương là văn xuôi.
-> - **Mẫu báo cáo trong Exhibit 21.1 là mẫu của Uỷ ban Chuẩn mực Kiểm toán (Auditing Standards Board) thuộc AICPA, dùng cho công ty không niêm yết.** Tracy giới thiệu nó như "mẫu chuẩn" nói chung. Theo hiểu biết của người tổng hợp, không tra cứu: từ năm 2004, báo cáo kiểm toán của công ty đại chúng Mỹ phải ghi là cuộc kiểm toán được thực hiện "theo các chuẩn mực của PCAOB (Hoa Kỳ)" (standards of the Public Company Accounting Oversight Board (United States)), chứ không phải "theo các chuẩn mực kiểm toán được chấp nhận chung tại Hoa Kỳ" như trong Exhibit 21.1. Chính Tracy cũng viết ở mục Post-SOX rằng PCAOB nắm quy tắc kiểm toán công ty đại chúng, nhưng không nói rằng điều đó làm câu chữ báo cáo kiểm toán công ty đại chúng khác mẫu này.
-> - **Mốc thời gian bị viết gọn.** Tracy viết các vụ gian lận "trong hai thập niên cuối của thế kỷ 20", rồi liệt kê WorldCom, Enron, Tyco, Ahold, Global Crossing, HealthSouth, Adelphia. Theo hiểu biết của người tổng hợp, phần lớn các vụ này bị phát hiện trong những năm 2001–2003 (Enron sụp đổ cuối năm 2001; WorldCom, Tyco, Adelphia, Global Crossing năm 2002; HealthSouth, Ahold năm 2003), dù hành vi sai phạm thường bắt đầu từ cuối thập niên 1990. Waste Management (1997–1998), Rite Aid (1999) và Xerox (2000–2002) thì sớm hơn.
-> - **Vụ Arthur Andersen: sách bỏ qua diễn biến sau.** Tracy viết Arthur Andersen "bị kết tội cản trở công lý". Theo hiểu biết của người tổng hợp, bản án năm 2002 đã bị Toà án Tối cao Mỹ huỷ năm 2005 (vì hướng dẫn cho bồi thẩm đoàn có sai sót), nhưng khi đó hãng đã mất gần hết khách hàng và nhân sự nên không thể hoạt động lại.
-> - **PCAOB không hẳn là "một nhánh của SEC".** Tracy gọi PCAOB là "cơ quan liên bang mới", "một nhánh của Uỷ ban Chứng khoán và Giao dịch Mỹ (SEC)". Theo hiểu biết của người tổng hợp, về mặt pháp lý PCAOB được lập như một tổ chức phi lợi nhuận, không phải cơ quan chính phủ; SEC giám sát PCAOB, bổ nhiệm các thành viên hội đồng, phê duyệt quy tắc và ngân sách của PCAOB. Nói "chịu sự giám sát của SEC" thì chính xác hơn.
-> - **Cam kết của lãnh đạo: không chỉ CEO.** Tracy viết "CEO phải xác nhận" báo cáo tài chính trình bày trung thực. Theo hiểu biết của người tổng hợp, theo Điều 302 và Điều 906 của SOX, cả tổng giám đốc điều hành (CEO) và giám đốc tài chính (CFO) đều phải ký xác nhận. Tracy cũng chỉ nói ban giám đốc phải nêu ý kiến về kiểm soát nội bộ (Điều 404(a)); ông không nhắc Điều 404(b): với các công ty đại chúng cỡ lớn, kiểm toán viên còn phải đưa ra ý kiến riêng về hiệu quả của kiểm soát nội bộ đối với báo cáo tài chính (kiểm toán "tích hợp").
-> - **"Kiểm toán viên không thổi còi ra ngoài công ty" là cách nói gọn.** Tracy viết kiểm toán viên không tố giác ra ngoài phạm vi nội bộ công ty, chỉ phải báo cho SEC khi rút khỏi hợp đồng. Theo hiểu biết của người tổng hợp, từ năm 1995, Điều 10A của Luật Giao dịch Chứng khoán Mỹ (Securities Exchange Act) buộc kiểm toán viên công ty đại chúng phát hiện hành vi bất hợp pháp có ảnh hưởng trọng yếu phải báo cho hội đồng quản trị; nếu hội đồng không có biện pháp phù hợp và công ty không tự báo cho SEC, kiểm toán viên phải báo thẳng cho SEC. Ngoài ra, khi đổi kiểm toán viên, chính công ty phải công bố việc này cho SEC (báo cáo bất thường), kèm thư của kiểm toán viên cũ nói có đồng ý với nội dung công bố không.
-> - **Câu "kiểm toán viên không nói gì về gian lận trong báo cáo kiểm toán" chỉ đúng với mẫu cũ.** Mẫu năm 2009 (Exhibit 21.1) đúng là không có chữ "fraud". Theo hiểu biết của người tổng hợp, các mẫu báo cáo kiểm toán hiện hành của cả PCAOB và AICPA đều ghi rõ kiểm toán nhằm có được sự bảo đảm hợp lý rằng báo cáo không có sai sót trọng yếu "dù do nhầm lẫn hay gian lận" (whether due to error or fraud). Chi tiết ở phần Đánh giá.
-> - **Số liệu đã cũ.** Con số "khoảng 10.000 công ty đại chúng ở Mỹ" và "Big Four" là tình hình năm 2008. Theo hiểu biết của người tổng hợp, số công ty niêm yết trên các sở giao dịch Mỹ đã giảm đáng kể so với cuối thập niên 1990 (còn khoảng 4.000–5.000 công ty niêm yết trong thập niên 2010–2020, dù số đơn vị phải nộp báo cáo cho SEC lớn hơn); Big Four (Deloitte, PwC, EY, KPMG) vẫn là bốn hãng lớn nhất.
-> - Các câu trích trong mục Câu nói đáng nhớ là bản dịch của người tổng hợp. Mẫu báo cáo kiểm toán ở Exhibit 21.1 được chép nguyên văn theo yêu cầu, vì đây là văn bản mẫu của nghề kiểm toán.
+Tracy muốn người đọc hiểu rằng **kiểm toán của một công ty kế toán viên công chứng (CPA) độc lập làm tăng độ tin cậy của báo cáo tài chính, nhưng không phải là con dấu bảo đảm rằng báo cáo không có sai sót hay gian lận**.
+
+Mục đích chính của kiểm toán là xác nhận báo cáo tài chính được trình bày *trung thực và hợp lý* (fairness), tức tuân thủ GAAP và công bố đầy đủ, chứ không phải truy tìm gian lận. Kiểm toán viên chỉ kiểm tra *theo phương pháp chọn mẫu* (on a test basis), chỉ đem lại sự bảo đảm *hợp lý* chứ không tuyệt đối, và vì chi phí kiểm toán phải giữ ở mức hợp lý nên xã hội chấp nhận có một số cuộc kiểm toán thất bại.
+
+Bối cảnh của chương là làn sóng gian lận kế toán (WorldCom, Enron, Tyco, Ahold, Xerox, Rite Aid, Global Crossing, HealthSouth, Waste Management, Adelphia) mà phần lớn do các hãng kiểm toán "Big Five" kiểm toán.
+
+Hãng Arthur Andersen bị kết tội cản trở công lý trong vụ Enron và gần như biến mất sau một đêm. Quốc hội Mỹ ban hành Đạo luật Sarbanes-Oxley năm 2002 (SOX) và lập ra Uỷ ban Giám sát Kế toán Công ty Đại chúng (PCAOB).
+
+Các con số trung tâm của chương:
+
+- ở Mỹ có khoảng 10.000 công ty đại chúng (bắt buộc kiểm toán) so với hơn 9 triệu công ty, hợp danh, công ty trách nhiệm hữu hạn vì lợi nhuận và hàng triệu doanh nghiệp một chủ (không bắt buộc kiểm toán theo luật liên bang);
+- để thành CPA cần ba điều kiện (học vấn, thường là 5 năm; thi CPA toàn quốc; kinh nghiệm, thường tối thiểu 1 năm) và thường phải học cập nhật 30–40 giờ mỗi năm;
+- mẫu báo cáo kiểm toán chấp nhận toàn phần chuẩn dài 3 đoạn, 209 chữ tiếng Anh.
+
+Tracy dạy người đọc đọc báo cáo kiểm toán theo hai bước: (1) kiểm toán viên có đưa ra ý kiến chấp nhận toàn phần ("sạch") không; (2) báo cáo có thêm đoạn nào cho thấy điều gì kém hơn một ý kiến sạch không, và phân biệt bốn mức: ý kiến chấp nhận toàn phần, ý kiến ngoại trừ ("except for", là "cờ vàng"), ý kiến trái ngược (hiếm gặp), và từ chối đưa ra ý kiến hoặc rút khỏi hợp đồng kiểm toán.
 
 ## Sơ đồ
 
@@ -420,11 +421,15 @@ Kinh nghiệm làm kế toán công chứng là bàn đạp tốt cho các cơ h
 
 **Công ty đại chúng: bắt buộc.** Các công ty có chứng khoán nợ hoặc cổ phiếu được giao dịch công khai bị luật chứng khoán liên bang buộc phải để một hãng CPA độc lập kiểm toán báo cáo tài chính năm. Phần lớn các ước tính cho rằng ở Mỹ có khoảng 10.000 công ty đại chúng.
 
-**Doanh nghiệp tư nhân: không bắt buộc theo luật liên bang.** Doanh nghiệp tư nhân không thuộc phạm vi luật chứng khoán liên bang, nhưng chịu các luật bang áp dụng cho mình. Có hơn chín triệu công ty cổ phần, công ty hợp danh và công ty trách nhiệm hữu hạn vì lợi nhuận, cùng hàng triệu doanh nghiệp một chủ. Dù không *bị luật bắt buộc*, nhiều doanh nghiệp tư nhân vẫn thuê hãng CPA kiểm toán báo cáo năm. Tracy kể ông từng là thành viên hội đồng quản trị (và là cổ đông) của một ngân hàng tư nhân, và ngân hàng năm nào cũng được CPA kiểm toán. Nên hỏi luật sư về luật công ty và luật chứng khoán của bang, vì trong một số tình huống có thể phải kiểm toán. Một doanh nghiệp tư nhân cũng có thể ký hợp đồng hoặc thoả thuận không chính thức về việc kiểm toán báo cáo năm, như một điều kiện để vay tiền hoặc khi phát hành cổ phiếu cho nhà đầu tư mới.
+**Doanh nghiệp tư nhân: không bắt buộc theo luật liên bang.** Doanh nghiệp tư nhân không thuộc phạm vi luật chứng khoán liên bang, nhưng chịu các luật bang áp dụng cho mình. Có hơn chín triệu công ty cổ phần, công ty hợp danh và công ty trách nhiệm hữu hạn vì lợi nhuận, cùng hàng triệu doanh nghiệp một chủ.
+
+Dù không *bị luật bắt buộc*, nhiều doanh nghiệp tư nhân vẫn thuê hãng CPA kiểm toán báo cáo năm. Tracy kể ông từng là thành viên hội đồng quản trị (và là cổ đông) của một ngân hàng tư nhân, và ngân hàng năm nào cũng được CPA kiểm toán. Nên hỏi luật sư về luật công ty và luật chứng khoán của bang, vì trong một số tình huống có thể phải kiểm toán. Một doanh nghiệp tư nhân cũng có thể ký hợp đồng hoặc thoả thuận không chính thức về việc kiểm toán báo cáo năm, như một điều kiện để vay tiền hoặc khi phát hành cổ phiếu cho nhà đầu tư mới.
 
 **Lợi ích: độ tin cậy.** Nếu không bị bắt buộc, doanh nghiệp có nên thuê CPA kiểm toán không? Được gì? Về cơ bản, kiểm toán làm tăng *độ tin cậy* (credibility) của báo cáo tài chính. Báo cáo đã kiểm toán có "chỉ số đáng tin" (believability index) cao hơn báo cáo chưa kiểm toán. Kiểm toán của CPA giúp bảo vệ người đọc khỏi báo cáo gây hiểu lầm. Kiểm toán viên CPA là những "thám tử kế toán" lành nghề, hiểu thấu đáo các chuẩn mực kế toán và báo cáo tài chính. Vì độc lập với doanh nghiệp, kiểm toán viên CPA không được dung thứ một báo cáo tài chính gây hiểu lầm.
 
-**Chi phí: không rẻ.** CPA là người làm nghề chuyên môn, đòi phí cao. Doanh nghiệp không thể đòi một cuộc kiểm toán "qua loa" với giá rẻ: "kiểm toán là kiểm toán". Kiểm toán viên của doanh nghiệp tư nhân phải tuân theo *chuẩn mực kiểm toán được chấp nhận chung* (generally accepted auditing standards, GAAS); kiểm toán viên của công ty đại chúng phải tuân theo quy định của cơ quan liên bang do Đạo luật Sarbanes-Oxley 2002 lập ra. Vi phạm chuẩn mực và quy định kiểm toán có thể dẫn tới bị kiện, bị cơ quan quản lý liên bang xử phạt và tất nhiên làm tổn hại uy tín nghề nghiệp của CPA. Kiểm toán tốn nhiều thời gian vì CPA phải xem xét rất nhiều bằng chứng và kiểm tra nhiều lần sổ sách kế toán trước khi đưa ra ý kiến về báo cáo tài chính; chính thời gian này làm chi phí kiểm toán tương đối cao. Một doanh nghiệp không bị luật bắt buộc kiểm toán phải tự hỏi: độ tin cậy tăng thêm của báo cáo có đáng với chi phí kiểm toán không?
+**Chi phí: không rẻ.** CPA là người làm nghề chuyên môn, đòi phí cao. Doanh nghiệp không thể đòi một cuộc kiểm toán "qua loa" với giá rẻ: "kiểm toán là kiểm toán". Kiểm toán viên của doanh nghiệp tư nhân phải tuân theo *chuẩn mực kiểm toán được chấp nhận chung* (generally accepted auditing standards, GAAS); kiểm toán viên của công ty đại chúng phải tuân theo quy định của cơ quan liên bang do Đạo luật Sarbanes-Oxley 2002 lập ra.
+
+Vi phạm chuẩn mực và quy định kiểm toán có thể dẫn tới bị kiện, bị cơ quan quản lý liên bang xử phạt và tất nhiên làm tổn hại uy tín nghề nghiệp của CPA. Kiểm toán tốn nhiều thời gian vì CPA phải xem xét rất nhiều bằng chứng và kiểm tra nhiều lần sổ sách kế toán trước khi đưa ra ý kiến về báo cáo tài chính; chính thời gian này làm chi phí kiểm toán tương đối cao. Một doanh nghiệp không bị luật bắt buộc kiểm toán phải tự hỏi: độ tin cậy tăng thêm của báo cáo có đáng với chi phí kiểm toán không?
 
 **Khi nào doanh nghiệp chọn kiểm toán.** Ngân hàng có thể đòi kiểm toán làm điều kiện cho vay. Cổ đông bên ngoài (không tham gia quản lý) có thể đòi kiểm toán hằng năm để bảo vệ khoản đầu tư. Trong các trường hợp này, phí kiểm toán có thể xem là một phần chi phí của việc sử dụng vốn bên ngoài. Tuy nhiên, trong nhiều trường hợp nhà đầu tư và chủ nợ bên ngoài không đòi kiểm toán. Dù vậy, doanh nghiệp vẫn có thể chọn kiểm toán như một lần "kiểm tra sức khoẻ" hệ thống kế toán, hoặc thấy cần một đợt kiểm tra an ninh: một cuộc xem xét độc lập tập trung vào việc doanh nghiệp có dễ bị gian lận, biển thủ hay không.
 
@@ -432,13 +437,17 @@ Kinh nghiệm làm kế toán công chứng là bàn đạp tốt cho các cơ h
 
 Tracy so sánh: mục đích của kiểm toán báo cáo tài chính giống lý do một người đi khám sức khoẻ tổng quát mỗi năm một lần. Bác sĩ làm các xét nghiệm chuẩn, đánh giá tình trạng chung, đồng thời để ý những dấu hiệu bất thường. Trừ khi có lý do để nghi ung thư hay bệnh tim, bác sĩ không làm các kiểm tra chuyên sâu cho những bệnh này; chẳng hạn bác sĩ không chỉ định chụp X-quang trừ khi nghi có vấn đề cần thủ tục bổ sung đó.
 
-Kiểm toán viên CPA bắt buộc phải lập kế hoạch thủ tục kiểm toán để tìm gian lận kế toán có thể có và nhận diện những điểm yếu kiểm soát nội bộ có thể khiến gian lận không bị phát hiện. Dù vậy, mục đích chính của kiểm toán vẫn là đưa ra ý kiến về tính trung thực và hợp lý của báo cáo tài chính (gồm cả thuyết minh), và báo cáo có tuân thủ nguyên tắc kế toán được chấp nhận chung (GAAP, ở Mỹ) hay không. Gian lận tất nhiên phá hỏng tính toàn vẹn của báo cáo, nên kiểm toán viên phải để ý mọi loại gian lận (cũng như sai sót kế toán). Nhưng trong báo cáo kiểm toán, CPA không nói gì về gian lận; không có câu kiểu "Chúng tôi đã tìm gian lận nhưng không thấy". Điều kiểm toán viên thực sự nói được trình bày ở mục tiếp theo.
+Kiểm toán viên CPA bắt buộc phải lập kế hoạch thủ tục kiểm toán để tìm gian lận kế toán có thể có và nhận diện những điểm yếu kiểm soát nội bộ có thể khiến gian lận không bị phát hiện. Dù vậy, mục đích chính của kiểm toán vẫn là đưa ra ý kiến về tính trung thực và hợp lý của báo cáo tài chính (gồm cả thuyết minh), và báo cáo có tuân thủ nguyên tắc kế toán được chấp nhận chung (GAAP, ở Mỹ) hay không.
+
+Gian lận tất nhiên phá hỏng tính toàn vẹn của báo cáo, nên kiểm toán viên phải để ý mọi loại gian lận (cũng như sai sót kế toán). Nhưng trong báo cáo kiểm toán, CPA không nói gì về gian lận; không có câu kiểu "Chúng tôi đã tìm gian lận nhưng không thấy". Điều kiểm toán viên thực sự nói được trình bày ở mục tiếp theo.
 
 ### 5. Ý kiến kiểm toán chấp nhận toàn phần (Clean Audit Opinion, trang in 180–181)
 
 **Phạm vi bàn luận.** Tracy nói rõ: ông chỉ bàn *kiểm toán báo cáo tài chính doanh nghiệp do CPA thực hiện*. Có nhiều loại kiểm toán khác, như kiểm toán tờ khai thuế thu nhập của bạn bởi Sở Thuế Mỹ (Internal Revenue Service, IRS), kiểm toán các chương trình có tiền liên bang bởi Văn phòng Trách nhiệm Giải trình Chính phủ (Government Accountability Office, GAO), kiểm toán do bộ phận kiểm toán nội bộ của một tổ chức thực hiện, v.v. Phần này chỉ bàn kiểm toán của CPA đối với báo cáo tài chính mà doanh nghiệp công bố ra bên ngoài, chủ yếu cho người cho vay, cổ đông và những người có quyền chính đáng được nhận báo cáo.
 
-**Người đọc cần ý kiến, nhưng thường không đọc kỹ.** Người đọc báo cáo tài chính không mấy quan tâm kiểm toán được thực hiện thế nào, và cũng không cần quan tâm. Điều cốt lõi với họ là *ý kiến* của kiểm toán viên CPA. Họ nên đọc kỹ ý kiến đó, dù có bằng chứng cho thấy phần lớn không đọc, hoặc cùng lắm chỉ liếc qua. Có vẻ nhiều người cho rằng chỉ riêng việc báo cáo đã được kiểm toán là đủ bảo vệ; họ cho rằng CPA sẽ không dính tên vào một báo cáo sai hay gây hiểu lầm. Nhiều người dường như nghĩ rằng hễ hãng CPA đưa ra ý kiến, tức là gắn tên mình với báo cáo, thì báo cáo và thuyết minh hẳn ổn và không sai ở điểm quan trọng nào. Ý kiến của CPA có phải là con dấu phê duyệt không? Tracy trả lời: "Không, không nhất thiết!"
+**Người đọc cần ý kiến, nhưng thường không đọc kỹ.** Người đọc báo cáo tài chính không mấy quan tâm kiểm toán được thực hiện thế nào, và cũng không cần quan tâm. Điều cốt lõi với họ là *ý kiến* của kiểm toán viên CPA. Họ nên đọc kỹ ý kiến đó, dù có bằng chứng cho thấy phần lớn không đọc, hoặc cùng lắm chỉ liếc qua.
+
+Có vẻ nhiều người cho rằng chỉ riêng việc báo cáo đã được kiểm toán là đủ bảo vệ; họ cho rằng CPA sẽ không dính tên vào một báo cáo sai hay gây hiểu lầm. Nhiều người dường như nghĩ rằng hễ hãng CPA đưa ra ý kiến, tức là gắn tên mình với báo cáo, thì báo cáo và thuyết minh hẳn ổn và không sai ở điểm quan trọng nào. Ý kiến của CPA có phải là con dấu phê duyệt không? Tracy trả lời: "Không, không nhất thiết!"
 
 **Ý kiến chấp nhận toàn phần.** Ý kiến kiểm toán tốt nhất gọi là *ý kiến chấp nhận toàn phần* (unqualified opinion), thường gọi là ý kiến "sạch" (clean). Câu chữ chuẩn ba đoạn của ý kiến sạch, do Uỷ ban Chuẩn mực Kiểm toán (Auditing Standards Board) thuộc AICPA khuyến nghị, được chép dưới đây.
 
@@ -481,13 +490,17 @@ Bảng tóm tắt cấu trúc của mẫu:
 
 Lưu ý về mẫu: các báo cáo được kiểm toán gồm bảng cân đối kế toán, báo cáo kết quả kinh doanh, báo cáo lợi nhuận giữ lại và báo cáo lưu chuyển tiền tệ; mẫu dùng số liệu hai năm (20X2 và 20X1), giống cách doanh nghiệp ví dụ của sách trình bày "năm trước" và "năm nay". Chữ "[at]" trong ngoặc vuông cho thấy người viết có thể dùng "as of" hoặc "at" trước ngày.
 
-**Ý kiến sạch nói gì và không nói gì.** Về cơ bản, ý kiến chấp nhận toàn phần nói rằng CPA không có bất đồng đáng kể nào với báo cáo tài chính và các thông tin công bố của công ty. Nói cách khác, CPA *xác nhận* (attests) rằng báo cáo tài chính đã được lập theo GAAP của Mỹ và rằng thuyết minh cùng các thông tin khác trong báo cáo đã công bố đầy đủ. (Tracy nhắc: các chuẩn mực này cho ban giám đốc một khoảng lựa chọn phương pháp kế toán, như đã bàn ở Chương 20.) Với một ý kiến sạch, kiểm toán viên CPA trên thực tế nói: "Tôi không phản đối báo cáo tài chính này." Nếu CPA là kế toán trưởng của doanh nghiệp, có thể họ đã lập báo cáo khác đi và viết thuyết minh khác đi; thực tế kiểm toán viên có thể thích các phương pháp kế toán khác hơn. Điều CPA thể hiện trong ý kiến sạch là báo cáo và các công bố của công ty không vi phạm, ở bất kỳ mức trọng yếu nào, các chuẩn mực kế toán và báo cáo tài chính đã được thiết lập.
+**Ý kiến sạch nói gì và không nói gì.** Về cơ bản, ý kiến chấp nhận toàn phần nói rằng CPA không có bất đồng đáng kể nào với báo cáo tài chính và các thông tin công bố của công ty. Nói cách khác, CPA *xác nhận* (attests) rằng báo cáo tài chính đã được lập theo GAAP của Mỹ và rằng thuyết minh cùng các thông tin khác trong báo cáo đã công bố đầy đủ. (Tracy nhắc: các chuẩn mực này cho ban giám đốc một khoảng lựa chọn phương pháp kế toán, như đã bàn ở Chương 20.)
+
+Với một ý kiến sạch, kiểm toán viên CPA trên thực tế nói: "Tôi không phản đối báo cáo tài chính này." Nếu CPA là kế toán trưởng của doanh nghiệp, có thể họ đã lập báo cáo khác đi và viết thuyết minh khác đi; thực tế kiểm toán viên có thể thích các phương pháp kế toán khác hơn. Điều CPA thể hiện trong ý kiến sạch là báo cáo và các công bố của công ty không vi phạm, ở bất kỳ mức trọng yếu nào, các chuẩn mực kế toán và báo cáo tài chính đã được thiết lập.
 
 **Vì sao mẫu có đoạn 2.** Nghề kiểm toán cho rằng cần nói rõ kiểm toán chỉ đem lại sự bảo đảm hợp lý, chứ không tuyệt đối, rằng "báo cáo tài chính không có sai sót trọng yếu". Nghề cũng cho rằng nên nói ngắn gọn cho người dùng báo cáo biết một cuộc kiểm toán gồm những việc gì; đó là nội dung đoạn thứ hai.
 
 **Mẫu khó đọc.** Bản chuẩn của báo cáo kiểm toán dài 209 chữ (tiếng Anh) đầy thuật ngữ chuyên môn, và theo Tracy đòi hỏi người đọc khá nhiều. Ông thách người đọc thành thật: bạn có đọc kỹ từng câu của mẫu trên không? Ông cược rằng bạn chỉ lướt qua từng đoạn.
 
-**Chú ý cụm "trên cơ sở chọn mẫu".** Người đọc nên để ý câu "An audit includes examining, *on a test basis*…" (một cuộc kiểm toán bao gồm việc kiểm tra, *theo phương pháp chọn mẫu*...). Kiểm toán viên không xem xét mọi giao dịch của doanh nghiệp trong năm, cũng không xem xét mọi khoản cấu thành số dư của từng tài sản và nợ phải trả. Nói một chữ: kiểm toán viên dựa vào *chọn mẫu* (sampling). Vì vậy, kiểm toán viên CPA đặc biệt chú ý tới *kiểm soát nội bộ* (internal controls) của công ty, tức các thủ tục được thiết kế để ngăn chặn và phát hiện sai sót và bất thường. Kiểm toán viên CPA bắt buộc phải thực hiện *thủ tục đánh giá rủi ro* (risk assessment procedures) để xác định những vùng nhiều khả năng có sai sót và bất thường, rồi tập trung thủ tục kiểm toán vào các vùng rủi ro cao đó.
+**Chú ý cụm "trên cơ sở chọn mẫu".** Người đọc nên để ý câu "An audit includes examining, *on a test basis*…" (một cuộc kiểm toán bao gồm việc kiểm tra, *theo phương pháp chọn mẫu*...). Kiểm toán viên không xem xét mọi giao dịch của doanh nghiệp trong năm, cũng không xem xét mọi khoản cấu thành số dư của từng tài sản và nợ phải trả. Nói một chữ: kiểm toán viên dựa vào *chọn mẫu* (sampling).
+
+Vì vậy, kiểm toán viên CPA đặc biệt chú ý tới *kiểm soát nội bộ* (internal controls) của công ty, tức các thủ tục được thiết kế để ngăn chặn và phát hiện sai sót và bất thường. Kiểm toán viên CPA bắt buộc phải thực hiện *thủ tục đánh giá rủi ro* (risk assessment procedures) để xác định những vùng nhiều khả năng có sai sót và bất thường, rồi tập trung thủ tục kiểm toán vào các vùng rủi ro cao đó.
 
 **Chấp nhận một số thất bại.** Làm cho mọi cuộc kiểm toán tuyệt đối không thể sai thì chi phí sẽ quá lớn. Xét tổng thể, xã hội chấp nhận một vài cuộc kiểm toán thất bại để giữ tổng chi phí kiểm toán trong mức hợp lý. Tracy thú nhận trong những lúc rất hoài nghi, ông từng nghĩ có lẽ lý do thật sự của kiểm toán là để người cho vay và nhà đầu tư có ai đó để kiện khi họ bị thiệt hại và có bằng chứng rằng báo cáo tài chính của công ty gây hiểu lầm hoặc gian lận.
 
@@ -518,7 +531,9 @@ Cuối cùng, luôn có một mức rủi ro là kiểm toán viên CPA không p
 
 Những thông tin bổ sung này trong báo cáo kiểm toán không tạo thành một sự ngoại trừ đối với báo cáo tài chính; chúng chỉ cung cấp thêm thông tin.
 
-**Ý kiến ngoại trừ.** Ngược lại, kiểm toán viên CPA có thể không đồng ý (take exception) với một phương pháp kế toán công ty dùng, hoặc với việc thiếu công bố một khoản mục mà CPA cho là cần để công bố đầy đủ. Khi đó, CPA đưa ra *ý kiến ngoại trừ* (qualified opinion), có các chữ then chốt "except for" (ngoại trừ) trong đoạn ý kiến. Căn cứ của sự ngoại trừ (điều kiểm toán viên không đồng ý) được giải thích trong báo cáo kiểm toán. Để đưa ra ý kiến ngoại trừ, kiểm toán viên phải tin chắc rằng, xét tổng thể, báo cáo tài chính và thuyết minh không gây hiểu lầm. Ý kiến ngoại trừ cũng có thể do *giới hạn phạm vi* kiểm tra của CPA: CPA không thu thập được đủ bằng chứng cho một hay nhiều tài khoản trong báo cáo, nên phải ngoại trừ hoặc hạn chế ý kiến về các khoản mục này.
+**Ý kiến ngoại trừ.** Ngược lại, kiểm toán viên CPA có thể không đồng ý (take exception) với một phương pháp kế toán công ty dùng, hoặc với việc thiếu công bố một khoản mục mà CPA cho là cần để công bố đầy đủ. Khi đó, CPA đưa ra *ý kiến ngoại trừ* (qualified opinion), có các chữ then chốt "except for" (ngoại trừ) trong đoạn ý kiến. Căn cứ của sự ngoại trừ (điều kiểm toán viên không đồng ý) được giải thích trong báo cáo kiểm toán.
+
+Để đưa ra ý kiến ngoại trừ, kiểm toán viên phải tin chắc rằng, xét tổng thể, báo cáo tài chính và thuyết minh không gây hiểu lầm. Ý kiến ngoại trừ cũng có thể do *giới hạn phạm vi* kiểm tra của CPA: CPA không thu thập được đủ bằng chứng cho một hay nhiều tài khoản trong báo cáo, nên phải ngoại trừ hoặc hạn chế ý kiến về các khoản mục này.
 
 Ý kiến ngoại trừ nghiêm trọng tới đâu? Kiểm toán viên chỉ ra một khiếm khuyết trong báo cáo tài chính của công ty, nhưng không phải khiếm khuyết chí mạng. Tracy gọi ý kiến ngoại trừ là "cờ vàng", chưa phải "cờ đỏ". Cần nhớ: kiểm toán viên phải đánh giá rằng tính trung thực, hợp lý tổng thể của báo cáo là chấp nhận được, dù có một hay nhiều chỗ lệch khỏi chuẩn mực kế toán và công bố thông tin.
 
@@ -594,7 +609,9 @@ Kiểm toán độc lập là cơ chế chính làm tăng độ tin cậy của 
 
 ### Trong ngôn ngữ kế toán và tài chính
 
-Kiểm toán báo cáo tài chính là dịch vụ bảo đảm (assurance) của bên thứ ba độc lập, cho sự bảo đảm hợp lý rằng báo cáo không có sai sót trọng yếu và được trình bày phù hợp với khuôn khổ báo cáo tài chính áp dụng (ở Mỹ là GAAP). Rủi ro kiểm toán không bao giờ bằng không vì kiểm toán dựa trên chọn mẫu, xét đoán và bằng chứng mang tính thuyết phục chứ không mang tính kết luận tuyệt đối; rủi ro không phát hiện gian lận cao hơn rủi ro không phát hiện nhầm lẫn vì gian lận thường đi kèm thông đồng, làm giả và vượt quyền kiểm soát của lãnh đạo. Ý kiến kiểm toán có các dạng: chấp nhận toàn phần (unmodified/unqualified), ngoại trừ (qualified), trái ngược (adverse), từ chối (disclaimer), kèm các đoạn nhấn mạnh hoặc đoạn về hoạt động liên tục. Đạo luật Sarbanes-Oxley 2002 chuyển việc đặt chuẩn mực và giám sát kiểm toán công ty đại chúng Mỹ từ cơ chế tự quản của nghề (AICPA) sang một cơ quan giám sát độc lập (PCAOB), đồng thời đặt trách nhiệm cá nhân lên lãnh đạo về báo cáo và kiểm soát nội bộ.
+Kiểm toán báo cáo tài chính là dịch vụ bảo đảm (assurance) của bên thứ ba độc lập, cho sự bảo đảm hợp lý rằng báo cáo không có sai sót trọng yếu và được trình bày phù hợp với khuôn khổ báo cáo tài chính áp dụng (ở Mỹ là GAAP). Rủi ro kiểm toán không bao giờ bằng không vì kiểm toán dựa trên chọn mẫu, xét đoán và bằng chứng mang tính thuyết phục chứ không mang tính kết luận tuyệt đối; rủi ro không phát hiện gian lận cao hơn rủi ro không phát hiện nhầm lẫn vì gian lận thường đi kèm thông đồng, làm giả và vượt quyền kiểm soát của lãnh đạo.
+
+Ý kiến kiểm toán có các dạng: chấp nhận toàn phần (unmodified/unqualified), ngoại trừ (qualified), trái ngược (adverse), từ chối (disclaimer), kèm các đoạn nhấn mạnh hoặc đoạn về hoạt động liên tục. Đạo luật Sarbanes-Oxley 2002 chuyển việc đặt chuẩn mực và giám sát kiểm toán công ty đại chúng Mỹ từ cơ chế tự quản của nghề (AICPA) sang một cơ quan giám sát độc lập (PCAOB), đồng thời đặt trách nhiệm cá nhân lên lãnh đạo về báo cáo và kiểm soát nội bộ.
 
 ## Thuật ngữ
 
@@ -676,13 +693,21 @@ Tracy nói thẳng điều mà nhiều sách nhập môn tránh: ý kiến sạc
 
 ### Chương mô tả mẫu báo cáo kiểm toán và vai trò kiểm toán viên ở mức đơn giản hoá của năm 2008
 
-Một số điểm được viết gọn (đã nêu trong khối Lưu ý): PCAOB về pháp lý là tổ chức phi lợi nhuận chịu sự giám sát của SEC chứ không phải "một nhánh của SEC"; cả CEO và CFO đều phải ký xác nhận; kiểm toán viên công ty đại chúng lớn còn phải đưa ý kiến riêng về kiểm soát nội bộ đối với báo cáo tài chính (Điều 404(b) của SOX), điều Tracy không nhắc; và Điều 10A của Luật Giao dịch Chứng khoán đã buộc kiểm toán viên báo cho SEC trong một số trường hợp phát hiện hành vi bất hợp pháp mà hội đồng quản trị không xử lý, nên câu "kiểm toán viên không tố giác ra ngoài công ty" chỉ đúng một phần. Tracy cũng không giải thích các điều khoản quan trọng khác của SOX như bắt buộc luân chuyển thành viên phụ trách (partner) cuộc kiểm toán sau một số năm, yêu cầu uỷ ban kiểm toán gồm thành viên độc lập và trực tiếp thuê kiểm toán viên, hay hình phạt hình sự nặng hơn cho lãnh đạo xác nhận sai (theo hiểu biết của người tổng hợp). Những điểm này không làm sai thông điệp chính, nhưng người đọc nên biết bức tranh đầy đủ hơn.
+Một số điểm được viết gọn (đã nêu trong mục Lưu ý cuối chương): PCAOB về pháp lý là tổ chức phi lợi nhuận chịu sự giám sát của SEC chứ không phải "một nhánh của SEC"; cả CEO và CFO đều phải ký xác nhận; kiểm toán viên công ty đại chúng lớn còn phải đưa ý kiến riêng về kiểm soát nội bộ đối với báo cáo tài chính (Điều 404(b) của SOX), điều Tracy không nhắc; và Điều 10A của Luật Giao dịch Chứng khoán đã buộc kiểm toán viên báo cho SEC trong một số trường hợp phát hiện hành vi bất hợp pháp mà hội đồng quản trị không xử lý, nên câu "kiểm toán viên không tố giác ra ngoài công ty" chỉ đúng một phần.
+
+Tracy cũng không giải thích các điều khoản quan trọng khác của SOX như bắt buộc luân chuyển thành viên phụ trách (partner) cuộc kiểm toán sau một số năm, yêu cầu uỷ ban kiểm toán gồm thành viên độc lập và trực tiếp thuê kiểm toán viên, hay hình phạt hình sự nặng hơn cho lãnh đạo xác nhận sai (theo hiểu biết của người tổng hợp). Những điểm này không làm sai thông điệp chính, nhưng người đọc nên biết bức tranh đầy đủ hơn.
 
 ### Mẫu báo cáo kiểm toán đã thay đổi lớn sau 2009, nổi bật là "vấn đề kiểm toán trọng yếu" (critical audit matters)
 
 Theo hiểu biết của người tổng hợp, không tra cứu:
 
-- **Công ty đại chúng Mỹ (PCAOB).** Ngay từ 2004, báo cáo kiểm toán công ty đại chúng đã ghi kiểm toán theo "các chuẩn mực của PCAOB", không phải theo GAAS như Exhibit 21.1. Năm 2017, PCAOB ban hành chuẩn mực mới về báo cáo kiểm toán (AS 3101) với các thay đổi: đoạn ý kiến được đưa lên **đầu** báo cáo; có mục "Cơ sở của ý kiến" (Basis for Opinion) kèm tuyên bố kiểm toán viên độc lập với công ty; câu mô tả trách nhiệm nói rõ kiểm toán nhằm có bảo đảm hợp lý rằng báo cáo không có sai sót trọng yếu **"dù do nhầm lẫn hay gian lận"** (whether due to error or fraud), tức chữ "gian lận" đã xuất hiện trong báo cáo, khác với nhận xét của Tracy; báo cáo phải nêu **số năm hãng kiểm toán đã liên tục kiểm toán công ty** (auditor tenure). Quan trọng nhất là yêu cầu trình bày **các vấn đề kiểm toán trọng yếu (critical audit matters, CAM)**: các vấn đề đã hoặc phải trao đổi với uỷ ban kiểm toán, liên quan tới khoản mục hoặc thuyết minh trọng yếu, và đòi hỏi kiểm toán viên phải xét đoán đặc biệt khó, chủ quan hoặc phức tạp (ví dụ thường gặp: kiểm tra suy giảm giá trị lợi thế thương mại, ước tính dự phòng, ghi nhận doanh thu theo hợp đồng phức tạp, thuế thu nhập bất định). Với mỗi CAM, kiểm toán viên mô tả vấn đề, lý do coi là trọng yếu, cách đã xử lý trong kiểm toán và dẫn tới thuyết minh liên quan. Yêu cầu CAM áp dụng cho các công ty niêm yết lớn (large accelerated filers) từ năm tài chính kết thúc sau ngày 30/6/2019 và cho phần lớn các công ty còn lại từ năm tài chính kết thúc sau ngày 15/12/2020; một số đơn vị như công ty tăng trưởng mới nổi (emerging growth companies) được miễn. Từ năm 2017, tên thành viên phụ trách cuộc kiểm toán (engagement partner) cũng phải được công bố (qua biểu mẫu Form AP).
+- **Công ty đại chúng Mỹ (PCAOB).** Ngay từ 2004, báo cáo kiểm toán công ty đại chúng đã ghi kiểm toán theo "các chuẩn mực của PCAOB", không phải theo GAAS như Exhibit 21.1.
+
+  Năm 2017, PCAOB ban hành chuẩn mực mới về báo cáo kiểm toán (AS 3101) với các thay đổi: đoạn ý kiến được đưa lên **đầu** báo cáo; có mục "Cơ sở của ý kiến" (Basis for Opinion) kèm tuyên bố kiểm toán viên độc lập với công ty; câu mô tả trách nhiệm nói rõ kiểm toán nhằm có bảo đảm hợp lý rằng báo cáo không có sai sót trọng yếu **"dù do nhầm lẫn hay gian lận"** (whether due to error or fraud), tức chữ "gian lận" đã xuất hiện trong báo cáo, khác với nhận xét của Tracy; báo cáo phải nêu **số năm hãng kiểm toán đã liên tục kiểm toán công ty** (auditor tenure).
+
+  Quan trọng nhất là yêu cầu trình bày **các vấn đề kiểm toán trọng yếu (critical audit matters, CAM)**: các vấn đề đã hoặc phải trao đổi với uỷ ban kiểm toán, liên quan tới khoản mục hoặc thuyết minh trọng yếu, và đòi hỏi kiểm toán viên phải xét đoán đặc biệt khó, chủ quan hoặc phức tạp (ví dụ thường gặp: kiểm tra suy giảm giá trị lợi thế thương mại, ước tính dự phòng, ghi nhận doanh thu theo hợp đồng phức tạp, thuế thu nhập bất định). Với mỗi CAM, kiểm toán viên mô tả vấn đề, lý do coi là trọng yếu, cách đã xử lý trong kiểm toán và dẫn tới thuyết minh liên quan.
+
+  Yêu cầu CAM áp dụng cho các công ty niêm yết lớn (large accelerated filers) từ năm tài chính kết thúc sau ngày 30/6/2019 và cho phần lớn các công ty còn lại từ năm tài chính kết thúc sau ngày 15/12/2020; một số đơn vị như công ty tăng trưởng mới nổi (emerging growth companies) được miễn. Từ năm 2017, tên thành viên phụ trách cuộc kiểm toán (engagement partner) cũng phải được công bố (qua biểu mẫu Form AP).
 - **Công ty không niêm yết Mỹ (AICPA).** Sau dự án "làm rõ" (Clarity Project), AICPA đổi mẫu báo cáo (khoảng 2012) sang dạng có tiêu đề cho từng phần: trách nhiệm của ban giám đốc, trách nhiệm của kiểm toán viên, ý kiến. Chuẩn mực SAS 134 (ban hành 2019, áp dụng khoảng từ 2021–2022) tiếp tục đưa ý kiến lên đầu, thêm mục cơ sở ý kiến, nói rõ trách nhiệm của ban giám đốc đánh giá khả năng hoạt động liên tục, và cho phép kiểm toán viên trình bày "vấn đề kiểm toán chính" (key audit matters) nếu được yêu cầu.
 - **Quốc tế (IAASB).** Chuẩn mực kiểm toán quốc tế ISA 701 (áp dụng từ kỳ kết thúc sau ngày 15/12/2016) yêu cầu báo cáo kiểm toán của công ty niêm yết trình bày **"vấn đề kiểm toán chính" (key audit matters, KAM)**, khái niệm gần với CAM của Mỹ; Anh đã đi trước với báo cáo kiểm toán "mở rộng" từ khoảng năm 2013.
 - **Thuật ngữ.** Chuẩn mực quốc tế và AICPA hiện dùng chữ "unmodified opinion" (ý kiến không bị sửa đổi) thay cho "unqualified opinion"; "modified opinions" gồm ngoại trừ, trái ngược và từ chối. Thứ bậc bốn mức Tracy mô tả vẫn đúng.
@@ -692,11 +717,21 @@ Hệ quả cho người đọc: hai bước đọc của Tracy vẫn dùng đư�
 
 ### Môi trường quản lý kiểm toán sau SOX tiếp tục thay đổi, và thất bại kiểm toán vẫn xảy ra
 
-Theo hiểu biết của người tổng hợp, không tra cứu: năm 2010, Toà án Tối cao Mỹ (vụ Free Enterprise Fund kiện PCAOB) phán quyết cơ chế bảo vệ các thành viên PCAOB khỏi bị bãi nhiệm là vi hiến, nhưng giữ nguyên sự tồn tại của PCAOB; quyền bãi nhiệm thuộc về SEC. Đạo luật Dodd-Frank (2010) miễn vĩnh viễn yêu cầu kiểm toán viên xác nhận kiểm soát nội bộ (Điều 404(b)) cho các công ty nhỏ (non-accelerated filers), và Đạo luật JOBS (2012) miễn tạm thời cho công ty tăng trưởng mới nổi. Những năm gần đây từng có các đề xuất ở Quốc hội Mỹ chuyển chức năng của PCAOB về SEC, nhưng người tổng hợp không chắc về kết quả cuối cùng. Trên thế giới, các vụ thất bại kiểm toán lớn vẫn tiếp diễn sau SOX (ví dụ vụ Wirecard ở Đức năm 2020, vụ Carillion ở Anh năm 2018), cho thấy nhận định của Tracy rằng "luôn còn rủi ro kiểm toán viên không phát hiện gian lận" vẫn đúng. Nghề CPA ở Mỹ cũng thay đổi: kỳ thi CPA được cấu trúc lại từ năm 2024 (ba phần cốt lõi cộng một phần chuyên sâu tự chọn), và nhiều bang đã mở thêm con đường cấp phép không bắt buộc đủ 150 tín chỉ (tương đương "5 năm học" mà Tracy nhắc) nếu bù bằng thêm kinh nghiệm.
+Theo hiểu biết của người tổng hợp, không tra cứu: năm 2010, Toà án Tối cao Mỹ (vụ Free Enterprise Fund kiện PCAOB) phán quyết cơ chế bảo vệ các thành viên PCAOB khỏi bị bãi nhiệm là vi hiến, nhưng giữ nguyên sự tồn tại của PCAOB; quyền bãi nhiệm thuộc về SEC.
+
+Đạo luật Dodd-Frank (2010) miễn vĩnh viễn yêu cầu kiểm toán viên xác nhận kiểm soát nội bộ (Điều 404(b)) cho các công ty nhỏ (non-accelerated filers), và Đạo luật JOBS (2012) miễn tạm thời cho công ty tăng trưởng mới nổi. Những năm gần đây từng có các đề xuất ở Quốc hội Mỹ chuyển chức năng của PCAOB về SEC, nhưng người tổng hợp không chắc về kết quả cuối cùng.
+
+Trên thế giới, các vụ thất bại kiểm toán lớn vẫn tiếp diễn sau SOX (ví dụ vụ Wirecard ở Đức năm 2020, vụ Carillion ở Anh năm 2018), cho thấy nhận định của Tracy rằng "luôn còn rủi ro kiểm toán viên không phát hiện gian lận" vẫn đúng.
+
+Nghề CPA ở Mỹ cũng thay đổi: kỳ thi CPA được cấu trúc lại từ năm 2024 (ba phần cốt lõi cộng một phần chuyên sâu tự chọn), và nhiều bang đã mở thêm con đường cấp phép không bắt buộc đủ 150 tín chỉ (tương đương "5 năm học" mà Tracy nhắc) nếu bù bằng thêm kinh nghiệm.
 
 ### Có quan điểm trái chiều về giá trị của kiểm toán và của SOX
 
-Tracy cho rằng chi phí SOX đã chững lại và chất lượng kiểm toán được cải thiện. Theo hiểu biết của người tổng hợp, quan điểm này phổ biến nhưng không phải là đồng thuận: nhiều người cho rằng chi phí tuân thủ SOX (nhất là Điều 404) đè nặng lên công ty nhỏ và là một trong các lý do làm số công ty niêm yết ở Mỹ giảm và nhiều công ty chọn ở lại tư nhân lâu hơn; một số nhà nghiên cứu cho rằng mô hình "khách hàng trả phí cho kiểm toán viên" vẫn tạo xung đột lợi ích mà SOX không giải quyết tận gốc, và đề xuất luân chuyển bắt buộc hãng kiểm toán (EU đã áp dụng từ khoảng năm 2016; PCAOB từng cân nhắc nhưng không áp dụng ở Mỹ). Ngược lại, có bằng chứng cho thấy sau SOX số lần trình bày lại báo cáo tài chính do sai phạm nghiêm trọng đã giảm và công bố về điểm yếu kiểm soát nội bộ giúp nhà đầu tư nhận diện rủi ro sớm hơn. Cách Tracy đặt vấn đề theo lợi ích–chi phí giúp người đọc hiểu vì sao cuộc tranh luận này không có đáp án tuyệt đối.
+Tracy cho rằng chi phí SOX đã chững lại và chất lượng kiểm toán được cải thiện. Theo hiểu biết của người tổng hợp, quan điểm này phổ biến nhưng không phải là đồng thuận: nhiều người cho rằng chi phí tuân thủ SOX (nhất là Điều 404) đè nặng lên công ty nhỏ và là một trong các lý do làm số công ty niêm yết ở Mỹ giảm và nhiều công ty chọn ở lại tư nhân lâu hơn.
+
+Một số nhà nghiên cứu cho rằng mô hình "khách hàng trả phí cho kiểm toán viên" vẫn tạo xung đột lợi ích mà SOX không giải quyết tận gốc, và đề xuất luân chuyển bắt buộc hãng kiểm toán (EU đã áp dụng từ khoảng năm 2016; PCAOB từng cân nhắc nhưng không áp dụng ở Mỹ).
+
+Ngược lại, có bằng chứng cho thấy sau SOX số lần trình bày lại báo cáo tài chính do sai phạm nghiêm trọng đã giảm và công bố về điểm yếu kiểm soát nội bộ giúp nhà đầu tư nhận diện rủi ro sớm hơn. Cách Tracy đặt vấn đề theo lợi ích–chi phí giúp người đọc hiểu vì sao cuộc tranh luận này không có đáp án tuyệt đối.
 
 ### Vận dụng cho nhà quản lý, người cho vay, nhà đầu tư
 
@@ -705,3 +740,178 @@ Tracy cho rằng chi phí SOX đã chững lại và chất lượng kiểm toá
 - **Nhà quản lý và chủ doanh nghiệp tư nhân:** cân nhắc chi phí kiểm toán như chi phí sử dụng vốn bên ngoài; một cuộc kiểm toán hoặc kiểm tra an ninh tự nguyện có thể giúp phát hiện điểm yếu kiểm soát nội bộ trước khi bị biển thủ.
 - **Thành viên hội đồng quản trị, uỷ ban kiểm toán:** hiểu rằng trách nhiệm pháp lý và thực tế đã tăng mạnh sau SOX, như Tracy cảnh báo qua câu chuyện người quen ở uỷ ban kiểm toán Enron.
 - **Người đọc Việt Nam (định tính):** các khái niệm của chương (ý kiến chấp nhận toàn phần, ngoại trừ, trái ngược, từ chối; đoạn nhấn mạnh; hoạt động liên tục; kiểm toán theo chọn mẫu và bảo đảm hợp lý) cũng là khung của chuẩn mực kiểm toán Việt Nam, vốn xây dựng dựa trên chuẩn mực kiểm toán quốc tế (theo hiểu biết của người tổng hợp). Khi đọc báo cáo của công ty niêm yết, người đọc nên tự đặt hai câu hỏi của Tracy, và đặc biệt chú ý khi ý kiến kiểm toán không phải chấp nhận toàn phần hoặc có đoạn nhấn mạnh về khả năng hoạt động liên tục.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 21 trên một trang: sáu nhánh lớn đi theo các mục 1–8 của phần Nội dung chi tiết (làn sóng gian lận và lý do cần kiểm toán, CPA và việc bắt buộc kiểm toán, ý kiến chấp nhận toàn phần, kiểm toán viên và gian lận, hai bước đọc báo cáo kiểm toán, những thay đổi sau SOX), mỗi nhánh ghi định nghĩa, con số và cảnh báo then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 21: kiểm toán độc lập làm tăng độ tin cậy của báo cáo tài chính nhưng không phải con dấu bảo đảm không sai sót hay gian lận`"]
+  n1["`Mục 1–2 — Làn sóng gian lận dẫn tới SOX, và vì sao cần kiểm toán`"]
+  n0 --- n1
+  n2["`WorldCom, Enron, Tyco, Ahold, Xerox, HealthSouth... đều do các hãng CPA uy tín kiểm toán, phần lớn thuộc Big Five`"]
+  n1 --- n2
+  n3["`Gian lận lộ ra: cổ phiếu lao dốc, nhân viên dồn tiền hưu vào cổ phiếu công ty mất gần hết, nhiều công ty phá sản`"]
+  n1 --- n3
+  n4["`Arthur Andersen bị kết tội cản trở công lý vì huỷ chứng cứ vụ Enron, biến mất gần như sau một đêm`"]
+  n1 --- n4
+  n5["`Big Four còn lại bị kiện và bị xử phạt vì không phát hiện gian lận của khách hàng`"]
+  n1 --- n5
+  n6["`Đa số doanh nghiệp không gian lận đang trả giá cho những doanh nghiệp đã gian lận`"]
+  n1 --- n6
+  n7["`Nhà đầu tư thụ động, nhân viên tín dụng ngân hàng, người quản lý quỹ tương hỗ đều hỏi: báo cáo có đáng tin không?`"]
+  n1 --- n7
+  n8["`Sai lệch do nhầm lẫn trung thực và yếu kém năng lực: kiểm soát nội bộ kém, kế toán trưởng không nắm chuẩn mực`"]
+  n1 --- n8
+  n9["`Sai lệch do cố ý gian dối: lãnh đạo cấp cao bóp méo lợi nhuận hoặc giấu thông tin, tức #quot;nấu sổ sách#quot;`"]
+  n1 --- n9
+  n10["`Cách phòng vệ trước cả hai rủi ro: một CPA độc lập kiểm toán hệ thống kế toán`"]
+  n1 --- n10
+  n11["`Mục 3–4 — CPA, ai bắt buộc kiểm toán, và kiểm toán nhằm mục đích gì`"]
+  n0 --- n11
+  n12["`Ba điều kiện thành CPA: học vấn (thường 5 năm), đỗ kỳ thi CPA toàn quốc, kinh nghiệm (thường tối thiểu 1 năm)`"]
+  n11 --- n12
+  n13["`Bang cấp phép, đòi 30–40 giờ học cập nhật mỗi năm, Hội đồng Kế toán có quyền thu hồi giấy phép`"]
+  n11 --- n13
+  n14["`#quot;Certified#quot; nói về chuyên môn, #quot;public#quot; nói về tính độc lập, điều kiện tuyệt đối cần thiết khi kiểm toán`"]
+  n11 --- n14
+  n15["`Hãng kiểm toán công ty đại chúng bị hạn chế dịch vụ phi kiểm toán cho chính khách hàng kiểm toán`"]
+  n11 --- n15
+  n16["`Khoảng 10.000 công ty đại chúng Mỹ bắt buộc kiểm toán theo luật chứng khoán liên bang`"]
+  n11 --- n16
+  n17["`Hơn 9 triệu doanh nghiệp tư nhân và hàng triệu doanh nghiệp một chủ không bắt buộc theo luật liên bang`"]
+  n11 --- n17
+  n18["`Vẫn kiểm toán khi ngân hàng đòi làm điều kiện cho vay hoặc cổ đông bên ngoài đòi để bảo vệ khoản đầu tư`"]
+  n17 --- n18
+  n19["`Khi đó phí kiểm toán là một phần chi phí sử dụng vốn bên ngoài`"]
+  n17 --- n19
+  n20["`Tự nguyện kiểm toán để khám sức khoẻ hệ thống kế toán hoặc kiểm tra nguy cơ gian lận, biển thủ`"]
+  n17 --- n20
+  n21["`Lợi ích: báo cáo đã kiểm toán có #quot;chỉ số đáng tin#quot; cao hơn báo cáo chưa kiểm toán`"]
+  n11 --- n21
+  n22["`Chi phí cao, không có kiểu kiểm toán qua loa giá rẻ, nên phải cân độ tin cậy tăng thêm với chi phí`"]
+  n11 --- n22
+  n23["`Mục đích chính không phải truy tìm gian lận mà xác nhận báo cáo trình bày trung thực và hợp lý theo chuẩn mực`"]
+  n11 --- n23
+  n24["`Giống khám sức khoẻ định kỳ: bác sĩ làm xét nghiệm chuẩn, chỉ chụp X-quang khi nghi có vấn đề`"]
+  n11 --- n24
+  n25["`Báo cáo kiểm toán không nói gì về gian lận, không có câu đã tìm gian lận và không thấy`"]
+  n11 --- n25
+  n26["`Mục 5 — Ý kiến chấp nhận toàn phần (ý kiến #quot;sạch#quot;)`"]
+  n0 --- n26
+  n27["`Mẫu chuẩn của Uỷ ban Chuẩn mực Kiểm toán thuộc AICPA: 3 đoạn, 209 chữ tiếng Anh, đa số người đọc chỉ lướt`"]
+  n26 --- n27
+  n28["`Đoạn 1: đã kiểm toán những báo cáo nào, báo cáo là trách nhiệm của ban giám đốc`"]
+  n27 --- n28
+  n29["`Đoạn 2: chỉ bảo đảm hợp lý không có sai sót trọng yếu, kiểm tra bằng chứng theo phương pháp chọn mẫu`"]
+  n27 --- n29
+  n30["`Đoạn 3: báo cáo trình bày trung thực và hợp lý, trên các khía cạnh trọng yếu, phù hợp GAAP Mỹ`"]
+  n27 --- n30
+  n31["`Ý kiến sạch nghĩa là kiểm toán viên #quot;không phản đối báo cáo tài chính này#quot;, không có bất đồng đáng kể`"]
+  n26 --- n31
+  n32["`Không có nghĩa kiểm toán viên sẽ lập báo cáo y vậy, vì GAAP cho nhà quản lý nhiều lựa chọn phương pháp`"]
+  n26 --- n32
+  n33["`Chọn mẫu nên kiểm toán viên dựa vào kiểm soát nội bộ và thủ tục đánh giá rủi ro để dồn sức vào vùng rủi ro cao`"]
+  n26 --- n33
+  n34["`Kiểm toán tuyệt đối không sai thì quá tốn kém, xã hội chấp nhận một ít cuộc kiểm toán thất bại`"]
+  n26 --- n34
+  n35["`Tracy lúc hoài nghi: có lẽ kiểm toán tồn tại để người cho vay và nhà đầu tư có ai đó để kiện`"]
+  n26 --- n35
+  n36["`Mục 6 — Kiểm toán viên có phát hiện gian lận kế toán không`"]
+  n0 --- n36
+  n37["`Làm đẹp số liệu: đẩy nhẹ doanh thu, chi phí ghi nhận trong kỳ để làm mượt lợi nhuận, vùng xám, ví như tội nhẹ`"]
+  n36 --- n37
+  n38["`Gian lận kế toán: bịa doanh thu, chi phí, báo cáo tài sản không có thật, giấu nợ phải trả, ví như trọng tội`"]
+  n36 --- n38
+  n39["`Có kiểm toán thì xác suất phát hiện tăng, nhưng gian lận che giấu khéo có thể lọt nhiều năm`"]
+  n36 --- n39
+  n40["`Chi phí phải tương xứng lợi ích nên kiểm toán viên không thể kiểm tra mọi kiểu gian lận`"]
+  n36 --- n40
+  n41["`Việc nên làm: đánh giá kiểm soát chống gian lận, thấy điểm yếu thì điều tra và phối hợp với uỷ ban kiểm toán`"]
+  n36 --- n41
+  n42["`Rủi ro bỏ sót gian lận luôn còn, nhất là khi chính lãnh đạo cấp cao chủ mưu`"]
+  n36 --- n42
+  n43["`Mục 7 — Đọc báo cáo kiểm toán theo hai bước`"]
+  n0 --- n43
+  n44["`Bước một: ý kiến có phải chấp nhận toàn phần không. Bước hai: có đoạn nào cho thấy điều gì kém hơn ý kiến sạch`"]
+  n43 --- n44
+  n45["`Đoạn bổ sung chỉ là thêm thông tin, không phải ngoại trừ`"]
+  n43 --- n45
+  n46["`Nhấn mạnh giao dịch với bên liên quan, sự kiện quan trọng trong năm, bất định bất thường`"]
+  n45 --- n46
+  n47["`Công ty đổi phương pháp kế toán, làm năm nay không nhất quán với các năm trước`"]
+  n45 --- n47
+  n48["`Nghi ngờ đáng kể về khả năng hoạt động liên tục vì khó trả nợ đúng hạn: tín hiệu rất đáng lưu tâm`"]
+  n45 --- n48
+  n49["`Ý kiến ngoại trừ có chữ #quot;except for#quot;: bất đồng phương pháp, thiếu công bố hoặc giới hạn phạm vi, là cờ vàng chưa phải cờ đỏ`"]
+  n43 --- n49
+  n50["`Ý kiến trái ngược: sai lệch nghiêm trọng đến mức báo cáo gây hiểu lầm, hầu như không bao giờ thấy`"]
+  n43 --- n50
+  n51["`Từ chối đưa ra ý kiến khi phạm vi kiểm toán bị giới hạn hoặc bất định rất bất thường`"]
+  n43 --- n51
+  n52["`Rút khỏi hợp đồng khi bất đồng nghiêm trọng không giải quyết được, công ty đại chúng phải báo SEC`"]
+  n43 --- n52
+  n53["`Theo người tổng hợp: mẫu mới có vấn đề kiểm toán trọng yếu (CAM/KAM), nên thêm bước ba là đọc phần này`"]
+  n43 --- n53
+  n54["`Mục 8 — Sau Đạo luật Sarbanes-Oxley 2002`"]
+  n0 --- n54
+  n55["`SOX nhằm nâng chất lượng kiểm toán và tính độc lập của kiểm toán viên, sau đỉnh điểm là vụ Enron`"]
+  n54 --- n55
+  n56["`Lập PCAOB có quyền rất lớn với hãng kiểm toán công ty đại chúng, Tracy: lẽ ra nên gọi là Uỷ ban Giám sát Kiểm toán`"]
+  n54 --- n56
+  n57["`CEO phải xác nhận báo cáo trình bày trung thực, ban giám đốc phải nêu ý kiến về kiểm soát nội bộ`"]
+  n54 --- n57
+  n58["`Nghề kiểm toán tách hai mảng: công ty đại chúng theo PCAOB, công ty tư nhân theo chuẩn mực AICPA`"]
+  n54 --- n58
+  n59["`Chi phí ban đầu cao rồi chững lại, ý kiến chung là chất lượng kiểm toán đã tốt hơn`"]
+  n54 --- n59
+  n60["`Uỷ ban kiểm toán thêm quyền và trách nhiệm, Tracy sẽ cân nhắc rất kỹ trước khi nhận ghế`"]
+  n54 --- n60
+  n61["`Thông điệp xuyên suốt`"]
+  n0 --- n61
+  n62["`Luôn đọc báo cáo kiểm toán, đừng coi việc có kiểm toán là đủ`"]
+  n61 --- n62
+  n63["`Ý kiến sạch không loại trừ gian lận, người đọc vẫn phải tự phân tích để tìm dấu hiệu bất thường`"]
+  n61 --- n63
+  n64["`Với doanh nghiệp tư nhân, nên thận trọng hơn với báo cáo chưa kiểm toán`"]
+  n61 --- n64
+  class n0 root
+  class n1,n11,n26,n36,n43,n54,n61 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n25,n27,n28,n29,n30,n31,n32,n33,n34,n35,n37,n38,n39,n40,n41,n42,n44,n45,n46,n47,n48,n49,n50,n51,n52,n53,n55,n56,n57,n58,n59,n60,n62,n63,n64 leaf
+```
+
+## Nguồn
+
+John A. Tracy, *How to Read a Financial Report: Wringing Vital Signs Out of the Numbers*, ấn bản thứ bảy (John Wiley & Sons, 2009), Phần Ba "Reliability of Financial Reports", Chương 21 "Audits of Financial Reports in the Post-Enron Era", trang in 173–186 (trang in 173 là trang tên chương; nội dung chương nằm ở trang in 174–185; trang in 186 để trắng).
+
+## Tác giả
+
+John A. Tracy, giáo sư kế toán danh dự Đại học Colorado ở Boulder, kế toán viên công chứng (CPA).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phần Một (Chương 1–15) dạy cách các khoản mục của báo cáo kết quả kinh doanh nối với bảng cân đối kế toán và với dòng tiền; Phần Hai (Chương 16–18) dạy cách phân tích các con số đó.
+
+Phần Ba hỏi: các con số ấy có đáng tin không? Chương 19 ([C19](C19-chuan-muc-ke-toan-va-bao-cao-tai-chinh.md)) giới thiệu luật chơi, tức nguyên tắc kế toán được chấp nhận chung (GAAP) và các cơ quan đặt chuẩn mực. Chương 20 ([C20](C20-phuong-phap-ke-toan-va-lam-dep-so-lieu.md)) cho thấy ngay trong luật chơi đó, nhà quản lý vẫn có chỗ để chọn phương pháp kế toán và làm đẹp số liệu (massaging the numbers), và nhắc tới hiện tượng trình bày lại báo cáo tài chính (restatement).
+
+Chương 21 trả lời câu hỏi tiếp theo: **ai kiểm tra xem doanh nghiệp có tuân thủ luật chơi không, kiểm tra tới mức nào, và người đọc nên hiểu báo cáo kiểm toán ra sao**. Chương 22 ([C22](C22-loi-ket.md)) là lời kết của cả cuốn sách.
+
+## Lưu ý
+
+- **Chương này có đúng một Exhibit (Exhibit 21.1, mẫu báo cáo kiểm toán chấp nhận toàn phần), nằm ở trang in 181 (PDF 193), giữa chương**, chứ không nằm ở trang trước trang tên chương như nhiều chương khác; trang PDF 184 (trước trang tên chương) và PDF 198 (trang in 186) đều trắng. Toàn văn tiếng Anh của mẫu báo cáo được chép nguyên văn ở mục 5 của Nội dung chi tiết, kèm bản dịch. Chương **không có mục "Accounting Issues"** ở cuối và không có ví dụ số của doanh nghiệp ví dụ (doanh thu 52 triệu USD); toàn chương là văn xuôi.
+- **Mẫu báo cáo trong Exhibit 21.1 là mẫu của Uỷ ban Chuẩn mực Kiểm toán (Auditing Standards Board) thuộc AICPA, dùng cho công ty không niêm yết.** Tracy giới thiệu nó như "mẫu chuẩn" nói chung. Theo hiểu biết của người tổng hợp, không tra cứu: từ năm 2004, báo cáo kiểm toán của công ty đại chúng Mỹ phải ghi là cuộc kiểm toán được thực hiện "theo các chuẩn mực của PCAOB (Hoa Kỳ)" (standards of the Public Company Accounting Oversight Board (United States)), chứ không phải "theo các chuẩn mực kiểm toán được chấp nhận chung tại Hoa Kỳ" như trong Exhibit 21.1. Chính Tracy cũng viết ở mục Post-SOX rằng PCAOB nắm quy tắc kiểm toán công ty đại chúng, nhưng không nói rằng điều đó làm câu chữ báo cáo kiểm toán công ty đại chúng khác mẫu này.
+- **Mốc thời gian bị viết gọn.** Tracy viết các vụ gian lận "trong hai thập niên cuối của thế kỷ 20", rồi liệt kê WorldCom, Enron, Tyco, Ahold, Global Crossing, HealthSouth, Adelphia. Theo hiểu biết của người tổng hợp, phần lớn các vụ này bị phát hiện trong những năm 2001–2003 (Enron sụp đổ cuối năm 2001; WorldCom, Tyco, Adelphia, Global Crossing năm 2002; HealthSouth, Ahold năm 2003), dù hành vi sai phạm thường bắt đầu từ cuối thập niên 1990. Waste Management (1997–1998), Rite Aid (1999) và Xerox (2000–2002) thì sớm hơn.
+- **Vụ Arthur Andersen: sách bỏ qua diễn biến sau.** Tracy viết Arthur Andersen "bị kết tội cản trở công lý". Theo hiểu biết của người tổng hợp, bản án năm 2002 đã bị Toà án Tối cao Mỹ huỷ năm 2005 (vì hướng dẫn cho bồi thẩm đoàn có sai sót), nhưng khi đó hãng đã mất gần hết khách hàng và nhân sự nên không thể hoạt động lại.
+- **PCAOB không hẳn là "một nhánh của SEC".** Tracy gọi PCAOB là "cơ quan liên bang mới", "một nhánh của Uỷ ban Chứng khoán và Giao dịch Mỹ (SEC)". Theo hiểu biết của người tổng hợp, về mặt pháp lý PCAOB được lập như một tổ chức phi lợi nhuận, không phải cơ quan chính phủ; SEC giám sát PCAOB, bổ nhiệm các thành viên hội đồng, phê duyệt quy tắc và ngân sách của PCAOB. Nói "chịu sự giám sát của SEC" thì chính xác hơn.
+- **Cam kết của lãnh đạo: không chỉ CEO.** Tracy viết "CEO phải xác nhận" báo cáo tài chính trình bày trung thực. Theo hiểu biết của người tổng hợp, theo Điều 302 và Điều 906 của SOX, cả tổng giám đốc điều hành (CEO) và giám đốc tài chính (CFO) đều phải ký xác nhận. Tracy cũng chỉ nói ban giám đốc phải nêu ý kiến về kiểm soát nội bộ (Điều 404(a)); ông không nhắc Điều 404(b): với các công ty đại chúng cỡ lớn, kiểm toán viên còn phải đưa ra ý kiến riêng về hiệu quả của kiểm soát nội bộ đối với báo cáo tài chính (kiểm toán "tích hợp").
+- **"Kiểm toán viên không thổi còi ra ngoài công ty" là cách nói gọn.** Tracy viết kiểm toán viên không tố giác ra ngoài phạm vi nội bộ công ty, chỉ phải báo cho SEC khi rút khỏi hợp đồng. Theo hiểu biết của người tổng hợp, từ năm 1995, Điều 10A của Luật Giao dịch Chứng khoán Mỹ (Securities Exchange Act) buộc kiểm toán viên công ty đại chúng phát hiện hành vi bất hợp pháp có ảnh hưởng trọng yếu phải báo cho hội đồng quản trị; nếu hội đồng không có biện pháp phù hợp và công ty không tự báo cho SEC, kiểm toán viên phải báo thẳng cho SEC.
+
+  Ngoài ra, khi đổi kiểm toán viên, chính công ty phải công bố việc này cho SEC (báo cáo bất thường), kèm thư của kiểm toán viên cũ nói có đồng ý với nội dung công bố không.
+- **Câu "kiểm toán viên không nói gì về gian lận trong báo cáo kiểm toán" chỉ đúng với mẫu cũ.** Mẫu năm 2009 (Exhibit 21.1) đúng là không có chữ "fraud". Theo hiểu biết của người tổng hợp, các mẫu báo cáo kiểm toán hiện hành của cả PCAOB và AICPA đều ghi rõ kiểm toán nhằm có được sự bảo đảm hợp lý rằng báo cáo không có sai sót trọng yếu "dù do nhầm lẫn hay gian lận" (whether due to error or fraud). Chi tiết ở phần Đánh giá.
+- **Số liệu đã cũ.** Con số "khoảng 10.000 công ty đại chúng ở Mỹ" và "Big Four" là tình hình năm 2008. Theo hiểu biết của người tổng hợp, số công ty niêm yết trên các sở giao dịch Mỹ đã giảm đáng kể so với cuối thập niên 1990 (còn khoảng 4.000–5.000 công ty niêm yết trong thập niên 2010–2020, dù số đơn vị phải nộp báo cáo cho SEC lớn hơn); Big Four (Deloitte, PwC, EY, KPMG) vẫn là bốn hãng lớn nhất.
+- Các câu trích trong mục Câu nói đáng nhớ là bản dịch của người tổng hợp. Mẫu báo cáo kiểm toán ở Exhibit 21.1 được chép nguyên văn theo yêu cầu, vì đây là văn bản mẫu của nghề kiểm toán.

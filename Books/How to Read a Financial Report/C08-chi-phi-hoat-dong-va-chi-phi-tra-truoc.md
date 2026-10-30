@@ -1,19 +1,16 @@
 # Chương 8 — Chi phí hoạt động và chi phí trả trước (Operating Expenses and Prepaid Expenses)
 
-**Nguồn:** John A. Tracy, *How to Read a Financial Report: Wringing Vital Signs Out of the Numbers*, ấn bản thứ bảy (John Wiley & Sons, 2009), Phần Một "Components and Connections in Financial Statements", Chương 8 "Operating Expenses and Prepaid Expenses", trang in 50–55 (Exhibit 8.1 in ở trang 50, trang tên chương ở trang 51, phần chữ ở trang 52–55).
-**Tác giả:** John A. Tracy, giáo sư kế toán danh dự Đại học Colorado ở Boulder, kế toán viên công chứng (CPA).
-**Vị trí trong lập luận của cả cuốn sách:** Từ Chương 4 trở đi, mỗi chương của Phần Một lấy ra một **mối nối** (connection) giữa một khoản mục trên báo cáo kết quả kinh doanh (income statement) và một khoản mục trên bảng cân đối kế toán (balance sheet) của cùng một doanh nghiệp ví dụ (doanh thu 52 triệu USD/năm). Chương 4 nối doanh thu với phải thu khách hàng, Chương 5 nối giá vốn hàng bán với hàng tồn kho, Chương 6 nối hàng tồn kho với phải trả người bán. Chương 7 ([C07-chi-phi-hoat-dong-va-phai-tra-nguoi-ban.md](C07-chi-phi-hoat-dong-va-phai-tra-nguoi-ban.md)) đã chỉ ra rằng một phần chi phí bán hàng, chi phí chung và quản lý (SG&A) được **ghi nhận trước khi trả tiền**, nên sinh ra một khoản nợ phải trả. Chương 8 trình bày trường hợp ngược lại: có những khoản chi phí hoạt động được **trả tiền trước khi ghi nhận là chi phí**, nên sinh ra một tài sản là chi phí trả trước (prepaid expenses). Đây là chương ngắn nhất trong chuỗi mối nối, nhưng Tracy dùng phần "Accounting Issues" của nó để lần đầu mở ra chủ đề gian lận kế toán và làm đẹp số liệu (massaging the numbers), chủ đề sẽ được bàn kỹ ở Chương 20 ([C20-phuong-phap-ke-toan-va-lam-dep-so-lieu.md](C20-phuong-phap-ke-toan-va-lam-dep-so-lieu.md)) và Chương 21 ([C21-kiem-toan-bao-cao-tai-chinh-thoi-hau-enron.md](C21-kiem-toan-bao-cao-tai-chinh-thoi-hau-enron.md)). Chương sau, Chương 9 ([C09-mot-chi-phi-dac-biet-khau-hao.md](C09-mot-chi-phi-dac-biet-khau-hao.md)), mở rộng cùng logic "trả tiền trước, phân bổ vào chi phí sau" sang tài sản dài hạn với khấu hao, chỉ khác là thời gian phân bổ kéo dài nhiều năm. Chương 13 ([C13-dong-tien-tu-hoat-dong-kinh-doanh.md](C13-dong-tien-tu-hoat-dong-kinh-doanh.md)) sẽ dùng mức tăng của chi phí trả trước để giải thích vì sao dòng tiền từ hoạt động kinh doanh thấp hơn lợi nhuận ròng.
-**Ý chính:** Tracy muốn người đọc hiểu rằng **chi phí trả trước là một tài khoản tài sản đóng vai trò "tài khoản tạm giữ" (holding account): tiền chi trước cho phí bảo hiểm, vật tư văn phòng mua số lượng lớn, thuế tài sản trả đầu năm được đưa vào tài khoản này, rồi được chuyển dần sang chi phí hoạt động trong những tháng hưởng lợi từ khoản chi đó; mục đích chính của cách làm hai bước này là ghi chi phí đúng kỳ, chứ không phải để ghi nhận một tài sản.** Ví dụ trung tâm: doanh nghiệp ví dụ có chi phí bán hàng, chi phí chung và quản lý cả năm là 12.480 nghìn USD; theo kinh nghiệm, số dư chi phí trả trước bằng khoảng bốn tuần chi phí hoạt động, nên số dư cuối năm là 4/52 × 12.480 = 960 nghìn USD, nhỏ hơn nhiều so với phải thu khách hàng (5.000) và hàng tồn kho (8.450). Vì nhỏ, chi phí trả trước không phải là chỗ chính của gian lận kế toán, nhưng vẫn có thể bị dùng để làm đẹp số liệu: ghi ngay khoản trả trước vào chi phí để kéo lợi nhuận xuống, hoặc cố ý chậm chuyển sang chi phí để đẩy lợi nhuận lên. Tracy nhấn mạnh rằng mọi sự bóp méo như vậy có **tác động hai mặt**: cả báo cáo kết quả kinh doanh lẫn bảng cân đối kế toán đều chứa số sai, và ông minh hoạ bằng ví dụ hàng tồn kho bị hư hỏng mà lỗ không được ghi nhận trong năm.
+## Ý chính
 
-> **Lưu ý:**
-> - **Vị trí Exhibit 8.1.** Lời văn nói Exhibit 8.1 nằm "ở đầu chương" (at the start of the chapter), nhưng trong bản in, Exhibit này nằm ở trang in 50, tức trang ngay trước trang tên Chương 8 (trang in 51). Đây là cách dàn trang chung của sách (Exhibit 9.1 cũng in ở trang 56, trước trang tên Chương 9), không phải sai nội dung.
-> - **Câu bị viết ngược nghĩa trong ví dụ hàng tồn kho hư hỏng (trang in 55).** Sách viết "But top management wants to record the hit against profit this year" (nhưng ban lãnh đạo cấp cao muốn ghi khoản lỗ vào lợi nhuận năm nay). Câu này mâu thuẫn với câu ngay sau ("khoản lỗ có thể được hấp thụ dễ hơn vào năm sau, theo họ nghĩ") và với câu kết luận ("vì vậy, kế toán không ghi khoản lỗ trong năm nay"). Nghĩa đúng theo mạch lập luận phải là ban lãnh đạo **không** muốn ghi khoản lỗ vào năm nay. Bản tổng hợp này trình bày theo nghĩa đúng.
-> - **Thành ngữ bị đảo tên.** Thành ngữ tiếng Anh quen thuộc là "rob Peter to pay Paul" (lấy của người này đắp cho người kia). Tracy viết "robbing Paul (expenses higher this period) to pay Peter (expenses lower next period)", đảo vị trí hai cái tên; ý nghĩa vẫn rõ nhờ phần trong ngoặc: ghi ngay vào chi phí thì kỳ này chịu chi phí cao hơn, kỳ sau được chi phí thấp hơn.
-> - **Phép tính 4/52 × 12.480 = 960 đúng chính xác** (12.480 ÷ 52 = 240 nghìn USD mỗi tuần; 240 × 4 = 960). Lưu ý rằng con số 12.480 chỉ gồm chi phí bán hàng, chi phí chung và quản lý; nó không gồm chi phí khấu hao (785), chi phí lãi vay (545) hay giá vốn hàng bán. Khi sách nói "chi phí hoạt động hằng năm" (annual operating expenses) trong chương này, sách hiểu là riêng dòng SG&A.
-> - **Tỷ lệ "bốn tuần" là giả định của mô hình.** Tracy nói doanh nghiệp "biết từ kinh nghiệm" chi phí trả trước bằng bao nhiêu phần chi phí hoạt động, và chọn bốn tuần cho ví dụ. Trong thực tế, phần lớn SG&A (như tiền lương) không trả trước; tỷ lệ này chỉ là cách để nối hai con số cho dễ hiểu, không phải quy tắc kế toán.
-> - **Số năm trước của chi phí trả trước không có trong Exhibit 8.1.** Exhibit 8.1 chỉ có số cuối năm nay (960). Số đầu năm (685) và mức tăng (275) lấy từ bảng cân đối kế toán ở Chương 2 (Exhibit 2.1) và được chép lại ở phần Nội dung chi tiết để người đọc thấy tác động lên dòng tiền.
-> - **Điều đã thay đổi từ 2009, theo hiểu biết của người tổng hợp, không tra cứu:** quy tắc ghi giảm hàng tồn kho (ví dụ hàng hư hỏng trong chương) ở Mỹ đã chuyển từ "giá thấp hơn giữa giá gốc và giá thị trường" sang "giá thấp hơn giữa giá gốc và giá trị thuần có thể thực hiện được" cho phần lớn phương pháp tính giá (trừ LIFO và phương pháp bán lẻ) từ khoảng năm 2017; tiền thuê trả trước, vốn là một ví dụ điển hình của chi phí trả trước, nay phần lớn được gộp vào tài sản quyền sử dụng (right-of-use asset) theo chuẩn mực thuê tài sản ASC 842/IFRS 16 (2019); các chuẩn mực kế toán Mỹ đã được tập hợp lại thành Bộ chuẩn mực FASB Codification (ASC) từ 2009.
-> - Các câu trích trong phần "Câu nói đáng nhớ" là bản dịch của người tổng hợp.
+Tracy muốn người đọc hiểu rằng **chi phí trả trước là một tài khoản tài sản đóng vai trò "tài khoản tạm giữ" (holding account): tiền chi trước cho phí bảo hiểm, vật tư văn phòng mua số lượng lớn, thuế tài sản trả đầu năm được đưa vào tài khoản này, rồi được chuyển dần sang chi phí hoạt động trong những tháng hưởng lợi từ khoản chi đó; mục đích chính của cách làm hai bước này là ghi chi phí đúng kỳ, chứ không phải để ghi nhận một tài sản.**
+
+Ví dụ trung tâm: doanh nghiệp ví dụ có chi phí bán hàng, chi phí chung và quản lý cả năm là 12.480 nghìn USD. Theo kinh nghiệm, số dư chi phí trả trước bằng khoảng bốn tuần chi phí hoạt động, nên số dư cuối năm là 4/52 × 12.480 = 960 nghìn USD, nhỏ hơn nhiều so với phải thu khách hàng (5.000) và hàng tồn kho (8.450).
+
+Vì nhỏ, chi phí trả trước không phải là chỗ chính của gian lận kế toán, nhưng vẫn có thể bị dùng để làm đẹp số liệu: ghi ngay khoản trả trước vào chi phí để kéo lợi nhuận xuống, hoặc cố ý chậm chuyển sang chi phí để đẩy lợi nhuận lên.
+
+Tracy nhấn mạnh rằng mọi sự bóp méo như vậy có **tác động hai mặt**: cả báo cáo kết quả kinh doanh lẫn bảng cân đối kế toán đều chứa số sai.
+
+Ông minh hoạ bằng ví dụ hàng tồn kho bị hư hỏng mà lỗ không được ghi nhận trong năm.
 
 ## Sơ đồ
 
@@ -278,7 +275,7 @@ Giải thích: trong năm, doanh nghiệp chi tiền cho các khoản trả trư
 
 **Tác động hai mặt.** Tracy nói ông sẽ bàn tiếp về gian lận và làm đẹp số liệu ở Chương 20 và 21, nhưng muốn chỉ ra ngay ở đây rằng làm đẹp số liệu doanh thu và chi phí ảnh hưởng tới **cả** báo cáo kết quả kinh doanh **lẫn** bảng cân đối kế toán. Thao túng số liệu kế toán có tác động hai mặt: cả hai báo cáo đều chứa số sai.
 
-**Ví dụ hàng tồn kho bị hư hỏng.** Giả sử một phần sản phẩm trong hàng tồn kho cuối năm của doanh nghiệp bị hư hỏng trong năm và không được bảo hiểm. Số hàng hư hỏng sẽ được bán vào năm sau với giá thấp hơn giá gốc. Lý thuyết kế toán rất rõ: khoản lỗ phải được ghi nhận trong kỳ xảy ra hư hỏng. Nhưng ban lãnh đạo cấp cao không muốn ghi khoản lỗ này vào lợi nhuận năm nay, vì họ cho rằng năm sau có thể hấp thụ khoản lỗ dễ hơn (về câu chữ của sách ở chỗ này, xem khối Lưu ý). Vì vậy kế toán không ghi khoản lỗ trong năm nay. Hậu quả:
+**Ví dụ hàng tồn kho bị hư hỏng.** Giả sử một phần sản phẩm trong hàng tồn kho cuối năm của doanh nghiệp bị hư hỏng trong năm và không được bảo hiểm. Số hàng hư hỏng sẽ được bán vào năm sau với giá thấp hơn giá gốc. Lý thuyết kế toán rất rõ: khoản lỗ phải được ghi nhận trong kỳ xảy ra hư hỏng. Nhưng ban lãnh đạo cấp cao không muốn ghi khoản lỗ này vào lợi nhuận năm nay, vì họ cho rằng năm sau có thể hấp thụ khoản lỗ dễ hơn (về câu chữ của sách ở chỗ này, xem mục Lưu ý cuối chương). Vì vậy kế toán không ghi khoản lỗ trong năm nay. Hậu quả:
 
 | Báo cáo | Khoản mục bị sai | Hướng sai |
 |---|---|---|
@@ -328,7 +325,9 @@ Một số chi phí hoạt động được trả tiền trước khi chúng nê
 
 ### Trong ngôn ngữ kế toán và tài chính
 
-Chi phí trả trước là một tài sản ngắn hạn phát sinh từ kế toán dồn tích: chi phí được ghi nhận theo kỳ hưởng lợi chứ không theo thời điểm chi tiền (nguyên tắc phù hợp giữa chi phí và kỳ, matching). Bút toán ban đầu là ghi tăng chi phí trả trước, ghi giảm tiền; bút toán phân bổ định kỳ là ghi tăng chi phí hoạt động, ghi giảm chi phí trả trước. Trên báo cáo lưu chuyển tiền tệ theo phương pháp gián tiếp, mức tăng chi phí trả trước là một khoản điều chỉnh trừ khỏi lợi nhuận ròng. Một tài sản không còn khả năng mang lại lợi ích tương lai phải được ghi giảm (write-down) và ghi nhận lỗ trong kỳ phát sinh. Việc cố ý ghi sai kỳ để điều chỉnh lợi nhuận là làm đẹp số liệu, và khi đủ lớn thì là sai sót trọng yếu mà kiểm toán viên phải phát hiện.
+Chi phí trả trước là một tài sản ngắn hạn phát sinh từ kế toán dồn tích: chi phí được ghi nhận theo kỳ hưởng lợi chứ không theo thời điểm chi tiền (nguyên tắc phù hợp giữa chi phí và kỳ, matching). Bút toán ban đầu là ghi tăng chi phí trả trước, ghi giảm tiền; bút toán phân bổ định kỳ là ghi tăng chi phí hoạt động, ghi giảm chi phí trả trước.
+
+Trên báo cáo lưu chuyển tiền tệ theo phương pháp gián tiếp, mức tăng chi phí trả trước là một khoản điều chỉnh trừ khỏi lợi nhuận ròng. Một tài sản không còn khả năng mang lại lợi ích tương lai phải được ghi giảm (write-down) và ghi nhận lỗ trong kỳ phát sinh. Việc cố ý ghi sai kỳ để điều chỉnh lợi nhuận là làm đẹp số liệu, và khi đủ lớn thì là sai sót trọng yếu mà kiểm toán viên phải phát hiện.
 
 ## Thuật ngữ
 
@@ -400,11 +399,15 @@ Theo hiểu biết của người tổng hợp, trong thực hành, nhiều doan
 
 ### Ví dụ hàng tồn kho hư hỏng có một câu viết ngược nghĩa và bỏ qua tác động của thuế
 
-Như đã ghi ở khối Lưu ý, câu "top management wants to record the hit against profit this year" phải hiểu là ban lãnh đạo **không** muốn ghi khoản lỗ vào năm nay. Ngoài ra, Tracy nói ba khoản mục bị ghi quá cao (lợi nhuận ròng, hàng tồn kho, lợi nhuận giữ lại) nhưng không nhắc đến chi phí thuế thu nhập: khi lợi nhuận trước thuế bị ghi quá cao, chi phí thuế thu nhập và có thể cả thuế thu nhập phải nộp cũng bị ảnh hưởng, nên lợi nhuận ròng bị thổi phồng ít hơn khoản lỗ bị giấu. Theo hiểu biết của người tổng hợp, quy tắc ghi giảm hàng tồn kho ở Mỹ đã được sửa (khoảng năm 2017) theo hướng so sánh giá gốc với giá trị thuần có thể thực hiện được cho phần lớn phương pháp tính giá, gần với chuẩn mực quốc tế IAS 2; logic "ghi lỗ vào kỳ xảy ra tổn thất" của Tracy vẫn giữ nguyên.
+Như đã ghi ở mục Lưu ý cuối chương, câu "top management wants to record the hit against profit this year" phải hiểu là ban lãnh đạo **không** muốn ghi khoản lỗ vào năm nay. Ngoài ra, Tracy nói ba khoản mục bị ghi quá cao (lợi nhuận ròng, hàng tồn kho, lợi nhuận giữ lại) nhưng không nhắc đến chi phí thuế thu nhập: khi lợi nhuận trước thuế bị ghi quá cao, chi phí thuế thu nhập và có thể cả thuế thu nhập phải nộp cũng bị ảnh hưởng, nên lợi nhuận ròng bị thổi phồng ít hơn khoản lỗ bị giấu.
+
+Theo hiểu biết của người tổng hợp, quy tắc ghi giảm hàng tồn kho ở Mỹ đã được sửa (khoảng năm 2017) theo hướng so sánh giá gốc với giá trị thuần có thể thực hiện được cho phần lớn phương pháp tính giá, gần với chuẩn mực quốc tế IAS 2; logic "ghi lỗ vào kỳ xảy ra tổn thất" của Tracy vẫn giữ nguyên.
 
 ### Quan điểm "mục đích chính không phải ghi nhận tài sản" phản ánh cách nhìn lấy báo cáo kết quả kinh doanh làm trung tâm
 
-Tracy coi tài khoản chi phí trả trước chủ yếu là công cụ để ghi chi phí đúng kỳ. Theo hiểu biết của người tổng hợp, khung khái niệm của FASB và IASB lại định nghĩa tài sản trước (nguồn lực mang lại lợi ích kinh tế tương lai), rồi mới suy ra chi phí là phần giảm của tài sản. Hai cách nhìn cho cùng một con số trong trường hợp chi phí trả trước, nhưng cách nhìn lấy tài sản làm trung tâm giải thích tốt hơn vì sao số dư phải ghi giảm khi doanh nghiệp sắp sụp đổ (tài sản không còn lợi ích tương lai). Cũng theo hiểu biết của người tổng hợp, từ khi áp dụng ASC 842/IFRS 16 (2019), tiền thuê trả trước, vốn là ví dụ quen thuộc của chi phí trả trước, phần lớn được gộp vào tài sản quyền sử dụng, nên khoản mục chi phí trả trước trên báo cáo của nhiều doanh nghiệp ngày nay hẹp hơn trước.
+Tracy coi tài khoản chi phí trả trước chủ yếu là công cụ để ghi chi phí đúng kỳ. Theo hiểu biết của người tổng hợp, khung khái niệm của FASB và IASB lại định nghĩa tài sản trước (nguồn lực mang lại lợi ích kinh tế tương lai), rồi mới suy ra chi phí là phần giảm của tài sản. Hai cách nhìn cho cùng một con số trong trường hợp chi phí trả trước, nhưng cách nhìn lấy tài sản làm trung tâm giải thích tốt hơn vì sao số dư phải ghi giảm khi doanh nghiệp sắp sụp đổ (tài sản không còn lợi ích tương lai).
+
+Cũng theo hiểu biết của người tổng hợp, từ khi áp dụng ASC 842/IFRS 16 (2019), tiền thuê trả trước, vốn là ví dụ quen thuộc của chi phí trả trước, phần lớn được gộp vào tài sản quyền sử dụng, nên khoản mục chi phí trả trước trên báo cáo của nhiều doanh nghiệp ngày nay hẹp hơn trước.
 
 ### Nhận định về thủ phạm của làm đẹp số liệu rất thẳng thắn, nhưng nên đọc cùng các thay đổi sau năm 2002
 
@@ -416,3 +419,152 @@ Tracy khẳng định kế toán viên không tự ý làm đẹp số liệu m�
 - **Người cho vay:** chi phí trả trước là tài sản ngắn hạn nhưng gần như không chuyển lại thành tiền để trả nợ; vì vậy hệ số thanh toán nhanh (acid-test ratio) loại nó ra, và người cho vay không nên coi nó là tài sản đảm bảo.
 - **Nhà đầu tư:** theo dõi chi phí trả trước tính bằng số tuần SG&A qua các năm; một bước nhảy lớn không có giải thích trong thuyết minh báo cáo tài chính có thể là dấu hiệu chậm ghi chi phí. Đồng thời, nhớ bài học tác động hai mặt: lợi nhuận bị thổi phồng luôn đi kèm một tài sản bị thổi phồng ở đâu đó trên bảng cân đối kế toán.
 - **Người đọc Việt Nam (định tính):** khái niệm chi phí trả trước của Tracy tương ứng về bản chất với nhóm khoản chi đã trả nhưng được phân bổ dần vào chi phí trong các kỳ sau ở báo cáo tài chính doanh nghiệp Việt Nam; cách đọc "số dư so với quy mô chi phí hoạt động" và cảnh giác với việc phân bổ chậm để đẩy lợi nhuận lên có thể áp dụng tương tự.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 8 trên một trang: sáu nhánh lớn đi theo các mục 1–3 của phần Nội dung chi tiết và phần Đánh giá (Exhibit 8.1 nối SG&A với chi phí trả trước, quy trình hai bước, quy mô và tác động lên dòng tiền, làm đẹp số liệu bằng chi phí trả trước, tác động hai mặt qua ví dụ hàng tồn kho hư hỏng, đánh giá và vận dụng), mỗi nhánh ghi định nghĩa, phép tính và con số then chốt của doanh nghiệp ví dụ; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 8: chi phí trả trước là tài khoản tạm giữ, trả tiền trước rồi chuyển dần sang chi phí để ghi chi phí đúng kỳ`"]
+  n1["`Mục 1 — Exhibit 8.1 nối dòng SG#amp;A với chi phí trả trước (nghìn USD)`"]
+  n0 --- n1
+  n2["`Báo cáo kết quả kinh doanh: doanh thu 52.000, giá vốn 33.800, SG#amp;A 12.480, lợi nhuận ròng 2.642`"]
+  n1 --- n2
+  n3["`Giả định: các khoản đã trả mà năm sau mới ghi chi phí bằng bốn tuần chi phí hoạt động`"]
+  n1 --- n3
+  n4["`Số dư cuối năm = 4/52 × 12.480 = 960 (240 mỗi tuần × 4 tuần)`"]
+  n1 --- n4
+  n5["`Chi phí hoạt động ở đây chỉ là dòng SG#amp;A, không gồm khấu hao 785, lãi vay 545 hay giá vốn`"]
+  n1 --- n5
+  n6["`Bảng cân đối: tiền 3.265, phải thu 5.000, tồn kho 8.450, chi phí trả trước 960, tổng tài sản 35.500`"]
+  n1 --- n6
+  n7["`Mục 2 — Trả tiền trước, ghi nhận chi phí sau: quy trình hai bước`"]
+  n0 --- n7
+  n8["`Ngược với Chương 7: ở đó chi phí ghi nhận trước, trả tiền sau, sinh ra nợ phải trả`"]
+  n7 --- n8
+  n9["`Phí bảo hiểm trả trước cho kỳ hợp đồng, thường 6 hoặc 12 tháng`"]
+  n7 --- n9
+  n10["`Vật tư văn phòng và vật tư máy tính mua số lượng lớn, dùng dần nhiều tuần hoặc nhiều tháng`"]
+  n7 --- n10
+  n11["`Thuế tài sản cả năm nộp đầu năm thuế, phân bổ cho các tháng hưởng lợi`"]
+  n7 --- n11
+  n12["`Bước 1: khi chi tiền, ghi vào tài sản chi phí trả trước, đóng vai trò tài khoản tạm giữ`"]
+  n7 --- n12
+  n13["`Bước 2: khi đến kỳ, chuyển phần thích hợp sang tài khoản chi phí hoạt động`"]
+  n7 --- n13
+  n14["`Mỗi tháng tương lai nhận phần chi phí công bằng của mình`"]
+  n13 --- n14
+  n15["`Quy mô chi phí hoạt động dẫn dắt quy mô chi phí trả trước`"]
+  n7 --- n15
+  n16["`Mục 2 — Quy mô, lý do ghi đúng kỳ và tác động lên tiền`"]
+  n0 --- n16
+  n17["`Số dư 960 nhỏ hơn nhiều so với phải thu 5.000 và tồn kho 8.450, điều điển hình ở hầu hết doanh nghiệp`"]
+  n16 --- n17
+  n18["`Chỉ khoảng 2,7% tổng tài sản, so với tồn kho 23,8% và phải thu 14,1%`"]
+  n17 --- n18
+  n19["`Ghi ngay vào chi phí là quá sớm: chi phí kỳ này cao lên, kỳ sau thấp đi`"]
+  n16 --- n19
+  n20["`Mục đích chính không phải ghi nhận tài sản, dù khoản trả trước là tài sản hợp lệ`"]
+  n16 --- n20
+  n21["`Giống đầu tư vào nhà xưởng, máy móc, nhưng chuyển vào chi phí trong thời gian ngắn, không qua nhiều năm`"]
+  n16 --- n21
+  n22["`Trả trước làm giảm tiền, tiền ra sớm hơn lúc chi phí được ghi nhận`"]
+  n16 --- n22
+  n23["`Chi phí trả trước tăng từ 685 lên 960, tức tăng 275`"]
+  n22 --- n23
+  n24["`Mức tăng 275 bị trừ khi đi từ lợi nhuận ròng 2.642 sang dòng tiền kinh doanh 3.105`"]
+  n22 --- n24
+  n25["`Mục 3 — Các vấn đề kế toán và làm đẹp số liệu`"]
+  n0 --- n25
+  n26["`Thường không có vấn đề nghiêm trọng#59; doanh nghiệp sắp sụp đổ thì ghi giảm số dư thành lỗ`"]
+  n25 --- n26
+  n27["`Gian lận kế toán: cố ý bóp méo ghi doanh thu, chi phí để che khó khăn hoặc thổi phồng lợi nhuận`"]
+  n25 --- n27
+  n28["`Chi phí trả trước nhỏ nên không phải yếu tố quan trọng của gian lận, Chương 20 và 21 bàn kỹ`"]
+  n27 --- n28
+  n29["`Kéo lợi nhuận xuống: không qua tài khoản trả trước mà ghi ngay khoản trả trước vào chi phí`"]
+  n25 --- n29
+  n30["`Đẩy lợi nhuận lên: cố ý chậm chuyển khoản trả trước sang chi phí dù chi phí thuộc kỳ này`"]
+  n25 --- n30
+  n31["`Kế toán không tự ý làm đẹp số liệu, nhà quản lý cấp cao yêu cầu lợi nhuận cao hơn hoặc thấp hơn`"]
+  n25 --- n31
+  n32["`Kế toán phải vượt quy trình đã thiết lập, rơi vào tình thế khó xử về đạo đức`"]
+  n31 --- n32
+  n33["`Kiểm toán viên CPA phải phát hiện mọi sai lệch đáng kể và quyết định xử lý (Chương 21)`"]
+  n31 --- n33
+  n34["`Mục 3 — Tác động hai mặt: ví dụ hàng tồn kho hư hỏng`"]
+  n0 --- n34
+  n35["`Thao túng doanh thu, chi phí làm cả báo cáo kết quả kinh doanh lẫn bảng cân đối chứa số sai`"]
+  n34 --- n35
+  n36["`Một phần tồn kho cuối năm hư hỏng, không có bảo hiểm, năm sau phải bán dưới giá gốc`"]
+  n34 --- n36
+  n37["`Lý thuyết kế toán: khoản lỗ phải ghi vào kỳ xảy ra hư hỏng`"]
+  n36 --- n37
+  n38["`Ban lãnh đạo không muốn ghi lỗ năm nay vì cho rằng năm sau hấp thụ dễ hơn`"]
+  n36 --- n38
+  n39["`Kết quả: lợi nhuận ròng, hàng tồn kho cuối năm và lợi nhuận giữ lại cùng quá cao`"]
+  n34 --- n39
+  n40["`Tracy: thao túng số liệu kế toán diễn ra thường xuyên, một góc tối của kế toán`"]
+  n34 --- n40
+  n41["`Đánh giá và phát hiện đáng chú ý`"]
+  n0 --- n41
+  n42["`Cùng SG#amp;A 12.480 vừa sinh nợ phải trả (Chương 7) vừa sinh chi phí trả trước 960`"]
+  n41 --- n42
+  n43["`Tỷ lệ 4/52 là công cụ minh hoạ#59; thực tế số dư là tổng từng hợp đồng, tiền lương không trả trước`"]
+  n41 --- n43
+  n44["`Ghi ngay khoản trả trước nhỏ, không trọng yếu, nhất quán qua các năm thường được chấp nhận`"]
+  n41 --- n44
+  n45["`Ví dụ hư hỏng bỏ qua thuế: lợi nhuận ròng bị thổi phồng ít hơn khoản lỗ bị giấu`"]
+  n41 --- n45
+  n46["`Từ ASC 842/IFRS 16 (2019), tiền thuê trả trước phần lớn gộp vào tài sản quyền sử dụng`"]
+  n41 --- n46
+  n47["`Hệ số thanh toán nhanh loại chi phí trả trước ra, người cho vay không coi là tài sản đảm bảo`"]
+  n41 --- n47
+  n48["`Nhà đầu tư theo dõi chi phí trả trước tính bằng số tuần SG#amp;A, bước nhảy lớn có thể là chậm ghi chi phí`"]
+  n41 --- n48
+  n49["`Thông điệp xuyên suốt`"]
+  n0 --- n49
+  n50["`Chi phí trả trước là tiền đã ra khỏi doanh nghiệp nhưng chưa vào chi phí, cầu nối thời gian giữa dòng tiền và lợi nhuận`"]
+  n49 --- n50
+  n51["`Mỗi độ lệch thời gian giữa lợi nhuận và dòng tiền để lại một số dư trên bảng cân đối kế toán`"]
+  n49 --- n51
+  n52["`Lợi nhuận bị thổi phồng luôn đi kèm một tài sản bị thổi phồng ở đâu đó trên bảng cân đối`"]
+  n49 --- n52
+  n53["`Chương 9 mở rộng cùng logic trả trước, phân bổ sau sang khấu hao tài sản dài hạn`"]
+  n49 --- n53
+  class n0 root
+  class n1,n7,n16,n25,n34,n41,n49 branch
+  class n2,n3,n4,n5,n6,n8,n9,n10,n11,n12,n13,n14,n15,n17,n18,n19,n20,n21,n22,n23,n24,n26,n27,n28,n29,n30,n31,n32,n33,n35,n36,n37,n38,n39,n40,n42,n43,n44,n45,n46,n47,n48,n50,n51,n52,n53 leaf
+```
+
+## Nguồn
+
+John A. Tracy, *How to Read a Financial Report: Wringing Vital Signs Out of the Numbers*, ấn bản thứ bảy (John Wiley & Sons, 2009), Phần Một "Components and Connections in Financial Statements", Chương 8 "Operating Expenses and Prepaid Expenses", trang in 50–55 (Exhibit 8.1 in ở trang 50, trang tên chương ở trang 51, phần chữ ở trang 52–55).
+
+## Tác giả
+
+John A. Tracy, giáo sư kế toán danh dự Đại học Colorado ở Boulder, kế toán viên công chứng (CPA).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Từ Chương 4 trở đi, mỗi chương của Phần Một lấy ra một **mối nối** (connection) giữa một khoản mục trên báo cáo kết quả kinh doanh (income statement) và một khoản mục trên bảng cân đối kế toán (balance sheet) của cùng một doanh nghiệp ví dụ (doanh thu 52 triệu USD/năm). Chương 4 nối doanh thu với phải thu khách hàng, Chương 5 nối giá vốn hàng bán với hàng tồn kho, Chương 6 nối hàng tồn kho với phải trả người bán.
+
+Chương 7 ([C07-chi-phi-hoat-dong-va-phai-tra-nguoi-ban.md](C07-chi-phi-hoat-dong-va-phai-tra-nguoi-ban.md)) đã chỉ ra rằng một phần chi phí bán hàng, chi phí chung và quản lý (SG&A) được **ghi nhận trước khi trả tiền**, nên sinh ra một khoản nợ phải trả. Chương 8 trình bày trường hợp ngược lại: có những khoản chi phí hoạt động được **trả tiền trước khi ghi nhận là chi phí**, nên sinh ra một tài sản là chi phí trả trước (prepaid expenses).
+
+Đây là chương ngắn nhất trong chuỗi mối nối, nhưng Tracy dùng phần "Accounting Issues" của nó để lần đầu mở ra chủ đề gian lận kế toán và làm đẹp số liệu (massaging the numbers), chủ đề sẽ được bàn kỹ ở Chương 20 ([C20-phuong-phap-ke-toan-va-lam-dep-so-lieu.md](C20-phuong-phap-ke-toan-va-lam-dep-so-lieu.md)) và Chương 21 ([C21-kiem-toan-bao-cao-tai-chinh-thoi-hau-enron.md](C21-kiem-toan-bao-cao-tai-chinh-thoi-hau-enron.md)). Chương sau, Chương 9 ([C09-mot-chi-phi-dac-biet-khau-hao.md](C09-mot-chi-phi-dac-biet-khau-hao.md)), mở rộng cùng logic "trả tiền trước, phân bổ vào chi phí sau" sang tài sản dài hạn với khấu hao, chỉ khác là thời gian phân bổ kéo dài nhiều năm. Chương 13 ([C13-dong-tien-tu-hoat-dong-kinh-doanh.md](C13-dong-tien-tu-hoat-dong-kinh-doanh.md)) sẽ dùng mức tăng của chi phí trả trước để giải thích vì sao dòng tiền từ hoạt động kinh doanh thấp hơn lợi nhuận ròng.
+
+## Lưu ý
+
+- **Vị trí Exhibit 8.1.** Lời văn nói Exhibit 8.1 nằm "ở đầu chương" (at the start of the chapter), nhưng trong bản in, Exhibit này nằm ở trang in 50, tức trang ngay trước trang tên Chương 8 (trang in 51). Đây là cách dàn trang chung của sách (Exhibit 9.1 cũng in ở trang 56, trước trang tên Chương 9), không phải sai nội dung.
+- **Câu bị viết ngược nghĩa trong ví dụ hàng tồn kho hư hỏng (trang in 55).** Sách viết "But top management wants to record the hit against profit this year" (nhưng ban lãnh đạo cấp cao muốn ghi khoản lỗ vào lợi nhuận năm nay). Câu này mâu thuẫn với câu ngay sau ("khoản lỗ có thể được hấp thụ dễ hơn vào năm sau, theo họ nghĩ") và với câu kết luận ("vì vậy, kế toán không ghi khoản lỗ trong năm nay"). Nghĩa đúng theo mạch lập luận phải là ban lãnh đạo **không** muốn ghi khoản lỗ vào năm nay. Bản tổng hợp này trình bày theo nghĩa đúng.
+- **Thành ngữ bị đảo tên.** Thành ngữ tiếng Anh quen thuộc là "rob Peter to pay Paul" (lấy của người này đắp cho người kia). Tracy viết "robbing Paul (expenses higher this period) to pay Peter (expenses lower next period)", đảo vị trí hai cái tên; ý nghĩa vẫn rõ nhờ phần trong ngoặc: ghi ngay vào chi phí thì kỳ này chịu chi phí cao hơn, kỳ sau được chi phí thấp hơn.
+- **Phép tính 4/52 × 12.480 = 960 đúng chính xác** (12.480 ÷ 52 = 240 nghìn USD mỗi tuần; 240 × 4 = 960). Lưu ý rằng con số 12.480 chỉ gồm chi phí bán hàng, chi phí chung và quản lý; nó không gồm chi phí khấu hao (785), chi phí lãi vay (545) hay giá vốn hàng bán. Khi sách nói "chi phí hoạt động hằng năm" (annual operating expenses) trong chương này, sách hiểu là riêng dòng SG&A.
+- **Tỷ lệ "bốn tuần" là giả định của mô hình.** Tracy nói doanh nghiệp "biết từ kinh nghiệm" chi phí trả trước bằng bao nhiêu phần chi phí hoạt động, và chọn bốn tuần cho ví dụ. Trong thực tế, phần lớn SG&A (như tiền lương) không trả trước; tỷ lệ này chỉ là cách để nối hai con số cho dễ hiểu, không phải quy tắc kế toán.
+- **Số năm trước của chi phí trả trước không có trong Exhibit 8.1.** Exhibit 8.1 chỉ có số cuối năm nay (960). Số đầu năm (685) và mức tăng (275) lấy từ bảng cân đối kế toán ở Chương 2 (Exhibit 2.1) và được chép lại ở phần Nội dung chi tiết để người đọc thấy tác động lên dòng tiền.
+- **Điều đã thay đổi từ 2009, theo hiểu biết của người tổng hợp, không tra cứu:** quy tắc ghi giảm hàng tồn kho (ví dụ hàng hư hỏng trong chương) ở Mỹ đã chuyển từ "giá thấp hơn giữa giá gốc và giá thị trường" sang "giá thấp hơn giữa giá gốc và giá trị thuần có thể thực hiện được" cho phần lớn phương pháp tính giá (trừ LIFO và phương pháp bán lẻ) từ khoảng năm 2017; tiền thuê trả trước, vốn là một ví dụ điển hình của chi phí trả trước, nay phần lớn được gộp vào tài sản quyền sử dụng (right-of-use asset) theo chuẩn mực thuê tài sản ASC 842/IFRS 16 (2019); các chuẩn mực kế toán Mỹ đã được tập hợp lại thành Bộ chuẩn mực FASB Codification (ASC) từ 2009.
+- Các câu trích trong phần "Câu nói đáng nhớ" là bản dịch của người tổng hợp.

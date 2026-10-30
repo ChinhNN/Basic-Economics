@@ -1,17 +1,16 @@
 # Chương 6 — Hàng tồn kho và phải trả người bán (Inventory and Accounts Payable)
 
-**Nguồn:** John A. Tracy, *How to Read a Financial Report: Wringing Vital Signs Out of the Numbers*, ấn bản thứ bảy (John Wiley & Sons, 2009), Phần Một "Components and Connections in Financial Statements", Chương 6 "Inventory and Accounts Payable", trang in 38–43 (Exhibit 6.1 ở trang in 38, trang tên chương ở trang in 39, phần chữ ở trang in 40–43).
-**Tác giả:** John A. Tracy, giáo sư kế toán danh dự Đại học Colorado ở Boulder, kế toán viên công chứng (CPA).
-**Vị trí trong lập luận của cả cuốn sách:** Từ Chương 4, Tracy đi lần lượt qua từng **mối nối** (connection) giữa các khoản mục của bộ báo cáo tài chính. Chương 4 ([C04-doanh-thu-va-phai-thu-khach-hang.md](C04-doanh-thu-va-phai-thu-khach-hang.md)) nối doanh thu với phải thu khách hàng; Chương 5 ([C05-gia-von-hang-ban-va-hang-ton-kho.md](C05-gia-von-hang-ban-va-hang-ton-kho.md)) nối giá vốn hàng bán với hàng tồn kho và cho biết doanh nghiệp giữ hàng tồn kho trung bình 13 tuần. Hai chương đó đều nối một khoản của báo cáo kết quả kinh doanh với một khoản của bảng cân đối kế toán. Chương 6 là mối nối đầu tiên giữa **hai khoản cùng nằm trên bảng cân đối kế toán**: hàng tồn kho (tài sản) kéo theo phải trả người bán (nợ phải trả). Tracy tách tổng số dư phải trả người bán 3.320 nghìn USD thành hai phần: 2.600 nghìn USD phát sinh từ mua hàng tồn kho (chương này) và 720 nghìn USD phát sinh từ chi phí bán hàng, chi phí chung và quản lý chưa trả (Chương 7, [C07-chi-phi-hoat-dong-va-phai-tra-nguoi-ban.md](C07-chi-phi-hoat-dong-va-phai-tra-nguoi-ban.md)). Về sau, Chương 13 ([C13-dong-tien-tu-hoat-dong-kinh-doanh.md](C13-dong-tien-tu-hoat-dong-kinh-doanh.md)) dùng mức tăng phải trả người bán trong năm (từ 2.675 lên 3.320, tức tăng 645 nghìn USD) như một khoản làm tăng dòng tiền từ hoạt động kinh doanh, và Chương 17 ([C17-cac-chi-so-tai-chinh.md](C17-cac-chi-so-tai-chinh.md)) dùng các khoản nợ ngắn hạn này khi tính các hệ số thanh toán.
-**Ý chính:** Tracy muốn người đọc hiểu rằng **số dư phải trả người bán cho hàng tồn kho được quyết định bởi tỷ lệ giữa thời gian doanh nghiệp được nợ người bán và thời gian doanh nghiệp giữ hàng tồn kho**. Ví dụ trung tâm: doanh nghiệp sản xuất trong sách giữ hàng tồn kho trung bình 13 tuần (từ lúc bắt đầu sản xuất tới lúc bán), nhưng trả tiền mua nguyên vật liệu và các đầu vào sản xuất trung bình sau 4 tuần. Vì thế phải trả người bán cho hàng tồn kho cuối năm bằng 4/13 số dư hàng tồn kho: 4/13 × 8.450 nghìn USD = 2.600 nghìn USD. Bốn tuần đầu của thời gian giữ hàng được người bán "tài trợ" không tính lãi; chín tuần còn lại doanh nghiệp phải tài trợ bằng vốn vay và vốn chủ sở hữu. Tracy nói thêm rằng sự "tài trợ không mất tiền" này không hoàn toàn miễn phí, vì người bán cho nợ thường đặt giá cao hơn một chút để bù cho việc nhận tiền chậm. Ở phần các vấn đề kế toán, Tracy cho rằng phải trả người bán ít gây khó khăn về cách ghi sổ; vấn đề chính là **công bố thông tin**: người đọc được quyền giả định rằng số phải trả người bán sẽ được trả đúng số đó trong thời gian ngắn, rằng các chủ nợ này không có quyền ưu tiên đặc biệt, và rằng các khoản nợ không bị quá hạn nghiêm trọng; nếu thực tế khác đi, doanh nghiệp nên nói rõ trong thuyết minh báo cáo tài chính. Tuy nhiên, Tracy thừa nhận trên thực tế doanh nghiệp công bố rất ít về khoản nợ này, dù nó có thể lớn hơn cả số dư tiền.
+## Ý chính
 
-> **Lưu ý:**
-> - **Vị trí của Exhibit 6.1:** như các chương khác của sách, bảng "ở đầu chương" được in ở trang chẵn đối diện trang tên chương: Exhibit 6.1 nằm ở trang in 38 (trang PDF 50), ngay *trước* trang tên chương (trang in 39). Trang in 44 (trang PDF 56) là Exhibit 7.1 thuộc Chương 7, không thuộc chương này. Bản tổng hợp chép Exhibit 6.1 từ trang in 38.
-> - **Phép tính 4/13 × 8.450 = 2.600 đúng chính xác** (8.450 ÷ 13 = 650; 650 × 4 = 2.600). Các phép cộng trong Exhibit 6.1 cũng đúng: tổng tài sản 35.500, tổng nợ phải trả và vốn chủ sở hữu 35.500, lợi nhuận ròng 2.642; phải trả người bán 2.600 + 720 = 3.320.
-> - **Chỗ sách viết gọn:** cách tính "4/13 của toàn bộ hàng tồn kho" ngầm giả định rằng mọi thành phần trong giá trị hàng tồn kho đều được mua chịu qua phải trả người bán. Trong thực tế (theo hiểu biết của người tổng hợp, không tra cứu), giá trị hàng tồn kho của doanh nghiệp sản xuất còn gồm tiền lương công nhân sản xuất (trả qua bảng lương, không qua phải trả người bán) và chi phí sản xuất chung như khấu hao nhà xưởng (không phải trả cho ai). Vì vậy 2.600 nghìn USD là một con số minh hoạ được dựng cho tròn, chứ không phải công thức áp dụng nguyên xi cho doanh nghiệp thật.
-> - **Câu dễ hiểu nhầm về tỷ lệ 10%:** ở cuối chương Tracy viết rằng phải trả người bán có thể lớn hơn 10% tổng tài sản và có thể lớn hơn số dư tiền "như trong ví dụ của chúng ta". Với số của doanh nghiệp ví dụ, vế thứ hai đúng (phải trả người bán 3.320 lớn hơn tiền 3.265), nhưng vế thứ nhất không đúng: 3.320 ÷ 35.500 = 9,4%, chưa tới 10%. Nên hiểu cụm "như trong ví dụ" chỉ áp vào vế so với tiền.
-> - **Hai dòng cùng tên "Accounts Payable":** việc tách phải trả người bán thành hai dòng (2.600 và 720) là cách trình bày để giảng dạy; báo cáo tài chính thật thường chỉ có một dòng phải trả người bán (ở đây là 3.320). Exhibit 6.1 cũng chỉ có số cuối năm, không có cột năm trước như bảng cân đối kế toán ở Chương 2.
-> - **Về công bố thông tin:** từ sau 2009 đã có thay đổi liên quan trực tiếp tới lời phàn nàn của Tracy (theo hiểu biết của người tổng hợp, không tra cứu): FASB ban hành ASU 2022-04 yêu cầu bên mua công bố các chương trình tài trợ cho nhà cung cấp (supplier finance programs, còn gọi là reverse factoring), áp dụng từ khoảng năm 2023; IASB sửa IAS 7 và IFRS 7 với yêu cầu tương tự, áp dụng từ năm 2024. Ngoài các thay đổi đó, phần lớn nhận xét của Tracy (ít có thuyết minh chi tiết về phải trả người bán) vẫn đúng.
+Tracy muốn người đọc hiểu rằng **số dư phải trả người bán cho hàng tồn kho được quyết định bởi tỷ lệ giữa thời gian doanh nghiệp được nợ người bán và thời gian doanh nghiệp giữ hàng tồn kho**.
+
+Ví dụ trung tâm: doanh nghiệp sản xuất trong sách giữ hàng tồn kho trung bình 13 tuần (từ lúc bắt đầu sản xuất tới lúc bán), nhưng trả tiền mua nguyên vật liệu và các đầu vào sản xuất trung bình sau 4 tuần. Vì thế phải trả người bán cho hàng tồn kho cuối năm bằng 4/13 số dư hàng tồn kho: 4/13 × 8.450 nghìn USD = 2.600 nghìn USD.
+
+Bốn tuần đầu của thời gian giữ hàng được người bán "tài trợ" không tính lãi; chín tuần còn lại doanh nghiệp phải tài trợ bằng vốn vay và vốn chủ sở hữu. Tracy nói thêm rằng sự "tài trợ không mất tiền" này không hoàn toàn miễn phí, vì người bán cho nợ thường đặt giá cao hơn một chút để bù cho việc nhận tiền chậm.
+
+Ở phần các vấn đề kế toán, Tracy cho rằng phải trả người bán ít gây khó khăn về cách ghi sổ; vấn đề chính là **công bố thông tin**: người đọc được quyền giả định rằng số phải trả người bán sẽ được trả đúng số đó trong thời gian ngắn, rằng các chủ nợ này không có quyền ưu tiên đặc biệt, và rằng các khoản nợ không bị quá hạn nghiêm trọng. Nếu thực tế khác đi, doanh nghiệp nên nói rõ trong thuyết minh báo cáo tài chính.
+
+Tuy nhiên, Tracy thừa nhận trên thực tế doanh nghiệp công bố rất ít về khoản nợ này, dù nó có thể lớn hơn cả số dư tiền.
 
 ## Sơ đồ
 
@@ -328,7 +327,9 @@ Số dư phải trả người bán cho hàng tồn kho trên bảng cân đối
 
 ### Trong ngôn ngữ kế toán và tài chính
 
-Theo cách nói phổ biến hiện nay (người tổng hợp diễn đạt, Tracy không dùng các thuật ngữ này trong chương): tỷ lệ 4/13 chính là số ngày phải trả người bán (days payable outstanding, DPO) chia cho số ngày tồn kho (days inventory outstanding, DIO). Tính theo giá vốn hàng bán: 2.600 ÷ 33.800 × 52 tuần = 4 tuần, khớp với giả định của Tracy. Ghép với thời gian thu tiền khách hàng 5 tuần ở Chương 4 (5.000 ÷ 52.000 × 52 tuần), chu kỳ chuyển đổi tiền mặt (cash conversion cycle) của doanh nghiệp ví dụ xấp xỉ 5 + 13 − 4 = 14 tuần: đó là khoảng thời gian mà mỗi đồng tiền bỏ vào chu kỳ kinh doanh phải do vốn vay và vốn chủ sở hữu tài trợ. Phải trả người bán là một khoản trong vốn lưu động (working capital), một nguồn tài trợ "tự phát" (spontaneous financing) tăng giảm theo quy mô hoạt động.
+Theo cách nói phổ biến hiện nay (người tổng hợp diễn đạt, Tracy không dùng các thuật ngữ này trong chương): tỷ lệ 4/13 chính là số ngày phải trả người bán (days payable outstanding, DPO) chia cho số ngày tồn kho (days inventory outstanding, DIO). Tính theo giá vốn hàng bán: 2.600 ÷ 33.800 × 52 tuần = 4 tuần, khớp với giả định của Tracy.
+
+Ghép với thời gian thu tiền khách hàng 5 tuần ở Chương 4 (5.000 ÷ 52.000 × 52 tuần), chu kỳ chuyển đổi tiền mặt (cash conversion cycle) của doanh nghiệp ví dụ xấp xỉ 5 + 13 − 4 = 14 tuần: đó là khoảng thời gian mà mỗi đồng tiền bỏ vào chu kỳ kinh doanh phải do vốn vay và vốn chủ sở hữu tài trợ. Phải trả người bán là một khoản trong vốn lưu động (working capital), một nguồn tài trợ "tự phát" (spontaneous financing) tăng giảm theo quy mô hoạt động.
 
 ## Thuật ngữ
 
@@ -394,19 +395,27 @@ Theo cách nói phổ biến hiện nay (người tổng hợp diễn đạt, Tr
 
 ### Cách nhìn phải trả người bán như một nguồn tài trợ cho hàng tồn kho là điểm mạnh nhất của chương
 
-Nhiều sách nhập môn chỉ định nghĩa phải trả người bán là "khoản nợ do mua chịu". Tracy đi xa hơn bằng cách đặt nó cạnh hàng tồn kho và hỏi: trong 13 tuần hàng nằm trong kho, ai bỏ tiền ra? Câu trả lời "người bán 4 tuần, doanh nghiệp 9 tuần" biến một dòng trên bảng cân đối kế toán thành một câu chuyện về nhu cầu vốn. Nó cũng chuẩn bị cho Chương 13 và Chương 16: khi doanh nghiệp tăng trưởng, hàng tồn kho tăng kéo theo phải trả người bán tăng, nhưng phần tăng của phải trả người bán chỉ bù được một phần (khoảng 4/13) phần tăng của hàng tồn kho; phần còn lại làm dòng tiền từ hoạt động kinh doanh thấp hơn lợi nhuận. Trong năm của ví dụ, hàng tồn kho tăng 935 nghìn USD, còn tổng phải trả người bán tăng 645 nghìn USD (gồm cả phần liên quan tới chi phí SG&A).
+Nhiều sách nhập môn chỉ định nghĩa phải trả người bán là "khoản nợ do mua chịu". Tracy đi xa hơn bằng cách đặt nó cạnh hàng tồn kho và hỏi: trong 13 tuần hàng nằm trong kho, ai bỏ tiền ra? Câu trả lời "người bán 4 tuần, doanh nghiệp 9 tuần" biến một dòng trên bảng cân đối kế toán thành một câu chuyện về nhu cầu vốn.
+
+Nó cũng chuẩn bị cho Chương 13 và Chương 16: khi doanh nghiệp tăng trưởng, hàng tồn kho tăng kéo theo phải trả người bán tăng, nhưng phần tăng của phải trả người bán chỉ bù được một phần (khoảng 4/13) phần tăng của hàng tồn kho; phần còn lại làm dòng tiền từ hoạt động kinh doanh thấp hơn lợi nhuận. Trong năm của ví dụ, hàng tồn kho tăng 935 nghìn USD, còn tổng phải trả người bán tăng 645 nghìn USD (gồm cả phần liên quan tới chi phí SG&A).
 
 ### Tỷ lệ 4/13 là con số minh hoạ, không phải công thức áp được cho doanh nghiệp thật
 
-Tracy áp tỷ lệ cho toàn bộ số dư hàng tồn kho 8.450, ngầm coi mọi thứ trong giá trị hàng tồn kho đều được mua chịu. Theo hiểu biết của người tổng hợp, ở doanh nghiệp sản xuất thật, giá trị hàng tồn kho còn chứa tiền lương công nhân sản xuất và chi phí sản xuất chung (trong đó có khấu hao nhà xưởng), là những phần không đi qua phải trả người bán. Hơn nữa, nguyên vật liệu được mua ở đầu quá trình sản xuất chứ không rải đều trong 13 tuần. Vì vậy, nếu một người phân tích muốn ước tính thời gian được nợ người bán từ báo cáo thật, cách đúng hơn là so phải trả người bán với giá trị mua hàng trong kỳ (giá vốn hàng bán cộng mức tăng hàng tồn kho, trừ các phần không mua chịu), chứ không phải với số dư hàng tồn kho. Sự giản lược này không làm sai ý chính của Tracy, nhưng người đọc không nên dùng tỷ lệ "thời gian nợ / thời gian giữ hàng × hàng tồn kho" như một quy tắc.
+Tracy áp tỷ lệ cho toàn bộ số dư hàng tồn kho 8.450, ngầm coi mọi thứ trong giá trị hàng tồn kho đều được mua chịu. Theo hiểu biết của người tổng hợp, ở doanh nghiệp sản xuất thật, giá trị hàng tồn kho còn chứa tiền lương công nhân sản xuất và chi phí sản xuất chung (trong đó có khấu hao nhà xưởng), là những phần không đi qua phải trả người bán. Hơn nữa, nguyên vật liệu được mua ở đầu quá trình sản xuất chứ không rải đều trong 13 tuần.
+
+Vì vậy, nếu một người phân tích muốn ước tính thời gian được nợ người bán từ báo cáo thật, cách đúng hơn là so phải trả người bán với giá trị mua hàng trong kỳ (giá vốn hàng bán cộng mức tăng hàng tồn kho, trừ các phần không mua chịu), chứ không phải với số dư hàng tồn kho. Sự giản lược này không làm sai ý chính của Tracy, nhưng người đọc không nên dùng tỷ lệ "thời gian nợ / thời gian giữ hàng × hàng tồn kho" như một quy tắc.
 
 ### Lời cảnh báo về "bữa trưa miễn phí" đúng, nhưng chi phí của tín dụng thương mại có thể lớn hơn chữ "nhỏ" của Tracy
 
-Tracy nói khoản lãi ẩn trong giá mua là "nhỏ". Theo hiểu biết của người tổng hợp, không tra cứu: khi người bán đưa ra chiết khấu thanh toán sớm, chi phí của việc bỏ qua chiết khấu có thể rất cao nếu quy ra lãi suất năm. Với điều khoản phổ biến ở Mỹ "2/10, net 30" (giảm 2% nếu trả trong 10 ngày, nếu không thì trả đủ trong 30 ngày), người mua không trả sớm thực chất đang vay thêm 20 ngày với chi phí khoảng 2%, tương đương hơn 30% một năm. Chính Tracy có nhắc rằng doanh nghiệp trả một số khoản sớm để hưởng chiết khấu; điều này cho thấy việc kéo dài thời gian nợ người bán chưa chắc đã có lợi, và nhà quản lý nên so chi phí ngầm của tín dụng thương mại với lãi suất vay ngân hàng.
+Tracy nói khoản lãi ẩn trong giá mua là "nhỏ". Theo hiểu biết của người tổng hợp, không tra cứu: khi người bán đưa ra chiết khấu thanh toán sớm, chi phí của việc bỏ qua chiết khấu có thể rất cao nếu quy ra lãi suất năm. Với điều khoản phổ biến ở Mỹ "2/10, net 30" (giảm 2% nếu trả trong 10 ngày, nếu không thì trả đủ trong 30 ngày), người mua không trả sớm thực chất đang vay thêm 20 ngày với chi phí khoảng 2%, tương đương hơn 30% một năm.
+
+Chính Tracy có nhắc rằng doanh nghiệp trả một số khoản sớm để hưởng chiết khấu; điều này cho thấy việc kéo dài thời gian nợ người bán chưa chắc đã có lợi, và nhà quản lý nên so chi phí ngầm của tín dụng thương mại với lãi suất vay ngân hàng.
 
 ### Ba giả định mặc định về phải trả người bán là danh sách kiểm tra hữu ích, và lời phàn nàn về thiếu công bố một phần đã được chuẩn mực mới đáp ứng
 
-Ba giả định của Tracy (số sẽ trả đúng như ghi sổ, chủ nợ thông thường, nợ trong hạn) là cách gọn để người đọc nhận ra mình đang tin vào điều gì khi đọc một con số không có thuyết minh. Theo hiểu biết của người tổng hợp, không tra cứu: sau 2009, vấn đề minh bạch về phải trả người bán nổi lên rõ nhất qua các chương trình tài trợ cho nhà cung cấp (supplier finance, reverse factoring), trong đó ngân hàng trả trước cho nhà cung cấp còn doanh nghiệp mua trả ngân hàng sau, khiến một khoản thực chất là vay ngân hàng vẫn nằm trong dòng phải trả người bán và làm dòng tiền từ hoạt động kinh doanh trông tốt hơn. Sự sụp đổ của một số doanh nghiệp lớn có dùng nhiều hình thức này đã thúc đẩy FASB (Hội đồng Chuẩn mực Kế toán Tài chính Mỹ) ban hành ASU 2022-04 và IASB (Hội đồng Chuẩn mực Kế toán Quốc tế) sửa IAS 7 và IFRS 7, buộc doanh nghiệp công bố quy mô và điều khoản của các chương trình này. Đây chính là loại thông tin mà Tracy cho rằng doanh nghiệp nên công bố. Ngoài mảng đó, nhận xét của ông rằng doanh nghiệp được "nới tay" về thuyết minh phải trả người bán phần lớn vẫn đúng.
+Ba giả định của Tracy (số sẽ trả đúng như ghi sổ, chủ nợ thông thường, nợ trong hạn) là cách gọn để người đọc nhận ra mình đang tin vào điều gì khi đọc một con số không có thuyết minh. Theo hiểu biết của người tổng hợp, không tra cứu: sau 2009, vấn đề minh bạch về phải trả người bán nổi lên rõ nhất qua các chương trình tài trợ cho nhà cung cấp (supplier finance, reverse factoring), trong đó ngân hàng trả trước cho nhà cung cấp còn doanh nghiệp mua trả ngân hàng sau, khiến một khoản thực chất là vay ngân hàng vẫn nằm trong dòng phải trả người bán và làm dòng tiền từ hoạt động kinh doanh trông tốt hơn.
+
+Sự sụp đổ của một số doanh nghiệp lớn có dùng nhiều hình thức này đã thúc đẩy FASB (Hội đồng Chuẩn mực Kế toán Tài chính Mỹ) ban hành ASU 2022-04 và IASB (Hội đồng Chuẩn mực Kế toán Quốc tế) sửa IAS 7 và IFRS 7, buộc doanh nghiệp công bố quy mô và điều khoản của các chương trình này. Đây chính là loại thông tin mà Tracy cho rằng doanh nghiệp nên công bố. Ngoài mảng đó, nhận xét của ông rằng doanh nghiệp được "nới tay" về thuyết minh phải trả người bán phần lớn vẫn đúng.
 
 ### Giả định "chủ nợ phải trả người bán là chủ nợ thông thường" đơn giản hoá thực tế pháp lý
 
@@ -418,3 +427,140 @@ Tracy coi quyền ưu tiên của nhà cung cấp là trường hợp bất thư
 - **Người cho vay:** phải trả người bán tăng nhanh hơn hàng tồn kho và giá vốn hàng bán có thể là dấu hiệu doanh nghiệp đang chậm trả vì thiếu tiền, tức là đúng loại "nợ quá hạn" mà Tracy nói cần thuyết minh nhưng thường không được thuyết minh. So tỷ lệ phải trả người bán trên hàng tồn kho hoặc trên giá vốn hàng bán qua các năm là cách đơn giản để phát hiện.
 - **Nhà đầu tư:** dòng tiền từ hoạt động kinh doanh có thể được cải thiện tạm thời bằng cách kéo dài thời gian trả người bán; phần cải thiện này không lặp lại mãi được. Khi thấy phải trả người bán lớn hơn cả tiền, như trong ví dụ của sách, nên xem doanh nghiệp có đủ khả năng thanh khoản để trả khoản nợ này trong vài tuần tới không.
 - **Người đọc Việt Nam:** theo hiểu biết của người tổng hợp, không tra cứu: trên báo cáo tài chính theo chuẩn mực kế toán Việt Nam, khoản tương ứng là "Phải trả người bán ngắn hạn" (và dài hạn, nếu có), và doanh nghiệp thường phải thuyết minh chi tiết theo từng nhà cung cấp lớn cũng như số nợ quá hạn chưa trả. Cách lập luận của Tracy áp dụng nguyên vẹn: hãy đặt khoản phải trả người bán cạnh hàng tồn kho và giá vốn hàng bán để xem doanh nghiệp được nhà cung cấp tài trợ bao lâu, và đọc kỹ phần thuyết minh về nợ quá hạn.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 6 trên một trang: năm nhánh lớn đi theo các mục 1–3 của phần Nội dung chi tiết và phần Đánh giá (bảng Exhibit 6.1 và mối nối hàng tồn kho với phải trả người bán, hai nguồn của phải trả người bán và công thức 4/13, ai tài trợ 13 tuần giữ hàng, ba giả định về công bố thông tin, giới hạn của ví dụ và cách vận dụng), mỗi nhánh ghi định nghĩa, công thức và con số then chốt của doanh nghiệp ví dụ; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 6: phải trả người bán cho hàng tồn kho = thời gian được nợ ÷ thời gian giữ hàng × hàng tồn kho, và vấn đề chính là công bố thông tin`"]
+  n1["`Mục 1 — Exhibit 6.1: mối nối giữa hai dòng cùng nằm trên bảng cân đối kế toán`"]
+  n0 --- n1
+  n2["`Hàng tồn kho 8.450 (tài sản) kéo theo phải trả người bán cho hàng tồn kho 2.600 (nợ phải trả)`"]
+  n1 --- n2
+  n3["`Tổng phải trả người bán 3.320 = 2.600 cho hàng tồn kho + 720 cho chi phí bán hàng, chung và quản lý`"]
+  n1 --- n3
+  n4["`Khác Chương 4–5: không đi từ doanh thu hay chi phí sang tài sản, mà từ tài sản sang khoản nợ tương ứng`"]
+  n1 --- n4
+  n5["`8.450 ÷ 13 = 650 nghìn USD cho mỗi tuần giữ hàng, 650 × 4 = 2.600`"]
+  n1 --- n5
+  n6["`Tổng tài sản 35.500, tiền 3.265, vay ngắn hạn 3.125, vay dài hạn 4.250, lợi nhuận ròng 2.642`"]
+  n1 --- n6
+  n7["`Năm trước tổng phải trả người bán 2.675, năm nay tăng 645, mức tăng dùng ở chương dòng tiền`"]
+  n1 --- n7
+  n8["`Mục 2 — Mua chịu: hai nguồn của phải trả người bán và công thức 4/13`"]
+  n0 --- n8
+  n9["`Phải trả người bán: nợ ngắn hạn, không chịu lãi, phát sinh khi mua chịu, hầu như doanh nghiệp nào cũng có`"]
+  n8 --- n9
+  n10["`Nguồn 1 là mua chịu hàng tồn kho (2.600), nguồn 2 là chi phí bán hàng, chung và quản lý chưa trả (720, Chương 7)`"]
+  n8 --- n10
+  n11["`Doanh nghiệp sản xuất mua chịu nguyên vật liệu và đầu vào sản xuất, như hoá đơn điện, khí đốt trả sau vài tuần`"]
+  n8 --- n11
+  n12["`Doanh nghiệp bán lẻ, bán buôn mua hàng sẵn để bán lại nhưng cũng có phải trả người bán cho hàng tồn kho`"]
+  n8 --- n12
+  n13["`Thời gian giữ hàng 13 tuần: 8.450 ÷ 33.800 giá vốn hàng bán × 52 tuần (Chương 5)`"]
+  n8 --- n13
+  n14["`Thời gian được nợ trung bình 4 tuần: có khoản trả sớm để hưởng chiết khấu, có hoá đơn để 6 tuần trở lên`"]
+  n8 --- n14
+  n15["`Thời gian giữ hàng dài hơn nhiều thời gian được nợ là điển hình của phần lớn doanh nghiệp`"]
+  n8 --- n15
+  n16["`Kết quả: phải trả người bán cho hàng tồn kho = 4/13 × 8.450 = 2.600 nghìn USD`"]
+  n8 --- n16
+  n17["`Mỗi lần mua chịu tăng cùng lúc hàng tồn kho và phải trả người bán, sau 4 tuần trả tiền thì hàng vẫn còn trong kho`"]
+  n8 --- n17
+  n18["`Mục 2 — Ai tài trợ 13 tuần giữ hàng: người bán 4 tuần, vốn doanh nghiệp 9 tuần`"]
+  n0 --- n18
+  n19["`4 tuần đầu người bán chưa đòi tiền, doanh nghiệp được #quot;đi nhờ miễn phí#quot; (free ride)`"]
+  n18 --- n19
+  n20["`9 tuần còn lại (13 − 4) phải tài trợ bằng vốn vay và vốn chủ sở hữu`"]
+  n18 --- n20
+  n21["`Không có bữa trưa nào miễn phí: người bán cho nợ đặt giá cao hơn một chút để bù việc nhận tiền chậm`"]
+  n18 --- n21
+  n22["`Khoản lãi nhỏ nhưng ẩn nằm trong giá mua, rồi vào giá trị hàng tồn kho và giá vốn hàng bán`"]
+  n18 --- n22
+  n23["`Tỷ lệ phải trả người bán trên hàng tồn kho cho biết người bán tài trợ bao nhiêu phần thời gian giữ hàng`"]
+  n18 --- n23
+  n24["`Ngôn ngữ hiện nay: 4/13 = DPO ÷ DIO, chu kỳ chuyển đổi tiền mặt xấp xỉ 5 + 13 − 4 = 14 tuần`"]
+  n18 --- n24
+  n25["`Phải trả người bán là nguồn tài trợ tự phát trong vốn lưu động, tăng giảm theo quy mô hoạt động`"]
+  n18 --- n25
+  n26["`Mục 3 — Vấn đề kế toán: ít vấn đề ghi sổ, vấn đề chính là công bố thông tin`"]
+  n0 --- n26
+  n27["`Hàng tồn kho có nhiều vấn đề kế toán nghiêm trọng (Chương 5), phải trả người bán thì rất ít`"]
+  n26 --- n27
+  n28["`Giả định 1: số ghi sổ là số sẽ trả sớm, tranh chấp trọng yếu về giá và điều khoản thì phải thuyết minh`"]
+  n26 --- n28
+  n29["`Giả định 2: chủ nợ thông thường, không có quyền đòi tiền ưu tiên, có quyền bất thường thì thuyết minh`"]
+  n26 --- n29
+  n30["`Giả định 3: nợ còn trong hạn, ví dụ một nửa số dư quá hạn 2–3 tháng thì thuyết minh số quá hạn`"]
+  n26 --- n30
+  n31["`Không trộn với nợ chịu lãi: vay ngắn hạn 3.125 và vay dài hạn 4.250 ghi ở dòng riêng`"]
+  n26 --- n31
+  n32["`Phải trả người bán quá hạn lâu có thể bị chủ nợ bắt đầu tính lãi`"]
+  n26 --- n32
+  n33["`Thực tế doanh nghiệp được #quot;nới tay#quot;, báo cáo hầu như không có thuyết minh chi tiết về khoản này`"]
+  n26 --- n33
+  n34["`Trong ví dụ phải trả người bán 3.320 lớn hơn tiền 3.265 và bằng 9,4% tổng tài sản, chưa tới mức 10% Tracy nêu`"]
+  n26 --- n34
+  n35["`Đánh giá và vận dụng — giới hạn của ví dụ và cách đọc báo cáo thật`"]
+  n0 --- n35
+  n36["`4/13 là con số minh hoạ: hàng tồn kho còn chứa lương công nhân, chi phí sản xuất chung không qua phải trả người bán`"]
+  n35 --- n36
+  n37["`Muốn ước tính thời gian được nợ thì so phải trả người bán với giá trị mua hàng trong kỳ, không với số dư hàng tồn kho`"]
+  n35 --- n37
+  n38["`Khi tăng trưởng, phải trả người bán chỉ bù khoảng 4/13 phần tăng hàng tồn kho, năm ví dụ hàng tồn kho tăng 935`"]
+  n35 --- n38
+  n39["`Điều khoản 2/10, net 30: bỏ chiết khấu thanh toán sớm tương đương chi phí hơn 30% một năm`"]
+  n35 --- n39
+  n40["`Tài trợ cho nhà cung cấp (reverse factoring) giấu vay ngân hàng trong phải trả người bán, ASU 2022-04 và IAS 7 buộc công bố`"]
+  n35 --- n40
+  n41["`Nhà cung cấp có thể có quyền bảo lưu sở hữu hàng hoặc ưu tiên theo luật phá sản, hiếm khi được thuyết minh`"]
+  n35 --- n41
+  n42["`Nhà quản lý: rút ngắn thời gian giữ hàng thường có lợi hơn kéo dài thời gian nợ người bán`"]
+  n35 --- n42
+  n43["`Người cho vay: phải trả người bán tăng nhanh hơn hàng tồn kho và giá vốn có thể là dấu hiệu chậm trả vì thiếu tiền`"]
+  n35 --- n43
+  n44["`Nhà đầu tư: kéo dài thời gian trả người bán chỉ cải thiện dòng tiền từ hoạt động kinh doanh tạm thời`"]
+  n35 --- n44
+  n45["`Thông điệp xuyên suốt`"]
+  n0 --- n45
+  n46["`Đọc phải trả người bán cạnh hàng tồn kho và chi phí hoạt động, không như một con số đứng riêng`"]
+  n45 --- n46
+  n47["`Tài trợ từ người bán không thật sự miễn phí, chi phí của nó ẩn trong giá mua`"]
+  n45 --- n47
+  n48["`Khoản nợ lớn hơn cả số dư tiền mà gần như không có thuyết minh là điểm cần cảnh giác`"]
+  n45 --- n48
+  class n0 root
+  class n1,n8,n18,n26,n35,n45 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n15,n16,n17,n19,n20,n21,n22,n23,n24,n25,n27,n28,n29,n30,n31,n32,n33,n34,n36,n37,n38,n39,n40,n41,n42,n43,n44,n46,n47,n48 leaf
+```
+
+## Nguồn
+
+John A. Tracy, *How to Read a Financial Report: Wringing Vital Signs Out of the Numbers*, ấn bản thứ bảy (John Wiley & Sons, 2009), Phần Một "Components and Connections in Financial Statements", Chương 6 "Inventory and Accounts Payable", trang in 38–43 (Exhibit 6.1 ở trang in 38, trang tên chương ở trang in 39, phần chữ ở trang in 40–43).
+
+## Tác giả
+
+John A. Tracy, giáo sư kế toán danh dự Đại học Colorado ở Boulder, kế toán viên công chứng (CPA).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Từ Chương 4, Tracy đi lần lượt qua từng **mối nối** (connection) giữa các khoản mục của bộ báo cáo tài chính. Chương 4 ([C04-doanh-thu-va-phai-thu-khach-hang.md](C04-doanh-thu-va-phai-thu-khach-hang.md)) nối doanh thu với phải thu khách hàng; Chương 5 ([C05-gia-von-hang-ban-va-hang-ton-kho.md](C05-gia-von-hang-ban-va-hang-ton-kho.md)) nối giá vốn hàng bán với hàng tồn kho và cho biết doanh nghiệp giữ hàng tồn kho trung bình 13 tuần. Hai chương đó đều nối một khoản của báo cáo kết quả kinh doanh với một khoản của bảng cân đối kế toán.
+
+Chương 6 là mối nối đầu tiên giữa **hai khoản cùng nằm trên bảng cân đối kế toán**: hàng tồn kho (tài sản) kéo theo phải trả người bán (nợ phải trả). Tracy tách tổng số dư phải trả người bán 3.320 nghìn USD thành hai phần: 2.600 nghìn USD phát sinh từ mua hàng tồn kho (chương này) và 720 nghìn USD phát sinh từ chi phí bán hàng, chi phí chung và quản lý chưa trả (Chương 7, [C07-chi-phi-hoat-dong-va-phai-tra-nguoi-ban.md](C07-chi-phi-hoat-dong-va-phai-tra-nguoi-ban.md)).
+
+Về sau, Chương 13 ([C13-dong-tien-tu-hoat-dong-kinh-doanh.md](C13-dong-tien-tu-hoat-dong-kinh-doanh.md)) dùng mức tăng phải trả người bán trong năm (từ 2.675 lên 3.320, tức tăng 645 nghìn USD) như một khoản làm tăng dòng tiền từ hoạt động kinh doanh, và Chương 17 ([C17-cac-chi-so-tai-chinh.md](C17-cac-chi-so-tai-chinh.md)) dùng các khoản nợ ngắn hạn này khi tính các hệ số thanh toán.
+
+## Lưu ý
+
+- **Vị trí của Exhibit 6.1:** như các chương khác của sách, bảng "ở đầu chương" được in ở trang chẵn đối diện trang tên chương: Exhibit 6.1 nằm ở trang in 38 (trang PDF 50), ngay *trước* trang tên chương (trang in 39). Trang in 44 (trang PDF 56) là Exhibit 7.1 thuộc Chương 7, không thuộc chương này. Bản tổng hợp chép Exhibit 6.1 từ trang in 38.
+- **Phép tính 4/13 × 8.450 = 2.600 đúng chính xác** (8.450 ÷ 13 = 650; 650 × 4 = 2.600). Các phép cộng trong Exhibit 6.1 cũng đúng: tổng tài sản 35.500, tổng nợ phải trả và vốn chủ sở hữu 35.500, lợi nhuận ròng 2.642; phải trả người bán 2.600 + 720 = 3.320.
+- **Chỗ sách viết gọn:** cách tính "4/13 của toàn bộ hàng tồn kho" ngầm giả định rằng mọi thành phần trong giá trị hàng tồn kho đều được mua chịu qua phải trả người bán. Trong thực tế (theo hiểu biết của người tổng hợp, không tra cứu), giá trị hàng tồn kho của doanh nghiệp sản xuất còn gồm tiền lương công nhân sản xuất (trả qua bảng lương, không qua phải trả người bán) và chi phí sản xuất chung như khấu hao nhà xưởng (không phải trả cho ai). Vì vậy 2.600 nghìn USD là một con số minh hoạ được dựng cho tròn, chứ không phải công thức áp dụng nguyên xi cho doanh nghiệp thật.
+- **Câu dễ hiểu nhầm về tỷ lệ 10%:** ở cuối chương Tracy viết rằng phải trả người bán có thể lớn hơn 10% tổng tài sản và có thể lớn hơn số dư tiền "như trong ví dụ của chúng ta". Với số của doanh nghiệp ví dụ, vế thứ hai đúng (phải trả người bán 3.320 lớn hơn tiền 3.265), nhưng vế thứ nhất không đúng: 3.320 ÷ 35.500 = 9,4%, chưa tới 10%. Nên hiểu cụm "như trong ví dụ" chỉ áp vào vế so với tiền.
+- **Hai dòng cùng tên "Accounts Payable":** việc tách phải trả người bán thành hai dòng (2.600 và 720) là cách trình bày để giảng dạy; báo cáo tài chính thật thường chỉ có một dòng phải trả người bán (ở đây là 3.320). Exhibit 6.1 cũng chỉ có số cuối năm, không có cột năm trước như bảng cân đối kế toán ở Chương 2.
+- **Về công bố thông tin:** từ sau 2009 đã có thay đổi liên quan trực tiếp tới lời phàn nàn của Tracy (theo hiểu biết của người tổng hợp, không tra cứu): FASB ban hành ASU 2022-04 yêu cầu bên mua công bố các chương trình tài trợ cho nhà cung cấp (supplier finance programs, còn gọi là reverse factoring), áp dụng từ khoảng năm 2023; IASB sửa IAS 7 và IFRS 7 với yêu cầu tương tự, áp dụng từ năm 2024. Ngoài các thay đổi đó, phần lớn nhận xét của Tracy (ít có thuyết minh chi tiết về phải trả người bán) vẫn đúng.

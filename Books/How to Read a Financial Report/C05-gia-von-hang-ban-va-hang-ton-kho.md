@@ -1,18 +1,18 @@
 # Chương 5 — Giá vốn hàng bán và hàng tồn kho (Cost of Goods Sold Expense and Inventory)
 
-**Nguồn:** John A. Tracy, *How to Read a Financial Report: Wringing Vital Signs Out of the Numbers*, ấn bản thứ bảy (John Wiley & Sons, 2009), Phần Một "Components and Connections in Financial Statements", Chương 5 "Cost of Goods Sold Expense and Inventory", trang in 33–37 (Exhibit 5.1 của chương được in ở trang in 32, ngay trước trang tên chương).
-**Tác giả:** John A. Tracy, giáo sư kế toán danh dự Đại học Colorado ở Boulder, kế toán viên công chứng (CPA).
-**Vị trí trong lập luận của cả cuốn sách:** Chương 3 đã vẽ toàn bộ các đường nối giữa báo cáo kết quả kinh doanh (income statement) và bảng cân đối kế toán (balance sheet) của doanh nghiệp ví dụ. Từ Chương 4, Tracy tách từng đường nối ra để xem riêng: Chương 4 ([C04-doanh-thu-va-phai-thu-khach-hang.md](C04-doanh-thu-va-phai-thu-khach-hang.md)) xem đường nối giữa doanh thu bán hàng (sales revenue) và phải thu khách hàng (accounts receivable), rút ra kỳ thu tiền bình quân 5 tuần. Chương 5 xem đường nối thứ hai: giữa chi phí giá vốn hàng bán (cost of goods sold expense) và hàng tồn kho (inventory), rút ra thời gian giữ hàng tồn kho bình quân 13 tuần. Chương 6 ([C06-hang-ton-kho-va-phai-tra-nguoi-ban.md](C06-hang-ton-kho-va-phai-tra-nguoi-ban.md)) đi tiếp từ chính con số tồn kho này: doanh nghiệp mua hàng chịu, nên một phần tồn kho được tài trợ bằng phải trả người bán (accounts payable). Về sau, Chương 13 ([C13-dong-tien-tu-hoat-dong-kinh-doanh.md](C13-dong-tien-tu-hoat-dong-kinh-doanh.md)) dùng mức tăng hàng tồn kho trong năm để giải thích vì sao dòng tiền từ hoạt động kinh doanh thấp hơn lợi nhuận ròng, và Chương 17 ([C17-cac-chi-so-tai-chinh.md](C17-cac-chi-so-tai-chinh.md)) quay lại các chỉ số tài chính.
-**Ý chính:** Tracy muốn người đọc hiểu rằng **hàng tồn kho trên bảng cân đối kế toán được quyết định bởi giá vốn hàng bán trên báo cáo kết quả kinh doanh và bởi thời gian doanh nghiệp giữ hàng trước khi bán, chứ không phải bởi doanh thu**. Hàng tồn kho được ghi theo giá vốn (cost), không theo giá bán. Doanh nghiệp ví dụ có giá vốn hàng bán 33.800 nghìn USD trong năm (65% doanh thu 52.000 nghìn USD, nên lợi nhuận gộp bằng 35% doanh thu). Hàng nằm trong doanh nghiệp, kể cả thời gian sản xuất lẫn thời gian chờ trong kho, trung bình 13 tuần, nên hàng tồn kho cuối năm bằng 13/52 × 33.800 = 8.450 nghìn USD. Đi ngược lại từ báo cáo tài chính: 33.800 ÷ 8.450 = 4,00 vòng quay hàng tồn kho mỗi năm, và 52 tuần ÷ 4,00 = 13 tuần. Nếu quản lý tồn kho tốt hơn để rút thời gian giữ hàng còn 10 tuần, tồn kho chỉ còn 6.500 nghìn USD, tức doanh nghiệp cần ít hơn 1.950 nghìn USD vốn. Nhưng giữ quá ít hàng lại làm mất doanh số vì hết hàng. Người quản lý, chủ nợ và nhà đầu tư phải xem thời gian giữ hàng không quá dài (lãng phí vốn) cũng không quá ngắn (bỏ lỡ cơ hội kiếm lời). Cuối chương, Tracy cảnh báo rằng bản thân con số giá vốn và tồn kho đã chứa nhiều lựa chọn kế toán: phân bổ chi phí sản xuất gián tiếp, chọn phương pháp nhập trước xuất trước (FIFO), bình quân hay nhập sau xuất trước (LIFO), và ghi giảm giá trị hàng tồn kho.
+## Ý chính
 
-> **Lưu ý:**
-> - **Vị trí của Exhibit 5.1.** Lời văn nói "Exhibit 5.1 ở đầu chương", nhưng trong bản PDF bảng này nằm ở trang in 32, trước trang tên chương (trang in 33). Trang in 38 (trang PDF 50) ở cuối phần văn bản của chương là Exhibit 6.1 của Chương 6, không thuộc chương này; bản tổng hợp này không chép Exhibit 6.1. Exhibit 5.1 đã được đối chiếu với hình trang PDF: bố cục gồm báo cáo kết quả kinh doanh bên trái, bảng cân đối kế toán bên phải, và một ô ghi chú ở giữa nối dòng giá vốn hàng bán với dòng hàng tồn kho. Các phép cộng trừ của bảng đều khớp (tổng tài sản 35.500; tổng nợ phải trả và vốn chủ sở hữu 35.500; lợi nhuận ròng 2.642).
-> - **Các phép tính của chương đều đúng:** 33.800 ÷ 52.000 = 65%; 13/52 × 33.800 = 8.450; 33.800 ÷ 8.450 = 4,00; 52 ÷ 4,00 = 13; 10/52 × 33.800 = 6.500; 8.450 − 6.500 = 1.950. Không phát hiện lỗi số trong chương.
-> - **"Gần gấp ba lần".** Tracy viết giá vốn hàng bán "gần gấp ba" chi phí bán hàng, chi phí chung và quản lý. Tỷ lệ thật là 33.800 ÷ 12.480 ≈ 2,7 lần; cách nói của Tracy là làm tròn.
-> - **Sách dùng tồn kho cuối năm, không dùng tồn kho bình quân.** Tracy tính vòng quay hàng tồn kho bằng giá vốn chia cho tồn kho cuối năm. Nhiều sách phân tích tài chính dùng tồn kho bình quân đầu và cuối năm. Theo cách đó, với tồn kho đầu năm 7.515 và cuối năm 8.450 (bảng cân đối kế toán của Chương 2), tồn kho bình quân là 7.982,5; vòng quay ≈ 4,23 lần; thời gian giữ hàng ≈ 12,3 tuần. Đây là nhận xét của người tổng hợp; sách không nêu cách tính này. Ngoài ra, con số 13 tuần là giả định Tracy đặt ra cho ví dụ, rồi chứng minh nó khớp với bảng cân đối kế toán.
-> - **Chỉ nêu ba phương pháp.** Tracy chỉ nêu FIFO, bình quân và LIFO. Theo hiểu biết của người tổng hợp, không tra cứu: còn có phương pháp thực tế đích danh (specific identification) cho hàng có giá trị lớn, nhận diện được từng chiếc, và phương pháp giá bán lẻ (retail method) ở ngành bán lẻ. Giá 102 USD của phương pháp bình quân trong ví dụ là bình quân đơn giản của hai đơn vị (100 và 104 USD).
-> - **Quy định nay đã khác (theo hiểu biết của người tổng hợp, không tra cứu):** Chuẩn mực quốc tế IFRS (IAS 2 "Hàng tồn kho") không cho phép LIFO; US GAAP vẫn cho phép, và luật thuế Mỹ buộc doanh nghiệp dùng LIFO để tính thuế thì cũng phải dùng LIFO trên báo cáo tài chính (quy tắc nhất quán LIFO, LIFO conformity rule). Từ năm 2015 (ASU 2015-11), US GAAP đổi quy tắc "giá thấp hơn giữa giá gốc và giá thị trường" thành "giá thấp hơn giữa giá gốc và giá trị thuần có thể thực hiện được" cho hàng tồn kho tính theo FIFO hoặc bình quân (LIFO vẫn theo quy tắc cũ). Từ năm 2009, các quy định về hàng tồn kho của US GAAP nằm ở chủ đề ASC 330 của Bộ chuẩn mực FASB Codification.
-> - **Nhận định chung của Tracy cần hiểu đúng mức:** "Lợi nhuận gộp trên 50% hoặc dưới 20% là hiếm" là kinh nghiệm chung của tác giả; theo hiểu biết của người tổng hợp, có những ngành thường nằm ngoài khoảng này (phần mềm, dược phẩm thường cao hơn; siêu thị, phân phối bán buôn thường thấp hơn). Câu "các công ty không công bố khoản lỗ do ghi giảm tồn kho được ghi vào đâu" cũng là nhận định chung; khi khoản ghi giảm lớn thì thường phải nêu trong thuyết minh, như chính Tracy nói ở đoạn sau.
+Tracy muốn người đọc hiểu rằng **hàng tồn kho trên bảng cân đối kế toán được quyết định bởi giá vốn hàng bán trên báo cáo kết quả kinh doanh và bởi thời gian doanh nghiệp giữ hàng trước khi bán, chứ không phải bởi doanh thu**.
+
+Hàng tồn kho được ghi theo giá vốn (cost), không theo giá bán. Doanh nghiệp ví dụ có giá vốn hàng bán 33.800 nghìn USD trong năm (65% doanh thu 52.000 nghìn USD, nên lợi nhuận gộp bằng 35% doanh thu).
+
+Hàng nằm trong doanh nghiệp, kể cả thời gian sản xuất lẫn thời gian chờ trong kho, trung bình 13 tuần, nên hàng tồn kho cuối năm bằng 13/52 × 33.800 = 8.450 nghìn USD. Đi ngược lại từ báo cáo tài chính: 33.800 ÷ 8.450 = 4,00 vòng quay hàng tồn kho mỗi năm, và 52 tuần ÷ 4,00 = 13 tuần.
+
+Nếu quản lý tồn kho tốt hơn để rút thời gian giữ hàng còn 10 tuần, tồn kho chỉ còn 6.500 nghìn USD, tức doanh nghiệp cần ít hơn 1.950 nghìn USD vốn. Nhưng giữ quá ít hàng lại làm mất doanh số vì hết hàng.
+
+Người quản lý, chủ nợ và nhà đầu tư phải xem thời gian giữ hàng không quá dài (lãng phí vốn) cũng không quá ngắn (bỏ lỡ cơ hội kiếm lời).
+
+Cuối chương, Tracy cảnh báo rằng bản thân con số giá vốn và tồn kho đã chứa nhiều lựa chọn kế toán: phân bổ chi phí sản xuất gián tiếp, chọn phương pháp nhập trước xuất trước (FIFO), bình quân hay nhập sau xuất trước (LIFO), và ghi giảm giá trị hàng tồn kho.
 
 ## Sơ đồ
 
@@ -216,7 +216,9 @@
 
 ### 1. Bảng đầu chương: giá vốn hàng bán và hàng tồn kho (Exhibit 5.1 "Cost of Goods Sold Expense and Inventory", trang in 32)
 
-Như mọi chương từ Chương 4 tới Chương 12, Chương 5 mở đầu bằng một bảng đặt báo cáo kết quả kinh doanh của năm cạnh bảng cân đối kế toán cuối năm của doanh nghiệp ví dụ, và chỉ tô đậm một đường nối. Ở Chương 4, Tracy đã giải thích cách trình bày này: bảng được rút ra từ bức tranh tổng thể của Chương 3; các báo cáo bị lược hết các dòng tổng phụ (báo cáo kết quả kinh doanh là dạng một bước, không có dòng lợi nhuận gộp hay các mức lợi nhuận trung gian; bảng cân đối kế toán không có dòng tài sản ngắn hạn, nợ ngắn hạn, hay dòng nhà xưởng trừ khấu hao luỹ kế); và báo cáo lưu chuyển tiền tệ được để sang Chương 13 và 14 cho khỏi rối. Ở chương này, đường nối được tô đậm là giữa dòng chi phí giá vốn hàng bán và dòng hàng tồn kho.
+Như mọi chương từ Chương 4 tới Chương 12, Chương 5 mở đầu bằng một bảng đặt báo cáo kết quả kinh doanh của năm cạnh bảng cân đối kế toán cuối năm của doanh nghiệp ví dụ, và chỉ tô đậm một đường nối.
+
+Ở Chương 4, Tracy đã giải thích cách trình bày này: bảng được rút ra từ bức tranh tổng thể của Chương 3; các báo cáo bị lược hết các dòng tổng phụ (báo cáo kết quả kinh doanh là dạng một bước, không có dòng lợi nhuận gộp hay các mức lợi nhuận trung gian; bảng cân đối kế toán không có dòng tài sản ngắn hạn, nợ ngắn hạn, hay dòng nhà xưởng trừ khấu hao luỹ kế); và báo cáo lưu chuyển tiền tệ được để sang Chương 13 và 14 cho khỏi rối. Ở chương này, đường nối được tô đậm là giữa dòng chi phí giá vốn hàng bán và dòng hàng tồn kho.
 
 **Bảng: báo cáo kết quả kinh doanh của năm (Exhibit 5.1 trong sách), đơn vị nghìn USD**
 
@@ -268,7 +270,9 @@ Ghi chú in trên Exhibit 5.1, cạnh đường nối: giả định rằng hàn
 
 **Giá vốn hàng bán là gì và vì sao đứng đầu các chi phí.** Chi phí giá vốn hàng bán đúng như tên gọi: giá vốn của mọi sản phẩm đã bán cho khách hàng trong năm. Doanh thu từ những lần bán đó được ghi vào tài khoản doanh thu, và trên báo cáo kết quả kinh doanh, doanh thu đứng ngay trên giá vốn hàng bán. Giá vốn hàng bán là chi phí lớn nhất của doanh nghiệp, gần gấp ba chi phí bán hàng, chi phí chung và quản lý trong năm (33.800 so với 12.480 nghìn USD, chính xác là khoảng 2,7 lần). Đặt nó đứng đầu các chi phí là hợp lý vì đây là chi phí trực tiếp và gần nhất của việc bán sản phẩm.
 
-**Lợi nhuận gộp.** Trên báo cáo kết quả kinh doanh đầy đủ (như Exhibit 2.2 của Chương 2: doanh thu 52.000; giá vốn hàng bán (33.800); lợi nhuận gộp 18.200), giá vốn hàng bán được trừ khỏi doanh thu để ra dòng lợi nhuận gộp. Exhibit 5.1 không có dòng riêng này, vì mục đích của nó là làm nổi các mối nối giữa hai báo cáo, nhưng Tracy nói ông không thể nhấn mạnh đủ tầm quan trọng của lợi nhuận gộp (còn gọi là gross profit). Chữ "gộp" nhấn mạnh rằng chưa có chi phí nào khác bị trừ khỏi doanh thu. Tất nhiên còn nhiều chi phí phải trừ tiếp mới tới lợi nhuận ròng ở dòng cuối. Lợi nhuận gộp là điểm xuất phát để kiếm được lợi nhuận ròng đủ lớn cho kỳ: bước đầu tiên là bán sản phẩm với lãi gộp đủ để trang trải mọi chi phí khác mà vẫn còn lại phần lợi nhuận thoả đáng. Các chương sau sẽ bàn các chi phí khác của doanh nghiệp.
+**Lợi nhuận gộp.** Trên báo cáo kết quả kinh doanh đầy đủ (như Exhibit 2.2 của Chương 2: doanh thu 52.000; giá vốn hàng bán (33.800); lợi nhuận gộp 18.200), giá vốn hàng bán được trừ khỏi doanh thu để ra dòng lợi nhuận gộp. Exhibit 5.1 không có dòng riêng này, vì mục đích của nó là làm nổi các mối nối giữa hai báo cáo, nhưng Tracy nói ông không thể nhấn mạnh đủ tầm quan trọng của lợi nhuận gộp (còn gọi là gross profit).
+
+Chữ "gộp" nhấn mạnh rằng chưa có chi phí nào khác bị trừ khỏi doanh thu. Tất nhiên còn nhiều chi phí phải trừ tiếp mới tới lợi nhuận ròng ở dòng cuối. Lợi nhuận gộp là điểm xuất phát để kiếm được lợi nhuận ròng đủ lớn cho kỳ: bước đầu tiên là bán sản phẩm với lãi gộp đủ để trang trải mọi chi phí khác mà vẫn còn lại phần lợi nhuận thoả đáng. Các chương sau sẽ bàn các chi phí khác của doanh nghiệp.
 
 **Tỷ lệ 65% và 35%.** Tự làm phép tính sẽ thấy giá vốn hàng bán bằng 65% doanh thu (33.800 ÷ 52.000), nên lợi nhuận gộp bằng 35% doanh thu (18.200 ÷ 52.000). Doanh nghiệp bán nhiều sản phẩm khác nhau, có loại lãi gộp trên 35%, có loại dưới. Tính chung mọi sản phẩm bán trong năm, lãi gộp bình quân là 35%, mức mà Tracy cho là khá điển hình cho nhiều loại doanh nghiệp. Lãi gộp trên 50% hoặc dưới 20% là bất thường.
 
@@ -326,7 +330,9 @@ Trong kịch bản này, hàng tồn kho cuối năm thấp hơn 1.950 nghìn US
 
 ### 3. Các vấn đề kế toán (Accounting Issues, trang in 37)
 
-**Giá thành sản phẩm ở doanh nghiệp sản xuất.** Tracy mở đầu rằng kế toán chi phí giá vốn hàng bán và giá vốn hàng tồn kho gặp nhiều vấn đề. Trước hết, doanh nghiệp tự sản xuất sản phẩm để bán gặp khó khăn nghiêm trọng khi xác định tổng giá thành mỗi đơn vị của từng sản phẩm; ông nói việc này không hề dễ chút nào. Các chương trình kế toán ở đại học dành nguyên một môn học cho chủ đề này (thường gọi là kế toán chi phí, cost accounting). Một vấn đề chính là phân bổ chi phí sản xuất gián tiếp cho các sản phẩm khác nhau cùng được hưởng lợi từ chi phí đó. Ví dụ: phân bổ thế nào chi phí nhân viên bảo vệ tuần tra nhiều phân xưởng sản xuất, hay khấu hao của nhà máy nơi hàng trăm sản phẩm khác nhau được làm ra?
+**Giá thành sản phẩm ở doanh nghiệp sản xuất.** Tracy mở đầu rằng kế toán chi phí giá vốn hàng bán và giá vốn hàng tồn kho gặp nhiều vấn đề. Trước hết, doanh nghiệp tự sản xuất sản phẩm để bán gặp khó khăn nghiêm trọng khi xác định tổng giá thành mỗi đơn vị của từng sản phẩm; ông nói việc này không hề dễ chút nào. Các chương trình kế toán ở đại học dành nguyên một môn học cho chủ đề này (thường gọi là kế toán chi phí, cost accounting).
+
+Một vấn đề chính là phân bổ chi phí sản xuất gián tiếp cho các sản phẩm khác nhau cùng được hưởng lợi từ chi phí đó. Ví dụ: phân bổ thế nào chi phí nhân viên bảo vệ tuần tra nhiều phân xưởng sản xuất, hay khấu hao của nhà máy nơi hàng trăm sản phẩm khác nhau được làm ra?
 
 **Doanh nghiệp bán lẻ và bán buôn.** Nhà bán lẻ và nhà bán buôn (nhà phân phối) mua sản phẩm ở trạng thái sẵn sàng để bán lại. So với doanh nghiệp sản xuất, họ xác định giá vốn hàng bán dễ hơn nhiều, dù vẫn có vài vấn đề hóc búa.
 
@@ -480,7 +486,9 @@ Theo hiểu biết của người tổng hợp, không tra cứu: IFRS (IAS 2) k
 
 ### Ngưỡng lãi gộp 20–50% và ví dụ 10 tuần nên được hiểu là minh hoạ, không phải chuẩn mực
 
-Tracy nói lãi gộp trên 50% hoặc dưới 20% là bất thường; đây là quan sát chung, và theo hiểu biết của người tổng hợp, mức lãi gộp khác nhau rất nhiều giữa các ngành (phần mềm, dược phẩm, hàng xa xỉ thường cao; bán lẻ thực phẩm, phân phối thường thấp). Tương tự, 13 tuần hay 10 tuần không có nghĩa là tốt hay xấu tự thân: chính Tracy kết luận rằng phải so với đối thủ cùng ngành và với lịch sử của doanh nghiệp. Một quan điểm trái chiều đáng nêu (theo hiểu biết của người tổng hợp): kinh nghiệm gián đoạn chuỗi cung ứng khoảng 2020–2022 khiến nhiều doanh nghiệp chủ động giữ tồn kho cao hơn làm "đệm an toàn"; đó là đúng phép cân bằng giữa chi phí giữ hàng và rủi ro hết hàng mà Tracy mô tả, chỉ là điểm cân bằng đã dịch chuyển.
+Tracy nói lãi gộp trên 50% hoặc dưới 20% là bất thường; đây là quan sát chung, và theo hiểu biết của người tổng hợp, mức lãi gộp khác nhau rất nhiều giữa các ngành (phần mềm, dược phẩm, hàng xa xỉ thường cao; bán lẻ thực phẩm, phân phối thường thấp).
+
+Tương tự, 13 tuần hay 10 tuần không có nghĩa là tốt hay xấu tự thân: chính Tracy kết luận rằng phải so với đối thủ cùng ngành và với lịch sử của doanh nghiệp. Một quan điểm trái chiều đáng nêu (theo hiểu biết của người tổng hợp): kinh nghiệm gián đoạn chuỗi cung ứng khoảng 2020–2022 khiến nhiều doanh nghiệp chủ động giữ tồn kho cao hơn làm "đệm an toàn"; đó là đúng phép cân bằng giữa chi phí giữ hàng và rủi ro hết hàng mà Tracy mô tả, chỉ là điểm cân bằng đã dịch chuyển.
 
 ### Vận dụng: mỗi nhóm người đọc dùng con số thời gian giữ hàng theo một cách
 
@@ -488,3 +496,147 @@ Tracy nói lãi gộp trên 50% hoặc dưới 20% là bất thường; đây l�
 - **Người cho vay:** thời gian giữ hàng kéo dài dần qua các năm có thể báo hiệu hàng chậm bán hoặc lỗi thời, tức tài sản đảm bảo kém đi và có thể sắp phải ghi giảm; thuyết minh về hàng tồn kho là nơi tìm dấu hiệu.
 - **Nhà đầu tư:** khi so sánh lợi nhuận gộp giữa các công ty, cần kiểm tra phương pháp tính giá vốn (FIFO, bình quân, LIFO) trong thuyết minh, vì cùng nghiệp vụ có thể cho lãi gộp khác nhau, và các khoản ghi giảm có thể nằm trong hoặc ngoài giá vốn hàng bán.
 - **Người đọc Việt Nam (vận dụng định tính):** cách tính số tuần (hoặc số ngày) giữ hàng từ giá vốn hàng bán và hàng tồn kho áp dụng được trực tiếp cho báo cáo tài chính của doanh nghiệp trong nước; khi so sánh, nên xem phương pháp tính giá xuất kho được nêu trong thuyết minh và các khoản dự phòng giảm giá hàng tồn kho, là hình thức tương ứng với "ghi giảm" mà Tracy nói tới.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 5 trên một trang: sáu nhánh lớn đi theo các mục 1–3 trong phần Nội dung chi tiết (bảng đầu chương và đường nối giá vốn hàng bán với hàng tồn kho, giá vốn hàng bán và lợi nhuận gộp, giá vốn đi qua tài khoản hàng tồn kho, thời gian giữ hàng 13 tuần và vòng quay, kịch bản 10 tuần và rủi ro hết hàng, các vấn đề kế toán), mỗi nhánh ghi định nghĩa, công thức và con số then chốt của doanh nghiệp ví dụ; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 5: hàng tồn kho do giá vốn hàng bán và thời gian giữ hàng quyết định, không do doanh thu`"]
+  n1["`Mục 1 — Exhibit 5.1 chỉ tô đậm đường nối giá vốn hàng bán với hàng tồn kho`"]
+  n0 --- n1
+  n2["`Báo cáo một bước: doanh thu 52.000, giá vốn 33.800, SG#amp;A 12.480, lợi nhuận ròng 2.642 nghìn USD`"]
+  n1 --- n2
+  n3["`Bảng cân đối kế toán cuối năm: hàng tồn kho 8.450 trên tổng tài sản 35.500 nghìn USD`"]
+  n1 --- n3
+  n4["`Đường nối đi từ giá vốn hàng bán, không từ doanh thu, vì tồn kho ghi theo giá vốn`"]
+  n1 --- n4
+  n5["`Ghi chú trên bảng: tồn kho cuối năm bằng 13 tuần giá vốn, 13/52 × 33.800 = 8.450`"]
+  n1 --- n5
+  n6["`Tồn kho đầu năm 7.515, tăng 935 trong năm, chiếm khoảng 24% tổng tài sản`"]
+  n1 --- n6
+  n7["`Mục 2 — Giá vốn hàng bán là chi phí lớn nhất, quyết định lợi nhuận gộp`"]
+  n0 --- n7
+  n8["`Giá vốn hàng bán là giá vốn của mọi sản phẩm đã bán cho khách trong năm`"]
+  n7 --- n8
+  n9["`Đứng ngay dưới doanh thu, gần gấp ba SG#amp;A (chính xác khoảng 2,7 lần)`"]
+  n7 --- n9
+  n10["`Lợi nhuận gộp = doanh thu − giá vốn = 52.000 − 33.800 = 18.200 nghìn USD`"]
+  n7 --- n10
+  n11["`Gộp nghĩa là chưa trừ chi phí nào khác, lãi gộp phải đủ trang trải mọi chi phí còn lại`"]
+  n10 --- n11
+  n12["`Giá vốn bằng 65% doanh thu, lãi gộp 35%, mức Tracy cho là khá điển hình`"]
+  n7 --- n12
+  n13["`Lãi gộp trên 50% hoặc dưới 20% là bất thường`"]
+  n12 --- n13
+  n14["`Mục 2 — Giá vốn đi qua tài khoản hàng tồn kho rồi mới thành chi phí`"]
+  n0 --- n14
+  n15["`Tồn kho cộng dồn giá vốn hàng mua vào hoặc sản xuất ra, ghi theo giá vốn chứ không theo giá bán`"]
+  n14 --- n15
+  n16["`Khi hàng được bán, giá vốn rời tồn kho và thành chi phí giá vốn hàng bán`"]
+  n14 --- n16
+  n17["`Hàng không bán được, bị lấy cắp, hư hỏng bị ghi giảm vào giá vốn hoặc chi phí khác`"]
+  n14 --- n17
+  n18["`8.450 là giá vốn hàng chờ bán năm sau, 33.800 là hàng đã bán, không đơn vị nào trùng`"]
+  n14 --- n18
+  n19["`Nội bộ tách sản phẩm dở dang và thành phẩm, báo cáo công bố chỉ có một dòng tồn kho gộp`"]
+  n14 --- n19
+  n20["`Mục 2 — Thời gian giữ hàng 13 tuần và vòng quay hàng tồn kho`"]
+  n0 --- n20
+  n21["`Thời gian giữ hàng bình quân 13 tuần gồm sản xuất và nằm kho, như 3 tuần sản xuất rồi 10 tuần nằm kho`"]
+  n20 --- n21
+  n22["`Tính xuôi: 13/52 × 33.800 = 8.450, tức 13 tuần × 650 nghìn USD giá vốn mỗi tuần`"]
+  n20 --- n22
+  n23["`Thời gian giữ hàng bình quân quyết định độ lớn tồn kho so với giá vốn cả năm`"]
+  n20 --- n23
+  n24["`Vòng quay hàng tồn kho = giá vốn ÷ tồn kho cuối năm = 33.800 ÷ 8.450 = 4,00 lần`"]
+  n20 --- n24
+  n25["`Số tuần giữ hàng = 52 ÷ 4,00 = 13 tuần, khoảng 91 ngày`"]
+  n20 --- n25
+  n26["`Vòng quay có ý nghĩa nhất khi đổi ra số tuần, như kỳ thu tiền 5 tuần ở Chương 4`"]
+  n20 --- n26
+  n27["`Cộng kỳ thu tiền 5 tuần: khoảng 18 tuần từ lúc hàng vào kho tới lúc thu tiền (người tổng hợp cộng)`"]
+  n20 --- n27
+  n28["`Mục 2 — Thời gian giữ hàng không quá dài, không quá ngắn`"]
+  n0 --- n28
+  n29["`Giữ hàng lâu hơn cần thiết thì quá nhiều vốn bị buộc vào tồn kho, có thể thiếu tiền mặt`"]
+  n28 --- n29
+  n30["`Kịch bản 10 tuần nhờ quản lý chuỗi cung ứng: tồn kho 10/52 × 33.800 = 6.500`"]
+  n28 --- n30
+  n31["`Tồn kho giảm 1.950 nghìn USD: cần ít vốn hơn hoặc có thêm chừng ấy tiền mặt`"]
+  n30 --- n31
+  n32["`Vòng quay tăng lên 5,20 lần (người tổng hợp tính)`"]
+  n30 --- n32
+  n33["`Tồn kho quá thấp gây hết hàng: có khách muốn mua mà không có hàng giao`"]
+  n28 --- n33
+  n34["`Quá dài thì lãng phí vốn, quá ngắn thì bỏ lỡ cơ hội kiếm lời`"]
+  n28 --- n34
+  n35["`So thời gian giữ hàng với đối thủ cạnh tranh và với xu hướng của chính doanh nghiệp`"]
+  n28 --- n35
+  n36["`Mục 3 — Các vấn đề kế toán khiến giá vốn và tồn kho chứa nhiều lựa chọn`"]
+  n0 --- n36
+  n37["`Doanh nghiệp sản xuất khó xác định giá thành mỗi đơn vị, cần cả môn kế toán chi phí`"]
+  n36 --- n37
+  n38["`Khó nhất là phân bổ chi phí gián tiếp như lương bảo vệ, khấu hao nhà máy làm hàng trăm sản phẩm`"]
+  n37 --- n38
+  n39["`Nhà bán lẻ, bán buôn mua hàng sẵn để bán lại nên xác định giá vốn dễ hơn nhiều`"]
+  n36 --- n39
+  n40["`Hai đơn vị giá 100 và 104 USD, bán một: FIFO ghi 100, bình quân 102, LIFO 104 USD`"]
+  n36 --- n40
+  n41["`Cả ba được chấp nhận nên cùng nghiệp vụ, lãi gộp có thể chênh 4 USD mỗi đơn vị`"]
+  n40 --- n41
+  n42["`Về lý nên chọn phương pháp khớp cách định giá bán, nhưng doanh nghiệp chọn vì lý do khác`"]
+  n36 --- n42
+  n43["`Ghi giảm tồn kho do giá bán giảm, giá mua lại giảm, hư hỏng, hao hụt do lấy cắp`"]
+  n36 --- n43
+  n44["`Công ty không công bố ghi giảm vào giá vốn hay chi phí khác, nên lãi gộp có thể bị ảnh hưởng ngầm`"]
+  n43 --- n44
+  n45["`Thuyết minh phải nêu phương pháp, dùng LIFO thì nêu giá trị tồn kho như thể dùng FIFO`"]
+  n36 --- n45
+  n46["`Khoản ghi giảm lớn cũng phải thuyết minh, nhưng thuyết minh tồn kho khá kỹ thuật và khó hiểu`"]
+  n45 --- n46
+  n47["`Thông điệp xuyên suốt`"]
+  n0 --- n47
+  n48["`Đọc tồn kho như một khoảng thời gian: mỗi tuần giữ hàng ở ví dụ tương ứng khoảng 650 nghìn USD vốn`"]
+  n47 --- n48
+  n49["`Tracy dùng tồn kho cuối năm, dùng tồn kho bình quân 7.982,5 cho khoảng 12,3 tuần (nhận xét người tổng hợp)`"]
+  n47 --- n49
+  n50["`Người cho vay: thời gian giữ hàng kéo dài dần có thể báo hiệu hàng chậm bán, sắp phải ghi giảm`"]
+  n47 --- n50
+  n51["`Nhà đầu tư so lãi gộp phải kiểm tra phương pháp tính giá vốn và chỗ ghi các khoản ghi giảm`"]
+  n47 --- n51
+  class n0 root
+  class n1,n7,n14,n20,n28,n36,n47 branch
+  class n2,n3,n4,n5,n6,n8,n9,n10,n11,n12,n13,n15,n16,n17,n18,n19,n21,n22,n23,n24,n25,n26,n27,n29,n30,n31,n32,n33,n34,n35,n37,n38,n39,n40,n41,n42,n43,n44,n45,n46,n48,n49,n50,n51 leaf
+```
+
+## Nguồn
+
+John A. Tracy, *How to Read a Financial Report: Wringing Vital Signs Out of the Numbers*, ấn bản thứ bảy (John Wiley & Sons, 2009), Phần Một "Components and Connections in Financial Statements", Chương 5 "Cost of Goods Sold Expense and Inventory", trang in 33–37 (Exhibit 5.1 của chương được in ở trang in 32, ngay trước trang tên chương).
+
+## Tác giả
+
+John A. Tracy, giáo sư kế toán danh dự Đại học Colorado ở Boulder, kế toán viên công chứng (CPA).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 3 đã vẽ toàn bộ các đường nối giữa báo cáo kết quả kinh doanh (income statement) và bảng cân đối kế toán (balance sheet) của doanh nghiệp ví dụ. Từ Chương 4, Tracy tách từng đường nối ra để xem riêng: Chương 4 ([C04-doanh-thu-va-phai-thu-khach-hang.md](C04-doanh-thu-va-phai-thu-khach-hang.md)) xem đường nối giữa doanh thu bán hàng (sales revenue) và phải thu khách hàng (accounts receivable), rút ra kỳ thu tiền bình quân 5 tuần.
+
+Chương 5 xem đường nối thứ hai: giữa chi phí giá vốn hàng bán (cost of goods sold expense) và hàng tồn kho (inventory), rút ra thời gian giữ hàng tồn kho bình quân 13 tuần. Chương 6 ([C06-hang-ton-kho-va-phai-tra-nguoi-ban.md](C06-hang-ton-kho-va-phai-tra-nguoi-ban.md)) đi tiếp từ chính con số tồn kho này: doanh nghiệp mua hàng chịu, nên một phần tồn kho được tài trợ bằng phải trả người bán (accounts payable).
+
+Về sau, Chương 13 ([C13-dong-tien-tu-hoat-dong-kinh-doanh.md](C13-dong-tien-tu-hoat-dong-kinh-doanh.md)) dùng mức tăng hàng tồn kho trong năm để giải thích vì sao dòng tiền từ hoạt động kinh doanh thấp hơn lợi nhuận ròng, và Chương 17 ([C17-cac-chi-so-tai-chinh.md](C17-cac-chi-so-tai-chinh.md)) quay lại các chỉ số tài chính.
+
+## Lưu ý
+
+- **Vị trí của Exhibit 5.1.** Lời văn nói "Exhibit 5.1 ở đầu chương", nhưng trong bản PDF bảng này nằm ở trang in 32, trước trang tên chương (trang in 33). Trang in 38 (trang PDF 50) ở cuối phần văn bản của chương là Exhibit 6.1 của Chương 6, không thuộc chương này; bản tổng hợp này không chép Exhibit 6.1. Exhibit 5.1 đã được đối chiếu với hình trang PDF: bố cục gồm báo cáo kết quả kinh doanh bên trái, bảng cân đối kế toán bên phải, và một ô ghi chú ở giữa nối dòng giá vốn hàng bán với dòng hàng tồn kho. Các phép cộng trừ của bảng đều khớp (tổng tài sản 35.500; tổng nợ phải trả và vốn chủ sở hữu 35.500; lợi nhuận ròng 2.642).
+- **Các phép tính của chương đều đúng:** 33.800 ÷ 52.000 = 65%; 13/52 × 33.800 = 8.450; 33.800 ÷ 8.450 = 4,00; 52 ÷ 4,00 = 13; 10/52 × 33.800 = 6.500; 8.450 − 6.500 = 1.950. Không phát hiện lỗi số trong chương.
+- **"Gần gấp ba lần".** Tracy viết giá vốn hàng bán "gần gấp ba" chi phí bán hàng, chi phí chung và quản lý. Tỷ lệ thật là 33.800 ÷ 12.480 ≈ 2,7 lần; cách nói của Tracy là làm tròn.
+- **Sách dùng tồn kho cuối năm, không dùng tồn kho bình quân.** Tracy tính vòng quay hàng tồn kho bằng giá vốn chia cho tồn kho cuối năm. Nhiều sách phân tích tài chính dùng tồn kho bình quân đầu và cuối năm. Theo cách đó, với tồn kho đầu năm 7.515 và cuối năm 8.450 (bảng cân đối kế toán của Chương 2), tồn kho bình quân là 7.982,5; vòng quay ≈ 4,23 lần; thời gian giữ hàng ≈ 12,3 tuần. Đây là nhận xét của người tổng hợp; sách không nêu cách tính này. Ngoài ra, con số 13 tuần là giả định Tracy đặt ra cho ví dụ, rồi chứng minh nó khớp với bảng cân đối kế toán.
+- **Chỉ nêu ba phương pháp.** Tracy chỉ nêu FIFO, bình quân và LIFO. Theo hiểu biết của người tổng hợp, không tra cứu: còn có phương pháp thực tế đích danh (specific identification) cho hàng có giá trị lớn, nhận diện được từng chiếc, và phương pháp giá bán lẻ (retail method) ở ngành bán lẻ. Giá 102 USD của phương pháp bình quân trong ví dụ là bình quân đơn giản của hai đơn vị (100 và 104 USD).
+- **Quy định nay đã khác (theo hiểu biết của người tổng hợp, không tra cứu):** Chuẩn mực quốc tế IFRS (IAS 2 "Hàng tồn kho") không cho phép LIFO; US GAAP vẫn cho phép, và luật thuế Mỹ buộc doanh nghiệp dùng LIFO để tính thuế thì cũng phải dùng LIFO trên báo cáo tài chính (quy tắc nhất quán LIFO, LIFO conformity rule). Từ năm 2015 (ASU 2015-11), US GAAP đổi quy tắc "giá thấp hơn giữa giá gốc và giá thị trường" thành "giá thấp hơn giữa giá gốc và giá trị thuần có thể thực hiện được" cho hàng tồn kho tính theo FIFO hoặc bình quân (LIFO vẫn theo quy tắc cũ). Từ năm 2009, các quy định về hàng tồn kho của US GAAP nằm ở chủ đề ASC 330 của Bộ chuẩn mực FASB Codification.
+- **Nhận định chung của Tracy cần hiểu đúng mức:** "Lợi nhuận gộp trên 50% hoặc dưới 20% là hiếm" là kinh nghiệm chung của tác giả; theo hiểu biết của người tổng hợp, có những ngành thường nằm ngoài khoảng này (phần mềm, dược phẩm thường cao hơn; siêu thị, phân phối bán buôn thường thấp hơn). Câu "các công ty không công bố khoản lỗ do ghi giảm tồn kho được ghi vào đâu" cũng là nhận định chung; khi khoản ghi giảm lớn thì thường phải nêu trong thuyết minh, như chính Tracy nói ở đoạn sau.

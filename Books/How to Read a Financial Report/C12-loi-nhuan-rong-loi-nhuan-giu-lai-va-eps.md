@@ -1,19 +1,18 @@
 # Chương 12 — Lợi nhuận ròng và lợi nhuận giữ lại; lợi nhuận trên mỗi cổ phiếu (Net Income and Retained Earnings; Earnings per Share (EPS))
 
-**Nguồn:** John A. Tracy, *How to Read a Financial Report: Wringing Vital Signs Out of the Numbers*, ấn bản thứ bảy (John Wiley & Sons, 2009), Phần Một "Components and Connections in Financial Statements", Chương 12 "Net Income and Retained Earnings; Earnings per Share (EPS)", trang in 79–83 (bảng Exhibit 12.1 in ở trang 78, ngay trước trang tên chương).
-**Tác giả:** John A. Tracy, giáo sư kế toán danh dự Đại học Colorado ở Boulder, kế toán viên công chứng (CPA).
-**Vị trí trong lập luận của cả cuốn sách:** Từ Chương 4 đến Chương 11, Tracy đi lần lượt từ trên xuống dưới báo cáo kết quả kinh doanh (income statement) của doanh nghiệp ví dụ: doanh thu và phải thu khách hàng ([C04](C04-doanh-thu-va-phai-thu-khach-hang.md)), giá vốn hàng bán và hàng tồn kho ([C05](C05-gia-von-hang-ban-va-hang-ton-kho.md), [C06](C06-hang-ton-kho-va-phai-tra-nguoi-ban.md)), chi phí hoạt động ([C07](C07-chi-phi-hoat-dong-va-phai-tra-nguoi-ban.md), [C08](C08-chi-phi-hoat-dong-va-chi-phi-tra-truoc.md)), khấu hao ([C09](C09-mot-chi-phi-dac-biet-khau-hao.md)), chi phí phải trả ([C10](C10-ghi-nhan-chi-phi-phai-tra.md)) và cuối cùng là chi phí thuế thu nhập ([C11](C11-chi-phi-thue-thu-nhap-va-thue-phai-nop.md)). Mỗi chương nối một khoản mục của báo cáo kết quả kinh doanh với một khoản mục của bảng cân đối kế toán (balance sheet). Chương 12 khép lại chuỗi đó ở dòng cuối cùng: lợi nhuận ròng (net income) được nối vào khoản lợi nhuận giữ lại (retained earnings) trong phần vốn chủ sở hữu, và lần đầu tiên sách đưa ra con số lợi nhuận trên mỗi cổ phiếu (earnings per share, EPS). Sau chương này, Tracy chuyển sang dòng tiền: Chương 13 ([C13](C13-dong-tien-tu-hoat-dong-kinh-doanh.md)) giải thích vì sao lợi nhuận ròng 2.642 nghìn USD chỉ tạo ra 3.105 nghìn USD dòng tiền từ hoạt động kinh doanh, và Chương 14 ([C14](C14-dong-tien-tu-hoat-dong-dau-tu-va-tai-chinh.md)) giải thích các dòng tiền đầu tư và tài chính, trong đó có khoản cổ tức 750 nghìn USD được nhắc tới ở chương này. Chương 17 ([C17](C17-cac-chi-so-tai-chinh.md)) quay lại EPS kỹ hơn (EPS cơ bản, EPS pha loãng, hệ số giá trên lợi nhuận P/E).
-**Ý chính:** Tracy muốn người đọc hiểu rằng **lợi nhuận ròng của năm được ghi tăng vào khoản lợi nhuận giữ lại, cổ tức chia cho chủ sở hữu được ghi giảm khoản này, và số dư lợi nhuận giữ lại cho biết bao nhiêu tài sản của doanh nghiệp có nguồn gốc từ việc làm ra lợi nhuận rồi giữ lại trong doanh nghiệp, chứ không phải là một khoản tiền mặt hay một tài sản được cất riêng**. Ví dụ trung tâm: doanh nghiệp ví dụ có lợi nhuận ròng 2.642 nghìn USD trong năm, trả cổ tức tiền mặt 750 nghìn USD, nên lợi nhuận giữ lại chỉ tăng 1.892 nghìn USD, từ 13.108 lên 15.000 nghìn USD; con số 15.000 nghìn USD là kết quả cộng dồn của mọi năm từ khi công ty thành lập và giải thích nguồn gốc của 15.000 nghìn USD trong tổng tài sản 35.500 nghìn USD. Ở phần thứ hai, Tracy giới thiệu EPS: lợi nhuận ròng chia cho số cổ phiếu bình quân đang lưu hành, ở đây là 3,30 USD/cổ phiếu. Một cổ đông nắm 16.000 cổ phiếu (2% của 800.000 cổ phiếu) có thể coi phần của mình là 52.840 USD lợi nhuận ròng, hoặc nhìn vào EPS 3,30 USD; nếu cổ phiếu được định giá gấp 15 lần EPS thì mỗi cổ phiếu đáng khoảng 49,50 USD. Cuối chương, Tracy nhận xét: kế toán lợi nhuận giữ lại gần như không gây tranh cãi (mọi vấn đề nằm ở doanh thu và chi phí phía trên), còn tính EPS thì có nhiều vấn đề, nhất là khi phải báo cáo thêm EPS pha loãng.
+## Ý chính
 
-> **Lưu ý:**
-> - **Vị trí Exhibit 12.1 trong bản PDF.** Tracy viết "Exhibit 12.1 at the start of the chapter", nhưng trong bản PDF dùng để tổng hợp, bảng này nằm ở trang PDF 90 (trang in 78), tức là ngay trước trang tên Chương 12 (trang PDF 91, trang in 79). Trang PDF 96 (trang in 84) là Exhibit 13.1 của chương sau, không thuộc Chương 12. Phần nội dung của Chương 12 chỉ có 4 trang chữ (trang in 80–83).
-> - **EPS 3,30 USD là con số làm tròn và tính gần đúng.** Tracy định nghĩa EPS là lợi nhuận ròng chia cho số cổ phiếu **bình quân** lưu hành trong năm. Theo bảng cân đối kế toán của Chương 2, số cổ phiếu là 793.000 đầu năm và 800.000 cuối năm. Nếu lấy trung bình đơn giản hai con số này (796.500 cổ phiếu) thì EPS khoảng 2.642.000 ÷ 796.500 ≈ 3,32 USD; nếu chia cho 800.000 cổ phiếu cuối năm thì được 3,3025 USD, làm tròn 3,30 USD. Con số của sách khớp với cách chia cho số cổ phiếu cuối năm, hoặc với giả định số cổ phiếu mới phát hành vào gần cuối năm. Tracy không giải thích cách tính số bình quân. (Phép tính kiểm tra của người tổng hợp.)
-> - **Câu "liabilities and owners' equity provide $7 million" viết lỏng.** Trong ví dụ mở đầu (tài sản 10 triệu USD, nợ phải trả 3 triệu USD, vốn chủ sở hữu góp 4 triệu USD), Tracy nói "nợ phải trả và vốn chủ sở hữu cung cấp 7 triệu USD tài sản". Nói chính xác thì 7 triệu USD đó đến từ nợ phải trả cộng **vốn góp** của chủ sở hữu; vốn chủ sở hữu theo nghĩa đầy đủ gồm cả lợi nhuận giữ lại (3 triệu USD còn lại), nên tổng vốn chủ sở hữu là 7 triệu USD chứ không phải 4 triệu USD. Ý của Tracy vẫn rõ khi đọc cả đoạn.
-> - **Tham chiếu sang Exhibit 3.1.** Để kiểm tra khoản cổ tức 750 nghìn USD, Tracy bảo người đọc xem Exhibit 3.1. Khoản này chính là dòng "Cash Dividends Paid Shareholders (750)" trong phần hoạt động tài chính của báo cáo lưu chuyển tiền tệ (Exhibit 2.3); bản tổng hợp chép thẳng con số này vào, không cần mở Exhibit 3.1.
-> - **Exhibit 12.1 là bản rút gọn.** Báo cáo kết quả kinh doanh trong Exhibit 12.1 không ghi các dòng tổng phụ (lợi nhuận gộp 18.200, lợi nhuận trước lãi vay và thuế 4.935, lợi nhuận trước thuế 4.390), và bảng cân đối kế toán chỉ có cột cuối năm, không ghi các dòng tổng phụ tài sản ngắn hạn, nợ ngắn hạn. Các phép cộng trừ trong bảng đều đúng (người tổng hợp đã kiểm tra).
-> - **Thuế đối với khoản hoàn vốn và cổ tức.** Tracy nói gọn: hoàn trả vốn góp thì cổ đông không bị đánh thuế, chia lợi nhuận thì bị đánh thuế; và khi giải thể, phần vượt quá vốn góp là "cổ tức cuối cùng". Theo hiểu biết của người tổng hợp, không tra cứu: ở Mỹ, khoản hoàn vốn làm giảm giá vốn (cơ sở tính thuế) của cổ phiếu và chỉ chịu thuế khi vượt quá cơ sở đó; khoản phân phối khi giải thể công ty thường được xử lý như bán cổ phiếu (lãi vốn) chứ không như cổ tức thông thường; cổ tức "đủ điều kiện" (qualified dividends) chịu thuế suất ưu đãi bằng thuế suất lãi vốn dài hạn. Vì vậy câu của Tracy đúng về tinh thần (phân biệt vốn góp với lợi nhuận) nhưng đơn giản hoá phần thuế.
-> - **Ví dụ Microsoft.** Tracy nhắc "không lâu trước đây Microsoft đã trả cổ tức từ lợi nhuận của các năm trước" mà không nêu năm hay số tiền. Theo hiểu biết của người tổng hợp, không tra cứu: đó là khoản cổ tức đặc biệt 3 USD/cổ phiếu (tổng cộng khoảng 32 tỷ USD) công bố năm 2004.
-> - Văn bản trích từ PDF có lỗi tách chữ ("proﬁ t", "Y ou"); đó là lỗi trích, không phải lỗi sách.
+Tracy muốn người đọc hiểu rằng **lợi nhuận ròng của năm được ghi tăng vào khoản lợi nhuận giữ lại, cổ tức chia cho chủ sở hữu được ghi giảm khoản này, và số dư lợi nhuận giữ lại cho biết bao nhiêu tài sản của doanh nghiệp có nguồn gốc từ việc làm ra lợi nhuận rồi giữ lại trong doanh nghiệp, chứ không phải là một khoản tiền mặt hay một tài sản được cất riêng**.
+
+Ví dụ trung tâm: doanh nghiệp ví dụ có lợi nhuận ròng 2.642 nghìn USD trong năm, trả cổ tức tiền mặt 750 nghìn USD, nên lợi nhuận giữ lại chỉ tăng 1.892 nghìn USD, từ 13.108 lên 15.000 nghìn USD.
+
+Con số 15.000 nghìn USD là kết quả cộng dồn của mọi năm từ khi công ty thành lập và giải thích nguồn gốc của 15.000 nghìn USD trong tổng tài sản 35.500 nghìn USD.
+
+Ở phần thứ hai, Tracy giới thiệu EPS: lợi nhuận ròng chia cho số cổ phiếu bình quân đang lưu hành, ở đây là 3,30 USD/cổ phiếu.
+
+Một cổ đông nắm 16.000 cổ phiếu (2% của 800.000 cổ phiếu) có thể coi phần của mình là 52.840 USD lợi nhuận ròng, hoặc nhìn vào EPS 3,30 USD; nếu cổ phiếu được định giá gấp 15 lần EPS thì mỗi cổ phiếu đáng khoảng 49,50 USD.
+
+Cuối chương, Tracy nhận xét: kế toán lợi nhuận giữ lại gần như không gây tranh cãi (mọi vấn đề nằm ở doanh thu và chi phí phía trên), còn tính EPS thì có nhiều vấn đề, nhất là khi phải báo cáo thêm EPS pha loãng.
 
 ## Sơ đồ
 
@@ -277,7 +276,9 @@ Trong năm, doanh nghiệp trả 750.000 USD cổ tức tiền mặt từ lợi 
 
 Kiểm tra: 13.108 + 2.642 − 750 = 15.000; 15.000 − 13.108 = 1.892. Tỷ lệ chia cổ tức là 750 ÷ 2.642 ≈ 28,4% lợi nhuận ròng; doanh nghiệp giữ lại khoảng 71,6% (phép tính của người tổng hợp, Tracy không nêu).
 
-**Đọc số dư lợi nhuận giữ lại.** Tracy lưu ý rằng ở ví dụ này, số dư lợi nhuận giữ lại khá lớn so với tổng tài sản và các tài khoản khác trên bảng cân đối (15.000 trên 35.500 nghìn USD tổng tài sản, lớn hơn cả vốn cổ phần 8.125). Điều đó báo hiệu doanh nghiệp đã có lãi trong quá khứ. Tuy nhiên, chỉ từ bảng cân đối kế toán thì không biết được công ty có bị lỗ vào một hay vài năm nào đó trong quá khứ hay không, vì số dư chỉ là con số cộng dồn. Nhân tiện, nếu tổng số lỗ qua các năm lớn hơn tổng số lãi, tài khoản lợi nhuận giữ lại sẽ có số dư **âm**, và khoản này thường được gọi là **lỗ luỹ kế** (accumulated deficit) hoặc một tên tương tự.
+**Đọc số dư lợi nhuận giữ lại.** Tracy lưu ý rằng ở ví dụ này, số dư lợi nhuận giữ lại khá lớn so với tổng tài sản và các tài khoản khác trên bảng cân đối (15.000 trên 35.500 nghìn USD tổng tài sản, lớn hơn cả vốn cổ phần 8.125). Điều đó báo hiệu doanh nghiệp đã có lãi trong quá khứ. Tuy nhiên, chỉ từ bảng cân đối kế toán thì không biết được công ty có bị lỗ vào một hay vài năm nào đó trong quá khứ hay không, vì số dư chỉ là con số cộng dồn.
+
+Nhân tiện, nếu tổng số lỗ qua các năm lớn hơn tổng số lãi, tài khoản lợi nhuận giữ lại sẽ có số dư **âm**, và khoản này thường được gọi là **lỗ luỹ kế** (accumulated deficit) hoặc một tên tương tự.
 
 **Hiểu nhầm phổ biến: lợi nhuận giữ lại là tiền.** Nhiều người, kể cả một số nhà quản lý doanh nghiệp có kinh nghiệm, bị rối về lợi nhuận giữ lại. Họ nghĩ sai rằng lợi nhuận giữ lại là một tài sản, hay cụ thể hơn là tiền mặt. Tracy viết: "Không, nghìn lần không!" Lợi nhuận giữ lại không phải là tài sản, càng không phải là tiền mặt. Ông thừa nhận cái tên của tài khoản này có thể khiến người ta tưởng nó chỉ một khoản tiền doanh nghiệp đã cất dành riêng.
 
@@ -437,16 +438,26 @@ Phương trình biến động: Lợi nhuận giữ lại cuối kỳ = Lợi nh
 ## Đánh giá và phát hiện đáng chú ý
 
 ### Tracy nhắm đúng vào hiểu nhầm phổ biến nhất về vốn chủ sở hữu: coi lợi nhuận giữ lại là tiền
-Điểm mạnh nhất của chương là cách Tracy đánh thẳng vào ý nghĩ "lợi nhuận giữ lại là tiền doanh nghiệp để dành". Ông làm việc này bằng ba công cụ: câu đố 10 triệu USD tài sản (lợi nhuận giữ lại xuất hiện như một nguồn tài trợ, cùng loại với nợ phải trả và vốn góp), một cái tên thay thế dài nhưng nói đúng bản chất, và lời nhắc rằng muốn biết tài sản cụ thể thì phải xem phía tài sản. Với số liệu của chính doanh nghiệp ví dụ, sự khác biệt rất rõ: lợi nhuận giữ lại 15.000 nghìn USD nhưng tiền mặt chỉ 3.265 nghìn USD, và tiền mặt còn giảm 470 nghìn USD trong năm dù lợi nhuận ròng là 2.642 nghìn USD. Hiểu đúng điểm này là bước chuẩn bị cho Chương 13 và 14, nơi Tracy giải thích lợi nhuận đã biến thành những tài sản nào.
+Điểm mạnh nhất của chương là cách Tracy đánh thẳng vào ý nghĩ "lợi nhuận giữ lại là tiền doanh nghiệp để dành". Ông làm việc này bằng ba công cụ: câu đố 10 triệu USD tài sản (lợi nhuận giữ lại xuất hiện như một nguồn tài trợ, cùng loại với nợ phải trả và vốn góp), một cái tên thay thế dài nhưng nói đúng bản chất, và lời nhắc rằng muốn biết tài sản cụ thể thì phải xem phía tài sản.
+
+Với số liệu của chính doanh nghiệp ví dụ, sự khác biệt rất rõ: lợi nhuận giữ lại 15.000 nghìn USD nhưng tiền mặt chỉ 3.265 nghìn USD, và tiền mặt còn giảm 470 nghìn USD trong năm dù lợi nhuận ròng là 2.642 nghìn USD. Hiểu đúng điểm này là bước chuẩn bị cho Chương 13 và 14, nơi Tracy giải thích lợi nhuận đã biến thành những tài sản nào.
 
 ### Chương viết ngắn và đơn giản hoá cả phần thuế lẫn phần EPS
-Chương chỉ có bốn trang chữ, nên nhiều điểm được nói gọn. Về thuế, câu "hoàn vốn không bị đánh thuế, chia lợi nhuận thì bị đánh thuế" là đúng về tinh thần nhưng theo hiểu biết của người tổng hợp, luật thuế Mỹ phức tạp hơn: hoàn vốn làm giảm cơ sở tính thuế của cổ phiếu, khoản chia khi giải thể thường được xử lý như lãi vốn, và cổ tức đủ điều kiện có thuế suất ưu đãi. Về EPS, Tracy nói EPS dùng số cổ phiếu bình quân nhưng con số 3,30 USD lại khớp với phép chia cho số cổ phiếu cuối năm (800.000); nếu lấy trung bình 793.000 và 800.000 thì ra khoảng 3,32 USD. Chênh lệch nhỏ nhưng người đọc kỹ sẽ thấy, và cách tính số bình quân gia quyền theo thời gian chưa được giải thích.
+Chương chỉ có bốn trang chữ, nên nhiều điểm được nói gọn. Về thuế, câu "hoàn vốn không bị đánh thuế, chia lợi nhuận thì bị đánh thuế" là đúng về tinh thần nhưng theo hiểu biết của người tổng hợp, luật thuế Mỹ phức tạp hơn: hoàn vốn làm giảm cơ sở tính thuế của cổ phiếu, khoản chia khi giải thể thường được xử lý như lãi vốn, và cổ tức đủ điều kiện có thuế suất ưu đãi.
+
+Về EPS, Tracy nói EPS dùng số cổ phiếu bình quân nhưng con số 3,30 USD lại khớp với phép chia cho số cổ phiếu cuối năm (800.000); nếu lấy trung bình 793.000 và 800.000 thì ra khoảng 3,32 USD. Chênh lệch nhỏ nhưng người đọc kỹ sẽ thấy, và cách tính số bình quân gia quyền theo thời gian chưa được giải thích.
 
 ### Lợi nhuận giữ lại không còn "đơn giản và không gây tranh cãi" như Tracy mô tả, nếu nhìn cả phần vốn chủ sở hữu hiện nay
-Tracy nói có "vài khía cạnh kỹ thuật" vượt phạm vi sách. Theo hiểu biết của người tổng hợp, không tra cứu, những khía cạnh đó gồm: cổ tức bằng cổ phiếu (chuyển một phần lợi nhuận giữ lại sang vốn cổ phần), điều chỉnh hồi tố khi trình bày lại báo cáo tài chính hoặc khi đổi chính sách kế toán (ghi thẳng vào số dư đầu kỳ của lợi nhuận giữ lại, không qua báo cáo kết quả kinh doanh), mua lại cổ phiếu quỹ (treasury stock). Ngoài ra, từ cuối thập niên 1990, chuẩn mực Mỹ có thêm khoản "thu nhập toàn diện khác luỹ kế" (accumulated other comprehensive income) nằm trong vốn chủ sở hữu, tách khỏi lợi nhuận giữ lại; các khoản như chênh lệch tỷ giá khi chuyển đổi báo cáo, lãi lỗ chưa thực hiện của một số chứng khoán đi thẳng vào đó mà không qua lợi nhuận ròng. Vì vậy, "lợi nhuận giữ lại đầu kỳ + lợi nhuận ròng − cổ tức = lợi nhuận giữ lại cuối kỳ" là đúng với doanh nghiệp ví dụ, nhưng ở công ty thật người đọc nên xem báo cáo thay đổi vốn chủ sở hữu.
+Tracy nói có "vài khía cạnh kỹ thuật" vượt phạm vi sách. Theo hiểu biết của người tổng hợp, không tra cứu, những khía cạnh đó gồm: cổ tức bằng cổ phiếu (chuyển một phần lợi nhuận giữ lại sang vốn cổ phần), điều chỉnh hồi tố khi trình bày lại báo cáo tài chính hoặc khi đổi chính sách kế toán (ghi thẳng vào số dư đầu kỳ của lợi nhuận giữ lại, không qua báo cáo kết quả kinh doanh), mua lại cổ phiếu quỹ (treasury stock).
+
+Ngoài ra, từ cuối thập niên 1990, chuẩn mực Mỹ có thêm khoản "thu nhập toàn diện khác luỹ kế" (accumulated other comprehensive income) nằm trong vốn chủ sở hữu, tách khỏi lợi nhuận giữ lại; các khoản như chênh lệch tỷ giá khi chuyển đổi báo cáo, lãi lỗ chưa thực hiện của một số chứng khoán đi thẳng vào đó mà không qua lợi nhuận ròng.
+
+Vì vậy, "lợi nhuận giữ lại đầu kỳ + lợi nhuận ròng − cổ tức = lợi nhuận giữ lại cuối kỳ" là đúng với doanh nghiệp ví dụ, nhưng ở công ty thật người đọc nên xem báo cáo thay đổi vốn chủ sở hữu.
 
 ### EPS ngày nay còn được chú ý hơn thời Tracy viết, và có thêm những cách làm đẹp mới
-Theo hiểu biết của người tổng hợp, không tra cứu: từ khi quyền chọn cổ phiếu phải được tính vào chi phí theo FAS 123R (2006), EPS phản ánh đầy đủ hơn chi phí trả lương bằng cổ phiếu; quy định về EPS cơ bản và pha loãng nay nằm trong ASC 260 của Bộ chuẩn mực FASB Codification (có hiệu lực từ 2009) và IAS 33 bên IFRS. Mặt khác, các chương trình mua lại cổ phiếu quy mô lớn của công ty Mỹ từ thập niên 2010 làm giảm mẫu số và đẩy EPS lên mà lợi nhuận ròng không cần tăng; nhiều công ty còn công bố "EPS điều chỉnh" (non-GAAP) loại bỏ các khoản họ cho là bất thường. Chỉ dấu "EPS là chuyện hoàn toàn khác" của Tracy vì vậy càng đúng: người đọc cần xem lợi nhuận ròng, số cổ phiếu và cách tính, không chỉ nhìn con số EPS.
+Theo hiểu biết của người tổng hợp, không tra cứu: từ khi quyền chọn cổ phiếu phải được tính vào chi phí theo FAS 123R (2006), EPS phản ánh đầy đủ hơn chi phí trả lương bằng cổ phiếu; quy định về EPS cơ bản và pha loãng nay nằm trong ASC 260 của Bộ chuẩn mực FASB Codification (có hiệu lực từ 2009) và IAS 33 bên IFRS.
+
+Mặt khác, các chương trình mua lại cổ phiếu quy mô lớn của công ty Mỹ từ thập niên 2010 làm giảm mẫu số và đẩy EPS lên mà lợi nhuận ròng không cần tăng; nhiều công ty còn công bố "EPS điều chỉnh" (non-GAAP) loại bỏ các khoản họ cho là bất thường. Chỉ dấu "EPS là chuyện hoàn toàn khác" của Tracy vì vậy càng đúng: người đọc cần xem lợi nhuận ròng, số cổ phiếu và cách tính, không chỉ nhìn con số EPS.
 
 ### Ví dụ cổ đông sáng lập ẩn chứa một bài học về giá trị ghi sổ so với giá thị trường
 Tracy dùng ví dụ để giới thiệu EPS, nhưng các con số còn nói thêm một điều ông chưa nêu ở đây. Vốn chủ sở hữu cuối năm là 23.125 nghìn USD trên 800.000 cổ phiếu, tức giá trị ghi sổ khoảng 28,91 USD/cổ phiếu; mức giá tham chiếu 49,50 USD (15 lần EPS) cao hơn khoảng 1,7 lần. Giá trị ghi sổ phản ánh vốn góp cộng lợi nhuận giữ lại theo giá gốc, còn giá thị trường phản ánh kỳ vọng lợi nhuận tương lai. (Phép tính của người tổng hợp; Chương 17 bàn các chỉ số này.)
@@ -456,3 +467,153 @@ Tracy dùng ví dụ để giới thiệu EPS, nhưng các con số còn nói th
 - **Người cho vay:** số dư lợi nhuận giữ lại lớn cho thấy phần đệm vốn chủ sở hữu tích luỹ từ lợi nhuận, giảm rủi ro cho chủ nợ; số dư âm (lỗ luỹ kế) là tín hiệu cảnh báo. Hợp đồng vay thường hạn chế chia cổ tức để giữ phần đệm này (theo hiểu biết của người tổng hợp).
 - **Nhà đầu tư:** EPS và bội số giá trên EPS là điểm xuất phát để định giá, nhưng cần kiểm tra EPS pha loãng và hỏi lợi nhuận ròng phía trên có đáng tin không, vì theo chính Tracy mọi sai sót về doanh thu và chi phí đều chảy xuống lợi nhuận ròng, lợi nhuận giữ lại và EPS.
 - **Người đọc Việt Nam:** hiểu nhầm "lợi nhuận chưa phân phối là tiền có sẵn để chia" cũng rất phổ biến; lập luận của Tracy áp dụng nguyên vẹn — trước khi kỳ vọng cổ tức tiền mặt, hãy so lợi nhuận chưa phân phối với tiền và dòng tiền từ hoạt động kinh doanh của doanh nghiệp.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 12 trên một trang: năm nhánh lớn đi theo các mục 1–4 của phần Nội dung chi tiết (bảng Exhibit 12.1, lợi nhuận ròng chuyển vào lợi nhuận giữ lại, EPS, các vấn đề kế toán) và phần Đánh giá, mỗi nhánh ghi định nghĩa, mối nối giữa các khoản mục, công thức và con số then chốt của doanh nghiệp ví dụ; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 12: lợi nhuận ròng ghi tăng lợi nhuận giữ lại, cổ tức ghi giảm, và lợi nhuận giữ lại là một nguồn của tài sản chứ không phải tiền`"]
+  n1["`Mục 1 — Exhibit 12.1 nối lợi nhuận ròng 2.642 nghìn USD với lợi nhuận giữ lại và EPS`"]
+  n0 --- n1
+  n2["`Doanh thu 52.000 trừ giá vốn 33.800, SG#amp;A 12.480, khấu hao 785, lãi vay 545, thuế 1.748`"]
+  n1 --- n2
+  n3["`Lợi nhuận ròng 2.642 nghìn USD là dòng cuối, điểm xuất phát của cả hai mối nối`"]
+  n1 --- n3
+  n4["`Tổng phụ không ghi trong bảng: lợi nhuận gộp 18.200, trước lãi vay và thuế 4.935, trước thuế 4.390`"]
+  n1 --- n4
+  n5["`Tổng tài sản 35.500 = nợ phải trả 12.375 + vốn cổ phần 8.125 + lợi nhuận giữ lại 15.000`"]
+  n1 --- n5
+  n6["`Vốn chủ sở hữu tăng 2.067 trong năm: vốn cổ phần tăng 175, lợi nhuận giữ lại tăng 1.892`"]
+  n1 --- n6
+  n7["`Mục 2 — Lợi nhuận ròng chuyển vào lợi nhuận giữ lại`"]
+  n0 --- n7
+  n8["`Câu đố: tài sản 10 triệu USD, nợ phải trả 3 triệu, vốn góp 4 triệu, vậy 3 triệu còn lại từ lợi nhuận giữ lại`"]
+  n7 --- n8
+  n9["`Tài sản không tự rơi xuống như #quot;manna from heaven#quot; (lương thực trời ban)`"]
+  n8 --- n9
+  n10["`Công ty cổ phần bắt buộc tách hai tài khoản vốn chủ sở hữu: vốn cổ phần và lợi nhuận giữ lại`"]
+  n7 --- n10
+  n11["`Lý do: hoàn trả vốn góp thì cổ đông không chịu thuế, chia lợi nhuận thì cổ đông chịu thuế`"]
+  n10 --- n11
+  n12["`Biến động trong năm: 13.108 + 2.642 − 750 = 15.000, lợi nhuận giữ lại chỉ tăng 1.892`"]
+  n7 --- n12
+  n13["`Cổ tức 750 bằng khoảng 28,4% lợi nhuận ròng, doanh nghiệp giữ lại khoảng 71,6%`"]
+  n12 --- n13
+  n14["`Số dư 15.000 lớn so với tổng tài sản 35.500 cho thấy đã có lãi, nhưng không cho biết năm nào lỗ`"]
+  n7 --- n14
+  n15["`Lỗ cộng dồn lớn hơn lãi cộng dồn thì số dư âm, thường gọi là lỗ luỹ kế`"]
+  n14 --- n15
+  n16["`#quot;Không, nghìn lần không!#quot;: lợi nhuận giữ lại không phải tài sản, càng không phải tiền mặt`"]
+  n7 --- n16
+  n17["`Tên rõ hơn của Tracy: số tài sản có được nhờ làm ra lợi nhuận và giữ lại trong doanh nghiệp`"]
+  n16 --- n17
+  n18["`Làm ra 1.000.000 USD lợi nhuận thì tổng tài sản tăng 1.000.000, kế toán ghi tăng lợi nhuận giữ lại bằng ấy`"]
+  n16 --- n18
+  n19["`Ví dụ: lợi nhuận giữ lại 15.000 nhưng tiền mặt chỉ 3.265 nghìn USD`"]
+  n16 --- n19
+  n20["`Nguồn của tổng tài sản: nợ phải trả 34,9%, vốn góp 22,9%, lợi nhuận giữ lại 42,3%`"]
+  n7 --- n20
+  n21["`Lợi nhuận giữ lại là nền vốn lâu dài, thường không đem chia cổ tức cho các năm sau`"]
+  n7 --- n21
+  n22["`Ngoại lệ: Microsoft chia cổ tức từ lợi nhuận các năm trước vì tích quá nhiều tiền mặt`"]
+  n21 --- n22
+  n23["`Khi giải thể: lớp đầu tiên là hoàn trả vốn góp, phần còn lại là cổ tức cuối cùng phải chịu thuế`"]
+  n7 --- n23
+  n24["`Mục 3 — Lợi nhuận trên mỗi cổ phiếu (EPS)`"]
+  n0 --- n24
+  n25["`EPS = lợi nhuận ròng ÷ số cổ phiếu bình quân lưu hành, đo lợi nhuận cho mỗi đơn vị sở hữu`"]
+  n24 --- n25
+  n26["`Doanh nghiệp ví dụ: 2.642.000 USD ÷ khoảng 800.000 cổ phiếu ≈ 3,30 USD/cổ phiếu`"]
+  n25 --- n26
+  n27["`Cổ đông sáng lập nắm 16.000 cổ phiếu (2%), góp 120.000 USD, giá vốn 7,50 USD/cổ phiếu`"]
+  n24 --- n27
+  n28["`Vốn cổ phần 8.125.000 ÷ 800.000 ≈ 10,16 USD, nên người vào sau trả hơn 10 USD, có thể 20 USD`"]
+  n27 --- n28
+  n29["`7.000 cổ phiếu mới trong năm phát hành ở khoảng 175.000 ÷ 7.000 = 25 USD/cổ phiếu`"]
+  n27 --- n29
+  n30["`Nắm 2% là nhà đầu tư thụ động bên ngoài: hưởng 2% cổ tức (15.000 USD) và 2% phiếu biểu quyết`"]
+  n24 --- n30
+  n31["`Phần lợi nhuận: 2% × 2.642.000 = 52.840 USD, hoặc 16.000 × 3,30 = 52.800 USD do EPS làm tròn`"]
+  n24 --- n31
+  n32["`Công ty đại chúng bắt buộc báo cáo EPS ở cuối báo cáo kết quả kinh doanh, công ty không niêm yết thì không`"]
+  n24 --- n32
+  n33["`EPS là mốc định giá: chào bán ở 15 lần EPS = 15 × 3,30 = 49,50 USD/cổ phiếu`"]
+  n24 --- n33
+  n34["`Ở 49,50 USD, cổ phiếu mua giá 7,50 USD đã tăng khoảng 6,6 lần`"]
+  n33 --- n34
+  n35["`Giá trị ghi sổ 23.125 ÷ 800.000 ≈ 28,91 USD, giá 49,50 cao hơn khoảng 1,7 lần`"]
+  n33 --- n35
+  n36["`Mục 4 — Các vấn đề kế toán: lợi nhuận giữ lại đơn giản, EPS thì không`"]
+  n0 --- n36
+  n37["`Báo cáo lợi nhuận giữ lại đơn giản, vấn đề nằm ở doanh thu và chi phí của Chương 4–11`"]
+  n36 --- n37
+  n38["`Lợi nhuận ròng tính sai thì lợi nhuận giữ lại cũng sai theo`"]
+  n36 --- n38
+  n39["`EPS là chuyện hoàn toàn khác: nhiều công ty phải báo cáo hai con số EPS`"]
+  n36 --- n39
+  n40["`EPS cơ bản tính trên số cổ phiếu thực tế đang lưu hành trong tay cổ đông`"]
+  n39 --- n40
+  n41["`EPS pha loãng tính thêm cổ phiếu có thể phải phát hành, nên thấp hơn hoặc bằng EPS cơ bản`"]
+  n39 --- n41
+  n42["`Đánh giá — chỗ Tracy đơn giản hoá và điều người đọc cần cảnh giác`"]
+  n0 --- n42
+  n43["`EPS 3,30 khớp phép chia cho 800.000 cổ phiếu cuối năm, trung bình 796.500 cổ phiếu cho khoảng 3,32 USD`"]
+  n42 --- n43
+  n44["`Thuế bị nói gọn: ở Mỹ hoàn vốn làm giảm cơ sở tính thuế, khoản chia khi giải thể thường coi như lãi vốn`"]
+  n42 --- n44
+  n45["`Cổ tức bằng cổ phiếu, điều chỉnh hồi tố, cổ phiếu quỹ, thu nhập toàn diện khác luỹ kế: cần xem báo cáo thay đổi vốn chủ sở hữu`"]
+  n42 --- n45
+  n46["`Mua lại cổ phiếu làm giảm mẫu số, đẩy EPS lên mà lợi nhuận ròng không cần tăng`"]
+  n42 --- n46
+  n47["`Nhà quản lý chia cổ tức phải hỏi có đủ tiền mặt không: ví dụ vay thêm 625, tiền mặt giảm 470 khi trả 750 cổ tức`"]
+  n42 --- n47
+  n48["`Người cho vay: lợi nhuận giữ lại lớn là phần đệm vốn, lỗ luỹ kế là tín hiệu cảnh báo`"]
+  n42 --- n48
+  n49["`Thông điệp xuyên suốt`"]
+  n0 --- n49
+  n50["`Lợi nhuận giữ lại nằm phía nguồn vốn: cho biết tài sản được tài trợ từ đâu, không cho biết tài sản ở dạng gì`"]
+  n49 --- n50
+  n51["`Muốn biết doanh nghiệp có bao nhiêu tiền, nhìn dòng tiền mặt 3.265 chứ không phải lợi nhuận giữ lại 15.000`"]
+  n49 --- n51
+  n52["`Mọi sai sót về doanh thu và chi phí chảy xuống lợi nhuận ròng, lợi nhuận giữ lại và EPS`"]
+  n49 --- n52
+  n53["`Nhà đầu tư nhìn EPS trước tiên nhưng cần kiểm tra EPS pha loãng và chất lượng lợi nhuận ròng`"]
+  n49 --- n53
+  class n0 root
+  class n1,n7,n24,n36,n42,n49 branch
+  class n2,n3,n4,n5,n6,n8,n9,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n25,n26,n27,n28,n29,n30,n31,n32,n33,n34,n35,n37,n38,n39,n40,n41,n43,n44,n45,n46,n47,n48,n50,n51,n52,n53 leaf
+```
+
+## Nguồn
+
+John A. Tracy, *How to Read a Financial Report: Wringing Vital Signs Out of the Numbers*, ấn bản thứ bảy (John Wiley & Sons, 2009), Phần Một "Components and Connections in Financial Statements", Chương 12 "Net Income and Retained Earnings; Earnings per Share (EPS)", trang in 79–83 (bảng Exhibit 12.1 in ở trang 78, ngay trước trang tên chương).
+
+## Tác giả
+
+John A. Tracy, giáo sư kế toán danh dự Đại học Colorado ở Boulder, kế toán viên công chứng (CPA).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Từ Chương 4 đến Chương 11, Tracy đi lần lượt từ trên xuống dưới báo cáo kết quả kinh doanh (income statement) của doanh nghiệp ví dụ: doanh thu và phải thu khách hàng ([C04](C04-doanh-thu-va-phai-thu-khach-hang.md)), giá vốn hàng bán và hàng tồn kho ([C05](C05-gia-von-hang-ban-va-hang-ton-kho.md), [C06](C06-hang-ton-kho-va-phai-tra-nguoi-ban.md)), chi phí hoạt động ([C07](C07-chi-phi-hoat-dong-va-phai-tra-nguoi-ban.md), [C08](C08-chi-phi-hoat-dong-va-chi-phi-tra-truoc.md)), khấu hao ([C09](C09-mot-chi-phi-dac-biet-khau-hao.md)), chi phí phải trả ([C10](C10-ghi-nhan-chi-phi-phai-tra.md)) và cuối cùng là chi phí thuế thu nhập ([C11](C11-chi-phi-thue-thu-nhap-va-thue-phai-nop.md)).
+
+Mỗi chương nối một khoản mục của báo cáo kết quả kinh doanh với một khoản mục của bảng cân đối kế toán (balance sheet). Chương 12 khép lại chuỗi đó ở dòng cuối cùng: lợi nhuận ròng (net income) được nối vào khoản lợi nhuận giữ lại (retained earnings) trong phần vốn chủ sở hữu, và lần đầu tiên sách đưa ra con số lợi nhuận trên mỗi cổ phiếu (earnings per share, EPS).
+
+Sau chương này, Tracy chuyển sang dòng tiền: Chương 13 ([C13](C13-dong-tien-tu-hoat-dong-kinh-doanh.md)) giải thích vì sao lợi nhuận ròng 2.642 nghìn USD chỉ tạo ra 3.105 nghìn USD dòng tiền từ hoạt động kinh doanh, và Chương 14 ([C14](C14-dong-tien-tu-hoat-dong-dau-tu-va-tai-chinh.md)) giải thích các dòng tiền đầu tư và tài chính, trong đó có khoản cổ tức 750 nghìn USD được nhắc tới ở chương này. Chương 17 ([C17](C17-cac-chi-so-tai-chinh.md)) quay lại EPS kỹ hơn (EPS cơ bản, EPS pha loãng, hệ số giá trên lợi nhuận P/E).
+
+## Lưu ý
+
+- **Vị trí Exhibit 12.1 trong bản PDF.** Tracy viết "Exhibit 12.1 at the start of the chapter", nhưng trong bản PDF dùng để tổng hợp, bảng này nằm ở trang PDF 90 (trang in 78), tức là ngay trước trang tên Chương 12 (trang PDF 91, trang in 79). Trang PDF 96 (trang in 84) là Exhibit 13.1 của chương sau, không thuộc Chương 12. Phần nội dung của Chương 12 chỉ có 4 trang chữ (trang in 80–83).
+- **EPS 3,30 USD là con số làm tròn và tính gần đúng.** Tracy định nghĩa EPS là lợi nhuận ròng chia cho số cổ phiếu **bình quân** lưu hành trong năm. Theo bảng cân đối kế toán của Chương 2, số cổ phiếu là 793.000 đầu năm và 800.000 cuối năm. Nếu lấy trung bình đơn giản hai con số này (796.500 cổ phiếu) thì EPS khoảng 2.642.000 ÷ 796.500 ≈ 3,32 USD; nếu chia cho 800.000 cổ phiếu cuối năm thì được 3,3025 USD, làm tròn 3,30 USD. Con số của sách khớp với cách chia cho số cổ phiếu cuối năm, hoặc với giả định số cổ phiếu mới phát hành vào gần cuối năm. Tracy không giải thích cách tính số bình quân. (Phép tính kiểm tra của người tổng hợp.)
+- **Câu "liabilities and owners' equity provide $7 million" viết lỏng.** Trong ví dụ mở đầu (tài sản 10 triệu USD, nợ phải trả 3 triệu USD, vốn chủ sở hữu góp 4 triệu USD), Tracy nói "nợ phải trả và vốn chủ sở hữu cung cấp 7 triệu USD tài sản". Nói chính xác thì 7 triệu USD đó đến từ nợ phải trả cộng **vốn góp** của chủ sở hữu; vốn chủ sở hữu theo nghĩa đầy đủ gồm cả lợi nhuận giữ lại (3 triệu USD còn lại), nên tổng vốn chủ sở hữu là 7 triệu USD chứ không phải 4 triệu USD. Ý của Tracy vẫn rõ khi đọc cả đoạn.
+- **Tham chiếu sang Exhibit 3.1.** Để kiểm tra khoản cổ tức 750 nghìn USD, Tracy bảo người đọc xem Exhibit 3.1. Khoản này chính là dòng "Cash Dividends Paid Shareholders (750)" trong phần hoạt động tài chính của báo cáo lưu chuyển tiền tệ (Exhibit 2.3); bản tổng hợp chép thẳng con số này vào, không cần mở Exhibit 3.1.
+- **Exhibit 12.1 là bản rút gọn.** Báo cáo kết quả kinh doanh trong Exhibit 12.1 không ghi các dòng tổng phụ (lợi nhuận gộp 18.200, lợi nhuận trước lãi vay và thuế 4.935, lợi nhuận trước thuế 4.390), và bảng cân đối kế toán chỉ có cột cuối năm, không ghi các dòng tổng phụ tài sản ngắn hạn, nợ ngắn hạn. Các phép cộng trừ trong bảng đều đúng (người tổng hợp đã kiểm tra).
+- **Thuế đối với khoản hoàn vốn và cổ tức.** Tracy nói gọn: hoàn trả vốn góp thì cổ đông không bị đánh thuế, chia lợi nhuận thì bị đánh thuế; và khi giải thể, phần vượt quá vốn góp là "cổ tức cuối cùng".
+  Theo hiểu biết của người tổng hợp, không tra cứu: ở Mỹ, khoản hoàn vốn làm giảm giá vốn (cơ sở tính thuế) của cổ phiếu và chỉ chịu thuế khi vượt quá cơ sở đó; khoản phân phối khi giải thể công ty thường được xử lý như bán cổ phiếu (lãi vốn) chứ không như cổ tức thông thường; cổ tức "đủ điều kiện" (qualified dividends) chịu thuế suất ưu đãi bằng thuế suất lãi vốn dài hạn. Vì vậy câu của Tracy đúng về tinh thần (phân biệt vốn góp với lợi nhuận) nhưng đơn giản hoá phần thuế.
+- **Ví dụ Microsoft.** Tracy nhắc "không lâu trước đây Microsoft đã trả cổ tức từ lợi nhuận của các năm trước" mà không nêu năm hay số tiền. Theo hiểu biết của người tổng hợp, không tra cứu: đó là khoản cổ tức đặc biệt 3 USD/cổ phiếu (tổng cộng khoảng 32 tỷ USD) công bố năm 2004.
+- Văn bản trích từ PDF có lỗi tách chữ ("proﬁ t", "Y ou"); đó là lỗi trích, không phải lỗi sách.

@@ -1,18 +1,18 @@
 # Chương 7 — Chi phí hoạt động và phải trả người bán (Operating Expenses and Accounts Payable)
 
-**Nguồn:** John A. Tracy, *How to Read a Financial Report: Wringing Vital Signs Out of the Numbers*, ấn bản thứ bảy (John Wiley & Sons, 2009), Phần Một "Components and Connections in Financial Statements", Chương 7 "Operating Expenses and Accounts Payable", trang in 45–49 (bảng Exhibit 7.1 của chương được in ở trang 44, ngay trước trang tên chương).
-**Tác giả:** John A. Tracy, giáo sư kế toán danh dự Đại học Colorado ở Boulder, kế toán viên công chứng (CPA).
-**Vị trí trong lập luận của cả cuốn sách:** Từ Chương 4, Tracy đi lần lượt qua từng "mối nối" (connection) giữa một khoản mục của báo cáo kết quả kinh doanh (income statement) và một khoản mục của bảng cân đối kế toán (balance sheet) của cùng một doanh nghiệp ví dụ (doanh thu 52 triệu USD/năm). Chương 4 nối doanh thu với phải thu khách hàng; Chương 5 nối giá vốn hàng bán với hàng tồn kho; [Chương 6](C06-hang-ton-kho-va-phai-tra-nguoi-ban.md) nối hàng tồn kho với phần thứ nhất của phải trả người bán (accounts payable) — 2.600 nghìn USD tiền mua hàng, nguyên vật liệu sản xuất mua chịu, bằng 4/13 số dư hàng tồn kho 8.450 nghìn USD. Chương 7 giải thích phần thứ hai của phải trả người bán: 720 nghìn USD hoá đơn chi phí bán hàng, chi phí chung và quản lý (SG&A) chưa thanh toán vào cuối năm. Hai phần cộng lại thành số dư phải trả người bán 3.320 nghìn USD trên bảng cân đối kế toán. Chương này mở đầu chuỗi ba chương về các cách ghi nhận chi phí hoạt động không trùng thời điểm trả tiền: [Chương 8](C08-chi-phi-hoat-dong-va-chi-phi-tra-truoc.md) bàn chi phí đã trả tiền trước khi ghi chi phí (chi phí trả trước 960 nghìn USD, bằng 4/52 của cùng tổng SG&A 12.480 nghìn USD), và [Chương 10](C10-ghi-nhan-chi-phi-phai-tra.md) bàn chi phí phải trả (accrued expenses payable) — loại nghĩa vụ chưa có hoá đơn. Ý "ghi chi phí chưa làm giảm tiền" được dùng lại ở [Chương 13](C13-dong-tien-tu-hoat-dong-kinh-doanh.md), nơi mức tăng phải trả người bán trong năm (645 nghìn USD) được cộng ngược vào lợi nhuận ròng để tính dòng tiền từ hoạt động kinh doanh.
-**Ý chính:** Tracy muốn người đọc hiểu rằng **nhiều chi phí hoạt động phải được ghi vào sổ ngay khi doanh nghiệp đã nhận lợi ích và đã phát sinh nghĩa vụ trả tiền, dù tiền chưa ra khỏi két; khoản chi phí chưa trả đó nằm trên bảng cân đối kế toán dưới dạng phải trả người bán, và quy mô của nó có thể ước lượng bằng thời hạn thanh toán bình quân nhân với tổng chi phí năm**. Ví dụ trung tâm: doanh nghiệp có tổng chi phí bán hàng, chi phí chung và quản lý 12.480 nghìn USD trong năm (không gồm giá vốn hàng bán, khấu hao, lãi vay, thuế thu nhập); doanh nghiệp trả các hoá đơn chi phí này sau bình quân ba tuần; vì vậy cuối năm còn khoảng 3/52 × 12.480 = 720 nghìn USD hoá đơn chưa trả, ghi là một phần của phải trả người bán. Việc ghi nhận này phục vụ hai mục đích cùng lúc: báo cáo kết quả kinh doanh trừ đủ chi phí để đo lợi nhuận đúng kỳ, và bảng cân đối kế toán thể hiện đủ nghĩa vụ phải trả. Ghi nhận chi phí chưa trả không làm giảm tiền; tiền chỉ ra khi doanh nghiệp thanh toán hoá đơn. Ở mục cuối, Tracy nói số phải trả cho chi phí chưa trả hầu như không có vấn đề kế toán, nhưng vấn đề gây tranh cãi nhiều nhất là doanh nghiệp được phép công bố chi phí hoạt động rất sơ sài — có khi chỉ một con số tổng.
+## Ý chính
 
-> **Lưu ý:**
-> - **Vị trí bảng Exhibit 7.1.** Văn bản chương bảo người đọc xem "Exhibit 7.1 ở đầu chương", nhưng trong bản PDF bảng này nằm ở trang in 44 (PDF trang 56), tức là trang chẵn đứng ngay *trước* trang tên chương 7 (trang in 45). Văn bản trích theo chương đã xếp nhầm bảng này vào cuối Chương 6. Bản tổng hợp này chép lại đầy đủ Exhibit 7.1. Ngược lại, trang in 50 (PDF trang 62), nằm trong khoảng trang của Chương 7, thực ra chứa Exhibit 8.1 của Chương 8 (chi phí trả trước 4/52 × 12.480 = 960); nội dung đó thuộc Chương 8 nên ở đây chỉ nhắc khi cần so sánh.
-> - **Kiểm tra số học.** Mọi phép tính trong chương đều khớp: 12.480 ÷ 52 = 240 nghìn USD chi phí mỗi tuần, × 3 = 720; 2.600 + 720 = 3.320 (số dư phải trả người bán); báo cáo kết quả kinh doanh 52.000 − 33.800 − 12.480 − 785 − 545 − 1.748 = 2.642; tổng tài sản 3.265 + 5.000 + 8.450 + 960 + 16.500 − 4.250 + 5.575 = 35.500; tổng nợ phải trả và vốn chủ sở hữu 3.320 + 1.515 + 165 + 3.125 + 4.250 + 8.125 + 15.000 = 35.500. Không phát hiện lỗi số.
-> - **Một cơ sở tính dùng cho ba số dư khác nhau (sách đơn giản hoá).** Tracy lấy *toàn bộ* 12.480 nghìn USD SG&A làm cơ sở tính phải trả người bán (3 tuần → 720). Chương 8 lại lấy đúng con số 12.480 đó làm cơ sở tính chi phí trả trước (4 tuần → 960), và chương sau về chi phí phải trả cũng dựa vào chi phí hoạt động. Trong thực tế, mỗi loại số dư chỉ liên quan tới một nhóm chi phí nhất định. Chính danh sách chi phí của Tracy có những khoản không bao giờ đi qua phải trả người bán: nợ khó đòi (bad debts) và hao hụt hàng tồn kho (inventory shrinkage) là chi phí không phát sinh hoá đơn hay dòng tiền; tiền lương thường được ghi vào chi phí phải trả chứ không phải phải trả người bán. Phép nhân "3/52 × tổng SG&A" nên hiểu là cách ước lượng quy mô, không phải cách doanh nghiệp thật lập sổ.
-> - **Ví dụ phí luật sư ghi vào phải trả người bán.** Tracy cho hoá đơn của luật sư nhận ngày 15/12 vào phải trả người bán. Đúng vì đã có hoá đơn; nếu đến cuối năm luật sư chưa gửi hoá đơn mà công việc đã làm xong, khoản này sẽ được ghi vào chi phí phải trả (chủ đề Chương 10). Ranh giới "có hoá đơn hay chưa" là cách phân biệt thường dùng, sách không nói rõ ở chương này.
-> - **Bảng chỉ có một cột năm nay.** Exhibit 7.1 chỉ trình bày bảng cân đối kế toán cuối năm nay, không có cột năm trước, và không tách số dư phải trả người bán đầu năm (2.675 nghìn USD) thành hai phần như cuối năm. Vì vậy chương không cho biết riêng phần phải trả cho chi phí hoạt động đã tăng bao nhiêu trong năm.
-> - **Công bố chi phí (điều đã thay đổi, theo hiểu biết của người tổng hợp, không tra cứu).** Tracy viết năm 2009 rằng chuẩn mực không đòi hỏi nhiều về công bố chi phí trong báo cáo kết quả kinh doanh. Sau này, theo hiểu biết của người tổng hợp: Hội đồng Chuẩn mực Kế toán Tài chính Mỹ (FASB) đã ban hành năm 2024 chuẩn mực yêu cầu công ty niêm yết thuyết minh tách các dòng chi phí lớn (mua hàng tồn kho, lương nhân viên, khấu hao, phân bổ dần...), áp dụng từ khoảng năm 2027; Hội đồng Chuẩn mực Kế toán Quốc tế (IASB) ban hành IFRS 18 (2024, hiệu lực 2027) thay IAS 1, yêu cầu doanh nghiệp trình bày chi phí theo chức năng phải thuyết minh thêm một số chi phí theo bản chất. Ngoài ra, ngay từ trước 2009, US GAAP đã yêu cầu thuyết minh tổng chi phí quảng cáo trong thuyết minh báo cáo tài chính, nên câu "bạn không thấy chi phí quảng cáo trong nhiều báo cáo kết quả kinh doanh công bố ra ngoài" đúng với *mặt báo cáo* nhưng người đọc kỹ thuyết minh vẫn có thể tìm thấy con số này.
-> - **Chi phí hưu trí theo chế độ phúc lợi xác định (theo hiểu biết của người tổng hợp, không tra cứu).** Tracy chỉ nói đây là chi phí "rất khó đo". Từ chuẩn mực FAS 158 (2006), doanh nghiệp Mỹ phải đưa tình trạng thừa/thiếu quỹ của kế hoạch hưu trí phúc lợi xác định lên bảng cân đối kế toán; độ khó đo lường nằm ở các giả định tỷ lệ chiết khấu, tuổi thọ, lợi suất quỹ.
+Tracy muốn người đọc hiểu rằng **nhiều chi phí hoạt động phải được ghi vào sổ ngay khi doanh nghiệp đã nhận lợi ích và đã phát sinh nghĩa vụ trả tiền, dù tiền chưa ra khỏi két; khoản chi phí chưa trả đó nằm trên bảng cân đối kế toán dưới dạng phải trả người bán, và quy mô của nó có thể ước lượng bằng thời hạn thanh toán bình quân nhân với tổng chi phí năm**.
+
+Ví dụ trung tâm: doanh nghiệp có tổng chi phí bán hàng, chi phí chung và quản lý 12.480 nghìn USD trong năm (không gồm giá vốn hàng bán, khấu hao, lãi vay, thuế thu nhập).
+
+Doanh nghiệp trả các hoá đơn chi phí này sau bình quân ba tuần. Vì vậy cuối năm còn khoảng 3/52 × 12.480 = 720 nghìn USD hoá đơn chưa trả, ghi là một phần của phải trả người bán.
+
+Việc ghi nhận này phục vụ hai mục đích cùng lúc: báo cáo kết quả kinh doanh trừ đủ chi phí để đo lợi nhuận đúng kỳ, và bảng cân đối kế toán thể hiện đủ nghĩa vụ phải trả.
+
+Ghi nhận chi phí chưa trả không làm giảm tiền; tiền chỉ ra khi doanh nghiệp thanh toán hoá đơn.
+
+Ở mục cuối, Tracy nói số phải trả cho chi phí chưa trả hầu như không có vấn đề kế toán, nhưng vấn đề gây tranh cãi nhiều nhất là doanh nghiệp được phép công bố chi phí hoạt động rất sơ sài — có khi chỉ một con số tổng.
 
 ## Sơ đồ
 
@@ -369,11 +369,15 @@ Trên bảng cân đối kế toán thật, phải trả người bán chỉ là
 
 ### Phép tính "3/52 × tổng SG&A" là một cách ước lượng đơn giản hoá, vì nhiều khoản trong SG&A không bao giờ đi qua phải trả người bán
 
-Chính danh sách của Tracy cho thấy SG&A chứa nợ khó đòi và hao hụt hàng tồn kho — những chi phí không có hoá đơn, không bao giờ phải trả tiền cho ai. Tiền lương thường được ghi vào chi phí phải trả, tiền thuê và bảo hiểm thường trả trước. Vậy mà cùng tổng 12.480 nghìn USD được dùng làm cơ sở cho cả phải trả người bán (3 tuần) và chi phí trả trước (4 tuần, Chương 8). Đó là lựa chọn hợp lý để giữ ví dụ gọn, nhưng người đọc không nên dùng tỷ lệ "phải trả người bán / SG&A" của doanh nghiệp thật để suy ra thời hạn thanh toán chính xác. Phân tích viên thực tế thường tính số ngày phải trả (days payable outstanding) trên giá vốn hàng bán hoặc tổng mua hàng, và hiểu rằng kết quả chỉ là xấp xỉ.
+Chính danh sách của Tracy cho thấy SG&A chứa nợ khó đòi và hao hụt hàng tồn kho — những chi phí không có hoá đơn, không bao giờ phải trả tiền cho ai. Tiền lương thường được ghi vào chi phí phải trả, tiền thuê và bảo hiểm thường trả trước. Vậy mà cùng tổng 12.480 nghìn USD được dùng làm cơ sở cho cả phải trả người bán (3 tuần) và chi phí trả trước (4 tuần, Chương 8).
+
+Đó là lựa chọn hợp lý để giữ ví dụ gọn, nhưng người đọc không nên dùng tỷ lệ "phải trả người bán / SG&A" của doanh nghiệp thật để suy ra thời hạn thanh toán chính xác. Phân tích viên thực tế thường tính số ngày phải trả (days payable outstanding) trên giá vốn hàng bán hoặc tổng mua hàng, và hiểu rằng kết quả chỉ là xấp xỉ.
 
 ### Câu hỏi về công bố chi phí của Tracy năm 2009 nay đang được chuẩn mực trả lời dần (theo hiểu biết của người tổng hợp, không tra cứu)
 
-Tracy than rằng chuẩn mực cho phép công ty chỉ công bố một con số SG&A. Theo hiểu biết của người tổng hợp, đây chính là phàn nàn lâu năm của nhà đầu tư mà các cơ quan chuẩn mực về sau đã xử lý: FASB ban hành năm 2024 chuẩn mực về tách chi tiết chi phí trong báo cáo kết quả kinh doanh (yêu cầu thuyết minh các thành phần như mua hàng tồn kho, lương nhân viên, khấu hao, phân bổ dần nằm trong từng dòng chi phí), áp dụng cho công ty niêm yết từ khoảng năm 2027; IASB ban hành IFRS 18 năm 2024 (hiệu lực 2027), thay IAS 1, đặt ra các tổng phụ bắt buộc và yêu cầu doanh nghiệp trình bày theo chức năng thuyết minh thêm một số chi phí theo bản chất. Ngoài ra, Bộ chuẩn mực FASB Codification (ASC) có hiệu lực từ 2009 đã gom các yêu cầu cũ (kể cả yêu cầu thuyết minh tổng chi phí quảng cáo) vào một hệ thống thống nhất. Nhận xét "kín miệng" của Tracy vì thế đúng với giai đoạn ông viết hơn là với hiện nay.
+Tracy than rằng chuẩn mực cho phép công ty chỉ công bố một con số SG&A. Theo hiểu biết của người tổng hợp, đây chính là phàn nàn lâu năm của nhà đầu tư mà các cơ quan chuẩn mực về sau đã xử lý: FASB ban hành năm 2024 chuẩn mực về tách chi tiết chi phí trong báo cáo kết quả kinh doanh (yêu cầu thuyết minh các thành phần như mua hàng tồn kho, lương nhân viên, khấu hao, phân bổ dần nằm trong từng dòng chi phí), áp dụng cho công ty niêm yết từ khoảng năm 2027. IASB ban hành IFRS 18 năm 2024 (hiệu lực 2027), thay IAS 1, đặt ra các tổng phụ bắt buộc và yêu cầu doanh nghiệp trình bày theo chức năng thuyết minh thêm một số chi phí theo bản chất.
+
+Ngoài ra, Bộ chuẩn mực FASB Codification (ASC) có hiệu lực từ 2009 đã gom các yêu cầu cũ (kể cả yêu cầu thuyết minh tổng chi phí quảng cáo) vào một hệ thống thống nhất. Nhận xét "kín miệng" của Tracy vì thế đúng với giai đoạn ông viết hơn là với hiện nay.
 
 ### Ranh giới giữa phải trả người bán và chi phí phải trả được sách để mờ ở chương này
 
@@ -389,3 +393,163 @@ Câu kết của mục chính rất ngắn nhưng chuẩn bị cho cả Chương
 - **Người cho vay:** số dư phải trả người bán tăng nhanh hơn chi phí là dấu hiệu doanh nghiệp đang chậm trả, có thể vì thiếu tiền.
 - **Nhà đầu tư:** khi báo cáo chỉ có một dòng SG&A, nên đọc thuyết minh báo cáo tài chính để tìm thêm chi tiết (quảng cáo, lương, thuê tài sản) và so sánh tỷ lệ SG&A/doanh thu qua các năm (ví dụ: 12.480/52.000 ≈ 24%).
 - **Người đọc Việt Nam (định tính):** theo hiểu biết của người tổng hợp, báo cáo kết quả kinh doanh theo chuẩn mực Việt Nam thường tách "chi phí bán hàng" và "chi phí quản lý doanh nghiệp" thành hai dòng, và phần thuyết minh có mục chi phí sản xuất kinh doanh theo yếu tố; tuy vậy, khoản phải trả cho chi phí chưa trả có thể nằm ở "phải trả người bán" hoặc "chi phí phải trả" tuỳ việc đã có hoá đơn hay chưa — đúng ranh giới mà chương này để mờ.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 7 trên một trang: sáu nhánh lớn đi theo các mục 1–3 của phần Nội dung chi tiết và phần Đánh giá (bảng mở chương nối SG&A với phải trả người bán, chi phí hoạt động gồm những gì, ghi chi phí trước khi trả theo kế toán dồn tích, ước lượng số dư 3/52 × 12.480 và tác động tới lợi nhuận và tiền, các vấn đề kế toán và công bố, giới hạn của ví dụ và cách vận dụng), mỗi nhánh ghi định nghĩa, phép tính và con số then chốt của doanh nghiệp ví dụ; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 7: chi phí hoạt động được ghi khi đã nhận lợi ích và có nghĩa vụ trả#59; phần chưa trả thành phải trả người bán`"]
+  n1["`Mục 1 — Bảng mở chương nối SG#amp;A với phải trả người bán`"]
+  n0 --- n1
+  n2["`Báo cáo kết quả kinh doanh: doanh thu 52.000, giá vốn 33.800, SG#amp;A 12.480, lợi nhuận ròng 2.642 nghìn USD`"]
+  n1 --- n2
+  n3["`Khấu hao 785, lãi vay 545, thuế thu nhập 1.748 nghìn USD báo cáo riêng, không nằm trong SG#amp;A`"]
+  n1 --- n3
+  n4["`Giả định cuối năm còn nợ 3 tuần chi phí SG#amp;A: 3/52 × 12.480 = 720 nghìn USD`"]
+  n1 --- n4
+  n5["`Phải trả người bán 3.320 = 2.600 từ mua hàng chịu + 720 từ SG#amp;A chưa trả`"]
+  n1 --- n5
+  n6["`Phần 2.600 từ Chương 6: trả hàng mua chịu sau 4 tuần, tồn kho 13 tuần, 4/13 × 8.450`"]
+  n5 --- n6
+  n7["`Tổng tài sản 35.500 bằng tổng nợ phải trả và vốn chủ sở hữu 35.500 nghìn USD`"]
+  n1 --- n7
+  n8["`Mục 2 — Chi phí hoạt động là gì: một dòng SG#amp;A gộp rất nhiều khoản`"]
+  n0 --- n8
+  n9["`Chi phí hoạt động không gồm giá vốn hàng bán, lãi vay, thuế thu nhập#59; khấu hao ở đây báo cáo riêng`"]
+  n8 --- n9
+  n10["`Mọi chi phí hoạt động còn lại gộp vào dòng Selling, General, and Administrative Expenses`"]
+  n8 --- n10
+  n11["`Khoản điển hình: thuê nhà, lương nhân viên ngoài sản xuất, thuế quỹ lương, phúc lợi, bảo hiểm`"]
+  n8 --- n11
+  n12["`Lương công nhân sản xuất vào giá thành hàng tồn kho rồi giá vốn, không vào SG#amp;A`"]
+  n11 --- n12
+  n13["`Hưu trí theo chế độ phúc lợi xác định là chi phí rất khó đo`"]
+  n11 --- n13
+  n14["`Còn có quảng cáo, khuyến mại, điện, điện thoại, Internet, vận chuyển, đi lại, tiếp khách`"]
+  n8 --- n14
+  n15["`Hao hụt hàng tồn kho có thể ghi vào giá vốn hàng bán hoặc vào chi phí hoạt động`"]
+  n8 --- n15
+  n16["`Nợ khó đòi: phải thu quá hạn không thu được, xoá sổ, xếp vào chi phí hoạt động`"]
+  n8 --- n16
+  n17["`Doanh nghiệp nhỏ giữ từ 100 tài khoản chi phí, tập đoàn lớn hàng nghìn, nhưng chỉ công bố 1–3 dòng`"]
+  n8 --- n17
+  n18["`SG#amp;A 12.480 trên doanh thu 52.000, khoảng 24% doanh thu, dòng chi phí lớn thứ hai sau giá vốn`"]
+  n8 --- n18
+  n19["`Mục 2 — Ghi chi phí trước khi trả tiền theo kế toán dồn tích`"]
+  n0 --- n19
+  n20["`Ghi khi trả tiền: tăng chi phí, giảm tiền#59; ghi trước khi trả: tăng chi phí, tăng phải trả người bán`"]
+  n19 --- n20
+  n21["`Các cách khác để chương sau: trả trước Chương 8, khấu hao Chương 9, chi phí phải trả Chương 10`"]
+  n19 --- n21
+  n22["`Nợ phát sinh khi đã nhận nghĩa vụ trả tiền sau VÀ đã nhận lợi ích kinh tế của chi phí`"]
+  n19 --- n22
+  n23["`Ngay khi nợ phát sinh phải ghi chi phí, không đợi đến lúc trả tiền`"]
+  n22 --- n23
+  n24["`Dồn tích chi phí: ghi vào sổ trước khi trả để trừ vào doanh thu đúng kỳ, đo lợi nhuận đúng`"]
+  n19 --- n24
+  n25["`Ví dụ: hoá đơn luật sư nhận 15/12 cho việc 2–3 tháng trước, năm kết thúc 31/12, trả năm sau`"]
+  n19 --- n25
+  n26["`Chi phí pháp lý thuộc năm nay: ghi chi phí năm nay và tăng phải trả người bán`"]
+  n25 --- n26
+  n27["`Ví dụ khác: hoá đơn quảng cáo đã đăng báo, hoá đơn điện thoại#59; thời hạn nợ thường từ một tháng trở xuống`"]
+  n19 --- n27
+  n28["`Bút toán: Nợ chi phí SG#amp;A / Có phải trả người bán#59; khi trả: Nợ phải trả người bán / Có tiền`"]
+  n19 --- n28
+  n29["`Mục 2 — Ước lượng số dư và tác động tới lợi nhuận, tiền`"]
+  n0 --- n29
+  n30["`Số dư = thời hạn thanh toán bình quân tính theo tuần / 52 × chi phí hoạt động năm`"]
+  n29 --- n30
+  n31["`12.480.000 ÷ 52 = 240.000 USD mỗi tuần#59; trả sau 3 tuần nên luôn còn 3 × 240.000 = 720.000 USD`"]
+  n29 --- n31
+  n32["`Giả định chi phí phát sinh đều trong năm và thời hạn 3 tuần ổn định, biết từ kinh nghiệm`"]
+  n29 --- n32
+  n33["`Hai lý do ghi: bảng cân đối thể hiện nghĩa vụ trả, báo cáo kết quả kinh doanh trừ đủ chi phí kỳ này`"]
+  n29 --- n33
+  n34["`Ghi chi phí chưa trả không làm giảm tiền#59; tiền chỉ ra khi thanh toán hoá đơn`"]
+  n29 --- n34
+  n35["`Lợi nhuận ròng 2.642 đã trừ cả 720 chưa trả nên lợi nhuận khác tiền thu trừ tiền chi`"]
+  n34 --- n35
+  n36["`Chương 13: phải trả người bán tăng 645 (2.675 lên 3.320) được cộng ngược vào lợi nhuận ròng`"]
+  n34 --- n36
+  n37["`Phần chi phí chưa trả là nguồn vốn ngắn hạn không mất lãi: giữ tiền thêm ba tuần`"]
+  n29 --- n37
+  n38["`Mục 3 — Các vấn đề kế toán: đo dễ, công bố gây tranh cãi`"]
+  n0 --- n38
+  n39["`Phải trả cho chi phí chưa trả hầu như không có vấn đề kế toán: hoá đơn ghi rõ số nợ`"]
+  n38 --- n39
+  n40["`Chiết khấu thanh toán sớm, ví dụ trừ 2% nếu trả trong 10 ngày: chọn một cách xử lý, áp dụng nhất quán`"]
+  n38 --- n40
+  n41["`Vấn đề tranh cãi nhất: công ty có thể chỉ công bố một con số tổng SG#amp;A 12.480`"]
+  n38 --- n41
+  n42["`Năm 2009 chuẩn mực không đòi hỏi nhiều về công bố chi phí#59; công ty có thể kín miệng`"]
+  n38 --- n42
+  n43["`FASB 2024 và IFRS 18 (hiệu lực 2027) đòi thuyết minh tách các chi phí lớn`"]
+  n42 --- n43
+  n44["`US GAAP đã yêu cầu thuyết minh tổng chi phí quảng cáo, đọc thuyết minh vẫn thấy`"]
+  n42 --- n44
+  n45["`Đánh giá — Giới hạn của ví dụ và vận dụng`"]
+  n0 --- n45
+  n46["`Tách phải trả người bán thành 2.600 và 720 cho thấy số dư nợ = quy mô hoạt động × chính sách thanh toán`"]
+  n45 --- n46
+  n47["`3/52 × tổng SG#amp;A là ước lượng: nợ khó đòi, hao hụt không có hoá đơn#59; lương thường vào chi phí phải trả`"]
+  n45 --- n47
+  n48["`Cùng cơ sở 12.480 dùng cho chi phí trả trước Chương 8: 4/52 × 12.480 = 960`"]
+  n45 --- n48
+  n49["`Có hoá đơn thì vào phải trả người bán#59; dịch vụ đã nhận mà chưa có hoá đơn thì vào chi phí phải trả`"]
+  n45 --- n49
+  n50["`Cảnh báo: trì hoãn trả hoá đơn có thể làm đẹp dòng tiền cuối kỳ#59; khi thời hạn trở lại bình thường dòng tiền giảm`"]
+  n45 --- n50
+  n51["`Người cho vay: phải trả người bán tăng nhanh hơn chi phí là dấu hiệu chậm trả, có thể vì thiếu tiền`"]
+  n45 --- n51
+  n52["`Nhà quản lý: kéo dài mỗi tuần giữ lại khoảng 240 nghìn USD nhưng có thể mất chiết khấu 2%/10 ngày`"]
+  n45 --- n52
+  n53["`Nhà đầu tư: đọc thuyết minh tìm chi tiết SG#amp;A và theo dõi tỷ lệ SG#amp;A/doanh thu qua các năm`"]
+  n45 --- n53
+  n54["`Thông điệp xuyên suốt`"]
+  n0 --- n54
+  n55["`Chi phí được ghi theo kỳ nhận lợi ích, không theo kỳ trả tiền#59; khoảng lệch nằm trên bảng cân đối`"]
+  n54 --- n55
+  n56["`Phải trả người bán chứa cả nợ mua hàng lẫn nợ chi phí hoạt động chưa trả`"]
+  n54 --- n56
+  class n0 root
+  class n1,n8,n19,n29,n38,n45,n54 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n15,n16,n17,n18,n20,n21,n22,n23,n24,n25,n26,n27,n28,n30,n31,n32,n33,n34,n35,n36,n37,n39,n40,n41,n42,n43,n44,n46,n47,n48,n49,n50,n51,n52,n53,n55,n56 leaf
+```
+
+## Nguồn
+
+John A. Tracy, *How to Read a Financial Report: Wringing Vital Signs Out of the Numbers*, ấn bản thứ bảy (John Wiley & Sons, 2009), Phần Một "Components and Connections in Financial Statements", Chương 7 "Operating Expenses and Accounts Payable", trang in 45–49 (bảng Exhibit 7.1 của chương được in ở trang 44, ngay trước trang tên chương).
+
+## Tác giả
+
+John A. Tracy, giáo sư kế toán danh dự Đại học Colorado ở Boulder, kế toán viên công chứng (CPA).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Từ Chương 4, Tracy đi lần lượt qua từng "mối nối" (connection) giữa một khoản mục của báo cáo kết quả kinh doanh (income statement) và một khoản mục của bảng cân đối kế toán (balance sheet) của cùng một doanh nghiệp ví dụ (doanh thu 52 triệu USD/năm).
+
+Chương 4 nối doanh thu với phải thu khách hàng; Chương 5 nối giá vốn hàng bán với hàng tồn kho; [Chương 6](C06-hang-ton-kho-va-phai-tra-nguoi-ban.md) nối hàng tồn kho với phần thứ nhất của phải trả người bán (accounts payable) — 2.600 nghìn USD tiền mua hàng, nguyên vật liệu sản xuất mua chịu, bằng 4/13 số dư hàng tồn kho 8.450 nghìn USD. Chương 7 giải thích phần thứ hai của phải trả người bán: 720 nghìn USD hoá đơn chi phí bán hàng, chi phí chung và quản lý (SG&A) chưa thanh toán vào cuối năm. Hai phần cộng lại thành số dư phải trả người bán 3.320 nghìn USD trên bảng cân đối kế toán.
+
+Chương này mở đầu chuỗi ba chương về các cách ghi nhận chi phí hoạt động không trùng thời điểm trả tiền: [Chương 8](C08-chi-phi-hoat-dong-va-chi-phi-tra-truoc.md) bàn chi phí đã trả tiền trước khi ghi chi phí (chi phí trả trước 960 nghìn USD, bằng 4/52 của cùng tổng SG&A 12.480 nghìn USD), và [Chương 10](C10-ghi-nhan-chi-phi-phai-tra.md) bàn chi phí phải trả (accrued expenses payable) — loại nghĩa vụ chưa có hoá đơn. Ý "ghi chi phí chưa làm giảm tiền" được dùng lại ở [Chương 13](C13-dong-tien-tu-hoat-dong-kinh-doanh.md), nơi mức tăng phải trả người bán trong năm (645 nghìn USD) được cộng ngược vào lợi nhuận ròng để tính dòng tiền từ hoạt động kinh doanh.
+
+## Lưu ý
+
+- **Vị trí bảng Exhibit 7.1.** Văn bản chương bảo người đọc xem "Exhibit 7.1 ở đầu chương", nhưng trong bản PDF bảng này nằm ở trang in 44 (PDF trang 56), tức là trang chẵn đứng ngay *trước* trang tên chương 7 (trang in 45). Văn bản trích theo chương đã xếp nhầm bảng này vào cuối Chương 6. Bản tổng hợp này chép lại đầy đủ Exhibit 7.1. Ngược lại, trang in 50 (PDF trang 62), nằm trong khoảng trang của Chương 7, thực ra chứa Exhibit 8.1 của Chương 8 (chi phí trả trước 4/52 × 12.480 = 960); nội dung đó thuộc Chương 8 nên ở đây chỉ nhắc khi cần so sánh.
+- **Kiểm tra số học.** Mọi phép tính trong chương đều khớp: 12.480 ÷ 52 = 240 nghìn USD chi phí mỗi tuần, × 3 = 720; 2.600 + 720 = 3.320 (số dư phải trả người bán); báo cáo kết quả kinh doanh 52.000 − 33.800 − 12.480 − 785 − 545 − 1.748 = 2.642; tổng tài sản 3.265 + 5.000 + 8.450 + 960 + 16.500 − 4.250 + 5.575 = 35.500; tổng nợ phải trả và vốn chủ sở hữu 3.320 + 1.515 + 165 + 3.125 + 4.250 + 8.125 + 15.000 = 35.500. Không phát hiện lỗi số.
+- **Một cơ sở tính dùng cho ba số dư khác nhau (sách đơn giản hoá).** Tracy lấy *toàn bộ* 12.480 nghìn USD SG&A làm cơ sở tính phải trả người bán (3 tuần → 720). Chương 8 lại lấy đúng con số 12.480 đó làm cơ sở tính chi phí trả trước (4 tuần → 960), và chương sau về chi phí phải trả cũng dựa vào chi phí hoạt động.
+
+  Trong thực tế, mỗi loại số dư chỉ liên quan tới một nhóm chi phí nhất định. Chính danh sách chi phí của Tracy có những khoản không bao giờ đi qua phải trả người bán: nợ khó đòi (bad debts) và hao hụt hàng tồn kho (inventory shrinkage) là chi phí không phát sinh hoá đơn hay dòng tiền; tiền lương thường được ghi vào chi phí phải trả chứ không phải phải trả người bán. Phép nhân "3/52 × tổng SG&A" nên hiểu là cách ước lượng quy mô, không phải cách doanh nghiệp thật lập sổ.
+- **Ví dụ phí luật sư ghi vào phải trả người bán.** Tracy cho hoá đơn của luật sư nhận ngày 15/12 vào phải trả người bán. Đúng vì đã có hoá đơn; nếu đến cuối năm luật sư chưa gửi hoá đơn mà công việc đã làm xong, khoản này sẽ được ghi vào chi phí phải trả (chủ đề Chương 10). Ranh giới "có hoá đơn hay chưa" là cách phân biệt thường dùng, sách không nói rõ ở chương này.
+- **Bảng chỉ có một cột năm nay.** Exhibit 7.1 chỉ trình bày bảng cân đối kế toán cuối năm nay, không có cột năm trước, và không tách số dư phải trả người bán đầu năm (2.675 nghìn USD) thành hai phần như cuối năm. Vì vậy chương không cho biết riêng phần phải trả cho chi phí hoạt động đã tăng bao nhiêu trong năm.
+- **Công bố chi phí (điều đã thay đổi, theo hiểu biết của người tổng hợp, không tra cứu).** Tracy viết năm 2009 rằng chuẩn mực không đòi hỏi nhiều về công bố chi phí trong báo cáo kết quả kinh doanh.
+
+  Sau này, theo hiểu biết của người tổng hợp: Hội đồng Chuẩn mực Kế toán Tài chính Mỹ (FASB) đã ban hành năm 2024 chuẩn mực yêu cầu công ty niêm yết thuyết minh tách các dòng chi phí lớn (mua hàng tồn kho, lương nhân viên, khấu hao, phân bổ dần...), áp dụng từ khoảng năm 2027; Hội đồng Chuẩn mực Kế toán Quốc tế (IASB) ban hành IFRS 18 (2024, hiệu lực 2027) thay IAS 1, yêu cầu doanh nghiệp trình bày chi phí theo chức năng phải thuyết minh thêm một số chi phí theo bản chất.
+
+  Ngoài ra, ngay từ trước 2009, US GAAP đã yêu cầu thuyết minh tổng chi phí quảng cáo trong thuyết minh báo cáo tài chính, nên câu "bạn không thấy chi phí quảng cáo trong nhiều báo cáo kết quả kinh doanh công bố ra ngoài" đúng với *mặt báo cáo* nhưng người đọc kỹ thuyết minh vẫn có thể tìm thấy con số này.
+- **Chi phí hưu trí theo chế độ phúc lợi xác định (theo hiểu biết của người tổng hợp, không tra cứu).** Tracy chỉ nói đây là chi phí "rất khó đo". Từ chuẩn mực FAS 158 (2006), doanh nghiệp Mỹ phải đưa tình trạng thừa/thiếu quỹ của kế hoạch hưu trí phúc lợi xác định lên bảng cân đối kế toán; độ khó đo lường nằm ở các giả định tỷ lệ chiết khấu, tuổi thọ, lợi suất quỹ.

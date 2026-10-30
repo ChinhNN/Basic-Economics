@@ -1,19 +1,18 @@
 # Chương 13 — Dòng tiền từ hoạt động kinh doanh (tạo lợi nhuận) (Cash Flow from Operating (Profit-Making) Activities)
 
-**Nguồn:** John A. Tracy, *How to Read a Financial Report: Wringing Vital Signs Out of the Numbers*, ấn bản thứ bảy (John Wiley & Sons, 2009), Phần Một "Components and Connections in Financial Statements", Chương 13 "Cash Flow from Operating (Profit-Making) Activities", trang in 84–91 (Exhibit 13.1 in ở trang 84, trước trang tên chương 85).
-**Tác giả:** John A. Tracy, giáo sư kế toán danh dự Đại học Colorado ở Boulder, kế toán viên công chứng (CPA).
-**Vị trí trong lập luận của cả cuốn sách:** Các Chương 4 đến 12 (trừ Chương 6) đi lần lượt từ trên xuống dưới báo cáo kết quả kinh doanh (income statement): mỗi chương nối một khoản doanh thu hay chi phí với tài sản hoặc nợ phải trả tương ứng trên bảng cân đối kế toán (balance sheet), từ doanh thu và phải thu khách hàng ([Chương 4](C04-doanh-thu-va-phai-thu-khach-hang.md)) tới lợi nhuận ròng và lợi nhuận giữ lại ([Chương 12](C12-loi-nhuan-rong-loi-nhuan-giu-lai-va-eps.md)). Chương 13 "đổi số" (Tracy viết "we shift gears"): nó mở đầu hai chương về báo cáo thứ ba, báo cáo lưu chuyển tiền tệ (statement of cash flows), và tập trung vào phần đầu của báo cáo này, dòng tiền từ hoạt động kinh doanh, mà Tracy thích gọi là "dòng tiền từ lợi nhuận". Chương này gom bảy mối nối đã học ở các chương trước (phải thu, tồn kho, chi phí trả trước, khấu hao, phải trả người bán, chi phí phải trả, thuế phải nộp) thành bảy dòng điều chỉnh đi từ lợi nhuận ròng 2.642 nghìn USD tới dòng tiền 3.105 nghìn USD. [Chương 14](C14-dong-tien-tu-hoat-dong-dau-tu-va-tai-chinh.md) sẽ giải thích hai phần còn lại (hoạt động đầu tư và hoạt động tài chính), và [Chương 16](C16-tac-dong-cua-tang-truong-va-suy-giam-len-dong-tien.md) dùng lại cơ chế điều chỉnh của chương này để cho thấy tăng trưởng và suy giảm tác động lên dòng tiền ra sao.
-**Ý chính:** Tracy muốn người đọc hiểu rằng **lợi nhuận và dòng tiền từ lợi nhuận là hai con số khác nhau, và khoảng chênh giữa chúng hoàn toàn được giải thích bằng thay đổi trong năm của các tài sản và nợ phải trả gắn với doanh thu và chi phí (tài sản và nợ phải trả hoạt động)**. Doanh nghiệp ví dụ có lợi nhuận ròng 2.642 nghìn USD nhưng dòng tiền từ hoạt động kinh doanh là 3.105 nghìn USD, nhiều hơn 463 nghìn USD. Ba tài sản hoạt động tăng (phải thu khách hàng tăng 320, hàng tồn kho tăng 935, chi phí trả trước tăng 275) kéo dòng tiền xuống tổng cộng 1.530; khấu hao 785 được cộng lại vì không phải là khoản chi tiền trong năm; ba khoản nợ hoạt động tăng (phải trả người bán tăng 645, chi phí phải trả tăng 480, thuế thu nhập phải nộp tăng 83) đẩy dòng tiền lên tổng cộng 1.208. Quy tắc rút ra: tài sản hoạt động tăng thì dòng tiền từ lợi nhuận giảm, nợ hoạt động tăng thì dòng tiền từ lợi nhuận tăng (và ngược lại). Người quản lý có "nhiệm vụ kép": tạo ra lợi nhuận và chuyển lợi nhuận thành tiền càng sớm càng tốt. Tracy cũng giới thiệu hai cách trình bày phần này (phương pháp gián tiếp mà hầu hết doanh nghiệp dùng, và phương pháp trực tiếp mà FASB ưa thích hơn), cảnh báo rằng EBITDA (5.720 nghìn USD trong ví dụ) không phải là dòng tiền từ hoạt động kinh doanh, nhắc rằng dòng tiền không thay thế được lợi nhuận ("lợi nhuận tạo ra dòng tiền; dòng tiền không tạo ra lợi nhuận"), và phê phán các doanh nghiệp trình bày báo cáo lưu chuyển tiền tệ quá rối rắm mà không giải thích gì.
+## Ý chính
 
-> **Lưu ý:**
-> - **Vị trí của Exhibit 13.1.** Bảng chính của chương (Exhibit 13.1) được in ở trang in 84 (trang PDF 96), tức trước trang tên chương, giống cách sách đặt mỗi Exhibit mở đầu chương ngay trước tên chương; Exhibit ở trang in 92 là Exhibit 14.1 của Chương 14. Hai Exhibit 13.1 và 14.1 có số liệu giống hệt nhau; chỉ khác các mũi tên: ở 13.1 mũi tên nối các thay đổi tài sản và nợ hoạt động với phần dòng tiền từ hoạt động kinh doanh, ở 14.1 mũi tên nối nhà xưởng, tài sản vô hình, các khoản vay, vốn cổ phần và lợi nhuận giữ lại với hai phần sau.
-> - **Lỗi chính tả trong sách.** Cuối điều chỉnh số 1 (phải thu khách hàng), sách in "If short, an increase in accounts receivable hurts cash flow from profit"; chữ đúng là "In short" (tóm lại), như ở các điều chỉnh khác.
-> - **Exhibit 13.2 (phương pháp trực tiếp) không kèm cách tính.** Sách đưa ra các con số 51.680; (34.760); (11.630); (520); (1.665) mà không giải thích. Người tổng hợp đã kiểm tra: tổng của chúng đúng bằng 3.105 nghìn USD, và các con số khớp với ba báo cáo: tiền thu từ khách hàng 51.680 = doanh thu 52.000 − phải thu tăng 320; tiền nộp thuế 1.665 = chi phí thuế 1.748 − thuế phải nộp tăng 83; tiền trả lãi vay 520 = chi phí lãi vay 545 − 25, nghĩa là ngầm có 25 nghìn USD lãi vay phải trả tăng nằm trong khoản chi phí phải trả (điều sách không nói); tiền trả cho hàng hoá và chi phí hoạt động cộng lại 34.760 + 11.630 = 46.390 = giá vốn 33.800 + SG&A 12.480 + tồn kho tăng 935 + chi phí trả trước tăng 275 − phải trả người bán tăng 645 − phần còn lại của chi phí phải trả tăng 455. Việc chia 46.390 thành 34.760 và 11.630 phụ thuộc vào cách chia phải trả người bán và chi phí phải trả giữa mua hàng và chi phí hoạt động ở đầu năm, chương này không cho số đó. Dòng "Operating Expenses" trong Exhibit 13.2 chỉ là tiền chi cho SG&A; khấu hao 785 không xuất hiện vì không phải là khoản chi tiền.
-> - **Tên dòng dễ hiểu nhầm.** Trong Exhibit 13.2 các dòng vẫn mang tên khoản mục của báo cáo kết quả kinh doanh ("Sales Revenue", "Cost of Goods Sold Expense"...), nhưng con số là tiền thu hoặc tiền chi, không phải doanh thu hay chi phí. Ví dụ "Sales Revenue $51,680" là tiền thu từ khách hàng; doanh thu thật là 52.000.
-> - **Cách viết dễ gây khó hiểu ở điều chỉnh số 3.** Sách viết "The $685,000 not paid minus $960,000 paid". "Not paid" ở đây nghĩa là: 685 nghìn USD chi phí trả trước đầu năm đã được trả từ năm trước, nên năm nay không phải trả tiền cho phần chi phí đó; 960 nghìn USD trả trước cuối năm là tiền năm nay chi ra cho chi phí của năm sau.
-> - **Giả định ngầm ở điều chỉnh số 1.** Tracy nói doanh nghiệp đã thu được toàn bộ 4.680 nghìn USD phải thu đầu năm; tức là ngầm giả định không có nợ khó đòi bị xoá sổ trong năm.
-> - **Không có chi phí phân bổ tài sản vô hình.** Doanh nghiệp có tài sản vô hình 5.575 nghìn USD nhưng báo cáo kết quả kinh doanh không có chi phí phân bổ dần (amortization), nên EBITDA trong ví dụ chỉ cộng lại khấu hao 785. Điều này phù hợp nếu tài sản vô hình là loại không có thời hạn sử dụng xác định (như lợi thế thương mại), nhưng chương không giải thích.
-> - **Điều đã thay đổi sau 2009 (theo hiểu biết của người tổng hợp, không tra cứu).** Quy định về báo cáo lưu chuyển tiền tệ của Mỹ (trước là FAS 95) nay nằm trong Bộ chuẩn mực FASB Codification, chủ đề ASC 230; FASB vẫn khuyến khích phương pháp trực tiếp, cho phép phương pháp gián tiếp, và nếu dùng phương pháp trực tiếp thì vẫn phải trình bày bảng đối chiếu từ lợi nhuận ròng sang dòng tiền. Thực tế phương pháp gián tiếp vẫn chiếm đa số tuyệt đối. Bên IFRS, chuẩn mực IAS 7 cũng khuyến khích phương pháp trực tiếp; chuẩn mực mới IFRS 18 (ban hành 2024, hiệu lực dự kiến 2027) đổi điểm xuất phát của phương pháp gián tiếp sang "lợi nhuận hoạt động" và thu hẹp các lựa chọn phân loại tiền lãi, cổ tức. Ở Mỹ, Ủy ban Chứng khoán và Giao dịch (Securities and Exchange Commission, SEC) có quy định về các chỉ tiêu không theo GAAP (non-GAAP measures) như EBITDA, đòi hỏi đối chiếu với chỉ tiêu GAAP gần nhất; chương không nhắc tới quy định này.
+Tracy muốn người đọc hiểu rằng **lợi nhuận và dòng tiền từ lợi nhuận là hai con số khác nhau, và khoảng chênh giữa chúng hoàn toàn được giải thích bằng thay đổi trong năm của các tài sản và nợ phải trả gắn với doanh thu và chi phí (tài sản và nợ phải trả hoạt động)**.
+
+Doanh nghiệp ví dụ có lợi nhuận ròng 2.642 nghìn USD nhưng dòng tiền từ hoạt động kinh doanh là 3.105 nghìn USD, nhiều hơn 463 nghìn USD.
+
+Ba tài sản hoạt động tăng (phải thu khách hàng tăng 320, hàng tồn kho tăng 935, chi phí trả trước tăng 275) kéo dòng tiền xuống tổng cộng 1.530. Khấu hao 785 được cộng lại vì không phải là khoản chi tiền trong năm. Ba khoản nợ hoạt động tăng (phải trả người bán tăng 645, chi phí phải trả tăng 480, thuế thu nhập phải nộp tăng 83) đẩy dòng tiền lên tổng cộng 1.208.
+
+Quy tắc rút ra: tài sản hoạt động tăng thì dòng tiền từ lợi nhuận giảm, nợ hoạt động tăng thì dòng tiền từ lợi nhuận tăng (và ngược lại).
+
+Người quản lý có "nhiệm vụ kép": tạo ra lợi nhuận và chuyển lợi nhuận thành tiền càng sớm càng tốt.
+
+Tracy cũng giới thiệu hai cách trình bày phần này (phương pháp gián tiếp mà hầu hết doanh nghiệp dùng, và phương pháp trực tiếp mà FASB ưa thích hơn), cảnh báo rằng EBITDA (5.720 nghìn USD trong ví dụ) không phải là dòng tiền từ hoạt động kinh doanh, nhắc rằng dòng tiền không thay thế được lợi nhuận ("lợi nhuận tạo ra dòng tiền; dòng tiền không tạo ra lợi nhuận"), và phê phán các doanh nghiệp trình bày báo cáo lưu chuyển tiền tệ quá rối rắm mà không giải thích gì.
 
 ## Sơ đồ
 
@@ -318,9 +317,13 @@ Người quản lý doanh nghiệp có nhiệm vụ kép: trước hết là t�
 
 **Điều chỉnh 2 — Hàng tồn kho (giảm dòng tiền 935).** Tracy lưu ý hàng tồn kho tăng khá mạnh trong năm. Đó có thể là quyết định kinh doanh khôn ngoan hoặc không: có thể doanh nghiệp cần tồn kho lớn hơn để đáp ứng nhu cầu bán hàng cao hơn, cũng có thể không. Dù sao, khoản tăng 935.000 USD có tác động âm lên dòng tiền. Cách giải thích nhanh nhất: hàng tồn kho là khoản đầu tư vào sản phẩm đang sản xuất và thành phẩm đang giữ để bán; tăng khoản đầu tư nghĩa là bỏ thêm tiền vào khoản đầu tư đó. Tóm lại, hàng tồn kho tăng làm hại dòng tiền từ hoạt động kinh doanh.
 
-**Điều chỉnh 3 — Chi phí trả trước (giảm dòng tiền 275).** Trong năm doanh nghiệp đã trả 960.000 USD cho một số chi phí hoạt động sẽ mang lại lợi ích cho năm sau, nên chưa được tính vào chi phí năm nay; đó là số dư cuối năm của chi phí trả trước. Khoản 960.000 USD này được trả thêm, ngoài các chi phí hoạt động của năm. Nhưng đầu năm doanh nghiệp đã có 685.000 USD chi phí trả trước; các khoản này đã trả tiền từ năm trước và được tính vào chi phí hoạt động của năm vừa qua (năm nay không phải trả tiền cho chúng nữa). Tính cả số dư đầu năm và cuối năm, dòng tiền chỉ bị hút đi 275.000 USD: 685.000 USD không phải trả năm nay, trừ đi 960.000 USD đã trả trước, cho tác động âm 275.000 USD.
+**Điều chỉnh 3 — Chi phí trả trước (giảm dòng tiền 275).** Trong năm doanh nghiệp đã trả 960.000 USD cho một số chi phí hoạt động sẽ mang lại lợi ích cho năm sau, nên chưa được tính vào chi phí năm nay; đó là số dư cuối năm của chi phí trả trước. Khoản 960.000 USD này được trả thêm, ngoài các chi phí hoạt động của năm. Nhưng đầu năm doanh nghiệp đã có 685.000 USD chi phí trả trước; các khoản này đã trả tiền từ năm trước và được tính vào chi phí hoạt động của năm vừa qua (năm nay không phải trả tiền cho chúng nữa).
 
-**Điều chỉnh 4 — Khấu hao (cộng lại 785).** Trong năm doanh nghiệp ghi nhận 785.000 USD chi phí khấu hao, không phải bằng cách viết séc mà bằng cách ghi giảm nguyên giá nhà xưởng, máy móc, thiết bị. Việc ghi giảm này được ghi bằng cách tăng tài khoản khấu hao luỹ kế, là tài khoản điều chỉnh giảm (contra account) được trừ khỏi tài khoản nhà xưởng, máy móc, thiết bị. Các tài sản dài hạn dùng cho hoạt động này được ghi giảm dần mỗi năm để phản ánh hao mòn trong mỗi năm sử dụng. Doanh nghiệp đã trả tiền khi mua các nguồn lực dài hạn này và không phải trả lần thứ hai khi sử dụng chúng. Tóm lại, chi phí khấu hao không phải là khoản chi tiền trong năm ghi nhận, nên là một điều chỉnh dương, thường gọi là "cộng lại" (add back), khi xác định dòng tiền từ lợi nhuận.
+Tính cả số dư đầu năm và cuối năm, dòng tiền chỉ bị hút đi 275.000 USD: 685.000 USD không phải trả năm nay, trừ đi 960.000 USD đã trả trước, cho tác động âm 275.000 USD.
+
+**Điều chỉnh 4 — Khấu hao (cộng lại 785).** Trong năm doanh nghiệp ghi nhận 785.000 USD chi phí khấu hao, không phải bằng cách viết séc mà bằng cách ghi giảm nguyên giá nhà xưởng, máy móc, thiết bị. Việc ghi giảm này được ghi bằng cách tăng tài khoản khấu hao luỹ kế, là tài khoản điều chỉnh giảm (contra account) được trừ khỏi tài khoản nhà xưởng, máy móc, thiết bị. Các tài sản dài hạn dùng cho hoạt động này được ghi giảm dần mỗi năm để phản ánh hao mòn trong mỗi năm sử dụng.
+
+Doanh nghiệp đã trả tiền khi mua các nguồn lực dài hạn này và không phải trả lần thứ hai khi sử dụng chúng. Tóm lại, chi phí khấu hao không phải là khoản chi tiền trong năm ghi nhận, nên là một điều chỉnh dương, thường gọi là "cộng lại" (add back), khi xác định dòng tiền từ lợi nhuận.
 
 Tracy đưa thêm một cách giải thích khác cho việc cộng lại khấu hao. Giả sử, để lập luận, toàn bộ doanh thu đã thu bằng tiền trong năm. Một phần tiền thu từ khách hàng là để trả cho việc doanh nghiệp sử dụng tài sản dài hạn trong năm. Theo một nghĩa nào đó, mỗi năm doanh nghiệp "bán" một phần tài sản cố định cho khách hàng: khi định giá bán, doanh nghiệp tính khấu hao như một chi phí kinh doanh. Vì vậy mỗi năm doanh nghiệp thu hồi một phần vốn đã đầu tư vào tài sản cố định qua tiền bán hàng. Trong ví dụ, doanh nghiệp đã thu hồi 785.000 USD vốn đầu tư vào nhà xưởng, máy móc, thiết bị, một nguồn tiền đáng kể.
 
@@ -517,16 +520,189 @@ Tracy nói doanh nghiệp "thu hồi" 785 nghìn USD vốn đầu tư vào tài 
 
 ### Phương pháp trực tiếp được giới thiệu quá gọn, không kèm cách tính
 
-Exhibit 13.2 chỉ có năm dòng số, không giải thích vì sao tiền trả cho hàng hoá là 34.760 hay tiền trả lãi vay là 520. Người tổng hợp đối chiếu được hầu hết: 51.680 = 52.000 − 320; 1.665 = 1.748 − 83; 520 = 545 − 25; tổng tiền trả cho hàng hoá và SG&A 46.390 khớp với giá vốn và SG&A sau khi điều chỉnh tồn kho, chi phí trả trước, phải trả người bán và chi phí phải trả. Nhưng con số 25 nghìn USD lãi vay phải trả và cách chia giữa giá vốn và SG&A thì người đọc không thể tự suy ra từ chương. Cũng cần nhớ: theo hiểu biết của người tổng hợp, chuẩn mực Mỹ yêu cầu doanh nghiệp dùng phương pháp trực tiếp vẫn phải trình bày bảng đối chiếu từ lợi nhuận ròng, nên dùng phương pháp trực tiếp tốn công gấp đôi, và đó là một lý do khiến phương pháp gián tiếp thắng thế trên thực tế.
+Exhibit 13.2 chỉ có năm dòng số, không giải thích vì sao tiền trả cho hàng hoá là 34.760 hay tiền trả lãi vay là 520. Người tổng hợp đối chiếu được hầu hết: 51.680 = 52.000 − 320; 1.665 = 1.748 − 83; 520 = 545 − 25; tổng tiền trả cho hàng hoá và SG&A 46.390 khớp với giá vốn và SG&A sau khi điều chỉnh tồn kho, chi phí trả trước, phải trả người bán và chi phí phải trả. Nhưng con số 25 nghìn USD lãi vay phải trả và cách chia giữa giá vốn và SG&A thì người đọc không thể tự suy ra từ chương.
+
+Cũng cần nhớ: theo hiểu biết của người tổng hợp, chuẩn mực Mỹ yêu cầu doanh nghiệp dùng phương pháp trực tiếp vẫn phải trình bày bảng đối chiếu từ lợi nhuận ròng, nên dùng phương pháp trực tiếp tốn công gấp đôi, và đó là một lý do khiến phương pháp gián tiếp thắng thế trên thực tế.
 
 ### Những gì Tracy viết về chuẩn mực năm 2009 phần lớn vẫn đúng, với vài thay đổi cần biết
 
-Theo hiểu biết của người tổng hợp, không tra cứu: quy định về báo cáo lưu chuyển tiền tệ của Mỹ nay nằm trong FASB Accounting Standards Codification (ASC 230), có hiệu lực từ 2009; FASB vẫn khuyến khích phương pháp trực tiếp và doanh nghiệp vẫn chủ yếu dùng phương pháp gián tiếp. Bên IFRS, IAS 7 cũng khuyến khích phương pháp trực tiếp, và IFRS 18 (ban hành 2024) thay đổi điểm xuất phát của phương pháp gián tiếp sang lợi nhuận hoạt động. Một khác biệt Tracy không nêu: US GAAP xếp tiền trả lãi vay vào hoạt động kinh doanh (như ví dụ của ông), còn IAS 7 cho phép nhiều lựa chọn phân loại tiền lãi và cổ tức. Từ 2018 thuế suất thu nhập doanh nghiệp liên bang Mỹ giảm còn 21%, nên với cùng lợi nhuận trước thuế, khoản thuế và do đó dòng tiền của một doanh nghiệp như trong ví dụ sẽ khác; cơ chế điều chỉnh thì không đổi.
+Theo hiểu biết của người tổng hợp, không tra cứu: quy định về báo cáo lưu chuyển tiền tệ của Mỹ nay nằm trong FASB Accounting Standards Codification (ASC 230), có hiệu lực từ 2009; FASB vẫn khuyến khích phương pháp trực tiếp và doanh nghiệp vẫn chủ yếu dùng phương pháp gián tiếp. Bên IFRS, IAS 7 cũng khuyến khích phương pháp trực tiếp, và IFRS 18 (ban hành 2024) thay đổi điểm xuất phát của phương pháp gián tiếp sang lợi nhuận hoạt động.
+
+Một khác biệt Tracy không nêu: US GAAP xếp tiền trả lãi vay vào hoạt động kinh doanh (như ví dụ của ông), còn IAS 7 cho phép nhiều lựa chọn phân loại tiền lãi và cổ tức. Từ 2018 thuế suất thu nhập doanh nghiệp liên bang Mỹ giảm còn 21%, nên với cùng lợi nhuận trước thuế, khoản thuế và do đó dòng tiền của một doanh nghiệp như trong ví dụ sẽ khác; cơ chế điều chỉnh thì không đổi.
 
 ### Phê phán EBITDA của Tracy có cơ sở, nhưng EBITDA vẫn có chỗ dùng hợp lý
 
-Ví dụ cho thấy EBITDA 5.720 nghìn USD gần gấp đôi dòng tiền thật 3.105, một minh hoạ thuyết phục. Theo hiểu biết của người tổng hợp, quan điểm trái chiều là EBITDA được dùng rộng rãi để so sánh khả năng tạo lợi nhuận hoạt động giữa các doanh nghiệp có cấu trúc vốn, thuế và chính sách khấu hao khác nhau, và làm cơ sở cho các điều khoản trong hợp đồng vay và cho định giá theo bội số. Vấn đề không nằm ở bản thân chỉ tiêu mà ở việc gọi nó là "dòng tiền". Điểm Tracy chưa nói là EBITDA còn bỏ qua khoản chi đầu tư thay thế tài sản cố định (trong ví dụ là 3.050 nghìn USD cho nhà xưởng, máy móc, thiết bị), điều mà khái niệm dòng tiền tự do (free cash flow) về sau sẽ xử lý.
+Ví dụ cho thấy EBITDA 5.720 nghìn USD gần gấp đôi dòng tiền thật 3.105, một minh hoạ thuyết phục. Theo hiểu biết của người tổng hợp, quan điểm trái chiều là EBITDA được dùng rộng rãi để so sánh khả năng tạo lợi nhuận hoạt động giữa các doanh nghiệp có cấu trúc vốn, thuế và chính sách khấu hao khác nhau, và làm cơ sở cho các điều khoản trong hợp đồng vay và cho định giá theo bội số. Vấn đề không nằm ở bản thân chỉ tiêu mà ở việc gọi nó là "dòng tiền".
+
+Điểm Tracy chưa nói là EBITDA còn bỏ qua khoản chi đầu tư thay thế tài sản cố định (trong ví dụ là 3.050 nghìn USD cho nhà xưởng, máy móc, thiết bị), điều mà khái niệm dòng tiền tự do (free cash flow) về sau sẽ xử lý.
 
 ### Vận dụng: đọc phần đầu báo cáo lưu chuyển tiền tệ theo từng dòng điều chỉnh
 
-Với người quản lý, chương này gợi ý theo dõi mỗi kỳ ba "ống hút tiền" là phải thu, tồn kho, chi phí trả trước, và hỏi vì sao chúng tăng nhanh hơn doanh thu (như câu hỏi của Tracy về khoản tồn kho tăng 935). Với người cho vay, dòng tiền từ hoạt động kinh doanh là nguồn trả nợ; nếu dòng tiền cao hơn lợi nhuận chủ yếu nhờ nợ người bán tăng thì đó là nguồn không lặp lại mãi được. Với nhà đầu tư, lợi nhuận tăng đều mà dòng tiền từ hoạt động kinh doanh liên tục thấp hơn lợi nhuận là dấu hiệu cần xem kỹ chất lượng lợi nhuận; ngược lại, ban giám đốc chỉ nói về dòng tiền khi lợi nhuận kém là dấu hiệu mà Tracy gọi là "mẹo cũ nhất". Với người đọc Việt Nam, cách làm của Tracy dùng được ngay với báo cáo lưu chuyển tiền tệ theo phương pháp gián tiếp của doanh nghiệp trong nước: đặt bảng cân đối đầu kỳ và cuối kỳ cạnh nhau, tính thay đổi của từng khoản mục vốn lưu động, rồi đối chiếu với từng dòng điều chỉnh; dòng nào không đối chiếu được là chỗ cần đọc thuyết minh báo cáo tài chính.
+Với người quản lý, chương này gợi ý theo dõi mỗi kỳ ba "ống hút tiền" là phải thu, tồn kho, chi phí trả trước, và hỏi vì sao chúng tăng nhanh hơn doanh thu (như câu hỏi của Tracy về khoản tồn kho tăng 935). Với người cho vay, dòng tiền từ hoạt động kinh doanh là nguồn trả nợ; nếu dòng tiền cao hơn lợi nhuận chủ yếu nhờ nợ người bán tăng thì đó là nguồn không lặp lại mãi được.
+
+Với nhà đầu tư, lợi nhuận tăng đều mà dòng tiền từ hoạt động kinh doanh liên tục thấp hơn lợi nhuận là dấu hiệu cần xem kỹ chất lượng lợi nhuận; ngược lại, ban giám đốc chỉ nói về dòng tiền khi lợi nhuận kém là dấu hiệu mà Tracy gọi là "mẹo cũ nhất".
+
+Với người đọc Việt Nam, cách làm của Tracy dùng được ngay với báo cáo lưu chuyển tiền tệ theo phương pháp gián tiếp của doanh nghiệp trong nước: đặt bảng cân đối đầu kỳ và cuối kỳ cạnh nhau, tính thay đổi của từng khoản mục vốn lưu động, rồi đối chiếu với từng dòng điều chỉnh; dòng nào không đối chiếu được là chỗ cần đọc thuyết minh báo cáo tài chính.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 13 trên một trang: năm nhánh lớn đi theo các mục 1–5 trong phần Nội dung chi tiết (bảng mở đầu và câu hỏi vì sao lợi nhuận không bằng dòng tiền, bảy điều chỉnh từ lợi nhuận ròng tới dòng tiền, phương pháp gián tiếp và trực tiếp, EBITDA, các vấn đề kế toán), mỗi nhánh ghi định nghĩa, mối nối giữa các khoản mục, công thức và con số then chốt của doanh nghiệp ví dụ; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 13: lợi nhuận ròng 2.642 nhưng dòng tiền từ hoạt động kinh doanh 3.105, khoảng chênh do thay đổi tài sản và nợ hoạt động`"]
+  n1["`Mục 1–2 — Bảng mở đầu và câu hỏi vì sao lợi nhuận không bằng dòng tiền`"]
+  n0 --- n1
+  n2["`Báo cáo lưu chuyển tiền tệ có ba phần: kinh doanh 3.105, đầu tư (3.625), tài chính 50`"]
+  n1 --- n2
+  n3["`Tiền giảm 470 trong năm, từ 3.735 xuống 3.265 nghìn USD`"]
+  n2 --- n3
+  n4["`Đầu tư: nhà xưởng, máy móc, thiết bị (3.050) và tài sản vô hình (575), Chương 14 giải thích`"]
+  n2 --- n4
+  n5["`Thay đổi của bảy khoản mục trên bảng cân đối hai thời điểm thành bảy dòng điều chỉnh của phần 1`"]
+  n1 --- n5
+  n6["`Báo cáo kết quả kinh doanh: doanh thu 52.000, EBIT 4.935, lãi vay 545, thuế 1.748, lợi nhuận ròng 2.642`"]
+  n1 --- n6
+  n7["`Tracy gọi dòng này là dòng tiền từ lợi nhuận, vì #quot;operating activities#quot; là biệt ngữ kế toán`"]
+  n1 --- n7
+  n8["`Hoạt động kinh doanh là doanh thu và chi phí, tức các hoạt động tạo lợi nhuận`"]
+  n1 --- n8
+  n9["`Nhiệm vụ kép của người quản lý: tạo ra lợi nhuận, rồi chuyển lợi nhuận thành tiền càng sớm càng tốt`"]
+  n1 --- n9
+  n10["`Chờ quá lâu làm giảm giá trị của lợi nhuận, do giá trị thời gian của tiền`"]
+  n9 --- n10
+  n11["`Chủ nợ và nhà đầu tư theo dõi dòng tiền từ lợi nhuận và khả năng ban giám đốc kiểm soát nó`"]
+  n1 --- n11
+  n12["`Mục 3 — Bảy điều chỉnh từ lợi nhuận ròng 2.642 tới dòng tiền 3.105`"]
+  n0 --- n12
+  n13["`Tài sản và nợ hoạt động: tài sản, nợ gắn trực tiếp với doanh thu và chi phí`"]
+  n12 --- n13
+  n14["`Ba tài sản hoạt động tăng kéo dòng tiền xuống tổng cộng 1.530`"]
+  n12 --- n14
+  n15["`Phải thu 4.680 lên 5.000: thu được 4.680 đầu năm nhưng 5.000 cuối năm chưa thu, dòng tiền −320`"]
+  n14 --- n15
+  n16["`Tồn kho tăng 935 là bỏ thêm tiền vào khoản đầu tư sản phẩm, Tracy hỏi tăng mạnh vậy có khôn ngoan không`"]
+  n14 --- n16
+  n17["`Chi phí trả trước 685 lên 960: trả 960 cho chi phí năm sau, 685 đã trả từ năm trước, dòng tiền −275`"]
+  n14 --- n17
+  n18["`Khấu hao 785 được cộng lại: ghi bằng tăng khấu hao luỹ kế, không phải bằng viết séc`"]
+  n12 --- n18
+  n19["`Tiền đã trả khi mua tài sản cố định, dùng tài sản thì không trả lần hai`"]
+  n18 --- n19
+  n20["`Giá bán đã tính khấu hao, nên qua tiền bán hàng doanh nghiệp thu hồi 785 vốn đầu tư`"]
+  n18 --- n20
+  n21["`Đánh giá: tiền đến từ khách hàng, bán lỗ thì ghi thêm khấu hao không đem về đồng nào`"]
+  n18 --- n21
+  n22["`Ba khoản nợ hoạt động tăng đẩy dòng tiền lên tổng cộng 1.208`"]
+  n12 --- n22
+  n23["`Phải trả người bán 2.675 lên 3.320: chưa trả 3.320, đã trả 2.675, dòng tiền +645`"]
+  n22 --- n23
+  n24["`Chi phí phải trả 1.035 lên 1.515: chưa trả 1.515, đã trả 1.035, dòng tiền +480`"]
+  n22 --- n24
+  n25["`Thuế thu nhập phải nộp 82 lên 165: nộp ít hơn chi phí thuế của năm 83`"]
+  n22 --- n25
+  n26["`Quy tắc: tài sản hoạt động tăng thì dòng tiền từ lợi nhuận giảm, tài sản hoạt động giảm thì tăng`"]
+  n12 --- n26
+  n27["`Quy tắc: nợ hoạt động tăng thì dòng tiền từ lợi nhuận tăng, nợ hoạt động giảm thì giảm`"]
+  n12 --- n27
+  n28["`Tính ra: 2.642 − 1.530 + 785 + 1.208 = 3.105, cao hơn lợi nhuận 463`"]
+  n12 --- n28
+  n29["`Mục 3 (tiếp) — Phương pháp gián tiếp và phương pháp trực tiếp cho cùng 3.105`"]
+  n0 --- n29
+  n30["`Gián tiếp: bắt đầu từ lợi nhuận ròng, cộng trừ thay đổi của tài sản và nợ hoạt động`"]
+  n29 --- n30
+  n31["`Trực tiếp: tiền thu 51.680 − hàng bán 34.760 − chi phí hoạt động 11.630 − lãi vay 520 − thuế 1.665`"]
+  n29 --- n31
+  n32["`Phương pháp trực tiếp kèm bảng phụ tóm tắt thay đổi của tài sản và nợ hoạt động`"]
+  n29 --- n32
+  n33["`FASB ưa thích phương pháp trực tiếp nhưng cho phép gián tiếp, phần lớn doanh nghiệp chọn gián tiếp`"]
+  n29 --- n33
+  n34["`Đối chiếu: tiền thu 51.680 = doanh thu 52.000 − phải thu tăng 320, tiền thuế 1.665 = 1.748 − 83`"]
+  n29 --- n34
+  n35["`Tiền lãi vay 520 = 545 − 25, ngầm có 25 lãi vay phải trả tăng nằm trong chi phí phải trả`"]
+  n34 --- n35
+  n36["`Dòng #quot;Sales Revenue#quot; trong bảng trực tiếp là tiền thu từ khách hàng, không phải doanh thu`"]
+  n29 --- n36
+  n37["`Mục 4 — Một cách nhìn khác: EBITDA không phải là dòng tiền`"]
+  n0 --- n37
+  n38["`Báo chí hay nói #quot;dòng tiền#quot; mà không định nghĩa, thường không phải dòng tiền từ hoạt động kinh doanh`"]
+  n37 --- n38
+  n39["`EBITDA = lợi nhuận ròng 2.642 + lãi vay 545 + thuế 1.748 + khấu hao 785 = 5.720`"]
+  n37 --- n39
+  n40["`EBITDA bỏ qua tiền trả lãi vay, tiền nộp thuế và thay đổi của phải thu, tồn kho, phải trả`"]
+  n37 --- n40
+  n41["`Lợi nhuận ròng cộng khấu hao chỉ chấp nhận được khi các thay đổi đó nhỏ, thường thì chúng lớn`"]
+  n37 --- n41
+  n42["`EBITDA 5.720 cao hơn dòng tiền thật 3.105 là 2.615, gần gấp đôi`"]
+  n37 --- n42
+  n43["`Đánh giá: EBITDA còn bỏ qua chi đầu tư thay thế tài sản cố định, 3.050 trong ví dụ`"]
+  n37 --- n43
+  n44["`Cảnh báo cuối: CEO lái sự chú ý sang dòng tiền khi lợi nhuận kém là mẹo cũ nhất`"]
+  n37 --- n44
+  n45["`Mục 5 — Các vấn đề kế toán: báo cáo lưu chuyển tiền tệ khó đọc`"]
+  n0 --- n45
+  n46["`Người đọc tưởng có lãi bao nhiêu thì tiền tăng bấy nhiêu, điều này sai`"]
+  n45 --- n46
+  n47["`Kế toán viên nên giải thích: lợi nhuận đo theo kế toán dồn tích, tiền thu chi theo lịch khác`"]
+  n45 --- n47
+  n48["`Báo cáo của công ty đại chúng dài 30, 40 dòng hoặc hơn, gần như không đối chiếu được với bảng cân đối`"]
+  n45 --- n48
+  n49["`Tracy đề xuất báo cáo dễ đọc hơn, kèm tóm tắt và bình luận của ban giám đốc về dòng tiền`"]
+  n45 --- n49
+  n50["`Tracy nghi một số công ty sống sát mép, chỉ cách số dư tiền bằng không một ngày hay một tuần`"]
+  n45 --- n50
+  n51["`Thông điệp xuyên suốt`"]
+  n0 --- n51
+  n52["`Lợi nhuận tạo ra dòng tiền, dòng tiền không tạo ra lợi nhuận`"]
+  n51 --- n52
+  n53["`Lợi nhuận và dòng tiền là hai con số khác nhau, mỗi con số đều quan trọng`"]
+  n51 --- n53
+  n54["`Dòng tiền cao hơn lợi nhuận chủ yếu nhờ nợ người bán tăng là nguồn không lặp lại mãi được`"]
+  n51 --- n54
+  n55["`Lợi nhuận tăng đều mà dòng tiền liên tục thấp hơn là dấu hiệu cần xem kỹ chất lượng lợi nhuận`"]
+  n51 --- n55
+  n56["`Đặt bảng cân đối đầu kỳ, cuối kỳ cạnh nhau, đối chiếu từng dòng điều chỉnh, dòng lệch thì đọc thuyết minh`"]
+  n51 --- n56
+  class n0 root
+  class n1,n12,n29,n37,n45,n51 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n27,n28,n30,n31,n32,n33,n34,n35,n36,n38,n39,n40,n41,n42,n43,n44,n46,n47,n48,n49,n50,n52,n53,n54,n55,n56 leaf
+```
+
+## Nguồn
+
+John A. Tracy, *How to Read a Financial Report: Wringing Vital Signs Out of the Numbers*, ấn bản thứ bảy (John Wiley & Sons, 2009), Phần Một "Components and Connections in Financial Statements", Chương 13 "Cash Flow from Operating (Profit-Making) Activities", trang in 84–91 (Exhibit 13.1 in ở trang 84, trước trang tên chương 85).
+
+## Tác giả
+
+John A. Tracy, giáo sư kế toán danh dự Đại học Colorado ở Boulder, kế toán viên công chứng (CPA).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Các Chương 4 đến 12 (trừ Chương 6) đi lần lượt từ trên xuống dưới báo cáo kết quả kinh doanh (income statement): mỗi chương nối một khoản doanh thu hay chi phí với tài sản hoặc nợ phải trả tương ứng trên bảng cân đối kế toán (balance sheet), từ doanh thu và phải thu khách hàng ([Chương 4](C04-doanh-thu-va-phai-thu-khach-hang.md)) tới lợi nhuận ròng và lợi nhuận giữ lại ([Chương 12](C12-loi-nhuan-rong-loi-nhuan-giu-lai-va-eps.md)).
+
+Chương 13 "đổi số" (Tracy viết "we shift gears"): nó mở đầu hai chương về báo cáo thứ ba, báo cáo lưu chuyển tiền tệ (statement of cash flows), và tập trung vào phần đầu của báo cáo này, dòng tiền từ hoạt động kinh doanh, mà Tracy thích gọi là "dòng tiền từ lợi nhuận". Chương này gom bảy mối nối đã học ở các chương trước (phải thu, tồn kho, chi phí trả trước, khấu hao, phải trả người bán, chi phí phải trả, thuế phải nộp) thành bảy dòng điều chỉnh đi từ lợi nhuận ròng 2.642 nghìn USD tới dòng tiền 3.105 nghìn USD.
+
+[Chương 14](C14-dong-tien-tu-hoat-dong-dau-tu-va-tai-chinh.md) sẽ giải thích hai phần còn lại (hoạt động đầu tư và hoạt động tài chính), và [Chương 16](C16-tac-dong-cua-tang-truong-va-suy-giam-len-dong-tien.md) dùng lại cơ chế điều chỉnh của chương này để cho thấy tăng trưởng và suy giảm tác động lên dòng tiền ra sao.
+
+## Lưu ý
+
+- **Vị trí của Exhibit 13.1.** Bảng chính của chương (Exhibit 13.1) được in ở trang in 84 (trang PDF 96), tức trước trang tên chương, giống cách sách đặt mỗi Exhibit mở đầu chương ngay trước tên chương; Exhibit ở trang in 92 là Exhibit 14.1 của Chương 14. Hai Exhibit 13.1 và 14.1 có số liệu giống hệt nhau; chỉ khác các mũi tên: ở 13.1 mũi tên nối các thay đổi tài sản và nợ hoạt động với phần dòng tiền từ hoạt động kinh doanh, ở 14.1 mũi tên nối nhà xưởng, tài sản vô hình, các khoản vay, vốn cổ phần và lợi nhuận giữ lại với hai phần sau.
+- **Lỗi chính tả trong sách.** Cuối điều chỉnh số 1 (phải thu khách hàng), sách in "If short, an increase in accounts receivable hurts cash flow from profit"; chữ đúng là "In short" (tóm lại), như ở các điều chỉnh khác.
+- **Exhibit 13.2 (phương pháp trực tiếp) không kèm cách tính.** Sách đưa ra các con số 51.680; (34.760); (11.630); (520); (1.665) mà không giải thích.
+
+  Người tổng hợp đã kiểm tra: tổng của chúng đúng bằng 3.105 nghìn USD, và các con số khớp với ba báo cáo: tiền thu từ khách hàng 51.680 = doanh thu 52.000 − phải thu tăng 320; tiền nộp thuế 1.665 = chi phí thuế 1.748 − thuế phải nộp tăng 83; tiền trả lãi vay 520 = chi phí lãi vay 545 − 25, nghĩa là ngầm có 25 nghìn USD lãi vay phải trả tăng nằm trong khoản chi phí phải trả (điều sách không nói); tiền trả cho hàng hoá và chi phí hoạt động cộng lại 34.760 + 11.630 = 46.390 = giá vốn 33.800 + SG&A 12.480 + tồn kho tăng 935 + chi phí trả trước tăng 275 − phải trả người bán tăng 645 − phần còn lại của chi phí phải trả tăng 455.
+
+  Việc chia 46.390 thành 34.760 và 11.630 phụ thuộc vào cách chia phải trả người bán và chi phí phải trả giữa mua hàng và chi phí hoạt động ở đầu năm, chương này không cho số đó. Dòng "Operating Expenses" trong Exhibit 13.2 chỉ là tiền chi cho SG&A; khấu hao 785 không xuất hiện vì không phải là khoản chi tiền.
+- **Tên dòng dễ hiểu nhầm.** Trong Exhibit 13.2 các dòng vẫn mang tên khoản mục của báo cáo kết quả kinh doanh ("Sales Revenue", "Cost of Goods Sold Expense"...), nhưng con số là tiền thu hoặc tiền chi, không phải doanh thu hay chi phí. Ví dụ "Sales Revenue $51,680" là tiền thu từ khách hàng; doanh thu thật là 52.000.
+- **Cách viết dễ gây khó hiểu ở điều chỉnh số 3.** Sách viết "The $685,000 not paid minus $960,000 paid". "Not paid" ở đây nghĩa là: 685 nghìn USD chi phí trả trước đầu năm đã được trả từ năm trước, nên năm nay không phải trả tiền cho phần chi phí đó; 960 nghìn USD trả trước cuối năm là tiền năm nay chi ra cho chi phí của năm sau.
+- **Giả định ngầm ở điều chỉnh số 1.** Tracy nói doanh nghiệp đã thu được toàn bộ 4.680 nghìn USD phải thu đầu năm; tức là ngầm giả định không có nợ khó đòi bị xoá sổ trong năm.
+- **Không có chi phí phân bổ tài sản vô hình.** Doanh nghiệp có tài sản vô hình 5.575 nghìn USD nhưng báo cáo kết quả kinh doanh không có chi phí phân bổ dần (amortization), nên EBITDA trong ví dụ chỉ cộng lại khấu hao 785. Điều này phù hợp nếu tài sản vô hình là loại không có thời hạn sử dụng xác định (như lợi thế thương mại), nhưng chương không giải thích.
+- **Điều đã thay đổi sau 2009 (theo hiểu biết của người tổng hợp, không tra cứu).** Quy định về báo cáo lưu chuyển tiền tệ của Mỹ (trước là FAS 95) nay nằm trong Bộ chuẩn mực FASB Codification, chủ đề ASC 230; FASB vẫn khuyến khích phương pháp trực tiếp, cho phép phương pháp gián tiếp, và nếu dùng phương pháp trực tiếp thì vẫn phải trình bày bảng đối chiếu từ lợi nhuận ròng sang dòng tiền. Thực tế phương pháp gián tiếp vẫn chiếm đa số tuyệt đối.
+
+  Bên IFRS, chuẩn mực IAS 7 cũng khuyến khích phương pháp trực tiếp; chuẩn mực mới IFRS 18 (ban hành 2024, hiệu lực dự kiến 2027) đổi điểm xuất phát của phương pháp gián tiếp sang "lợi nhuận hoạt động" và thu hẹp các lựa chọn phân loại tiền lãi, cổ tức.
+
+  Ở Mỹ, Ủy ban Chứng khoán và Giao dịch (Securities and Exchange Commission, SEC) có quy định về các chỉ tiêu không theo GAAP (non-GAAP measures) như EBITDA, đòi hỏi đối chiếu với chỉ tiêu GAAP gần nhất; chương không nhắc tới quy định này.

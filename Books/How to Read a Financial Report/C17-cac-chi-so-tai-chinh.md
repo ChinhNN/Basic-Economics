@@ -1,20 +1,18 @@
 # Chương 17 — Các chỉ số tài chính (Financial Statement Ratios)
 
-**Nguồn:** John A. Tracy, *How to Read a Financial Report: Wringing Vital Signs Out of the Numbers*, ấn bản thứ bảy (John Wiley & Sons, 2009), Phần Hai "Financial Statement Analysis", Chương 17 "Financial Statement Ratios", trang in 123–137.
-**Tác giả:** John A. Tracy, giáo sư kế toán danh dự Đại học Colorado ở Boulder, kế toán viên công chứng (CPA).
-**Vị trí trong lập luận của cả cuốn sách:** Phần Một (Chương 1–15) dựng từng mối nối giữa các khoản mục của báo cáo kết quả kinh doanh và bảng cân đối kế toán, rồi giải thích dòng tiền và thuyết minh báo cáo tài chính. Phần Hai chuyển từ "báo cáo được lập ra thế nào" sang "người đọc dùng báo cáo để làm gì". Chương 16 ([C16-tac-dong-cua-tang-truong-va-suy-giam-len-dong-tien.md](C16-tac-dong-cua-tang-truong-va-suy-giam-len-dong-tien.md)) đã xem tăng trưởng và suy giảm doanh thu tác động lên dòng tiền ra sao. Chương 17 đặt lại toàn bộ bộ báo cáo tài chính của doanh nghiệp ví dụ (thêm một báo cáo mới là báo cáo thay đổi vốn chủ sở hữu) và dùng các con số đó để tính một nhóm nhỏ chỉ số chuẩn mà người cho vay và nhà đầu tư hay dùng: hệ số thanh toán hiện hành, hệ số thanh toán nhanh, hệ số nợ trên vốn chủ sở hữu, hệ số khả năng trả lãi vay, tỷ suất lợi nhuận trên doanh thu, ROE, ROA, EPS, P/E và giá trị vốn hoá thị trường. Trước chương này sách mới nói tới hai chỉ số: vòng quay phải thu khách hàng ở Chương 4 ([C04-doanh-thu-va-phai-thu-khach-hang.md](C04-doanh-thu-va-phai-thu-khach-hang.md)) và vòng quay hàng tồn kho ở Chương 5 ([C05-gia-von-hang-ban-va-hang-ton-kho.md](C05-gia-von-hang-ban-va-hang-ton-kho.md)); EPS đã được giới thiệu ở Chương 12 ([C12-loi-nhuan-rong-loi-nhuan-giu-lai-va-eps.md](C12-loi-nhuan-rong-loi-nhuan-giu-lai-va-eps.md)). Chương 18 ([C18-phan-tich-loi-nhuan-cho-nha-quan-ly.md](C18-phan-tich-loi-nhuan-cho-nha-quan-ly.md)) chuyển sang góc nhìn của nhà quản lý bên trong doanh nghiệp, phân tích lợi nhuận bằng lãi đóng góp và điểm hoà vốn, thay vì góc nhìn của người đọc bên ngoài như chương này.
-**Ý chính:** Tracy muốn người đọc hiểu rằng **một con số tuyệt đối như lợi nhuận ròng 2.642 nghìn USD tự nó không cho biết doanh nghiệp làm ăn tốt hay dở; phải đặt con số đó cạnh một con số khác (tài sản ngắn hạn cạnh nợ ngắn hạn, lợi nhuận cạnh doanh thu, lợi nhuận cạnh vốn chủ sở hữu, giá cổ phiếu cạnh lợi nhuận trên mỗi cổ phiếu) thì mới có ý nghĩa, và chỉ cần một nhóm nhỏ chỉ số chuẩn là đủ để trả lời hai câu hỏi lớn của người cho vay và nhà đầu tư: doanh nghiệp có trả được nợ không, và doanh nghiệp có sinh lời đủ trên số vốn bỏ vào không.** Với doanh nghiệp ví dụ (doanh thu 52.000 nghìn USD), Tracy tính: tài sản ngắn hạn 17.675 chia nợ ngắn hạn 8.125 được hệ số thanh toán hiện hành 2,18, vượt chuẩn "2 trên 1"; tiền cộng phải thu (8.265) chia nợ ngắn hạn được hệ số thanh toán nhanh 1,02, vừa đạt chuẩn "1 trên 1"; tổng nợ phải trả 12.375 chia vốn chủ sở hữu 23.125 được 0,54, mức đòn bẩy vừa phải; lợi nhuận trước lãi vay và thuế 4.935 gấp 9,1 lần chi phí lãi vay 545; lợi nhuận ròng bằng 5,1% doanh thu và 11,4% vốn chủ sở hữu, mức ROE mà Tracy gọi là "chấp nhận được nhưng không ấn tượng"; lợi nhuận trước lãi vay và thuế bằng 13,9% tổng tài sản, cao hơn lãi suất vay 7,5% tới 6,4 điểm phần trăm, tức doanh nghiệp được lợi từ đòn bẩy tài chính; EPS cơ bản là 3,30 USD, và nếu định giá cổ phiếu (không niêm yết) của doanh nghiệp bằng 12 lần EPS thì mỗi cổ phiếu đáng khoảng 39,60 USD. Tracy cũng nói rõ giới hạn: không có chỉ số chuẩn nào cho dòng tiền, chương không bàn phân tích xu hướng qua nhiều năm, và mọi chỉ số chỉ có nghĩa khi so với mức trung bình ngành và với các cơ hội đầu tư khác.
+## Ý chính
 
-> **Lưu ý:**
-> - **Không mở được ảnh trang PDF.** Bảng của Exhibit 17.1 được chép từ lớp chữ của PDF (trang PDF 138); ở trang này lớp chữ khá sạch, các con số khớp hoàn toàn với Exhibit 2.1–2.3 của Chương 2 và mọi phép cộng trừ đều đúng. Thứ tự bốn báo cáo trong bảng được trình bày theo thứ tự hợp lý (kết quả kinh doanh, thay đổi vốn chủ sở hữu, cân đối kế toán, lưu chuyển tiền tệ), có thể khác với bố cục trang sách.
-> - **Lãi suất 7,5% không suy ra chính xác được từ số liệu.** Tracy nói lãi suất năm của các khoản vay ngắn và dài hạn là 7,5%. Theo tính toán của người tổng hợp: chi phí lãi vay 545 chia dư nợ vay cuối năm (3.125 + 4.250 = 7.375) được khoảng 7,39%; chia dư nợ bình quân đầu và cuối năm ((6.750 + 7.375) / 2 = 7.062,5) được khoảng 7,72%. Con số 7,5% nằm giữa hai kết quả, nên nên hiểu đây là một giả định làm tròn của sách.
-> - **ROA trong sách là "trước lãi vay và thuế".** Tracy định nghĩa ROA = lợi nhuận trước lãi vay và thuế (EBIT) / tổng tài sản = 13,9%. Theo hiểu biết của người tổng hợp, nhiều sách giáo khoa và cơ sở dữ liệu tài chính tính ROA bằng lợi nhuận ròng / tổng tài sản; với số của ví dụ, cách đó cho 2.642 / 35.500 ≈ 7,4%. Khi so ROA giữa các nguồn cần xem định nghĩa.
-> - **Các con số làm tròn.** Tỷ suất lợi nhuận trên doanh thu chính xác là 5,08%; sách làm tròn thành 5,1% và viết "mỗi 100 USD doanh thu có 5,10 USD lợi nhuận ròng và 94,90 USD chi phí" (chính xác là 5,08 và 94,92). Hệ số nợ trên vốn chủ sở hữu chính xác là 0,535, sách ghi 0,54. Không phải lỗi, chỉ là làm tròn.
-> - **ROE và EPS dùng số cuối năm.** Sách tự nói rõ cách làm đơn giản hoá này. Theo tính toán của người tổng hợp: dùng vốn chủ sở hữu bình quân đầu và cuối năm ((21.058 + 23.125) / 2 = 22.091,5) thì ROE ≈ 12,0% thay vì 11,4%; nếu 7.000 cổ phiếu mới được phát hành vào giữa năm, số cổ phiếu bình quân gia quyền khoảng 796.500 và EPS ≈ 3,32 USD thay vì 3,30 USD.
-> - **Ví dụ về "khoản lãi, lỗ bất thường" (extraordinary gains or losses) dễ gây hiểu nhầm.** Tracy lấy ví dụ khoản lãi khi bán một tài sản cố định lớn và chi phí tái cơ cấu (trả trợ cấp thôi việc). Theo hiểu biết của người tổng hợp, ngay cả theo US GAAP năm 2009, hai loại này thường được trình bày là khoản mục "bất thường hoặc không thường xuyên" trong lợi nhuận từ hoạt động liên tục, chứ hiếm khi đủ điều kiện là "extraordinary item" theo nghĩa kỹ thuật (vừa bất thường về bản chất vừa không thường xuyên). Từ năm 2015, FASB đã bỏ hẳn khái niệm extraordinary items khỏi US GAAP (theo hiểu biết của người tổng hợp, không tra cứu).
-> - **"FASB không khuyến khích" chỉ số dòng tiền trên mỗi cổ phiếu.** Theo hiểu biết của người tổng hợp, chuẩn mực FAS 95 (1987) về báo cáo lưu chuyển tiền tệ quy định thẳng là không được trình bày dòng tiền trên mỗi cổ phiếu trong báo cáo tài chính; chữ "discouraged" của Tracy là cách nói nhẹ.
-> - **Số liệu và nhận định thị trường của năm 2008–2009.** "Khoảng 10.000 công ty đại chúng ở Mỹ", "khoảng 12.000 doanh nghiệp nước ngoài có chứng khoán giao dịch", "P/E 15–18 được coi là chấp nhận được" là số của thời điểm viết sách. Theo hiểu biết của người tổng hợp, số công ty niêm yết trên các sàn của Mỹ đã giảm mạnh so với cuối thập niên 1990 và hiện thấp hơn nhiều so với con số 10.000 (con số của Tracy có thể bao gồm cả các công ty giao dịch ngoài sàn). Câu "gần như mọi nước, kể cả Mỹ, đang tiến nhanh tới áp dụng chuẩn mực quốc tế" đã không thành hiện thực với Mỹ: kế hoạch hội tụ US GAAP–IFRS bị dừng, các công ty Mỹ vẫn dùng US GAAP.
-> - **Câu "các chủ nợ không chịu cho vay quá một nửa tài sản".** Khi giải thích vì sao đa số doanh nghiệp giữ hệ số nợ trên vốn chủ sở hữu dưới 1, Tracy nói họ không thuyết phục được người cho vay bỏ ra quá một nửa tài sản. Thực ra tổng nợ phải trả trong chỉ số này gồm cả các khoản không chịu lãi (phải trả người bán, chi phí phải trả, thuế phải nộp), không chỉ tiền vay; đây là cách nói gọn của sách.
+Tracy muốn người đọc hiểu rằng **một con số tuyệt đối như lợi nhuận ròng 2.642 nghìn USD tự nó không cho biết doanh nghiệp làm ăn tốt hay dở; phải đặt con số đó cạnh một con số khác (tài sản ngắn hạn cạnh nợ ngắn hạn, lợi nhuận cạnh doanh thu, lợi nhuận cạnh vốn chủ sở hữu, giá cổ phiếu cạnh lợi nhuận trên mỗi cổ phiếu) thì mới có ý nghĩa, và chỉ cần một nhóm nhỏ chỉ số chuẩn là đủ để trả lời hai câu hỏi lớn của người cho vay và nhà đầu tư: doanh nghiệp có trả được nợ không, và doanh nghiệp có sinh lời đủ trên số vốn bỏ vào không.**
+
+Với doanh nghiệp ví dụ (doanh thu 52.000 nghìn USD), Tracy tính: tài sản ngắn hạn 17.675 chia nợ ngắn hạn 8.125 được hệ số thanh toán hiện hành 2,18, vượt chuẩn "2 trên 1". Tiền cộng phải thu (8.265) chia nợ ngắn hạn được hệ số thanh toán nhanh 1,02, vừa đạt chuẩn "1 trên 1".
+
+Tổng nợ phải trả 12.375 chia vốn chủ sở hữu 23.125 được 0,54, mức đòn bẩy vừa phải. Lợi nhuận trước lãi vay và thuế 4.935 gấp 9,1 lần chi phí lãi vay 545.
+
+Lợi nhuận ròng bằng 5,1% doanh thu và 11,4% vốn chủ sở hữu, mức ROE mà Tracy gọi là "chấp nhận được nhưng không ấn tượng". Lợi nhuận trước lãi vay và thuế bằng 13,9% tổng tài sản, cao hơn lãi suất vay 7,5% tới 6,4 điểm phần trăm, tức doanh nghiệp được lợi từ đòn bẩy tài chính.
+
+EPS cơ bản là 3,30 USD, và nếu định giá cổ phiếu (không niêm yết) của doanh nghiệp bằng 12 lần EPS thì mỗi cổ phiếu đáng khoảng 39,60 USD.
+
+Tracy cũng nói rõ giới hạn: không có chỉ số chuẩn nào cho dòng tiền, chương không bàn phân tích xu hướng qua nhiều năm, và mọi chỉ số chỉ có nghĩa khi so với mức trung bình ngành và với các cơ hội đầu tư khác.
 
 ## Sơ đồ
 
@@ -834,11 +832,19 @@ Vì doanh nghiệp ví dụ xuyên suốt cả cuốn sách, người đọc kh�
 
 ### Cách tính ROA của Tracy khác cách phổ biến và cách so ROA với lãi suất có chỗ đơn giản hoá
 
-Tracy dùng EBIT / tổng tài sản (13,9%) và so trực tiếp với lãi suất vay 7,5%. Cách so này hợp lý về mặt ý tưởng (đồng vốn vay sinh lời trước lãi và thuế cao hơn chi phí của nó), nhưng có ba điểm cần lưu ý theo hiểu biết của người tổng hợp: (1) nhiều nguồn tính ROA bằng lợi nhuận ròng / tổng tài sản (ở ví dụ ≈ 7,4%), nên con số 13,9% không so được trực tiếp với ROA trên các cơ sở dữ liệu; (2) tổng tài sản được tài trợ một phần bởi nợ không chịu lãi (5.000), nên phần tài sản do vốn vay có lãi tài trợ chỉ là 7.375; (3) lãi suất 7,5% không suy ra chính xác từ báo cáo (7,39% theo dư nợ cuối năm, 7,72% theo dư nợ bình quân). Tracy không lượng hoá lãi từ đòn bẩy bằng tiền; theo tính toán thô của người tổng hợp, 6,4% × 7.375 ≈ 472 nghìn USD lợi nhuận trước thuế mà cổ đông có được nhờ vay.
+Tracy dùng EBIT / tổng tài sản (13,9%) và so trực tiếp với lãi suất vay 7,5%. Cách so này hợp lý về mặt ý tưởng (đồng vốn vay sinh lời trước lãi và thuế cao hơn chi phí của nó), nhưng có ba điểm cần lưu ý theo hiểu biết của người tổng hợp:
+
+- Nhiều nguồn tính ROA bằng lợi nhuận ròng / tổng tài sản (ở ví dụ ≈ 7,4%), nên con số 13,9% không so được trực tiếp với ROA trên các cơ sở dữ liệu.
+- Tổng tài sản được tài trợ một phần bởi nợ không chịu lãi (5.000), nên phần tài sản do vốn vay có lãi tài trợ chỉ là 7.375.
+- Lãi suất 7,5% không suy ra chính xác từ báo cáo (7,39% theo dư nợ cuối năm, 7,72% theo dư nợ bình quân).
+
+Tracy không lượng hoá lãi từ đòn bẩy bằng tiền; theo tính toán thô của người tổng hợp, 6,4% × 7.375 ≈ 472 nghìn USD lợi nhuận trước thuế mà cổ đông có được nhờ vay.
 
 ### Một số chỉ số có thể tính từ chính Exhibit 17.1 làm rõ thêm bức tranh mà Tracy để ngỏ
 
-Tracy cố ý không làm phân tích xu hướng, nhưng bảng cân đối của Chương 2 có số năm trước. Theo tính toán của người tổng hợp từ các số đó: hệ số thanh toán hiện hành năm trước là 16.615 / 6.792 ≈ 2,45 (năm nay 2,18); hệ số thanh toán nhanh năm trước (3.735 + 4.680) / 6.792 ≈ 1,24 (năm nay 1,02); hệ số nợ trên vốn chủ sở hữu năm trước (6.792 + 3.750) / 21.058 ≈ 0,50 (năm nay 0,54). Tức là khả năng thanh khoản đã giảm rõ trong một năm, phù hợp với việc tiền giảm 470 và tồn kho tăng 935 — đúng loại tín hiệu mà phân tích xu hướng sẽ bắt được. Hai chỉ số Tracy chỉ nêu tên cũng tính được: vòng quay tài sản 52.000 / 35.500 ≈ 1,46 lần; cổ tức mỗi cổ phiếu khoảng 750.000 / 800.000 ≈ 0,94 USD, nếu giá cổ phiếu là 39,60 USD thì tỷ suất cổ tức khoảng 2,4%; tỷ lệ chi trả cổ tức 750 / 2.642 ≈ 28%. Giá trị ghi sổ mỗi cổ phiếu là 23.125.000 / 800.000 ≈ 28,91 USD, nên mức giá 39,60 USD (12 lần EPS) tương đương khoảng 1,37 lần giá trị ghi sổ — minh hoạ cho nhận xét của Tracy rằng giá trị theo lợi nhuận thường cao hơn giá trị sổ sách.
+Tracy cố ý không làm phân tích xu hướng, nhưng bảng cân đối của Chương 2 có số năm trước. Theo tính toán của người tổng hợp từ các số đó: hệ số thanh toán hiện hành năm trước là 16.615 / 6.792 ≈ 2,45 (năm nay 2,18); hệ số thanh toán nhanh năm trước (3.735 + 4.680) / 6.792 ≈ 1,24 (năm nay 1,02); hệ số nợ trên vốn chủ sở hữu năm trước (6.792 + 3.750) / 21.058 ≈ 0,50 (năm nay 0,54). Tức là khả năng thanh khoản đã giảm rõ trong một năm, phù hợp với việc tiền giảm 470 và tồn kho tăng 935 — đúng loại tín hiệu mà phân tích xu hướng sẽ bắt được.
+
+Hai chỉ số Tracy chỉ nêu tên cũng tính được: vòng quay tài sản 52.000 / 35.500 ≈ 1,46 lần; cổ tức mỗi cổ phiếu khoảng 750.000 / 800.000 ≈ 0,94 USD, nếu giá cổ phiếu là 39,60 USD thì tỷ suất cổ tức khoảng 2,4%; tỷ lệ chi trả cổ tức 750 / 2.642 ≈ 28%. Giá trị ghi sổ mỗi cổ phiếu là 23.125.000 / 800.000 ≈ 28,91 USD, nên mức giá 39,60 USD (12 lần EPS) tương đương khoảng 1,37 lần giá trị ghi sổ — minh hoạ cho nhận xét của Tracy rằng giá trị theo lợi nhuận thường cao hơn giá trị sổ sách.
 
 ### Nhiều quy định và bối cảnh nhắc trong chương đã thay đổi từ 2009
 
@@ -853,7 +859,9 @@ Theo hiểu biết của người tổng hợp, không tra cứu:
 
 ### Các "quy tắc chung" là điểm khởi đầu, không phải chuẩn tuyệt đối
 
-Tracy tự nói hệ số thanh toán nhanh "có nhiều ngoại lệ" và P/E phải so với ngành; nhưng người đọc dễ hiểu quá thẳng chuẩn 2 trên 1 cho hệ số thanh toán hiện hành. Theo hiểu biết của người tổng hợp, các doanh nghiệp bán lẻ hay dịch vụ thu tiền ngay, quay vòng hàng nhanh, thường hoạt động an toàn với hệ số thanh toán hiện hành quanh 1 hoặc thấp hơn; ngược lại một hệ số rất cao có thể báo hiệu tồn kho ứ đọng hay phải thu khó đòi chứ không phải sức khoẻ tốt. Tương tự, hệ số nợ trên vốn chủ sở hữu của ngân hàng thường gấp nhiều lần mức 1, đúng như Tracy nói về tổ chức tài chính. Quan điểm trái chiều đáng nêu: nhiều nhà phân tích hiện đại coi các chỉ số dòng tiền (như dòng tiền từ hoạt động kinh doanh / lợi nhuận ròng, mà Tracy gọi là "thú vị", hay dòng tiền tự do) là quan trọng ngang hoặc hơn các chỉ số dựa trên lợi nhuận kế toán; nhận định "không có chỉ số chuẩn cho dòng tiền" phản ánh thông lệ năm 2009 hơn là bản chất vấn đề.
+Tracy tự nói hệ số thanh toán nhanh "có nhiều ngoại lệ" và P/E phải so với ngành; nhưng người đọc dễ hiểu quá thẳng chuẩn 2 trên 1 cho hệ số thanh toán hiện hành. Theo hiểu biết của người tổng hợp, các doanh nghiệp bán lẻ hay dịch vụ thu tiền ngay, quay vòng hàng nhanh, thường hoạt động an toàn với hệ số thanh toán hiện hành quanh 1 hoặc thấp hơn; ngược lại một hệ số rất cao có thể báo hiệu tồn kho ứ đọng hay phải thu khó đòi chứ không phải sức khoẻ tốt. Tương tự, hệ số nợ trên vốn chủ sở hữu của ngân hàng thường gấp nhiều lần mức 1, đúng như Tracy nói về tổ chức tài chính.
+
+Quan điểm trái chiều đáng nêu: nhiều nhà phân tích hiện đại coi các chỉ số dòng tiền (như dòng tiền từ hoạt động kinh doanh / lợi nhuận ròng, mà Tracy gọi là "thú vị", hay dòng tiền tự do) là quan trọng ngang hoặc hơn các chỉ số dựa trên lợi nhuận kế toán; nhận định "không có chỉ số chuẩn cho dòng tiền" phản ánh thông lệ năm 2009 hơn là bản chất vấn đề.
 
 ### Vận dụng cho người cho vay, nhà đầu tư và nhà quản lý
 
@@ -861,3 +869,159 @@ Tracy tự nói hệ số thanh toán nhanh "có nhiều ngoại lệ" và P/E p
 - **Nhà đầu tư** nên đặt ROE cạnh chi phí cơ hội và rủi ro, kiểm tra xem ROE cao đến từ biên lợi nhuận, vòng quay tài sản hay đòn bẩy; khi so P/E, dùng cùng một loại EPS (cơ bản hay pha loãng) cho mọi công ty.
 - **Nhà quản lý** cần biết chủ nợ đang nhìn doanh nghiệp qua những con số nào, để giữ các chỉ số trong vùng chủ nợ chấp nhận (ví dụ doanh nghiệp ví dụ đã gần ngưỡng 1 trên 1 của hệ số thanh toán nhanh).
 - **Người đọc Việt Nam** có thể áp dụng trực tiếp bộ chỉ số này với báo cáo tài chính của doanh nghiệp trong nước, vì các khái niệm tài sản ngắn hạn, nợ ngắn hạn, vốn chủ sở hữu và EPS đều có trong hệ thống báo cáo hiện hành; nhưng cần lưu ý cách tính cụ thể (ví dụ ROA dùng lợi nhuận nào, EPS có trừ quỹ khen thưởng phúc lợi hay không) có thể khác với cách của Tracy, nên khi so sánh phải xem định nghĩa mà nguồn dữ liệu dùng (nhận định định tính của người tổng hợp).
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 17 trên một trang: sáu nhánh lớn đi theo các mục 1–6 của phần Nội dung chi tiết (báo cáo viết cho ai và bộ báo cáo của doanh nghiệp ví dụ, bốn chỉ số khả năng trả nợ, các tỷ suất lợi nhuận trên doanh thu, vốn chủ sở hữu và tài sản, EPS, P/E và vốn hoá, nhận xét cuối), mỗi nhánh ghi công thức, phép tính trên số của doanh nghiệp ví dụ, mức chuẩn và cách diễn giải của Tracy; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 17: con số tuyệt đối không nói tốt hay dở, phải đặt cạnh con số khác bằng một nhóm nhỏ chỉ số chuẩn`"]
+  n1["`Mục 1–2 — Báo cáo viết cho ai và bộ báo cáo của doanh nghiệp ví dụ`"]
+  n0 --- n1
+  n2["`Báo cáo tài chính viết trước hết cho nhà đầu tư và người cho vay, những người cấp vốn`"]
+  n1 --- n2
+  n3["`Mọi cổ đông và người cho vay được tiếp cận thông tin như nhau, không ai được báo trước`"]
+  n1 --- n3
+  n4["`Doanh nghiệp ví dụ: tư nhân, khoảng 50 cổ đông, doanh thu 52.000, lợi nhuận ròng 2.642 nghìn USD`"]
+  n1 --- n4
+  n5["`Tổng tài sản 35.500 = nợ phải trả 12.375 + vốn chủ sở hữu 23.125, có 800.000 cổ phiếu`"]
+  n1 --- n5
+  n6["`Người đọc nhìn dòng cuối trước: lỗ thì có dấu ngoặc đơn, còn lãi 2.642 tốt hay dở thì cần chỉ số`"]
+  n1 --- n6
+  n7["`Không có chỉ số chuẩn cho dòng tiền: dòng tiền từ lợi nhuận 3.105 nhỏ hơn chi đầu tư 3.625, tiền giảm 470`"]
+  n1 --- n7
+  n8["`Khoản lãi, lỗ bất thường làm khó việc dự báo lợi nhuận, nhất là khi năm nào cũng có`"]
+  n1 --- n8
+  n9["`Báo cáo thay đổi vốn chủ sở hữu: lợi nhuận giữ lại 13.108 + 2.642 − cổ tức 750 = 15.000`"]
+  n1 --- n9
+  n10["`Chương không làm phân tích chứng khoán toàn diện và không làm phân tích xu hướng nhiều năm`"]
+  n1 --- n10
+  n11["`Mục 3 — Khả năng trả nợ, thanh khoản và khả năng thanh toán`"]
+  n0 --- n11
+  n12["`Hệ số thanh toán hiện hành = tài sản ngắn hạn / nợ ngắn hạn = 17.675 / 8.125 = 2,18`"]
+  n11 --- n12
+  n13["`Chuẩn chung từ 2 trên 1: mỗi 1 USD nợ đến hạn có 2 USD tài sản sắp thành tiền làm đệm an toàn`"]
+  n12 --- n13
+  n14["`Chủ nợ chỉ nhận lãi, không được chia lợi nhuận, nên họ hạn chế rủi ro cho vay`"]
+  n12 --- n14
+  n15["`Nợ không chịu lãi 5.000 bằng 28% tài sản ngắn hạn, vay ngắn hạn ngân hàng 3.125 bằng 18%`"]
+  n12 --- n15
+  n16["`Hệ số thanh toán nhanh = (tiền 3.265 + phải thu 5.000) / 8.125 = 1,02, chuẩn từ 1 trên 1`"]
+  n11 --- n16
+  n17["`Loại hàng tồn kho và chi phí trả trước: hàng nằm kho 2–4 tháng, bán chịu lại chờ thu tiền`"]
+  n16 --- n17
+  n18["`Hệ số nợ trên vốn chủ sở hữu = 12.375 / 23.125 = 0,54, mức đòn bẩy vừa phải`"]
+  n11 --- n18
+  n19["`Tính mọi khoản nợ, có lãi lẫn không lãi: có 1,54 USD tài sản cho mỗi 1 USD vốn chủ`"]
+  n18 --- n19
+  n20["`Đa số doanh nghiệp giữ dưới 1, ngành điện nước và tổ chức tài chính cao hơn nhiều`"]
+  n18 --- n20
+  n21["`Hệ số khả năng trả lãi vay = EBIT 4.935 / chi phí lãi vay 545 = 9,1 lần`"]
+  n11 --- n21
+  n22["`Không có chuẩn nhưng phải lớn hơn 1, mức 9,1 lần làm người cho vay yên tâm`"]
+  n21 --- n22
+  n23["`Mục 4 — Lợi nhuận so với doanh thu, vốn chủ sở hữu và tài sản`"]
+  n0 --- n23
+  n24["`Tỷ suất lợi nhuận trên doanh thu = 2.642 / 52.000 = 5,1%: 100 USD doanh thu có 5,10 USD lãi ròng`"]
+  n23 --- n24
+  n25["`Khác nhau nhiều giữa các ngành: có ngành 1–2% là ổn, có ngành cần trên 10%`"]
+  n24 --- n25
+  n26["`Lợi nhuận phải so với vốn bỏ ra (ROI): lãi 100.000 USD trên vốn 250.000 là 40%, trên 2.500.000 chỉ 4%`"]
+  n23 --- n26
+  n27["`ROE = lợi nhuận ròng (trừ cổ tức ưu đãi) / vốn chủ sở hữu = 2.642 / 23.125 = 11,4%`"]
+  n23 --- n27
+  n28["`ROE 11,4% chấp nhận được nhưng không ấn tượng, phải so với ngành, chi phí cơ hội, rủi ro và thuế`"]
+  n27 --- n28
+  n29["`Dùng vốn chủ sở hữu cuối năm cho đơn giản, dùng bình quân khi vốn thay đổi lớn trong năm`"]
+  n27 --- n29
+  n30["`ROA theo Tracy = EBIT / tổng tài sản = 4.935 / 35.500 = 13,9%`"]
+  n23 --- n30
+  n31["`ROA 13,9% cao hơn lãi suất vay 7,5%: chênh lệch 6,4% là lãi từ đòn bẩy tài chính`"]
+  n30 --- n31
+  n32["`ROA thấp hơn lãi suất vay thì doanh nghiệp chịu lỗ từ đòn bẩy tài chính`"]
+  n30 --- n32
+  n33["`Nhiều nguồn tính ROA bằng lợi nhuận ròng / tổng tài sản, ở ví dụ chỉ khoảng 7,4%`"]
+  n30 --- n33
+  n34["`Mục 5 — EPS, hệ số P/E và giá trị vốn hoá`"]
+  n0 --- n34
+  n35["`Giá cổ phiếu phụ thuộc trước hết vào lợi nhuận, giá trị ghi sổ mỗi cổ phiếu nay chỉ đóng vai phụ`"]
+  n34 --- n35
+  n36["`EPS cơ bản = lợi nhuận cho cổ đông phổ thông / số cổ phiếu = 2.642.000 / 800.000 = 3,30 USD`"]
+  n34 --- n36
+  n37["`Đúng kỹ thuật dùng số cổ phiếu bình quân gia quyền, cổ tức ưu đãi trừ khỏi tử số`"]
+  n36 --- n37
+  n38["`EPS pha loãng tính thêm cổ phiếu từ quyền chọn và chứng khoán chuyển đổi, nên thấp hơn`"]
+  n34 --- n38
+  n39["`Công ty đại chúng bắt buộc trình bày EPS cơ bản và pha loãng, các chỉ số khác thì không`"]
+  n38 --- n39
+  n40["`P/E = giá cổ phiếu / EPS: giá 40 USD, EPS 2 USD cho P/E 20`"]
+  n34 --- n40
+  n41["`So với ngành và thị trường: từng có thời P/E 8 là hợp lý, lúc viết sách 15–18 là bình thường`"]
+  n40 --- n41
+  n42["`Dùng EPS pha loãng thận trọng hơn vì cho P/E cao hơn`"]
+  n40 --- n42
+  n43["`Doanh nghiệp tư nhân ước giá bằng bội số: 12 × 3,30 = 39,60 USD, người mua có thể trả 15 hay 18 lần`"]
+  n34 --- n43
+  n44["`Vốn hoá thị trường = giá × số cổ phiếu: 65 USD × 10 triệu = 650 triệu USD`"]
+  n34 --- n44
+  n45["`Vốn hoá thường cao hơn nhiều vốn chủ sở hữu sổ sách ghi theo giá lịch sử, trừ khi gặp khó khăn`"]
+  n44 --- n45
+  n46["`Mục 6 — Nhận xét cuối: còn vô số chỉ số khác`"]
+  n0 --- n46
+  n47["`Vòng quay tài sản = doanh thu / tổng tài sản, ở ví dụ khoảng 1,46 lần`"]
+  n46 --- n47
+  n48["`Tỷ suất cổ tức = cổ tức tiền mặt mỗi cổ phiếu / giá thị trường mỗi cổ phiếu`"]
+  n46 --- n48
+  n49["`Chọn chỉ số có giá trị diễn giải cao nhất, nhà đầu tư chuyên nghiệp thường dùng quá nhiều chỉ số`"]
+  n46 --- n49
+  n50["`Không ai biết trước chỉ số nào là manh mối cho việc giá cổ phiếu tăng hay giảm`"]
+  n46 --- n50
+  n51["`Thông điệp xuyên suốt`"]
+  n0 --- n51
+  n52["`Doanh nghiệp ví dụ trả nợ an toàn (2,18, 1,02, 0,54, 9,1 lần) nhưng ROE 11,4% không nổi bật`"]
+  n51 --- n52
+  n53["`ROE 11,4% ≈ 5,08% lợi nhuận trên doanh thu × vòng quay tài sản 1,465 × hệ số nhân vốn 1,535`"]
+  n51 --- n53
+  n54["`Thanh khoản giảm trong năm: hệ số hiện hành từ 2,45 xuống 2,18, hệ số nhanh từ 1,24 xuống 1,02`"]
+  n51 --- n54
+  n55["`Mức chuẩn chỉ là điểm khởi đầu: bán lẻ an toàn với hệ số hiện hành quanh 1, hệ số quá cao có thể báo tồn kho ứ đọng`"]
+  n51 --- n55
+  n56["`Khi so P/E hay ROA giữa các nguồn, kiểm tra định nghĩa: EPS cơ bản hay pha loãng, ROA dùng lợi nhuận nào`"]
+  n51 --- n56
+  class n0 root
+  class n1,n11,n23,n34,n46,n51 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n24,n25,n26,n27,n28,n29,n30,n31,n32,n33,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n47,n48,n49,n50,n52,n53,n54,n55,n56 leaf
+```
+
+## Nguồn
+
+John A. Tracy, *How to Read a Financial Report: Wringing Vital Signs Out of the Numbers*, ấn bản thứ bảy (John Wiley & Sons, 2009), Phần Hai "Financial Statement Analysis", Chương 17 "Financial Statement Ratios", trang in 123–137.
+
+## Tác giả
+
+John A. Tracy, giáo sư kế toán danh dự Đại học Colorado ở Boulder, kế toán viên công chứng (CPA).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phần Một (Chương 1–15) dựng từng mối nối giữa các khoản mục của báo cáo kết quả kinh doanh và bảng cân đối kế toán, rồi giải thích dòng tiền và thuyết minh báo cáo tài chính. Phần Hai chuyển từ "báo cáo được lập ra thế nào" sang "người đọc dùng báo cáo để làm gì". Chương 16 ([C16-tac-dong-cua-tang-truong-va-suy-giam-len-dong-tien.md](C16-tac-dong-cua-tang-truong-va-suy-giam-len-dong-tien.md)) đã xem tăng trưởng và suy giảm doanh thu tác động lên dòng tiền ra sao.
+
+Chương 17 đặt lại toàn bộ bộ báo cáo tài chính của doanh nghiệp ví dụ (thêm một báo cáo mới là báo cáo thay đổi vốn chủ sở hữu) và dùng các con số đó để tính một nhóm nhỏ chỉ số chuẩn mà người cho vay và nhà đầu tư hay dùng: hệ số thanh toán hiện hành, hệ số thanh toán nhanh, hệ số nợ trên vốn chủ sở hữu, hệ số khả năng trả lãi vay, tỷ suất lợi nhuận trên doanh thu, ROE, ROA, EPS, P/E và giá trị vốn hoá thị trường.
+
+Trước chương này sách mới nói tới hai chỉ số: vòng quay phải thu khách hàng ở Chương 4 ([C04-doanh-thu-va-phai-thu-khach-hang.md](C04-doanh-thu-va-phai-thu-khach-hang.md)) và vòng quay hàng tồn kho ở Chương 5 ([C05-gia-von-hang-ban-va-hang-ton-kho.md](C05-gia-von-hang-ban-va-hang-ton-kho.md)); EPS đã được giới thiệu ở Chương 12 ([C12-loi-nhuan-rong-loi-nhuan-giu-lai-va-eps.md](C12-loi-nhuan-rong-loi-nhuan-giu-lai-va-eps.md)). Chương 18 ([C18-phan-tich-loi-nhuan-cho-nha-quan-ly.md](C18-phan-tich-loi-nhuan-cho-nha-quan-ly.md)) chuyển sang góc nhìn của nhà quản lý bên trong doanh nghiệp, phân tích lợi nhuận bằng lãi đóng góp và điểm hoà vốn, thay vì góc nhìn của người đọc bên ngoài như chương này.
+
+## Lưu ý
+
+- **Không mở được ảnh trang PDF.** Bảng của Exhibit 17.1 được chép từ lớp chữ của PDF (trang PDF 138); ở trang này lớp chữ khá sạch, các con số khớp hoàn toàn với Exhibit 2.1–2.3 của Chương 2 và mọi phép cộng trừ đều đúng. Thứ tự bốn báo cáo trong bảng được trình bày theo thứ tự hợp lý (kết quả kinh doanh, thay đổi vốn chủ sở hữu, cân đối kế toán, lưu chuyển tiền tệ), có thể khác với bố cục trang sách.
+- **Lãi suất 7,5% không suy ra chính xác được từ số liệu.** Tracy nói lãi suất năm của các khoản vay ngắn và dài hạn là 7,5%. Theo tính toán của người tổng hợp: chi phí lãi vay 545 chia dư nợ vay cuối năm (3.125 + 4.250 = 7.375) được khoảng 7,39%; chia dư nợ bình quân đầu và cuối năm ((6.750 + 7.375) / 2 = 7.062,5) được khoảng 7,72%. Con số 7,5% nằm giữa hai kết quả, nên nên hiểu đây là một giả định làm tròn của sách.
+- **ROA trong sách là "trước lãi vay và thuế".** Tracy định nghĩa ROA = lợi nhuận trước lãi vay và thuế (EBIT) / tổng tài sản = 13,9%. Theo hiểu biết của người tổng hợp, nhiều sách giáo khoa và cơ sở dữ liệu tài chính tính ROA bằng lợi nhuận ròng / tổng tài sản; với số của ví dụ, cách đó cho 2.642 / 35.500 ≈ 7,4%. Khi so ROA giữa các nguồn cần xem định nghĩa.
+- **Các con số làm tròn.** Tỷ suất lợi nhuận trên doanh thu chính xác là 5,08%; sách làm tròn thành 5,1% và viết "mỗi 100 USD doanh thu có 5,10 USD lợi nhuận ròng và 94,90 USD chi phí" (chính xác là 5,08 và 94,92). Hệ số nợ trên vốn chủ sở hữu chính xác là 0,535, sách ghi 0,54. Không phải lỗi, chỉ là làm tròn.
+- **ROE và EPS dùng số cuối năm.** Sách tự nói rõ cách làm đơn giản hoá này. Theo tính toán của người tổng hợp: dùng vốn chủ sở hữu bình quân đầu và cuối năm ((21.058 + 23.125) / 2 = 22.091,5) thì ROE ≈ 12,0% thay vì 11,4%; nếu 7.000 cổ phiếu mới được phát hành vào giữa năm, số cổ phiếu bình quân gia quyền khoảng 796.500 và EPS ≈ 3,32 USD thay vì 3,30 USD.
+- **Ví dụ về "khoản lãi, lỗ bất thường" (extraordinary gains or losses) dễ gây hiểu nhầm.** Tracy lấy ví dụ khoản lãi khi bán một tài sản cố định lớn và chi phí tái cơ cấu (trả trợ cấp thôi việc). Theo hiểu biết của người tổng hợp, ngay cả theo US GAAP năm 2009, hai loại này thường được trình bày là khoản mục "bất thường hoặc không thường xuyên" trong lợi nhuận từ hoạt động liên tục, chứ hiếm khi đủ điều kiện là "extraordinary item" theo nghĩa kỹ thuật (vừa bất thường về bản chất vừa không thường xuyên). Từ năm 2015, FASB đã bỏ hẳn khái niệm extraordinary items khỏi US GAAP (theo hiểu biết của người tổng hợp, không tra cứu).
+- **"FASB không khuyến khích" chỉ số dòng tiền trên mỗi cổ phiếu.** Theo hiểu biết của người tổng hợp, chuẩn mực FAS 95 (1987) về báo cáo lưu chuyển tiền tệ quy định thẳng là không được trình bày dòng tiền trên mỗi cổ phiếu trong báo cáo tài chính; chữ "discouraged" của Tracy là cách nói nhẹ.
+- **Số liệu và nhận định thị trường của năm 2008–2009.** "Khoảng 10.000 công ty đại chúng ở Mỹ", "khoảng 12.000 doanh nghiệp nước ngoài có chứng khoán giao dịch", "P/E 15–18 được coi là chấp nhận được" là số của thời điểm viết sách. Theo hiểu biết của người tổng hợp, số công ty niêm yết trên các sàn của Mỹ đã giảm mạnh so với cuối thập niên 1990 và hiện thấp hơn nhiều so với con số 10.000 (con số của Tracy có thể bao gồm cả các công ty giao dịch ngoài sàn). Câu "gần như mọi nước, kể cả Mỹ, đang tiến nhanh tới áp dụng chuẩn mực quốc tế" đã không thành hiện thực với Mỹ: kế hoạch hội tụ US GAAP–IFRS bị dừng, các công ty Mỹ vẫn dùng US GAAP.
+- **Câu "các chủ nợ không chịu cho vay quá một nửa tài sản".** Khi giải thích vì sao đa số doanh nghiệp giữ hệ số nợ trên vốn chủ sở hữu dưới 1, Tracy nói họ không thuyết phục được người cho vay bỏ ra quá một nửa tài sản. Thực ra tổng nợ phải trả trong chỉ số này gồm cả các khoản không chịu lãi (phải trả người bán, chi phí phải trả, thuế phải nộp), không chỉ tiền vay; đây là cách nói gọn của sách.

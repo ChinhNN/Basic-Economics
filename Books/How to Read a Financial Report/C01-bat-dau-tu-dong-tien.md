@@ -1,19 +1,16 @@
 # Chương 1 — Bắt đầu từ dòng tiền (Starting with Cash Flows)
 
-**Nguồn:** John A. Tracy, *How to Read a Financial Report: Wringing Vital Signs Out of the Numbers*, ấn bản thứ bảy (John Wiley & Sons, 2009), Phần Một "Components and Connections in Financial Statements", Chương 1 "Starting with Cash Flows", trang in 3–8 (trang in 1–2 là trang tên Phần Một).
-**Tác giả:** John A. Tracy, giáo sư kế toán danh dự Đại học Colorado ở Boulder, kế toán viên công chứng (CPA).
-**Vị trí trong lập luận của cả cuốn sách:** Đây là chương mở đầu của Phần Một "Components and Connections in Financial Statements" (Các thành phần và mối nối trong báo cáo tài chính), phần chiếm Chương 1 đến 15. Lời nói đầu ([00-loi-noi-dau.md](00-loi-noi-dau.md)) đã giới thiệu cuốn sách. Chương 1 chưa đưa ra bảng cân đối kế toán hay báo cáo kết quả kinh doanh; Tracy cố ý bắt đầu từ thứ người đọc quen nhất là tiền vào và tiền ra. Ông lập một bảng tóm tắt dòng tiền dạng không chính thức cho doanh nghiệp ví dụ (doanh nghiệp sản xuất và bán sản phẩm, hoạt động đã nhiều năm), rồi dùng chính bảng đó để chỉ ra hai điều mà dòng tiền không cho biết: lợi nhuận của kỳ và tình hình tài chính cuối kỳ. Hai khoảng trống ấy là lý do cần đến kế toán dồn tích và cần thêm hai báo cáo nữa. Chương 2 ([C02-ba-bao-cao-tai-chinh.md](C02-ba-bao-cao-tai-chinh.md)) giới thiệu ba báo cáo tài chính chính thức của cùng doanh nghiệp ví dụ, trong đó báo cáo lưu chuyển tiền tệ là "một phiên bản hơi khác" của bảng tóm tắt dòng tiền ở chương này. Chương 3 ([C03-loi-nhuan-khong-phai-la-tat-ca.md](C03-loi-nhuan-khong-phai-la-tat-ca.md)) và Chương 13 ([C13-dong-tien-tu-hoat-dong-kinh-doanh.md](C13-dong-tien-tu-hoat-dong-kinh-doanh.md)) quay lại câu hỏi vì sao dòng tiền từ hoạt động kinh doanh khác lợi nhuận ròng; Chương 14 ([C14-dong-tien-tu-hoat-dong-dau-tu-va-tai-chinh.md](C14-dong-tien-tu-hoat-dong-dau-tu-va-tai-chinh.md)) đi sâu vào nhóm dòng tiền thứ hai (đầu tư và tài chính). Đoạn cuối chương nhắc tới GAAP, chủ đề của Chương 19 ([C19-chuan-muc-ke-toan-va-bao-cao-tai-chinh.md](C19-chuan-muc-ke-toan-va-bao-cao-tai-chinh.md)).
-**Ý chính:** Tracy muốn người đọc hiểu rằng **dòng tiền là nhịp tim của doanh nghiệp, nên người quản lý, người cho vay và nhà đầu tư theo dõi nó rất sát; nhưng một bảng tóm tắt dòng tiền dù quan trọng vẫn không cho biết doanh nghiệp lãi bao nhiêu trong kỳ, cũng không cho biết cuối kỳ doanh nghiệp có những tài sản gì và nợ những gì.** Ví dụ trung tâm: trong năm vừa qua, doanh nghiệp ví dụ thu 51.680 nghìn USD từ khách hàng; chi 34.760 nghìn USD mua sản phẩm (mua nguyên liệu và các chi phí sản xuất), 11.630 nghìn USD cho chi phí hoạt động, 520 nghìn USD tiền lãi và 1.665 nghìn USD thuế thu nhập; hoạt động tạo lợi nhuận vì thế làm tiền tăng 3.105 nghìn USD. Doanh nghiệp vay thêm 625 nghìn USD và nhận thêm 175 nghìn USD vốn góp của cổ đông, chi 3.625 nghìn USD cho cải tạo nhà xưởng, máy móc, thiết bị mới và tài sản vô hình, và chia 750 nghìn USD cho cổ đông; nhóm này làm tiền giảm 3.575 nghìn USD. Kết quả là tiền giảm 470 nghìn USD trong năm. Con số 3.105 nghìn USD không phải là lợi nhuận của năm, vì tiền thu được có phần thuộc doanh thu năm trước, còn doanh thu năm nay có phần chưa thu; tiền chi mua sản phẩm có phần cho hàng còn nằm trong kho; và cuối năm vẫn còn những khoản chi phí chưa trả. Muốn đo đúng lợi nhuận và biết tình hình tài chính thì phải dùng kế toán dồn tích (accrual-basis accounting).
+## Ý chính
 
-> **Lưu ý:**
-> - Sách có lỗi in ở trang in 6: "cash ... deceased $470,000 during the year"; đúng ra là "decreased" (giảm). Tiêu đề mục ở cùng trang, "What Does Cash Flows Summary NOT Tell You?", thiếu mạo từ ("a" hoặc "the") nhưng nghĩa vẫn rõ.
-> - Bảng tóm tắt dòng tiền (Exhibit 1.1) cộng trừ đúng: 51.680 − 34.760 − 11.630 − 520 − 1.665 = 3.105; 625 + 175 − 3.625 − 750 = −3.575; 3.105 − 3.575 = −470 (đơn vị nghìn USD).
-> - Chương 1 không nêu số dư tiền đầu năm và cuối năm (Tracy cố ý nói bảng tóm tắt dòng tiền không cho biết số dư cuối kỳ). Bảng cân đối kế toán ở Chương 2 cho biết tiền đầu năm là 3.735 và cuối năm là 3.265 nghìn USD, khớp với mức giảm 470.
-> - Exhibit 1.1 gộp một số khoản mà Chương 2 tách riêng: 625 nghìn USD vay thêm gồm 125 vay ngắn hạn và 500 vay dài hạn; 3.625 nghìn USD đầu tư gồm 3.050 cho nhà xưởng, máy móc, thiết bị và 575 cho tài sản vô hình.
-> - Đối chiếu của người tổng hợp với số liệu Chương 2 (chương này không làm phép đối chiếu): tiền thu từ khách hàng 51.680 bằng doanh thu 52.000 trừ phần phải thu khách hàng tăng 320; tiền thuế 1.665 bằng chi phí thuế thu nhập 1.748 trừ phần thuế thu nhập phải nộp tăng 83; tiền lãi 520 thấp hơn chi phí lãi vay 545 là 25, phần lãi chưa trả này có lẽ nằm trong mức tăng chi phí phải trả 480 (suy luận của người tổng hợp). Tổng tiền chi cho sản phẩm và chi phí hoạt động (34.760 + 11.630 = 46.390) khớp với giá vốn hàng bán 33.800 cộng chi phí SG&A 12.480, cộng tồn kho tăng 935 và chi phí trả trước tăng 275, trừ phải trả người bán tăng 645 và trừ phần còn lại của chi phí phải trả tăng (480 − 25 = 455). Tracy không chia tách hai dòng 34.760 và 11.630 theo từng khoản nên không kiểm tra riêng được từng dòng.
-> - Câu cuối chương ("as I write this sentence, GAAP are undergoing dramatic changes ... GAAP merging with international ... standards") phản ánh kỳ vọng năm 2008–2009 rằng US GAAP sẽ hội tụ với IFRS. Theo hiểu biết của người tổng hợp, không tra cứu: kế hoạch hội tụ toàn diện đã dừng vào đầu thập niên 2010; hai bên chỉ ban hành chung một số chuẩn mực lớn (doanh thu ASC 606/IFRS 15, thuê tài sản ASC 842/IFRS 16 với khác biệt đáng kể), và SEC không chuyển các công ty Mỹ sang IFRS.
-> - Exhibit 1.1 trình bày dòng tiền từ hoạt động tạo lợi nhuận theo kiểu liệt kê từng dòng tiền thu và chi (về sau gọi là phương pháp trực tiếp). Theo hiểu biết của người tổng hợp, không tra cứu: GAAP Mỹ khuyến khích phương pháp này nhưng phần lớn doanh nghiệp dùng phương pháp gián tiếp, bắt đầu từ lợi nhuận ròng, và đó là dạng Tracy dùng ở Chương 2.
-> - Cách dịch tên các dòng của Exhibit 1.1 là của người tổng hợp; các câu trích ở mục "Câu nói đáng nhớ" là bản dịch của người tổng hợp.
+Tracy muốn người đọc hiểu rằng **dòng tiền là nhịp tim của doanh nghiệp, nên người quản lý, người cho vay và nhà đầu tư theo dõi nó rất sát; nhưng một bảng tóm tắt dòng tiền dù quan trọng vẫn không cho biết doanh nghiệp lãi bao nhiêu trong kỳ, cũng không cho biết cuối kỳ doanh nghiệp có những tài sản gì và nợ những gì.**
+
+Ví dụ trung tâm: trong năm vừa qua, doanh nghiệp ví dụ thu 51.680 nghìn USD từ khách hàng; chi 34.760 nghìn USD mua sản phẩm (mua nguyên liệu và các chi phí sản xuất), 11.630 nghìn USD cho chi phí hoạt động, 520 nghìn USD tiền lãi và 1.665 nghìn USD thuế thu nhập; hoạt động tạo lợi nhuận vì thế làm tiền tăng 3.105 nghìn USD.
+
+Doanh nghiệp vay thêm 625 nghìn USD và nhận thêm 175 nghìn USD vốn góp của cổ đông, chi 3.625 nghìn USD cho cải tạo nhà xưởng, máy móc, thiết bị mới và tài sản vô hình, và chia 750 nghìn USD cho cổ đông; nhóm này làm tiền giảm 3.575 nghìn USD. Kết quả là tiền giảm 470 nghìn USD trong năm.
+
+Con số 3.105 nghìn USD không phải là lợi nhuận của năm, vì tiền thu được có phần thuộc doanh thu năm trước, còn doanh thu năm nay có phần chưa thu; tiền chi mua sản phẩm có phần cho hàng còn nằm trong kho; và cuối năm vẫn còn những khoản chi phí chưa trả.
+
+Muốn đo đúng lợi nhuận và biết tình hình tài chính thì phải dùng kế toán dồn tích (accrual-basis accounting).
 
 ## Sơ đồ
 
@@ -242,7 +239,9 @@ Hơn nữa, bảng tóm tắt dòng tiền gần như không cho biết gì về
 
 ### 3. Không thể đo lợi nhuận bằng dòng tiền (Profit Cannot Be Measured by Cash Flows, trang in 7)
 
-**Doanh thu và tiền thu.** Doanh nghiệp ví dụ bán chịu: nó cho khách hàng một khoảng thời gian ngắn để trả tiền. Phần lớn khách hàng của nó là doanh nghiệp khác, và các doanh nghiệp này đòi được mua chịu. (Ngược lại, phần lớn nhà bán lẻ bán cho cá nhân thì nhận thẻ tín dụng chứ không cho khách nợ.) Trong năm doanh nghiệp thu 51.680.000 USD từ khách hàng. Nhưng một phần số tiền này là tiền của doanh thu năm trước, và một phần doanh thu bán chịu trong năm vừa qua chưa thu được vào cuối năm. Cuối năm, doanh nghiệp có các khoản phải thu từ doanh thu bán cho khách trong những tháng cuối năm; các khoản này sẽ thu vào đầu năm sau. Vì có tiền thu từ doanh thu năm trước và có doanh thu năm nay chưa thu tiền, tổng tiền thu trong năm không bằng doanh thu của năm.
+**Doanh thu và tiền thu.** Doanh nghiệp ví dụ bán chịu: nó cho khách hàng một khoảng thời gian ngắn để trả tiền. Phần lớn khách hàng của nó là doanh nghiệp khác, và các doanh nghiệp này đòi được mua chịu. (Ngược lại, phần lớn nhà bán lẻ bán cho cá nhân thì nhận thẻ tín dụng chứ không cho khách nợ.)
+
+Trong năm doanh nghiệp thu 51.680.000 USD từ khách hàng. Nhưng một phần số tiền này là tiền của doanh thu năm trước, và một phần doanh thu bán chịu trong năm vừa qua chưa thu được vào cuối năm. Cuối năm, doanh nghiệp có các khoản phải thu từ doanh thu bán cho khách trong những tháng cuối năm; các khoản này sẽ thu vào đầu năm sau. Vì có tiền thu từ doanh thu năm trước và có doanh thu năm nay chưa thu tiền, tổng tiền thu trong năm không bằng doanh thu của năm.
 
 **Giá vốn và tiền chi cho sản phẩm.** Tiền chi trong năm cũng không phải số đúng để đo chi phí. Doanh nghiệp đã trả 34.760.000 USD cho các sản phẩm để bán cho khách. Nhưng đến cuối năm, nhiều sản phẩm vẫn còn trong hàng tồn kho, chưa bán. Chỉ giá vốn của những sản phẩm đã bán và giao cho khách trong năm mới được trừ vào doanh thu như một khoản chi phí để tính lợi nhuận; Tracy hỏi lại người đọc "Bạn có đồng ý không?" để nhấn mạnh rằng điều này hợp lẽ thường.
 
@@ -298,7 +297,9 @@ Dòng tiền là thông tin sống còn của doanh nghiệp và là điểm xu�
 - Cần đọc cả ba báo cáo: báo cáo dòng tiền, báo cáo kết quả lợi nhuận và báo cáo tình hình tài chính. Người quản lý cần chúng để giữ khả năng trả nợ và để kiểm soát quy mô tài sản so với doanh thu; người cho vay và nhà đầu tư cần chúng vì cùng lý do.
 
 ### Trong ngôn ngữ kế toán và tài chính
-Chương này đặt nền cho phân biệt giữa kế toán tiền mặt (cash basis) và kế toán dồn tích (accrual basis). Lợi nhuận ròng (net income) là con số dồn tích; dòng tiền từ hoạt động kinh doanh (cash flow from operating activities) là con số tiền mặt; chênh lệch giữa chúng nằm ở thay đổi của các khoản vốn lưu động như phải thu khách hàng, hàng tồn kho, chi phí trả trước, phải trả người bán, chi phí phải trả, thuế thu nhập phải nộp, cùng với khấu hao. Bảng tóm tắt của chương này tương ứng với báo cáo lưu chuyển tiền tệ (statement of cash flows) lập theo kiểu liệt kê trực tiếp từng dòng thu chi; nhóm "các nguồn thu và khoản chi tiền khác" tương ứng với hoạt động đầu tư và hoạt động tài chính. Báo cáo tình hình tài chính là bảng cân đối kế toán (balance sheet); báo cáo kết quả lợi nhuận là báo cáo kết quả kinh doanh (income statement).
+Chương này đặt nền cho phân biệt giữa kế toán tiền mặt (cash basis) và kế toán dồn tích (accrual basis). Lợi nhuận ròng (net income) là con số dồn tích; dòng tiền từ hoạt động kinh doanh (cash flow from operating activities) là con số tiền mặt; chênh lệch giữa chúng nằm ở thay đổi của các khoản vốn lưu động như phải thu khách hàng, hàng tồn kho, chi phí trả trước, phải trả người bán, chi phí phải trả, thuế thu nhập phải nộp, cùng với khấu hao.
+
+Bảng tóm tắt của chương này tương ứng với báo cáo lưu chuyển tiền tệ (statement of cash flows) lập theo kiểu liệt kê trực tiếp từng dòng thu chi; nhóm "các nguồn thu và khoản chi tiền khác" tương ứng với hoạt động đầu tư và hoạt động tài chính. Báo cáo tình hình tài chính là bảng cân đối kế toán (balance sheet); báo cáo kết quả lợi nhuận là báo cáo kết quả kinh doanh (income statement).
 
 ## Thuật ngữ
 
@@ -380,3 +381,166 @@ Exhibit 1.1 liệt kê tiền thu từ khách hàng, tiền trả cho sản ph�
 - Người cho vay: một năm tiền giảm không có nghĩa là doanh nghiệp yếu; doanh nghiệp ví dụ tiền giảm 470 nghìn USD chủ yếu vì đầu tư 3.625 nghìn USD vào tài sản dài hạn, trong khi hoạt động tạo lợi nhuận vẫn tạo ra 3.105 nghìn USD.
 - Nhà đầu tư: cần tách tiền tự tạo ra từ hoạt động tạo lợi nhuận khỏi tiền huy động từ bên ngoài (800 nghìn USD vay và góp vốn) để biết doanh nghiệp tự nuôi được mình đến đâu.
 - Với người đọc Việt Nam (vận dụng định tính): báo cáo lưu chuyển tiền tệ theo chuẩn mực kế toán Việt Nam cũng có thể lập theo phương pháp trực tiếp hoặc gián tiếp, và cũng tách ba nhóm hoạt động kinh doanh, đầu tư, tài chính; phân biệt giữa tiền và lợi nhuận mà Tracy nêu áp dụng nguyên vẹn khi đọc báo cáo của doanh nghiệp Việt Nam, nhất là với doanh nghiệp bán chịu nhiều và có hàng tồn kho lớn.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 1 trên một trang: sáu nhánh lớn đi theo các mục 1–5 của phần Nội dung chi tiết (bảng tóm tắt dòng tiền, hai điều bảng ấy không cho biết, vì sao không đo được lợi nhuận bằng dòng tiền, vì sao cần thêm hai báo cáo, GAAP cùng phép đối chiếu với số liệu Chương 2), mỗi nhánh ghi định nghĩa, mối nối giữa các khoản mục và con số then chốt của doanh nghiệp ví dụ; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 1: dòng tiền là nhịp tim của doanh nghiệp nhưng không cho biết lợi nhuận và tình hình tài chính`"]
+  n1["`Mục 1 — Bảng tóm tắt dòng tiền năm vừa qua: tiền giảm 470 nghìn USD`"]
+  n0 --- n1
+  n2["`Tiền vào và tiền ra là nhịp tim#59; thiếu nhịp đều đặn, doanh nghiệp sẽ sớm chết`"]
+  n1 --- n2
+  n3["`Doanh nghiệp ví dụ có lãi đều, tín dụng tốt, cổ đông sẵn sàng góp thêm vốn`"]
+  n1 --- n3
+  n4["`Có lãi đều, huy động được vốn, tránh khó khăn tài chính đều phải nhờ quản lý giỏi`"]
+  n1 --- n4
+  n5["`Nhóm 1, hoạt động tạo lợi nhuận: tiền tăng 3.105 nghìn USD`"]
+  n1 --- n5
+  n6["`Thu từ khách hàng 51.680, kể cả một phần doanh thu năm trước`"]
+  n5 --- n6
+  n7["`Chi mua sản phẩm 34.760, chi phí hoạt động 11.630, lãi vay 520, thuế thu nhập 1.665`"]
+  n5 --- n7
+  n8["`Tracy gọi 3.105 là con số cực kỳ quan trọng mà người quản lý, người cho vay, nhà đầu tư theo dõi sát`"]
+  n5 --- n8
+  n9["`Nhóm 2, các nguồn thu và khoản chi tiền khác: tiền giảm 3.575 nghìn USD`"]
+  n1 --- n9
+  n10["`Vay thêm 625 và phát hành cổ phiếu 175: 800 vốn từ bên ngoài`"]
+  n9 --- n10
+  n11["`Chi 3.625 cải tạo nhà xưởng, máy móc, thiết bị mới và tài sản vô hình`"]
+  n9 --- n11
+  n12["`Chia 750 cho cổ đông từ lợi nhuận`"]
+  n9 --- n12
+  n13["`Cả năm: 3.105 − 3.575 = −470 nghìn USD`"]
+  n1 --- n13
+  n14["`Tiền giảm tự nó không tốt cũng không xấu, đừng vội kết luận`"]
+  n1 --- n14
+  n15["`Mục 2 — Hai điều bảng tóm tắt dòng tiền KHÔNG cho biết`"]
+  n0 --- n15
+  n16["`Thứ nhất: lợi nhuận (hoặc khoản lỗ) doanh nghiệp kiếm được trong kỳ`"]
+  n15 --- n16
+  n17["`Thứ hai: tình hình tài chính, tức tài sản đặt cạnh nợ phải trả cuối kỳ`"]
+  n15 --- n17
+  n18["`Tiền tăng 3.105 từ hoạt động tạo lợi nhuận không bằng lợi nhuận của năm`"]
+  n15 --- n18
+  n19["`Hai con số này khác nhau rất xa không phải chuyện hiếm`"]
+  n18 --- n19
+  n20["`Chương 2 cho biết lợi nhuận ròng năm đó là 2.642 nghìn USD`"]
+  n18 --- n20
+  n21["`Lợi nhuận là con số do kế toán xác định, đòi hỏi nhiều hơn ghi sổ séc tiền vào tiền ra`"]
+  n15 --- n21
+  n22["`Biết tiền giảm 470 nhưng không biết số dư tiền cuối năm là bao nhiêu`"]
+  n15 --- n22
+  n23["`Mục 3 — Không thể đo lợi nhuận bằng dòng tiền`"]
+  n0 --- n23
+  n24["`Tiền thu không bằng doanh thu vì bán chịu cho doanh nghiệp khác`"]
+  n23 --- n24
+  n25["`51.680 thu trong năm có phần là tiền của doanh thu năm trước`"]
+  n24 --- n25
+  n26["`Doanh thu cuối năm chưa thu thành phải thu khách hàng, thu vào đầu năm sau`"]
+  n24 --- n26
+  n27["`Tiền chi 34.760 cho sản phẩm không bằng giá vốn hàng bán`"]
+  n23 --- n27
+  n28["`Cuối năm nhiều sản phẩm còn trong hàng tồn kho, chưa bán`"]
+  n27 --- n28
+  n29["`Chỉ giá vốn của sản phẩm đã bán và giao cho khách mới trừ vào doanh thu`"]
+  n27 --- n29
+  n30["`Nguyên liệu mua chịu, vài tuần sau mới trả: cuối năm còn nợ người bán`"]
+  n27 --- n30
+  n31["`Tiền chi cho chi phí hoạt động, lãi vay, thuế không gồm chi phí chưa trả cuối năm`"]
+  n23 --- n31
+  n32["`Dòng tiền xảy ra quá muộn hoặc quá sớm so với kỳ cần đo lợi nhuận`"]
+  n23 --- n32
+  n33["`Kế toán dồn tích ghi doanh thu và chi phí vào đúng kỳ`"]
+  n23 --- n33
+  n34["`Ghi nhận phải thu khi bán chịu, nợ phải trả cho chi phí chưa trả`"]
+  n33 --- n34
+  n35["`Vừa đo đúng lợi nhuận, vừa ghi được tài sản và nợ phải trả`"]
+  n33 --- n35
+  n36["`Mục 4 — Dòng tiền không cho thấy tình hình tài chính: cần thêm hai báo cáo`"]
+  n0 --- n36
+  n37["`Người quản lý cần biết từng tài sản (tiền, phải thu, hàng tồn kho...) và từng khoản nợ phải trả`"]
+  n36 --- n37
+  n38["`Giữ khả năng trả nợ (solvent): trả được nợ khi đến hạn`"]
+  n36 --- n38
+  n39["`Xem tài sản có quá lớn hay quá nhỏ so với quy mô doanh thu`"]
+  n36 --- n39
+  n40["`Người cho vay và nhà đầu tư muốn biết đúng những điều đó`"]
+  n36 --- n40
+  n41["`Báo cáo tình hình tài chính là bảng cân đối kế toán: tài sản và nợ phải trả`"]
+  n36 --- n41
+  n42["`Báo cáo kết quả lợi nhuận là báo cáo kết quả kinh doanh: doanh thu, chi phí, lợi nhuận`"]
+  n36 --- n42
+  n43["`Phiên bản hơi khác của bảng tóm tắt là báo cáo lưu chuyển tiền tệ, một trong ba báo cáo chính`"]
+  n36 --- n43
+  n44["`Mục 5 và đối chiếu với Chương 2 — GAAP và mối nối giữa ba báo cáo`"]
+  n0 --- n44
+  n45["`Doanh nghiệp Mỹ phải theo GAAP khi đo lợi nhuận và trình bày tình hình tài chính`"]
+  n44 --- n45
+  n46["`Năm 2008–2009 Tracy kỳ vọng GAAP hợp nhất với chuẩn mực quốc tế`"]
+  n44 --- n46
+  n47["`Theo người tổng hợp: hội tụ toàn diện dừng đầu thập niên 2010, chỉ chung vài chuẩn mực như ASC 606/IFRS 15`"]
+  n46 --- n47
+  n48["`Tiền thu 51.680 = doanh thu 52.000 − phải thu khách hàng tăng 320`"]
+  n44 --- n48
+  n49["`Tiền thuế 1.665 = chi phí thuế thu nhập 1.748 − thuế thu nhập phải nộp tăng 83`"]
+  n44 --- n49
+  n50["`Tiền đầu năm 3.735, cuối năm 3.265 nghìn USD, khớp mức giảm 470`"]
+  n44 --- n50
+  n51["`Khấu hao 785 là chi phí không kèm tiền chi, chương này chưa nhắc tới`"]
+  n44 --- n51
+  n52["`Bảng liệt kê theo phương pháp trực tiếp, đa số công ty dùng phương pháp gián tiếp từ lợi nhuận ròng`"]
+  n44 --- n52
+  n53["`Nhóm 2 về sau tách thành hoạt động đầu tư và hoạt động tài chính`"]
+  n44 --- n53
+  n54["`Thông điệp xuyên suốt`"]
+  n0 --- n54
+  n55["`Đừng đánh giá doanh nghiệp chỉ qua việc tiền tăng hay giảm`"]
+  n54 --- n55
+  n56["`Đừng coi tiền tăng từ hoạt động tạo lợi nhuận là lợi nhuận`"]
+  n54 --- n56
+  n57["`Tiền giảm 470 chủ yếu vì đầu tư 3.625 vào tài sản dài hạn, không phải vì doanh nghiệp yếu`"]
+  n54 --- n57
+  n58["`Tách tiền tự tạo 3.105 khỏi 800 huy động bên ngoài để biết doanh nghiệp tự nuôi mình đến đâu`"]
+  n54 --- n58
+  n59["`Cần đọc cả ba báo cáo: dòng tiền, kết quả lợi nhuận, tình hình tài chính`"]
+  n54 --- n59
+  class n0 root
+  class n1,n15,n23,n36,n44,n54 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n13,n14,n16,n17,n18,n19,n20,n21,n22,n24,n25,n26,n27,n28,n29,n30,n31,n32,n33,n34,n35,n37,n38,n39,n40,n41,n42,n43,n45,n46,n47,n48,n49,n50,n51,n52,n53,n55,n56,n57,n58,n59 leaf
+```
+
+## Nguồn
+
+John A. Tracy, *How to Read a Financial Report: Wringing Vital Signs Out of the Numbers*, ấn bản thứ bảy (John Wiley & Sons, 2009), Phần Một "Components and Connections in Financial Statements", Chương 1 "Starting with Cash Flows", trang in 3–8 (trang in 1–2 là trang tên Phần Một).
+
+## Tác giả
+
+John A. Tracy, giáo sư kế toán danh dự Đại học Colorado ở Boulder, kế toán viên công chứng (CPA).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Đây là chương mở đầu của Phần Một "Components and Connections in Financial Statements" (Các thành phần và mối nối trong báo cáo tài chính), phần chiếm Chương 1 đến 15. Lời nói đầu ([00-loi-noi-dau.md](00-loi-noi-dau.md)) đã giới thiệu cuốn sách.
+
+Chương 1 chưa đưa ra bảng cân đối kế toán hay báo cáo kết quả kinh doanh; Tracy cố ý bắt đầu từ thứ người đọc quen nhất là tiền vào và tiền ra. Ông lập một bảng tóm tắt dòng tiền dạng không chính thức cho doanh nghiệp ví dụ (doanh nghiệp sản xuất và bán sản phẩm, hoạt động đã nhiều năm), rồi dùng chính bảng đó để chỉ ra hai điều mà dòng tiền không cho biết: lợi nhuận của kỳ và tình hình tài chính cuối kỳ. Hai khoảng trống ấy là lý do cần đến kế toán dồn tích và cần thêm hai báo cáo nữa.
+
+Chương 2 ([C02-ba-bao-cao-tai-chinh.md](C02-ba-bao-cao-tai-chinh.md)) giới thiệu ba báo cáo tài chính chính thức của cùng doanh nghiệp ví dụ, trong đó báo cáo lưu chuyển tiền tệ là "một phiên bản hơi khác" của bảng tóm tắt dòng tiền ở chương này. Chương 3 ([C03-loi-nhuan-khong-phai-la-tat-ca.md](C03-loi-nhuan-khong-phai-la-tat-ca.md)) và Chương 13 ([C13-dong-tien-tu-hoat-dong-kinh-doanh.md](C13-dong-tien-tu-hoat-dong-kinh-doanh.md)) quay lại câu hỏi vì sao dòng tiền từ hoạt động kinh doanh khác lợi nhuận ròng; Chương 14 ([C14-dong-tien-tu-hoat-dong-dau-tu-va-tai-chinh.md](C14-dong-tien-tu-hoat-dong-dau-tu-va-tai-chinh.md)) đi sâu vào nhóm dòng tiền thứ hai (đầu tư và tài chính). Đoạn cuối chương nhắc tới GAAP, chủ đề của Chương 19 ([C19-chuan-muc-ke-toan-va-bao-cao-tai-chinh.md](C19-chuan-muc-ke-toan-va-bao-cao-tai-chinh.md)).
+
+## Lưu ý
+
+- Sách có lỗi in ở trang in 6: "cash ... deceased $470,000 during the year"; đúng ra là "decreased" (giảm). Tiêu đề mục ở cùng trang, "What Does Cash Flows Summary NOT Tell You?", thiếu mạo từ ("a" hoặc "the") nhưng nghĩa vẫn rõ.
+- Bảng tóm tắt dòng tiền (Exhibit 1.1) cộng trừ đúng: 51.680 − 34.760 − 11.630 − 520 − 1.665 = 3.105; 625 + 175 − 3.625 − 750 = −3.575; 3.105 − 3.575 = −470 (đơn vị nghìn USD).
+- Chương 1 không nêu số dư tiền đầu năm và cuối năm (Tracy cố ý nói bảng tóm tắt dòng tiền không cho biết số dư cuối kỳ). Bảng cân đối kế toán ở Chương 2 cho biết tiền đầu năm là 3.735 và cuối năm là 3.265 nghìn USD, khớp với mức giảm 470.
+- Exhibit 1.1 gộp một số khoản mà Chương 2 tách riêng: 625 nghìn USD vay thêm gồm 125 vay ngắn hạn và 500 vay dài hạn; 3.625 nghìn USD đầu tư gồm 3.050 cho nhà xưởng, máy móc, thiết bị và 575 cho tài sản vô hình.
+- Đối chiếu của người tổng hợp với số liệu Chương 2 (chương này không làm phép đối chiếu): tiền thu từ khách hàng 51.680 bằng doanh thu 52.000 trừ phần phải thu khách hàng tăng 320; tiền thuế 1.665 bằng chi phí thuế thu nhập 1.748 trừ phần thuế thu nhập phải nộp tăng 83; tiền lãi 520 thấp hơn chi phí lãi vay 545 là 25, phần lãi chưa trả này có lẽ nằm trong mức tăng chi phí phải trả 480 (suy luận của người tổng hợp).
+
+  Tổng tiền chi cho sản phẩm và chi phí hoạt động (34.760 + 11.630 = 46.390) khớp với giá vốn hàng bán 33.800 cộng chi phí SG&A 12.480, cộng tồn kho tăng 935 và chi phí trả trước tăng 275, trừ phải trả người bán tăng 645 và trừ phần còn lại của chi phí phải trả tăng (480 − 25 = 455). Tracy không chia tách hai dòng 34.760 và 11.630 theo từng khoản nên không kiểm tra riêng được từng dòng.
+- Câu cuối chương ("as I write this sentence, GAAP are undergoing dramatic changes ... GAAP merging with international ... standards") phản ánh kỳ vọng năm 2008–2009 rằng US GAAP sẽ hội tụ với IFRS. Theo hiểu biết của người tổng hợp, không tra cứu: kế hoạch hội tụ toàn diện đã dừng vào đầu thập niên 2010; hai bên chỉ ban hành chung một số chuẩn mực lớn (doanh thu ASC 606/IFRS 15, thuê tài sản ASC 842/IFRS 16 với khác biệt đáng kể), và SEC không chuyển các công ty Mỹ sang IFRS.
+- Exhibit 1.1 trình bày dòng tiền từ hoạt động tạo lợi nhuận theo kiểu liệt kê từng dòng tiền thu và chi (về sau gọi là phương pháp trực tiếp). Theo hiểu biết của người tổng hợp, không tra cứu: GAAP Mỹ khuyến khích phương pháp này nhưng phần lớn doanh nghiệp dùng phương pháp gián tiếp, bắt đầu từ lợi nhuận ròng, và đó là dạng Tracy dùng ở Chương 2.
+- Cách dịch tên các dòng của Exhibit 1.1 là của người tổng hợp; các câu trích ở mục "Câu nói đáng nhớ" là bản dịch của người tổng hợp.

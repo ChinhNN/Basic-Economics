@@ -1,18 +1,14 @@
 # Chương 15 — Thuyết minh báo cáo tài chính (Footnotes to Financial Statements)
 
-**Nguồn:** John A. Tracy, *How to Read a Financial Report: Wringing Vital Signs Out of the Numbers*, ấn bản thứ bảy (John Wiley & Sons, 2009), Phần Một "Components and Connections in Financial Statements", Chương 15 "Footnotes to Financial Statements", trang in 101–108 (sơ đồ mở chương, Exhibit 15.1, in ở trang in 100, ngay trước trang tên chương).
-**Tác giả:** John A. Tracy, giáo sư kế toán danh dự Đại học Colorado ở Boulder, kế toán viên công chứng (CPA).
-**Vị trí trong lập luận của cả cuốn sách:** Chương 15 là chương cuối của Phần Một. Từ Chương 2 đến Chương 14, Tracy đã đi qua từng khoản mục của ba báo cáo tài chính của doanh nghiệp ví dụ (doanh thu 52 triệu USD/năm) và từng mối nối giữa báo cáo kết quả kinh doanh với bảng cân đối kế toán; Chương 13 và Chương 14 ([C13-dong-tien-tu-hoat-dong-kinh-doanh.md](C13-dong-tien-tu-hoat-dong-kinh-doanh.md), [C14-dong-tien-tu-hoat-dong-dau-tu-va-tai-chinh.md](C14-dong-tien-tu-hoat-dong-dau-tu-va-tai-chinh.md)) hoàn tất báo cáo lưu chuyển tiền tệ. Chương 15 khép Phần Một bằng cách ôn lại ba báo cáo trong vài đoạn, rồi bổ sung "phần thứ tư" của mọi báo cáo tài chính: thuyết minh báo cáo tài chính (footnotes). Chương này không có con số của doanh nghiệp ví dụ; thay vào đó Tracy trích hai đoạn thuyết minh thật của Caterpillar Inc. năm 2007 (về hàng tồn kho theo LIFO và về khấu hao). Các chương sau dùng lại ý của chương này: Chương 16 ([C16-tac-dong-cua-tang-truong-va-suy-giam-len-dong-tien.md](C16-tac-dong-cua-tang-truong-va-suy-giam-len-dong-tien.md)) mở đầu Phần Hai về phân tích báo cáo tài chính; Chương 19–20 ([C19-chuan-muc-ke-toan-va-bao-cao-tai-chinh.md](C19-chuan-muc-ke-toan-va-bao-cao-tai-chinh.md), [C20-phuong-phap-ke-toan-va-lam-dep-so-lieu.md](C20-phuong-phap-ke-toan-va-lam-dep-so-lieu.md)) bàn sâu về chuẩn mực và lựa chọn phương pháp kế toán, đúng loại thông tin mà thuyết minh phải công bố; Chương 21 ([C21-kiem-toan-bao-cao-tai-chinh-thoi-hau-enron.md](C21-kiem-toan-bao-cao-tai-chinh-thoi-hau-enron.md)) bàn về kiểm toán, mà Tracy hẹn trước ngay trong chương này.
-**Ý chính:** Tracy muốn người đọc hiểu rằng **ba báo cáo tài chính chỉ là bản tóm tắt cô đặc, mỗi báo cáo gói trong một hoặc hai trang, nên chúng chưa đầy đủ và có thể gây hiểu nhầm nếu đọc mà không có thuyết minh; thuyết minh là phần không tách rời của báo cáo tài chính, do ban lãnh đạo chịu trách nhiệm và được kiểm toán viên kiểm toán cùng với ba báo cáo**. Thuyết minh có hai loại: loại thứ nhất nêu các phương pháp kế toán doanh nghiệp đã chọn; loại thứ hai cung cấp thông tin không thể đưa vào thân báo cáo (kỳ hạn và lãi suất của nợ vay, tiền thuê theo hợp đồng thuê dài hạn, quyền chọn cổ phiếu, kiện tụng, lương hưu...). Ví dụ trung tâm là thuyết minh hàng tồn kho của Caterpillar năm 2007: công ty dùng phương pháp nhập sau xuất trước (LIFO) cho khoảng 75% hàng tồn kho, và nếu dùng nhập trước xuất trước (FIFO) thì hàng tồn kho cuối năm 2007 sẽ cao hơn số báo cáo 2.617 triệu USD, tức hơn 2 tỷ USD, chỉ vì một lựa chọn phương pháp kế toán. Tracy cũng cảnh báo thẳng: ban lãnh đạo có nhiều quyền tuỳ ý về mức độ thẳng thắn và chi tiết trong thuyết minh, quy định chỉ bắt có thuyết minh chứ không bắt viết cho rõ, nên nhiều thuyết minh viết tối nghĩa, nặng tính pháp lý, nhất là về những chuyện nhạy cảm; người đọc chỉ còn cách đọc đi đọc lại những thuyết minh quan trọng.
+## Ý chính
 
-> **Lưu ý:**
-> - **Vị trí của Exhibit 15.1.** Sách viết Exhibit 15.1 nằm "ở đầu chương" (at the start of the chapter), nhưng trong bản in sơ đồ này nằm ở trang in 100, tức trang ngay trước trang tên Chương 15 (trang in 101). Đây chỉ là chuyện dàn trang; nội dung sơ đồ được chép lại đầy đủ trong bản tổng hợp này.
-> - **Câu "không còn phải phân bổ dần tài sản vô hình" viết quá gọn.** Tracy viết rằng doanh nghiệp "không còn bắt buộc phải phân bổ dần một cách có hệ thống chi phí của tài sản vô hình". Theo hiểu biết của người tổng hợp, không tra cứu: quy định mới từ năm 2001–2002 (FAS 142) chỉ bỏ phân bổ dần đối với lợi thế thương mại và tài sản vô hình có thời gian sử dụng không xác định; tài sản vô hình có thời gian sử dụng xác định (bằng sáng chế, danh sách khách hàng mua lại...) vẫn phải phân bổ dần. Chính đoạn thuyết minh của Caterpillar mà Tracy trích ngay trước câu đó cũng nói công ty phân bổ dần tài sản vô hình mua về theo phương pháp đường thẳng, thường không quá 20 năm.
-> - **Yêu cầu của SEC về báo cáo so sánh ba năm.** Tracy viết SEC yêu cầu báo cáo tài chính so sánh ba năm. Theo hiểu biết của người tổng hợp, không tra cứu: SEC yêu cầu ba năm cho báo cáo kết quả kinh doanh, báo cáo lưu chuyển tiền tệ và báo cáo biến động vốn chủ sở hữu, nhưng chỉ hai năm cho bảng cân đối kế toán; công ty báo cáo quy mô nhỏ (smaller reporting companies) được trình bày hai năm.
-> - **Số liệu và quy định đã cũ.** Con số "khoảng 10.000 công ty đại chúng ở Mỹ" là ước tính quanh năm 2008; theo hiểu biết của người tổng hợp, số công ty niêm yết trên các sàn lớn của Mỹ đã giảm đáng kể từ cuối thập niên 1990. Câu "hàng tồn kho được ghi theo giá thấp hơn giữa giá gốc và giá thị trường" (lower of cost or market) trong thuyết minh Caterpillar: theo hiểu biết của người tổng hợp, từ khoảng năm 2017 (ASU 2015-11) quy tắc này đổi thành "giá thấp hơn giữa giá gốc và giá trị thuần có thể thực hiện được" cho hàng tồn kho không dùng LIFO hay phương pháp bán lẻ; LIFO vẫn dùng quy tắc cũ. LIFO không được phép theo IFRS. Tiền thuê theo hợp đồng thuê hoạt động (operating leases), mà Tracy nói chỉ được nêu trong thuyết minh, từ năm 2019 (ASC 842 / IFRS 16) phần lớn đã phải ghi nhận trên bảng cân đối kế toán dưới dạng tài sản quyền sử dụng và nợ thuê.
-> - **Đoạn trích Caterpillar dùng đơn vị triệu USD**, khác với đơn vị nghìn USD của doanh nghiệp ví dụ ở các chương trước; Tracy có nhắc điều này. Cụm "Statement 1" trong đoạn trích là cách Caterpillar đánh số báo cáo kết quả kinh doanh hợp nhất của họ.
-> - Chương này không có lỗi số học nào: các con số đều là số trích từ báo cáo của Caterpillar, không có phép cộng trừ. Các phép tính trên số Caterpillar trong bản tổng hợp (tỷ lệ phần trăm, mức chênh lệch giữa các năm) do người tổng hợp tính thêm và được ghi rõ như vậy.
-> - Mục cuối chương mang tiêu đề "Accounting Issues" (Các vấn đề kế toán) nhưng nội dung thực ra chỉ bàn về việc thuyết minh khó đọc.
+Tracy muốn người đọc hiểu rằng **ba báo cáo tài chính chỉ là bản tóm tắt cô đặc, mỗi báo cáo gói trong một hoặc hai trang, nên chúng chưa đầy đủ và có thể gây hiểu nhầm nếu đọc mà không có thuyết minh; thuyết minh là phần không tách rời của báo cáo tài chính, do ban lãnh đạo chịu trách nhiệm và được kiểm toán viên kiểm toán cùng với ba báo cáo**.
+
+Thuyết minh có hai loại: loại thứ nhất nêu các phương pháp kế toán doanh nghiệp đã chọn; loại thứ hai cung cấp thông tin không thể đưa vào thân báo cáo (kỳ hạn và lãi suất của nợ vay, tiền thuê theo hợp đồng thuê dài hạn, quyền chọn cổ phiếu, kiện tụng, lương hưu...).
+
+Ví dụ trung tâm là thuyết minh hàng tồn kho của Caterpillar năm 2007: công ty dùng phương pháp nhập sau xuất trước (LIFO) cho khoảng 75% hàng tồn kho, và nếu dùng nhập trước xuất trước (FIFO) thì hàng tồn kho cuối năm 2007 sẽ cao hơn số báo cáo 2.617 triệu USD, tức hơn 2 tỷ USD, chỉ vì một lựa chọn phương pháp kế toán.
+
+Tracy cũng cảnh báo thẳng: ban lãnh đạo có nhiều quyền tuỳ ý về mức độ thẳng thắn và chi tiết trong thuyết minh, quy định chỉ bắt có thuyết minh chứ không bắt viết cho rõ, nên nhiều thuyết minh viết tối nghĩa, nặng tính pháp lý, nhất là về những chuyện nhạy cảm. Người đọc chỉ còn cách đọc đi đọc lại những thuyết minh quan trọng.
 
 ## Sơ đồ
 
@@ -308,7 +304,9 @@ Trong sơ đồ, Tài sản nằm ở cột trái của hộp bảng cân đối
 
 Tracy nói Exhibit 15.1 cho thấy các thành phần chính của ba báo cáo tài chính và cho thấy thuyết minh đi kèm ba báo cáo đó. Thuyết minh là phần thiết yếu thứ tư của mọi báo cáo tài chính: một báo cáo tài chính gồm ba báo cáo cộng với thuyết minh của chúng. Chương này giải thích lý do cần thuyết minh và các vấn đề của thuyết minh. Trước khi vào chủ đề, Tracy ôn lại ba báo cáo đã giải thích ở các chương trước.
 
-**Bảng cân đối kế toán (balance sheet).** Còn được gọi là báo cáo tình hình tài chính (statement of financial condition). Đây là bản tóm tắt tài sản, nợ phải trả và vốn chủ sở hữu (của chủ sở hữu, hay cổ đông) của công ty tại thời điểm kết thúc ngày làm việc cuối cùng của kỳ báo cáo kết quả kinh doanh. Muốn hiểu bảng cân đối kế toán, người đọc cần nắm ba sự phân biệt. Thứ nhất, sự khác nhau giữa các loại tài sản cơ bản, ví dụ hàng tồn kho (inventory) khác với nhà xưởng, máy móc, thiết bị (property, plant, and equipment). Thứ hai, sự khác nhau giữa nợ phát sinh từ hoạt động (operating liabilities), chủ yếu là phải trả người bán (accounts payable) và chi phí phải trả (accrued expenses payable), với nợ vay mà doanh nghiệp phải trả lãi. Thứ ba, sự khác nhau giữa hai nguồn của vốn chủ sở hữu: vốn do chủ sở hữu đầu tư vào doanh nghiệp, và lợi nhuận đã làm ra nhưng chưa chia cho chủ sở hữu, gọi là lợi nhuận giữ lại (retained earnings).
+**Bảng cân đối kế toán (balance sheet).** Còn được gọi là báo cáo tình hình tài chính (statement of financial condition). Đây là bản tóm tắt tài sản, nợ phải trả và vốn chủ sở hữu (của chủ sở hữu, hay cổ đông) của công ty tại thời điểm kết thúc ngày làm việc cuối cùng của kỳ báo cáo kết quả kinh doanh.
+
+Muốn hiểu bảng cân đối kế toán, người đọc cần nắm ba sự phân biệt. Thứ nhất, sự khác nhau giữa các loại tài sản cơ bản, ví dụ hàng tồn kho (inventory) khác với nhà xưởng, máy móc, thiết bị (property, plant, and equipment). Thứ hai, sự khác nhau giữa nợ phát sinh từ hoạt động (operating liabilities), chủ yếu là phải trả người bán (accounts payable) và chi phí phải trả (accrued expenses payable), với nợ vay mà doanh nghiệp phải trả lãi. Thứ ba, sự khác nhau giữa hai nguồn của vốn chủ sở hữu: vốn do chủ sở hữu đầu tư vào doanh nghiệp, và lợi nhuận đã làm ra nhưng chưa chia cho chủ sở hữu, gọi là lợi nhuận giữ lại (retained earnings).
 
 **Báo cáo kết quả kinh doanh (income statement).** Đây là bản tóm tắt doanh thu bán hàng và chi phí của kỳ, tức hoạt động tạo ra lợi nhuận của doanh nghiệp, và tất nhiên báo cáo lợi nhuận ở dòng cuối cùng, tức lợi nhuận ròng (net income) của kỳ. Công ty cổ phần đại chúng phải báo cáo lợi nhuận trên mỗi cổ phiếu (EPS) cùng với báo cáo kết quả kinh doanh; công ty không đại chúng thì không phải báo cáo EPS.
 
@@ -378,7 +376,7 @@ Bảng: chi phí khấu hao của Caterpillar (theo thuyết minh trong mẫu 10
 
 Hai cột cuối do người tổng hợp tính, với giả định (hợp lý theo cách diễn đạt của thuyết minh, nhưng thuyết minh không nói rõ) rằng tổng khấu hao hợp nhất đã bao gồm khấu hao thiết bị cho thuê. Điều đáng chú ý cho người đọc là trong cùng một công ty có hai phương pháp khấu hao khác nhau cho hai nhóm tài sản, và một phần đáng kể chi phí khấu hao nằm trong khoản "chi phí hoạt động khác" chứ không đứng thành dòng riêng; chỉ thuyết minh mới cho biết điều này.
 
-Tracy ghi thêm bên lề: các công ty nay không còn bắt buộc phải xoá sổ (phân bổ dần) một cách có hệ thống chi phí tài sản vô hình của mình, điều ông đã bàn ở Chương 9 (theo Chương 9, thay vì phân bổ dần, doanh nghiệp đánh giá hằng năm xem tài sản vô hình có bị suy giảm giá trị không và ghi giảm khi có suy giảm; xem phần Lưu ý về phạm vi thực của quy định này).
+Tracy ghi thêm bên lề: các công ty nay không còn bắt buộc phải xoá sổ (phân bổ dần) một cách có hệ thống chi phí tài sản vô hình của mình, điều ông đã bàn ở Chương 9 (theo Chương 9, thay vì phân bổ dần, doanh nghiệp đánh giá hằng năm xem tài sản vô hình có bị suy giảm giá trị không và ghi giảm khi có suy giảm; xem mục Lưu ý cuối chương về phạm vi thực của quy định này).
 
 **Thuyết minh về hợp nhất.** Một loại thuyết minh thường gặp khác giải thích việc hợp nhất báo cáo tài chính của công ty. Phần lớn doanh nghiệp lớn là một "gia đình" các công ty dưới quyền kiểm soát của một công ty mẹ. Báo cáo tài chính của từng công ty được gộp lại thành một bộ báo cáo tài chính thống nhất. Các giao dịch giữa các công ty trong nhóm được loại bỏ, như thể chỉ có một đơn vị duy nhất. Những công ty liên kết (affiliated companies) mà doanh nghiệp có đầu tư nhưng không nắm quyền kiểm soát (controlling interest) thì không được hợp nhất.
 
@@ -460,7 +458,9 @@ Một báo cáo tài chính gồm bốn phần thiết yếu: bảng cân đối
 
 ### Trong ngôn ngữ kế toán và tài chính
 
-Bộ báo cáo tài chính hoàn chỉnh gồm các báo cáo chính và phần thuyết minh (notes to the financial statements). Thuyết minh thường mở đầu bằng tóm tắt các chính sách kế toán quan trọng (summary of significant accounting policies: phương pháp tính giá hàng tồn kho, khấu hao, phân bổ dần, nguyên tắc hợp nhất, ghi nhận doanh thu), tiếp theo là các thuyết minh chi tiết cho từng khoản mục và các thuyết minh về cam kết và nợ tiềm tàng (commitments and contingencies), lương hưu và phúc lợi sau nghỉ hưu, thù lao bằng cổ phiếu. Nguyên tắc chi phối là công bố thông tin đầy đủ (full/adequate disclosure). Khoản chênh lệch giữa hàng tồn kho theo FIFO và theo LIFO mà Caterpillar công bố được giới phân tích gọi là dự phòng LIFO (LIFO reserve); thuật ngữ này không xuất hiện trong chương nhưng là tên thường dùng cho con số 2.617 triệu USD (theo hiểu biết của người tổng hợp).
+Bộ báo cáo tài chính hoàn chỉnh gồm các báo cáo chính và phần thuyết minh (notes to the financial statements). Thuyết minh thường mở đầu bằng tóm tắt các chính sách kế toán quan trọng (summary of significant accounting policies: phương pháp tính giá hàng tồn kho, khấu hao, phân bổ dần, nguyên tắc hợp nhất, ghi nhận doanh thu), tiếp theo là các thuyết minh chi tiết cho từng khoản mục và các thuyết minh về cam kết và nợ tiềm tàng (commitments and contingencies), lương hưu và phúc lợi sau nghỉ hưu, thù lao bằng cổ phiếu.
+
+Nguyên tắc chi phối là công bố thông tin đầy đủ (full/adequate disclosure). Khoản chênh lệch giữa hàng tồn kho theo FIFO và theo LIFO mà Caterpillar công bố được giới phân tích gọi là dự phòng LIFO (LIFO reserve); thuật ngữ này không xuất hiện trong chương nhưng là tên thường dùng cho con số 2.617 triệu USD (theo hiểu biết của người tổng hợp).
 
 ## Thuật ngữ
 
@@ -550,7 +550,9 @@ Thay vì nói chung chung rằng "phương pháp kế toán có ảnh hưởng",
 
 ### Chương viết ngắn và chỉ phác qua nhiều loại thuyết minh quan trọng
 
-So với các chương trước, Chương 15 không có ví dụ số của doanh nghiệp ví dụ và chỉ liệt kê các loại thuyết minh loại 2 (nợ dài hạn, thuê, quyền chọn cổ phiếu, kiện tụng, lương hưu, y tế sau nghỉ hưu) trong vài câu, không minh hoạ cái nào. Một số thuyết minh thuộc loại quan trọng nhất với người phân tích không được nhắc tới, ví dụ (theo hiểu biết của người tổng hợp) thuyết minh về ghi nhận doanh thu, thông tin theo bộ phận kinh doanh (segment information), các bên liên quan (related parties), sự kiện sau ngày kết thúc kỳ, nợ tiềm tàng và các thoả thuận ngoài bảng cân đối kế toán. Chương cũng không phân biệt thuyết minh với phần thảo luận và phân tích của ban lãnh đạo (MD&A) trong báo cáo năm. Người đọc nên coi danh sách của Tracy là danh sách minh hoạ, không phải đầy đủ.
+So với các chương trước, Chương 15 không có ví dụ số của doanh nghiệp ví dụ và chỉ liệt kê các loại thuyết minh loại 2 (nợ dài hạn, thuê, quyền chọn cổ phiếu, kiện tụng, lương hưu, y tế sau nghỉ hưu) trong vài câu, không minh hoạ cái nào.
+
+Một số thuyết minh thuộc loại quan trọng nhất với người phân tích không được nhắc tới, ví dụ (theo hiểu biết của người tổng hợp) thuyết minh về ghi nhận doanh thu, thông tin theo bộ phận kinh doanh (segment information), các bên liên quan (related parties), sự kiện sau ngày kết thúc kỳ, nợ tiềm tàng và các thoả thuận ngoài bảng cân đối kế toán. Chương cũng không phân biệt thuyết minh với phần thảo luận và phân tích của ban lãnh đạo (MD&A) trong báo cáo năm. Người đọc nên coi danh sách của Tracy là danh sách minh hoạ, không phải đầy đủ.
 
 ### Một số quy định Tracy nêu đã thay đổi đáng kể từ năm 2009
 
@@ -564,11 +566,15 @@ Theo hiểu biết của người tổng hợp, không tra cứu:
 
 ### Lời phàn nàn của Tracy về thuyết minh khó đọc vẫn còn nguyên giá trị, nhưng vấn đề đã đổi dạng
 
-Tracy than thuyết minh dày đặc và tối nghĩa. Theo hiểu biết của người tổng hợp, từ đó tới nay vấn đề phần nào chuyển thành "quá tải công bố thông tin" (disclosure overload): báo cáo năm của công ty lớn dài thêm nhiều, thuyết minh lặp lại câu chữ mẫu từ năm này sang năm khác. FASB và SEC đã có các dự án nhằm làm thuyết minh hữu ích hơn (khung công bố thông tin của FASB, chương trình đơn giản hoá công bố của SEC), và từ năm 2019 báo cáo kiểm toán của công ty đại chúng lớn ở Mỹ phải nêu các vấn đề kiểm toán trọng yếu (critical audit matters), giúp người đọc biết kiểm toán viên coi đâu là chỗ khó và nhạy cảm nhất. Định dạng dữ liệu XBRL cho phép tách và so sánh thuyết minh bằng máy. Tuy vậy, lời khuyên của Tracy, tìm thuyết minh quan trọng rồi đọc kỹ, vẫn là cách làm đúng.
+Tracy than thuyết minh dày đặc và tối nghĩa. Theo hiểu biết của người tổng hợp, từ đó tới nay vấn đề phần nào chuyển thành "quá tải công bố thông tin" (disclosure overload): báo cáo năm của công ty lớn dài thêm nhiều, thuyết minh lặp lại câu chữ mẫu từ năm này sang năm khác.
+
+FASB và SEC đã có các dự án nhằm làm thuyết minh hữu ích hơn (khung công bố thông tin của FASB, chương trình đơn giản hoá công bố của SEC), và từ năm 2019 báo cáo kiểm toán của công ty đại chúng lớn ở Mỹ phải nêu các vấn đề kiểm toán trọng yếu (critical audit matters), giúp người đọc biết kiểm toán viên coi đâu là chỗ khó và nhạy cảm nhất. Định dạng dữ liệu XBRL cho phép tách và so sánh thuyết minh bằng máy. Tuy vậy, lời khuyên của Tracy, tìm thuyết minh quan trọng rồi đọc kỹ, vẫn là cách làm đúng.
 
 ### Có quan điểm trái chiều về việc ban lãnh đạo "giấu" thông tin trong thuyết minh
 
-Tracy nghiêng về cách hiểu rằng thuyết minh khó đọc phần lớn do ban lãnh đạo cố ý né tránh. Một quan điểm khác (theo hiểu biết của người tổng hợp) cho rằng nhiều phần khó đọc là do bản chất phức tạp của giao dịch (công cụ phái sinh, kế hoạch lương hưu, hợp nhất các thực thể đặc biệt) và do áp lực pháp lý: doanh nghiệp viết theo giọng pháp lý để tránh bị kiện vì công bố sai, chứ không hẳn để che giấu. Chính Tracy cũng thừa nhận chuẩn "công bố thông tin đầy đủ" mơ hồ và rằng ban lãnh đạo có lý do chính đáng để giữ bí mật cạnh tranh. Hai cách nhìn này không loại trừ nhau; người đọc nên chú ý nhất khi thuyết minh về chuyện nhạy cảm (kiện tụng, dự án bỏ dở) đặc biệt mơ hồ, đúng như Tracy chỉ ra.
+Tracy nghiêng về cách hiểu rằng thuyết minh khó đọc phần lớn do ban lãnh đạo cố ý né tránh. Một quan điểm khác (theo hiểu biết của người tổng hợp) cho rằng nhiều phần khó đọc là do bản chất phức tạp của giao dịch (công cụ phái sinh, kế hoạch lương hưu, hợp nhất các thực thể đặc biệt) và do áp lực pháp lý: doanh nghiệp viết theo giọng pháp lý để tránh bị kiện vì công bố sai, chứ không hẳn để che giấu.
+
+Chính Tracy cũng thừa nhận chuẩn "công bố thông tin đầy đủ" mơ hồ và rằng ban lãnh đạo có lý do chính đáng để giữ bí mật cạnh tranh. Hai cách nhìn này không loại trừ nhau; người đọc nên chú ý nhất khi thuyết minh về chuyện nhạy cảm (kiện tụng, dự án bỏ dở) đặc biệt mơ hồ, đúng như Tracy chỉ ra.
 
 ### Vận dụng cho nhà quản lý, người cho vay và nhà đầu tư
 
@@ -576,3 +582,177 @@ Tracy nghiêng về cách hiểu rằng thuyết minh khó đọc phần lớn d
 - **Người cho vay:** đọc kỹ thuyết minh về nợ dài hạn (kỳ hạn, lãi suất, tài sản bảo đảm), các cam kết thuê và nghĩa vụ hưu trí, y tế sau nghỉ hưu để biết doanh nghiệp còn những nghĩa vụ nào cạnh tranh với khoản vay của mình.
 - **Nhà đầu tư:** xem thuyết minh về phương pháp kế toán trước khi so sánh lợi nhuận hay hàng tồn kho giữa các công ty; xem thuyết minh về quyền chọn cổ phiếu để biết EPS có thể bị pha loãng bao nhiêu; xem thuyết minh về kiện tụng để biết rủi ro chưa hiện trên các con số.
 - **Người đọc Việt Nam:** báo cáo tài chính theo chế độ kế toán Việt Nam cũng có phần thuyết minh báo cáo tài chính đi kèm, gồm chính sách kế toán áp dụng và thuyết minh chi tiết từng khoản mục. Bài học của Tracy áp dụng nguyên vẹn ở mức định tính: đừng chỉ đọc bảng cân đối kế toán và báo cáo kết quả kinh doanh; hãy đọc chính sách kế toán, chi tiết nợ vay, giao dịch với bên liên quan và các khoản nợ tiềm tàng trong thuyết minh, và đọc kỹ nhất những đoạn viết mơ hồ về chuyện nhạy cảm.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 15 trên một trang: sáu nhánh lớn đi theo các mục 1–6 của phần Nội dung chi tiết và phần Đánh giá (ba báo cáo cộng thuyết minh, vì sao cần thuyết minh, thuyết minh loại 1 về phương pháp kế toán với hai ví dụ Caterpillar, thuyết minh loại 2 về thông tin ngoài thân báo cáo, quyền tuỳ ý của ban lãnh đạo và thuyết minh khó đọc, đánh giá), mỗi nhánh ghi định nghĩa, quy tắc và con số then chốt (số Caterpillar tính bằng triệu USD); nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 15: thuyết minh là phần thứ tư không tách rời của báo cáo tài chính, thiếu nó ba báo cáo chưa đầy đủ và có thể gây hiểu nhầm`"]
+  n1["`Mục 1–2 — Bộ báo cáo tài chính gồm ba báo cáo cô đặc cộng thuyết minh gắn với cả ba`"]
+  n0 --- n1
+  n2["`Bảng cân đối kế toán: tài sản, nợ phải trả, vốn chủ sở hữu tại ngày cuối kỳ`"]
+  n1 --- n2
+  n3["`Phân biệt nợ phát sinh từ hoạt động (phải trả người bán, chi phí phải trả) với nợ vay chịu lãi`"]
+  n1 --- n3
+  n4["`Vốn chủ sở hữu có hai nguồn: vốn chủ sở hữu góp và lợi nhuận giữ lại`"]
+  n1 --- n4
+  n5["`Báo cáo kết quả kinh doanh: doanh thu, chi phí, lợi nhuận ròng, công ty đại chúng phải báo cáo EPS`"]
+  n1 --- n5
+  n6["`Báo cáo lưu chuyển tiền tệ: dòng tiền từ lợi nhuận không bằng lợi nhuận ròng, chia ba nhóm kinh doanh, đầu tư, tài chính`"]
+  n1 --- n6
+  n7["`Ba báo cáo trả lời ba yêu cầu bắt buộc: làm ra lợi nhuận, giữ tài chính lành mạnh, dùng dòng tiền tốt`"]
+  n1 --- n7
+  n8["`GAAP không bắt buộc hẳn, SEC yêu cầu báo cáo so sánh ba năm`"]
+  n1 --- n8
+  n9["`Khoảng 10.000 công ty đại chúng ở Mỹ bắt buộc kiểm toán độc lập, phần lớn do Big Four`"]
+  n1 --- n9
+  n10["`Hàng triệu doanh nghiệp tư nhân nhìn chung không bị luật bắt kiểm toán`"]
+  n1 --- n10
+  n11["`Mục 3 — Vì sao cần thuyết minh: mỗi báo cáo chỉ 1–2 trang, thông tin nén rất chặt`"]
+  n0 --- n11
+  n12["`Người cho vay và nhà đầu tư cần nhiều thông tin hơn mức ba báo cáo chứa được`"]
+  n11 --- n12
+  n13["`Nhồi hết vào thân báo cáo thì bảng cân đối dài 5, 10, 20 trang, không ai muốn đọc`"]
+  n11 --- n13
+  n14["`Phần không tách rời: ban lãnh đạo chịu trách nhiệm, báo cáo kiểm toán của CPA bao trùm cả thuyết minh`"]
+  n11 --- n14
+  n15["`Cuối mỗi trang báo cáo: #quot;Thuyết minh đi kèm là một phần không tách rời của các báo cáo tài chính này#quot;`"]
+  n11 --- n15
+  n16["`Công bố thông tin đầy đủ: ai có lợi ích chính đáng được cung cấp thông tin để ra quyết định và bảo vệ quyền lợi`"]
+  n11 --- n16
+  n17["`Lý tưởng là minh bạch, thực tế nhiều thuyết minh dày đặc đến mức luật sư cũng khó đọc`"]
+  n11 --- n17
+  n18["`Mục 4.1 — Thuyết minh loại 1: nêu phương pháp kế toán đã chọn, mỗi lựa chọn quan trọng một thuyết minh`"]
+  n0 --- n18
+  n19["`Với nhiều khoản chi phí và cả doanh thu, doanh nghiệp được chọn giữa hai hoặc hơn phương pháp được chấp nhận`"]
+  n18 --- n19
+  n20["`Caterpillar, mẫu 10-K năm 2007: hàng tồn kho (triệu USD)`"]
+  n18 --- n20
+  n21["`Ghi theo giá thấp hơn giữa giá gốc và giá thị trường, giá gốc chủ yếu theo LIFO`"]
+  n20 --- n21
+  n22["`LIFO chiếm khoảng 75% hàng tồn kho cuối 2006 và 2007, khoảng 80% cuối 2005`"]
+  n20 --- n22
+  n23["`Nếu dùng FIFO, hàng tồn kho cao hơn 2.345 / 2.403 / 2.617 cuối 2005 / 2006 / 2007`"]
+  n20 --- n23
+  n24["`Chênh hơn 2 tỷ USD chỉ vì chọn phương pháp, giá vốn hàng bán mỗi năm cũng khác`"]
+  n20 --- n24
+  n25["`Người tổng hợp tính: chênh lệch tăng 58 năm 2006 và 214 năm 2007, xấp xỉ phần giá vốn LIFO cao hơn FIFO`"]
+  n20 --- n25
+  n26["`Caterpillar, mẫu 10-K năm 2007: khấu hao và phân bổ dần (triệu USD)`"]
+  n18 --- n26
+  n27["`Nhà xưởng và thiết bị: chủ yếu khấu hao nhanh`"]
+  n26 --- n27
+  n28["`Thiết bị cho thuê của Cat Financial: đường thẳng theo thời hạn thuê, trên giá gốc trừ giá trị còn lại ước tính`"]
+  n26 --- n28
+  n29["`Khấu hao thiết bị cho thuê 615 / 631 / 671 (2005–2007), nằm trong #quot;chi phí hoạt động khác#quot;`"]
+  n26 --- n29
+  n30["`Tổng chi phí khấu hao hợp nhất 1.444 / 1.554 / 1.725 (2005–2007)`"]
+  n26 --- n30
+  n31["`Tài sản vô hình mua về: phân bổ dần theo đường thẳng, thường không quá 20 năm`"]
+  n26 --- n31
+  n32["`Hợp nhất: gộp báo cáo các công ty dưới một công ty mẹ, loại trừ giao dịch nội bộ như một đơn vị`"]
+  n18 --- n32
+  n33["`Công ty liên kết có đầu tư nhưng không nắm quyền kiểm soát thì không hợp nhất`"]
+  n18 --- n33
+  n34["`Mục 4.2 — Thuyết minh loại 2: thông tin không đưa được vào thân báo cáo`"]
+  n0 --- n34
+  n35["`Nợ dài hạn: ngày đáo hạn, lãi suất, tài sản thế chấp, điều khoản bảo đảm`"]
+  n34 --- n35
+  n36["`Tiền thuê hằng năm phải trả theo hợp đồng thuê hoạt động dài hạn`"]
+  n34 --- n36
+  n37["`Quyền chọn cổ phiếu, kế hoạch sở hữu cổ phần cho nhân viên và tác động pha loãng EPS`"]
+  n34 --- n37
+  n38["`Các vụ kiện lớn và hành động pháp lý khác nhằm vào công ty`"]
+  n34 --- n38
+  n39["`Kế hoạch hưu trí, lương hưu và nghĩa vụ chi trả y tế sau nghỉ hưu`"]
+  n34 --- n39
+  n40["`Danh sách rất dài: dò danh mục kiểm tra, rồi giải thích chuyện phức tạp trong khoảng giấy nhỏ`"]
+  n34 --- n40
+  n41["`Mục 5–6 — Ban lãnh đạo có nhiều quyền tuỳ ý nên thuyết minh thường khó đọc`"]
+  n0 --- n41
+  n42["`Giám đốc tài chính, cố vấn pháp lý, kiểm toán viên CPA giúp rà danh mục thuyết minh phải có`"]
+  n41 --- n42
+  n43["`Với từng thuyết minh, ban lãnh đạo tự quyết thẳng thắn và chi tiết đến đâu`"]
+  n41 --- n43
+  n44["`Không phải tiết lộ thông tin làm mất lợi thế cạnh tranh, không có nghĩa vụ giúp đối thủ`"]
+  n41 --- n44
+  n45["`Công bố quá ít, như giấu một vụ kiện lớn, là gây hiểu nhầm và lãnh đạo chịu trách nhiệm pháp lý`"]
+  n41 --- n45
+  n46["`Trên mức tối thiểu theo luật mà kiểm toán viên phải đòi, quy định về thuyết minh mơ hồ`"]
+  n41 --- n46
+  n47["`Quy định bắt có thuyết minh nhưng không bắt viết rõ ràng, ngắn gọn cho người đọc bình thường`"]
+  n41 --- n47
+  n48["`Dấu hiệu: giọng pháp lý vụng về, dày thuật ngữ, viết kém nhất về kiện tụng và dự án bỏ dở lỗ lớn`"]
+  n41 --- n48
+  n49["`Tracy: nếu quảng cáo viết như thuyết minh, công ty chẳng bán được bao nhiêu hàng`"]
+  n41 --- n49
+  n50["`Lời khuyên duy nhất: nhận ra thuyết minh quan trọng, kiên nhẫn đọc kỹ, đọc lại nếu cần, rồi #quot;Chúc may mắn#quot;`"]
+  n41 --- n50
+  n51["`Đánh giá — Ví dụ thuyết phục, nhưng chương ngắn và nhiều quy định đã đổi sau 2009`"]
+  n0 --- n51
+  n52["`Ví dụ Caterpillar: hơn 2,6 tỷ USD hàng tồn kho chênh lệch không hiện trong thân bảng cân đối`"]
+  n51 --- n52
+  n53["`Thuyết minh loại 2 chỉ được liệt kê, thiếu ghi nhận doanh thu, bộ phận kinh doanh, bên liên quan, nợ tiềm tàng`"]
+  n51 --- n53
+  n54["`Từ 2019 (ASC 842, IFRS 16) phần lớn hợp đồng thuê dài hạn lên bảng cân đối kế toán`"]
+  n51 --- n54
+  n55["`Từ 2006 (FAS 123R) giá trị quyền chọn cổ phiếu cấp cho nhân viên ghi vào chi phí`"]
+  n51 --- n55
+  n56["`LIFO không được phép theo IFRS, công ty theo IFRS không có thuyết minh như Caterpillar`"]
+  n51 --- n56
+  n57["`Chỉ lợi thế thương mại và tài sản vô hình không xác định thời gian sử dụng mới thôi phân bổ dần`"]
+  n51 --- n57
+  n58["`Vấn đề nay thêm dạng quá tải công bố thông tin, thuyết minh lặp câu chữ mẫu qua các năm`"]
+  n51 --- n58
+  n59["`Quan điểm khác: khó đọc còn do giao dịch phức tạp và áp lực pháp lý, không hẳn cố ý giấu`"]
+  n51 --- n59
+  n60["`Thông điệp xuyên suốt`"]
+  n0 --- n60
+  n61["`Bỏ qua thuyết minh là đọc thiếu một phần tư báo cáo và có thể hiểu sai các con số`"]
+  n60 --- n61
+  n62["`Trước khi so sánh hai công ty hay hai năm, xem thuyết minh phương pháp kế toán: con số có thể chênh hàng tỷ USD`"]
+  n60 --- n62
+  n63["`Rủi ro và cam kết lớn (nợ, thuê, quyền chọn cổ phiếu, kiện tụng, lương hưu) thường chỉ nằm trong thuyết minh`"]
+  n60 --- n63
+  n64["`Thuyết minh tối nghĩa nhất thường về chuyện nhạy cảm nhất, đó là chỗ đáng đọc kỹ nhất`"]
+  n60 --- n64
+  class n0 root
+  class n1,n11,n18,n34,n41,n51,n60 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n12,n13,n14,n15,n16,n17,n19,n20,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n33,n35,n36,n37,n38,n39,n40,n42,n43,n44,n45,n46,n47,n48,n49,n50,n52,n53,n54,n55,n56,n57,n58,n59,n61,n62,n63,n64 leaf
+```
+
+## Nguồn
+
+John A. Tracy, *How to Read a Financial Report: Wringing Vital Signs Out of the Numbers*, ấn bản thứ bảy (John Wiley & Sons, 2009), Phần Một "Components and Connections in Financial Statements", Chương 15 "Footnotes to Financial Statements", trang in 101–108 (sơ đồ mở chương, Exhibit 15.1, in ở trang in 100, ngay trước trang tên chương).
+
+## Tác giả
+
+John A. Tracy, giáo sư kế toán danh dự Đại học Colorado ở Boulder, kế toán viên công chứng (CPA).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 15 là chương cuối của Phần Một. Từ Chương 2 đến Chương 14, Tracy đã đi qua từng khoản mục của ba báo cáo tài chính của doanh nghiệp ví dụ (doanh thu 52 triệu USD/năm) và từng mối nối giữa báo cáo kết quả kinh doanh với bảng cân đối kế toán; Chương 13 và Chương 14 ([C13-dong-tien-tu-hoat-dong-kinh-doanh.md](C13-dong-tien-tu-hoat-dong-kinh-doanh.md), [C14-dong-tien-tu-hoat-dong-dau-tu-va-tai-chinh.md](C14-dong-tien-tu-hoat-dong-dau-tu-va-tai-chinh.md)) hoàn tất báo cáo lưu chuyển tiền tệ.
+
+Chương 15 khép Phần Một bằng cách ôn lại ba báo cáo trong vài đoạn, rồi bổ sung "phần thứ tư" của mọi báo cáo tài chính: thuyết minh báo cáo tài chính (footnotes). Chương này không có con số của doanh nghiệp ví dụ; thay vào đó Tracy trích hai đoạn thuyết minh thật của Caterpillar Inc. năm 2007 (về hàng tồn kho theo LIFO và về khấu hao).
+
+Các chương sau dùng lại ý của chương này: Chương 16 ([C16-tac-dong-cua-tang-truong-va-suy-giam-len-dong-tien.md](C16-tac-dong-cua-tang-truong-va-suy-giam-len-dong-tien.md)) mở đầu Phần Hai về phân tích báo cáo tài chính; Chương 19–20 ([C19-chuan-muc-ke-toan-va-bao-cao-tai-chinh.md](C19-chuan-muc-ke-toan-va-bao-cao-tai-chinh.md), [C20-phuong-phap-ke-toan-va-lam-dep-so-lieu.md](C20-phuong-phap-ke-toan-va-lam-dep-so-lieu.md)) bàn sâu về chuẩn mực và lựa chọn phương pháp kế toán, đúng loại thông tin mà thuyết minh phải công bố; Chương 21 ([C21-kiem-toan-bao-cao-tai-chinh-thoi-hau-enron.md](C21-kiem-toan-bao-cao-tai-chinh-thoi-hau-enron.md)) bàn về kiểm toán, mà Tracy hẹn trước ngay trong chương này.
+
+## Lưu ý
+
+- **Vị trí của Exhibit 15.1.** Sách viết Exhibit 15.1 nằm "ở đầu chương" (at the start of the chapter), nhưng trong bản in sơ đồ này nằm ở trang in 100, tức trang ngay trước trang tên Chương 15 (trang in 101). Đây chỉ là chuyện dàn trang; nội dung sơ đồ được chép lại đầy đủ trong bản tổng hợp này.
+- **Câu "không còn phải phân bổ dần tài sản vô hình" viết quá gọn.** Tracy viết rằng doanh nghiệp "không còn bắt buộc phải phân bổ dần một cách có hệ thống chi phí của tài sản vô hình". Theo hiểu biết của người tổng hợp, không tra cứu: quy định mới từ năm 2001–2002 (FAS 142) chỉ bỏ phân bổ dần đối với lợi thế thương mại và tài sản vô hình có thời gian sử dụng không xác định; tài sản vô hình có thời gian sử dụng xác định (bằng sáng chế, danh sách khách hàng mua lại...) vẫn phải phân bổ dần. Chính đoạn thuyết minh của Caterpillar mà Tracy trích ngay trước câu đó cũng nói công ty phân bổ dần tài sản vô hình mua về theo phương pháp đường thẳng, thường không quá 20 năm.
+- **Yêu cầu của SEC về báo cáo so sánh ba năm.** Tracy viết SEC yêu cầu báo cáo tài chính so sánh ba năm. Theo hiểu biết của người tổng hợp, không tra cứu: SEC yêu cầu ba năm cho báo cáo kết quả kinh doanh, báo cáo lưu chuyển tiền tệ và báo cáo biến động vốn chủ sở hữu, nhưng chỉ hai năm cho bảng cân đối kế toán; công ty báo cáo quy mô nhỏ (smaller reporting companies) được trình bày hai năm.
+- **Số liệu và quy định đã cũ.** Con số "khoảng 10.000 công ty đại chúng ở Mỹ" là ước tính quanh năm 2008; theo hiểu biết của người tổng hợp, số công ty niêm yết trên các sàn lớn của Mỹ đã giảm đáng kể từ cuối thập niên 1990.
+
+  Câu "hàng tồn kho được ghi theo giá thấp hơn giữa giá gốc và giá thị trường" (lower of cost or market) trong thuyết minh Caterpillar: theo hiểu biết của người tổng hợp, từ khoảng năm 2017 (ASU 2015-11) quy tắc này đổi thành "giá thấp hơn giữa giá gốc và giá trị thuần có thể thực hiện được" cho hàng tồn kho không dùng LIFO hay phương pháp bán lẻ; LIFO vẫn dùng quy tắc cũ. LIFO không được phép theo IFRS.
+
+  Tiền thuê theo hợp đồng thuê hoạt động (operating leases), mà Tracy nói chỉ được nêu trong thuyết minh, từ năm 2019 (ASC 842 / IFRS 16) phần lớn đã phải ghi nhận trên bảng cân đối kế toán dưới dạng tài sản quyền sử dụng và nợ thuê.
+- **Đoạn trích Caterpillar dùng đơn vị triệu USD**, khác với đơn vị nghìn USD của doanh nghiệp ví dụ ở các chương trước; Tracy có nhắc điều này. Cụm "Statement 1" trong đoạn trích là cách Caterpillar đánh số báo cáo kết quả kinh doanh hợp nhất của họ.
+- Chương này không có lỗi số học nào: các con số đều là số trích từ báo cáo của Caterpillar, không có phép cộng trừ. Các phép tính trên số Caterpillar trong bản tổng hợp (tỷ lệ phần trăm, mức chênh lệch giữa các năm) do người tổng hợp tính thêm và được ghi rõ như vậy.
+- Mục cuối chương mang tiêu đề "Accounting Issues" (Các vấn đề kế toán) nhưng nội dung thực ra chỉ bàn về việc thuyết minh khó đọc.

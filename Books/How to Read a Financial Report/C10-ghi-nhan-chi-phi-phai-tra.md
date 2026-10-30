@@ -1,18 +1,16 @@
 # Chương 10 — Ghi nhận khoản nợ cho các chi phí chưa trả (Accruing the Liability for Unpaid Expenses)
 
-**Nguồn:** John A. Tracy, *How to Read a Financial Report: Wringing Vital Signs Out of the Numbers*, ấn bản thứ bảy (John Wiley & Sons, 2009), Phần Một "Components and Connections in Financial Statements", Chương 10 "Accruing the Liability for Unpaid Expenses", trang in 66–71 (Exhibit 10.1 in ở trang 66, ngay trước trang tên chương 67; phần chữ ở trang 68–71).
-**Tác giả:** John A. Tracy, giáo sư kế toán danh dự Đại học Colorado ở Boulder, kế toán viên công chứng (CPA).
-**Vị trí trong lập luận của cả cuốn sách:** Từ Chương 4, Tracy đi lần lượt qua từng **mối nối** (connection) giữa một khoản mục của báo cáo kết quả kinh doanh (income statement) và một khoản mục của bảng cân đối kế toán (balance sheet), luôn dùng cùng một doanh nghiệp ví dụ có doanh thu 52 triệu USD/năm. Chương 7 ([C07-chi-phi-hoat-dong-va-phai-tra-nguoi-ban.md](C07-chi-phi-hoat-dong-va-phai-tra-nguoi-ban.md)) nối chi phí bán hàng, chi phí chung và quản lý (SG&A) với phải trả người bán (accounts payable): những chi phí có hoá đơn gửi đến nhưng chưa trả. Chương 8 ([C08-chi-phi-hoat-dong-va-chi-phi-tra-truoc.md](C08-chi-phi-hoat-dong-va-chi-phi-tra-truoc.md)) xét chiều ngược lại: chi phí đã trả tiền trước, ghi thành tài sản chi phí trả trước (prepaid expenses). Chương 9 ([C09-mot-chi-phi-dac-biet-khau-hao.md](C09-mot-chi-phi-dac-biet-khau-hao.md)) bàn khấu hao. Chương 10 thêm hai mối nối cùng lúc, cả hai đều đổ vào một khoản nợ là **chi phí phải trả (accrued expenses payable)**: (1) SG&A nối với chi phí phải trả, và (2) chi phí lãi vay (interest expense) nối với chi phí phải trả. Chương 11 ([C11-chi-phi-thue-thu-nhap-va-thue-phai-nop.md](C11-chi-phi-thue-thu-nhap-va-thue-phai-nop.md)) làm điều tương tự cho chi phí thuế thu nhập và thuế thu nhập phải nộp. Chương 13 ([C13-dong-tien-tu-hoat-dong-kinh-doanh.md](C13-dong-tien-tu-hoat-dong-kinh-doanh.md)) dùng lại số dư chi phí phải trả: khoản này tăng 480 nghìn USD trong năm, và mức tăng đó được cộng vào khi tính dòng tiền từ hoạt động kinh doanh.
-**Ý chính:** Tracy muốn người đọc hiểu rằng **có những chi phí tích tụ dần theo thời gian mà không có ai gửi hoá đơn, nên chính doanh nghiệp phải tự đi tìm, tự tính và ghi nhận chúng vào cuối kỳ thành một khoản nợ là chi phí phải trả; nếu bỏ sót, cả chi phí trên báo cáo kết quả kinh doanh lẫn nợ phải trả trên bảng cân đối kế toán đều bị ghi thấp hơn thực tế, và lợi nhuận bị ghi cao hơn thực tế**. Ví dụ trung tâm: doanh nghiệp ví dụ có chi phí SG&A cả năm là 12.480 nghìn USD; trung bình doanh nghiệp chậm khoảng sáu tuần mới trả một số chi phí hoạt động, nên cuối năm phần chưa trả là 6/52 × 12.480 = 1.440 nghìn USD. Thêm vào đó, trong 545 nghìn USD chi phí lãi vay của năm có 75 nghìn USD tiền lãi đã phát sinh nhưng chưa trả. Cộng hai phần, số dư chi phí phải trả cuối năm là 1.440 + 75 = 1.515 nghìn USD. Tracy so sánh: phải trả người bán cho chi phí hoạt động chỉ 720 nghìn USD, bằng một nửa con số 1.440; cộng cả hai khoản, doanh nghiệp tạm hoãn được 2.160 nghìn USD tiền chi cho chi phí hoạt động sang năm sau. Ông cũng cảnh báo rằng vì việc tính chi phí phải trả đòi hỏi nhiều ước tính, đây là một chỗ có thể dùng để làm đẹp số liệu (massaging the numbers), và nhắc tới giả định hoạt động liên tục (going concern assumption) khi doanh nghiệp không trả nổi lãi vay.
+## Ý chính
 
-> **Lưu ý:**
-> - **Phạm vi trang.** Đề bài giao "PDF trang 79–84", nhưng khi mở PDF thì Exhibit 10.1 nằm ở trang PDF 78 (trang in 66), ngay trước trang tên chương (PDF 79, trang in 67); phần chữ của chương nằm ở PDF 80–83 (trang in 68–71). Trang PDF 84 (trang in 72) là Exhibit 11.1 "Income Tax Expense and Income Tax Payable" của Chương 11, không thuộc chương này. Bản tổng hợp chép Exhibit 10.1 từ trang PDF 78.
-> - **Lỗi nhãn trong Exhibit 10.1.** Ở phần nợ phải trả của bảng cân đối kế toán, hai dòng thành phần đều ghi cùng một nhãn "Accrued Expenses Payable" (1.440 và 75). Theo phần chữ (trang in 70), dòng thứ hai (75) phải là "lãi vay phải trả" (accrued interest payable). Bản tổng hợp ghi lại đúng nghĩa và chú thích chỗ này trong bảng.
-> - **Cộng trừ đã kiểm tra.** 6/52 × 12.480 = 1.440 (đúng); 1.440 + 75 = 1.515, khớp số dư chi phí phải trả cuối năm; tổng nợ phải trả và vốn chủ sở hữu 35.500 khớp tổng tài sản 35.500. Không có lỗi số học.
-> - **Chỗ sách viết gọn.** Tracy nói doanh nghiệp chậm sáu tuần khi trả "một số" (certain) chi phí hoạt động, nhưng công thức lại nhân 6/52 với **toàn bộ** 12.480 nghìn USD chi phí SG&A. Ở Chương 7, ông cũng nhân 3/52 với chính 12.480 để ra 720 nghìn USD phải trả người bán; còn ở Chương 8, một phần chi phí này được trả trước. Các tỷ lệ 6/52 và 3/52 vì vậy là cách diễn đạt quy mô số dư cho dễ hình dung (số dư bằng bao nhiêu tuần chi phí), không phải là phép chia chi phí SG&A thành các phần tách biệt.
-> - **Chữ dùng lạ.** Tracy dùng "gestation period" (nghĩa đen: thời kỳ thai nghén) để chỉ khoảng thời gian từ lúc chi phí phát sinh tới lúc trả tiền. Bản tổng hợp dịch là "khoảng thời gian chậm trả".
-> - **Câu dễ hiểu nhầm.** Tracy viết rằng cả phải trả người bán lẫn chi phí phải trả đều phát sinh "từ hoạt động kinh doanh, và từ việc sản xuất hoặc mua sản phẩm". Ý "mua sản phẩm" thực ra đúng với phải trả người bán nhiều hơn (Chương 6), còn chi phí phải trả chủ yếu là chi phí hoạt động và lãi vay.
-> - **Quy định đã khác từ 2009** (theo hiểu biết của người tổng hợp, không tra cứu): (1) Về chi phí đi vay: từ khoảng năm 2015–2016, US GAAP (ASU 2015-03) yêu cầu chi phí phát hành khoản vay được trình bày như khoản trừ vào giá trị khoản nợ và phân bổ dần vào chi phí lãi vay, nên câu của Tracy rằng phần lớn doanh nghiệp đưa các phí vay vào chi phí hoạt động không còn phản ánh đúng thực hành hiện nay; IFRS 9 cũng tính các phí này vào lãi suất thực tế. (2) Về hoạt động liên tục: năm 2009, việc đánh giá khả năng hoạt động liên tục chủ yếu nằm trong chuẩn mực kiểm toán; từ khoảng năm 2016, US GAAP (ASU 2014-15) buộc chính ban giám đốc phải đánh giá và thuyết minh khi có "nghi ngờ đáng kể" về khả năng tiếp tục hoạt động trong vòng một năm. (3) Các nguồn quy định Tracy nói chung chung (phải trả nghỉ phép, bảo hành) nay được sắp xếp trong Bộ chuẩn mực FASB Codification (ASC), ví dụ ASC 710 về trả lương nghỉ phép tích luỹ và ASC 460 về bảo hành.
+Tracy muốn người đọc hiểu rằng **có những chi phí tích tụ dần theo thời gian mà không có ai gửi hoá đơn, nên chính doanh nghiệp phải tự đi tìm, tự tính và ghi nhận chúng vào cuối kỳ thành một khoản nợ là chi phí phải trả; nếu bỏ sót, cả chi phí trên báo cáo kết quả kinh doanh lẫn nợ phải trả trên bảng cân đối kế toán đều bị ghi thấp hơn thực tế, và lợi nhuận bị ghi cao hơn thực tế**.
+
+Ví dụ trung tâm: doanh nghiệp ví dụ có chi phí SG&A cả năm là 12.480 nghìn USD; trung bình doanh nghiệp chậm khoảng sáu tuần mới trả một số chi phí hoạt động, nên cuối năm phần chưa trả là 6/52 × 12.480 = 1.440 nghìn USD.
+
+Thêm vào đó, trong 545 nghìn USD chi phí lãi vay của năm có 75 nghìn USD tiền lãi đã phát sinh nhưng chưa trả. Cộng hai phần, số dư chi phí phải trả cuối năm là 1.440 + 75 = 1.515 nghìn USD.
+
+Tracy so sánh: phải trả người bán cho chi phí hoạt động chỉ 720 nghìn USD, bằng một nửa con số 1.440; cộng cả hai khoản, doanh nghiệp tạm hoãn được 2.160 nghìn USD tiền chi cho chi phí hoạt động sang năm sau.
+
+Ông cũng cảnh báo rằng vì việc tính chi phí phải trả đòi hỏi nhiều ước tính, đây là một chỗ có thể dùng để làm đẹp số liệu (massaging the numbers), và nhắc tới giả định hoạt động liên tục (going concern assumption) khi doanh nghiệp không trả nổi lãi vay.
 
 ## Sơ đồ
 
@@ -183,7 +181,9 @@
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Chi phí phải trả khác phải trả người bán ở chỗ nào, và vì sao doanh nghiệp phải tự đi tìm nó?** Phải trả người bán phát sinh khi doanh nghiệp nhận được hoá đơn của nhà cung cấp; chi phí phải trả là những chi phí tích tụ theo thời gian mà không ai gửi hoá đơn (hoa hồng bán hàng tháng cuối, lương nghỉ phép tích luỹ, tiền điện của phần tháng, thuế tài sản, bảo hành, tiền lãi chưa trả). Vì không có hoá đơn nhắc, phòng kế toán phải tự xác định và tự tính vào cuối năm; nếu bỏ sót, chi phí và nợ phải trả đều bị ghi thấp. Ở doanh nghiệp ví dụ, riêng phần chi phí phải trả cho chi phí hoạt động (1.440 nghìn USD) đã lớn gấp đôi phải trả người bán cho chi phí hoạt động (720 nghìn USD).
+1. **Chi phí phải trả khác phải trả người bán ở chỗ nào, và vì sao doanh nghiệp phải tự đi tìm nó?** Phải trả người bán phát sinh khi doanh nghiệp nhận được hoá đơn của nhà cung cấp; chi phí phải trả là những chi phí tích tụ theo thời gian mà không ai gửi hoá đơn (hoa hồng bán hàng tháng cuối, lương nghỉ phép tích luỹ, tiền điện của phần tháng, thuế tài sản, bảo hành, tiền lãi chưa trả). Vì không có hoá đơn nhắc, phòng kế toán phải tự xác định và tự tính vào cuối năm; nếu bỏ sót, chi phí và nợ phải trả đều bị ghi thấp.
+
+   Ở doanh nghiệp ví dụ, riêng phần chi phí phải trả cho chi phí hoạt động (1.440 nghìn USD) đã lớn gấp đôi phải trả người bán cho chi phí hoạt động (720 nghìn USD).
 2. **Số dư chi phí phải trả 1.515 nghìn USD của doanh nghiệp ví dụ được tính ra thế nào?** Gồm hai phần: phần chi phí hoạt động chưa trả, tính bằng 6 tuần chi phí SG&A, tức 6/52 × 12.480 = 1.440 nghìn USD; và tiền lãi vay đã phát sinh nhưng chưa trả, 75 nghìn USD (trong tổng chi phí lãi vay cả năm 545 nghìn USD). 1.440 + 75 = 1.515.
 3. **Vì sao chi phí lãi vay được trình bày riêng, và chương này cảnh báo điều gì?** Lãi vay là chi phí tài chính, phụ thuộc vào việc doanh nghiệp dùng bao nhiêu vốn vay so với vốn chủ sở hữu, chứ không phải chi phí hoạt động, nên được tách thành một dòng riêng dù chỉ 545 nghìn USD. Tracy cảnh báo hai điều: các khoản chi phí phải trả dựa nhiều vào ước tính nên có thể bị dùng để làm đẹp số liệu; và khi doanh nghiệp chậm trả lãi nghiêm trọng, khoản lãi chưa trả phải được trình bày nổi bật, còn nếu có nguy cơ bị chủ nợ buộc đóng cửa thì báo cáo tài chính phải công bố đầy đủ, vì giả định hoạt động liên tục bị đe doạ.
 
@@ -245,7 +245,7 @@ Kiểm tra: 3.265 + 5.000 + 8.450 + 960 + 16.500 − 4.250 + 5.575 = 35.500.
 |---|---:|---:|
 | Phải trả người bán (Accounts Payable) | | 3.320 |
 | Chi phí phải trả cho chi phí hoạt động (sách ghi "Accrued Expenses Payable") — từ mối nối 1 | 1.440 | |
-| Lãi vay phải trả (sách cũng ghi "Accrued Expenses Payable", xem Lưu ý) — từ mối nối 2 | 75 | |
+| Lãi vay phải trả (sách cũng ghi "Accrued Expenses Payable", xem mục Lưu ý cuối chương) — từ mối nối 2 | 75 | |
 | **Chi phí phải trả (Accrued Expenses Payable), cộng hai thành phần** | | **1.515** |
 | Thuế thu nhập phải nộp (Income Tax Payable) | | 165 |
 | Vay ngắn hạn (Short-Term Notes Payable) | | 3.125 |
@@ -310,7 +310,9 @@ Cách hiểu khác của cùng phép tính: chi phí SG&A trung bình mỗi tu�
 
 ### 3. Ghi chi phí lãi vay cho đủ (Bringing Interest Expense Up to Snuff, trang in 70)
 
-**Khoản vay và lãi.** Hầu như doanh nghiệp nào cũng có phải trả người bán và chi phí phải trả; đó là phần tất yếu của việc vận hành. Ngoài ra, phần lớn doanh nghiệp còn vay tiền của ngân hàng hoặc của các nguồn cho doanh nghiệp vay khác. Khi vay, doanh nghiệp ký một giấy nợ (note) hoặc văn bản pháp lý tương tự, nên tài khoản nợ cơ bản được gọi là khoản vay theo giấy nợ (notes payable). Tiền vay thì phải trả lãi; còn phải trả người bán thì không trả lãi, trừ khi khoản nợ đã quá hạn nghiêm trọng và chủ nợ cộng thêm tiền phạt lãi. Khoản vay luôn được trình bày riêng, không gộp chung với các khoản nợ không chịu lãi. (Ở doanh nghiệp ví dụ, cuối năm có vay ngắn hạn 3.125 nghìn USD và vay dài hạn 4.250 nghìn USD.)
+**Khoản vay và lãi.** Hầu như doanh nghiệp nào cũng có phải trả người bán và chi phí phải trả; đó là phần tất yếu của việc vận hành. Ngoài ra, phần lớn doanh nghiệp còn vay tiền của ngân hàng hoặc của các nguồn cho doanh nghiệp vay khác. Khi vay, doanh nghiệp ký một giấy nợ (note) hoặc văn bản pháp lý tương tự, nên tài khoản nợ cơ bản được gọi là khoản vay theo giấy nợ (notes payable).
+
+Tiền vay thì phải trả lãi; còn phải trả người bán thì không trả lãi, trừ khi khoản nợ đã quá hạn nghiêm trọng và chủ nợ cộng thêm tiền phạt lãi. Khoản vay luôn được trình bày riêng, không gộp chung với các khoản nợ không chịu lãi. (Ở doanh nghiệp ví dụ, cuối năm có vay ngắn hạn 3.125 nghìn USD và vay dài hạn 4.250 nghìn USD.)
 
 **Lãi suất.** Lãi là khoản phí tính theo từng ngày cho việc sử dụng tiền vay; mỗi ngày còn vay là thêm một ngày tiền lãi nợ người cho vay. Tỷ lệ giữa tiền lãi và số tiền vay gọi là lãi suất (interest rate), nêu bằng phần trăm; "phần trăm" nghĩa là "trên mỗi trăm". Ví dụ của Tracy:
 
@@ -467,7 +469,11 @@ Tracy đặt cảnh báo về làm đẹp số liệu ngay trong chương này l
 
 ### Hai nhận định của sách về chi phí đi vay và hoạt động liên tục đã lỗi thời một phần
 
-Theo hiểu biết của người tổng hợp, không tra cứu: (1) Nhận định rằng phần lớn doanh nghiệp đưa phí vay vào chi phí hoạt động không còn đúng với chuẩn mực hiện hành. Từ khoảng năm 2016, US GAAP yêu cầu chi phí phát hành nợ được trừ vào giá trị ghi sổ của khoản nợ và phân bổ dần vào chi phí lãi vay theo phương pháp lãi suất thực tế; IFRS 9 cũng làm tương tự. Ngoài ra, lãi vay của khoản vay dùng để xây dựng tài sản dài hạn có thể được vốn hoá vào giá trị tài sản (US GAAP ASC 835-20, IAS 23) chứ không ghi ngay vào chi phí; Tracy không nhắc tới điểm này. (2) Về hoạt động liên tục, năm 2009 nghĩa vụ đánh giá chủ yếu thuộc về kiểm toán viên; nay US GAAP buộc ban giám đốc tự đánh giá mỗi kỳ và thuyết minh khi có nghi ngờ đáng kể về khả năng tiếp tục hoạt động trong vòng một năm kể từ ngày phát hành báo cáo. Lời khuyên của Tracy rằng doanh nghiệp đang gặp nguy phải "công bố đầy đủ" vì thế nay đã thành yêu cầu bắt buộc có tiêu chí cụ thể.
+Theo hiểu biết của người tổng hợp, không tra cứu: (1) Nhận định rằng phần lớn doanh nghiệp đưa phí vay vào chi phí hoạt động không còn đúng với chuẩn mực hiện hành. Từ khoảng năm 2016, US GAAP yêu cầu chi phí phát hành nợ được trừ vào giá trị ghi sổ của khoản nợ và phân bổ dần vào chi phí lãi vay theo phương pháp lãi suất thực tế; IFRS 9 cũng làm tương tự.
+
+Ngoài ra, lãi vay của khoản vay dùng để xây dựng tài sản dài hạn có thể được vốn hoá vào giá trị tài sản (US GAAP ASC 835-20, IAS 23) chứ không ghi ngay vào chi phí; Tracy không nhắc tới điểm này.
+
+(2) Về hoạt động liên tục, năm 2009 nghĩa vụ đánh giá chủ yếu thuộc về kiểm toán viên; nay US GAAP buộc ban giám đốc tự đánh giá mỗi kỳ và thuyết minh khi có nghi ngờ đáng kể về khả năng tiếp tục hoạt động trong vòng một năm kể từ ngày phát hành báo cáo. Lời khuyên của Tracy rằng doanh nghiệp đang gặp nguy phải "công bố đầy đủ" vì thế nay đã thành yêu cầu bắt buộc có tiêu chí cụ thể.
 
 ### Tách lãi vay khỏi chi phí hoạt động là nền móng cho phân tích ở Phần Hai
 
@@ -479,3 +485,162 @@ Việc Tracy nhấn mạnh lãi vay là chi phí tài chính, phụ thuộc vào
 - Người cho vay: theo dõi lãi vay phải trả và tỷ lệ giữa chi phí phải trả với chi phí hoạt động; mức tăng đột ngột có thể là dấu hiệu khó khăn thanh khoản.
 - Nhà đầu tư: so sánh số dư chi phí phải trả và dự phòng qua các năm với doanh thu; một khoản giảm mạnh trong khi doanh thu tăng có thể là dấu hiệu "rút" dự phòng để đẩy lợi nhuận.
 - Người đọc Việt Nam (định tính, theo hiểu biết của người tổng hợp): hệ thống kế toán Việt Nam cũng phân biệt rõ khoản phải trả người bán với chi phí phải trả, và lãi vay đã phát sinh chưa trả thường được ghi vào chi phí phải trả; chi phí bảo hành thì thường ghi thành dự phòng phải trả. Khi đọc báo cáo của doanh nghiệp Việt Nam, nên đọc thuyết minh để biết chi phí phải trả gồm những gì và ước tính được lập ra sao.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 10 trên một trang: sáu nhánh lớn đi theo các mục 1–4 của Nội dung chi tiết (Exhibit 10.1 với hai mối nối, chi phí không có hoá đơn mà doanh nghiệp phải tự tìm, phép tính sáu tuần và so sánh với phải trả người bán, ghi chi phí lãi vay cho đủ, các vấn đề kế toán) cùng phần Đánh giá, mỗi nhánh ghi định nghĩa, phép tính và con số then chốt của doanh nghiệp ví dụ; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 10: chi phí tích tụ không có hoá đơn phải được doanh nghiệp tự tính và ghi thành nợ chi phí phải trả cuối năm`"]
+  n1["`Mục 1 — Exhibit 10.1: hai mối nối cùng đổ vào chi phí phải trả`"]
+  n0 --- n1
+  n2["`Mối nối 1: chi phí SG#amp;A cả năm 12.480, giả định còn 6 tuần chưa trả: 6/52 × 12.480 = 1.440`"]
+  n1 --- n2
+  n3["`Mối nối 2: trong 545 chi phí lãi vay cả năm có 75 tiền lãi đã phát sinh nhưng chưa trả`"]
+  n1 --- n3
+  n4["`Số dư chi phí phải trả cuối năm 1.440 + 75 = 1.515 nghìn USD`"]
+  n1 --- n4
+  n5["`Năm trước 1.035, tăng 480, mức tăng được cộng vào dòng tiền từ hoạt động kinh doanh (Chương 13)`"]
+  n1 --- n5
+  n6["`Sách ghi cả hai dòng là #quot;Accrued Expenses Payable#quot;, dòng 75 đúng ra là lãi vay phải trả`"]
+  n1 --- n6
+  n7["`Mục 2 — Chi phí không có hoá đơn: doanh nghiệp phải tự đi tìm cuối kỳ`"]
+  n0 --- n7
+  n8["`Chương 7: chi phí có hoá đơn ghi thành phải trả người bán, chương này: chi phí tích tụ dần mà không ai gửi hoá đơn`"]
+  n7 --- n8
+  n9["`Hoa hồng bán hàng tính cuối tháng, trả tháng sau, nên cuối năm hoa hồng tháng cuối còn nợ`"]
+  n7 --- n9
+  n10["`Phòng kế toán phải tự lập #quot;hoá đơn nội bộ#quot; cho chính mình và tỉnh táo biết chi phí nào cần ghi dồn tích`"]
+  n7 --- n10
+  n11["`Ngoài hoa hồng, bốn loại chi phí phải trả điển hình cần ghi cuối kỳ`"]
+  n7 --- n11
+  n12["`Lương nghỉ phép và nghỉ ốm tích luỹ còn nợ nhân viên, có thể rất lớn`"]
+  n11 --- n12
+  n13["`Tiền điện thoại, tiền điện của phần tháng đã dùng mà chưa có hoá đơn`"]
+  n11 --- n13
+  n14["`Thuế tài sản thuộc năm nay nhưng cuối năm chưa nhận giấy báo thuế`"]
+  n11 --- n14
+  n15["`Bảo hành sẽ làm sau này cho hàng bán năm nay, ghi cùng kỳ để chi phí khớp với doanh thu`"]
+  n11 --- n15
+  n16["`Bỏ sót: nợ phải trả ghi thấp, chi phí ghi thấp, lợi nhuận ghi cao, báo cáo năm sai nghiêm trọng`"]
+  n7 --- n16
+  n17["`Mục 2 — Phép tính sáu tuần và so sánh với phải trả người bán`"]
+  n0 --- n17
+  n18["`Chi phí SG#amp;A mỗi tuần 12.480 / 52 = 240, sáu tuần chưa trả 6 × 240 = 1.440`"]
+  n17 --- n18
+  n19["`Sáu tuần là mức xấp xỉ trung bình, nhưng mỗi doanh nghiệp một khác`"]
+  n17 --- n19
+  n20["`Phải trả người bán cho chi phí hoạt động 3/52 × 12.480 = 720, chỉ bằng nửa 1.440`"]
+  n17 --- n20
+  n21["`Chi phí phải trả lớn hơn phải trả người bán là chuyện không lạ`"]
+  n17 --- n21
+  n22["`Nợ tự phát sinh: cả hai khoản không chịu lãi, sinh ra từ vận hành chứ không phải từ đi vay`"]
+  n17 --- n22
+  n23["`Gộp hai khoản thành một dòng hay trình bày riêng đều được chuẩn mực chấp nhận`"]
+  n17 --- n23
+  n24["`720 + 1.440 = 2.160 (9 tuần chi phí SG#amp;A) chưa phải chi tiền trong năm, sang năm vẫn phải trả`"]
+  n17 --- n24
+  n25["`Mọi thay đổi quy mô của hai khoản nợ này đều tác động tới dòng tiền`"]
+  n24 --- n25
+  n26["`6/52 và 3/52 cùng nhân toàn bộ 12.480 là quy ước minh hoạ, không phải chia SG#amp;A thành phần tách biệt`"]
+  n17 --- n26
+  n27["`Mục 3 — Ghi chi phí lãi vay cho đủ`"]
+  n0 --- n27
+  n28["`Khoản vay theo giấy nợ chịu lãi, luôn trình bày riêng: vay ngắn hạn 3.125, vay dài hạn 4.250`"]
+  n27 --- n28
+  n29["`Phải trả người bán không chịu lãi, trừ khi quá hạn nghiêm trọng và bị cộng tiền phạt lãi`"]
+  n27 --- n29
+  n30["`Lãi tính theo từng ngày, lãi suất = tiền lãi / số tiền vay, luôn nêu theo năm`"]
+  n27 --- n30
+  n31["`Vay 100.000 USD một năm, trả 6.000 USD lãi, lãi suất 6,0%/năm`"]
+  n30 --- n31
+  n32["`Lãi vay là chi phí tài chính, phụ thuộc tỷ lệ vốn vay và vốn chủ sở hữu, nên tách dòng riêng dù chỉ 545`"]
+  n27 --- n32
+  n33["`EBIT 4.935 đo kết quả hoạt động, trừ lãi vay 545 còn lợi nhuận trước thuế 4.390`"]
+  n32 --- n33
+  n34["`Vay ngắn hạn trả lãi một lần khi đáo hạn cùng gốc, vay dài hạn trả nửa năm, theo quý hoặc tháng`"]
+  n27 --- n34
+  n35["`Dù trả lúc nào, chi phí lãi vay phải ghi đủ cho mọi ngày đã dùng tiền vay`"]
+  n27 --- n35
+  n36["`Lãi vay phải trả 75 gộp vào chi phí phải trả, thường không tách dòng dù không quy định nào cấm`"]
+  n27 --- n36
+  n37["`Mục 4 — Các vấn đề kế toán`"]
+  n0 --- n37
+  n38["`Chi phí phải trả dựa vào thiện chí doanh nghiệp vì nhiều khoản là ước tính chủ quan (bảo hành, nghỉ phép)`"]
+  n37 --- n38
+  n39["`Làm đẹp số liệu: cố ý chỉnh doanh thu, chi phí để lợi nhuận kỳ này cao hơn hoặc thấp hơn`"]
+  n37 --- n39
+  n40["`Hai động cơ: làm mượt lợi nhuận giữa các năm hoặc đẩy lợi nhuận năm nay lên giả tạo, không ai tự thuyết minh`"]
+  n39 --- n40
+  n41["`Chi phí lãi vay chỉ gồm tiền lãi, phí hồ sơ vay, #quot;điểm#quot;, phí luật sư thường vào chi phí hoạt động`"]
+  n37 --- n41
+  n42["`Lãi vay phải trả lớn thì nên tách riêng, chậm trả lãi nghiêm trọng thì phải trình bày nổi bật`"]
+  n37 --- n42
+  n43["`Giả định hoạt động liên tục: trừ khi có bằng chứng ngược lại, doanh nghiệp không bị buộc giải thể, bán tài sản`"]
+  n37 --- n43
+  n44["`Vỡ nợ nghiêm trọng: chủ nợ có thể buộc đóng cửa, doanh nghiệp có thể xin bảo hộ phá sản`"]
+  n43 --- n44
+  n45["`Có nguy cơ bị chủ nợ kiện thì báo cáo phải công bố đầy đủ tình hình tài chính bấp bênh`"]
+  n43 --- n45
+  n46["`Đánh giá — Đọc chi phí phải trả trên báo cáo thật`"]
+  n0 --- n46
+  n47["`Dòng accrued expenses thật gom lương, thưởng, bảo hành, thuế khác, lãi vay, phải đọc thuyết minh`"]
+  n46 --- n47
+  n48["`Thực tế chi phí phải trả không tỷ lệ đều với SG#amp;A: hoa hồng theo doanh số, bảo hành theo tỷ lệ lỗi`"]
+  n46 --- n48
+  n49["`Ghi cao năm tốt để dành, ghi thấp năm xấu là cách làm mượt lợi nhuận kinh điển`"]
+  n46 --- n49
+  n50["`Từ khoảng 2016, US GAAP trừ chi phí phát hành nợ vào giá trị khoản nợ và phân bổ vào chi phí lãi vay`"]
+  n46 --- n50
+  n51["`Nay ban giám đốc phải tự đánh giá và thuyết minh nghi ngờ đáng kể về hoạt động liên tục trong một năm`"]
+  n46 --- n51
+  n52["`Hệ số khả năng trả lãi vay EBIT / lãi vay = 4.935 / 545 ≈ 9,1 lần`"]
+  n46 --- n52
+  n53["`Lãi vay phải trả tăng bất thường là tín hiệu sớm chậm trả lãi, chi phí phải trả giảm mạnh khi doanh thu tăng có thể là rút dự phòng`"]
+  n46 --- n53
+  n54["`Thông điệp xuyên suốt`"]
+  n0 --- n54
+  n55["`Lợi nhuận năm chỉ đúng khi mọi chi phí thuộc năm đó được ghi, kể cả chưa trả và chưa có hoá đơn`"]
+  n54 --- n55
+  n56["`Bút toán dồn tích: Nợ chi phí SG#amp;A 1.440 và chi phí lãi vay 75, Có chi phí phải trả 1.515`"]
+  n54 --- n56
+  n57["`Chi phí phải trả phần lớn do doanh nghiệp tự ước tính, không có chứng từ bên ngoài, nên người đọc cần cảnh giác`"]
+  n54 --- n57
+  class n0 root
+  class n1,n7,n17,n27,n37,n46,n54 branch
+  class n2,n3,n4,n5,n6,n8,n9,n10,n11,n12,n13,n14,n15,n16,n18,n19,n20,n21,n22,n23,n24,n25,n26,n28,n29,n30,n31,n32,n33,n34,n35,n36,n38,n39,n40,n41,n42,n43,n44,n45,n47,n48,n49,n50,n51,n52,n53,n55,n56,n57 leaf
+```
+
+## Nguồn
+
+John A. Tracy, *How to Read a Financial Report: Wringing Vital Signs Out of the Numbers*, ấn bản thứ bảy (John Wiley & Sons, 2009), Phần Một "Components and Connections in Financial Statements", Chương 10 "Accruing the Liability for Unpaid Expenses", trang in 66–71 (Exhibit 10.1 in ở trang 66, ngay trước trang tên chương 67; phần chữ ở trang 68–71).
+
+## Tác giả
+
+John A. Tracy, giáo sư kế toán danh dự Đại học Colorado ở Boulder, kế toán viên công chứng (CPA).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Từ Chương 4, Tracy đi lần lượt qua từng **mối nối** (connection) giữa một khoản mục của báo cáo kết quả kinh doanh (income statement) và một khoản mục của bảng cân đối kế toán (balance sheet), luôn dùng cùng một doanh nghiệp ví dụ có doanh thu 52 triệu USD/năm.
+
+Chương 7 ([C07-chi-phi-hoat-dong-va-phai-tra-nguoi-ban.md](C07-chi-phi-hoat-dong-va-phai-tra-nguoi-ban.md)) nối chi phí bán hàng, chi phí chung và quản lý (SG&A) với phải trả người bán (accounts payable): những chi phí có hoá đơn gửi đến nhưng chưa trả. Chương 8 ([C08-chi-phi-hoat-dong-va-chi-phi-tra-truoc.md](C08-chi-phi-hoat-dong-va-chi-phi-tra-truoc.md)) xét chiều ngược lại: chi phí đã trả tiền trước, ghi thành tài sản chi phí trả trước (prepaid expenses). Chương 9 ([C09-mot-chi-phi-dac-biet-khau-hao.md](C09-mot-chi-phi-dac-biet-khau-hao.md)) bàn khấu hao.
+
+Chương 10 thêm hai mối nối cùng lúc, cả hai đều đổ vào một khoản nợ là **chi phí phải trả (accrued expenses payable)**: (1) SG&A nối với chi phí phải trả, và (2) chi phí lãi vay (interest expense) nối với chi phí phải trả. Chương 11 ([C11-chi-phi-thue-thu-nhap-va-thue-phai-nop.md](C11-chi-phi-thue-thu-nhap-va-thue-phai-nop.md)) làm điều tương tự cho chi phí thuế thu nhập và thuế thu nhập phải nộp. Chương 13 ([C13-dong-tien-tu-hoat-dong-kinh-doanh.md](C13-dong-tien-tu-hoat-dong-kinh-doanh.md)) dùng lại số dư chi phí phải trả: khoản này tăng 480 nghìn USD trong năm, và mức tăng đó được cộng vào khi tính dòng tiền từ hoạt động kinh doanh.
+
+## Lưu ý
+
+- **Phạm vi trang.** Đề bài giao "PDF trang 79–84", nhưng khi mở PDF thì Exhibit 10.1 nằm ở trang PDF 78 (trang in 66), ngay trước trang tên chương (PDF 79, trang in 67); phần chữ của chương nằm ở PDF 80–83 (trang in 68–71). Trang PDF 84 (trang in 72) là Exhibit 11.1 "Income Tax Expense and Income Tax Payable" của Chương 11, không thuộc chương này. Bản tổng hợp chép Exhibit 10.1 từ trang PDF 78.
+- **Lỗi nhãn trong Exhibit 10.1.** Ở phần nợ phải trả của bảng cân đối kế toán, hai dòng thành phần đều ghi cùng một nhãn "Accrued Expenses Payable" (1.440 và 75). Theo phần chữ (trang in 70), dòng thứ hai (75) phải là "lãi vay phải trả" (accrued interest payable). Bản tổng hợp ghi lại đúng nghĩa và chú thích chỗ này trong bảng.
+- **Cộng trừ đã kiểm tra.** 6/52 × 12.480 = 1.440 (đúng); 1.440 + 75 = 1.515, khớp số dư chi phí phải trả cuối năm; tổng nợ phải trả và vốn chủ sở hữu 35.500 khớp tổng tài sản 35.500. Không có lỗi số học.
+- **Chỗ sách viết gọn.** Tracy nói doanh nghiệp chậm sáu tuần khi trả "một số" (certain) chi phí hoạt động, nhưng công thức lại nhân 6/52 với **toàn bộ** 12.480 nghìn USD chi phí SG&A. Ở Chương 7, ông cũng nhân 3/52 với chính 12.480 để ra 720 nghìn USD phải trả người bán; còn ở Chương 8, một phần chi phí này được trả trước. Các tỷ lệ 6/52 và 3/52 vì vậy là cách diễn đạt quy mô số dư cho dễ hình dung (số dư bằng bao nhiêu tuần chi phí), không phải là phép chia chi phí SG&A thành các phần tách biệt.
+- **Chữ dùng lạ.** Tracy dùng "gestation period" (nghĩa đen: thời kỳ thai nghén) để chỉ khoảng thời gian từ lúc chi phí phát sinh tới lúc trả tiền. Bản tổng hợp dịch là "khoảng thời gian chậm trả".
+- **Câu dễ hiểu nhầm.** Tracy viết rằng cả phải trả người bán lẫn chi phí phải trả đều phát sinh "từ hoạt động kinh doanh, và từ việc sản xuất hoặc mua sản phẩm". Ý "mua sản phẩm" thực ra đúng với phải trả người bán nhiều hơn (Chương 6), còn chi phí phải trả chủ yếu là chi phí hoạt động và lãi vay.
+- **Quy định đã khác từ 2009** (theo hiểu biết của người tổng hợp, không tra cứu):
+  - Về chi phí đi vay: từ khoảng năm 2015–2016, US GAAP (ASU 2015-03) yêu cầu chi phí phát hành khoản vay được trình bày như khoản trừ vào giá trị khoản nợ và phân bổ dần vào chi phí lãi vay, nên câu của Tracy rằng phần lớn doanh nghiệp đưa các phí vay vào chi phí hoạt động không còn phản ánh đúng thực hành hiện nay; IFRS 9 cũng tính các phí này vào lãi suất thực tế.
+  - Về hoạt động liên tục: năm 2009, việc đánh giá khả năng hoạt động liên tục chủ yếu nằm trong chuẩn mực kiểm toán; từ khoảng năm 2016, US GAAP (ASU 2014-15) buộc chính ban giám đốc phải đánh giá và thuyết minh khi có "nghi ngờ đáng kể" về khả năng tiếp tục hoạt động trong vòng một năm.
+  - Các nguồn quy định Tracy nói chung chung (phải trả nghỉ phép, bảo hành) nay được sắp xếp trong Bộ chuẩn mực FASB Codification (ASC), ví dụ ASC 710 về trả lương nghỉ phép tích luỹ và ASC 460 về bảo hành.

@@ -1,20 +1,16 @@
 # Chương 14 — Dòng tiền từ hoạt động đầu tư và hoạt động tài chính (Cash Flows from Investing and Financing Activities)
 
-**Nguồn:** John A. Tracy, *How to Read a Financial Report: Wringing Vital Signs Out of the Numbers*, ấn bản thứ bảy (John Wiley & Sons, 2009), Phần Một "Components and Connections in Financial Statements", Chương 14 "Cash Flows from Investing and Financing Activities", trang in 92–99 (Exhibit 14.1 in ở trang 92, ngay trước trang tiêu đề chương ở trang 93; phần chữ chạy từ trang 94 đến trang 99).
-**Tác giả:** John A. Tracy, giáo sư kế toán danh dự Đại học Colorado ở Boulder, kế toán viên công chứng (CPA).
-**Vị trí trong lập luận của cả cuốn sách:** Từ Chương 4 đến Chương 12, Tracy lần lượt đi qua từng cặp "khoản mục báo cáo kết quả kinh doanh – khoản mục bảng cân đối kế toán" của doanh nghiệp ví dụ (doanh thu 52 triệu USD/năm). Chương 13 ([C13-dong-tien-tu-hoat-dong-kinh-doanh.md](C13-dong-tien-tu-hoat-dong-kinh-doanh.md)) gom các mối nối đó lại để giải thích phần thứ nhất và khó nhất của báo cáo lưu chuyển tiền tệ (statement of cash flows): dòng tiền từ hoạt động kinh doanh (cash flow from operating activities), mà Tracy hay gọi là "dòng tiền từ lợi nhuận" (cash flow from profit), bằng 3.105 nghìn USD trong khi lợi nhuận ròng là 2.642 nghìn USD. Chương 14 hoàn tất báo cáo lưu chuyển tiền tệ bằng hai phần còn lại: hoạt động đầu tư (investing activities) và hoạt động tài chính (financing activities), rồi đặt cả ba phần vào một bức tranh nguồn tiền – sử dụng tiền. Đây là chương cuối cùng về các mối nối giữa ba báo cáo; Chương 15 ([C15-thuyet-minh-bao-cao-tai-chinh.md](C15-thuyet-minh-bao-cao-tai-chinh.md)) chuyển sang thuyết minh báo cáo tài chính (footnotes), và Chương 16 ([C16-tac-dong-cua-tang-truong-va-suy-giam-len-dong-tien.md](C16-tac-dong-cua-tang-truong-va-suy-giam-len-dong-tien.md)) dùng lại ý của chương này để xem tăng trưởng và suy giảm tác động thế nào tới dòng tiền.
-**Ý chính:** Tracy muốn người đọc hiểu rằng **hai phần sau của báo cáo lưu chuyển tiền tệ dễ đọc hơn nhiều so với phần đầu, nhưng chúng trả lời câu hỏi quan trọng nhất: doanh nghiệp đã làm gì với dòng tiền từ lợi nhuận, và lấy thêm tiền ở đâu khi dòng tiền đó không đủ.** Trong ví dụ, doanh nghiệp tạo ra 3.105 nghìn USD tiền từ hoạt động kinh doanh, trả 750 nghìn USD cổ tức tiền mặt, còn lại 2.355 nghìn USD. Nhưng trong năm doanh nghiệp chi 3.625 nghìn USD cho tài sản dài hạn dùng cho hoạt động (3.050 nghìn USD cho nhà xưởng, máy móc, thiết bị và 575 nghìn USD cho tài sản vô hình), tức là thiếu 1.270 nghìn USD. Khoản thiếu này được bù bằng bốn nguồn: vay ngắn hạn tăng 125, vay dài hạn tăng 500, phát hành thêm cổ phiếu 175, và để số dư tiền giảm 470 (nghìn USD). Tracy nhấn mạnh rằng chi đầu tư tài sản dài hạn (capital expenditures) là những quyết định quan trọng và rủi ro nhất của nhà quản lý; rằng có lợi nhuận không bảo đảm doanh nghiệp đủ tiền và trả được nợ; và ông phê phán việc chuẩn mực của FASB bắt xếp cổ tức tiền mặt vào phần hoạt động tài chính, vì ông muốn đặt cổ tức ngay dưới dòng tiền từ hoạt động kinh doanh để người đọc thấy ngay còn bao nhiêu tiền cho các nhu cầu chung của doanh nghiệp.
+## Ý chính
 
-> **Lưu ý:**
-> - **Vị trí của Exhibit 14.1.** Bảng của chương được in ở trang in 92, trước trang tiêu đề chương (trang in 93); câu đầu tiên của chương nói "Exhibit 14.1 at the start of the chapter". Trang in 100 (trang PDF 112) là Exhibit 15.1, thuộc Chương 15, nên không tổng hợp ở đây.
-> - **Mọi phép cộng trừ trong chương đều khớp**, đã kiểm tra lại: dòng tiền từ hoạt động kinh doanh 2.642 − 320 − 935 − 275 + 785 + 645 + 480 + 83 = 3.105; hoạt động đầu tư −3.050 − 575 = −3.625; hoạt động tài chính 125 + 500 + 175 − 750 = 50; tổng 3.105 − 3.625 + 50 = −470, khớp với tiền giảm từ 3.735 xuống 3.265; tổng tài sản và tổng nguồn vốn đầu năm 31.600, cuối năm 35.500; lợi nhuận giữ lại 13.108 + 2.642 − 750 = 15.000; bảng nguồn bù đắp 125 + 500 + 175 + 470 = 1.270 = 3.625 − 2.355. Không phát hiện lỗi số.
-> - **Mũi tên trong Exhibit 14.1 viết gọn.** Mũi tên nối dòng "Cash Dividends Paid Shareholders (750)" với mức thay đổi 1.892 của lợi nhuận giữ lại. Thật ra 1.892 là kết quả của hai dòng: lợi nhuận ròng 2.642 (ghi tăng) trừ cổ tức 750 (ghi giảm); dòng lợi nhuận ròng ở đầu báo cáo lưu chuyển tiền tệ không có mũi tên nối tới lợi nhuận giữ lại. Người đọc dễ hiểu nhầm rằng cổ tức "giải thích" toàn bộ con số 1.892.
-> - **Một câu dùng từ lỏng.** Ở trang in 94, Tracy viết rằng 750 nghìn USD cổ tức "làm giảm tài khoản vốn chủ sở hữu" (decreases the shareholders' equity account). Chính xác hơn, cổ tức làm giảm tài khoản lợi nhuận giữ lại (retained earnings), là một phần của vốn chủ sở hữu; câu ngay sau của ông cũng nói về lợi nhuận giữ lại.
-> - **Số tiền chi mua tài sản bằng đúng mức thay đổi số dư chỉ vì ví dụ đơn giản.** Chi mua nhà xưởng, máy móc, thiết bị 3.050 bằng đúng mức tăng nguyên giá (13.450 lên 16.500) vì trong năm doanh nghiệp không bán hay thanh lý tài sản nào. Chi cho tài sản vô hình 575 bằng đúng mức tăng số dư (5.000 lên 5.575) vì ví dụ không ghi chi phí phân bổ dần (amortization) cho tài sản vô hình. Ở doanh nghiệp thật, hai con số này thường khác nhau.
-> - **"Tiền thu từ thanh lý khoản đầu tư (sau thuế)".** Tracy viết phần đầu tư có thể gồm tiền thu từ thanh lý "net of tax". Theo hiểu biết của người tổng hợp, không tra cứu: theo US GAAP, tiền thu từ bán tài sản cố định thường được trình bày theo số tiền thu được ở phần đầu tư, còn thuế thu nhập nói chung nằm ở phần hoạt động kinh doanh; cách nói "sau thuế" của Tracy là cách nói gọn, không phải quy định.
-> - **Khái niệm "capital expenditures" của Tracy gồm cả tài sản vô hình** (3.625 = 3.050 + 575). Trong cách dùng phổ biến, chi đầu tư tài sản (capex) thường chỉ nói tới tài sản cố định hữu hình.
-> - **Bảng nguồn bù đắp ở trang in 96 ghi số theo USD**, còn Exhibit 14.1 và bảng ở mục Accounting Issues ghi theo nghìn USD. Bản tổng hợp quy về nghìn USD cho thống nhất.
-> - **Điều đã thay đổi từ 2009 (theo hiểu biết của người tổng hợp, không tra cứu):** chuẩn mực FASB về báo cáo lưu chuyển tiền tệ mà Tracy nhắc tới là FAS 95 (1987), từ 2009 nằm trong Bộ chuẩn mực FASB Codification ở chủ đề ASC 230; lệnh cấm công bố dòng tiền trên mỗi cổ phiếu vẫn còn. Theo IFRS (IAS 7), cổ tức đã trả được phép xếp vào hoạt động kinh doanh hoặc hoạt động tài chính, tức là gần với mong muốn "cho doanh nghiệp thêm lựa chọn" của Tracy hơn US GAAP.
+Tracy muốn người đọc hiểu rằng **hai phần sau của báo cáo lưu chuyển tiền tệ dễ đọc hơn nhiều so với phần đầu, nhưng chúng trả lời câu hỏi quan trọng nhất: doanh nghiệp đã làm gì với dòng tiền từ lợi nhuận, và lấy thêm tiền ở đâu khi dòng tiền đó không đủ.**
+
+Trong ví dụ, doanh nghiệp tạo ra 3.105 nghìn USD tiền từ hoạt động kinh doanh, trả 750 nghìn USD cổ tức tiền mặt, còn lại 2.355 nghìn USD. Nhưng trong năm doanh nghiệp chi 3.625 nghìn USD cho tài sản dài hạn dùng cho hoạt động (3.050 nghìn USD cho nhà xưởng, máy móc, thiết bị và 575 nghìn USD cho tài sản vô hình), tức là thiếu 1.270 nghìn USD.
+
+Khoản thiếu này được bù bằng bốn nguồn: vay ngắn hạn tăng 125, vay dài hạn tăng 500, phát hành thêm cổ phiếu 175, và để số dư tiền giảm 470 (nghìn USD).
+
+Tracy nhấn mạnh rằng chi đầu tư tài sản dài hạn (capital expenditures) là những quyết định quan trọng và rủi ro nhất của nhà quản lý; rằng có lợi nhuận không bảo đảm doanh nghiệp đủ tiền và trả được nợ.
+
+Và ông phê phán việc chuẩn mực của FASB bắt xếp cổ tức tiền mặt vào phần hoạt động tài chính, vì ông muốn đặt cổ tức ngay dưới dòng tiền từ hoạt động kinh doanh để người đọc thấy ngay còn bao nhiêu tiền cho các nhu cầu chung của doanh nghiệp.
 
 ## Sơ đồ
 
@@ -313,7 +309,9 @@ Tracy lưu ý rằng không có chuẩn mực hay hướng dẫn chung nào về
 
 **Tóm lại.** Báo cáo lưu chuyển tiền tệ đáng được chú ý và soi xét kỹ ngang với báo cáo kết quả kinh doanh và bảng cân đối kế toán. Dù không hay xảy ra, một công ty đang có lãi vẫn có thể đi tới vấn đề về khả năng thanh khoản (có quá ít tiền sẵn sàng) hoặc khả năng trả nợ (không trả được nợ đúng hạn). Lợi nhuận không bảo đảm khả năng thanh khoản và khả năng trả nợ. Cần đọc kỹ báo cáo lưu chuyển tiền tệ để xem có dấu hiệu nguy hiểm hay "cờ đỏ" (red flags) nào không.
 
-**Lời khuyên khi đọc báo cáo của công ty đại chúng.** Ở cuối Chương 13, Tracy đã nói rằng báo cáo lưu chuyển tiền tệ của hầu hết công ty đại chúng rối vì quá nhiều chi tiết, theo ông thường là nhiều quá mức. Người đọc có thể có cảm giác các công ty cố tình làm cho báo cáo lưu chuyển tiền tệ khó đọc, dù ông thừa nhận nhận định này có thể quá hoài nghi. Lời khuyên của ông: khi đọc báo cáo lưu chuyển tiền tệ, hãy tập trung chủ yếu vào các khoản lớn và bỏ qua các chi tiết nhỏ; lùi lại và cố nhìn bức tranh chung. Ông thấy lạ là báo cáo kết quả kinh doanh của hầu hết công ty đại chúng có ít dòng hơn nhiều so với báo cáo lưu chuyển tiền tệ và nhìn chung dễ hiểu hơn nhiều.
+**Lời khuyên khi đọc báo cáo của công ty đại chúng.** Ở cuối Chương 13, Tracy đã nói rằng báo cáo lưu chuyển tiền tệ của hầu hết công ty đại chúng rối vì quá nhiều chi tiết, theo ông thường là nhiều quá mức. Người đọc có thể có cảm giác các công ty cố tình làm cho báo cáo lưu chuyển tiền tệ khó đọc, dù ông thừa nhận nhận định này có thể quá hoài nghi.
+
+Lời khuyên của ông: khi đọc báo cáo lưu chuyển tiền tệ, hãy tập trung chủ yếu vào các khoản lớn và bỏ qua các chi tiết nhỏ; lùi lại và cố nhìn bức tranh chung. Ông thấy lạ là báo cáo kết quả kinh doanh của hầu hết công ty đại chúng có ít dòng hơn nhiều so với báo cáo lưu chuyển tiền tệ và nhìn chung dễ hiểu hơn nhiều.
 
 ### 4. Các vấn đề kế toán (Accounting Issues, trang in 98–99)
 
@@ -443,13 +441,21 @@ Báo cáo lưu chuyển tiền tệ theo phương pháp gián tiếp gồm ba ph
 Thay vì đọc báo cáo lưu chuyển tiền tệ từ trên xuống như ba phần tách rời, Tracy đặt một câu hỏi xuyên suốt: tiền từ lợi nhuận đi đâu, và khoản thiếu được bù bằng gì. Bảng 1.270 nghìn USD (125 + 500 + 175 + 470) biến báo cáo thành một câu chuyện về quyết định: ban lãnh đạo chọn chia cổ tức, chọn đầu tư mạnh, và chọn tài trợ bằng một hỗn hợp nợ, vốn chủ và tiền có sẵn. Cách đọc này áp dụng được cho mọi doanh nghiệp, kể cả khi báo cáo thật có hàng chục dòng: chỉ cần gom về vài con số lớn.
 
 ### Ví dụ được làm sạch để các mũi tên khớp tuyệt đối, nên người đọc cần cảnh giác với báo cáo thật
-Trong ví dụ, chi mua tài sản cố định bằng đúng mức tăng nguyên giá, chi cho tài sản vô hình bằng đúng mức tăng số dư, và vay nợ chỉ có tăng ròng. Trong thực tế, doanh nghiệp vừa mua vừa thanh lý tài sản, ghi phân bổ dần tài sản vô hình, có thể mua lại doanh nghiệp khác (tạo ra lợi thế thương mại), vừa vay mới vừa trả nợ cũ, và theo hiểu biết của người tổng hợp, chuẩn mực thường yêu cầu trình bày số gộp cho vay mới và trả nợ thay vì chỉ số ròng. Vì vậy mức thay đổi trên bảng cân đối kế toán thường không khớp trực tiếp với từng dòng của báo cáo lưu chuyển tiền tệ. Chính Tracy cũng thừa nhận một doanh nghiệp đang hoạt động thường có thanh lý tài sản, và các vấn đề gộp/ròng nằm ngoài phạm vi sách.
+Trong ví dụ, chi mua tài sản cố định bằng đúng mức tăng nguyên giá, chi cho tài sản vô hình bằng đúng mức tăng số dư, và vay nợ chỉ có tăng ròng. Trong thực tế, doanh nghiệp vừa mua vừa thanh lý tài sản, ghi phân bổ dần tài sản vô hình, có thể mua lại doanh nghiệp khác (tạo ra lợi thế thương mại), vừa vay mới vừa trả nợ cũ, và theo hiểu biết của người tổng hợp, chuẩn mực thường yêu cầu trình bày số gộp cho vay mới và trả nợ thay vì chỉ số ròng.
+
+Vì vậy mức thay đổi trên bảng cân đối kế toán thường không khớp trực tiếp với từng dòng của báo cáo lưu chuyển tiền tệ. Chính Tracy cũng thừa nhận một doanh nghiệp đang hoạt động thường có thanh lý tài sản, và các vấn đề gộp/ròng nằm ngoài phạm vi sách.
 
 ### Đề xuất về cổ tức của Tracy có lý, và IFRS phần nào đã cho phép điều ông muốn
-Lập luận của Tracy là cổ tức chia từ lợi nhuận, nên nên trừ ngay dưới dòng tiền từ lợi nhuận để thấy 2.355 nghìn USD còn lại cho các nhu cầu chung. Theo hiểu biết của người tổng hợp, không tra cứu: US GAAP (nay là ASC 230, trước là FAS 95) vẫn bắt xếp cổ tức đã trả vào hoạt động tài chính; trong khi IFRS (IAS 7) cho doanh nghiệp chọn xếp cổ tức đã trả vào hoạt động kinh doanh hoặc hoạt động tài chính, tức gần với mong muốn "cho thêm lựa chọn" của Tracy. Quan điểm trái chiều: cổ tức là giao dịch với người cấp vốn chủ, cùng bản chất với phát hành hay mua lại cổ phiếu, nên xếp vào hoạt động tài chính là nhất quán; hơn nữa, đặt cổ tức trong phần kinh doanh có thể làm mờ con số dòng tiền mà hoạt động kinh doanh thực sự tạo ra. Người đọc không cần chờ chuẩn mực thay đổi: tự trừ hai con số là có ngay chỉ tiêu Tracy muốn.
+Lập luận của Tracy là cổ tức chia từ lợi nhuận, nên nên trừ ngay dưới dòng tiền từ lợi nhuận để thấy 2.355 nghìn USD còn lại cho các nhu cầu chung.
+
+Theo hiểu biết của người tổng hợp, không tra cứu: US GAAP (nay là ASC 230, trước là FAS 95) vẫn bắt xếp cổ tức đã trả vào hoạt động tài chính; trong khi IFRS (IAS 7) cho doanh nghiệp chọn xếp cổ tức đã trả vào hoạt động kinh doanh hoặc hoạt động tài chính, tức gần với mong muốn "cho thêm lựa chọn" của Tracy.
+
+Quan điểm trái chiều: cổ tức là giao dịch với người cấp vốn chủ, cùng bản chất với phát hành hay mua lại cổ phiếu, nên xếp vào hoạt động tài chính là nhất quán; hơn nữa, đặt cổ tức trong phần kinh doanh có thể làm mờ con số dòng tiền mà hoạt động kinh doanh thực sự tạo ra. Người đọc không cần chờ chuẩn mực thay đổi: tự trừ hai con số là có ngay chỉ tiêu Tracy muốn.
 
 ### "Dòng tiền dùng được cho mục đích chung" của Tracy khác với "dòng tiền tự do" phổ biến
-Con số của Tracy (3.105 − 750 = 2.355) trừ cổ tức nhưng chưa trừ chi đầu tư tài sản. Cách tính dòng tiền tự do (free cash flow) hay gặp trong phân tích, theo hiểu biết của người tổng hợp, là dòng tiền từ hoạt động kinh doanh trừ chi đầu tư tài sản, trước cổ tức: 3.105 − 3.625 = −520 nghìn USD. Hai cách nhìn cho hai câu hỏi khác nhau: Tracy hỏi "sau khi chiều cổ đông còn bao nhiêu để làm việc khác"; cách tính dòng tiền tự do hỏi "sau khi duy trì và mở rộng tài sản, doanh nghiệp còn tiền để chia cho người cấp vốn không". Với doanh nghiệp ví dụ, dòng tiền tự do âm cho thấy cổ tức 750 nghìn USD thực chất được tài trợ bằng vay thêm, phát hành cổ phiếu và rút số dư tiền, một điểm đáng để người cho vay và nhà đầu tư hỏi ban lãnh đạo.
+Con số của Tracy (3.105 − 750 = 2.355) trừ cổ tức nhưng chưa trừ chi đầu tư tài sản. Cách tính dòng tiền tự do (free cash flow) hay gặp trong phân tích, theo hiểu biết của người tổng hợp, là dòng tiền từ hoạt động kinh doanh trừ chi đầu tư tài sản, trước cổ tức: 3.105 − 3.625 = −520 nghìn USD.
+
+Hai cách nhìn cho hai câu hỏi khác nhau: Tracy hỏi "sau khi chiều cổ đông còn bao nhiêu để làm việc khác"; cách tính dòng tiền tự do hỏi "sau khi duy trì và mở rộng tài sản, doanh nghiệp còn tiền để chia cho người cấp vốn không". Với doanh nghiệp ví dụ, dòng tiền tự do âm cho thấy cổ tức 750 nghìn USD thực chất được tài trợ bằng vay thêm, phát hành cổ phiếu và rút số dư tiền, một điểm đáng để người cho vay và nhà đầu tư hỏi ban lãnh đạo.
 
 ### Lời cảnh báo "có lãi chưa chắc có tiền" nhẹ nhàng nhưng đúng trọng tâm
 Tracy viết "dù không hay xảy ra" (though not too likely), nhưng doanh nghiệp ví dụ đã đốt 470 nghìn USD tiền trong một năm có lãi 2.642 nghìn USD. Nếu tốc độ chi đầu tư và cổ tức như vậy kéo dài mà không vay thêm được, số dư 3.265 nghìn USD (khoảng ba tuần doanh thu) sẽ cạn trong vài năm. Loạt câu hỏi "nếu kinh tế suy thoái, nếu doanh số sụt, nếu khách hàng trả chậm..." của Tracy chính là bài kiểm tra sức chịu đựng mà nhà quản lý và người cho vay nên làm. Việc ông nói "không có chuẩn chung" về mức tiền nên giữ là trung thực; trong thực tế, mức tiền phù hợp tuỳ thuộc vào tính ổn định của dòng tiền, khả năng tiếp cận hạn mức tín dụng và chu kỳ kinh doanh của ngành.
@@ -459,3 +465,151 @@ Tracy viết "dù không hay xảy ra" (though not too likely), nhưng doanh ngh
 - **Người cho vay:** nhìn tỷ lệ khoản thiếu được bù bằng nợ (625 trên 1.270 nghìn USD ở ví dụ) và việc doanh nghiệp vẫn duy trì cổ tức khi phải vay thêm.
 - **Nhà đầu tư:** so cổ tức với dòng tiền từ lợi nhuận (750 trên 3.105, khoảng 24%) và với dòng tiền sau chi đầu tư; theo dõi xem chi đầu tư tài sản có đem lại tăng trưởng doanh thu và lợi nhuận ở các năm sau không.
 - **Người đọc Việt Nam (vận dụng định tính):** báo cáo lưu chuyển tiền tệ theo chuẩn mực kế toán Việt Nam cũng chia ba phần hoạt động kinh doanh, đầu tư, tài chính, nên khung đọc của Tracy dùng được trực tiếp: gom các khoản lớn, trả lời câu hỏi tiền từ lợi nhuận đi đâu và khoản thiếu được bù bằng nợ hay vốn chủ.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 14 trên một trang: sáu nhánh lớn đi theo các mục 1–4 của phần Nội dung chi tiết và phần Đánh giá (Exhibit 14.1 nối báo cáo lưu chuyển tiền tệ với bảng cân đối kế toán, hai phần đầu tư và tài chính, bức tranh nguồn tiền – sử dụng tiền, chi đầu tư tài sản và mức tiền nên giữ, các vấn đề kế toán và đề xuất về cổ tức, đọc báo cáo thật), mỗi nhánh ghi định nghĩa, phép tính và con số then chốt của doanh nghiệp ví dụ (nghìn USD); nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 14: phần đầu tư và tài chính cho biết doanh nghiệp làm gì với dòng tiền từ lợi nhuận và lấy thêm tiền ở đâu`"]
+  n1["`Mục 1 — Exhibit 14.1: mỗi dòng đầu tư, tài chính nối với một tài khoản trên bảng cân đối kế toán`"]
+  n0 --- n1
+  n2["`Ba phần cộng lại: 3.105 − 3.625 + 50 = −470 nghìn USD`"]
+  n1 --- n2
+  n3["`Tiền giảm từ 3.735 xuống 3.265, khớp dòng tiền giảm 470 trong năm`"]
+  n1 --- n3
+  n4["`Chi nhà xưởng, máy móc, thiết bị 3.050 = nguyên giá tăng từ 13.450 lên 16.500`"]
+  n1 --- n4
+  n5["`Chi tài sản vô hình 575 = số dư tăng từ 5.000 lên 5.575`"]
+  n1 --- n5
+  n6["`Vay ngắn hạn +125, vay dài hạn +500, vốn cổ phần +175 khớp mức tăng trên bảng cân đối`"]
+  n1 --- n6
+  n7["`Lợi nhuận giữ lại 13.108 + 2.642 − 750 = 15.000, tăng ròng 1.892`"]
+  n1 --- n7
+  n8["`Tổng tài sản bằng tổng nguồn vốn: 31.600 đầu năm, 35.500 cuối năm`"]
+  n1 --- n8
+  n9["`Khớp tuyệt đối chỉ vì ví dụ không thanh lý tài sản, không phân bổ dần tài sản vô hình`"]
+  n1 --- n9
+  n10["`Mục 2 — Hoàn tất báo cáo: hai phần sau dễ hiểu hơn nhiều phần hoạt động kinh doanh`"]
+  n0 --- n10
+  n11["`Hoạt động đầu tư: chi mua và tiền thu thanh lý tài sản dài hạn dùng cho hoạt động`"]
+  n10 --- n11
+  n12["`Năm nay đầu tư −3.625, không thanh lý gì dù doanh nghiệp đang hoạt động thường có thanh lý`"]
+  n10 --- n12
+  n13["`Hoạt động tài chính: giao dịch với chủ nợ và cổ đông, năm nay thu ròng +50`"]
+  n10 --- n13
+  n14["`Cổ tức tiền mặt 750 bị xếp vào phần tài chính dù được chia từ lợi nhuận`"]
+  n10 --- n14
+  n15["`Tracy gọi tiền giảm 470 là #quot;dòng cuối#quot; vì đó là kết quả ròng của cả ba loại hoạt động`"]
+  n10 --- n15
+  n16["`Mục 3 — Nguồn tiền và sử dụng tiền: 3.105 từ lợi nhuận đã đi đâu`"]
+  n0 --- n16
+  n17["`Lợi nhuận là nguồn tiền nội bộ: 3.105 do chính doanh nghiệp tạo ra, không phải tìm vốn bên ngoài`"]
+  n16 --- n17
+  n18["`Có thể để tiền nằm trong tài khoản, trả bớt nợ hoặc trả cổ tức tiền mặt`"]
+  n16 --- n18
+  n19["`Trả cổ tức 750, còn 2.355 từ hoạt động kinh doanh`"]
+  n16 --- n19
+  n20["`Chi đầu tư tài sản 3.625 (3.050 hữu hình + 575 vô hình) để hiện đại hoá và mở rộng`"]
+  n16 --- n20
+  n21["`Khoản thiếu hụt tiền: 3.625 − 2.355 = 1.270`"]
+  n16 --- n21
+  n22["`Bù bằng vay ngắn hạn 125, vay dài hạn 500, phát hành cổ phiếu 175, số dư tiền giảm 470`"]
+  n21 --- n22
+  n23["`Cách đọc khác: 3.105 + 800 vốn bên ngoài + 470 = 4.375 = 750 cổ tức + 3.625 chi đầu tư`"]
+  n21 --- n23
+  n24["`Doanh nghiệp tăng trưởng thường thiếu tiền sau cổ tức để chi đầu tư, phải tăng vốn vay và vốn chủ`"]
+  n16 --- n24
+  n25["`Mục 3 (tiếp) — Chi đầu tư tài sản và mức tiền nên giữ`"]
+  n0 --- n25
+  n26["`Chi đầu tư tài sản là đặt cược vào tương lai, thuộc các quyết định quan trọng nhất của nhà quản lý`"]
+  n25 --- n26
+  n27["`Không đầu tư có thể là bản án tử: tụt sau đối thủ, mất thị phần không lấy lại được`"]
+  n25 --- n27
+  n28["`Đầu tư quá tay thì công suất dư thừa thành gánh nặng đeo bám doanh nghiệp`"]
+  n25 --- n28
+  n29["`Tiền cuối năm 3.265 ≈ 3,3 tuần doanh thu (52.000 ÷ 52 tuần = 1.000 mỗi tuần)`"]
+  n25 --- n29
+  n30["`Không có chuẩn chung về số dư tiền nên giữ, Tracy cho mức 3.265 là đủ`"]
+  n29 --- n30
+  n31["`Tấm đệm tiền phải chịu được kinh tế suy thoái, doanh số sụt, phải thu chậm, tồn kho bán chậm, trả lương`"]
+  n29 --- n31
+  n32["`Có thể bỏ cổ tức để giữ tiền, nhưng cổ đông muốn cổ tức và hội đồng quản trị chịu sức ép`"]
+  n25 --- n32
+  n33["`Mục 4 — Các vấn đề kế toán và đề xuất của Tracy về cổ tức`"]
+  n0 --- n33
+  n34["`Bộ phận đã ngừng hoạt động, số gộp hay số ròng: vấn đề kỹ thuật nằm ngoài phạm vi sách`"]
+  n33 --- n34
+  n35["`FASB cấm công bố dòng tiền trên mỗi cổ phiếu để người đọc không nhầm với EPS`"]
+  n33 --- n35
+  n36["`Tracy đề xuất: dòng tiền từ hoạt động kinh doanh 3.105 − cổ tức 750 = 2.355 dùng được cho mục đích chung`"]
+  n33 --- n36
+  n37["`Đặt cổ tức cạnh dòng tiền từ lợi nhuận để dễ đánh giá mức cổ tức và tiền còn lại`"]
+  n36 --- n37
+  n38["`FASB chưa bao giờ hỏi ý Tracy, ông muốn doanh nghiệp được chọn chỗ đặt cổ tức`"]
+  n33 --- n38
+  n39["`Theo IAS 7, cổ tức đã trả được xếp vào hoạt động kinh doanh hoặc tài chính, gần ý Tracy`"]
+  n38 --- n39
+  n40["`Đánh giá — Đọc báo cáo thật và các chỉ số`"]
+  n0 --- n40
+  n41["`Dòng tiền tự do = CFO − capex = 3.105 − 3.625 = −520 trước cổ tức`"]
+  n40 --- n41
+  n42["`Dòng tiền tự do âm: cổ tức 750 thực chất được tài trợ bằng vay, phát hành cổ phiếu và rút tiền`"]
+  n41 --- n42
+  n43["`Báo cáo thật vừa mua vừa thanh lý, vừa vay mới vừa trả nợ, nên dòng không khớp trực tiếp mức thay đổi`"]
+  n40 --- n43
+  n44["`Capex của Tracy gồm cả tài sản vô hình, cách dùng phổ biến chỉ tính tài sản cố định hữu hình`"]
+  n40 --- n44
+  n45["`Người cho vay: 625 trên 1.270 khoản thiếu được bù bằng nợ`"]
+  n40 --- n45
+  n46["`Nhà đầu tư: cổ tức 750 trên dòng tiền từ lợi nhuận 3.105, khoảng 24%`"]
+  n40 --- n46
+  n47["`Đốt 470 tiền trong năm lãi 2.642, nhịp này kéo dài thì 3.265 cạn trong vài năm`"]
+  n40 --- n47
+  n48["`Thông điệp xuyên suốt`"]
+  n0 --- n48
+  n49["`Lợi nhuận không bảo đảm khả năng thanh khoản và khả năng trả nợ`"]
+  n48 --- n49
+  n50["`Đọc báo cáo lưu chuyển tiền tệ kỹ ngang hai báo cáo kia để tìm cờ đỏ`"]
+  n48 --- n50
+  n51["`Tập trung vào các khoản lớn, bỏ qua chi tiết vụn của báo cáo công ty đại chúng`"]
+  n48 --- n51
+  n52["`Mỗi quyết định chi đầu tư tài sản đi kèm quyết định tài trợ: nợ, vốn chủ hay rút số dư tiền`"]
+  n48 --- n52
+  class n0 root
+  class n1,n10,n16,n25,n33,n40,n48 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n17,n18,n19,n20,n21,n22,n23,n24,n26,n27,n28,n29,n30,n31,n32,n34,n35,n36,n37,n38,n39,n41,n42,n43,n44,n45,n46,n47,n49,n50,n51,n52 leaf
+```
+
+## Nguồn
+
+John A. Tracy, *How to Read a Financial Report: Wringing Vital Signs Out of the Numbers*, ấn bản thứ bảy (John Wiley & Sons, 2009), Phần Một "Components and Connections in Financial Statements", Chương 14 "Cash Flows from Investing and Financing Activities", trang in 92–99 (Exhibit 14.1 in ở trang 92, ngay trước trang tiêu đề chương ở trang 93; phần chữ chạy từ trang 94 đến trang 99).
+
+## Tác giả
+
+John A. Tracy, giáo sư kế toán danh dự Đại học Colorado ở Boulder, kế toán viên công chứng (CPA).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Từ Chương 4 đến Chương 12, Tracy lần lượt đi qua từng cặp "khoản mục báo cáo kết quả kinh doanh – khoản mục bảng cân đối kế toán" của doanh nghiệp ví dụ (doanh thu 52 triệu USD/năm). Chương 13 ([C13-dong-tien-tu-hoat-dong-kinh-doanh.md](C13-dong-tien-tu-hoat-dong-kinh-doanh.md)) gom các mối nối đó lại để giải thích phần thứ nhất và khó nhất của báo cáo lưu chuyển tiền tệ (statement of cash flows): dòng tiền từ hoạt động kinh doanh (cash flow from operating activities), mà Tracy hay gọi là "dòng tiền từ lợi nhuận" (cash flow from profit), bằng 3.105 nghìn USD trong khi lợi nhuận ròng là 2.642 nghìn USD.
+
+Chương 14 hoàn tất báo cáo lưu chuyển tiền tệ bằng hai phần còn lại: hoạt động đầu tư (investing activities) và hoạt động tài chính (financing activities), rồi đặt cả ba phần vào một bức tranh nguồn tiền – sử dụng tiền.
+
+Đây là chương cuối cùng về các mối nối giữa ba báo cáo; Chương 15 ([C15-thuyet-minh-bao-cao-tai-chinh.md](C15-thuyet-minh-bao-cao-tai-chinh.md)) chuyển sang thuyết minh báo cáo tài chính (footnotes), và Chương 16 ([C16-tac-dong-cua-tang-truong-va-suy-giam-len-dong-tien.md](C16-tac-dong-cua-tang-truong-va-suy-giam-len-dong-tien.md)) dùng lại ý của chương này để xem tăng trưởng và suy giảm tác động thế nào tới dòng tiền.
+
+## Lưu ý
+
+- **Vị trí của Exhibit 14.1.** Bảng của chương được in ở trang in 92, trước trang tiêu đề chương (trang in 93); câu đầu tiên của chương nói "Exhibit 14.1 at the start of the chapter". Trang in 100 (trang PDF 112) là Exhibit 15.1, thuộc Chương 15, nên không tổng hợp ở đây.
+- **Mọi phép cộng trừ trong chương đều khớp**, đã kiểm tra lại: dòng tiền từ hoạt động kinh doanh 2.642 − 320 − 935 − 275 + 785 + 645 + 480 + 83 = 3.105; hoạt động đầu tư −3.050 − 575 = −3.625; hoạt động tài chính 125 + 500 + 175 − 750 = 50; tổng 3.105 − 3.625 + 50 = −470, khớp với tiền giảm từ 3.735 xuống 3.265; tổng tài sản và tổng nguồn vốn đầu năm 31.600, cuối năm 35.500; lợi nhuận giữ lại 13.108 + 2.642 − 750 = 15.000; bảng nguồn bù đắp 125 + 500 + 175 + 470 = 1.270 = 3.625 − 2.355. Không phát hiện lỗi số.
+- **Mũi tên trong Exhibit 14.1 viết gọn.** Mũi tên nối dòng "Cash Dividends Paid Shareholders (750)" với mức thay đổi 1.892 của lợi nhuận giữ lại. Thật ra 1.892 là kết quả của hai dòng: lợi nhuận ròng 2.642 (ghi tăng) trừ cổ tức 750 (ghi giảm); dòng lợi nhuận ròng ở đầu báo cáo lưu chuyển tiền tệ không có mũi tên nối tới lợi nhuận giữ lại. Người đọc dễ hiểu nhầm rằng cổ tức "giải thích" toàn bộ con số 1.892.
+- **Một câu dùng từ lỏng.** Ở trang in 94, Tracy viết rằng 750 nghìn USD cổ tức "làm giảm tài khoản vốn chủ sở hữu" (decreases the shareholders' equity account). Chính xác hơn, cổ tức làm giảm tài khoản lợi nhuận giữ lại (retained earnings), là một phần của vốn chủ sở hữu; câu ngay sau của ông cũng nói về lợi nhuận giữ lại.
+- **Số tiền chi mua tài sản bằng đúng mức thay đổi số dư chỉ vì ví dụ đơn giản.** Chi mua nhà xưởng, máy móc, thiết bị 3.050 bằng đúng mức tăng nguyên giá (13.450 lên 16.500) vì trong năm doanh nghiệp không bán hay thanh lý tài sản nào. Chi cho tài sản vô hình 575 bằng đúng mức tăng số dư (5.000 lên 5.575) vì ví dụ không ghi chi phí phân bổ dần (amortization) cho tài sản vô hình. Ở doanh nghiệp thật, hai con số này thường khác nhau.
+- **"Tiền thu từ thanh lý khoản đầu tư (sau thuế)".** Tracy viết phần đầu tư có thể gồm tiền thu từ thanh lý "net of tax". Theo hiểu biết của người tổng hợp, không tra cứu: theo US GAAP, tiền thu từ bán tài sản cố định thường được trình bày theo số tiền thu được ở phần đầu tư, còn thuế thu nhập nói chung nằm ở phần hoạt động kinh doanh; cách nói "sau thuế" của Tracy là cách nói gọn, không phải quy định.
+- **Khái niệm "capital expenditures" của Tracy gồm cả tài sản vô hình** (3.625 = 3.050 + 575). Trong cách dùng phổ biến, chi đầu tư tài sản (capex) thường chỉ nói tới tài sản cố định hữu hình.
+- **Bảng nguồn bù đắp ở trang in 96 ghi số theo USD**, còn Exhibit 14.1 và bảng ở mục Accounting Issues ghi theo nghìn USD. Bản tổng hợp quy về nghìn USD cho thống nhất.
+- **Điều đã thay đổi từ 2009 (theo hiểu biết của người tổng hợp, không tra cứu):** chuẩn mực FASB về báo cáo lưu chuyển tiền tệ mà Tracy nhắc tới là FAS 95 (1987), từ 2009 nằm trong Bộ chuẩn mực FASB Codification ở chủ đề ASC 230; lệnh cấm công bố dòng tiền trên mỗi cổ phiếu vẫn còn. Theo IFRS (IAS 7), cổ tức đã trả được phép xếp vào hoạt động kinh doanh hoặc hoạt động tài chính, tức là gần với mong muốn "cho doanh nghiệp thêm lựa chọn" của Tracy hơn US GAAP.

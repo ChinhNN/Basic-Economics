@@ -1,19 +1,16 @@
 # Chương 2 — Ba báo cáo tài chính (The Three Financial Statements)
 
-**Nguồn:** John A. Tracy, *How to Read a Financial Report: Wringing Vital Signs Out of the Numbers*, ấn bản thứ bảy (John Wiley & Sons, 2009), Phần Một "Components and Connections in Financial Statements", Chương 2 "The Three Financial Statements", trang in 9–18.
-**Tác giả:** John A. Tracy, giáo sư kế toán danh dự Đại học Colorado ở Boulder, kế toán viên công chứng (CPA).
-**Vị trí trong lập luận của cả cuốn sách:** Chương 1 ([C01-bat-dau-tu-dong-tien.md](C01-bat-dau-tu-dong-tien.md)) mở đầu bằng một bản tóm tắt dòng tiền không chính thức của doanh nghiệp ví dụ và chỉ ra rằng chỉ nhìn dòng tiền thì không biết được doanh nghiệp lãi hay lỗ, cũng không biết tình hình tài chính của nó. Chương 2 đưa ra ba báo cáo chính thức để lấp chỗ thiếu đó: bảng cân đối kế toán (balance sheet) cho biết tình hình tài chính, báo cáo kết quả kinh doanh (income statement) cho biết kết quả lợi nhuận, và báo cáo lưu chuyển tiền tệ (statement of cash flows) cho biết dòng tiền theo mẫu chuẩn. Đây là chương "đặt nền": ba báo cáo mẫu của chương này (Exhibit 2.1, 2.2, 2.3) được dùng xuyên suốt sách. Chương 3 ([C03-loi-nhuan-khong-phai-la-tat-ca.md](C03-loi-nhuan-khong-phai-la-tat-ca.md)) giải thích vì sao lợi nhuận chưa phải là tất cả; các Chương 4 đến 12 lần lượt nối từng khoản mục của báo cáo kết quả kinh doanh với một khoản mục của bảng cân đối kế toán (doanh thu với phải thu khách hàng, giá vốn hàng bán với hàng tồn kho, v.v.), dùng đúng các con số trong chương này; các Chương 13 và 14 ([C13-dong-tien-tu-hoat-dong-kinh-doanh.md](C13-dong-tien-tu-hoat-dong-kinh-doanh.md), [C14-dong-tien-tu-hoat-dong-dau-tu-va-tai-chinh.md](C14-dong-tien-tu-hoat-dong-dau-tu-va-tai-chinh.md)) giải thích kỹ báo cáo lưu chuyển tiền tệ mà chương này mới chỉ giới thiệu; Chương 15 bàn về thuyết minh báo cáo tài chính mà ví dụ ở đây cố ý lược bỏ.
-**Ý chính:** Tracy muốn người đọc hiểu rằng **một bộ báo cáo tài chính hoàn chỉnh gồm ba báo cáo, mỗi báo cáo trả lời một câu hỏi khác nhau, và chúng gắn chặt với nhau**: báo cáo kết quả kinh doanh tổng hợp doanh thu và chi phí cộng dồn trong cả một kỳ; bảng cân đối kế toán chụp lại số dư tài sản, nợ phải trả và vốn chủ sở hữu tại đúng một thời điểm cuối kỳ; báo cáo lưu chuyển tiền tệ giải thích vì sao tiền thay đổi trong kỳ. Hai bảng cân đối đầu năm và cuối năm giống như hai cái chặn sách kẹp hai báo cáo "hoạt động" ở giữa. Doanh nghiệp ví dụ (đơn vị nghìn USD) có doanh thu 52.000, lợi nhuận ròng 2.642 (chỉ 5,1% doanh thu còn lại thành lợi nhuận cuối cùng), tổng tài sản tăng từ 31.600 lên 35.500, nhưng tiền lại giảm 470 (từ 3.735 xuống 3.265): dòng tiền từ hoạt động kinh doanh chỉ là 3.105, nhỏ hơn khoản chi đầu tư 3.625, trong khi hoạt động tài chính chỉ mang vào thêm 50 sau khi đã trả 750 cổ tức. Tracy còn nhấn mạnh rằng muốn hiểu dòng tiền thì trước hết phải nắm vững báo cáo kết quả kinh doanh, bảng cân đối kế toán và mối nối giữa hai báo cáo này, và rằng lợi nhuận giữ lại **không phải** là một tài sản.
+## Ý chính
 
-> **Lưu ý:**
-> - **Bố cục bảng cân đối kế toán (Exhibit 2.1):** trong sách, tài sản nằm ở nửa trái, nợ phải trả và vốn chủ sở hữu nằm ở nửa phải của cùng một trang. Bản tổng hợp tách thành hai bảng markdown (tài sản; nợ phải trả và vốn chủ sở hữu) nhưng giữ đủ mọi dòng và mọi con số. Các Exhibit 2.1–2.4 (và Exhibit 1.1 của Chương 1, chép lại ở mục 4 để so sánh) đã được đối chiếu với ảnh trang sách; mọi phép cộng trừ đã được kiểm lại đều khớp.
-> - **Cột "Change" (thay đổi) trong Exhibit 2.1 không phải thông lệ:** chính Tracy nói hầu hết bảng cân đối kế toán không có cột này; ông thêm vào vì các chương sau cần các con số thay đổi.
-> - **Không tìm thấy lỗi số trong bốn Exhibit:** mọi tổng phụ, tổng cộng, cột thay đổi và mối nối giữa ba báo cáo (lợi nhuận giữ lại tăng 1.892 = lợi nhuận ròng 2.642 trừ cổ tức 750; tiền giảm 470 trong cả bảng cân đối lẫn báo cáo lưu chuyển tiền tệ) đều khớp.
-> - **Thứ tự dòng trong Exhibit 2.3 khác cách trình bày phổ biến:** Tracy đặt dòng khấu hao (cộng lại 785) ở giữa, sau các khoản tăng tài sản ngắn hạn và trước các khoản tăng nợ ngắn hạn, theo đúng thứ tự khoản mục trong bảng cân đối. Theo hiểu biết của người tổng hợp, không tra cứu, báo cáo của các công ty thường đặt khấu hao ngay sau lợi nhuận ròng. Tổng vẫn như nhau.
-> - **Tài sản vô hình được trình bày đơn giản hoá:** Tracy viết rằng "quan điểm hiện nay" là giữ nguyên giá tài sản vô hình cho tới khi nó mất giá trị rồi mới ghi chi phí. Theo hiểu biết của người tổng hợp, không tra cứu, từ chuẩn mực FAS 142 (2001) của Mỹ, chỉ lợi thế thương mại và tài sản vô hình có thời hạn sử dụng không xác định mới thôi phân bổ dần và chuyển sang kiểm tra suy giảm giá trị; tài sản vô hình có thời hạn hữu hạn (ví dụ bằng sáng chế còn một số năm hiệu lực) vẫn phải phân bổ dần. Doanh nghiệp ví dụ không có chi phí phân bổ dần nào trong năm, nên tài sản vô hình tăng đúng bằng khoản chi mua thêm (575).
-> - **Định nghĩa chi phí thuế thu nhập được viết gọn:** Tracy mô tả nó là tổng số thuế phải nộp cho nhà nước (liên bang và bang) tính trên thu nhập chịu thuế của kỳ. Theo hiểu biết của người tổng hợp, chi phí thuế thu nhập trên báo cáo kết quả kinh doanh còn có thể gồm phần thuế hoãn lại, nên không phải lúc nào cũng bằng số thuế phải nộp của năm; Chương 11 của sách đi sâu vào chuyện này. Thuế suất hiệu dụng của ví dụ là 1.748 / 4.390 ≈ 39,8% (người tổng hợp tự tính), phản ánh thời 2008–2009 khi thuế suất liên bang cao nhất với doanh nghiệp là 35% cộng thêm thuế bang; từ 2018 thuế suất liên bang chỉ còn 21% (theo hiểu biết của người tổng hợp, không tra cứu).
-> - **Chỗ dễ hiểu nhầm:** cụm "Distribution of Cash Dividends from Profit" (chia cổ tức tiền mặt từ lợi nhuận) không có nghĩa là cổ tức được trả bằng một khoản "tiền lợi nhuận" riêng; cổ tức được trả bằng tiền mặt chung của doanh nghiệp và làm giảm lợi nhuận giữ lại.
-> - Chương này không có mục "Accounting Issues" ở cuối.
+Tracy muốn người đọc hiểu rằng **một bộ báo cáo tài chính hoàn chỉnh gồm ba báo cáo, mỗi báo cáo trả lời một câu hỏi khác nhau, và chúng gắn chặt với nhau**.
+
+Báo cáo kết quả kinh doanh tổng hợp doanh thu và chi phí cộng dồn trong cả một kỳ. Bảng cân đối kế toán chụp lại số dư tài sản, nợ phải trả và vốn chủ sở hữu tại đúng một thời điểm cuối kỳ. Báo cáo lưu chuyển tiền tệ giải thích vì sao tiền thay đổi trong kỳ. Hai bảng cân đối đầu năm và cuối năm giống như hai cái chặn sách kẹp hai báo cáo "hoạt động" ở giữa.
+
+Doanh nghiệp ví dụ (đơn vị nghìn USD) có doanh thu 52.000, lợi nhuận ròng 2.642 (chỉ 5,1% doanh thu còn lại thành lợi nhuận cuối cùng), tổng tài sản tăng từ 31.600 lên 35.500, nhưng tiền lại giảm 470 (từ 3.735 xuống 3.265).
+
+Dòng tiền từ hoạt động kinh doanh chỉ là 3.105, nhỏ hơn khoản chi đầu tư 3.625, trong khi hoạt động tài chính chỉ mang vào thêm 50 sau khi đã trả 750 cổ tức.
+
+Tracy còn nhấn mạnh rằng muốn hiểu dòng tiền thì trước hết phải nắm vững báo cáo kết quả kinh doanh, bảng cân đối kế toán và mối nối giữa hai báo cáo này, và rằng lợi nhuận giữ lại **không phải** là một tài sản.
 
 ## Sơ đồ
 
@@ -378,7 +375,14 @@ Kiểm tra: 52.000 − 33.800 = 18.200; 18.200 − 12.480 − 785 = 4.935; 4.935
 
 Kiểm tra: 2.642 − 320 − 935 − 275 + 785 + 645 + 480 + 83 = 3.105; −3.050 − 575 = −3.625; 125 + 500 + 175 − 750 = 50; 3.105 − 3.625 + 50 = −470; 3.735 − 470 = 3.265.
 
-Người tổng hợp ghi thêm các mối nối giữa ba bảng trên (Tracy chỉ nêu chúng rõ ở các chương sau, nhưng ở đây con số đã cho thấy): tiền giảm 470 ở báo cáo lưu chuyển tiền tệ đúng bằng cột thay đổi của dòng tiền trong bảng cân đối; mỗi dòng điều chỉnh ở phần hoạt động kinh doanh là cột thay đổi của một tài khoản ngắn hạn trong bảng cân đối (tài sản tăng thì trừ, nợ tăng thì cộng); khấu hao 785 xuất hiện ở cả ba nơi (chi phí trong báo cáo kết quả kinh doanh, mức tăng khấu hao luỹ kế, dòng cộng lại trong báo cáo lưu chuyển tiền tệ); chi đầu tư 3.050 và 575 đúng bằng mức tăng nguyên giá nhà xưởng, máy móc, thiết bị và tài sản vô hình; vay ngắn hạn tăng 125, vay dài hạn tăng 500, vốn cổ phần tăng 175 khớp với hoạt động tài chính; lợi nhuận giữ lại tăng 1.892 đúng bằng lợi nhuận ròng 2.642 trừ cổ tức 750.
+Người tổng hợp ghi thêm các mối nối giữa ba bảng trên (Tracy chỉ nêu chúng rõ ở các chương sau, nhưng ở đây con số đã cho thấy):
+
+- tiền giảm 470 ở báo cáo lưu chuyển tiền tệ đúng bằng cột thay đổi của dòng tiền trong bảng cân đối
+- mỗi dòng điều chỉnh ở phần hoạt động kinh doanh là cột thay đổi của một tài khoản ngắn hạn trong bảng cân đối (tài sản tăng thì trừ, nợ tăng thì cộng)
+- khấu hao 785 xuất hiện ở cả ba nơi (chi phí trong báo cáo kết quả kinh doanh, mức tăng khấu hao luỹ kế, dòng cộng lại trong báo cáo lưu chuyển tiền tệ)
+- chi đầu tư 3.050 và 575 đúng bằng mức tăng nguyên giá nhà xưởng, máy móc, thiết bị và tài sản vô hình
+- vay ngắn hạn tăng 125, vay dài hạn tăng 500, vốn cổ phần tăng 175 khớp với hoạt động tài chính
+- lợi nhuận giữ lại tăng 1.892 đúng bằng lợi nhuận ròng 2.642 trừ cổ tức 750.
 
 ### 2. Báo cáo kết quả kinh doanh (Income Statement, trang in 13–14)
 
@@ -461,9 +465,13 @@ Nhóm tài sản thứ hai có tên "Tài sản dài hạn dùng cho hoạt đ�
 
 Tài sản hữu hình của doanh nghiệp được báo cáo trong tài khoản "Nhà xưởng, máy móc, thiết bị" (16.500 nghìn USD nguyên giá cuối năm nay, 13.450 năm trước). Nói thân mật hơn, các tài sản này gọi là **tài sản cố định** (fixed assets), dù thuật ngữ này thường không dùng trong bảng cân đối. Chữ "cố định" hơi quá: các tài sản này không thật sự cố định hay vĩnh viễn, trừ đất đai doanh nghiệp sở hữu. Chính xác hơn, đây là các nguồn lực hoạt động dài hạn được dùng trong nhiều năm, như nhà cửa, máy móc, thiết bị, xe tải, xe nâng, đồ đạc, máy tính, điện thoại, v.v.
 
-Nguyên giá của một tài sản cố định, trừ đất, được trừ dần trong suốt thời gian sử dụng hữu ích của nó. Nhờ vậy mỗi kỳ sử dụng gánh một phần tổng nguyên giá của từng tài sản cố định. Việc phân chia nguyên giá tài sản cố định theo thời gian sử dụng hữu ích như vậy gọi là **khấu hao**. Số khấu hao của một năm được báo cáo là chi phí trong báo cáo kết quả kinh doanh (785 nghìn USD năm nay). Tổng số đã ghi vào chi phí khấu hao từ ngày mua tới ngày lập bảng cân đối được báo cáo trong tài khoản **khấu hao luỹ kế** trên bảng cân đối (4.250 nghìn USD cuối năm nay, 3.465 năm trước). Số dư khấu hao luỹ kế được trừ khỏi nguyên giá tài sản cố định: 16.500 − 4.250 = 12.250 nghìn USD "nguyên giá trừ khấu hao" cuối năm nay (năm trước 13.450 − 3.465 = 9.985).
+Nguyên giá của một tài sản cố định, trừ đất, được trừ dần trong suốt thời gian sử dụng hữu ích của nó. Nhờ vậy mỗi kỳ sử dụng gánh một phần tổng nguyên giá của từng tài sản cố định. Việc phân chia nguyên giá tài sản cố định theo thời gian sử dụng hữu ích như vậy gọi là **khấu hao**.
 
-Trong ví dụ, doanh nghiệp sở hữu nhiều tài sản dài hạn vô hình dùng cho hoạt động (5.575 nghìn USD cuối năm nay, 5.000 năm trước). Các tài sản này được ghi theo giá mua. Giá mua của tài sản vô hình được giữ nguyên trên sổ sách cho tới khi doanh nghiệp xác định rằng tài sản đã mất giá trị hoặc không còn lợi ích kinh tế. Lúc đó doanh nghiệp ghi giảm (hoặc xoá sổ) nguyên giá của tài sản vô hình và tính số tiền đó vào chi phí, thường là **chi phí phân bổ dần** (amortization expense). Cho tới gần đây, thông lệ chung là phân bổ nguyên giá tài sản vô hình theo những khoảng thời gian chọn tuỳ ý. Tuy nhiên, nhiều tài sản vô hình có thời gian sử dụng hữu ích không xác định được và không có hạn định. Quan điểm phổ biến hiện nay (theo Tracy) là nên chờ tới khi tài sản vô hình mất giá trị rồi mới ghi chi phí.
+Số khấu hao của một năm được báo cáo là chi phí trong báo cáo kết quả kinh doanh (785 nghìn USD năm nay). Tổng số đã ghi vào chi phí khấu hao từ ngày mua tới ngày lập bảng cân đối được báo cáo trong tài khoản **khấu hao luỹ kế** trên bảng cân đối (4.250 nghìn USD cuối năm nay, 3.465 năm trước). Số dư khấu hao luỹ kế được trừ khỏi nguyên giá tài sản cố định: 16.500 − 4.250 = 12.250 nghìn USD "nguyên giá trừ khấu hao" cuối năm nay (năm trước 13.450 − 3.465 = 9.985).
+
+Trong ví dụ, doanh nghiệp sở hữu nhiều tài sản dài hạn vô hình dùng cho hoạt động (5.575 nghìn USD cuối năm nay, 5.000 năm trước). Các tài sản này được ghi theo giá mua. Giá mua của tài sản vô hình được giữ nguyên trên sổ sách cho tới khi doanh nghiệp xác định rằng tài sản đã mất giá trị hoặc không còn lợi ích kinh tế. Lúc đó doanh nghiệp ghi giảm (hoặc xoá sổ) nguyên giá của tài sản vô hình và tính số tiền đó vào chi phí, thường là **chi phí phân bổ dần** (amortization expense).
+
+Cho tới gần đây, thông lệ chung là phân bổ nguyên giá tài sản vô hình theo những khoảng thời gian chọn tuỳ ý. Tuy nhiên, nhiều tài sản vô hình có thời gian sử dụng hữu ích không xác định được và không có hạn định. Quan điểm phổ biến hiện nay (theo Tracy) là nên chờ tới khi tài sản vô hình mất giá trị rồi mới ghi chi phí.
 
 **Tài sản khác** là tên gom chung cho những tài sản không thuộc nhóm tài sản ngắn hạn hay tài sản dài hạn dùng cho hoạt động. Công ty trong ví dụ không có tài sản "khác" nào.
 
@@ -649,7 +657,13 @@ Tracy nói quan điểm hiện nay là chờ tài sản vô hình mất giá tr�
 
 ### Một số chi tiết của báo cáo mẫu đã khác với thực tế sau 2009
 
-Theo hiểu biết của người tổng hợp, không tra cứu: thuế suất thu nhập doanh nghiệp liên bang Mỹ giảm từ mức cao nhất 35% xuống 21% từ 2018, nên tỷ lệ thuế khoảng 39,8% của ví dụ nay là cao so với một doanh nghiệp Mỹ điển hình; chuẩn mực doanh thu ASC 606 / IFRS 15 (áp dụng từ khoảng 2018) thay cách ghi nhận doanh thu bằng mô hình năm bước dựa trên nghĩa vụ thực hiện, dù định nghĩa "doanh thu thuần, không gồm thuế bán hàng" của Tracy vẫn đúng; chuẩn mực thuê tài sản ASC 842 / IFRS 16 (từ 2019) đưa phần lớn hợp đồng thuê lên bảng cân đối thành tài sản quyền sử dụng và nợ thuê, nên bảng cân đối thật của doanh nghiệp đi thuê nhà xưởng sẽ có thêm các dòng mà ví dụ không có. Ngoài ra, theo IFRS, báo cáo này thường gọi là "statement of financial position", và tiền lãi, cổ tức có thể được phân loại linh hoạt hơn giữa các nhóm dòng tiền so với US GAAP.
+Theo hiểu biết của người tổng hợp, không tra cứu:
+
+- thuế suất thu nhập doanh nghiệp liên bang Mỹ giảm từ mức cao nhất 35% xuống 21% từ 2018, nên tỷ lệ thuế khoảng 39,8% của ví dụ nay là cao so với một doanh nghiệp Mỹ điển hình
+- chuẩn mực doanh thu ASC 606 / IFRS 15 (áp dụng từ khoảng 2018) thay cách ghi nhận doanh thu bằng mô hình năm bước dựa trên nghĩa vụ thực hiện, dù định nghĩa "doanh thu thuần, không gồm thuế bán hàng" của Tracy vẫn đúng
+- chuẩn mực thuê tài sản ASC 842 / IFRS 16 (từ 2019) đưa phần lớn hợp đồng thuê lên bảng cân đối thành tài sản quyền sử dụng và nợ thuê, nên bảng cân đối thật của doanh nghiệp đi thuê nhà xưởng sẽ có thêm các dòng mà ví dụ không có.
+
+Ngoài ra, theo IFRS, báo cáo này thường gọi là "statement of financial position", và tiền lãi, cổ tức có thể được phân loại linh hoạt hơn giữa các nhóm dòng tiền so với US GAAP.
 
 ### Định nghĩa ngắn của từng dòng chi phí là điểm mạnh, nhưng có chỗ cần đọc kỹ
 
@@ -657,4 +671,149 @@ Danh sách quy ước của Tracy (doanh thu thuần, hao hụt tồn kho, SG&A 
 
 ### Vận dụng cho người đọc
 
-Với nhà quản lý: ba báo cáo là ba câu hỏi khác nhau, và kế hoạch tăng trưởng phải được kiểm tra trên cả ba, nhất là trên dòng tiền. Với người cho vay: thứ tự bên phải bảng cân đối nói rõ ai được trả trước; nợ ngắn hạn 8.125 so với tài sản ngắn hạn 17.675 là điểm khởi đầu để đánh giá khả năng thanh khoản (Chương 17 đi sâu vào các chỉ số này). Với nhà đầu tư: lợi nhuận giữ lại 15.000 không phải là tiền chờ chia; tiền thật chỉ có 3.265. Với người đọc Việt Nam, cấu trúc ba báo cáo này cơ bản tương đồng với hệ thống báo cáo tài chính doanh nghiệp ở Việt Nam (bảng cân đối kế toán, báo cáo kết quả hoạt động kinh doanh, báo cáo lưu chuyển tiền tệ, thuyết minh), nên cách đọc "từng bậc" và "tài sản đến từ đâu" của Tracy dùng được ngay; khác biệt chủ yếu nằm ở tên gọi chỉ tiêu và mức chi tiết bắt buộc (nhận định định tính của người tổng hợp).
+Với nhà quản lý: ba báo cáo là ba câu hỏi khác nhau, và kế hoạch tăng trưởng phải được kiểm tra trên cả ba, nhất là trên dòng tiền.
+
+Với người cho vay: thứ tự bên phải bảng cân đối nói rõ ai được trả trước; nợ ngắn hạn 8.125 so với tài sản ngắn hạn 17.675 là điểm khởi đầu để đánh giá khả năng thanh khoản (Chương 17 đi sâu vào các chỉ số này). Với nhà đầu tư: lợi nhuận giữ lại 15.000 không phải là tiền chờ chia; tiền thật chỉ có 3.265.
+
+Với người đọc Việt Nam, cấu trúc ba báo cáo này cơ bản tương đồng với hệ thống báo cáo tài chính doanh nghiệp ở Việt Nam (bảng cân đối kế toán, báo cáo kết quả hoạt động kinh doanh, báo cáo lưu chuyển tiền tệ, thuyết minh), nên cách đọc "từng bậc" và "tài sản đến từ đâu" của Tracy dùng được ngay; khác biệt chủ yếu nằm ở tên gọi chỉ tiêu và mức chi tiết bắt buộc (nhận định định tính của người tổng hợp).
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 2 trên một trang: sáu nhánh lớn, bốn nhánh đầu đi theo các mục 1–4 của phần Nội dung chi tiết (ba nhu cầu và ba báo cáo, báo cáo kết quả kinh doanh, bảng cân đối kế toán, báo cáo lưu chuyển tiền tệ), nhánh thứ năm ghi các mối nối giữa ba báo cáo và các điểm của mục Đánh giá, mỗi nhánh ghi định nghĩa và con số then chốt của doanh nghiệp ví dụ (nghìn USD); nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 2: bộ báo cáo tài chính gồm ba báo cáo, mỗi báo cáo trả lời một câu hỏi, và chúng gắn chặt với nhau`"]
+  n1["`Mục 1 — Ba điều người dùng cần biết, ba báo cáo`"]
+  n0 --- n1
+  n2["`Tình hình tài chính nằm ở bảng cân đối kế toán, còn gọi statement of financial condition hoặc position`"]
+  n1 --- n2
+  n3["`Kết quả lợi nhuận nằm ở báo cáo kết quả kinh doanh, còn gọi statement of operations, earnings statement`"]
+  n1 --- n3
+  n4["`Dòng tiền nằm ở báo cáo lưu chuyển tiền tệ, chia ba nhóm kinh doanh, đầu tư, tài chính`"]
+  n1 --- n4
+  n5["`Financial statements là bộ đủ ba báo cáo, hầu như luôn kèm thuyết minh và bảng chi tiết bổ sung`"]
+  n1 --- n5
+  n6["`Financial report rộng hơn: thêm phần diễn giải, đồ hoạ, nội dung quảng bá`"]
+  n1 --- n6
+  n7["`Báo cáo hầu như tránh chữ profit vì nghe tham lam, nội bộ mới gọi là P#amp;L`"]
+  n1 --- n7
+  n8["`Cột thay đổi trong bảng cân đối không phải thông lệ, Tracy thêm vì các chương sau cần`"]
+  n1 --- n8
+  n9["`Mục 2 — Báo cáo kết quả kinh doanh: đọc như đi xuống cầu thang`"]
+  n0 --- n9
+  n10["`Số liệu cộng dồn cả kỳ, mỗi bậc trừ một hoặc vài khoản chi phí (nghìn USD)`"]
+  n9 --- n10
+  n11["`Doanh thu 52.000 trừ giá vốn 33.800 ra lợi nhuận gộp 18.200`"]
+  n10 --- n11
+  n12["`Trừ SG#amp;A 12.480 và khấu hao 785 ra EBIT 4.935`"]
+  n10 --- n12
+  n13["`Trừ lãi vay 545 ra lợi nhuận trước thuế 4.390, trừ thuế 1.748 ra lợi nhuận ròng 2.642`"]
+  n10 --- n13
+  n14["`Chỉ 5,1% doanh thu còn lại thành lợi nhuận ròng`"]
+  n9 --- n14
+  n15["`Dạng nhiều bước có ba mức lợi nhuận trung gian, dạng một bước trừ thẳng năm chi phí, cùng ra 2.642`"]
+  n9 --- n15
+  n16["`Công ty đại chúng bắt buộc báo cáo EPS bằng lợi nhuận ròng chia số cổ phiếu`"]
+  n9 --- n16
+  n17["`Doanh thu là số thuần: đã trừ chiết khấu, hàng trả lại, không gồm thuế bán hàng`"]
+  n9 --- n17
+  n18["`Khấu hao là chi phí đặc biệt: không đồng nào là tiền chi ra trong kỳ ghi nhận`"]
+  n9 --- n18
+  n19["`Báo cáo thật hiếm khi quá khoảng 10 dòng chi phí, chuẩn mực khá lỏng về mức chi tiết`"]
+  n9 --- n19
+  n20["`Mục 3 — Bảng cân đối kế toán: ảnh chụp tại một thời điểm`"]
+  n0 --- n20
+  n21["`Lập lúc nửa đêm ngày cuối kỳ, tình hình tài chính đóng băng trong một tích tắc`"]
+  n20 --- n21
+  n22["`Không cho biết dòng chảy: tiền cuối năm 3.265 nhưng không biết tổng tiền vào, tiền ra`"]
+  n20 --- n22
+  n23["`Tài sản theo thứ tự: ngắn hạn, dài hạn dùng cho hoạt động, tài sản khác`"]
+  n20 --- n23
+  n24["`Tài sản ngắn hạn 17.675: tiền và tài sản chuyển thành tiền trong một chu kỳ kinh doanh`"]
+  n23 --- n24
+  n25["`Nhà xưởng, máy móc, thiết bị 16.500 trừ khấu hao luỹ kế 4.250 còn 12.250`"]
+  n23 --- n25
+  n26["`Tài sản vô hình 5.575 ghi theo giá mua, giữ nguyên tới khi mất giá trị`"]
+  n23 --- n26
+  n27["`Nợ phải trả đứng trên vốn chủ sở hữu vì chủ nợ có quyền đòi ưu tiên`"]
+  n20 --- n27
+  n28["`Nợ ngắn hạn 8.125 cộng vay dài hạn 4.250 là 12.375 nợ phải trả`"]
+  n27 --- n28
+  n29["`Nợ vừa là quyền đòi vừa là nguồn hình thành tài sản`"]
+  n27 --- n29
+  n30["`Vốn chủ sở hữu 23.125 gồm vốn cổ phần 8.125 và lợi nhuận giữ lại 15.000`"]
+  n20 --- n30
+  n31["`Lợi nhuận giữ lại không phải là tài sản: con số 15.000 nhưng tiền thật chỉ 3.265`"]
+  n20 --- n31
+  n32["`Mục 4 — Báo cáo lưu chuyển tiền tệ và hai cái chặn sách`"]
+  n0 --- n32
+  n33["`Hai bảng cân đối đầu năm và cuối năm kẹp hai báo cáo hoạt động ở giữa`"]
+  n32 --- n33
+  n34["`Kinh doanh 3.105, đầu tư âm 3.625, tài chính 50, tiền giảm 470 (3.735 xuống 3.265)`"]
+  n32 --- n34
+  n35["`Bắt đầu từ lợi nhuận ròng 2.642 rồi điều chỉnh theo thay đổi tài khoản và khấu hao`"]
+  n32 --- n35
+  n36["`Bản tóm tắt Chương 1 liệt kê thẳng tiền thu chi nhưng cũng ra 3.105 và tổng giảm 470`"]
+  n32 --- n36
+  n37["`Muốn hiểu dòng tiền phải nắm vững hai báo cáo kia và mối nối giữa chúng`"]
+  n32 --- n37
+  n38["`Mối nối giữa ba báo cáo và đánh giá`"]
+  n0 --- n38
+  n39["`Lợi nhuận giữ lại tăng 1.892 = lợi nhuận ròng 2.642 trừ cổ tức 750`"]
+  n38 --- n39
+  n40["`Khấu hao 785 xuất hiện ở ba nơi: chi phí, mức tăng khấu hao luỹ kế, dòng cộng lại`"]
+  n38 --- n40
+  n41["`Tài sản ngắn hạn tăng thì trừ, nợ ngắn hạn tăng thì cộng trong dòng tiền kinh doanh`"]
+  n38 --- n41
+  n42["`Chi đầu tư 3.050 và 575 đúng bằng mức tăng nguyên giá tài sản cố định và vô hình`"]
+  n38 --- n42
+  n43["`Có lãi vẫn hụt tiền: đầu tư 3.625 vượt dòng tiền kinh doanh 3.105, cổ tức 750`"]
+  n38 --- n43
+  n44["`Chi phí thuế 1.748 khác thuế đã nộp 1.665, chênh 83 là mức tăng thuế phải nộp`"]
+  n38 --- n44
+  n45["`Sau 2009: thuế suất liên bang Mỹ còn 21%, ASC 842 / IFRS 16 đưa hợp đồng thuê lên bảng cân đối`"]
+  n38 --- n45
+  n46["`Thông điệp xuyên suốt`"]
+  n0 --- n46
+  n47["`Đừng chỉ đọc dòng cuối: lãi 2.642 vẫn có thể giảm tiền 470 trong cùng năm`"]
+  n46 --- n47
+  n48["`Đọc bảng cân đối như câu trả lời cho câu hỏi tài sản đến từ đâu`"]
+  n46 --- n48
+  n49["`Người cho vay so nợ ngắn hạn 8.125 với tài sản ngắn hạn 17.675 để bắt đầu xét thanh khoản`"]
+  n46 --- n49
+  class n0 root
+  class n1,n9,n20,n32,n38,n46 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n33,n34,n35,n36,n37,n39,n40,n41,n42,n43,n44,n45,n47,n48,n49 leaf
+```
+
+## Nguồn
+
+John A. Tracy, *How to Read a Financial Report: Wringing Vital Signs Out of the Numbers*, ấn bản thứ bảy (John Wiley & Sons, 2009), Phần Một "Components and Connections in Financial Statements", Chương 2 "The Three Financial Statements", trang in 9–18.
+
+## Tác giả
+
+John A. Tracy, giáo sư kế toán danh dự Đại học Colorado ở Boulder, kế toán viên công chứng (CPA).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 1 ([C01-bat-dau-tu-dong-tien.md](C01-bat-dau-tu-dong-tien.md)) mở đầu bằng một bản tóm tắt dòng tiền không chính thức của doanh nghiệp ví dụ và chỉ ra rằng chỉ nhìn dòng tiền thì không biết được doanh nghiệp lãi hay lỗ, cũng không biết tình hình tài chính của nó.
+
+Chương 2 đưa ra ba báo cáo chính thức để lấp chỗ thiếu đó: bảng cân đối kế toán (balance sheet) cho biết tình hình tài chính, báo cáo kết quả kinh doanh (income statement) cho biết kết quả lợi nhuận, và báo cáo lưu chuyển tiền tệ (statement of cash flows) cho biết dòng tiền theo mẫu chuẩn. Đây là chương "đặt nền": ba báo cáo mẫu của chương này (Exhibit 2.1, 2.2, 2.3) được dùng xuyên suốt sách.
+
+Chương 3 ([C03-loi-nhuan-khong-phai-la-tat-ca.md](C03-loi-nhuan-khong-phai-la-tat-ca.md)) giải thích vì sao lợi nhuận chưa phải là tất cả; các Chương 4 đến 12 lần lượt nối từng khoản mục của báo cáo kết quả kinh doanh với một khoản mục của bảng cân đối kế toán (doanh thu với phải thu khách hàng, giá vốn hàng bán với hàng tồn kho, v.v.), dùng đúng các con số trong chương này. Các Chương 13 và 14 ([C13-dong-tien-tu-hoat-dong-kinh-doanh.md](C13-dong-tien-tu-hoat-dong-kinh-doanh.md), [C14-dong-tien-tu-hoat-dong-dau-tu-va-tai-chinh.md](C14-dong-tien-tu-hoat-dong-dau-tu-va-tai-chinh.md)) giải thích kỹ báo cáo lưu chuyển tiền tệ mà chương này mới chỉ giới thiệu. Chương 15 bàn về thuyết minh báo cáo tài chính mà ví dụ ở đây cố ý lược bỏ.
+
+## Lưu ý
+
+- **Bố cục bảng cân đối kế toán (Exhibit 2.1):** trong sách, tài sản nằm ở nửa trái, nợ phải trả và vốn chủ sở hữu nằm ở nửa phải của cùng một trang. Bản tổng hợp tách thành hai bảng markdown (tài sản; nợ phải trả và vốn chủ sở hữu) nhưng giữ đủ mọi dòng và mọi con số. Các Exhibit 2.1–2.4 (và Exhibit 1.1 của Chương 1, chép lại ở mục 4 để so sánh) đã được đối chiếu với ảnh trang sách; mọi phép cộng trừ đã được kiểm lại đều khớp.
+- **Cột "Change" (thay đổi) trong Exhibit 2.1 không phải thông lệ:** chính Tracy nói hầu hết bảng cân đối kế toán không có cột này; ông thêm vào vì các chương sau cần các con số thay đổi.
+- **Không tìm thấy lỗi số trong bốn Exhibit:** mọi tổng phụ, tổng cộng, cột thay đổi và mối nối giữa ba báo cáo (lợi nhuận giữ lại tăng 1.892 = lợi nhuận ròng 2.642 trừ cổ tức 750; tiền giảm 470 trong cả bảng cân đối lẫn báo cáo lưu chuyển tiền tệ) đều khớp.
+- **Thứ tự dòng trong Exhibit 2.3 khác cách trình bày phổ biến:** Tracy đặt dòng khấu hao (cộng lại 785) ở giữa, sau các khoản tăng tài sản ngắn hạn và trước các khoản tăng nợ ngắn hạn, theo đúng thứ tự khoản mục trong bảng cân đối. Theo hiểu biết của người tổng hợp, không tra cứu, báo cáo của các công ty thường đặt khấu hao ngay sau lợi nhuận ròng. Tổng vẫn như nhau.
+- **Tài sản vô hình được trình bày đơn giản hoá:** Tracy viết rằng "quan điểm hiện nay" là giữ nguyên giá tài sản vô hình cho tới khi nó mất giá trị rồi mới ghi chi phí. Theo hiểu biết của người tổng hợp, không tra cứu, từ chuẩn mực FAS 142 (2001) của Mỹ, chỉ lợi thế thương mại và tài sản vô hình có thời hạn sử dụng không xác định mới thôi phân bổ dần và chuyển sang kiểm tra suy giảm giá trị; tài sản vô hình có thời hạn hữu hạn (ví dụ bằng sáng chế còn một số năm hiệu lực) vẫn phải phân bổ dần. Doanh nghiệp ví dụ không có chi phí phân bổ dần nào trong năm, nên tài sản vô hình tăng đúng bằng khoản chi mua thêm (575).
+- **Định nghĩa chi phí thuế thu nhập được viết gọn:** Tracy mô tả nó là tổng số thuế phải nộp cho nhà nước (liên bang và bang) tính trên thu nhập chịu thuế của kỳ. Theo hiểu biết của người tổng hợp, chi phí thuế thu nhập trên báo cáo kết quả kinh doanh còn có thể gồm phần thuế hoãn lại, nên không phải lúc nào cũng bằng số thuế phải nộp của năm; Chương 11 của sách đi sâu vào chuyện này. Thuế suất hiệu dụng của ví dụ là 1.748 / 4.390 ≈ 39,8% (người tổng hợp tự tính), phản ánh thời 2008–2009 khi thuế suất liên bang cao nhất với doanh nghiệp là 35% cộng thêm thuế bang; từ 2018 thuế suất liên bang chỉ còn 21% (theo hiểu biết của người tổng hợp, không tra cứu).
+- **Chỗ dễ hiểu nhầm:** cụm "Distribution of Cash Dividends from Profit" (chia cổ tức tiền mặt từ lợi nhuận) không có nghĩa là cổ tức được trả bằng một khoản "tiền lợi nhuận" riêng; cổ tức được trả bằng tiền mặt chung của doanh nghiệp và làm giảm lợi nhuận giữ lại.
+- Chương này không có mục "Accounting Issues" ở cuối.

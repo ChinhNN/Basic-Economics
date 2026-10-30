@@ -1,19 +1,16 @@
 # Chương 3 — Lợi nhuận không phải là tất cả (Profit Isn't Everything)
 
-**Nguồn:** John A. Tracy, *How to Read a Financial Report: Wringing Vital Signs Out of the Numbers*, ấn bản thứ bảy (John Wiley & Sons, 2009), Phần Một "Components and Connections in Financial Statements", Chương 3 "Profit Isn't Everything", trang in 19–25 (trang 19 là trang tên chương; Exhibit 3.1 nằm ở trang in 22).
-**Tác giả:** John A. Tracy, giáo sư kế toán danh dự Đại học Colorado ở Boulder, kế toán viên công chứng (CPA).
-**Vị trí trong lập luận của cả cuốn sách:** Chương 1 ([C01-bat-dau-tu-dong-tien.md](C01-bat-dau-tu-dong-tien.md)) mở đầu bằng dòng tiền, và Chương 2 ([C02-ba-bao-cao-tai-chinh.md](C02-ba-bao-cao-tai-chinh.md)) trình bày riêng rẽ ba báo cáo tài chính của doanh nghiệp ví dụ (doanh thu 52 triệu USD/năm): bảng cân đối kế toán, báo cáo kết quả kinh doanh và báo cáo lưu chuyển tiền tệ, đúng như cách người đọc thường thấy chúng trong một báo cáo tài chính. Chương 3 là chương bản lề: nó đặt ba báo cáo ấy cạnh nhau trên một trang (Exhibit 3.1) và vẽ các đường nối giữa chúng, để cho thấy việc tạo ra lợi nhuận làm thay đổi tài sản, nợ phải trả và dòng tiền ra sao. Exhibit 3.1 trở thành "bản đồ" cho cả phần còn lại của Phần Một: mỗi chương từ Chương 4 ([C04-doanh-thu-va-phai-thu-khach-hang.md](C04-doanh-thu-va-phai-thu-khach-hang.md)) đến Chương 12 ([C12-loi-nhuan-rong-loi-nhuan-giu-lai-va-eps.md](C12-loi-nhuan-rong-loi-nhuan-giu-lai-va-eps.md)) đi sâu vào một mối nối giữa báo cáo kết quả kinh doanh và bảng cân đối kế toán, còn Chương 13 ([C13-dong-tien-tu-hoat-dong-kinh-doanh.md](C13-dong-tien-tu-hoat-dong-kinh-doanh.md)) và Chương 14 ([C14-dong-tien-tu-hoat-dong-dau-tu-va-tai-chinh.md](C14-dong-tien-tu-hoat-dong-dau-tu-va-tai-chinh.md)) đi vào các mối nối giữa thay đổi trên bảng cân đối kế toán và báo cáo lưu chuyển tiền tệ.
-**Ý chính:** Tracy muốn người đọc hiểu rằng **nhà quản lý doanh nghiệp có nhiệm vụ ba mặt — tạo ra đủ lợi nhuận, kiểm soát tài sản và nợ phải trả (tình hình tài chính), và kiểm soát dòng tiền — và ba báo cáo tài chính, tương ứng với ba mặt đó, gắn khít với nhau qua những mối nối cụ thể mà cách trình bày báo cáo tài chính thông thường không hề vẽ ra**. Mỗi khoản doanh thu và chi phí trên báo cáo kết quả kinh doanh kéo theo một tài sản hoặc một khoản nợ trên bảng cân đối kế toán (doanh thu 52.000 nghìn USD tạo ra số dư phải thu khách hàng 5.000 nghìn USD; giá vốn hàng bán 33.800 tạo ra hàng tồn kho 8.450; chi phí thuế thu nhập 1.748 tạo ra thuế thu nhập phải nộp 165; v.v.), và thay đổi trong năm của các tài sản, khoản nợ đó quyết định dòng tiền thực thu từ hoạt động tạo lợi nhuận. Ví dụ trung tâm: năm nay doanh nghiệp lãi ròng 2.642 nghìn USD nhưng dòng tiền từ hoạt động kinh doanh là 3.105 nghìn USD, cao hơn lợi nhuận 463 nghìn USD; dù vậy, sau khi chi 3.625 nghìn USD cho tài sản dài hạn và nhận ròng 50 nghìn USD từ hoạt động tài chính, tiền mặt cuối năm vẫn giảm 470 nghìn USD. Lợi nhuận một mình không cho biết những điều đó; chỉ khi đọc ba báo cáo như một hệ thống liên kết thì người đọc mới thấy.
+## Ý chính
 
-> **Lưu ý:**
-> - **Exhibit 3.1 thiếu một đường nối hiển nhiên.** Hình vẽ nối 25 cặp khoản mục (liệt kê đủ ở Sơ đồ và Nội dung chi tiết), nhưng không có đường nào nối thay đổi của khoản Tiền trên bảng cân đối kế toán, giảm (470), với dòng cuối của báo cáo lưu chuyển tiền tệ "Decrease in Cash during Year" (470). Hai con số khớp nhau nhưng người đọc phải tự đối chiếu. Hình cũng không có đường nào xuất phát từ hai khoản phát sinh tăng tài sản dài hạn trên bảng cân đối kế toán sang báo cáo kết quả kinh doanh ngoài đường "nhà xưởng, máy móc, thiết bị → chi phí khấu hao"; tài sản vô hình không được nối với chi phí nào (sách giả định doanh nghiệp ví dụ không phân bổ tài sản vô hình trong năm).
-> - **Chiều mũi tên trong Exhibit 3.1 không đồng nhất.** Phần lớn mũi tên giữa báo cáo kết quả kinh doanh và bảng cân đối kế toán đi TỪ doanh thu/chi phí SANG tài sản/nợ. Nhưng có hai đường ngược chiều: từ nhà xưởng, máy móc, thiết bị (16.500) mũi tên chỉ VÀO chi phí khấu hao (785), và từ cặp vay ngắn hạn/vay dài hạn (3.125 và 4.250, nối bằng một dấu ngoặc) mũi tên chỉ VÀO chi phí lãi vay (545). Ý của Tracy: tài sản cố định sinh ra chi phí khấu hao, khoản vay sinh ra chi phí lãi vay. Văn bản của chương không giải thích sự khác biệt này.
-> - **Cột "Change during Year" của bảng cân đối kế toán trong Exhibit 3.1 không kèm số đầu năm.** Hình chỉ in số dư cuối năm và mức thay đổi; số dư đầu năm phải lấy từ Exhibit 2.1 (Chương 2). Bản tổng hợp đã chép thêm số đầu năm vào bảng ở mục 3 của Nội dung chi tiết để người đọc tự kiểm tra; mọi phép cộng trừ đều khớp (tổng tài sản tăng 3.900; tổng nợ phải trả và vốn chủ sở hữu tăng 3.900; dòng tiền 3.105 − 3.625 + 50 = −470). Không phát hiện lỗi số trong chương này.
-> - **Khấu hao luỹ kế ghi thay đổi là (785) trong cột thay đổi của tài sản.** Khấu hao luỹ kế là khoản trừ vào tài sản, nên khi nó tăng 785 thì tổng tài sản giảm 785; sách ghi (785) trong ngoặc theo nghĩa "làm giảm tổng tài sản". Người mới đọc dễ hiểu nhầm là khấu hao luỹ kế giảm.
-> - **Một câu viết thiếu song song.** Ở cuối mục đầu tiên, Tracy viết mỗi "yêu cầu tài chính" có một báo cáo: "một cho kết quả lợi nhuận (báo cáo kết quả kinh doanh), một cho tình hình tài chính (bảng cân đối kế toán), và báo cáo lưu chuyển tiền tệ" — vế thứ ba không nói rõ "một cho dòng tiền", nhưng ý rõ ràng là vậy.
-> - **Tracy nói "từng mối nối sẽ được xét ở các chương kế tiếp" và chỉ nêu cụ thể Chương 4.** Bản tổng hợp ghép từng mối nối với chương tương ứng dựa trên tên các chương trong mục lục sách; đây là sự sắp xếp của người tổng hợp, không phải câu chữ trong Chương 3.
-> - **Trang PDF 38 (trang in 26) không thuộc Chương 3.** Đó là Exhibit 4.1 của Chương 4, đặt trước trang chữ của Chương 4; bản tổng hợp này không đưa vào.
-> - **Những điều đã khác từ 2009 (theo hiểu biết của người tổng hợp, không tra cứu):** cách trình bày ba báo cáo "đứng riêng như những cái bồn" mà Tracy phàn nàn về cơ bản vẫn giữ nguyên trong chuẩn mực Mỹ và quốc tế. Năm 2008 FASB và IASB từng công bố dự thảo quan điểm về trình bày báo cáo tài chính với nguyên tắc "gắn kết" (cohesiveness) giữa các báo cáo — đúng điều Tracy mong muốn — nhưng dự án chung này bị gác lại vài năm sau. Phương pháp gián tiếp lập báo cáo lưu chuyển tiền tệ (bắt đầu từ lợi nhuận ròng rồi điều chỉnh theo thay đổi tài sản, nợ), chính là phương pháp có các đường nối trong Exhibit 3.1, vẫn là cách phổ biến nhất.
+Tracy muốn người đọc hiểu rằng **nhà quản lý doanh nghiệp có nhiệm vụ ba mặt — tạo ra đủ lợi nhuận, kiểm soát tài sản và nợ phải trả (tình hình tài chính), và kiểm soát dòng tiền — và ba báo cáo tài chính, tương ứng với ba mặt đó, gắn khít với nhau qua những mối nối cụ thể mà cách trình bày báo cáo tài chính thông thường không hề vẽ ra**.
+
+Mỗi khoản doanh thu và chi phí trên báo cáo kết quả kinh doanh kéo theo một tài sản hoặc một khoản nợ trên bảng cân đối kế toán (doanh thu 52.000 nghìn USD tạo ra số dư phải thu khách hàng 5.000 nghìn USD; giá vốn hàng bán 33.800 tạo ra hàng tồn kho 8.450; chi phí thuế thu nhập 1.748 tạo ra thuế thu nhập phải nộp 165; v.v.), và thay đổi trong năm của các tài sản, khoản nợ đó quyết định dòng tiền thực thu từ hoạt động tạo lợi nhuận.
+
+Ví dụ trung tâm: năm nay doanh nghiệp lãi ròng 2.642 nghìn USD nhưng dòng tiền từ hoạt động kinh doanh là 3.105 nghìn USD, cao hơn lợi nhuận 463 nghìn USD.
+
+Dù vậy, sau khi chi 3.625 nghìn USD cho tài sản dài hạn và nhận ròng 50 nghìn USD từ hoạt động tài chính, tiền mặt cuối năm vẫn giảm 470 nghìn USD.
+
+Lợi nhuận một mình không cho biết những điều đó; chỉ khi đọc ba báo cáo như một hệ thống liên kết thì người đọc mới thấy.
 
 ## Sơ đồ
 
@@ -452,7 +449,9 @@ Doanh thu chi phối khoản phải thu khách hàng — đó là đường nố
 
 Exhibit 3.1 trình bày bảng cân đối kế toán của doanh nghiệp vào cuối năm gần nhất — tức vào nửa đêm ngày cuối cùng của năm mà báo cáo kết quả kinh doanh được lập — và đồng thời cho thấy mức thay đổi trong năm của từng khoản mục, những thay đổi này gắn với báo cáo lưu chuyển tiền tệ. Hầu như mọi tài sản, nợ phải trả và nguồn vốn chủ sở hữu của công ty đều có số dư đầu năm khác với cuối năm. Một số thay đổi trong đó có tác dụng làm tăng hoặc giảm lượng tiền mà hoạt động tạo lợi nhuận mang lại trong năm. (Trong ví dụ, số dư đầu năm và cuối năm của từng khoản mục được ghi ở bảng của mục 3 trên.)
 
-Nói cách khác, số tiền tăng ròng (hoặc giảm ròng, tuỳ trường hợp) trong năm nhờ doanh thu và chi phí phụ thuộc vào thay đổi của một số tài sản và nợ phải trả của công ty. Exhibit 3.1 cho thấy các mối nối này. Tracy lưu ý rằng các đường nối đi từ thay đổi trên bảng cân đối kế toán sang các khoản cộng thêm hoặc trừ đi vào lợi nhuận ròng, nhằm đưa lợi nhuận ròng về cơ sở tiền — hoặc, ông tự chỉnh lại cho chính xác hơn, nhằm xác định kết quả dòng tiền từ doanh thu và chi phí của công ty trong năm. Cụ thể là bảy đường nối từ thay đổi của phải thu (tăng 320, trừ), tồn kho (tăng 935, trừ), chi phí trả trước (tăng 275, trừ), khấu hao luỹ kế (tăng 785, cộng lại dưới tên chi phí khấu hao), phải trả người bán (tăng 645, cộng), chi phí phải trả (tăng 480, cộng) và thuế thu nhập phải nộp (tăng 83, cộng).
+Nói cách khác, số tiền tăng ròng (hoặc giảm ròng, tuỳ trường hợp) trong năm nhờ doanh thu và chi phí phụ thuộc vào thay đổi của một số tài sản và nợ phải trả của công ty. Exhibit 3.1 cho thấy các mối nối này. Tracy lưu ý rằng các đường nối đi từ thay đổi trên bảng cân đối kế toán sang các khoản cộng thêm hoặc trừ đi vào lợi nhuận ròng, nhằm đưa lợi nhuận ròng về cơ sở tiền — hoặc, ông tự chỉnh lại cho chính xác hơn, nhằm xác định kết quả dòng tiền từ doanh thu và chi phí của công ty trong năm.
+
+Cụ thể là bảy đường nối từ thay đổi của phải thu (tăng 320, trừ), tồn kho (tăng 935, trừ), chi phí trả trước (tăng 275, trừ), khấu hao luỹ kế (tăng 785, cộng lại dưới tên chi phí khấu hao), phải trả người bán (tăng 645, cộng), chi phí phải trả (tăng 480, cộng) và thuế thu nhập phải nộp (tăng 83, cộng).
 
 Kết quả cuối cùng là tiền tăng thêm từ hoạt động tạo lợi nhuận của công ty trong năm là 3.105.000 USD, so với lợi nhuận ròng 2.642.000 USD — một chênh lệch khá đáng kể. Trong ví dụ, dòng tiền từ lợi nhuận của công ty trong năm cao hơn lợi nhuận 463.000 USD (3.105.000 − 2.642.000). Tracy nhắc rằng trong những tình huống khác, dòng tiền từ lợi nhuận có thể thấp hơn lợi nhuận ròng rất nhiều.
 
@@ -473,7 +472,9 @@ Kết quả cuối cùng là tiền tăng thêm từ hoạt động tạo lợi 
 
 Phân rã chênh lệch 463: khấu hao cộng lại 785, cộng phần nợ ngắn hạn tăng 1.208 (645 + 480 + 83), trừ phần tài sản ngắn hạn tăng 1.530 (320 + 935 + 275): 785 + 1.208 − 1.530 = 463.
 
-Trong năm, doanh nghiệp còn có những dòng tiền khác làm thay đổi một số tài sản, nợ phải trả và khoản mục vốn chủ sở hữu, và các dòng này cũng được thể hiện trong Exhibit 3.1. Tracy lưu ý rằng ở đây các đường nối đi theo chiều ngược lại: từ các nguồn thu tiền và khoản chi tiền sang khoản mục tương ứng trên bảng cân đối kế toán. Nguồn và cách dùng tiền chi phối thay đổi trên bảng cân đối kế toán. Cụ thể: chi 3.050 mua nhà xưởng, máy móc, thiết bị làm khoản mục này tăng 3.050; chi 575 mua tài sản vô hình làm tài sản vô hình tăng 575; vay thêm ngắn hạn 125 và dài hạn 500 làm hai khoản vay tăng tương ứng; phát hành thêm cổ phiếu 175 làm vốn cổ phần tăng 175; chia cổ tức tiền mặt 750 làm lợi nhuận giữ lại tăng ít hơn lợi nhuận ròng (tăng 1.892 thay vì 2.642).
+Trong năm, doanh nghiệp còn có những dòng tiền khác làm thay đổi một số tài sản, nợ phải trả và khoản mục vốn chủ sở hữu, và các dòng này cũng được thể hiện trong Exhibit 3.1. Tracy lưu ý rằng ở đây các đường nối đi theo chiều ngược lại: từ các nguồn thu tiền và khoản chi tiền sang khoản mục tương ứng trên bảng cân đối kế toán. Nguồn và cách dùng tiền chi phối thay đổi trên bảng cân đối kế toán.
+
+Cụ thể: chi 3.050 mua nhà xưởng, máy móc, thiết bị làm khoản mục này tăng 3.050; chi 575 mua tài sản vô hình làm tài sản vô hình tăng 575; vay thêm ngắn hạn 125 và dài hạn 500 làm hai khoản vay tăng tương ứng; phát hành thêm cổ phiếu 175 làm vốn cổ phần tăng 175; chia cổ tức tiền mặt 750 làm lợi nhuận giữ lại tăng ít hơn lợi nhuận ròng (tăng 1.892 thay vì 2.642).
 
 **Bảng: các dòng tiền đầu tư và tài chính và thay đổi chúng gây ra trên bảng cân đối kế toán (nghìn USD)**
 
@@ -541,7 +542,9 @@ Lợi nhuận chỉ là một trong ba mặt tài chính mà nhà quản lý ph�
 
 ### Trong ngôn ngữ kế toán và tài chính
 
-Ba báo cáo tài chính có tính khớp nối (articulation): báo cáo kết quả kinh doanh và báo cáo lưu chuyển tiền tệ là báo cáo về một kỳ (dòng), bảng cân đối kế toán là báo cáo tại một thời điểm (số dư), và các dòng trong kỳ giải thích chênh lệch số dư giữa đầu kỳ và cuối kỳ. Trên cơ sở dồn tích, lợi nhuận ròng khác dòng tiền từ hoạt động kinh doanh do các khoản dồn tích (accruals): biến động vốn lưu động hoạt động (phải thu, tồn kho, trả trước, phải trả người bán, chi phí phải trả, thuế phải nộp) và các chi phí không bằng tiền (khấu hao). Phương pháp gián tiếp của báo cáo lưu chuyển tiền tệ chính là bảng đối chiếu lợi nhuận ròng với dòng tiền từ hoạt động kinh doanh. Các dòng tiền đầu tư và tài chính giải thích biến động của tài sản dài hạn, nợ vay và vốn chủ sở hữu; còn lợi nhuận giữ lại cuối kỳ bằng lợi nhuận giữ lại đầu kỳ cộng lợi nhuận ròng trừ cổ tức.
+Ba báo cáo tài chính có tính khớp nối (articulation): báo cáo kết quả kinh doanh và báo cáo lưu chuyển tiền tệ là báo cáo về một kỳ (dòng), bảng cân đối kế toán là báo cáo tại một thời điểm (số dư), và các dòng trong kỳ giải thích chênh lệch số dư giữa đầu kỳ và cuối kỳ. Trên cơ sở dồn tích, lợi nhuận ròng khác dòng tiền từ hoạt động kinh doanh do các khoản dồn tích (accruals): biến động vốn lưu động hoạt động (phải thu, tồn kho, trả trước, phải trả người bán, chi phí phải trả, thuế phải nộp) và các chi phí không bằng tiền (khấu hao).
+
+Phương pháp gián tiếp của báo cáo lưu chuyển tiền tệ chính là bảng đối chiếu lợi nhuận ròng với dòng tiền từ hoạt động kinh doanh. Các dòng tiền đầu tư và tài chính giải thích biến động của tài sản dài hạn, nợ vay và vốn chủ sở hữu; còn lợi nhuận giữ lại cuối kỳ bằng lợi nhuận giữ lại đầu kỳ cộng lợi nhuận ròng trừ cổ tức.
 
 ## Thuật ngữ
 
@@ -608,19 +611,29 @@ Ba báo cáo tài chính có tính khớp nối (articulation): báo cáo kết 
 
 ### Exhibit 3.1 là công cụ sư phạm mạnh nhất của cuốn sách vì nó biến một nguyên lý trừu tượng thành 25 đường nối có số cụ thể
 
-Phần lớn giáo trình kế toán nói về tính khớp nối của báo cáo tài chính bằng lời hoặc bằng phương trình (lợi nhuận giữ lại cuối kỳ bằng đầu kỳ cộng lợi nhuận trừ cổ tức; thay đổi tiền bằng tổng ba dòng tiền). Tracy đặt ba báo cáo lên cùng một trang và kẻ đường cho từng cặp khoản mục, với số của một doanh nghiệp duy nhất dùng suốt cuốn sách. Nhờ vậy người đọc thấy ngay rằng mỗi dòng chi phí "để lại dấu" trên bảng cân đối kế toán và mỗi dòng của báo cáo lưu chuyển tiền tệ có "địa chỉ" trên bảng cân đối kế toán. Lời kể của Tracy về những người xin tệp Excel và nhận xét rằng cả một số CPA cũng không thấy các mối nối cho thấy đây là chỗ hổng phổ biến, không chỉ của người mới học. Việc chia cuốn sách thành các chương, mỗi chương một mối nối, cũng làm cho Exhibit 3.1 thực sự là "bản đồ" chứ không chỉ là hình minh hoạ.
+Phần lớn giáo trình kế toán nói về tính khớp nối của báo cáo tài chính bằng lời hoặc bằng phương trình (lợi nhuận giữ lại cuối kỳ bằng đầu kỳ cộng lợi nhuận trừ cổ tức; thay đổi tiền bằng tổng ba dòng tiền). Tracy đặt ba báo cáo lên cùng một trang và kẻ đường cho từng cặp khoản mục, với số của một doanh nghiệp duy nhất dùng suốt cuốn sách. Nhờ vậy người đọc thấy ngay rằng mỗi dòng chi phí "để lại dấu" trên bảng cân đối kế toán và mỗi dòng của báo cáo lưu chuyển tiền tệ có "địa chỉ" trên bảng cân đối kế toán.
+
+Lời kể của Tracy về những người xin tệp Excel và nhận xét rằng cả một số CPA cũng không thấy các mối nối cho thấy đây là chỗ hổng phổ biến, không chỉ của người mới học. Việc chia cuốn sách thành các chương, mỗi chương một mối nối, cũng làm cho Exhibit 3.1 thực sự là "bản đồ" chứ không chỉ là hình minh hoạ.
 
 ### Hình đơn giản hoá một số mối nối và vẽ thiếu đường nối cuối cùng
 
-Một số chi tiết của Exhibit 3.1 cần đọc cẩn thận. Đường nối giữa thay đổi tiền (470) và dòng "tiền giảm trong năm" (470) — mối nối khép kín toàn bộ hệ thống — không được vẽ. Hai mũi tên (từ tài sản cố định vào chi phí khấu hao, từ các khoản vay vào chi phí lãi vay) đi ngược chiều với các mũi tên còn lại trong cùng nhóm mà chương không giải thích. Hình cũng không cho thấy số dư đầu năm, nên người đọc phải quay lại Chương 2 mới kiểm tra được cột thay đổi. Ngoài ra, hình nối chi phí SG&A với phải trả người bán và chi phí phải trả nhưng không chỉ ra phần nào của 12.480 rơi vào mỗi khoản; các chương sau (Chương 7, 8, 10) mới giải thích tỷ lệ. Những điều này không làm sai nội dung, nhưng người đọc nên biết rằng hình là sơ đồ ý niệm, không phải bảng đối chiếu đầy đủ.
+Một số chi tiết của Exhibit 3.1 cần đọc cẩn thận. Đường nối giữa thay đổi tiền (470) và dòng "tiền giảm trong năm" (470) — mối nối khép kín toàn bộ hệ thống — không được vẽ. Hai mũi tên (từ tài sản cố định vào chi phí khấu hao, từ các khoản vay vào chi phí lãi vay) đi ngược chiều với các mũi tên còn lại trong cùng nhóm mà chương không giải thích.
+
+Hình cũng không cho thấy số dư đầu năm, nên người đọc phải quay lại Chương 2 mới kiểm tra được cột thay đổi. Ngoài ra, hình nối chi phí SG&A với phải trả người bán và chi phí phải trả nhưng không chỉ ra phần nào của 12.480 rơi vào mỗi khoản; các chương sau (Chương 7, 8, 10) mới giải thích tỷ lệ. Những điều này không làm sai nội dung, nhưng người đọc nên biết rằng hình là sơ đồ ý niệm, không phải bảng đối chiếu đầy đủ.
 
 ### Ví dụ trong chương có dòng tiền từ lợi nhuận cao hơn lợi nhuận, nên người đọc dễ bỏ qua trường hợp nguy hiểm hơn
 
-Trong ví dụ, dòng tiền từ hoạt động kinh doanh (3.105) cao hơn lợi nhuận ròng (2.642) chủ yếu nhờ khấu hao 785 và nợ ngắn hạn tăng 1.208, bù lại phần tài sản ngắn hạn tăng 1.530. Tracy chỉ nói thoáng qua một câu rằng ở tình huống khác dòng tiền có thể thấp hơn lợi nhuận "rất nhiều". Thực tế, trường hợp đáng lo — doanh nghiệp tăng trưởng nhanh, phải thu và tồn kho phình ra nhanh hơn các khoản phải trả, có lãi trên sổ sách nhưng cạn tiền — chính là lý do của tên chương. Sách để dành chủ đề này cho Chương 16 ([C16-tac-dong-cua-tang-truong-va-suy-giam-len-dong-tien.md](C16-tac-dong-cua-tang-truong-va-suy-giam-len-dong-tien.md)). Ngay trong ví dụ, tiền vẫn giảm 470 vì chi đầu tư 3.625 vượt dòng tiền kinh doanh; tức là dù dòng tiền từ lợi nhuận tốt, tiền vẫn có thể giảm, một điểm chương nêu bằng số nhưng không bình luận.
+Trong ví dụ, dòng tiền từ hoạt động kinh doanh (3.105) cao hơn lợi nhuận ròng (2.642) chủ yếu nhờ khấu hao 785 và nợ ngắn hạn tăng 1.208, bù lại phần tài sản ngắn hạn tăng 1.530. Tracy chỉ nói thoáng qua một câu rằng ở tình huống khác dòng tiền có thể thấp hơn lợi nhuận "rất nhiều".
+
+Thực tế, trường hợp đáng lo — doanh nghiệp tăng trưởng nhanh, phải thu và tồn kho phình ra nhanh hơn các khoản phải trả, có lãi trên sổ sách nhưng cạn tiền — chính là lý do của tên chương. Sách để dành chủ đề này cho Chương 16 ([C16-tac-dong-cua-tang-truong-va-suy-giam-len-dong-tien.md](C16-tac-dong-cua-tang-truong-va-suy-giam-len-dong-tien.md)). Ngay trong ví dụ, tiền vẫn giảm 470 vì chi đầu tư 3.625 vượt dòng tiền kinh doanh; tức là dù dòng tiền từ lợi nhuận tốt, tiền vẫn có thể giảm, một điểm chương nêu bằng số nhưng không bình luận.
 
 ### Lời phàn nàn của Tracy về cách trình bày báo cáo tài chính vẫn còn đúng gần hai thập niên sau
 
-Theo hiểu biết của người tổng hợp, không tra cứu: cấu trúc ba báo cáo trình bày riêng rẽ vẫn là chuẩn mực ở Mỹ (US GAAP, nay hệ thống hoá trong Bộ chuẩn mực FASB Accounting Standards Codification, có hiệu lực từ 2009; báo cáo lưu chuyển tiền tệ thuộc chủ đề ASC 230) và theo chuẩn mực quốc tế (IFRS, do Hội đồng Chuẩn mực Kế toán Quốc tế IASB ban hành). FASB và IASB từng theo đuổi một dự án chung về trình bày báo cáo tài chính, với dự thảo quan điểm năm 2008 đề xuất nguyên tắc "gắn kết" (cohesiveness) để các báo cáo dùng chung cách phân loại và dễ đối chiếu, và đề xuất bắt buộc phương pháp trực tiếp cho báo cáo lưu chuyển tiền tệ; dự án này không được hoàn tất. IASB sau đó ban hành chuẩn mực mới về trình bày báo cáo tài chính (IFRS 18, thay IAS 1, áp dụng từ 2027), tập trung vào các tổng phụ trên báo cáo kết quả kinh doanh chứ không vẽ "đường nối" như Tracy mong. Phương pháp gián tiếp vẫn được đa số doanh nghiệp dùng. Câu "đừng nín thở chờ" của Tracy vì thế vẫn đúng.
+Theo hiểu biết của người tổng hợp, không tra cứu: cấu trúc ba báo cáo trình bày riêng rẽ vẫn là chuẩn mực ở Mỹ (US GAAP, nay hệ thống hoá trong Bộ chuẩn mực FASB Accounting Standards Codification, có hiệu lực từ 2009; báo cáo lưu chuyển tiền tệ thuộc chủ đề ASC 230) và theo chuẩn mực quốc tế (IFRS, do Hội đồng Chuẩn mực Kế toán Quốc tế IASB ban hành).
+
+FASB và IASB từng theo đuổi một dự án chung về trình bày báo cáo tài chính, với dự thảo quan điểm năm 2008 đề xuất nguyên tắc "gắn kết" (cohesiveness) để các báo cáo dùng chung cách phân loại và dễ đối chiếu, và đề xuất bắt buộc phương pháp trực tiếp cho báo cáo lưu chuyển tiền tệ; dự án này không được hoàn tất.
+
+IASB sau đó ban hành chuẩn mực mới về trình bày báo cáo tài chính (IFRS 18, thay IAS 1, áp dụng từ 2027), tập trung vào các tổng phụ trên báo cáo kết quả kinh doanh chứ không vẽ "đường nối" như Tracy mong. Phương pháp gián tiếp vẫn được đa số doanh nghiệp dùng. Câu "đừng nín thở chờ" của Tracy vì thế vẫn đúng.
 
 ### Vận dụng: mỗi nhóm người đọc dùng các mối nối theo cách riêng
 
@@ -628,3 +641,150 @@ Theo hiểu biết của người tổng hợp, không tra cứu: cấu trúc ba
 - **Người cho vay:** khả năng trả nợ phụ thuộc vào dòng tiền chứ không phải lợi nhuận; các đường nối nhóm B cho biết lợi nhuận đã chuyển thành tiền đến đâu, và các đường nối nhóm C cho biết tiền đó được dùng để đầu tư, trả nợ hay chia cổ tức.
 - **Nhà đầu tư:** chênh lệch lớn và kéo dài giữa lợi nhuận ròng và dòng tiền từ hoạt động kinh doanh là tín hiệu cần xem kỹ chất lượng lợi nhuận (chủ đề của Phần Ba sách); cổ tức (750) so với lợi nhuận (2.642) và dòng tiền (3.105) cho biết chính sách phân phối.
 - **Người đọc Việt Nam (vận dụng định tính):** bộ báo cáo tài chính theo chuẩn mực kế toán Việt Nam cũng gồm bảng cân đối kế toán, báo cáo kết quả hoạt động kinh doanh, báo cáo lưu chuyển tiền tệ (cho phép phương pháp trực tiếp hoặc gián tiếp) và thuyết minh, trình bày riêng rẽ như ở Mỹ. Cách đọc theo Exhibit 3.1 — tự nối doanh thu với phải thu, giá vốn với tồn kho, lợi nhuận và cổ tức với lợi nhuận sau thuế chưa phân phối, thay đổi tiền với báo cáo lưu chuyển tiền tệ — áp dụng được trực tiếp.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 3 trên một trang: sáu nhánh lớn đi theo các mục 1–5 trong phần Nội dung chi tiết và phần Đánh giá (nhiệm vụ ba mặt của nhà quản lý, cách trình bày báo cáo thông thường không vẽ các mối nối, ba nhóm đường nối A, B, C trong Exhibit 3.1, điểm mạnh và giới hạn của hình), mỗi nhánh ghi mối nối, phép tính và con số then chốt của doanh nghiệp ví dụ (nghìn USD); nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 3: lợi nhuận chỉ là một trong ba mặt tài chính, ba báo cáo khớp nối thành một hệ thống`"]
+  n1["`Mục 1 — Nhiệm vụ ba mặt của nhà quản lý`"]
+  n0 --- n1
+  n2["`Ba mặt: tạo đủ lợi nhuận, kiểm soát tài sản và nợ phải trả, kiểm soát dòng tiền`"]
+  n1 --- n2
+  n3["`Lợi nhuận đủ lớn là yêu cầu tài chính quan trọng nhất, nhưng dòng cuối chưa phải điểm kết thúc`"]
+  n1 --- n3
+  n4["`Có lãi không bảo đảm tồn tại, tạo ra lợi nhuận có thể tạm thời làm hao tiền`"]
+  n1 --- n4
+  n5["`Thiếu tiền thì không trả được nợ đến hạn hoặc không trả lương đúng hạn`"]
+  n1 --- n5
+  n6["`Mỗi mặt một báo cáo: kết quả kinh doanh, bảng cân đối kế toán, lưu chuyển tiền tệ`"]
+  n1 --- n6
+  n7["`Công ty lớn: CFO lo tình hình tài chính và dòng tiền, doanh nghiệp nhỏ: người chủ tự làm hết`"]
+  n1 --- n7
+  n8["`Mục 2, 4–5 — Báo cáo thông thường không vẽ các mối nối`"]
+  n0 --- n8
+  n9["`Mỗi báo cáo như một bồn nước đứng riêng, các ống nước nối ba bồn không được vẽ ra`"]
+  n8 --- n9
+  n10["`Người lập báo cáo giả định người đọc tự hiểu và tự đối chiếu các mối nối`"]
+  n8 --- n10
+  n11["`Thông điệp chính: ba báo cáo khớp nhau như gỗ ghép mộng (tongue-in-groove)`"]
+  n8 --- n11
+  n12["`Báo cáo thật không bao giờ in đường nối, theo Tracy kế toán viên giả định quá nhiều`"]
+  n8 --- n12
+  n13["`Nhiều nhà quản lý, cả một số CPA, không nhận ra các mối nối`"]
+  n8 --- n13
+  n14["`Tracy chỉ hiểu ý báo cáo khớp nối (articulated) năm 1961 ở Berkeley, qua một giáo trình cũ`"]
+  n8 --- n14
+  n15["`Articulated gợi xe buýt nối toa: hai khoang riêng nhưng nối liền nhau`"]
+  n8 --- n15
+  n16["`Mục 3 — Exhibit 3.1 nhóm A: 12 đường nối báo cáo kết quả kinh doanh với số dư cuối năm`"]
+  n0 --- n16
+  n17["`Doanh thu 52.000 → phải thu khách hàng 5.000 (nghìn USD)`"]
+  n16 --- n17
+  n18["`Giá vốn hàng bán 33.800 → hàng tồn kho 8.450 → phải trả người bán 3.320`"]
+  n16 --- n18
+  n19["`Chi phí SG#amp;A 12.480 phát ra ba đường: chi phí trả trước 960, phải trả người bán, chi phí phải trả 1.515`"]
+  n16 --- n19
+  n20["`Nhà xưởng, máy móc, thiết bị 16.500 sinh chi phí khấu hao 785, cộng dồn vào khấu hao luỹ kế 4.250`"]
+  n16 --- n20
+  n21["`Vay ngắn hạn 3.125 và vay dài hạn 4.250 sinh lãi vay 545, phần chưa trả nằm ở chi phí phải trả`"]
+  n16 --- n21
+  n22["`Chi phí thuế thu nhập 1.748 → thuế thu nhập phải nộp 165`"]
+  n16 --- n22
+  n23["`Lợi nhuận ròng 2.642 − cổ tức 750 = lợi nhuận giữ lại tăng 1.892`"]
+  n16 --- n23
+  n24["`Các tổng phụ (lợi nhuận gộp 18.200, hoạt động 4.935, trước thuế 4.390) không nối với gì`"]
+  n16 --- n24
+  n25["`Hình là bản đồ, phải đọc từng ngụm: mỗi chương 4–14 xét kỹ một mối nối`"]
+  n16 --- n25
+  n26["`Mục 3–4 — Nhóm B: 7 đường nối đưa lợi nhuận ròng về cơ sở tiền`"]
+  n0 --- n26
+  n27["`Phương pháp gián tiếp: bắt đầu từ lợi nhuận ròng, cộng trừ thay đổi tài sản và nợ ngắn hạn`"]
+  n26 --- n27
+  n28["`Tài sản ngắn hạn tăng hút tiền: phải thu 320, tồn kho 935, trả trước 275, trừ tổng 1.530`"]
+  n26 --- n28
+  n29["`Nợ ngắn hạn tăng giữ lại tiền: phải trả người bán 645, chi phí phải trả 480, thuế 83, cộng 1.208`"]
+  n26 --- n29
+  n30["`Khấu hao 785 là chi phí không chi tiền trong năm nên được cộng lại`"]
+  n26 --- n30
+  n31["`Phép tính: 2.642 − 320 − 935 − 275 + 785 + 645 + 480 + 83 = 3.105`"]
+  n26 --- n31
+  n32["`Dòng tiền từ lợi nhuận 3.105 cao hơn lợi nhuận ròng 463 = 785 + 1.208 − 1.530`"]
+  n26 --- n32
+  n33["`Ở tình huống khác, dòng tiền từ lợi nhuận có thể thấp hơn lợi nhuận ròng rất nhiều`"]
+  n26 --- n33
+  n34["`Mục 3–4 — Nhóm C: 6 đường nối từ dòng tiền đầu tư, tài chính sang bảng cân đối`"]
+  n0 --- n34
+  n35["`Mũi tên đi từ dòng tiền sang khoản mục bảng cân đối, vì dòng tiền gây ra thay đổi`"]
+  n34 --- n35
+  n36["`Đầu tư (3.625): nhà xưởng, máy móc, thiết bị 3.050, tài sản vô hình 575`"]
+  n34 --- n36
+  n37["`Tài chính +50: vay ngắn hạn 125, vay dài hạn 500, phát hành cổ phiếu 175, cổ tức (750)`"]
+  n34 --- n37
+  n38["`3.105 − 3.625 + 50 = −470, đúng bằng tiền giảm từ 3.735 xuống 3.265`"]
+  n34 --- n38
+  n39["`Hai vế bảng cân đối cùng tăng 3.900: tổng tài sản từ 31.600 lên 35.500`"]
+  n34 --- n39
+  n40["`Hình không vẽ đường nối tiền giảm (470) với dòng cuối báo cáo lưu chuyển tiền tệ`"]
+  n34 --- n40
+  n41["`Đánh giá — Điểm mạnh, giới hạn và cách vận dụng`"]
+  n0 --- n41
+  n42["`25 đường nối có số cụ thể biến nguyên lý khớp nối trừu tượng thành công cụ dạy học`"]
+  n41 --- n42
+  n43["`Hai mũi tên ngược chiều (vào khấu hao, vào lãi vay) không được giải thích, hình là sơ đồ ý niệm`"]
+  n41 --- n43
+  n44["`Ví dụ dòng tiền cao hơn lợi nhuận dễ che trường hợp tăng trưởng nhanh, có lãi nhưng cạn tiền (Chương 16)`"]
+  n41 --- n44
+  n45["`Dù dòng tiền kinh doanh tốt, tiền vẫn giảm 470 vì chi đầu tư 3.625 vượt nó`"]
+  n41 --- n45
+  n46["`Người cho vay: khả năng trả nợ phụ thuộc dòng tiền chứ không phải lợi nhuận`"]
+  n41 --- n46
+  n47["`Nhà đầu tư: chênh lệch lớn, kéo dài giữa lợi nhuận và dòng tiền là tín hiệu xem chất lượng lợi nhuận`"]
+  n41 --- n47
+  n48["`US GAAP, IFRS và chuẩn mực Việt Nam vẫn trình bày ba báo cáo riêng rẽ, người đọc phải tự nối`"]
+  n41 --- n48
+  n49["`Thông điệp xuyên suốt`"]
+  n0 --- n49
+  n50["`Đừng dừng ở lợi nhuận ròng, hãy hỏi lợi nhuận đã làm tài sản, nợ và tiền thay đổi thế nào`"]
+  n49 --- n50
+  n51["`Khi đọc bộ báo cáo tài chính, tự vẽ lại các đường nối mà báo cáo không in ra`"]
+  n49 --- n51
+  n52["`Không mặc định lợi nhuận ròng và dòng tiền từ hoạt động kinh doanh gần nhau`"]
+  n49 --- n52
+  class n0 root
+  class n1,n8,n16,n26,n34,n41,n49 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n15,n17,n18,n19,n20,n21,n22,n23,n24,n25,n27,n28,n29,n30,n31,n32,n33,n35,n36,n37,n38,n39,n40,n42,n43,n44,n45,n46,n47,n48,n50,n51,n52 leaf
+```
+
+## Nguồn
+
+John A. Tracy, *How to Read a Financial Report: Wringing Vital Signs Out of the Numbers*, ấn bản thứ bảy (John Wiley & Sons, 2009), Phần Một "Components and Connections in Financial Statements", Chương 3 "Profit Isn't Everything", trang in 19–25 (trang 19 là trang tên chương; Exhibit 3.1 nằm ở trang in 22).
+
+## Tác giả
+
+John A. Tracy, giáo sư kế toán danh dự Đại học Colorado ở Boulder, kế toán viên công chứng (CPA).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 1 ([C01-bat-dau-tu-dong-tien.md](C01-bat-dau-tu-dong-tien.md)) mở đầu bằng dòng tiền, và Chương 2 ([C02-ba-bao-cao-tai-chinh.md](C02-ba-bao-cao-tai-chinh.md)) trình bày riêng rẽ ba báo cáo tài chính của doanh nghiệp ví dụ (doanh thu 52 triệu USD/năm): bảng cân đối kế toán, báo cáo kết quả kinh doanh và báo cáo lưu chuyển tiền tệ, đúng như cách người đọc thường thấy chúng trong một báo cáo tài chính.
+
+Chương 3 là chương bản lề: nó đặt ba báo cáo ấy cạnh nhau trên một trang (Exhibit 3.1) và vẽ các đường nối giữa chúng, để cho thấy việc tạo ra lợi nhuận làm thay đổi tài sản, nợ phải trả và dòng tiền ra sao.
+
+Exhibit 3.1 trở thành "bản đồ" cho cả phần còn lại của Phần Một: mỗi chương từ Chương 4 ([C04-doanh-thu-va-phai-thu-khach-hang.md](C04-doanh-thu-va-phai-thu-khach-hang.md)) đến Chương 12 ([C12-loi-nhuan-rong-loi-nhuan-giu-lai-va-eps.md](C12-loi-nhuan-rong-loi-nhuan-giu-lai-va-eps.md)) đi sâu vào một mối nối giữa báo cáo kết quả kinh doanh và bảng cân đối kế toán, còn Chương 13 ([C13-dong-tien-tu-hoat-dong-kinh-doanh.md](C13-dong-tien-tu-hoat-dong-kinh-doanh.md)) và Chương 14 ([C14-dong-tien-tu-hoat-dong-dau-tu-va-tai-chinh.md](C14-dong-tien-tu-hoat-dong-dau-tu-va-tai-chinh.md)) đi vào các mối nối giữa thay đổi trên bảng cân đối kế toán và báo cáo lưu chuyển tiền tệ.
+
+## Lưu ý
+
+- **Exhibit 3.1 thiếu một đường nối hiển nhiên.** Hình vẽ nối 25 cặp khoản mục (liệt kê đủ ở Sơ đồ và Nội dung chi tiết), nhưng không có đường nào nối thay đổi của khoản Tiền trên bảng cân đối kế toán, giảm (470), với dòng cuối của báo cáo lưu chuyển tiền tệ "Decrease in Cash during Year" (470). Hai con số khớp nhau nhưng người đọc phải tự đối chiếu. Hình cũng không có đường nào xuất phát từ hai khoản phát sinh tăng tài sản dài hạn trên bảng cân đối kế toán sang báo cáo kết quả kinh doanh ngoài đường "nhà xưởng, máy móc, thiết bị → chi phí khấu hao"; tài sản vô hình không được nối với chi phí nào (sách giả định doanh nghiệp ví dụ không phân bổ tài sản vô hình trong năm).
+- **Chiều mũi tên trong Exhibit 3.1 không đồng nhất.** Phần lớn mũi tên giữa báo cáo kết quả kinh doanh và bảng cân đối kế toán đi TỪ doanh thu/chi phí SANG tài sản/nợ. Nhưng có hai đường ngược chiều: từ nhà xưởng, máy móc, thiết bị (16.500) mũi tên chỉ VÀO chi phí khấu hao (785), và từ cặp vay ngắn hạn/vay dài hạn (3.125 và 4.250, nối bằng một dấu ngoặc) mũi tên chỉ VÀO chi phí lãi vay (545). Ý của Tracy: tài sản cố định sinh ra chi phí khấu hao, khoản vay sinh ra chi phí lãi vay. Văn bản của chương không giải thích sự khác biệt này.
+- **Cột "Change during Year" của bảng cân đối kế toán trong Exhibit 3.1 không kèm số đầu năm.** Hình chỉ in số dư cuối năm và mức thay đổi; số dư đầu năm phải lấy từ Exhibit 2.1 (Chương 2). Bản tổng hợp đã chép thêm số đầu năm vào bảng ở mục 3 của Nội dung chi tiết để người đọc tự kiểm tra; mọi phép cộng trừ đều khớp (tổng tài sản tăng 3.900; tổng nợ phải trả và vốn chủ sở hữu tăng 3.900; dòng tiền 3.105 − 3.625 + 50 = −470). Không phát hiện lỗi số trong chương này.
+- **Khấu hao luỹ kế ghi thay đổi là (785) trong cột thay đổi của tài sản.** Khấu hao luỹ kế là khoản trừ vào tài sản, nên khi nó tăng 785 thì tổng tài sản giảm 785; sách ghi (785) trong ngoặc theo nghĩa "làm giảm tổng tài sản". Người mới đọc dễ hiểu nhầm là khấu hao luỹ kế giảm.
+- **Một câu viết thiếu song song.** Ở cuối mục đầu tiên, Tracy viết mỗi "yêu cầu tài chính" có một báo cáo: "một cho kết quả lợi nhuận (báo cáo kết quả kinh doanh), một cho tình hình tài chính (bảng cân đối kế toán), và báo cáo lưu chuyển tiền tệ" — vế thứ ba không nói rõ "một cho dòng tiền", nhưng ý rõ ràng là vậy.
+- **Tracy nói "từng mối nối sẽ được xét ở các chương kế tiếp" và chỉ nêu cụ thể Chương 4.** Bản tổng hợp ghép từng mối nối với chương tương ứng dựa trên tên các chương trong mục lục sách; đây là sự sắp xếp của người tổng hợp, không phải câu chữ trong Chương 3.
+- **Trang PDF 38 (trang in 26) không thuộc Chương 3.** Đó là Exhibit 4.1 của Chương 4, đặt trước trang chữ của Chương 4; bản tổng hợp này không đưa vào.
+- **Những điều đã khác từ 2009 (theo hiểu biết của người tổng hợp, không tra cứu):** cách trình bày ba báo cáo "đứng riêng như những cái bồn" mà Tracy phàn nàn về cơ bản vẫn giữ nguyên trong chuẩn mực Mỹ và quốc tế. Năm 2008 FASB và IASB từng công bố dự thảo quan điểm về trình bày báo cáo tài chính với nguyên tắc "gắn kết" (cohesiveness) giữa các báo cáo — đúng điều Tracy mong muốn — nhưng dự án chung này bị gác lại vài năm sau. Phương pháp gián tiếp lập báo cáo lưu chuyển tiền tệ (bắt đầu từ lợi nhuận ròng rồi điều chỉnh theo thay đổi tài sản, nợ), chính là phương pháp có các đường nối trong Exhibit 3.1, vẫn là cách phổ biến nhất.

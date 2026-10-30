@@ -1,19 +1,16 @@
 # Chương 9 — Một chi phí đặc biệt: khấu hao (A Unique Expense: Depreciation)
 
-**Nguồn:** John A. Tracy, *How to Read a Financial Report: Wringing Vital Signs Out of the Numbers*, ấn bản thứ bảy (John Wiley & Sons, 2009), Phần Một "Components and Connections in Financial Statements", Chương 9 "A Unique Expense: Depreciation", trang in 56–65 (Exhibit 9.1 ở trang in 56, đứng trước trang tên chương; phần chữ ở trang in 57–65).
-**Tác giả:** John A. Tracy, giáo sư kế toán danh dự Đại học Colorado ở Boulder, kế toán viên công chứng (CPA).
-**Vị trí trong lập luận của cả cuốn sách:** Từ Chương 4 đến Chương 8, Tracy lần lượt đi qua từng cặp "khoản mục trên báo cáo kết quả kinh doanh – khoản mục trên bảng cân đối kế toán" của doanh nghiệp ví dụ: doanh thu với phải thu khách hàng ([C04](C04-doanh-thu-va-phai-thu-khach-hang.md)), giá vốn hàng bán với hàng tồn kho ([C05](C05-gia-von-hang-ban-va-hang-ton-kho.md)), hàng tồn kho với phải trả người bán ([C06](C06-hang-ton-kho-va-phai-tra-nguoi-ban.md)), chi phí hoạt động với phải trả người bán ([C07](C07-chi-phi-hoat-dong-va-phai-tra-nguoi-ban.md)) và chi phí hoạt động với chi phí trả trước ([C08](C08-chi-phi-hoat-dong-va-chi-phi-tra-truoc.md)). Chương 9 xử lý cặp tiếp theo: tài khoản nhà xưởng, máy móc, thiết bị trên bảng cân đối kế toán, chi phí khấu hao trên báo cáo kết quả kinh doanh, và tài khoản khấu hao luỹ kế quay ngược lại bảng cân đối kế toán. Chương này cũng nói qua tài sản vô hình. Điểm mới so với các chương trước: khấu hao là chi phí không đi kèm bất kỳ khoản chi tiền nào trong kỳ, nên nó trở thành mắt xích quan trọng khi Tracy giải thích vì sao dòng tiền từ lợi nhuận khác lợi nhuận ròng ở [C13](C13-dong-tien-tu-hoat-dong-kinh-doanh.md) (khấu hao 785 nghìn USD được cộng ngược lại), còn khoản chi 3.050 nghìn USD mua nhà xưởng, máy móc, thiết bị được trình bày ở [C14](C14-dong-tien-tu-hoat-dong-dau-tu-va-tai-chinh.md). Chương kế tiếp ([C10](C10-ghi-nhan-chi-phi-phai-tra.md)) quay lại với chi phí phải trả.
-**Ý chính:** Tracy muốn người đọc hiểu rằng **trong kế toán báo cáo tài chính, khấu hao (depreciation) là việc phân bổ nguyên giá của tài sản dài hạn dùng cho hoạt động thành chi phí qua các năm sử dụng, chứ không phải là việc đo mức sụt giảm giá trị thị trường của tài sản; số khấu hao mỗi năm phụ thuộc nhiều vào ước tính tuổi thọ vốn tuỳ tiện, và trên thực tế phần lớn doanh nghiệp lấy luôn thời gian khấu hao ngắn mà luật thuế thu nhập liên bang Mỹ cho phép**. Ví dụ trung tâm: cuối năm gần nhất, doanh nghiệp ví dụ có nhà xưởng, máy móc, thiết bị theo nguyên giá 16.500 nghìn USD; năm nay ghi chi phí khấu hao 785 nghìn USD; số khấu hao này không làm giảm trực tiếp tài khoản tài sản mà được cộng dồn vào tài khoản khấu hao luỹ kế, nay có số dư 4.250 nghìn USD; nguyên giá trừ khấu hao luỹ kế cho giá trị ghi sổ 12.250 nghìn USD. Ghi khấu hao không làm giảm tiền. Giá trị ghi sổ không phản ánh chi phí thay thế hiện tại, và chi phí thay thế nhiều khả năng cao hơn vì lạm phát và vì khấu hao nhanh. Tài sản vô hình 5.575 nghìn USD của doanh nghiệp không phát sinh chi phí nào trong năm, vì kiểm tra hằng năm cho thấy chúng không bị suy giảm giá trị.
+## Ý chính
 
-> **Lưu ý:**
-> - **Vị trí trang.** Exhibit 9.1 nằm ở trang in 56 (trang PDF 68), tức là trước trang tên chương; trong khi đó trang PDF 78 (trang in 66) là Exhibit 10.1 của Chương 10, không thuộc chương này. Bản tổng hợp dùng Exhibit 9.1 và bỏ qua Exhibit 10.1.
-> - **Tài sản vô hình bị viết quá gọn, dễ hiểu nhầm.** Tracy viết rằng "hiện nay chuẩn mực kế toán không yêu cầu phân bổ có hệ thống nguyên giá của một tài sản vô hình thành chi phí". Theo hiểu biết của người tổng hợp, không tra cứu: từ chuẩn mực FAS 142 (2001) của Mỹ, chỉ **lợi thế thương mại** và các tài sản vô hình có **thời hạn sử dụng không xác định** (ví dụ một số nhãn hiệu) mới thôi phân bổ dần và chuyển sang kiểm tra suy giảm giá trị; tài sản vô hình có thời hạn hữu hạn, như **bằng sáng chế** (chính ví dụ Tracy nêu ở đầu mục), vẫn phải phân bổ dần trong thời gian sử dụng. Như vậy câu của Tracy đúng với lợi thế thương mại nhưng không đúng với bằng sáng chế.
-> - **"Hơn năm năm khấu hao" là phép tính thô.** Tracy lấy khấu hao luỹ kế 4.250 chia cho khấu hao năm nay 785 (khoảng 5,4) để nói tài sản cố định "chưa cũ lắm". Phép chia này giả định mỗi năm khấu hao bằng nhau; thực tế doanh nghiệp đang mua thêm tài sản (năm nay mua 3.050 nghìn USD, theo Chương 2) và dùng phương pháp khấu hao nhanh cho phần lớn tài sản, nên con số chỉ là ước lượng cảm tính. Người tổng hợp cũng nhận xét: khấu hao luỹ kế năm trước là 3.465, cộng 785 của năm nay đúng bằng 4.250, nghĩa là trong năm doanh nghiệp không thanh lý tài sản cố định nào (nếu có thanh lý thì khấu hao luỹ kế của tài sản đó sẽ bị xoá khỏi tài khoản).
-> - **Thời gian khấu hao theo luật thuế.** Tracy viết luật thuế cho mỗi loại tài sản một "thời gian sử dụng tối thiểu"; theo hiểu biết của người tổng hợp, hệ thống khấu hao thuế Mỹ hiện hành (MACRS, từ 1987) quy định sẵn thời gian thu hồi vốn cho từng nhóm tài sản (ô tô, xe tải nhẹ 5 năm; nhà phi nhà ở 39 năm với tài sản đưa vào sử dụng từ giữa năm 1993; nhà cho thuê để ở 27,5 năm). Từ sau 2009, Mỹ nhiều lần cho phép "khấu hao thưởng" (bonus depreciation) trừ ngay phần lớn hoặc toàn bộ nguyên giá máy móc, thiết bị trong năm mua, làm khoảng cách giữa khấu hao thuế và khấu hao kế toán còn lớn hơn thời Tracy viết.
-> - **Tài sản thuê.** Tracy viết tài sản thuê dài hạn không xuất hiện trên bảng cân đối kế toán (trừ thuê tài chính) và tiền thuê ghi thẳng vào chi phí. Theo hiểu biết của người tổng hợp, từ năm 2019 chuẩn mực ASC 842 (Mỹ) và IFRS 16 (quốc tế) buộc doanh nghiệp ghi nhận hầu hết hợp đồng thuê trên một năm thành "tài sản quyền sử dụng" và "nợ thuê" trên bảng cân đối kế toán; điều này đã khác với mô tả của sách.
-> - **"Phần lớn doanh nghiệp dùng thời gian khấu hao thuế trong báo cáo tài chính."** Theo hiểu biết của người tổng hợp, nhận định này đúng hơn với doanh nghiệp nhỏ và vừa; nhiều công ty niêm yết lớn ở Mỹ dùng phương pháp đường thẳng với thời gian dài hơn trong báo cáo tài chính và dùng khấu hao nhanh trên tờ khai thuế, tạo ra khoản thuế thu nhập hoãn lại. Tracy có nhắc khả năng "giữ hai bộ sổ khấu hao" nhưng coi đó là ngoại lệ.
-> - **Câu hỏi về tự bảo hiểm Tracy để ngỏ.** Tracy hỏi doanh nghiệp tự bảo hiểm có nên ghi trước mỗi năm một khoản chi phí ước tính cho tổn thất chưa xảy ra hay không, nhưng không trả lời. Theo hiểu biết của người tổng hợp, US GAAP (chuẩn mực FAS 5, nay là ASC 450) nhìn chung không cho ghi chi phí cho tổn thất tương lai khi chưa có sự kiện gây tổn thất.
-> - Các phép cộng trừ của Exhibit 9.1 đều khớp (đã kiểm tra lại ở bảng bên dưới). Các câu trích là bản dịch của người tổng hợp.
+Tracy muốn người đọc hiểu rằng **trong kế toán báo cáo tài chính, khấu hao (depreciation) là việc phân bổ nguyên giá của tài sản dài hạn dùng cho hoạt động thành chi phí qua các năm sử dụng, chứ không phải là việc đo mức sụt giảm giá trị thị trường của tài sản; số khấu hao mỗi năm phụ thuộc nhiều vào ước tính tuổi thọ vốn tuỳ tiện, và trên thực tế phần lớn doanh nghiệp lấy luôn thời gian khấu hao ngắn mà luật thuế thu nhập liên bang Mỹ cho phép**.
+
+Ví dụ trung tâm: cuối năm gần nhất, doanh nghiệp ví dụ có nhà xưởng, máy móc, thiết bị theo nguyên giá 16.500 nghìn USD. Năm nay ghi chi phí khấu hao 785 nghìn USD.
+
+Số khấu hao này không làm giảm trực tiếp tài khoản tài sản mà được cộng dồn vào tài khoản khấu hao luỹ kế, nay có số dư 4.250 nghìn USD. Nguyên giá trừ khấu hao luỹ kế cho giá trị ghi sổ 12.250 nghìn USD. Ghi khấu hao không làm giảm tiền.
+
+Giá trị ghi sổ không phản ánh chi phí thay thế hiện tại, và chi phí thay thế nhiều khả năng cao hơn vì lạm phát và vì khấu hao nhanh.
+
+Tài sản vô hình 5.575 nghìn USD của doanh nghiệp không phát sinh chi phí nào trong năm, vì kiểm tra hằng năm cho thấy chúng không bị suy giảm giá trị.
 
 ## Sơ đồ
 
@@ -262,7 +259,7 @@
 - **Tài sản thuê (leased assets):** máy móc, thiết bị doanh nghiệp thuê theo hợp đồng nhiều năm, không sở hữu về pháp lý; theo mô tả của sách thời 2009, tiền thuê ghi vào chi phí và tài sản không lên bảng cân đối kế toán (trừ khi việc thuê thực chất là cách tài trợ để mua), cam kết thuê được thuyết minh.
 - **Tài sản vô hình (intangible assets):** tài sản không có hình thái vật chất: bằng sáng chế (patents), nhãn hiệu (trademarks), lợi thế thương mại. Doanh nghiệp ví dụ có 5.575 nghìn USD cuối năm nay.
 - **Lợi thế thương mại (goodwill):** phần doanh nghiệp trả thêm khi mua trọn một doanh nghiệp khác, vượt quá tổng tài sản xác định được trừ nợ phải trả nhận về; lý do có thể là danh tiếng, khách hàng trung thành, nhân viên giàu kinh nghiệm, công thức bí mật.
-- **Phân bổ dần (amortization):** phân bổ có hệ thống nguyên giá của tài sản vô hình thành chi phí, tương tự khấu hao với tài sản hữu hình. Theo Tracy, chuẩn mực lúc viết sách không yêu cầu việc này (xem Lưu ý về giới hạn của nhận định).
+- **Phân bổ dần (amortization):** phân bổ có hệ thống nguyên giá của tài sản vô hình thành chi phí, tương tự khấu hao với tài sản hữu hình. Theo Tracy, chuẩn mực lúc viết sách không yêu cầu việc này (xem mục Lưu ý cuối chương về giới hạn của nhận định).
 - **Suy giảm giá trị và ghi giảm (impairment; write-down):** khi tài sản (vô hình hoặc cố định) mất giá trị kinh tế rõ ràng, doanh nghiệp giảm giá trị ghi sổ và ghi một khoản chi phí. Doanh nghiệp ví dụ kiểm tra hằng năm, năm nay không thấy suy giảm nên không ghi gì.
 - **Tự bảo hiểm (self-insurance):** doanh nghiệp không mua bảo hiểm tài sản mà tự gánh rủi ro, nên có thể phải ghi giảm rất lớn khi tổn thất xảy ra.
 
@@ -415,7 +412,7 @@ Doanh nghiệp cũng có thể mua trọn một doanh nghiệp khác đang hoạ
 
 Có nhiều lý do để trả nhiều hơn cho một doanh nghiệp đã thành danh và đang hoạt động so với tổng tài sản xác định được của nó (trừ nợ phải trả được nhận về khi mua). Khi doanh nghiệp trả nhiều hơn tổng tài sản cụ thể (trừ nợ phải trả) của doanh nghiệp được mua, phần vượt thường được ghi vào tài khoản tài sản gọi là **lợi thế thương mại**. Việc có nên trừ dần một cách có hệ thống nguyên giá lợi thế thương mại và các tài sản vô hình khác hay không là vấn đề gây tranh cãi trong nhiều năm; Tracy nói ông sẽ không làm người đọc chán với các lập luận kỹ thuật.
 
-Theo Tracy, hiện nay chuẩn mực kế toán không yêu cầu phân bổ có hệ thống nguyên giá của tài sản vô hình vào chi phí (khoản chi phí này gọi là **chi phí phân bổ dần**, amortization expense). Thay vào đó, khi một tài sản vô hình bị mất giá có thể quan sát được, doanh nghiệp làm bút toán **ghi giảm** giá trị ghi sổ của tài sản vô hình đó. Doanh nghiệp đánh giá hằng năm xem tài sản vô hình có bị suy giảm giá trị không, và nếu có thì ghi một khoản chi phí cho tác động của sự suy giảm. (Về giới hạn của nhận định này đối với bằng sáng chế, xem khối Lưu ý ở đầu file.)
+Theo Tracy, hiện nay chuẩn mực kế toán không yêu cầu phân bổ có hệ thống nguyên giá của tài sản vô hình vào chi phí (khoản chi phí này gọi là **chi phí phân bổ dần**, amortization expense). Thay vào đó, khi một tài sản vô hình bị mất giá có thể quan sát được, doanh nghiệp làm bút toán **ghi giảm** giá trị ghi sổ của tài sản vô hình đó. Doanh nghiệp đánh giá hằng năm xem tài sản vô hình có bị suy giảm giá trị không, và nếu có thì ghi một khoản chi phí cho tác động của sự suy giảm. (Về giới hạn của nhận định này đối với bằng sáng chế, xem mục Lưu ý cuối chương.)
 
 Dựa trên đánh giá hằng năm, doanh nghiệp ví dụ xác định tài sản vô hình của mình (5.575.000 USD) không bị mất giá trong năm, nên không ghi chi phí nào cho tài sản vô hình. Vì vậy trong Exhibit 9.1 không có đường nối nào từ tài khoản tài sản vô hình trên bảng cân đối kế toán sang một khoản chi phí trên báo cáo kết quả kinh doanh. Tuy nhiên, Tracy nhắc: khi giá trị tài sản vô hình của doanh nghiệp giảm sút thì phải ghi một khoản chi phí.
 
@@ -566,11 +563,15 @@ Bút toán ghi khấu hao năm: Nợ chi phí khấu hao 785 / Có khấu hao lu
 
 ### Nhận định về tài sản vô hình đúng với lợi thế thương mại nhưng không đúng với bằng sáng chế
 
-Như đã nêu ở khối Lưu ý, theo hiểu biết của người tổng hợp, từ năm 2001 US GAAP chỉ ngừng phân bổ dần lợi thế thương mại và tài sản vô hình có thời hạn không xác định; bằng sáng chế, giấy phép có thời hạn, danh sách khách hàng... vẫn được phân bổ dần. Ví dụ "bằng sáng chế dùng trong sản xuất nhiều năm" mà Tracy đưa ra lại chính là loại phải phân bổ dần. Người đọc nên hiểu rằng tài sản vô hình 5.575 nghìn USD của doanh nghiệp ví dụ không phát sinh chi phí vì giả định của sách (toàn bộ không cần phân bổ và không bị suy giảm), không phải vì quy tắc chung cho mọi tài sản vô hình. Theo hiểu biết của người tổng hợp, chuẩn mực quốc tế IAS 38 và IAS 36 cũng có cách phân biệt tương tự; với doanh nghiệp tư nhân ở Mỹ, từ khoảng năm 2014 có lựa chọn đơn giản hoá cho phép phân bổ dần lợi thế thương mại trong tối đa 10 năm.
+Như đã nêu ở mục Lưu ý cuối chương, theo hiểu biết của người tổng hợp, từ năm 2001 US GAAP chỉ ngừng phân bổ dần lợi thế thương mại và tài sản vô hình có thời hạn không xác định; bằng sáng chế, giấy phép có thời hạn, danh sách khách hàng... vẫn được phân bổ dần. Ví dụ "bằng sáng chế dùng trong sản xuất nhiều năm" mà Tracy đưa ra lại chính là loại phải phân bổ dần.
+
+Người đọc nên hiểu rằng tài sản vô hình 5.575 nghìn USD của doanh nghiệp ví dụ không phát sinh chi phí vì giả định của sách (toàn bộ không cần phân bổ và không bị suy giảm), không phải vì quy tắc chung cho mọi tài sản vô hình. Theo hiểu biết của người tổng hợp, chuẩn mực quốc tế IAS 38 và IAS 36 cũng có cách phân biệt tương tự; với doanh nghiệp tư nhân ở Mỹ, từ khoảng năm 2014 có lựa chọn đơn giản hoá cho phép phân bổ dần lợi thế thương mại trong tối đa 10 năm.
 
 ### Chương đơn giản hoá quan hệ giữa khấu hao thuế và khấu hao kế toán
 
-Tracy cho rằng phần lớn doanh nghiệp dùng luôn thời gian khấu hao thuế trong báo cáo tài chính. Theo hiểu biết của người tổng hợp, điều này đúng với nhiều doanh nghiệp nhỏ, nhưng với các công ty niêm yết lớn ở Mỹ, cách làm phổ biến là "hai bộ sổ" hợp pháp: đường thẳng cho báo cáo tài chính, khấu hao nhanh (MACRS, khấu hao thưởng) cho thuế; chênh lệch tạm thời này tạo ra thuế thu nhập hoãn lại phải trả trên bảng cân đối kế toán. Sau năm 2009, Mỹ nhiều lần cho phép khấu hao thưởng ở mức cao (có giai đoạn 100% nguyên giá máy móc, thiết bị được trừ ngay trong năm mua), nên khoảng cách giữa hai bộ sổ có lúc rất lớn. Ngoài ra, thuế suất thuế thu nhập doanh nghiệp liên bang giảm xuống 21% từ 2018 làm giá trị của việc "trì hoãn thuế" nhờ khấu hao nhanh nhỏ đi so với thời thuế suất 35%.
+Tracy cho rằng phần lớn doanh nghiệp dùng luôn thời gian khấu hao thuế trong báo cáo tài chính. Theo hiểu biết của người tổng hợp, điều này đúng với nhiều doanh nghiệp nhỏ, nhưng với các công ty niêm yết lớn ở Mỹ, cách làm phổ biến là "hai bộ sổ" hợp pháp: đường thẳng cho báo cáo tài chính, khấu hao nhanh (MACRS, khấu hao thưởng) cho thuế; chênh lệch tạm thời này tạo ra thuế thu nhập hoãn lại phải trả trên bảng cân đối kế toán.
+
+Sau năm 2009, Mỹ nhiều lần cho phép khấu hao thưởng ở mức cao (có giai đoạn 100% nguyên giá máy móc, thiết bị được trừ ngay trong năm mua), nên khoảng cách giữa hai bộ sổ có lúc rất lớn. Ngoài ra, thuế suất thuế thu nhập doanh nghiệp liên bang giảm xuống 21% từ 2018 làm giá trị của việc "trì hoãn thuế" nhờ khấu hao nhanh nhỏ đi so với thời thuế suất 35%.
 
 ### Phần tài sản thuê đã lỗi thời từ năm 2019
 
@@ -578,12 +579,187 @@ Tracy mô tả việc thuê tài sản như một cách dùng máy móc, thiết
 
 ### Lập luận "giá trị thay thế cao hơn giá trị ghi sổ" có quan điểm trái chiều trong chuẩn mực quốc tế
 
-Tracy bảo vệ mô hình giá gốc như cách duy nhất trong báo cáo tài chính Mỹ, và điều đó vẫn đúng với US GAAP. Theo hiểu biết của người tổng hợp, IFRS (IAS 16) cho phép doanh nghiệp chọn mô hình đánh giá lại (revaluation model) cho từng nhóm tài sản cố định, ghi tăng theo giá trị hợp lý vào vốn chủ sở hữu, và IAS 40 cho phép bất động sản đầu tư theo giá trị hợp lý. Như vậy, nhận định "báo cáo tài chính không ghi tăng tài sản theo giá thay thế" là đặc điểm của US GAAP hơn là quy luật chung. Mặt khác, các nhà phân tích thường so sánh khấu hao với chi tiêu vốn (năm nay 785 so với 3.050 nghìn USD) để đánh giá doanh nghiệp đang mở rộng hay chỉ duy trì tài sản, một cách đọc bổ sung cho ý của Tracy về chi phí thay thế.
+Tracy bảo vệ mô hình giá gốc như cách duy nhất trong báo cáo tài chính Mỹ, và điều đó vẫn đúng với US GAAP. Theo hiểu biết của người tổng hợp, IFRS (IAS 16) cho phép doanh nghiệp chọn mô hình đánh giá lại (revaluation model) cho từng nhóm tài sản cố định, ghi tăng theo giá trị hợp lý vào vốn chủ sở hữu, và IAS 40 cho phép bất động sản đầu tư theo giá trị hợp lý. Như vậy, nhận định "báo cáo tài chính không ghi tăng tài sản theo giá thay thế" là đặc điểm của US GAAP hơn là quy luật chung.
+
+Mặt khác, các nhà phân tích thường so sánh khấu hao với chi tiêu vốn (năm nay 785 so với 3.050 nghìn USD) để đánh giá doanh nghiệp đang mở rộng hay chỉ duy trì tài sản, một cách đọc bổ sung cho ý của Tracy về chi phí thay thế.
 
 ### Quan điểm "khấu hao theo thời gian thu hồi vốn qua giá bán" là đóng góp riêng của Tracy, đáng suy nghĩ cho nhà quản lý
 
-Tracy không dừng ở mô tả mà đưa ra chủ kiến: thời gian khấu hao nên khớp với số năm doanh nghiệp định thu hồi vốn qua giá bán. Với nhà quản lý, đây là lời nhắc rằng chi phí khấu hao trên báo cáo không phải "chi phí thật" để định giá sản phẩm nếu nó được tính theo thời gian thuế; định giá dựa trên chi phí khấu hao 10 năm cho một tài sản dùng 20 năm có thể làm sản phẩm bị định giá quá cao những năm đầu. Với người cho vay và nhà đầu tư, ý nghĩa là: lợi nhuận của doanh nghiệp dùng khấu hao nhanh bị ghi thấp trong những năm đầu và cao trong những năm sau, nên cần nhìn cả lợi nhuận trước khấu hao và đọc thuyết minh về chính sách khấu hao trước khi so sánh các doanh nghiệp. Một chỉ dấu đơn giản: tỷ lệ khấu hao luỹ kế trên nguyên giá (4.250 trên 16.500, khoảng 26%) cho biết tài sản còn tương đối mới; tỷ lệ cao báo hiệu doanh nghiệp sắp phải chi lớn để thay thế.
+Tracy không dừng ở mô tả mà đưa ra chủ kiến: thời gian khấu hao nên khớp với số năm doanh nghiệp định thu hồi vốn qua giá bán. Với nhà quản lý, đây là lời nhắc rằng chi phí khấu hao trên báo cáo không phải "chi phí thật" để định giá sản phẩm nếu nó được tính theo thời gian thuế; định giá dựa trên chi phí khấu hao 10 năm cho một tài sản dùng 20 năm có thể làm sản phẩm bị định giá quá cao những năm đầu.
+
+Với người cho vay và nhà đầu tư, ý nghĩa là: lợi nhuận của doanh nghiệp dùng khấu hao nhanh bị ghi thấp trong những năm đầu và cao trong những năm sau, nên cần nhìn cả lợi nhuận trước khấu hao và đọc thuyết minh về chính sách khấu hao trước khi so sánh các doanh nghiệp. Một chỉ dấu đơn giản: tỷ lệ khấu hao luỹ kế trên nguyên giá (4.250 trên 16.500, khoảng 26%) cho biết tài sản còn tương đối mới; tỷ lệ cao báo hiệu doanh nghiệp sắp phải chi lớn để thay thế.
 
 ### Vận dụng định tính cho người đọc Việt Nam
 
-Logic của chương (nguyên giá, khấu hao luỹ kế, giá trị còn lại, khấu hao không làm giảm tiền) áp dụng nguyên vẹn khi đọc báo cáo tài chính theo chuẩn mực Việt Nam, nơi bảng cân đối kế toán cũng trình bày nguyên giá và giá trị hao mòn luỹ kế cạnh nhau. Theo hiểu biết của người tổng hợp, ở Việt Nam doanh nghiệp cũng thường chọn thời gian khấu hao theo khung do cơ quan quản lý tài chính quy định (tương tự việc doanh nghiệp Mỹ theo luật thuế mà Tracy mô tả), nên lời cảnh báo của Tracy về tính tuỳ tiện và về sự lệch giữa thời gian khấu hao và thời gian thu hồi vốn qua giá bán vẫn còn nguyên giá trị. Người đọc nên chú ý đặc biệt tới những năm doanh nghiệp thay đổi thời gian khấu hao, vì đó là một cách làm thay đổi lợi nhuận mà không thay đổi dòng tiền.
+Logic của chương (nguyên giá, khấu hao luỹ kế, giá trị còn lại, khấu hao không làm giảm tiền) áp dụng nguyên vẹn khi đọc báo cáo tài chính theo chuẩn mực Việt Nam, nơi bảng cân đối kế toán cũng trình bày nguyên giá và giá trị hao mòn luỹ kế cạnh nhau.
+
+Theo hiểu biết của người tổng hợp, ở Việt Nam doanh nghiệp cũng thường chọn thời gian khấu hao theo khung do cơ quan quản lý tài chính quy định (tương tự việc doanh nghiệp Mỹ theo luật thuế mà Tracy mô tả), nên lời cảnh báo của Tracy về tính tuỳ tiện và về sự lệch giữa thời gian khấu hao và thời gian thu hồi vốn qua giá bán vẫn còn nguyên giá trị. Người đọc nên chú ý đặc biệt tới những năm doanh nghiệp thay đổi thời gian khấu hao, vì đó là một cách làm thay đổi lợi nhuận mà không thay đổi dòng tiền.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 9 trên một trang: sáu nhánh lớn đi theo các mục 0–6 của phần Nội dung chi tiết (bảng xuất phát và nguyên tắc ghi chi phí, chi phí khấu hao với thời gian và phương pháp, khấu hao luỹ kế và giá trị ghi sổ, giá trị thay thế, tài sản vô hình, các vấn đề kế toán), mỗi nhánh ghi định nghĩa, mối nối giữa các khoản mục và con số của doanh nghiệp ví dụ; nhánh cuối là thông điệp xuyên suốt cho người đọc báo cáo tài chính.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 9: khấu hao là phân bổ nguyên giá tài sản cố định thành chi phí qua các năm sử dụng, không đo giá thị trường, không làm giảm tiền`"]
+  n1["`Mục 0–1 — Bảng xuất phát và nguyên tắc ghi chi phí`"]
+  n0 --- n1
+  n2["`Exhibit 9.1: nguyên giá 16.500, khấu hao năm 785, khấu hao luỹ kế 4.250, giá trị ghi sổ 12.250 nghìn USD`"]
+  n1 --- n2
+  n3["`Doanh thu 52.000 trừ giá vốn 33.800, SG#amp;A 12.480, khấu hao 785, lãi vay 545, thuế 1.748 còn lợi nhuận ròng 2.642`"]
+  n2 --- n3
+  n4["`Năm trước nguyên giá 13.450, luỹ kế 3.465, năm nay chi 3.050 mua thêm tài sản cố định`"]
+  n2 --- n4
+  n5["`Kế toán dồn tích: tiền chi ra không nhất thiết ghi vào chi phí trong cùng kỳ chi tiền`"]
+  n1 --- n5
+  n6["`Ghép chi phí với doanh thu: giá vốn, hoa hồng bán hàng ghi cùng kỳ với doanh thu`"]
+  n1 --- n6
+  n7["`Ghép chi phí với đúng kỳ: lương văn phòng, thuê kho, lãi vay ghi vào kỳ hưởng lợi ích, khấu hao thuộc nhóm này`"]
+  n1 --- n7
+  n8["`Hàng tồn kho, phải trả người bán, chi phí trả trước (Chương 5, 7, 8) đều giúp ghi chi phí đúng thời điểm`"]
+  n1 --- n8
+  n9["`Khấu hao trong kế toán là phân bổ nguyên giá, không phải sự mất giá như chiếc xe hơi cá nhân`"]
+  n1 --- n9
+  n10["`Mục 2 — Chi phí khấu hao: thời gian và phương pháp`"]
+  n0 --- n10
+  n11["`Tài sản thuê không lên bảng cân đối kế toán (trừ khi thực chất là tài trợ để mua), tiền thuê ghi vào chi phí`"]
+  n10 --- n11
+  n12["`Từ 2019, ASC 842 và IFRS 16 đưa hầu hết hợp đồng thuê lên bảng cân đối kế toán`"]
+  n11 --- n12
+  n13["`Tài sản cố định sở hữu (nhà máy, văn phòng, máy tính, xe tải, xe nâng) gộp thành nhà xưởng, máy móc, thiết bị theo nguyên giá`"]
+  n10 --- n13
+  n14["`Tuổi thọ hữu hạn: xe tải giao hàng chạy 200.000–300.000 dặm rồi phải thay`"]
+  n13 --- n14
+  n15["`Lý thuyết đòi dự báo tuổi thọ thực tế nhất, nhưng phần lớn doanh nghiệp lấy thời gian theo luật thuế liên bang`"]
+  n10 --- n15
+  n16["`Đất không được khấu hao vì coi như không bao giờ hao mòn`"]
+  n15 --- n16
+  n17["`Khấu hao nhanh nghĩa thứ nhất: thời gian ngắn hơn tuổi thọ thật, ô tô, xe tải nhẹ 5 năm, nhà sau 1993 là 39 năm`"]
+  n15 --- n17
+  n18["`Khấu hao nhanh nghĩa thứ hai: dồn về đầu, trái với phương pháp đường thẳng chia đều mỗi năm`"]
+  n15 --- n18
+  n19["`Khấu hao nhanh giảm thu nhập chịu thuế những năm đầu, Quốc hội coi là chính sách kinh tế tốt`"]
+  n15 --- n19
+  n20["`Doanh nghiệp ví dụ khấu hao 785: nhà xưởng, văn phòng theo đường thẳng, xe tải, máy tính, thiết bị theo khấu hao nhanh`"]
+  n10 --- n20
+  n21["`Chỉ nguyên giá được khấu hao, khấu hao hết thì dừng ghi dù tài sản còn dùng nhiều năm`"]
+  n10 --- n21
+  n22["`Khấu hao tuỳ tiện hơn hầu hết chi phí: bảo hiểm 6 tháng chia chắc chắn, còn bàn, tủ hồ sơ, máy tính thì khó đoán`"]
+  n10 --- n22
+  n23["`Tuổi thọ ước tính quá ngắn thì chi phí khấu hao bị ghi quá nhanh`"]
+  n22 --- n23
+  n24["`Có thể giữ hai bộ sổ (ngắn cho thuế, dài cho báo cáo), nhưng phần lớn dùng luôn thời gian thuế`"]
+  n22 --- n24
+  n25["`Người tổng hợp: công ty niêm yết lớn thường dùng đường thẳng cho báo cáo, khấu hao nhanh cho thuế, tạo thuế thu nhập hoãn lại`"]
+  n24 --- n25
+  n26["`Mọi chi phí làm giảm tài sản hoặc tăng nợ, ghi khấu hao làm giảm tài sản cố định, không làm giảm tiền`"]
+  n10 --- n26
+  n27["`Mục 3 — Khấu hao luỹ kế và giá trị ghi sổ`"]
+  n0 --- n27
+  n28["`Khấu hao không trừ thẳng vào tài khoản tài sản mà cộng dồn vào tài khoản đối trừ khấu hao luỹ kế`"]
+  n27 --- n28
+  n29["`Bút toán năm: Nợ chi phí khấu hao 785 / Có khấu hao luỹ kế 785`"]
+  n28 --- n29
+  n30["`Luỹ kế 3.465 + 785 = 4.250, tức trong năm không thanh lý tài sản cố định nào`"]
+  n28 --- n30
+  n31["`Giá trị ghi sổ = nguyên giá − khấu hao luỹ kế = 16.500 − 4.250 = 12.250`"]
+  n27 --- n31
+  n32["`4.250 ÷ 785 ≈ 5,4: hơn năm năm khấu hao, tài sản chưa cũ lắm, nhưng chỉ là phép tính thô`"]
+  n27 --- n32
+  n33["`Giá trị ghi sổ là chi phí khấu hao của các năm tương lai, trừ phần đất và tài sản thanh lý sớm`"]
+  n27 --- n33
+  n34["`4.250 là tổng khấu hao mọi năm tài sản được dùng, không chỉ của năm gần nhất`"]
+  n27 --- n34
+  n35["`Mục 4 — Giá trị ghi sổ và giá trị thay thế hiện tại`"]
+  n0 --- n35
+  n36["`Chi phí thay thế hiện tại nhiều khả năng cao hơn giá trị ghi sổ 12.250 vì lạm phát và khấu hao nhanh`"]
+  n35 --- n36
+  n37["`Kế toán khấu hao dựa trên thu hồi nguyên giá qua doanh thu, không đánh giá lại theo giá thị trường`"]
+  n35 --- n37
+  n38["`Nhà quản lý vẫn phải mua bảo hiểm theo giá thay thế trước cháy, lụt, bạo loạn, khủng bố, lốc xoáy`"]
+  n35 --- n38
+  n39["`Báo cáo tài chính không ghi tăng tài sản cố định lên theo giá thay thế`"]
+  n35 --- n39
+  n40["`Người tổng hợp: IFRS (IAS 16) cho chọn mô hình đánh giá lại, nên đây là đặc điểm của US GAAP`"]
+  n39 --- n40
+  n41["`Quốc hội từng đổi thời gian khấu hao thuế nhưng chưa bao giờ bỏ cơ sở nguyên giá`"]
+  n35 --- n41
+  n42["`Mục 5 — Tài sản vô hình`"]
+  n0 --- n42
+  n43["`Tài sản vô hình không có hình thái vật chất: bằng sáng chế, nhãn hiệu mua về`"]
+  n42 --- n43
+  n44["`Lợi thế thương mại: phần trả thêm khi mua trọn doanh nghiệp, vượt tổng tài sản xác định được trừ nợ phải trả`"]
+  n42 --- n44
+  n45["`Lý do trả thêm: tên tuổi, khách hàng trung thành, nhân viên giàu kinh nghiệm, công thức bí mật`"]
+  n44 --- n45
+  n46["`Theo Tracy, chuẩn mực không yêu cầu phân bổ dần mà kiểm tra suy giảm hằng năm, mất giá thì ghi giảm và ghi chi phí`"]
+  n42 --- n46
+  n47["`Người tổng hợp: từ FAS 142 chỉ lợi thế thương mại và vô hình không xác định thời hạn thôi phân bổ, bằng sáng chế vẫn phân bổ dần`"]
+  n46 --- n47
+  n48["`Tài sản vô hình 5.575 không mất giá nên năm nay không ghi chi phí nào`"]
+  n42 --- n48
+  n49["`Mục 6 — Các vấn đề kế toán và quan điểm của Tracy`"]
+  n0 --- n49
+  n50["`Tài sản cố định chiếm phần lớn tổng tài sản: giá trị ghi sổ 12.250 trên tổng tài sản 35.500`"]
+  n49 --- n50
+  n51["`Ghi giảm khi mất giá trị kinh tế: hãng bay thừa máy bay, nhà máy đóng cửa, lợi nhuận sụt mạnh`"]
+  n49 --- n51
+  n52["`Bảo dưỡng thường xuyên ghi ngay vào chi phí, cải tạo lớn ghi vào tài sản cố định rồi khấu hao dần`"]
+  n49 --- n52
+  n53["`Tự bảo hiểm: có nên ghi trước chi phí cho tổn thất chưa xảy ra? Tracy để ngỏ`"]
+  n49 --- n53
+  n54["`Phải thuyết minh chính sách khấu hao, tài sản cố định và tài sản vô hình, nhất là khi ghi giảm lớn`"]
+  n49 --- n54
+  n55["`Tracy: thời gian khấu hao nên khớp số năm định thu hồi vốn qua giá bán, như lập luận giá vốn ở Chương 5`"]
+  n49 --- n55
+  n56["`Thu hồi qua giá bán trong 20 năm mà khấu hao 10 năm theo luật thuế thì doanh thu và chi phí lệch nhau`"]
+  n55 --- n56
+  n57["`Tài sản 1.000 nghìn USD: 10 năm ghi 100 mỗi năm rồi 0, thay vì đều 50 trong 20 năm`"]
+  n55 --- n57
+  n58["`Thông điệp xuyên suốt`"]
+  n0 --- n58
+  n59["`Đừng đọc giá trị ghi sổ như giá thị trường, nó thường thấp hơn giá thay thế`"]
+  n58 --- n59
+  n60["`Khấu hao 785 không tốn tiền trong kỳ nên được cộng ngược lại khi tính dòng tiền từ hoạt động kinh doanh (Chương 13)`"]
+  n58 --- n60
+  n61["`Lợi nhuận chịu ảnh hưởng mạnh của lựa chọn thời gian và phương pháp khấu hao, nên đọc thuyết minh trước khi so sánh`"]
+  n58 --- n61
+  n62["`Đổi thời gian khấu hao làm thay đổi lợi nhuận mà không thay đổi dòng tiền`"]
+  n58 --- n62
+  n63["`Khấu hao luỹ kế trên nguyên giá khoảng 26%: tài sản còn tương đối mới, tỷ lệ cao báo hiệu sắp chi lớn để thay thế`"]
+  n58 --- n63
+  class n0 root
+  class n1,n10,n27,n35,n42,n49,n58 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n28,n29,n30,n31,n32,n33,n34,n36,n37,n38,n39,n40,n41,n43,n44,n45,n46,n47,n48,n50,n51,n52,n53,n54,n55,n56,n57,n59,n60,n61,n62,n63 leaf
+```
+
+## Nguồn
+
+John A. Tracy, *How to Read a Financial Report: Wringing Vital Signs Out of the Numbers*, ấn bản thứ bảy (John Wiley & Sons, 2009), Phần Một "Components and Connections in Financial Statements", Chương 9 "A Unique Expense: Depreciation", trang in 56–65 (Exhibit 9.1 ở trang in 56, đứng trước trang tên chương; phần chữ ở trang in 57–65).
+
+## Tác giả
+
+John A. Tracy, giáo sư kế toán danh dự Đại học Colorado ở Boulder, kế toán viên công chứng (CPA).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Từ Chương 4 đến Chương 8, Tracy lần lượt đi qua từng cặp "khoản mục trên báo cáo kết quả kinh doanh – khoản mục trên bảng cân đối kế toán" của doanh nghiệp ví dụ: doanh thu với phải thu khách hàng ([C04](C04-doanh-thu-va-phai-thu-khach-hang.md)), giá vốn hàng bán với hàng tồn kho ([C05](C05-gia-von-hang-ban-va-hang-ton-kho.md)), hàng tồn kho với phải trả người bán ([C06](C06-hang-ton-kho-va-phai-tra-nguoi-ban.md)), chi phí hoạt động với phải trả người bán ([C07](C07-chi-phi-hoat-dong-va-phai-tra-nguoi-ban.md)) và chi phí hoạt động với chi phí trả trước ([C08](C08-chi-phi-hoat-dong-va-chi-phi-tra-truoc.md)).
+
+Chương 9 xử lý cặp tiếp theo: tài khoản nhà xưởng, máy móc, thiết bị trên bảng cân đối kế toán, chi phí khấu hao trên báo cáo kết quả kinh doanh, và tài khoản khấu hao luỹ kế quay ngược lại bảng cân đối kế toán. Chương này cũng nói qua tài sản vô hình.
+
+Điểm mới so với các chương trước: khấu hao là chi phí không đi kèm bất kỳ khoản chi tiền nào trong kỳ, nên nó trở thành mắt xích quan trọng khi Tracy giải thích vì sao dòng tiền từ lợi nhuận khác lợi nhuận ròng ở [C13](C13-dong-tien-tu-hoat-dong-kinh-doanh.md) (khấu hao 785 nghìn USD được cộng ngược lại), còn khoản chi 3.050 nghìn USD mua nhà xưởng, máy móc, thiết bị được trình bày ở [C14](C14-dong-tien-tu-hoat-dong-dau-tu-va-tai-chinh.md). Chương kế tiếp ([C10](C10-ghi-nhan-chi-phi-phai-tra.md)) quay lại với chi phí phải trả.
+
+## Lưu ý
+
+- **Vị trí trang.** Exhibit 9.1 nằm ở trang in 56 (trang PDF 68), tức là trước trang tên chương; trong khi đó trang PDF 78 (trang in 66) là Exhibit 10.1 của Chương 10, không thuộc chương này. Bản tổng hợp dùng Exhibit 9.1 và bỏ qua Exhibit 10.1.
+- **Tài sản vô hình bị viết quá gọn, dễ hiểu nhầm.** Tracy viết rằng "hiện nay chuẩn mực kế toán không yêu cầu phân bổ có hệ thống nguyên giá của một tài sản vô hình thành chi phí". Theo hiểu biết của người tổng hợp, không tra cứu: từ chuẩn mực FAS 142 (2001) của Mỹ, chỉ **lợi thế thương mại** và các tài sản vô hình có **thời hạn sử dụng không xác định** (ví dụ một số nhãn hiệu) mới thôi phân bổ dần và chuyển sang kiểm tra suy giảm giá trị; tài sản vô hình có thời hạn hữu hạn, như **bằng sáng chế** (chính ví dụ Tracy nêu ở đầu mục), vẫn phải phân bổ dần trong thời gian sử dụng. Như vậy câu của Tracy đúng với lợi thế thương mại nhưng không đúng với bằng sáng chế.
+- **"Hơn năm năm khấu hao" là phép tính thô.** Tracy lấy khấu hao luỹ kế 4.250 chia cho khấu hao năm nay 785 (khoảng 5,4) để nói tài sản cố định "chưa cũ lắm". Phép chia này giả định mỗi năm khấu hao bằng nhau; thực tế doanh nghiệp đang mua thêm tài sản (năm nay mua 3.050 nghìn USD, theo Chương 2) và dùng phương pháp khấu hao nhanh cho phần lớn tài sản, nên con số chỉ là ước lượng cảm tính. Người tổng hợp cũng nhận xét: khấu hao luỹ kế năm trước là 3.465, cộng 785 của năm nay đúng bằng 4.250, nghĩa là trong năm doanh nghiệp không thanh lý tài sản cố định nào (nếu có thanh lý thì khấu hao luỹ kế của tài sản đó sẽ bị xoá khỏi tài khoản).
+- **Thời gian khấu hao theo luật thuế.** Tracy viết luật thuế cho mỗi loại tài sản một "thời gian sử dụng tối thiểu"; theo hiểu biết của người tổng hợp, hệ thống khấu hao thuế Mỹ hiện hành (MACRS, từ 1987) quy định sẵn thời gian thu hồi vốn cho từng nhóm tài sản (ô tô, xe tải nhẹ 5 năm; nhà phi nhà ở 39 năm với tài sản đưa vào sử dụng từ giữa năm 1993; nhà cho thuê để ở 27,5 năm). Từ sau 2009, Mỹ nhiều lần cho phép "khấu hao thưởng" (bonus depreciation) trừ ngay phần lớn hoặc toàn bộ nguyên giá máy móc, thiết bị trong năm mua, làm khoảng cách giữa khấu hao thuế và khấu hao kế toán còn lớn hơn thời Tracy viết.
+- **Tài sản thuê.** Tracy viết tài sản thuê dài hạn không xuất hiện trên bảng cân đối kế toán (trừ thuê tài chính) và tiền thuê ghi thẳng vào chi phí. Theo hiểu biết của người tổng hợp, từ năm 2019 chuẩn mực ASC 842 (Mỹ) và IFRS 16 (quốc tế) buộc doanh nghiệp ghi nhận hầu hết hợp đồng thuê trên một năm thành "tài sản quyền sử dụng" và "nợ thuê" trên bảng cân đối kế toán; điều này đã khác với mô tả của sách.
+- **"Phần lớn doanh nghiệp dùng thời gian khấu hao thuế trong báo cáo tài chính."** Theo hiểu biết của người tổng hợp, nhận định này đúng hơn với doanh nghiệp nhỏ và vừa; nhiều công ty niêm yết lớn ở Mỹ dùng phương pháp đường thẳng với thời gian dài hơn trong báo cáo tài chính và dùng khấu hao nhanh trên tờ khai thuế, tạo ra khoản thuế thu nhập hoãn lại. Tracy có nhắc khả năng "giữ hai bộ sổ khấu hao" nhưng coi đó là ngoại lệ.
+- **Câu hỏi về tự bảo hiểm Tracy để ngỏ.** Tracy hỏi doanh nghiệp tự bảo hiểm có nên ghi trước mỗi năm một khoản chi phí ước tính cho tổn thất chưa xảy ra hay không, nhưng không trả lời. Theo hiểu biết của người tổng hợp, US GAAP (chuẩn mực FAS 5, nay là ASC 450) nhìn chung không cho ghi chi phí cho tổn thất tương lai khi chưa có sự kiện gây tổn thất.
+- Các phép cộng trừ của Exhibit 9.1 đều khớp (đã kiểm tra lại ở bảng trong mục Nội dung chi tiết). Các câu trích là bản dịch của người tổng hợp.

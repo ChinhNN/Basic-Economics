@@ -1,19 +1,14 @@
 # Lời nói đầu ấn bản thứ bảy và mục lục (Preface to the Seventh Edition, Contents)
 
-**Nguồn:** John A. Tracy, *How to Read a Financial Report: Wringing Vital Signs Out of the Numbers*, ấn bản thứ bảy (John Wiley & Sons, 2009; ISBN 978-0-470-40530-7), "Preface to the Seventh Edition" (trang in v–vi) và "Contents" (trang in vii–viii).
-**Tác giả:** John A. Tracy, giáo sư kế toán danh dự (emeritus) Đại học Colorado ở Boulder, kế toán viên công chứng (CPA); ký lời nói đầu tại Boulder, Colorado, tháng 3/2009, khi đã nghỉ hưu.
-**Vị trí trong lập luận của cả cuốn sách:** Lời nói đầu không dạy khái niệm kế toán nào. Nó nói vì sao biết đọc báo cáo tài chính (financial report) vẫn quan trọng (hàng triệu người để tiền tiết kiệm hưu trí trong cổ phiếu, thị trường lên xuống mạnh, và từng có làn sóng gian lận báo cáo tài chính mà đỉnh điểm là vụ Enron), ấn bản này thay đổi gì (theo kịp xu hướng chuyển sang chuẩn mực kế toán và báo cáo tài chính quốc tế; mọi bảng minh hoạ được làm lại) và cái gì giữ nguyên (khung sách đã dùng hơn 25 năm, lấy **dòng tiền** làm điểm nhấn). Mục lục cho thấy đường đi của cả cuốn sách: Phần Một (Chương 1–15) dựng ba báo cáo tài chính của một doanh nghiệp ví dụ rồi đi qua từng **mối nối** giữa một khoản mục của báo cáo kết quả kinh doanh và một khoản mục của bảng cân đối kế toán; Phần Hai (Chương 16–18) dùng các báo cáo đó để phân tích dòng tiền, các chỉ số và lợi nhuận; Phần Ba (Chương 19–22) bàn về độ tin cậy của báo cáo tài chính: chuẩn mực, phương pháp kế toán và làm đẹp số liệu, kiểm toán thời hậu Enron. Ngay sau mục lục, Chương 1 ([C01-bat-dau-tu-dong-tien.md](C01-bat-dau-tu-dong-tien.md)) mở đầu bằng bản tóm tắt dòng tiền trong năm của doanh nghiệp ví dụ.
-**Ý chính:** Tracy muốn người đọc hiểu rằng **khả năng đọc báo cáo tài chính một cách tỉnh táo, và biết giới hạn của báo cáo tài chính, là lớp phòng vệ đầu tiên của người bỏ tiền vào doanh nghiệp, kể cả khi luật lệ đã chặt hơn.** Ông dẫn chứng bằng biến động của chỉ số công nghiệp Dow Jones: khoảng 850 điểm khi ấn bản đầu ra đời năm 1980, lên 11.700 điểm đầu năm 2000, rồi lao dốc, hồi phục, lại giảm, và "trên 8.000 một chút" lúc ông viết; tiền hưu trí của chính ông cũng bị ảnh hưởng. Ông nhắc lại làn sóng gian lận báo cáo tài chính dẫn tới vụ Enron và sự sụp đổ của hãng kiểm toán Arthur Andersen, ghi nhận rằng luật liên bang ban hành sau đó nhìn chung có hiệu quả, nhưng khuyên người đọc đừng lơi cảnh giác. Ấn bản thứ bảy cập nhật các thay đổi lớn về báo cáo tài chính và kiểm toán, đứng đầu là xu hướng tiến tới chuẩn mực quốc tế, nhưng giữ nguyên kiến trúc của sách và điểm nhấn dòng tiền, mà Tracy gọi là "dấu ấn" của cuốn sách.
+## Ý chính
 
-> **Lưu ý:**
-> - Mục lục của sách (trang in vii–viii) chỉ liệt kê ba phần, 22 chương và Index, kèm số trang bắt đầu của từng chương; nó **không** liệt kê tiểu mục. Danh sách tiểu mục trong mục 9 của Nội dung chi tiết do người tổng hợp chép từ các tiêu đề trong thân từng chương, kèm trang in nơi tiêu đề xuất hiện. Mục lục cũng không ghi trang của ba trang mở phần (Phần Một ở trang in 1, Phần Hai ở trang in 109, Phần Ba ở trang in 149); người tổng hợp bổ sung các số này từ thân sách.
-> - Đã đối chiếu số trang trong mục lục với thân sách: cả 22 chương và Index (trang in 197) đều khớp.
-> - Trong bản PDF, lời nói đầu nằm ở PDF trang 7–8, mục lục ở PDF trang 9–10, PDF trang 11 là trang tên sách ("How to Read a Financial Report"), PDF trang 12 để trắng. Từ PDF trang 13 trở đi, trang in bằng trang PDF trừ 12.
-> - Câu "As I write this sentence the Dow is on the north side of 8,000" (lúc tôi viết câu này chỉ số Dow trên 8.000 một chút): theo hiểu biết của người tổng hợp, không tra cứu, chỉ số Dow Jones đã xuống dưới 8.000 từ khoảng giữa tháng 2/2009 và chạm đáy quanh 6.500 điểm đầu tháng 3/2009, đúng tháng Tracy ký lời nói đầu. Vậy câu này nhiều khả năng được viết trước đó vài tuần (cuối 2008 hoặc đầu 2009), và con số 8.000 không phản ánh mức thấp nhất của cuộc khủng hoảng tài chính 2008–2009. Lời nói đầu không nhắc trực tiếp tới cuộc khủng hoảng này.
-> - Câu nói "The market will fluctuate" được Tracy gán cho J. P. Morgan. Theo hiểu biết của người tổng hợp, câu này được lưu truyền rộng nhưng thường ở dạng "It will fluctuate" (khi được hỏi thị trường sẽ đi về đâu); đây là chuyện kể truyền miệng, không có văn bản gốc chắc chắn.
-> - Tracy viết "the federal legislation passed in response to the Enron debacle" mà không nêu tên luật. Theo hiểu biết của người tổng hợp, đó là Đạo luật Sarbanes-Oxley (Sarbanes-Oxley Act, SOX) năm 2002; sách bàn về luật này ở Chương 21 (tiểu mục "Post-SOX"). Cũng theo hiểu biết của người tổng hợp: Arthur Andersen bị kết án cản trở công lý năm 2002 vì huỷ tài liệu liên quan đến Enron, Toà án Tối cao Mỹ huỷ bản án năm 2005, nhưng lúc đó hãng đã mất gần hết khách hàng và ngừng hoạt động kiểm toán.
-> - Địa chỉ thư điện tử tracyj@colorado.edu mà Tracy đưa ra để xin file Excel của các bảng minh hoạ là địa chỉ năm 2009; người tổng hợp không kiểm tra hiện nay địa chỉ này còn dùng được hay không.
-> - Bìa sau của sách (không thuộc lời nói đầu) liệt kê bốn điểm mới của ấn bản thứ bảy: bàn về việc chuyển sang chuẩn mực kế toán và báo cáo tài chính quốc tế; một bảng minh hoạ trung tâm được làm gọn, dùng xuyên suốt để giải thích mối nối giữa ba báo cáo; một phần riêng về phân tích lợi nhuận, dòng tiền và khả năng trả nợ cho nhà đầu tư, người cho vay và nhà quản lý (nay là Phần Hai); và suy ngẫm về báo cáo tài chính và kiểm toán thời hậu Enron. Bìa sau cũng ghi sách đã bán hơn 300.000 bản. Lời nói đầu chỉ nhắc hai điểm đầu (chuẩn mực quốc tế; các bảng minh hoạ được làm lại).
+Tracy muốn người đọc hiểu rằng **khả năng đọc báo cáo tài chính một cách tỉnh táo, và biết giới hạn của báo cáo tài chính, là lớp phòng vệ đầu tiên của người bỏ tiền vào doanh nghiệp, kể cả khi luật lệ đã chặt hơn.**
+
+Ông dẫn chứng bằng biến động của chỉ số công nghiệp Dow Jones: khoảng 850 điểm khi ấn bản đầu ra đời năm 1980, lên 11.700 điểm đầu năm 2000, rồi lao dốc, hồi phục, lại giảm, và "trên 8.000 một chút" lúc ông viết; tiền hưu trí của chính ông cũng bị ảnh hưởng.
+
+Ông nhắc lại làn sóng gian lận báo cáo tài chính dẫn tới vụ Enron và sự sụp đổ của hãng kiểm toán Arthur Andersen, ghi nhận rằng luật liên bang ban hành sau đó nhìn chung có hiệu quả, nhưng khuyên người đọc đừng lơi cảnh giác.
+
+Ấn bản thứ bảy cập nhật các thay đổi lớn về báo cáo tài chính và kiểm toán, đứng đầu là xu hướng tiến tới chuẩn mực quốc tế, nhưng giữ nguyên kiến trúc của sách và điểm nhấn dòng tiền, mà Tracy gọi là "dấu ấn" của cuốn sách.
 
 ## Sơ đồ
 
@@ -120,7 +115,9 @@
 
 ### 1. Từ ấn bản đầu đến nay: chỉ số Dow Jones và tiền hưu trí (Preface, đoạn 1, trang in v)
 
-Tracy mở đầu bằng một chi tiết đời thường: khi ông bắt đầu viết cuốn sách, vợ chồng ông chưa có cháu nào; nay đã có 12 đứa cháu. Lúc ấn bản đầu tiên ra mắt năm 1980, chỉ số công nghiệp Dow Jones dao động quanh 850 điểm (ông thêm "thật đấy!" vì con số nghe khó tin với người đọc năm 2009). Chỉ số được theo dõi nhiều nhất này lên tới 11.700 điểm đầu năm 2000, rồi đột ngột lao dốc, làm khoản tiết kiệm hưu trí của chính Tracy sụt mạnh. Những năm sau đó chỉ số hồi phục, rồi lại giảm; lúc ông viết câu này, chỉ số ở mức trên 8.000 một chút. Ông dẫn câu nói được gán cho J. P. Morgan: "Thị trường sẽ dao động." Hàng triệu người để tiền trong thị trường cổ phiếu, và đầu tư cổ phiếu chiếm phần lớn trong hầu hết các kế hoạch hưu trí. Vì vậy, theo Tracy, biết đọc báo cáo tài chính vẫn quan trọng như bao giờ hết.
+Tracy mở đầu bằng một chi tiết đời thường: khi ông bắt đầu viết cuốn sách, vợ chồng ông chưa có cháu nào; nay đã có 12 đứa cháu. Lúc ấn bản đầu tiên ra mắt năm 1980, chỉ số công nghiệp Dow Jones dao động quanh 850 điểm (ông thêm "thật đấy!" vì con số nghe khó tin với người đọc năm 2009). Chỉ số được theo dõi nhiều nhất này lên tới 11.700 điểm đầu năm 2000, rồi đột ngột lao dốc, làm khoản tiết kiệm hưu trí của chính Tracy sụt mạnh. Những năm sau đó chỉ số hồi phục, rồi lại giảm; lúc ông viết câu này, chỉ số ở mức trên 8.000 một chút.
+
+Ông dẫn câu nói được gán cho J. P. Morgan: "Thị trường sẽ dao động." Hàng triệu người để tiền trong thị trường cổ phiếu, và đầu tư cổ phiếu chiếm phần lớn trong hầu hết các kế hoạch hưu trí. Vì vậy, theo Tracy, biết đọc báo cáo tài chính vẫn quan trọng như bao giờ hết.
 
 ### 2. Làn sóng gian lận, Enron và Arthur Andersen (Preface, đoạn 2, trang in v)
 
@@ -140,7 +137,9 @@ Luật liên bang được thông qua để đối phó với vụ Enron (Tracy 
 
 ### 6. Các bảng minh hoạ được làm lại bằng Excel (Preface, đoạn 5, trang in vi)
 
-Mọi bảng minh hoạ (exhibit) trong ấn bản này được làm mới cho rõ ràng và gọn hơn. Tracy tự lập các bảng này dưới dạng bảng tính Excel. Người đọc muốn có file bảng tính (workbook) chứa tất cả các bảng minh hoạ có thể liên hệ ông qua thư điện tử tracyj@colorado.edu. Ông nói mình đã nghỉ hưu nên có nhiều thời gian đọc và trả lời thư hơn. (Ở Chương 3, mục "Connecting the Dots", Tracy kể rằng nhiều người đã xin file này và họ luôn nhắc tới giá trị của việc thấy được các mối nối giữa các báo cáo tài chính.) Ông cảm ơn chân thành những độc giả đã gửi lời khen về cuốn sách: tiền bản quyền là điều dễ chịu, nhưng những lời khen của độc giả mới là phần thưởng thêm đáng quý.
+Mọi bảng minh hoạ (exhibit) trong ấn bản này được làm mới cho rõ ràng và gọn hơn. Tracy tự lập các bảng này dưới dạng bảng tính Excel. Người đọc muốn có file bảng tính (workbook) chứa tất cả các bảng minh hoạ có thể liên hệ ông qua thư điện tử tracyj@colorado.edu. Ông nói mình đã nghỉ hưu nên có nhiều thời gian đọc và trả lời thư hơn. (Ở Chương 3, mục "Connecting the Dots", Tracy kể rằng nhiều người đã xin file này và họ luôn nhắc tới giá trị của việc thấy được các mối nối giữa các báo cáo tài chính.)
+
+Ông cảm ơn chân thành những độc giả đã gửi lời khen về cuốn sách: tiền bản quyền là điều dễ chịu, nhưng những lời khen của độc giả mới là phần thưởng thêm đáng quý.
 
 ### 7. Lời cảm ơn (Preface, đoạn 6, trang in vi)
 
@@ -153,7 +152,9 @@ Không nhiều cuốn sách thuộc loại này đi được tới ấn bản th
 
 ### 8. Đề tặng Gordon B. Laing (Preface, đoạn 7, trang in vi)
 
-Tracy đề tặng cuốn sách cho Gordon B. Laing, biên tập viên đầu tiên và người bảo trợ cuốn sách. Theo Tracy, khả năng biên tập xuất sắc của Laing là may mắn mà ít tác giả có được; sự hướng dẫn, khích lệ và nhiệt tình của ông đã tạo ra khác biệt quyết định. Laing là một quý ông thực thụ, đã dạy Tracy rất nhiều về cách viết; những lời phê bình bản thảo của ông sắc sảo nhưng luôn tử tế và mang tính hỗ trợ. Laing rất tự hào về thành công của cuốn sách, và Tracy cho rằng ông hoàn toàn xứng đáng tự hào. Laing mất đầu năm 2003, để lại nỗi buồn lớn cho Tracy. Lời nói đầu kết bằng lời nhắn gửi Laing: nếu bằng cách nào đó ông nghe được, Tracy muốn nói lại một lần nữa rằng ông không thể làm được điều này nếu thiếu Laing. Lời nói đầu ký: John A. Tracy, Boulder, Colorado, tháng 3/2009.
+Tracy đề tặng cuốn sách cho Gordon B. Laing, biên tập viên đầu tiên và người bảo trợ cuốn sách. Theo Tracy, khả năng biên tập xuất sắc của Laing là may mắn mà ít tác giả có được; sự hướng dẫn, khích lệ và nhiệt tình của ông đã tạo ra khác biệt quyết định. Laing là một quý ông thực thụ, đã dạy Tracy rất nhiều về cách viết; những lời phê bình bản thảo của ông sắc sảo nhưng luôn tử tế và mang tính hỗ trợ.
+
+Laing rất tự hào về thành công của cuốn sách, và Tracy cho rằng ông hoàn toàn xứng đáng tự hào. Laing mất đầu năm 2003, để lại nỗi buồn lớn cho Tracy. Lời nói đầu kết bằng lời nhắn gửi Laing: nếu bằng cách nào đó ông nghe được, Tracy muốn nói lại một lần nữa rằng ông không thể làm được điều này nếu thiếu Laing. Lời nói đầu ký: John A. Tracy, Boulder, Colorado, tháng 3/2009.
 
 ### 9. Mục lục: ba phần, 22 chương và các tiểu mục (Contents, trang in vii–viii)
 
@@ -489,7 +490,9 @@ Tracy ký lời nói đầu tháng 3/2009, khi thị trường cổ phiếu Mỹ
 
 ### Xu hướng tiến tới chuẩn mực quốc tế mà Tracy đặt lên đầu danh sách đã không đi tới đích ở Mỹ
 
-Theo hiểu biết của người tổng hợp, không tra cứu: năm 2008–2009, Ủy ban Chứng khoán và Giao dịch Mỹ (Securities and Exchange Commission, SEC) có lộ trình có thể cho phép rồi bắt buộc công ty Mỹ dùng IFRS; sau đó kế hoạch này không được thực hiện, và chương trình hội tụ FASB–IASB dừng lại vào khoảng giữa những năm 2010 sau khi hai bên ban hành chung một số chuẩn mực lớn (doanh thu: ASC 606/IFRS 15, hiệu lực 2018; thuê tài sản: ASC 842/IFRS 16, hiệu lực 2019, dù hai chuẩn mực thuê tài sản vẫn khác nhau ở nhiều điểm). Công ty Mỹ vẫn dùng GAAP của Mỹ; IFRS được dùng ở phần lớn các nước khác. Cũng theo hiểu biết của người tổng hợp, Bộ chuẩn mực FASB Codification (ASC) mà Chương 19 nói "sắp ra" đã có hiệu lực từ tháng 9/2009, và năm 2012 Mỹ lập Hội đồng Công ty Tư nhân (Private Company Council) để điều chỉnh GAAP cho công ty không niêm yết, đúng chủ đề tiểu mục "Do Private Companies Need Separate Standards?".
+Theo hiểu biết của người tổng hợp, không tra cứu: năm 2008–2009, Ủy ban Chứng khoán và Giao dịch Mỹ (Securities and Exchange Commission, SEC) có lộ trình có thể cho phép rồi bắt buộc công ty Mỹ dùng IFRS; sau đó kế hoạch này không được thực hiện, và chương trình hội tụ FASB–IASB dừng lại vào khoảng giữa những năm 2010 sau khi hai bên ban hành chung một số chuẩn mực lớn (doanh thu: ASC 606/IFRS 15, hiệu lực 2018; thuê tài sản: ASC 842/IFRS 16, hiệu lực 2019, dù hai chuẩn mực thuê tài sản vẫn khác nhau ở nhiều điểm). Công ty Mỹ vẫn dùng GAAP của Mỹ; IFRS được dùng ở phần lớn các nước khác.
+
+Cũng theo hiểu biết của người tổng hợp, Bộ chuẩn mực FASB Codification (ASC) mà Chương 19 nói "sắp ra" đã có hiệu lực từ tháng 9/2009, và năm 2012 Mỹ lập Hội đồng Công ty Tư nhân (Private Company Council) để điều chỉnh GAAP cho công ty không niêm yết, đúng chủ đề tiểu mục "Do Private Companies Need Separate Standards?".
 
 ### Điểm nhấn dòng tiền và mối nối là thứ khiến sách khác các sách nhập môn kế toán
 
@@ -505,3 +508,154 @@ Theo hiểu biết của người tổng hợp, không tra cứu: sau Đạo lu�
 - **Người cho vay:** tập trung vào Chương 16 (tăng trưởng làm hao tiền như thế nào), Chương 17 (các chỉ số về khả năng trả nợ) và Chương 15 (thuyết minh).
 - **Nhà đầu tư:** Phần Ba (Chương 19–22) giúp đánh giá mức độ tin được của con số, trước khi dùng EPS và P/E ở Chương 17.
 - **Người đọc Việt Nam:** khung "mối nối" và "dòng tiền" áp dụng được cho báo cáo tài chính lập theo chuẩn mực kế toán Việt Nam, vì ba báo cáo cơ bản có cùng cấu trúc; khác biệt nằm ở chi tiết quy định ghi nhận, mà người đọc cần đối chiếu với chuẩn mực hiện hành khi áp dụng.
+
+## Bản đồ tư duy
+
+Toàn cảnh Lời nói đầu và Mục lục trên một trang: sáu nhánh lớn đi theo các mục 1–9 của phần Nội dung chi tiết và mục Đánh giá (thị trường dao động và tiền hưu trí, gian lận Enron và giới hạn của luật, ấn bản thứ bảy đổi gì và giữ gì, lời cảm ơn và đề tặng, cấu trúc ba phần 22 chương, nhận xét của người tổng hợp), mỗi nhánh ghi con số, lập luận và nội dung then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Lời nói đầu: hiểu báo cáo tài chính một cách tỉnh táo và biết giới hạn của nó là lớp phòng vệ đầu tiên của người bỏ tiền`"]
+  n1["`Mục 1 — Thị trường dao động nên vẫn phải biết đọc báo cáo tài chính`"]
+  n0 --- n1
+  n2["`Dow Jones khoảng 850 điểm năm 1980, 11.700 điểm đầu năm 2000, trên 8.000 một chút lúc Tracy viết`"]
+  n1 --- n2
+  n3["`Khi chỉ số lao dốc sau năm 2000, khoản tiết kiệm hưu trí của chính Tracy sụt mạnh`"]
+  n1 --- n3
+  n4["`Câu được gán cho J. P. Morgan: #quot;Thị trường sẽ dao động#quot;`"]
+  n1 --- n4
+  n5["`Hàng triệu người để tiền trong cổ phiếu, cổ phiếu chiếm phần lớn trong hầu hết kế hoạch hưu trí`"]
+  n1 --- n5
+  n6["`Mục 2–3 — Gian lận kiểu Enron và giới hạn của luật mới`"]
+  n0 --- n6
+  n7["`Làn sóng gian lận báo cáo tài chính đạt đỉnh ở vụ Enron, kéo đổ hãng kiểm toán Arthur Andersen`"]
+  n6 --- n7
+  n8["`Gian lận báo cáo tài chính: cố ý công bố số liệu sai để lừa người cho vay và cổ đông`"]
+  n6 --- n8
+  n9["`Các vụ gian lận gây thiệt hại hàng tỷ USD cho nhà đầu tư`"]
+  n6 --- n9
+  n10["`Luật liên bang sau vụ Enron nhìn chung có hiệu quả: lãnh đạo và kiểm toán viên CPA công ty đại chúng theo quy định mới`"]
+  n6 --- n10
+  n11["`Quy định mới được kỳ vọng làm thị trường cổ phiếu thành nơi đầu tư công bằng hơn`"]
+  n6 --- n11
+  n12["`Nhưng không được lơi cảnh giác: luật không thay được việc tự hiểu báo cáo và giới hạn của nó`"]
+  n6 --- n12
+  n13["`Mục 4–6 — Ấn bản thứ bảy cập nhật chuẩn mực, giữ khung dòng tiền`"]
+  n0 --- n13
+  n14["`Đứng đầu danh sách cập nhật: xu hướng tiến tới chuẩn mực kế toán và báo cáo tài chính quốc tế (Chương 19)`"]
+  n13 --- n14
+  n15["`IFRS do IASB ban hành, khác GAAP của Mỹ do FASB ban hành`"]
+  n13 --- n15
+  n16["`Kiến trúc sách giữ nguyên vì đã thành công hơn 25 năm: #quot;mẹ tôi không nuôi một kẻ ngốc#quot;`"]
+  n13 --- n16
+  n17["`Nhấn mạnh dòng tiền xuyên suốt là #quot;dấu ấn#quot; của cuốn sách`"]
+  n13 --- n17
+  n18["`Chương 1: hoạt động tạo lợi nhuận mang về 3.105 nghìn USD, tiền mặt cả năm vẫn giảm 470 nghìn USD`"]
+  n17 --- n18
+  n19["`Mọi bảng minh hoạ (exhibit) làm lại cho rõ và gọn, lập bằng Excel, người đọc xin file qua thư điện tử`"]
+  n13 --- n19
+  n20["`Mục 7–8 — Lời cảm ơn và đề tặng`"]
+  n0 --- n20
+  n21["`Ít sách loại này tới ấn bản thứ bảy, nhờ gần ba thập kỷ hợp tác với John Wiley #amp; Sons`"]
+  n20 --- n21
+  n22["`Joe Ross, giám đốc đào tạo toàn quốc của Merrill Lynch, góp ý bản thảo đầu tiên`"]
+  n20 --- n22
+  n23["`Tiền bản quyền là điều dễ chịu, lời khen của độc giả mới là phần thưởng thêm đáng quý`"]
+  n20 --- n23
+  n24["`Đề tặng Gordon B. Laing, biên tập viên đầu tiên và người bảo trợ cuốn sách, mất đầu năm 2003`"]
+  n20 --- n24
+  n25["`Mục 9 — Mục lục: ba phần, 22 chương, Index ở trang in 197`"]
+  n0 --- n25
+  n26["`Phần Một (Chương 1–15, trang in 1–108): thành phần và mối nối của ba báo cáo tài chính`"]
+  n25 --- n26
+  n27["`Chương 1–3: dòng tiền, ba báo cáo tài chính, lợi nhuận không phải là tất cả`"]
+  n26 --- n27
+  n28["`Chương 4–12 đặt tên theo cặp khoản mục: doanh thu với phải thu khách hàng, giá vốn hàng bán với hàng tồn kho...`"]
+  n26 --- n28
+  n29["`Chương 12: lợi nhuận ròng chuyển vào lợi nhuận giữ lại, cách tính EPS`"]
+  n26 --- n29
+  n30["`Chương 13–14: báo cáo lưu chuyển tiền tệ, Chương 15: thuyết minh báo cáo tài chính`"]
+  n26 --- n30
+  n31["`Chương 4–15 đều kết thúc bằng tiểu mục Các vấn đề kế toán`"]
+  n26 --- n31
+  n32["`Phần Hai (Chương 16–18, trang in 109–148): phân tích báo cáo tài chính`"]
+  n25 --- n32
+  n33["`Chương 16: cái giá về dòng tiền khi tăng trưởng, phần dòng tiền thu thêm khi suy giảm`"]
+  n32 --- n33
+  n34["`Chương 17: hệ số thanh toán hiện hành, thanh toán nhanh, nợ trên vốn chủ sở hữu, khả năng trả lãi vay`"]
+  n32 --- n34
+  n35["`Chương 17 còn có tỷ suất lợi nhuận trên doanh thu, ROE, ROA, EPS, P/E và giá trị vốn hoá`"]
+  n32 --- n35
+  n36["`Chương 18 là chương duy nhất cho nhà quản lý: so giá bán với sản lượng bán cùng tỷ lệ thay đổi`"]
+  n32 --- n36
+  n37["`Phần Ba (Chương 19–22, trang in 149–196): độ tin cậy của báo cáo tài chính`"]
+  n25 --- n37
+  n38["`Chương 19: chuẩn mực quốc tế, chuẩn mực riêng cho công ty tư nhân, quyền chọn cổ phiếu`"]
+  n37 --- n38
+  n39["`Chương 20: lựa chọn phương pháp kế toán, làm đẹp số liệu, chất lượng lợi nhuận, trình bày lại báo cáo`"]
+  n37 --- n39
+  n40["`Chương 21: vì sao cần kiểm toán, ý kiến chấp nhận toàn phần, kiểm toán viên có phát hiện gian lận không, sau SOX`"]
+  n37 --- n40
+  n41["`Chương 22: hỏi đáp, như giá cổ phiếu có phụ thuộc duy nhất vào báo cáo tài chính không`"]
+  n37 --- n41
+  n42["`Phần Một chiếm 108 trong 196 trang nội dung, hơn một nửa sách`"]
+  n25 --- n42
+  n43["`EPS xuất hiện hai lần: Chương 12 (cách tính) và Chương 17 (cùng hệ số P/E)`"]
+  n25 --- n43
+  n44["`Đánh giá — Nhận xét của người tổng hợp`"]
+  n0 --- n44
+  n45["`Đọc báo cáo để hiểu và tự bảo vệ, không phải để tìm cổ phiếu bị định giá thấp (khớp Chương 22)`"]
+  n44 --- n45
+  n46["`Ký tháng 3/2009 giữa khủng hoảng tài chính nhưng trọng tâm vẫn là gian lận kiểu Enron`"]
+  n44 --- n46
+  n47["`Khủng hoảng 2008 có vấn đề giá trị hợp lý và nợ ngoài bảng cân đối mà khung doanh nghiệp sản xuất không đề cập`"]
+  n46 --- n47
+  n48["`Hội tụ IFRS không tới đích ở Mỹ: công ty Mỹ vẫn dùng GAAP, chỉ chung chuẩn mực doanh thu ASC 606/IFRS 15`"]
+  n44 --- n48
+  n49["`Cả sách dùng một doanh nghiệp ví dụ doanh thu 52 triệu USD/năm, ít nói về dịch vụ, ngân hàng`"]
+  n44 --- n49
+  n50["`Gian lận vẫn xảy ra sau SOX, như vụ Wirecard ở Đức năm 2020`"]
+  n44 --- n50
+  n51["`Người cho vay đọc Chương 15–17, nhà đầu tư đọc Phần Ba trước khi dùng EPS và P/E`"]
+  n44 --- n51
+  n52["`Thông điệp xuyên suốt`"]
+  n0 --- n52
+  n53["`Luật và kiểm toán làm giảm, không loại bỏ rủi ro: người đọc vẫn phải tự hiểu báo cáo`"]
+  n52 --- n53
+  n54["`Cách hiểu báo cáo của sách: theo dõi dòng tiền và các mối nối giữa ba báo cáo tài chính`"]
+  n52 --- n54
+  class n0 root
+  class n1,n6,n13,n20,n25,n44,n52 branch
+  class n2,n3,n4,n5,n7,n8,n9,n10,n11,n12,n14,n15,n16,n17,n18,n19,n21,n22,n23,n24,n26,n27,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n38,n39,n40,n41,n42,n43,n45,n46,n47,n48,n49,n50,n51,n53,n54 leaf
+```
+
+## Nguồn
+
+John A. Tracy, *How to Read a Financial Report: Wringing Vital Signs Out of the Numbers*, ấn bản thứ bảy (John Wiley & Sons, 2009; ISBN 978-0-470-40530-7), "Preface to the Seventh Edition" (trang in v–vi) và "Contents" (trang in vii–viii).
+
+## Tác giả
+
+John A. Tracy, giáo sư kế toán danh dự (emeritus) Đại học Colorado ở Boulder, kế toán viên công chứng (CPA); ký lời nói đầu tại Boulder, Colorado, tháng 3/2009, khi đã nghỉ hưu.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Lời nói đầu không dạy khái niệm kế toán nào. Nó nói vì sao biết đọc báo cáo tài chính (financial report) vẫn quan trọng (hàng triệu người để tiền tiết kiệm hưu trí trong cổ phiếu, thị trường lên xuống mạnh, và từng có làn sóng gian lận báo cáo tài chính mà đỉnh điểm là vụ Enron), ấn bản này thay đổi gì (theo kịp xu hướng chuyển sang chuẩn mực kế toán và báo cáo tài chính quốc tế; mọi bảng minh hoạ được làm lại) và cái gì giữ nguyên (khung sách đã dùng hơn 25 năm, lấy **dòng tiền** làm điểm nhấn).
+
+Mục lục cho thấy đường đi của cả cuốn sách: Phần Một (Chương 1–15) dựng ba báo cáo tài chính của một doanh nghiệp ví dụ rồi đi qua từng **mối nối** giữa một khoản mục của báo cáo kết quả kinh doanh và một khoản mục của bảng cân đối kế toán; Phần Hai (Chương 16–18) dùng các báo cáo đó để phân tích dòng tiền, các chỉ số và lợi nhuận; Phần Ba (Chương 19–22) bàn về độ tin cậy của báo cáo tài chính: chuẩn mực, phương pháp kế toán và làm đẹp số liệu, kiểm toán thời hậu Enron.
+
+Ngay sau mục lục, Chương 1 ([C01-bat-dau-tu-dong-tien.md](C01-bat-dau-tu-dong-tien.md)) mở đầu bằng bản tóm tắt dòng tiền trong năm của doanh nghiệp ví dụ.
+
+## Lưu ý
+
+- Mục lục của sách (trang in vii–viii) chỉ liệt kê ba phần, 22 chương và Index, kèm số trang bắt đầu của từng chương; nó **không** liệt kê tiểu mục. Danh sách tiểu mục trong mục 9 của Nội dung chi tiết do người tổng hợp chép từ các tiêu đề trong thân từng chương, kèm trang in nơi tiêu đề xuất hiện. Mục lục cũng không ghi trang của ba trang mở phần (Phần Một ở trang in 1, Phần Hai ở trang in 109, Phần Ba ở trang in 149); người tổng hợp bổ sung các số này từ thân sách.
+- Đã đối chiếu số trang trong mục lục với thân sách: cả 22 chương và Index (trang in 197) đều khớp.
+- Trong bản PDF, lời nói đầu nằm ở PDF trang 7–8, mục lục ở PDF trang 9–10, PDF trang 11 là trang tên sách ("How to Read a Financial Report"), PDF trang 12 để trắng. Từ PDF trang 13 trở đi, trang in bằng trang PDF trừ 12.
+- Câu "As I write this sentence the Dow is on the north side of 8,000" (lúc tôi viết câu này chỉ số Dow trên 8.000 một chút): theo hiểu biết của người tổng hợp, không tra cứu, chỉ số Dow Jones đã xuống dưới 8.000 từ khoảng giữa tháng 2/2009 và chạm đáy quanh 6.500 điểm đầu tháng 3/2009, đúng tháng Tracy ký lời nói đầu. Vậy câu này nhiều khả năng được viết trước đó vài tuần (cuối 2008 hoặc đầu 2009), và con số 8.000 không phản ánh mức thấp nhất của cuộc khủng hoảng tài chính 2008–2009. Lời nói đầu không nhắc trực tiếp tới cuộc khủng hoảng này.
+- Câu nói "The market will fluctuate" được Tracy gán cho J. P. Morgan. Theo hiểu biết của người tổng hợp, câu này được lưu truyền rộng nhưng thường ở dạng "It will fluctuate" (khi được hỏi thị trường sẽ đi về đâu); đây là chuyện kể truyền miệng, không có văn bản gốc chắc chắn.
+- Tracy viết "the federal legislation passed in response to the Enron debacle" mà không nêu tên luật. Theo hiểu biết của người tổng hợp, đó là Đạo luật Sarbanes-Oxley (Sarbanes-Oxley Act, SOX) năm 2002; sách bàn về luật này ở Chương 21 (tiểu mục "Post-SOX"). Cũng theo hiểu biết của người tổng hợp: Arthur Andersen bị kết án cản trở công lý năm 2002 vì huỷ tài liệu liên quan đến Enron, Toà án Tối cao Mỹ huỷ bản án năm 2005, nhưng lúc đó hãng đã mất gần hết khách hàng và ngừng hoạt động kiểm toán.
+- Địa chỉ thư điện tử tracyj@colorado.edu mà Tracy đưa ra để xin file Excel của các bảng minh hoạ là địa chỉ năm 2009; người tổng hợp không kiểm tra hiện nay địa chỉ này còn dùng được hay không.
+- Bìa sau của sách (không thuộc lời nói đầu) liệt kê bốn điểm mới của ấn bản thứ bảy: bàn về việc chuyển sang chuẩn mực kế toán và báo cáo tài chính quốc tế; một bảng minh hoạ trung tâm được làm gọn, dùng xuyên suốt để giải thích mối nối giữa ba báo cáo; một phần riêng về phân tích lợi nhuận, dòng tiền và khả năng trả nợ cho nhà đầu tư, người cho vay và nhà quản lý (nay là Phần Hai); và suy ngẫm về báo cáo tài chính và kiểm toán thời hậu Enron. Bìa sau cũng ghi sách đã bán hơn 300.000 bản. Lời nói đầu chỉ nhắc hai điểm đầu (chuẩn mực quốc tế; các bảng minh hoạ được làm lại).

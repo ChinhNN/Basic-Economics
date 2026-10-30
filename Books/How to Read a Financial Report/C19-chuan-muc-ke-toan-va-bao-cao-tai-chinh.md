@@ -1,20 +1,18 @@
 # Chương 19 — Chuẩn mực kế toán và báo cáo tài chính (Accounting and Financial Reporting Standards)
 
-**Nguồn:** John A. Tracy, *How to Read a Financial Report: Wringing Vital Signs Out of the Numbers*, ấn bản thứ bảy (John Wiley & Sons, 2009), Phần Ba "Reliability of Financial Reports", Chương 19 "Accounting and Financial Reporting Standards", trang in 151–159 (trang in 149 là trang tên Phần Ba, trang in 151 là trang tên chương; nội dung chương nằm ở trang in 152–159).
-**Tác giả:** John A. Tracy, giáo sư kế toán danh dự Đại học Colorado ở Boulder, kế toán viên công chứng (CPA).
-**Vị trí trong lập luận của cả cuốn sách:** Phần Một (Chương 1–15) dạy người đọc cách các khoản mục của báo cáo kết quả kinh doanh nối với các khoản mục của bảng cân đối kế toán và với dòng tiền; Phần Hai (Chương 16–18, xem [C16](C16-tac-dong-cua-tang-truong-va-suy-giam-len-dong-tien.md), [C17](C17-cac-chi-so-tai-chinh.md), [C18](C18-phan-tich-loi-nhuan-cho-nha-quan-ly.md)) dạy cách phân tích các con số đó bằng chỉ số và bằng mô hình lợi nhuận cho nhà quản lý. Tất cả những phân tích ấy đều ngầm giả định rằng con số trong báo cáo là đáng tin. Chương 19 mở đầu Phần Ba "Độ tin cậy của báo cáo tài chính" bằng câu hỏi gốc: **ai đặt ra luật chơi cho việc lập báo cáo tài chính, và luật chơi đó đang thay đổi ra sao**. Tracy giới thiệu nguyên tắc kế toán được chấp nhận chung của Mỹ (GAAP), Hội đồng Chuẩn mực Kế toán Tài chính Mỹ (FASB), Uỷ ban Chứng khoán và Giao dịch Mỹ (SEC), Hội đồng Chuẩn mực Kế toán Quốc tế (IASB) và chuẩn mực báo cáo tài chính quốc tế (IFRS), rồi chỉ ra bốn chỗ còn tranh cãi: cách viết chuẩn mực (dựa trên nguyên tắc hay dựa trên quy tắc), chuẩn mực cho công ty tư nhân, kế toán quyền chọn cổ phiếu, và mức công bố thông tin còn thiếu trên báo cáo kết quả kinh doanh. Chương 20 ([C20](C20-phuong-phap-ke-toan-va-lam-dep-so-lieu.md)) đi tiếp: ngay trong khuôn khổ GAAP, doanh nghiệp vẫn được chọn phương pháp kế toán và có thể làm đẹp số liệu (Chương 19 đã nhắc trước rằng chi phí bảo trì, sửa chữa có thể bị dùng để điều chỉnh lợi nhuận, xem Chương 20). Chương 21 ([C21](C21-kiem-toan-bao-cao-tai-chinh-thoi-hau-enron.md)) bàn về kiểm toán, cơ chế kiểm tra xem doanh nghiệp có tuân thủ các chuẩn mực mà Chương 19 mô tả hay không.
-**Ý chính:** Tracy muốn người đọc hiểu rằng **báo cáo tài chính chỉ so sánh và tin được khi mọi doanh nghiệp theo cùng một bộ luật chơi về phương pháp kế toán và công bố thông tin; ở Mỹ năm 2008 luật chơi đó là GAAP do FASB (một tổ chức tư nhân) đặt ra dưới sự giám sát của SEC, nhưng thế giới đang chuyển nhanh sang IFRS, và bản thân GAAP còn nhiều chỗ chưa ổn**. Người dùng báo cáo cần bốn nhóm thông tin cốt lõi: doanh thu và kết quả lợi nhuận; tình hình tài chính và khả năng trả nợ; cơ cấu vốn sở hữu (các loại cổ phiếu, nợ chuyển đổi, quyền chọn cổ phiếu của nhà quản lý); và dòng tiền. Các con số trung tâm của chương: theo bản tin *The CPA Letter* tháng 6/2008, hơn 12.000 công ty đại chúng ở gần 100 nước đã dùng IFRS, trong khi hơn 10.000 công ty đại chúng Mỹ dùng GAAP; từ khi thành lập năm 1973, FASB đã ban hành hơn 160 chuẩn mực, khoảng 20 trang mỗi chuẩn mực, tức hàng nghìn trang, và hơn 5.000 trang nếu tính cả văn bản của các tổ chức tiền thân, của SEC và các diễn giải chính thức. Ví dụ quyền chọn cổ phiếu: một công ty có 100 triệu cổ phiếu đang lưu hành đã trao cho các lãnh đạo quyền chọn mà nếu thực hiện hết sẽ buộc công ty phát hành thêm 5 triệu cổ phiếu. Tracy cho rằng FASB đã đúng ở lập trường ban đầu (chỉ cần công bố và tính vào EPS pha loãng) và sai khi bắt ghi một khoản "chi phí nhân tạo" cho quyền chọn. Ông kết thúc bằng nhận định FASB còn "nợ" người đọc ở mảng công bố thông tin trên báo cáo kết quả kinh doanh: chi phí quảng cáo, chi phí bảo trì sửa chữa, thù lao lãnh đạo và cơ cấu cổ đông đều không bắt buộc nêu trong báo cáo tài chính gửi cổ đông.
+## Ý chính
 
-> **Lưu ý:**
-> - **Chương này không có Exhibit (bảng biểu) nào.** Toàn chương là văn xuôi; các con số được chép lại trong bản tổng hợp này. Trang in 150 (PDF 162) và trang in 160 (PDF 172) là trang trắng. Không mở được ảnh trang PDF để đối chiếu bố cục (máy thiếu công cụ dựng ảnh PDF); vị trí các tiêu đề mục được suy ra từ lớp chữ của PDF, mỗi tiêu đề nằm ở trang in được ghi bên cạnh.
-> - **Mốc thời gian của sách là năm 2008.** Tracy viết "hiện nay (năm 2008)", "khoảng 35 năm nay" FASB là trung tâm quyền lực (FASB thành lập năm 1973), và nhiều việc ông nói "sắp xảy ra" đã diễn ra khác đi. Theo hiểu biết của người tổng hợp, không tra cứu: (1) bộ Bộ chuẩn mực tổng hợp của FASB (FASB Accounting Standards Codification, ASC) mà Tracy nói "sẽ ra mắt trong tương lai gần" đã có hiệu lực từ năm 2009 (cho các kỳ kết thúc sau ngày 15/9/2009) và trở thành nguồn GAAP có thẩm quyền duy nhất; (2) kế hoạch đưa công ty đại chúng Mỹ sang IFRS theo "lộ trình khá quyết liệt" của SEC (công bố cuối năm 2008) không được thực hiện; (3) mục tiêu "trong năm năm hoặc sớm hơn" có một bộ chuẩn mực quốc tế duy nhất mà Hiệp hội Kế toán viên Công chứng Mỹ (AICPA) nêu đã không đạt; (4) dự định EDGAR được thay bằng hệ thống IDEA đã không diễn ra theo nghĩa thay tên: EDGAR vẫn là cổng dữ liệu của SEC, còn "dữ liệu tương tác" được thực hiện qua yêu cầu nộp báo cáo kèm định dạng XBRL từ năm 2009. Chi tiết ở phần Đánh giá.
-> - **Sách viết gọn về IASB.** Tracy viết IASB "được thành lập năm 2001 để xây dựng các nguyên tắc kế toán toàn cầu" như thể trước đó không có gì. Theo hiểu biết của người tổng hợp, IASB thay cho Uỷ ban Chuẩn mực Kế toán Quốc tế (IASC) vốn đã hoạt động từ năm 1973 và đã ban hành các chuẩn mực kế toán quốc tế (IAS); IASB tiếp nhận các IAS đó và ban hành chuẩn mực mới dưới tên IFRS. Liên minh châu Âu (EU) bắt buộc các công ty niêm yết lập báo cáo hợp nhất theo IFRS từ năm 2005.
-> - **Chữ "harmonization".** Tracy gọi quá trình đưa GAAP và IFRS lại gần nhau là "harmonization" (hài hoà hoá). Trong các văn bản chính thức giai đoạn 2002–2012, FASB và IASB thường dùng chữ "convergence" (hội tụ), bắt đầu từ Thoả thuận Norwalk năm 2002 (theo hiểu biết của người tổng hợp). Bản tổng hợp giữ cách gọi của Tracy và chú thích thêm chữ "hội tụ".
-> - **Trình tự lịch sử của kế toán quyền chọn cổ phiếu bị kể ngược một phần.** Tracy viết rằng "ban đầu" FASB cho rằng chỉ cần công bố và tính vào EPS pha loãng là đủ, rồi sau đó "dưới áp lực từ nhiều phía" FASB mới bắt ghi chi phí. Theo hiểu biết của người tổng hợp, diễn biến thực tế phức tạp hơn: đầu thập niên 1990, chính FASB đã đề xuất bắt ghi chi phí quyền chọn nhưng phải lùi bước trước sức ép của giới doanh nghiệp (nhất là công nghệ) và Quốc hội Mỹ; chuẩn mực FAS 123 (1995) chỉ *khuyến khích* ghi chi phí theo giá trị hợp lý và cho phép tiếp tục cách cũ (APB 25, không ghi chi phí nếu giá thực hiện bằng giá thị trường) kèm thuyết minh; sau các vụ bê bối Enron, WorldCom, FASB ban hành FAS 123R (2004), bắt buộc ghi chi phí từ năm 2005–2006 (nay là ASC 718). Áp lực đổi chiều là áp lực *đòi* ghi chi phí, đúng như Tracy mô tả, nhưng lập trường "chỉ công bố là đủ" là kết quả của một lần FASB đã nhượng bộ, không hẳn là quan điểm gốc của FASB.
-> - **Chỗ dễ hiểu nhầm: thời điểm ghi chi phí quyền chọn.** Tracy viết chi phí được ghi "tại thời điểm trao quyền chọn". Theo hiểu biết của người tổng hợp, theo FAS 123R/ASC 718 và IFRS 2, giá trị hợp lý của quyền chọn được *đo* tại ngày trao, nhưng được *ghi nhận dần vào chi phí* trong suốt thời gian người được trao phải làm việc để đủ điều kiện thực hiện quyền (vesting period), chứ không ghi một lần vào ngày trao.
-> - **Chỗ dễ hiểu nhầm: Warren Buffett.** Tracy dẫn Buffett như người cùng quan điểm với mình vì Buffett phản đối quyền chọn cổ phiếu. Theo hiểu biết của người tổng hợp, Buffett đúng là chỉ trích quyền chọn cổ phiếu cho lãnh đạo như cách chúng thường được thiết kế, nhưng ông cũng là một trong những người ủng hộ mạnh nhất việc *bắt ghi chi phí* quyền chọn (ông lập luận: nếu quyền chọn không phải là thù lao thì là gì; nếu thù lao không phải chi phí thì là gì). Như vậy Buffett đồng ý với Tracy ở câu hỏi "có nên dùng quyền chọn không", nhưng ngược với Tracy ở câu hỏi "có nên ghi chi phí không".
-> - **Công bố chi phí quảng cáo.** Tracy viết chi phí quảng cáo và tiếp thị không phải nêu riêng trên báo cáo kết quả kinh doanh. Điều này đúng với mặt báo cáo. Theo hiểu biết của người tổng hợp (không chắc chắn hoàn toàn), GAAP Mỹ (SOP 93-7, nay là ASC 720-35) đã yêu cầu thuyết minh tổng chi phí quảng cáo đã ghi vào chi phí trong kỳ; người đọc nên tìm con số này trong thuyết minh báo cáo tài chính trước khi kết luận nó không được công bố.
-> - Các câu trích trong mục Câu nói đáng nhớ là bản dịch của người tổng hợp.
+Tracy muốn người đọc hiểu rằng **báo cáo tài chính chỉ so sánh và tin được khi mọi doanh nghiệp theo cùng một bộ luật chơi về phương pháp kế toán và công bố thông tin; ở Mỹ năm 2008 luật chơi đó là GAAP do FASB (một tổ chức tư nhân) đặt ra dưới sự giám sát của SEC, nhưng thế giới đang chuyển nhanh sang IFRS, và bản thân GAAP còn nhiều chỗ chưa ổn**.
+
+Người dùng báo cáo cần bốn nhóm thông tin cốt lõi: doanh thu và kết quả lợi nhuận; tình hình tài chính và khả năng trả nợ; cơ cấu vốn sở hữu (các loại cổ phiếu, nợ chuyển đổi, quyền chọn cổ phiếu của nhà quản lý); và dòng tiền.
+
+Các con số trung tâm của chương: theo bản tin *The CPA Letter* tháng 6/2008, hơn 12.000 công ty đại chúng ở gần 100 nước đã dùng IFRS, trong khi hơn 10.000 công ty đại chúng Mỹ dùng GAAP. Từ khi thành lập năm 1973, FASB đã ban hành hơn 160 chuẩn mực, khoảng 20 trang mỗi chuẩn mực, tức hàng nghìn trang, và hơn 5.000 trang nếu tính cả văn bản của các tổ chức tiền thân, của SEC và các diễn giải chính thức.
+
+Ví dụ quyền chọn cổ phiếu: một công ty có 100 triệu cổ phiếu đang lưu hành đã trao cho các lãnh đạo quyền chọn mà nếu thực hiện hết sẽ buộc công ty phát hành thêm 5 triệu cổ phiếu.
+
+Tracy cho rằng FASB đã đúng ở lập trường ban đầu (chỉ cần công bố và tính vào EPS pha loãng) và sai khi bắt ghi một khoản "chi phí nhân tạo" cho quyền chọn.
+
+Ông kết thúc bằng nhận định FASB còn "nợ" người đọc ở mảng công bố thông tin trên báo cáo kết quả kinh doanh: chi phí quảng cáo, chi phí bảo trì sửa chữa, thù lao lãnh đạo và cơ cấu cổ đông đều không bắt buộc nêu trong báo cáo tài chính gửi cổ đông.
 
 ## Sơ đồ
 
@@ -338,7 +336,9 @@ Tracy nhấn mạnh không được quên chính các nhà quản lý doanh nghi
 
 Bốn nhóm này là phần "lõi cứng" của thông tin mà phần lớn nhà đầu tư và người cho vay tìm trong báo cáo tài chính và thuyết minh báo cáo tài chính của một doanh nghiệp. (Nhóm thứ ba đã đặt sẵn vấn đề quyền chọn cổ phiếu mà Tracy sẽ bàn ở mục 5.)
 
-**Vì sao cần chuẩn mực chung.** Chương này bàn về các chuẩn mực chi phối phương pháp kế toán và việc công bố thông tin trong báo cáo tài chính của doanh nghiệp. Mọi doanh nghiệp vì lợi nhuận đều phải tuân theo các "luật chơi" này; tổ chức phi lợi nhuận và cơ quan nhà nước có chuẩn mực kế toán và báo cáo riêng. Tracy đề nghị người đọc hình dung sự hỗn loạn nếu mỗi doanh nghiệp được tự do đặt ra phương pháp kế toán riêng, thuật ngữ tài chính riêng, mẫu báo cáo riêng, và tự quyết định công bố thêm thông tin nào, giấu thông tin nào. Nhà đầu tư, chủ nợ và những người đọc báo cáo khác đòi hỏi các chuẩn mực tương đối thống nhất và nhất quán mà mọi doanh nghiệp phải theo. Ở Mỹ, các chuẩn mực đó được gọi là nguyên tắc kế toán được chấp nhận chung (GAAP), gồm cả phương pháp kế toán lẫn yêu cầu công bố.
+**Vì sao cần chuẩn mực chung.** Chương này bàn về các chuẩn mực chi phối phương pháp kế toán và việc công bố thông tin trong báo cáo tài chính của doanh nghiệp. Mọi doanh nghiệp vì lợi nhuận đều phải tuân theo các "luật chơi" này; tổ chức phi lợi nhuận và cơ quan nhà nước có chuẩn mực kế toán và báo cáo riêng.
+
+Tracy đề nghị người đọc hình dung sự hỗn loạn nếu mỗi doanh nghiệp được tự do đặt ra phương pháp kế toán riêng, thuật ngữ tài chính riêng, mẫu báo cáo riêng, và tự quyết định công bố thêm thông tin nào, giấu thông tin nào. Nhà đầu tư, chủ nợ và những người đọc báo cáo khác đòi hỏi các chuẩn mực tương đối thống nhất và nhất quán mà mọi doanh nghiệp phải theo. Ở Mỹ, các chuẩn mực đó được gọi là nguyên tắc kế toán được chấp nhận chung (GAAP), gồm cả phương pháp kế toán lẫn yêu cầu công bố.
 
 **FASB và SEC.** Khoảng 35 năm nay (tính tới thời điểm viết sách), trung tâm quyền lực ở Mỹ về chuẩn mực báo cáo tài chính là Hội đồng Chuẩn mực Kế toán Tài chính (FASB). Tracy mô tả FASB là một tổ chức có trình độ rất cao (và được trả lương rất cao, ông thêm dấu chấm than), là "kẻ đứng đầu" và nguồn có thẩm quyền chính về chuẩn mực kế toán và báo cáo tài chính. Kinh phí hoạt động của FASB đến từ đóng góp của giới kế toán và doanh nghiệp; đây là tổ chức tư nhân, không có hỗ trợ của nhà nước.
 
@@ -400,7 +400,9 @@ Kế toán viên phải theo kịp toàn bộ khối văn bản này.
 
 **Mối lo lâu năm.** Nhiều năm nay, nhiều kế toán viên có cảm nhận trực giác rằng các văn bản chính thức của FASB được xây dựng chủ yếu cho các công ty lớn, có cổ phiếu và chứng khoán nợ giao dịch trên thị trường đại chúng, tức những công ty chịu sự giám sát của cơ quan quản lý nhà nước. Mối lo là chuẩn mực FASB quá nặng nề và phần lớn không liên quan tới các doanh nghiệp tư nhân nhỏ hơn. Gần đây, FASB và AICPA đã lập Uỷ ban Tư vấn về Báo cáo Tài chính Công ty Tư nhân (Private Company Financial Reporting Committee) để xem xét vấn đề này và đưa kiến nghị cho FASB.
 
-**Chuẩn mực nào ít liên quan.** Nhiều chuẩn mực GAAP do FASB ban hành qua các năm không thật sự liên quan tới phần lớn doanh nghiệp tư nhân, nên ít ảnh hưởng tới họ. Ví dụ, chuẩn mực về công cụ phái sinh tài chính và về quyền chọn cổ phiếu cho nhà quản lý không áp dụng cho phần lớn doanh nghiệp nhỏ. Các chuẩn mực phức tạp về hợp nhất kinh doanh và về kế hoạch hưu trí xác định quyền lợi (defined benefit retirement plans, loại kế hoạch hưu trí doanh nghiệp cam kết mức lương hưu cụ thể) có lẽ cũng không áp dụng cho phần lớn công ty tư nhân nhỏ. Tuy nhiên, một số văn bản của FASB về công bố thông tin trong báo cáo tài chính được viết bằng ngôn ngữ áp dụng cho cả công ty tư nhân lẫn công ty đại chúng. Tracy đặt câu hỏi: FASB có thật sự muốn các yêu cầu công bố đó áp dụng cho các cửa hàng gia đình nhỏ (mom-and-pop businesses) không?
+**Chuẩn mực nào ít liên quan.** Nhiều chuẩn mực GAAP do FASB ban hành qua các năm không thật sự liên quan tới phần lớn doanh nghiệp tư nhân, nên ít ảnh hưởng tới họ. Ví dụ, chuẩn mực về công cụ phái sinh tài chính và về quyền chọn cổ phiếu cho nhà quản lý không áp dụng cho phần lớn doanh nghiệp nhỏ. Các chuẩn mực phức tạp về hợp nhất kinh doanh và về kế hoạch hưu trí xác định quyền lợi (defined benefit retirement plans, loại kế hoạch hưu trí doanh nghiệp cam kết mức lương hưu cụ thể) có lẽ cũng không áp dụng cho phần lớn công ty tư nhân nhỏ.
+
+Tuy nhiên, một số văn bản của FASB về công bố thông tin trong báo cáo tài chính được viết bằng ngôn ngữ áp dụng cho cả công ty tư nhân lẫn công ty đại chúng. Tracy đặt câu hỏi: FASB có thật sự muốn các yêu cầu công bố đó áp dụng cho các cửa hàng gia đình nhỏ (mom-and-pop businesses) không?
 
 **Quan điểm của Tracy.** Lúc ông viết, uỷ ban tư vấn về công ty tư nhân mới bắt đầu hoạt động, và Tracy thẳng thắn nói ông không biết nên chờ đợi gì. Theo ông, có lẽ công ty tư nhân nên "để yên mọi việc như đang ổn", không thúc ép đòi miễn trừ một số chuẩn mực. Lý do: ít kế toán viên chịu thừa nhận, nhưng trong thực tế các công ty tư nhân nhỏ hơn không bị buộc tuân thủ chặt chẽ chuẩn mực chính thức. Tracy nói rõ ông không có ý cho rằng công ty tư nhân đưa ra báo cáo kém chất lượng, vi phạm GAAP và gây hiểu nhầm nghiêm trọng; ông chỉ muốn nói việc áp dụng GAAP ở công ty tư nhân "thoải mái hơn", hay diễn đạt thế nào cũng được.
 
@@ -599,31 +601,57 @@ Báo cáo tài chính chỉ có ích khi mọi doanh nghiệp theo cùng một b
 
 ### Điểm mạnh của chương là đặt mọi phân tích trước đó lên câu hỏi "luật chơi do ai đặt"
 
-Sau 18 chương dạy đọc và phân tích con số, Tracy dừng lại để người đọc thấy rằng mọi con số đó là sản phẩm của một bộ chuẩn mực do con người đặt ra, có lịch sử, có thể chế (FASB tư nhân, SEC nhà nước, IASB quốc tế) và có tranh cãi. Danh sách bốn nhóm thông tin cốt lõi (lợi nhuận, tình hình tài chính, cơ cấu vốn sở hữu, dòng tiền) là một khung kiểm tra gọn mà người đọc nào cũng dùng được. Nhận xét rằng khác biệt giữa công ty đại chúng và tư nhân nằm ở mức công bố chứ không ở phương pháp đo lường là một nhận xét thực tế, xuất phát từ kinh nghiệm hành nghề, ít thấy trong giáo trình. Giọng văn thẳng thắn (thừa nhận giới kế toán Mỹ "sô-vanh", thừa nhận công ty tư nhân áp dụng GAAP "thoải mái hơn") giúp người đọc hiểu thực tế chứ không chỉ quy định trên giấy.
+Sau 18 chương dạy đọc và phân tích con số, Tracy dừng lại để người đọc thấy rằng mọi con số đó là sản phẩm của một bộ chuẩn mực do con người đặt ra, có lịch sử, có thể chế (FASB tư nhân, SEC nhà nước, IASB quốc tế) và có tranh cãi. Danh sách bốn nhóm thông tin cốt lõi (lợi nhuận, tình hình tài chính, cơ cấu vốn sở hữu, dòng tiền) là một khung kiểm tra gọn mà người đọc nào cũng dùng được.
+
+Nhận xét rằng khác biệt giữa công ty đại chúng và tư nhân nằm ở mức công bố chứ không ở phương pháp đo lường là một nhận xét thực tế, xuất phát từ kinh nghiệm hành nghề, ít thấy trong giáo trình. Giọng văn thẳng thắn (thừa nhận giới kế toán Mỹ "sô-vanh", thừa nhận công ty tư nhân áp dụng GAAP "thoải mái hơn") giúp người đọc hiểu thực tế chứ không chỉ quy định trên giấy.
 
 ### Việc hội tụ US GAAP–IFRS sau 2009 đã không đi tới một bộ chuẩn mực duy nhất như Tracy và AICPA dự đoán
 
-Theo hiểu biết của người tổng hợp, không tra cứu: SEC công bố "lộ trình" (roadmap) cuối năm 2008, đề xuất có thể bắt buộc công ty đại chúng Mỹ dùng IFRS từ khoảng năm 2014; năm 2010 SEC ra tuyên bố ủng hộ hội tụ và giao kế hoạch làm việc cho nhân viên; báo cáo cuối của nhân viên SEC năm 2012 không đưa ra khuyến nghị chuyển sang IFRS, và từ đó vấn đề gần như bị gác lại. FASB và IASB vẫn hoàn thành một số dự án chung lớn: chuẩn mực doanh thu (ASC 606/IFRS 15, ban hành 2014, hiệu lực khoảng 2018), chuẩn mực thuê tài sản (ASC 842/IFRS 16, hiệu lực khoảng 2019, nhưng hai bên vẫn khác nhau ở cách phân loại thuê bên đi thuê), còn ở công cụ tài chính và tổn thất tín dụng hai bên đi hai đường (IFRS 9 theo tổn thất dự kiến ba giai đoạn; Mỹ theo mô hình CECL). Từ khoảng giữa thập niên 2010, chương trình hội tụ chính thức coi như kết thúc; mỗi bên tự đặt chuẩn mực, chỉ phối hợp khi thuận tiện. Kết quả thực tế là ngược với dự đoán của Tracy: thế giới có hai bộ chuẩn mực lớn cùng tồn tại lâu dài, tuy gần nhau hơn năm 2008. Một ví dụ cụ thể mà Tracy nêu, LIFO, vẫn được phép ở Mỹ và vẫn bị cấm theo IFRS. Từ năm 2007 SEC đã cho phép công ty nước ngoài niêm yết ở Mỹ nộp báo cáo theo IFRS mà không phải đối chiếu sang GAAP Mỹ, nên phần nào "hai bộ chuẩn mực cùng tồn tại" đã được chính thức chấp nhận. Gần đây, IASB ban hành IFRS 18 (2024, hiệu lực 2027) thay đổi cấu trúc báo cáo kết quả kinh doanh, và việc này do IASB tự làm chứ không phải dự án chung với FASB.
+Theo hiểu biết của người tổng hợp, không tra cứu: SEC công bố "lộ trình" (roadmap) cuối năm 2008, đề xuất có thể bắt buộc công ty đại chúng Mỹ dùng IFRS từ khoảng năm 2014; năm 2010 SEC ra tuyên bố ủng hộ hội tụ và giao kế hoạch làm việc cho nhân viên; báo cáo cuối của nhân viên SEC năm 2012 không đưa ra khuyến nghị chuyển sang IFRS, và từ đó vấn đề gần như bị gác lại.
+
+FASB và IASB vẫn hoàn thành một số dự án chung lớn: chuẩn mực doanh thu (ASC 606/IFRS 15, ban hành 2014, hiệu lực khoảng 2018), chuẩn mực thuê tài sản (ASC 842/IFRS 16, hiệu lực khoảng 2019, nhưng hai bên vẫn khác nhau ở cách phân loại thuê bên đi thuê), còn ở công cụ tài chính và tổn thất tín dụng hai bên đi hai đường (IFRS 9 theo tổn thất dự kiến ba giai đoạn; Mỹ theo mô hình CECL).
+
+Từ khoảng giữa thập niên 2010, chương trình hội tụ chính thức coi như kết thúc; mỗi bên tự đặt chuẩn mực, chỉ phối hợp khi thuận tiện. Kết quả thực tế là ngược với dự đoán của Tracy: thế giới có hai bộ chuẩn mực lớn cùng tồn tại lâu dài, tuy gần nhau hơn năm 2008.
+
+Một ví dụ cụ thể mà Tracy nêu, LIFO, vẫn được phép ở Mỹ và vẫn bị cấm theo IFRS. Từ năm 2007 SEC đã cho phép công ty nước ngoài niêm yết ở Mỹ nộp báo cáo theo IFRS mà không phải đối chiếu sang GAAP Mỹ, nên phần nào "hai bộ chuẩn mực cùng tồn tại" đã được chính thức chấp nhận. Gần đây, IASB ban hành IFRS 18 (2024, hiệu lực 2027) thay đổi cấu trúc báo cáo kết quả kinh doanh, và việc này do IASB tự làm chứ không phải dự án chung với FASB.
 
 Bộ chuẩn mực tổng hợp mà Tracy mong đợi đã ra đời đúng như ông mô tả: FASB Accounting Standards Codification (ASC) có hiệu lực từ năm 2009, gom toàn bộ GAAP Mỹ vào khoảng 90 chủ đề đánh số (ví dụ ASC 606 doanh thu, ASC 718 thù lao bằng cổ phiếu); FASB thôi ban hành các "Statement" đánh số (FAS 168 là cái cuối) mà chuyển sang các bản cập nhật (Accounting Standards Update, ASU). Đây là điều Tracy, với tư cách tác giả, đã hoan nghênh trước. Tuy vậy, cuộc tranh luận dựa trên nguyên tắc hay dựa trên quy tắc không kết thúc: hệ thống hoá chỉ sắp xếp lại, không rút ngắn được chiều sâu chi tiết của GAAP Mỹ.
 
 ### Chuẩn mực cho công ty tư nhân đã được tách riêng nhiều hơn Tracy dự liệu
 
-Tracy khuyên công ty tư nhân "để yên", không đòi miễn trừ. Diễn biến sau 2009, theo hiểu biết của người tổng hợp, đi theo hướng ngược lại: (1) tháng 7/2009, IASB ban hành *IFRS cho doanh nghiệp nhỏ và vừa* (IFRS for SMEs), một bộ chuẩn mực rút gọn nhiều so với IFRS đầy đủ, được nhiều nước dùng cho doanh nghiệp không niêm yết; (2) năm 2012, Uỷ ban Tư vấn về Báo cáo Tài chính Công ty Tư nhân mà Tracy nhắc tới được thay bằng Hội đồng Công ty Tư nhân (Private Company Council, PCC) do tổ chức giám sát của FASB lập; PCC có quyền đề xuất các "ngoại lệ" trong GAAP cho công ty tư nhân, và FASB đã chấp thuận nhiều ngoại lệ, ví dụ cho phép công ty tư nhân phân bổ dần lợi thế thương mại thay vì kiểm tra suy giảm hằng năm, đơn giản hoá kế toán hoán đổi lãi suất và một số vấn đề về đơn vị được hợp nhất; (3) năm 2013, AICPA ban hành khuôn khổ báo cáo tài chính cho doanh nghiệp nhỏ và vừa (FRF for SMEs), một khuôn khổ ngoài GAAP dựa trên kế toán giá gốc truyền thống. Nhận xét gốc của Tracy, rằng khác biệt chính nằm ở mức công bố, vẫn đúng: phần lớn các ngoại lệ cho công ty tư nhân là giảm công bố và giảm độ phức tạp đo lường ở một số vấn đề hẹp, không thay đổi cách đo doanh thu và chi phí cơ bản.
+Tracy khuyên công ty tư nhân "để yên", không đòi miễn trừ. Diễn biến sau 2009, theo hiểu biết của người tổng hợp, đi theo hướng ngược lại:
+
+- Tháng 7/2009, IASB ban hành *IFRS cho doanh nghiệp nhỏ và vừa* (IFRS for SMEs), một bộ chuẩn mực rút gọn nhiều so với IFRS đầy đủ, được nhiều nước dùng cho doanh nghiệp không niêm yết.
+- Năm 2012, Uỷ ban Tư vấn về Báo cáo Tài chính Công ty Tư nhân mà Tracy nhắc tới được thay bằng Hội đồng Công ty Tư nhân (Private Company Council, PCC) do tổ chức giám sát của FASB lập; PCC có quyền đề xuất các "ngoại lệ" trong GAAP cho công ty tư nhân, và FASB đã chấp thuận nhiều ngoại lệ, ví dụ cho phép công ty tư nhân phân bổ dần lợi thế thương mại thay vì kiểm tra suy giảm hằng năm, đơn giản hoá kế toán hoán đổi lãi suất và một số vấn đề về đơn vị được hợp nhất.
+- Năm 2013, AICPA ban hành khuôn khổ báo cáo tài chính cho doanh nghiệp nhỏ và vừa (FRF for SMEs), một khuôn khổ ngoài GAAP dựa trên kế toán giá gốc truyền thống.
+
+Nhận xét gốc của Tracy, rằng khác biệt chính nằm ở mức công bố, vẫn đúng: phần lớn các ngoại lệ cho công ty tư nhân là giảm công bố và giảm độ phức tạp đo lường ở một số vấn đề hẹp, không thay đổi cách đo doanh thu và chi phí cơ bản.
 
 ### Kế toán quyền chọn cổ phiếu đã ổn định theo hướng ghi chi phí, và quan điểm "chi phí nhân tạo" của Tracy là quan điểm thiểu số
 
-Theo hiểu biết của người tổng hợp, không tra cứu: FAS 123R (2004) bắt buộc ghi chi phí quyền chọn theo giá trị hợp lý tại ngày trao, phân bổ trong thời gian người nhận phải làm việc để đủ điều kiện thực hiện quyền; quy định này nay nằm trong ASC 718, và IFRS 2 (2004) có yêu cầu tương tự, nên ở đây GAAP Mỹ và IFRS đã thống nhất từ sớm. Sau 2009, chuẩn mực chỉ được tinh chỉnh (ví dụ năm 2016 FASB cho ghi ảnh hưởng thuế của quyền chọn vào chi phí thuế trên báo cáo kết quả kinh doanh, và cho phép ghi nhận số quyền chọn bị huỷ khi thực tế xảy ra thay vì ước tính trước), không quay lại lập trường cũ. Đa số giới học thuật và nhà đầu tư lớn coi quyền chọn là thù lao thật: công ty nhận dịch vụ của lãnh đạo và trả bằng một công cụ có giá trị; nếu công ty bán quyền chọn đó ra thị trường thì sẽ thu được tiền, rồi trả tiền đó cho lãnh đạo, và khi đó không ai tranh cãi đó là chi phí. Warren Buffett, người Tracy dẫn ra để ủng hộ mình, chính là người lâu năm đòi bắt ghi chi phí quyền chọn. Lập luận "không tài sản nào giảm, không khoản nợ nào tăng" của Tracy đúng về mặt bút toán, nhưng khung khái niệm của FASB định nghĩa chi phí theo việc tiêu dùng lợi ích kinh tế (ở đây là dịch vụ của người lao động), mà dịch vụ nhận được và tiêu dùng ngay có thể xem như một tài sản xuất hiện rồi mất đi trong cùng kỳ. Mặt khác, Tracy có lý ở hai điểm: giá trị quyền chọn phụ thuộc mạnh vào mô hình và giả định (độ biến động, thời gian nắm giữ dự kiến), nên con số chi phí kém chắc chắn; và trong thực tế, nhiều công ty công nghệ vẫn trình bày chỉ tiêu lợi nhuận "điều chỉnh" (non-GAAP) loại bỏ chi phí thù lao bằng cổ phiếu, cho thấy tranh luận vẫn sống trong thực hành phân tích. Người đọc nên nhớ rằng ngoài chi phí, hiệu ứng pha loãng EPS (5 triệu cổ phiếu trên 100 triệu trong ví dụ) vẫn tồn tại song song.
+Theo hiểu biết của người tổng hợp, không tra cứu: FAS 123R (2004) bắt buộc ghi chi phí quyền chọn theo giá trị hợp lý tại ngày trao, phân bổ trong thời gian người nhận phải làm việc để đủ điều kiện thực hiện quyền; quy định này nay nằm trong ASC 718, và IFRS 2 (2004) có yêu cầu tương tự, nên ở đây GAAP Mỹ và IFRS đã thống nhất từ sớm. Sau 2009, chuẩn mực chỉ được tinh chỉnh (ví dụ năm 2016 FASB cho ghi ảnh hưởng thuế của quyền chọn vào chi phí thuế trên báo cáo kết quả kinh doanh, và cho phép ghi nhận số quyền chọn bị huỷ khi thực tế xảy ra thay vì ước tính trước), không quay lại lập trường cũ.
+
+Đa số giới học thuật và nhà đầu tư lớn coi quyền chọn là thù lao thật: công ty nhận dịch vụ của lãnh đạo và trả bằng một công cụ có giá trị; nếu công ty bán quyền chọn đó ra thị trường thì sẽ thu được tiền, rồi trả tiền đó cho lãnh đạo, và khi đó không ai tranh cãi đó là chi phí.
+
+Warren Buffett, người Tracy dẫn ra để ủng hộ mình, chính là người lâu năm đòi bắt ghi chi phí quyền chọn. Lập luận "không tài sản nào giảm, không khoản nợ nào tăng" của Tracy đúng về mặt bút toán, nhưng khung khái niệm của FASB định nghĩa chi phí theo việc tiêu dùng lợi ích kinh tế (ở đây là dịch vụ của người lao động), mà dịch vụ nhận được và tiêu dùng ngay có thể xem như một tài sản xuất hiện rồi mất đi trong cùng kỳ.
+
+Mặt khác, Tracy có lý ở hai điểm: giá trị quyền chọn phụ thuộc mạnh vào mô hình và giả định (độ biến động, thời gian nắm giữ dự kiến), nên con số chi phí kém chắc chắn; và trong thực tế, nhiều công ty công nghệ vẫn trình bày chỉ tiêu lợi nhuận "điều chỉnh" (non-GAAP) loại bỏ chi phí thù lao bằng cổ phiếu, cho thấy tranh luận vẫn sống trong thực hành phân tích. Người đọc nên nhớ rằng ngoài chi phí, hiệu ứng pha loãng EPS (5 triệu cổ phiếu trên 100 triệu trong ví dụ) vẫn tồn tại song song.
 
 Tracy cũng đúng khi cảnh báo quyền chọn tạo động cơ gian lận. Theo hiểu biết của người tổng hợp, giai đoạn 2005–2007 ở Mỹ có làn sóng bê bối "ghi lùi ngày trao quyền chọn" (options backdating), trong đó hàng trăm công ty bị điều tra vì chọn ngày trao vào lúc giá cổ phiếu thấp để quyền chọn có lời ngay; nhiều công ty phải trình bày lại báo cáo tài chính. Điều này củng cố ý của Tracy rằng vấn đề của quyền chọn vượt ra ngoài kế toán.
 
 ### Phần "Việc còn dang dở" về công bố trên báo cáo kết quả kinh doanh đã được giải quyết một phần sau 2009
 
-Theo hiểu biết của người tổng hợp, không tra cứu: về thù lao lãnh đạo, SEC đã mở rộng công bố từ năm 2006 (phần Thảo luận và phân tích thù lao, CD&A, trong proxy statement), luật Dodd-Frank (2010) thêm quyền biểu quyết tư vấn về thù lao (say-on-pay) và yêu cầu công bố tỷ lệ thù lao tổng giám đốc so với nhân viên trung vị (áp dụng từ 2018); nhưng các thông tin này vẫn ở proxy statement, không ở báo cáo tài chính, đúng như Tracy mô tả. Về chi tiết chi phí, FASB ban hành năm 2023 chuẩn mực yêu cầu công bố chi phí trọng yếu theo bộ phận (segment), và năm 2024 ban hành chuẩn mực yêu cầu thuyết minh tách các dòng chi phí trên báo cáo kết quả kinh doanh thành các thành phần như mua hàng tồn kho, thù lao nhân viên, khấu hao, phân bổ tài sản vô hình, kèm thuyết minh chi phí bán hàng (hiệu lực khoảng 2027). Đây chính là hướng mà Tracy đòi hỏi năm 2008, dù đến muộn gần hai thập niên. Về hạ tầng dữ liệu, IDEA không thay thế EDGAR như dự kiến; thay vào đó, SEC bắt các công ty nộp báo cáo kèm dữ liệu định dạng XBRL (từ 2009, phân kỳ theo quy mô), sau đó là Inline XBRL (từ 2019), và EDGAR vẫn là cổng tra cứu chính. Người đọc năm 2026 vẫn có thể làm đúng theo lời khuyên của Tracy: vào www.sec.gov, tìm hồ sơ 10-K và proxy statement của công ty.
+Theo hiểu biết của người tổng hợp, không tra cứu: về thù lao lãnh đạo, SEC đã mở rộng công bố từ năm 2006 (phần Thảo luận và phân tích thù lao, CD&A, trong proxy statement), luật Dodd-Frank (2010) thêm quyền biểu quyết tư vấn về thù lao (say-on-pay) và yêu cầu công bố tỷ lệ thù lao tổng giám đốc so với nhân viên trung vị (áp dụng từ 2018); nhưng các thông tin này vẫn ở proxy statement, không ở báo cáo tài chính, đúng như Tracy mô tả.
+
+Về chi tiết chi phí, FASB ban hành năm 2023 chuẩn mực yêu cầu công bố chi phí trọng yếu theo bộ phận (segment), và năm 2024 ban hành chuẩn mực yêu cầu thuyết minh tách các dòng chi phí trên báo cáo kết quả kinh doanh thành các thành phần như mua hàng tồn kho, thù lao nhân viên, khấu hao, phân bổ tài sản vô hình, kèm thuyết minh chi phí bán hàng (hiệu lực khoảng 2027). Đây chính là hướng mà Tracy đòi hỏi năm 2008, dù đến muộn gần hai thập niên.
+
+Về hạ tầng dữ liệu, IDEA không thay thế EDGAR như dự kiến; thay vào đó, SEC bắt các công ty nộp báo cáo kèm dữ liệu định dạng XBRL (từ 2009, phân kỳ theo quy mô), sau đó là Inline XBRL (từ 2019), và EDGAR vẫn là cổng tra cứu chính. Người đọc năm 2026 vẫn có thể làm đúng theo lời khuyên của Tracy: vào www.sec.gov, tìm hồ sơ 10-K và proxy statement của công ty.
 
 ### Quan điểm trái chiều: cách viết dựa trên nguyên tắc không tự nó tốt hơn
 
-Tracy trình bày cách tiếp cận dựa trên nguyên tắc của IASB khá thiện cảm và đổ lỗi phần lớn sự phức tạp cho cách viết dựa trên quy tắc của FASB. Có quan điểm khác: chi tiết của GAAP Mỹ một phần đến từ môi trường kiện tụng và giám sát của Mỹ, nơi doanh nghiệp, kiểm toán viên và cơ quan quản lý đều *yêu cầu* hướng dẫn cụ thể để tự bảo vệ, nên một bộ chuẩn mực dựa trên nguyên tắc khi đưa vào Mỹ có thể cũng phình ra theo thời gian qua các diễn giải. Ngược lại, chuẩn mực dựa trên nguyên tắc trao nhiều quyền phán đoán hơn, tức là cũng trao nhiều chỗ hơn cho việc làm đẹp số liệu, chủ đề Tracy bàn ở Chương 20. Thực tế IFRS cũng đã dày lên đáng kể qua các năm. Người đọc nên hiểu đây là một sự đánh đổi chứ không phải một bên đúng một bên sai.
+Tracy trình bày cách tiếp cận dựa trên nguyên tắc của IASB khá thiện cảm và đổ lỗi phần lớn sự phức tạp cho cách viết dựa trên quy tắc của FASB. Có quan điểm khác: chi tiết của GAAP Mỹ một phần đến từ môi trường kiện tụng và giám sát của Mỹ, nơi doanh nghiệp, kiểm toán viên và cơ quan quản lý đều *yêu cầu* hướng dẫn cụ thể để tự bảo vệ, nên một bộ chuẩn mực dựa trên nguyên tắc khi đưa vào Mỹ có thể cũng phình ra theo thời gian qua các diễn giải.
+
+Ngược lại, chuẩn mực dựa trên nguyên tắc trao nhiều quyền phán đoán hơn, tức là cũng trao nhiều chỗ hơn cho việc làm đẹp số liệu, chủ đề Tracy bàn ở Chương 20. Thực tế IFRS cũng đã dày lên đáng kể qua các năm. Người đọc nên hiểu đây là một sự đánh đổi chứ không phải một bên đúng một bên sai.
 
 ### Vận dụng cho nhà quản lý, người cho vay và nhà đầu tư
 
@@ -631,3 +659,179 @@ Tracy trình bày cách tiếp cận dựa trên nguyên tắc của IASB khá t
 - **Người cho vay:** với khách hàng là công ty tư nhân, đừng cho rằng báo cáo đã đủ thông tin chỉ vì "theo GAAP"; Tracy cho biết công ty tư nhân công bố ít hơn và áp dụng chuẩn mực thoải mái hơn, nên cần yêu cầu thêm chi tiết (chi phí bảo trì, cơ cấu sở hữu, cam kết ngoài bảng).
 - **Nhà đầu tư:** khi so sánh một công ty Mỹ với một công ty châu Âu, cần kiểm tra khác biệt GAAP–IFRS ở các khoản trọng yếu (hàng tồn kho, thuê tài sản, công cụ tài chính); khi đọc lợi nhuận "điều chỉnh" loại bỏ chi phí quyền chọn, nhớ rằng chuẩn mực coi đó là chi phí thật; tìm thù lao lãnh đạo và cơ cấu cổ đông trong proxy statement và các hồ sơ khác trên EDGAR.
 - **Người đọc Việt Nam (định tính):** bài học về việc "luật chơi do ai đặt và đang đổi thế nào" áp dụng trực tiếp cho người đọc báo cáo của doanh nghiệp Việt Nam, nơi chuẩn mực kế toán trong nước khác với IFRS và đang có lộ trình tiến tới IFRS; khi so sánh báo cáo lập theo hai khuôn khổ khác nhau, hoặc báo cáo của một doanh nghiệp trước và sau khi đổi khuôn khổ, người đọc cần hỏi trước tiên bộ chuẩn mực nào đã được dùng, đúng như Tracy gợi ý cho trường hợp GAAP và IFRS.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 19 trên một trang: sáu nhánh lớn đi theo các mục 1–6 của phần Nội dung chi tiết và phần Đánh giá (ai dùng báo cáo và ai đặt GAAP, tiến tới IFRS, cách viết chuẩn mực và công ty tư nhân, quyền chọn cổ phiếu, công bố còn thiếu trên báo cáo kết quả kinh doanh, diễn biến sau 2009), mỗi nhánh ghi định nghĩa, con số và lập luận then chốt của Tracy; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 19: báo cáo tài chính chỉ so sánh và tin được khi mọi doanh nghiệp theo cùng luật chơi — GAAP ở Mỹ, IFRS ngoài Mỹ`"]
+  n1["`Mục 1 — Ai dùng báo cáo, cần gì, và ai đặt luật chơi ở Mỹ`"]
+  n0 --- n1
+  n2["`Người dùng: ngân hàng, nhà đầu tư, nhà cung cấp, người mua bán doanh nghiệp, quỹ hưu trí, trước hết là nhà quản lý`"]
+  n1 --- n2
+  n3["`Bốn nhóm thông tin cốt lõi người dùng tìm trong báo cáo`"]
+  n1 --- n3
+  n4["`Doanh thu và kết quả lợi nhuận (lãi hay lỗ)`"]
+  n3 --- n4
+  n5["`Tình hình tài chính, nhất là khả năng trả nợ đúng hạn`"]
+  n3 --- n5
+  n6["`Cơ cấu vốn sở hữu: loại cổ phiếu, nợ chuyển đổi, quyền chọn cổ phiếu của nhà quản lý`"]
+  n3 --- n6
+  n7["`Dòng tiền từ hoạt động kinh doanh, cổ tức và các nguồn thu, khoản chi tiền khác`"]
+  n3 --- n7
+  n8["`GAAP gồm cả phương pháp kế toán lẫn yêu cầu công bố#59; thiếu nó người đọc không thể so sánh báo cáo`"]
+  n1 --- n8
+  n9["`FASB: tổ chức tư nhân lập năm 1973, kinh phí từ giới kế toán và doanh nghiệp, nguồn GAAP chính`"]
+  n1 --- n9
+  n10["`SEC: cơ quan liên bang lập năm 1934 sau các vụ gian lận, thỉnh thoảng can thiệp khi FASB không hành động`"]
+  n1 --- n10
+  n11["`Giới kế toán Mỹ đã tự mãn (sô-vanh)#59; sự ra đời của EU cho thấy các nước khác sẽ không làm theo Mỹ`"]
+  n1 --- n11
+  n12["`Mục 2 — Tiến tới chuẩn mực quốc tế: IASB và IFRS`"]
+  n0 --- n12
+  n13["`IASB lập năm 2001, việc đầu tiên là bộ chuẩn mực cho các nước EU#59; chuẩn mực của IASB gọi là IFRS`"]
+  n12 --- n13
+  n14["`Tháng 6/2008: hơn 12.000 công ty đại chúng ở gần 100 nước dùng IFRS`"]
+  n12 --- n14
+  n15["`Hơn 10.000 công ty đại chúng Mỹ dùng GAAP#59; công ty tư nhân Mỹ cũng dùng GAAP`"]
+  n12 --- n15
+  n16["`Hài hoà hoá (hội tụ): phần lớn đã thống nhất, vài bất đồng nghiêm trọng còn lại`"]
+  n12 --- n16
+  n17["`AICPA: một bộ chuẩn mực quốc tế duy nhất trong 5 năm hoặc sớm hơn`"]
+  n12 --- n17
+  n18["`IFRS không cho dùng LIFO để tính giá vốn hàng bán và giá trị hàng tồn kho`"]
+  n12 --- n18
+  n19["`Tracy dự đoán: bộ cuối cùng không khác GAAP là bao, chỉ mang tên IFRS`"]
+  n12 --- n19
+  n20["`Đặt chuẩn mực nên ở khu vực tư nhân#59; SEC đặt lộ trình khá quyết liệt sang chuẩn mực quốc tế`"]
+  n12 --- n20
+  n21["`Mục 3–4 — Cách viết chuẩn mực và chuẩn mực cho công ty tư nhân`"]
+  n0 --- n21
+  n22["`IASB dựa trên nguyên tắc: nêu tinh thần của luật, để kế toán viên diễn giải theo tình huống`"]
+  n21 --- n22
+  n23["`FASB dựa trên quy tắc: viết rất chi tiết, làm đúng từng chữ, hạn chế diễn giải`"]
+  n21 --- n23
+  n24["`Hơn 160 chuẩn mực × khoảng 20 trang = 3.200 trang, hơn 5.000 trang nếu cộng mọi nguồn`"]
+  n23 --- n24
+  n25["`Văn bản phức tạp, đồ sộ, không hoàn toàn nhất quán#59; FASB soạn bản hệ thống hoá (codification)`"]
+  n23 --- n25
+  n26["`Chuẩn mực về phái sinh, quyền chọn, hợp nhất kinh doanh, hưu trí xác định quyền lợi ít liên quan tới công ty tư nhân nhỏ`"]
+  n21 --- n26
+  n27["`FASB và AICPA lập Uỷ ban Tư vấn về Báo cáo Tài chính Công ty Tư nhân`"]
+  n21 --- n27
+  n28["`Tracy: công ty tư nhân nên để yên, vì thực tế họ đã áp dụng GAAP thoải mái hơn`"]
+  n21 --- n28
+  n29["`Khác biệt đại chúng và tư nhân nằm ở mức công bố, không ở cách đo doanh thu, chi phí, tài sản, nợ`"]
+  n21 --- n29
+  n30["`Mục 5 — Quyền chọn cổ phiếu: điểm tranh cãi kế toán lớn nhất`"]
+  n0 --- n30
+  n31["`Ví dụ: 100 triệu cổ phiếu, quyền chọn thực hiện hết thêm 5 triệu (5%), giá thực hiện bằng giá thị trường lúc trao`"]
+  n30 --- n31
+  n32["`Ba câu hỏi: có công bố, có tính vào EPS pha loãng, có ghi chi phí khi trao không`"]
+  n30 --- n32
+  n33["`Trước đây: có, có, không — FASB cho rằng công bố và EPS pha loãng là đủ`"]
+  n32 --- n33
+  n34["`Sau áp lực, nhất là về công ty công nghệ cao: có, có, có — chi phí làm giảm lợi nhuận ròng`"]
+  n32 --- n34
+  n35["`Định giá quyền chọn khó như khoa học tên lửa#59; nhiều công ty chọn mô hình cho chi phí thấp nhất`"]
+  n30 --- n35
+  n36["`Bút toán khác thường: ghi chi phí và ghi tăng vốn chủ sở hữu cùng số, không tài sản giảm, không nợ tăng`"]
+  n30 --- n36
+  n37["`Tracy: FASB đúng ở lần đầu#59; chi phí quyền chọn là chi phí nhân tạo`"]
+  n30 --- n37
+  n38["`Đồng ý với Buffett: quản lý các công ty của Berkshire Hathaway không nhận quyền chọn mà vẫn làm tốt`"]
+  n30 --- n38
+  n39["`Cảnh báo: để quyền chọn có giá hơn, không ít nhà quản lý gian lận kế toán thổi phồng lợi nhuận`"]
+  n30 --- n39
+  n40["`Mục 6 — Việc còn dang dở: công bố trên báo cáo kết quả kinh doanh`"]
+  n0 --- n40
+  n41["`Luật chứng khoán liên bang 1933 và 1934 lấy công bố đầy đủ làm tinh thần trung tâm`"]
+  n40 --- n41
+  n42["`Chi phí quảng cáo, tiếp thị: không phải nêu riêng trên báo cáo, có trong 10-K nộp SEC`"]
+  n40 --- n42
+  n43["`Chi phí bảo trì sửa chữa: có thể dùng để điều chỉnh lợi nhuận giữa các năm, có trong 10-K`"]
+  n40 --- n43
+  n44["`Thù lao lãnh đạo cấp cao: không có trong báo cáo hay thuyết minh, phải tìm trong proxy statement`"]
+  n40 --- n44
+  n45["`Bảng ai sở hữu cổ phiếu: không bắt buộc, hầu như không bao giờ có`"]
+  n40 --- n45
+  n46["`Tiến bộ: phần MD#amp;A#59; Tracy cho rằng công bố thêm không làm mất lợi thế cạnh tranh`"]
+  n40 --- n46
+  n47["`Tra hồ sơ trên EDGAR tại www.sec.gov#59; tháng 8/2008 SEC công bố IDEA sẽ bổ sung rồi thay EDGAR`"]
+  n40 --- n47
+  n48["`Đánh giá — Diễn biến sau 2009 theo hiểu biết của người tổng hợp`"]
+  n0 --- n48
+  n49["`Hội tụ không đi tới một bộ duy nhất: báo cáo nhân viên SEC năm 2012 không khuyến nghị chuyển sang IFRS`"]
+  n48 --- n49
+  n50["`Dự án chung: doanh thu ASC 606/IFRS 15, thuê tài sản ASC 842/IFRS 16#59; LIFO vẫn được phép ở Mỹ`"]
+  n48 --- n50
+  n51["`ASC có hiệu lực từ 2009, gom GAAP Mỹ vào khoảng 90 chủ đề#59; FASB chuyển sang các bản cập nhật ASU`"]
+  n48 --- n51
+  n52["`Công ty tư nhân được tách riêng hơn dự liệu: IFRS for SMEs (2009), Private Company Council (2012)`"]
+  n48 --- n52
+  n53["`FAS 123R/ASC 718 và IFRS 2: chi phí quyền chọn đo tại ngày trao, phân bổ trong thời gian đủ điều kiện`"]
+  n48 --- n53
+  n54["`Buffett thực ra ủng hộ bắt ghi chi phí quyền chọn#59; quan điểm chi phí nhân tạo là thiểu số`"]
+  n48 --- n54
+  n55["`Năm 2024 FASB yêu cầu thuyết minh tách các dòng chi phí trên báo cáo kết quả kinh doanh`"]
+  n48 --- n55
+  n56["`Dựa trên nguyên tắc không tự nó tốt hơn: thêm quyền phán đoán là thêm chỗ làm đẹp số liệu`"]
+  n48 --- n56
+  n57["`Thông điệp xuyên suốt`"]
+  n0 --- n57
+  n58["`Trước khi so sánh hai báo cáo, hỏi chúng được lập theo bộ chuẩn mực nào`"]
+  n57 --- n58
+  n59["`Đọc lợi nhuận ròng cùng EPS pha loãng và chi phí quyền chọn nằm lẫn trong các khoản chi phí`"]
+  n57 --- n59
+  n60["`Thông tin còn thiếu phải tìm ngoài báo cáo tài chính: 10-K, proxy statement, EDGAR`"]
+  n57 --- n60
+  n61["`Công ty tư nhân công bố ít hơn: người cho vay nên chủ động hỏi thêm chi tiết`"]
+  n57 --- n61
+  class n0 root
+  class n1,n12,n21,n30,n40,n48,n57 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n18,n19,n20,n22,n23,n24,n25,n26,n27,n28,n29,n31,n32,n33,n34,n35,n36,n37,n38,n39,n41,n42,n43,n44,n45,n46,n47,n49,n50,n51,n52,n53,n54,n55,n56,n58,n59,n60,n61 leaf
+```
+
+## Nguồn
+
+John A. Tracy, *How to Read a Financial Report: Wringing Vital Signs Out of the Numbers*, ấn bản thứ bảy (John Wiley & Sons, 2009), Phần Ba "Reliability of Financial Reports", Chương 19 "Accounting and Financial Reporting Standards", trang in 151–159 (trang in 149 là trang tên Phần Ba, trang in 151 là trang tên chương; nội dung chương nằm ở trang in 152–159).
+
+## Tác giả
+
+John A. Tracy, giáo sư kế toán danh dự Đại học Colorado ở Boulder, kế toán viên công chứng (CPA).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phần Một (Chương 1–15) dạy người đọc cách các khoản mục của báo cáo kết quả kinh doanh nối với các khoản mục của bảng cân đối kế toán và với dòng tiền; Phần Hai (Chương 16–18, xem [C16](C16-tac-dong-cua-tang-truong-va-suy-giam-len-dong-tien.md), [C17](C17-cac-chi-so-tai-chinh.md), [C18](C18-phan-tich-loi-nhuan-cho-nha-quan-ly.md)) dạy cách phân tích các con số đó bằng chỉ số và bằng mô hình lợi nhuận cho nhà quản lý. Tất cả những phân tích ấy đều ngầm giả định rằng con số trong báo cáo là đáng tin.
+
+Chương 19 mở đầu Phần Ba "Độ tin cậy của báo cáo tài chính" bằng câu hỏi gốc: **ai đặt ra luật chơi cho việc lập báo cáo tài chính, và luật chơi đó đang thay đổi ra sao**. Tracy giới thiệu nguyên tắc kế toán được chấp nhận chung của Mỹ (GAAP), Hội đồng Chuẩn mực Kế toán Tài chính Mỹ (FASB), Uỷ ban Chứng khoán và Giao dịch Mỹ (SEC), Hội đồng Chuẩn mực Kế toán Quốc tế (IASB) và chuẩn mực báo cáo tài chính quốc tế (IFRS), rồi chỉ ra bốn chỗ còn tranh cãi: cách viết chuẩn mực (dựa trên nguyên tắc hay dựa trên quy tắc), chuẩn mực cho công ty tư nhân, kế toán quyền chọn cổ phiếu, và mức công bố thông tin còn thiếu trên báo cáo kết quả kinh doanh.
+
+Chương 20 ([C20](C20-phuong-phap-ke-toan-va-lam-dep-so-lieu.md)) đi tiếp: ngay trong khuôn khổ GAAP, doanh nghiệp vẫn được chọn phương pháp kế toán và có thể làm đẹp số liệu (Chương 19 đã nhắc trước rằng chi phí bảo trì, sửa chữa có thể bị dùng để điều chỉnh lợi nhuận, xem Chương 20). Chương 21 ([C21](C21-kiem-toan-bao-cao-tai-chinh-thoi-hau-enron.md)) bàn về kiểm toán, cơ chế kiểm tra xem doanh nghiệp có tuân thủ các chuẩn mực mà Chương 19 mô tả hay không.
+
+## Lưu ý
+
+- **Chương này không có Exhibit (bảng biểu) nào.** Toàn chương là văn xuôi; các con số được chép lại trong bản tổng hợp này. Trang in 150 (PDF 162) và trang in 160 (PDF 172) là trang trắng. Không mở được ảnh trang PDF để đối chiếu bố cục (máy thiếu công cụ dựng ảnh PDF); vị trí các tiêu đề mục được suy ra từ lớp chữ của PDF, mỗi tiêu đề nằm ở trang in được ghi bên cạnh.
+- **Mốc thời gian của sách là năm 2008.** Tracy viết "hiện nay (năm 2008)", "khoảng 35 năm nay" FASB là trung tâm quyền lực (FASB thành lập năm 1973), và nhiều việc ông nói "sắp xảy ra" đã diễn ra khác đi. Theo hiểu biết của người tổng hợp, không tra cứu:
+  - Bộ chuẩn mực tổng hợp của FASB (FASB Accounting Standards Codification, ASC) mà Tracy nói "sẽ ra mắt trong tương lai gần" đã có hiệu lực từ năm 2009 (cho các kỳ kết thúc sau ngày 15/9/2009) và trở thành nguồn GAAP có thẩm quyền duy nhất.
+  - Kế hoạch đưa công ty đại chúng Mỹ sang IFRS theo "lộ trình khá quyết liệt" của SEC (công bố cuối năm 2008) không được thực hiện.
+  - Mục tiêu "trong năm năm hoặc sớm hơn" có một bộ chuẩn mực quốc tế duy nhất mà Hiệp hội Kế toán viên Công chứng Mỹ (AICPA) nêu đã không đạt.
+  - Dự định EDGAR được thay bằng hệ thống IDEA đã không diễn ra theo nghĩa thay tên: EDGAR vẫn là cổng dữ liệu của SEC, còn "dữ liệu tương tác" được thực hiện qua yêu cầu nộp báo cáo kèm định dạng XBRL từ năm 2009.
+
+  Chi tiết ở phần Đánh giá.
+- **Sách viết gọn về IASB.** Tracy viết IASB "được thành lập năm 2001 để xây dựng các nguyên tắc kế toán toàn cầu" như thể trước đó không có gì. Theo hiểu biết của người tổng hợp, IASB thay cho Uỷ ban Chuẩn mực Kế toán Quốc tế (IASC) vốn đã hoạt động từ năm 1973 và đã ban hành các chuẩn mực kế toán quốc tế (IAS); IASB tiếp nhận các IAS đó và ban hành chuẩn mực mới dưới tên IFRS. Liên minh châu Âu (EU) bắt buộc các công ty niêm yết lập báo cáo hợp nhất theo IFRS từ năm 2005.
+- **Chữ "harmonization".** Tracy gọi quá trình đưa GAAP và IFRS lại gần nhau là "harmonization" (hài hoà hoá). Trong các văn bản chính thức giai đoạn 2002–2012, FASB và IASB thường dùng chữ "convergence" (hội tụ), bắt đầu từ Thoả thuận Norwalk năm 2002 (theo hiểu biết của người tổng hợp). Bản tổng hợp giữ cách gọi của Tracy và chú thích thêm chữ "hội tụ".
+- **Trình tự lịch sử của kế toán quyền chọn cổ phiếu bị kể ngược một phần.** Tracy viết rằng "ban đầu" FASB cho rằng chỉ cần công bố và tính vào EPS pha loãng là đủ, rồi sau đó "dưới áp lực từ nhiều phía" FASB mới bắt ghi chi phí.
+
+  Theo hiểu biết của người tổng hợp, diễn biến thực tế phức tạp hơn: đầu thập niên 1990, chính FASB đã đề xuất bắt ghi chi phí quyền chọn nhưng phải lùi bước trước sức ép của giới doanh nghiệp (nhất là công nghệ) và Quốc hội Mỹ; chuẩn mực FAS 123 (1995) chỉ *khuyến khích* ghi chi phí theo giá trị hợp lý và cho phép tiếp tục cách cũ (APB 25, không ghi chi phí nếu giá thực hiện bằng giá thị trường) kèm thuyết minh; sau các vụ bê bối Enron, WorldCom, FASB ban hành FAS 123R (2004), bắt buộc ghi chi phí từ năm 2005–2006 (nay là ASC 718).
+
+  Áp lực đổi chiều là áp lực *đòi* ghi chi phí, đúng như Tracy mô tả, nhưng lập trường "chỉ công bố là đủ" là kết quả của một lần FASB đã nhượng bộ, không hẳn là quan điểm gốc của FASB.
+- **Chỗ dễ hiểu nhầm: thời điểm ghi chi phí quyền chọn.** Tracy viết chi phí được ghi "tại thời điểm trao quyền chọn". Theo hiểu biết của người tổng hợp, theo FAS 123R/ASC 718 và IFRS 2, giá trị hợp lý của quyền chọn được *đo* tại ngày trao, nhưng được *ghi nhận dần vào chi phí* trong suốt thời gian người được trao phải làm việc để đủ điều kiện thực hiện quyền (vesting period), chứ không ghi một lần vào ngày trao.
+- **Chỗ dễ hiểu nhầm: Warren Buffett.** Tracy dẫn Buffett như người cùng quan điểm với mình vì Buffett phản đối quyền chọn cổ phiếu. Theo hiểu biết của người tổng hợp, Buffett đúng là chỉ trích quyền chọn cổ phiếu cho lãnh đạo như cách chúng thường được thiết kế, nhưng ông cũng là một trong những người ủng hộ mạnh nhất việc *bắt ghi chi phí* quyền chọn (ông lập luận: nếu quyền chọn không phải là thù lao thì là gì; nếu thù lao không phải chi phí thì là gì). Như vậy Buffett đồng ý với Tracy ở câu hỏi "có nên dùng quyền chọn không", nhưng ngược với Tracy ở câu hỏi "có nên ghi chi phí không".
+- **Công bố chi phí quảng cáo.** Tracy viết chi phí quảng cáo và tiếp thị không phải nêu riêng trên báo cáo kết quả kinh doanh. Điều này đúng với mặt báo cáo. Theo hiểu biết của người tổng hợp (không chắc chắn hoàn toàn), GAAP Mỹ (SOP 93-7, nay là ASC 720-35) đã yêu cầu thuyết minh tổng chi phí quảng cáo đã ghi vào chi phí trong kỳ; người đọc nên tìm con số này trong thuyết minh báo cáo tài chính trước khi kết luận nó không được công bố.
+- Các câu trích trong mục Câu nói đáng nhớ là bản dịch của người tổng hợp.

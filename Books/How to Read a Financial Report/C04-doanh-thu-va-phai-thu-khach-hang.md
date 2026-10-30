@@ -1,18 +1,16 @@
 # Chương 4 — Doanh thu bán hàng và phải thu khách hàng (Sales Revenue and Accounts Receivable)
 
-**Nguồn:** John A. Tracy, *How to Read a Financial Report: Wringing Vital Signs Out of the Numbers*, ấn bản thứ bảy (John Wiley & Sons, 2009), Phần Một "Components and Connections in Financial Statements", Chương 4 "Sales Revenue and Accounts Receivable", trang in 26–31 (trang 26 là bảng Exhibit 4.1 đặt đối diện trang tiêu đề chương; phần chữ ở trang in 27–31).
-**Tác giả:** John A. Tracy, giáo sư kế toán danh dự Đại học Colorado ở Boulder, kế toán viên công chứng (CPA).
-**Vị trí trong lập luận của cả cuốn sách:** Chương 2 ([C02-ba-bao-cao-tai-chinh.md](C02-ba-bao-cao-tai-chinh.md)) trình bày ba báo cáo tài chính của doanh nghiệp ví dụ (doanh thu 52 triệu USD/năm). Chương 3 ([C03-loi-nhuan-khong-phai-la-tat-ca.md](C03-loi-nhuan-khong-phai-la-tat-ca.md)) vẽ bức tranh toàn cảnh: mọi mối nối giữa các khoản mục của báo cáo kết quả kinh doanh với các khoản mục của bảng cân đối kế toán được nối với nhau trên một sơ đồ duy nhất (Exhibit 3.1). Chương 4 là chương đầu tiên trong chuỗi chương (Chương 4 đến Chương 12) mà mỗi chương chỉ tách ra **một** mối nối để xem kỹ. Mối nối đầu tiên là giữa doanh thu bán hàng (sales revenue) trên báo cáo kết quả kinh doanh và tài sản phải thu khách hàng (accounts receivable) trên bảng cân đối kế toán. Chương này cũng mở đầu thói quen kết thúc mỗi chương bằng mục "Accounting Issues" (các vấn đề kế toán). Chương 5 ([C05-gia-von-hang-ban-va-hang-ton-kho.md](C05-gia-von-hang-ban-va-hang-ton-kho.md)) làm điều tương tự cho giá vốn hàng bán và hàng tồn kho, dùng đúng cách lập luận "số tuần" của chương này. Sự thay đổi của phải thu khách hàng trong năm (từ 4.680 lên 5.000 nghìn USD) và tác động của nó lên dòng tiền được để dành cho Chương 13 ([C13-dong-tien-tu-hoat-dong-kinh-doanh.md](C13-dong-tien-tu-hoat-dong-kinh-doanh.md)); hệ số vòng quay phải thu khách hàng được dùng lại ở Chương 17 ([C17-cac-chi-so-tai-chinh.md](C17-cac-chi-so-tai-chinh.md)).
-**Ý chính:** Tracy muốn người đọc hiểu rằng **số dư phải thu khách hàng cuối năm trên bảng cân đối kế toán không phải là một con số đứng riêng, mà do doanh thu bán chịu trong năm và thời hạn bán chịu bình quân quyết định: thời hạn bán chịu càng dài thì phải thu khách hàng càng lớn, và phần phải thu vượt mức cần thiết là vốn (vay nợ hoặc vốn chủ sở hữu) bị chôn lại, có chi phí thật**. Ví dụ trung tâm: doanh nghiệp bán toàn bộ hàng theo hình thức bán chịu, doanh thu năm 52.000 nghìn USD (bình quân 1.000 nghìn USD mỗi tuần); khách hàng trả tiền sau bình quân 5 tuần, nên cuối năm còn 5/52 × 52.000 = 5.000 nghìn USD chưa thu được, đúng bằng số dư phải thu khách hàng. Đi theo chiều ngược lại, người đọc báo cáo tính được hệ số vòng quay phải thu khách hàng là 52.000 ÷ 5.000 = 10,4 lần, rồi 52 tuần ÷ 10,4 = 5 tuần. Nếu thời hạn bán chịu bình quân chỉ là 4 tuần mà không mất doanh thu, phải thu chỉ còn 4.000 nghìn USD, doanh nghiệp thu thêm 1.000 nghìn USD tiền, vay ít đi 1.000 nghìn USD và với lãi suất 6%/năm thì tiết kiệm 60 nghìn USD tiền lãi trước thuế mỗi năm. Cuối chương, Tracy nhắc rằng con số doanh thu và phải thu phụ thuộc vào phương pháp kế toán: khó nhất là xác định **thời điểm** ghi nhận doanh thu (hàng bị trả lại, chiết khấu sau khi bán, giá còn thương lượng, bảo hành) và thời điểm ghi nhận chi phí nợ khó đòi (bad debts).
+## Ý chính
 
-> **Lưu ý:**
-> - **Vị trí của Exhibit 4.1.** Phần chữ trong sách nói Exhibit 4.1 nằm "ở đầu chương", nhưng trong file PDF bảng này nằm ở trang PDF 38 (trang in 26), tức trang ĐỨNG TRƯỚC trang tiêu đề chương (trang PDF 39, trang in 27); trong sách in, hai trang này đối diện nhau. Vì vậy văn bản trích theo phạm vi trang PDF 39–44 không có Exhibit 4.1, còn trang PDF 44 (trang in 32) lại là Exhibit 5.1 của Chương 5. Bản tổng hợp này đã chép Exhibit 4.1 từ trang PDF 38 và bỏ qua Exhibit 5.1.
-> - **Cộng trừ trong Exhibit 4.1 đều đúng**: báo cáo kết quả kinh doanh 52.000 − 33.800 − 12.480 − 785 − 545 − 1.748 = 2.642; tổng tài sản 3.265 + 5.000 + 8.450 + 960 + 16.500 − 4.250 + 5.575 = 35.500; tổng nợ phải trả và vốn chủ sở hữu 3.320 + 1.515 + 165 + 3.125 + 4.250 + 8.125 + 15.000 = 35.500. Các phép tính trong lời văn cũng đúng: 5/52 × 52.000 = 5.000; 52.000 ÷ 5.000 = 10,4; 52 ÷ 10,4 = 5; 4/52 × 52.000 = 4.000; 6% × 1.000 = 60 (nghìn USD).
-> - **Chỗ sách viết gọn, dễ hiểu nhầm (1):** Tracy tính hệ số vòng quay bằng số dư phải thu **cuối năm** (5.000), không phải số dư bình quân đầu và cuối năm. Theo bảng cân đối kế toán của Chương 2, phải thu đầu năm là 4.680 nghìn USD; nếu dùng số bình quân (4.680 + 5.000) ÷ 2 = 4.840 thì vòng quay là khoảng 10,74 lần và thời hạn thu tiền bình quân khoảng 4,84 tuần (phép tính này của người tổng hợp, không có trong chương). Cách tính theo số cuối năm của Tracy khớp với cách ông lập luận "số dư cuối năm bằng 5 tuần doanh thu cuối năm".
-> - **Chỗ sách viết gọn (2):** công thức 5/52 × doanh thu năm chỉ đúng khi doanh thu trải đều qua 52 tuần. Nếu doanh nghiệp đang tăng trưởng hoặc doanh thu có mùa vụ dồn vào cuối năm, số dư phải thu cuối năm sẽ lớn hơn 5/52 doanh thu năm dù khách hàng vẫn trả sau đúng 5 tuần. Tracy ngầm giả định doanh thu đều (ông nói "bình quân 1.000.000 USD mỗi tuần").
-> - **Chỗ sách viết gọn (3):** trong cùng một mục, Tracy viết "khách hàng bình quân (the average customer) chờ năm tuần mới trả và bỏ qua chiết khấu thanh toán sớm", rồi ngay sau đó mới "giả sử thời hạn bán chịu bình quân của mọi khách hàng là năm tuần". Hai câu nói về hai khái niệm hơi khác nhau (khách hàng điển hình và mức bình quân của cả tập khách hàng), nhưng ở ví dụ của sách chúng cho cùng con số 5 tuần.
-> - **Chỗ sách viết gọn (4):** khoản tiết kiệm 60 nghìn USD là tiền lãi **trước thuế** thu nhập; Tracy không tính phần sau thuế. Ví dụ cũng không có nợ khó đòi: toàn bộ 52.000 nghìn USD doanh thu được giả định là cuối cùng sẽ thu được tiền.
-> - **Quy định đã thay đổi từ 2009** (theo hiểu biết của người tổng hợp, không tra cứu): việc ghi nhận doanh thu ở Mỹ nay theo chuẩn mực ASC 606 (và IFRS 15 ở các nước dùng IFRS), áp dụng cho công ty niêm yết từ 2018, thay cho nhiều quy định rời rạc mà Tracy ngầm nhắc tới. Việc ghi nhận tổn thất phải thu khó đòi ở Mỹ nay theo mô hình "tổn thất tín dụng dự kiến" (CECL, ASC 326), có hiệu lực dần từ 2020, thay cho mô hình "tổn thất đã phát sinh" thời 2009; IFRS 9 (2018) có mô hình tương tự. Những thay đổi này trả lời chính hai câu hỏi Tracy nêu ở mục "Accounting Issues", nhưng không làm thay đổi mối nối cơ bản giữa doanh thu và phải thu mà chương này giải thích.
+Tracy muốn người đọc hiểu rằng **số dư phải thu khách hàng cuối năm trên bảng cân đối kế toán không phải là một con số đứng riêng, mà do doanh thu bán chịu trong năm và thời hạn bán chịu bình quân quyết định: thời hạn bán chịu càng dài thì phải thu khách hàng càng lớn, và phần phải thu vượt mức cần thiết là vốn (vay nợ hoặc vốn chủ sở hữu) bị chôn lại, có chi phí thật**.
+
+Ví dụ trung tâm: doanh nghiệp bán toàn bộ hàng theo hình thức bán chịu, doanh thu năm 52.000 nghìn USD (bình quân 1.000 nghìn USD mỗi tuần); khách hàng trả tiền sau bình quân 5 tuần, nên cuối năm còn 5/52 × 52.000 = 5.000 nghìn USD chưa thu được, đúng bằng số dư phải thu khách hàng.
+
+Đi theo chiều ngược lại, người đọc báo cáo tính được hệ số vòng quay phải thu khách hàng là 52.000 ÷ 5.000 = 10,4 lần, rồi 52 tuần ÷ 10,4 = 5 tuần.
+
+Nếu thời hạn bán chịu bình quân chỉ là 4 tuần mà không mất doanh thu, phải thu chỉ còn 4.000 nghìn USD, doanh nghiệp thu thêm 1.000 nghìn USD tiền, vay ít đi 1.000 nghìn USD và với lãi suất 6%/năm thì tiết kiệm 60 nghìn USD tiền lãi trước thuế mỗi năm.
+
+Cuối chương, Tracy nhắc rằng con số doanh thu và phải thu phụ thuộc vào phương pháp kế toán: khó nhất là xác định **thời điểm** ghi nhận doanh thu (hàng bị trả lại, chiết khấu sau khi bán, giá còn thương lượng, bảo hành) và thời điểm ghi nhận chi phí nợ khó đòi (bad debts).
 
 ## Sơ đồ
 
@@ -437,7 +435,9 @@ Doanh thu 52 triệu USD được chọn để mỗi tuần đúng 1 triệu USD
 Tracy nói rõ báo cáo lưu chuyển tiền tệ "chỉ làm phân tán" ở giai đoạn này. Tuy vậy, mối nối này dẫn thẳng tới dòng tiền: theo các báo cáo của Chương 2, phải thu khách hàng tăng từ 4.680 lên 5.000 nghìn USD, nên trong 52.000 nghìn USD doanh thu chỉ thu được 52.000 − 320 = 51.680 nghìn USD tiền (phép tính của người tổng hợp từ số liệu Chương 2), và khoản tăng 320 xuất hiện thành dòng trừ (320) trong dòng tiền từ hoạt động kinh doanh. Đây là nội dung của Chương 13; biết trước giúp người đọc thấy vì sao Tracy nhấn mạnh rằng phải thu thừa là vốn bị chôn.
 
 ### Hai câu hỏi kế toán Tracy nêu năm 2009 nay đã có chuẩn mực trả lời cụ thể hơn
-Theo hiểu biết của người tổng hợp (không tra cứu): câu hỏi "khi nào ghi nhận doanh thu" nay được trả lời bằng mô hình năm bước của ASC 606 / IFRS 15 (hiệu lực khoảng 2018), trong đó các tình huống Tracy liệt kê (quyền trả hàng, chiết khấu sau bán, giá còn thương lượng) được xử lý như "khoản thanh toán biến đổi" (variable consideration) phải ước tính khi ghi nhận doanh thu, còn bảo hành có thể là chi phí ước tính hoặc một nghĩa vụ thực hiện riêng. Câu hỏi "khi nào ghi chi phí nợ khó đòi" nay theo mô hình tổn thất tín dụng dự kiến (CECL, ASC 326 ở Mỹ; IFRS 9 theo chuẩn mực quốc tế), yêu cầu ước tính tổn thất ngay từ khi phát sinh phải thu thay vì chờ có dấu hiệu tổn thất. Ngoài ra, từ 2009 các quy định kế toán Mỹ được gom vào Bộ chuẩn mực FASB Codification (ASC). Nhận định cốt lõi của Tracy, rằng phương pháp kế toán ảnh hưởng tới lợi nhuận và tài sản và cần được trình bày trong thuyết minh, vẫn đúng.
+Theo hiểu biết của người tổng hợp (không tra cứu): câu hỏi "khi nào ghi nhận doanh thu" nay được trả lời bằng mô hình năm bước của ASC 606 / IFRS 15 (hiệu lực khoảng 2018), trong đó các tình huống Tracy liệt kê (quyền trả hàng, chiết khấu sau bán, giá còn thương lượng) được xử lý như "khoản thanh toán biến đổi" (variable consideration) phải ước tính khi ghi nhận doanh thu, còn bảo hành có thể là chi phí ước tính hoặc một nghĩa vụ thực hiện riêng.
+
+Câu hỏi "khi nào ghi chi phí nợ khó đòi" nay theo mô hình tổn thất tín dụng dự kiến (CECL, ASC 326 ở Mỹ; IFRS 9 theo chuẩn mực quốc tế), yêu cầu ước tính tổn thất ngay từ khi phát sinh phải thu thay vì chờ có dấu hiệu tổn thất. Ngoài ra, từ 2009 các quy định kế toán Mỹ được gom vào Bộ chuẩn mực FASB Codification (ASC). Nhận định cốt lõi của Tracy, rằng phương pháp kế toán ảnh hưởng tới lợi nhuận và tài sản và cần được trình bày trong thuyết minh, vẫn đúng.
 
 ### Doanh thu là nơi làm đẹp số liệu thường xảy ra, nên mục "Accounting Issues" ngắn nhưng quan trọng
 Tracy chỉ dành một trang cho các vấn đề kế toán, nhưng câu "phương pháp kế toán ít nhiều mang tính tuỳ ý" báo trước nội dung của Chương 20 ([C20-phuong-phap-ke-toan-va-lam-dep-so-lieu.md](C20-phuong-phap-ke-toan-va-lam-dep-so-lieu.md)). Theo hiểu biết của người tổng hợp, ghi nhận doanh thu sớm (ví dụ đẩy hàng cho nhà phân phối cuối kỳ với quyền trả lại rộng rãi) là một trong những dạng sai phạm báo cáo tài chính phổ biến nhất. Dấu hiệu dễ thấy nhất chính là công cụ của chương này: số tuần phải thu tăng nhanh hơn doanh thu.
@@ -447,3 +447,159 @@ Tracy chỉ dành một trang cho các vấn đề kế toán, nhưng câu "phư
 - **Người cho vay:** phải thu thường là tài sản bảo đảm cho khoản vay ngắn hạn; số tuần phải thu kéo dài làm giảm chất lượng của tài sản đó và có thể báo hiệu khó khăn thanh khoản.
 - **Nhà đầu tư:** so sánh tốc độ tăng phải thu với tốc độ tăng doanh thu; nếu phải thu tăng nhanh hơn nhiều, cần đọc thuyết minh về phương pháp ghi nhận doanh thu và dự phòng nợ khó đòi.
 - **Người đọc Việt Nam (định tính):** cách tính số tuần hoặc số ngày phải thu áp dụng được ngay cho báo cáo tài chính của doanh nghiệp Việt Nam; khi đọc, nên chú ý doanh thu đã gồm hay chưa gồm các khoản giảm trừ, và phải thu đã trừ dự phòng phải thu khó đòi hay chưa, để phép chia cho kết quả có ý nghĩa.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 4 trên một trang: sáu nhánh lớn đi theo các mục 1–4 của phần Nội dung chi tiết (bảng mở đầu chương nối doanh thu với phải thu khách hàng, xem xét từng mối nối một, doanh thu quyết định phải thu khách hàng qua thời hạn bán chịu bình quân, các vấn đề kế toán) cùng phần Đánh giá, mỗi nhánh ghi định nghĩa, công thức và con số then chốt của doanh nghiệp ví dụ; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 4: số dư phải thu khách hàng do doanh thu bán chịu và thời hạn bán chịu bình quân quyết định`"]
+  n1["`Mục 1 — Bảng mở đầu chương nối doanh thu 52.000 với phải thu 5.000 nghìn USD`"]
+  n0 --- n1
+  n2["`Báo cáo kết quả kinh doanh: doanh thu 52.000, giá vốn 33.800, lợi nhuận ròng 2.642 nghìn USD`"]
+  n1 --- n2
+  n3["`Bảng cân đối cuối năm: phải thu 5.000 trong tổng tài sản 35.500 nghìn USD, hai bên cân nhau`"]
+  n1 --- n3
+  n4["`Ô giải thích: cuối năm còn 5 tuần doanh thu chưa thu, 5/52 × 52.000 = 5.000`"]
+  n1 --- n4
+  n5["`Phải thu đầu năm 4.680, tăng 320 nghìn USD trong năm, tác động dòng tiền để dành cho Chương 13`"]
+  n1 --- n5
+  n6["`Mục 2 — Xem xét từng mối nối một`"]
+  n0 --- n6
+  n7["`Chương 3 nối mọi khoản mục hai báo cáo trên một sơ đồ, Chương 4 chỉ tô đậm một đường nối`"]
+  n6 --- n7
+  n8["`Lời nhắc 1: báo cáo kết quả kinh doanh một bước, không có lợi nhuận gộp hay lợi nhuận trung gian`"]
+  n6 --- n8
+  n9["`Bảng cân đối bỏ dòng tổng phụ: tài sản ngắn hạn, nợ ngắn hạn, tài sản cố định sau khấu hao`"]
+  n6 --- n9
+  n10["`Lời nhắc 2: chưa đưa báo cáo lưu chuyển tiền tệ, mối nối đó để dành cho Chương 13 và 14`"]
+  n6 --- n10
+  n11["`Ý trung tâm: hoạt động tạo lợi nhuận trên báo cáo kết quả kinh doanh quyết định quy mô tài sản, nợ phải trả`"]
+  n6 --- n11
+  n12["`Ví dụ: 5 triệu trong 52 triệu USD doanh thu năm chưa thu được tiền, nằm trong phải thu`"]
+  n11 --- n12
+  n13["`Mục 3 — Doanh thu quyết định phải thu khách hàng như thế nào`"]
+  n0 --- n13
+  n14["`Bán chịu tạo ra phải thu`"]
+  n13 --- n14
+  n15["`Tài khoản doanh thu bắt đầu năm ở 0, cộng dồn giá bán × số lượng, cuối năm đạt 52.000.000 USD`"]
+  n14 --- n15
+  n16["`Bán chịu 100% cho doanh nghiệp khác, khác siêu thị, trạm xăng thu tiền ngay hoặc qua thẻ tín dụng`"]
+  n14 --- n16
+  n17["`Lúc bán ghi tăng phải thu, lúc thu tiền ghi tăng tiền và ghi giảm phải thu`"]
+  n14 --- n17
+  n18["`Bán chịu tạo độ trễ dòng tiền vào, số dư phải thu chính là độ lớn của độ trễ đó`"]
+  n14 --- n18
+  n19["`Ba kiểu khách hàng và công thức số tuần`"]
+  n13 --- n19
+  n20["`Người trả nhanh hưởng chiết khấu thanh toán sớm: giá bán thấp hơn nhưng tiền về sớm hơn`"]
+  n19 --- n20
+  n21["`Khách hàng bình quân chờ 5 tuần và bỏ qua chiết khấu`"]
+  n19 --- n21
+  n22["`Có người chờ 10 tuần trở lên, vẫn được chấp nhận vì mua lại nhiều lần`"]
+  n19 --- n22
+  n23["`Phải thu cuối năm = (số tuần bán chịu ÷ 52) × doanh thu năm = 5/52 × 52.000.000 = 5.000.000 USD`"]
+  n19 --- n23
+  n24["`Thời hạn bán chịu bình quân càng dài thì phải thu khách hàng càng lớn`"]
+  n19 --- n24
+  n25["`Tính ngược từ báo cáo tài chính`"]
+  n13 --- n25
+  n26["`Hệ số vòng quay phải thu = doanh thu ÷ phải thu = 52.000 ÷ 5.000 = 10,4 lần`"]
+  n25 --- n26
+  n27["`Thời hạn bán chịu bình quân = 52 tuần ÷ 10,4 = 5 tuần, có thể tính theo ngày`"]
+  n25 --- n27
+  n28["`Thời gian là cốt lõi: hệ số vòng quay có ích nhất khi quy ra số tuần cần để biến phải thu thành tiền`"]
+  n25 --- n28
+  n29["`Tracy dùng số dư cuối năm, số bình quân 4.840 cho khoảng 10,74 lần và 4,84 tuần (tính của người tổng hợp)`"]
+  n25 --- n29
+  n30["`Kịch bản 4 tuần và chi phí vốn`"]
+  n13 --- n30
+  n31["`Rút còn 4 tuần, không mất doanh thu: phải thu 4/52 × 52.000.000 = 4.000.000 USD`"]
+  n30 --- n31
+  n32["`Thu thêm 1.000.000 USD tiền, vay ít đi 1.000.000 USD hoặc chủ sở hữu góp ít hơn chừng đó`"]
+  n30 --- n32
+  n33["`Lãi suất 6%/năm: tiết kiệm 60.000 USD tiền lãi trước thuế thu nhập mỗi năm`"]
+  n30 --- n33
+  n34["`Vốn có chi phí: phải thu vượt mức cần thiết là dùng thừa vốn vay hoặc vốn chủ sở hữu`"]
+  n30 --- n34
+  n35["`Công cụ của nhà quản lý: rút ngắn điều kiện bán chịu, ngừng bán chịu cho người trả chậm, đẩy mạnh thu nợ`"]
+  n30 --- n35
+  n36["`Mục 4 — Các vấn đề kế toán: con số phụ thuộc phương pháp`"]
+  n0 --- n36
+  n37["`Kế toán trưởng chọn phương pháp ghi nhận doanh thu và chi phí, ít nhiều mang tính tuỳ ý`"]
+  n36 --- n37
+  n38["`Chọn phương pháp này hay khác làm lợi nhuận, tài sản, nợ phải trả cao lên hoặc thấp xuống`"]
+  n36 --- n38
+  n39["`Vấn đề chính của doanh thu là thời điểm: lúc nào giao dịch bán hoàn tất và mọi điều khoản đã chốt`"]
+  n36 --- n39
+  n40["`Khách hàng có quyền trả lại hàng hoặc được giảm giá sau khi đã mua`"]
+  n39 --- n40
+  n41["`Giá còn thương lượng sau khi giao hàng, còn chi phí bảo hành và bảo đảm sản phẩm`"]
+  n39 --- n41
+  n42["`Vấn đề của phải thu: khi nào ghi chi phí nợ khó đòi cho khoản không thu được hoặc thu không đủ`"]
+  n36 --- n42
+  n43["`Doanh nghiệp cần nêu phương pháp ghi nhận doanh thu trong thuyết minh báo cáo tài chính`"]
+  n36 --- n43
+  n44["`Nay có ASC 606 / IFRS 15 cho doanh thu, CECL (ASC 326) / IFRS 9 cho tổn thất tín dụng dự kiến`"]
+  n36 --- n44
+  n45["`Đánh giá — Giới hạn của ví dụ và cách vận dụng`"]
+  n0 --- n45
+  n46["`Quy ra số tuần được dùng lại ở Chương 5: hàng tồn kho 13/52 × 33.800 = 8.450 nghìn USD`"]
+  n45 --- n46
+  n47["`Công thức 5/52 giả định doanh thu đều, tăng trưởng hay mùa vụ cuối năm làm vòng quay thấp hơn`"]
+  n45 --- n47
+  n48["`Phải thu tăng 320 nên 52.000 doanh thu chỉ thu được 51.680 nghìn USD tiền (nội dung Chương 13)`"]
+  n45 --- n48
+  n49["`Ghi nhận doanh thu sớm là sai phạm phổ biến, dấu hiệu: số tuần phải thu tăng nhanh hơn doanh thu`"]
+  n45 --- n49
+  n50["`Nhà quản lý: với 1.000 nghìn USD/tuần và lãi 6%, mỗi tuần bán chịu thêm tốn khoảng 60 nghìn USD/năm`"]
+  n45 --- n50
+  n51["`Người cho vay: số tuần phải thu kéo dài làm giảm chất lượng tài sản bảo đảm, báo hiệu khó khăn thanh khoản`"]
+  n45 --- n51
+  n52["`Nhà đầu tư: phải thu tăng nhanh hơn doanh thu thì đọc thuyết minh về ghi nhận doanh thu và nợ khó đòi`"]
+  n45 --- n52
+  n53["`Người đọc Việt Nam: xem doanh thu đã trừ giảm trừ và phải thu đã trừ dự phòng phải thu khó đòi chưa`"]
+  n45 --- n53
+  n54["`Thông điệp xuyên suốt`"]
+  n0 --- n54
+  n55["`Một con số phải thu chỉ có nghĩa khi đọc cùng doanh thu và quy ra số tuần doanh thu`"]
+  n54 --- n55
+  n56["`Phải thu là vốn bị chôn, có chi phí thật bằng lãi vay hoặc chi phí cơ hội của vốn chủ sở hữu`"]
+  n54 --- n56
+  n57["`Chủ nợ, nhà đầu tư theo dõi thời hạn bán chịu qua các kỳ, thay đổi lớn có thể báo hiệu đổi chính sách`"]
+  n54 --- n57
+  class n0 root
+  class n1,n6,n13,n36,n45,n54 branch
+  class n2,n3,n4,n5,n7,n8,n9,n10,n11,n12,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n33,n34,n35,n37,n38,n39,n40,n41,n42,n43,n44,n46,n47,n48,n49,n50,n51,n52,n53,n55,n56,n57 leaf
+```
+
+## Nguồn
+
+John A. Tracy, *How to Read a Financial Report: Wringing Vital Signs Out of the Numbers*, ấn bản thứ bảy (John Wiley & Sons, 2009), Phần Một "Components and Connections in Financial Statements", Chương 4 "Sales Revenue and Accounts Receivable", trang in 26–31 (trang 26 là bảng Exhibit 4.1 đặt đối diện trang tiêu đề chương; phần chữ ở trang in 27–31).
+
+## Tác giả
+
+John A. Tracy, giáo sư kế toán danh dự Đại học Colorado ở Boulder, kế toán viên công chứng (CPA).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 2 ([C02-ba-bao-cao-tai-chinh.md](C02-ba-bao-cao-tai-chinh.md)) trình bày ba báo cáo tài chính của doanh nghiệp ví dụ (doanh thu 52 triệu USD/năm). Chương 3 ([C03-loi-nhuan-khong-phai-la-tat-ca.md](C03-loi-nhuan-khong-phai-la-tat-ca.md)) vẽ bức tranh toàn cảnh: mọi mối nối giữa các khoản mục của báo cáo kết quả kinh doanh với các khoản mục của bảng cân đối kế toán được nối với nhau trên một sơ đồ duy nhất (Exhibit 3.1).
+
+Chương 4 là chương đầu tiên trong chuỗi chương (Chương 4 đến Chương 12) mà mỗi chương chỉ tách ra **một** mối nối để xem kỹ. Mối nối đầu tiên là giữa doanh thu bán hàng (sales revenue) trên báo cáo kết quả kinh doanh và tài sản phải thu khách hàng (accounts receivable) trên bảng cân đối kế toán. Chương này cũng mở đầu thói quen kết thúc mỗi chương bằng mục "Accounting Issues" (các vấn đề kế toán).
+
+Chương 5 ([C05-gia-von-hang-ban-va-hang-ton-kho.md](C05-gia-von-hang-ban-va-hang-ton-kho.md)) làm điều tương tự cho giá vốn hàng bán và hàng tồn kho, dùng đúng cách lập luận "số tuần" của chương này. Sự thay đổi của phải thu khách hàng trong năm (từ 4.680 lên 5.000 nghìn USD) và tác động của nó lên dòng tiền được để dành cho Chương 13 ([C13-dong-tien-tu-hoat-dong-kinh-doanh.md](C13-dong-tien-tu-hoat-dong-kinh-doanh.md)); hệ số vòng quay phải thu khách hàng được dùng lại ở Chương 17 ([C17-cac-chi-so-tai-chinh.md](C17-cac-chi-so-tai-chinh.md)).
+
+## Lưu ý
+
+- **Vị trí của Exhibit 4.1.** Phần chữ trong sách nói Exhibit 4.1 nằm "ở đầu chương", nhưng trong file PDF bảng này nằm ở trang PDF 38 (trang in 26), tức trang ĐỨNG TRƯỚC trang tiêu đề chương (trang PDF 39, trang in 27); trong sách in, hai trang này đối diện nhau. Vì vậy văn bản trích theo phạm vi trang PDF 39–44 không có Exhibit 4.1, còn trang PDF 44 (trang in 32) lại là Exhibit 5.1 của Chương 5. Bản tổng hợp này đã chép Exhibit 4.1 từ trang PDF 38 và bỏ qua Exhibit 5.1.
+- **Cộng trừ trong Exhibit 4.1 đều đúng**: báo cáo kết quả kinh doanh 52.000 − 33.800 − 12.480 − 785 − 545 − 1.748 = 2.642; tổng tài sản 3.265 + 5.000 + 8.450 + 960 + 16.500 − 4.250 + 5.575 = 35.500; tổng nợ phải trả và vốn chủ sở hữu 3.320 + 1.515 + 165 + 3.125 + 4.250 + 8.125 + 15.000 = 35.500. Các phép tính trong lời văn cũng đúng: 5/52 × 52.000 = 5.000; 52.000 ÷ 5.000 = 10,4; 52 ÷ 10,4 = 5; 4/52 × 52.000 = 4.000; 6% × 1.000 = 60 (nghìn USD).
+- **Chỗ sách viết gọn, dễ hiểu nhầm (1):** Tracy tính hệ số vòng quay bằng số dư phải thu **cuối năm** (5.000), không phải số dư bình quân đầu và cuối năm. Theo bảng cân đối kế toán của Chương 2, phải thu đầu năm là 4.680 nghìn USD; nếu dùng số bình quân (4.680 + 5.000) ÷ 2 = 4.840 thì vòng quay là khoảng 10,74 lần và thời hạn thu tiền bình quân khoảng 4,84 tuần (phép tính này của người tổng hợp, không có trong chương). Cách tính theo số cuối năm của Tracy khớp với cách ông lập luận "số dư cuối năm bằng 5 tuần doanh thu cuối năm".
+- **Chỗ sách viết gọn (2):** công thức 5/52 × doanh thu năm chỉ đúng khi doanh thu trải đều qua 52 tuần. Nếu doanh nghiệp đang tăng trưởng hoặc doanh thu có mùa vụ dồn vào cuối năm, số dư phải thu cuối năm sẽ lớn hơn 5/52 doanh thu năm dù khách hàng vẫn trả sau đúng 5 tuần. Tracy ngầm giả định doanh thu đều (ông nói "bình quân 1.000.000 USD mỗi tuần").
+- **Chỗ sách viết gọn (3):** trong cùng một mục, Tracy viết "khách hàng bình quân (the average customer) chờ năm tuần mới trả và bỏ qua chiết khấu thanh toán sớm", rồi ngay sau đó mới "giả sử thời hạn bán chịu bình quân của mọi khách hàng là năm tuần". Hai câu nói về hai khái niệm hơi khác nhau (khách hàng điển hình và mức bình quân của cả tập khách hàng), nhưng ở ví dụ của sách chúng cho cùng con số 5 tuần.
+- **Chỗ sách viết gọn (4):** khoản tiết kiệm 60 nghìn USD là tiền lãi **trước thuế** thu nhập; Tracy không tính phần sau thuế. Ví dụ cũng không có nợ khó đòi: toàn bộ 52.000 nghìn USD doanh thu được giả định là cuối cùng sẽ thu được tiền.
+- **Quy định đã thay đổi từ 2009** (theo hiểu biết của người tổng hợp, không tra cứu): việc ghi nhận doanh thu ở Mỹ nay theo chuẩn mực ASC 606 (và IFRS 15 ở các nước dùng IFRS), áp dụng cho công ty niêm yết từ 2018, thay cho nhiều quy định rời rạc mà Tracy ngầm nhắc tới. Việc ghi nhận tổn thất phải thu khó đòi ở Mỹ nay theo mô hình "tổn thất tín dụng dự kiến" (CECL, ASC 326), có hiệu lực dần từ 2020, thay cho mô hình "tổn thất đã phát sinh" thời 2009; IFRS 9 (2018) có mô hình tương tự. Những thay đổi này trả lời chính hai câu hỏi Tracy nêu ở mục "Accounting Issues", nhưng không làm thay đổi mối nối cơ bản giữa doanh thu và phải thu mà chương này giải thích.

@@ -1,19 +1,16 @@
 # Chương 16 — Tác động của tăng trưởng và suy giảm lên dòng tiền (Impact of Growth and Decline on Cash Flow)
 
-**Nguồn:** John A. Tracy, *How to Read a Financial Report: Wringing Vital Signs Out of the Numbers*, ấn bản thứ bảy (John Wiley & Sons, 2009), Phần Hai "Financial Statement Analysis", Chương 16 "Impact of Growth and Decline on Cash Flow", trang in 111–122 (trang in 109–110 là trang tên Phần Hai; trang in 111 là trang tên chương).
-**Tác giả:** John A. Tracy, giáo sư kế toán danh dự Đại học Colorado ở Boulder, kế toán viên công chứng (CPA).
-**Vị trí trong lập luận của cả cuốn sách:** Phần Một (Chương 1–15) đã dựng xong ba báo cáo tài chính của doanh nghiệp ví dụ (doanh thu 52 triệu USD/năm) và lần lượt chỉ ra mối nối giữa từng khoản mục của báo cáo kết quả kinh doanh với một khoản mục của bảng cân đối kế toán; [Chương 13](C13-dong-tien-tu-hoat-dong-kinh-doanh.md) giải thích vì sao dòng tiền từ hoạt động kinh doanh năm vừa qua (3.105 nghìn USD) khác lợi nhuận ròng (2.642 nghìn USD), và [Chương 14](C14-dong-tien-tu-hoat-dong-dau-tu-va-tai-chinh.md) bàn phần đầu tư và tài chính của báo cáo lưu chuyển tiền tệ. Chương 16 mở đầu Phần Hai "Phân tích báo cáo tài chính" (Financial Statement Analysis): thay vì nhìn lại năm đã qua, Tracy nhìn **tới năm sau** và dùng chính các tỷ lệ hoạt động đã xây ở Chương 4–11 (phải thu bằng 5 tuần doanh thu, tồn kho bằng 13 tuần giá vốn, v.v.) để dự báo dòng tiền từ lợi nhuận trong ba kịch bản: doanh thu đứng yên, tăng 12,5% và giảm 12,5%; cuối chương thêm trường hợp thua lỗ. [Chương 17](C17-cac-chi-so-tai-chinh.md) tiếp theo trình bày các chỉ số tài chính giúp người cho vay và nhà đầu tư phát hiện vấn đề về khả năng thanh khoản và khả năng trả nợ, đúng loại vấn đề mà chương này cho thấy có thể nảy sinh khi doanh nghiệp tăng trưởng nhanh hoặc thua lỗ; [Chương 18](C18-phan-tich-loi-nhuan-cho-nha-quan-ly.md) đi sâu vào chi phí cố định, chi phí biến đổi, thứ mà chương này mới chỉ nhắc tới khi nói về suy giảm.
-**Ý chính:** Tracy muốn người đọc hiểu rằng **dòng tiền từ lợi nhuận không đi cùng chiều với lợi nhuận khi quy mô kinh doanh thay đổi: tăng trưởng làm lợi nhuận tăng nhưng làm dòng tiền từ lợi nhuận giảm trong ngắn hạn, còn suy giảm làm lợi nhuận giảm nhưng lại giải phóng tiền**, vì khi doanh thu và chi phí đổi quy mô thì phải thu khách hàng, hàng tồn kho, chi phí trả trước và các khoản nợ hoạt động cũng đổi theo. Ví dụ trung tâm dùng doanh nghiệp ví dụ của cả cuốn sách với ba kịch bản cho năm sau (đơn vị nghìn USD): (1) **ổn định** — doanh thu giữ nguyên 52.000, lợi nhuận ròng 2.642, mọi tài sản và nợ hoạt động không đổi, nên dòng tiền từ lợi nhuận bằng lợi nhuận ròng cộng khấu hao 785, tức 3.427; (2) **tăng trưởng** — doanh thu tăng 6.500 (12,5%), lợi nhuận ròng tăng 395 (15%) lên 3.037, nhưng phải thu tăng 625 và tồn kho tăng 1.056 kéo dòng tiền từ lợi nhuận xuống chỉ còn 2.731, thấp hơn cả năm vừa qua (3.105) và thấp hơn kịch bản ổn định 696; Tracy gọi đây là "hình phạt dòng tiền của tăng trưởng" (cash flow growth penalty); (3) **suy giảm** — doanh thu giảm 6.500, lợi nhuận ròng giảm 450 xuống 2.192, nhưng phải thu, tồn kho, chi phí trả trước cùng giảm nên dòng tiền từ lợi nhuận lên tới 4.143, "hơn 4 triệu USD". Thông điệp kèm theo: cộng khấu hao vào lợi nhuận ròng chưa phải là dòng tiền thật; doanh nghiệp tăng trưởng nhanh thường phải ngừng trả cổ tức; doanh nghiệp thua lỗ có thể có dòng tiền âm và "tốc độ đốt tiền" (burn rate) quyết định nó sống được bao lâu.
+## Ý chính
 
-> **Lưu ý:**
-> - **Lỗi đánh máy:** trang in 115, Tracy viết khoản khấu hao cộng lại năm sau là "$785,000 + $95,000 = $880,00"; đúng phải là 880.000 USD.
-> - **Mâu thuẫn trong lời giải thích kịch bản suy giảm (trang in 118):** đoạn "Note" viết rằng trong Exhibit 16.3 chi phí SG&A giảm **tương ứng** (proportionally) với doanh thu; ngay đoạn sau (bắt đầu bằng "However") lại viết chi phí SG&A **không** giảm tương ứng với doanh thu vì nhiều thành phần là chi phí cố định. Số trong Exhibit 16.3 khớp với câu thứ nhất: SG&A giảm 1.560 trên 12.480, tức 12,5%, đúng bằng mức giảm doanh thu 6.500 trên 52.000. Như vậy đoạn "However" mô tả điều thường xảy ra ngoài thực tế, không phải điều có trong bảng. Nếu SG&A thực sự không giảm hết như vậy thì lợi nhuận ròng năm sau sẽ thấp hơn 2.192.
-> - **Kịch bản suy giảm không hoàn toàn là "ảnh gương" của kịch bản tăng trưởng**, dù Tracy nói "trong hầu hết các mặt" là vậy. Những dòng đối xứng: phải thu 625, tồn kho 1.056, chi phí trả trước 120, phải trả người bán 415. Những dòng không đối xứng: khấu hao tăng 95 khi tăng trưởng nhưng giữ nguyên (0) khi suy giảm; chi phí lãi vay tăng 35 nhưng chỉ giảm 25; chi phí thuế tăng 190 nhưng giảm 240; chi phí phải trả tăng 185 nhưng giảm 175; thuế thu nhập phải nộp tăng 15 nhưng giảm 45. Sách không giải thích các khác biệt này.
-> - **Người tổng hợp tái tạo được phần lớn con số trong Exhibit 16.2 và 16.3 từ các tỷ lệ hoạt động của Phần Một** (phải thu 5 tuần doanh thu; tồn kho 13 tuần giá vốn; chi phí trả trước 4 tuần SG&A; phải trả người bán 4 tuần giá vốn cộng 3 tuần SG&A; chi phí phải trả 6 tuần SG&A cộng phần lãi vay cộng dồn): 625, 1.056, 120, 415 và 185 đều khớp. Riêng hai con số không tái tạo được: chi phí phải trả giảm 175 trong kịch bản suy giảm (theo tỷ lệ phải khoảng 183) và thuế thu nhập phải nộp (thay đổi 15 và 45, trong khi tỷ lệ năm vừa qua 165/1.748 cho khoảng 18 và 23). Đây là phép tính của người tổng hợp, sách không trình bày cách tính các dòng này.
-> - **Phép cộng trừ trong ba Exhibit đều đúng:** Exhibit 16.1: 2.642 + 785 = 3.427. Exhibit 16.2: 6.500 − 4.225 − 1.560 − 95 − 35 − 190 = 395; 3.037 − 625 − 1.056 − 120 + 880 + 415 + 185 + 15 = 2.731. Exhibit 16.3: −6.500 + 4.225 + 1.560 + 0 + 25 + 240 = −450; 2.192 + 625 + 1.056 + 120 + 785 − 415 − 175 − 45 = 4.143. Chênh lệch 3.427 − 2.731 = 696 mà Tracy nêu cũng đúng.
-> - Trong kịch bản ổn định, Tracy viết báo cáo kết quả kinh doanh năm sau là "bản sao" của báo cáo trong Exhibit 12.2 (tức báo cáo kết quả kinh doanh năm vừa qua); bản tổng hợp chép lại các dòng cần dùng ở Mục 2.
-> - **Quy định đã khác so với lúc sách viết (theo hiểu biết của người tổng hợp, không tra cứu):** Tracy viết rằng chuẩn mực báo cáo tài chính không bắt doanh nghiệp giải thích chiến lược và vấn đề dòng tiền. Với công ty niêm yết ở Mỹ, phần thảo luận và phân tích của ban giám đốc (MD&A) theo quy định của SEC (Ủy ban Chứng khoán và Giao dịch Hoa Kỳ) từ trước năm 2009 đã yêu cầu bàn về thanh khoản và nguồn vốn, dù không nằm trong báo cáo tài chính; và từ khoảng năm 2016, chuẩn mực Mỹ (ASU 2014-15) buộc ban giám đốc tự đánh giá khả năng hoạt động liên tục (going concern) trong một năm tới và thuyết minh khi có nghi ngờ đáng kể. Thuế suất thuế thu nhập doanh nghiệp liên bang Mỹ đã giảm còn 21% từ năm 2018, nên tỷ lệ thuế khoảng 40% trong ví dụ không còn tiêu biểu. Wal-Mart nay mang tên Walmart Inc. (từ 2018).
-> - Các con số của ví dụ là giả định của Tracy, đơn vị nghìn USD trừ khi ghi khác.
+Tracy muốn người đọc hiểu rằng **dòng tiền từ lợi nhuận không đi cùng chiều với lợi nhuận khi quy mô kinh doanh thay đổi: tăng trưởng làm lợi nhuận tăng nhưng làm dòng tiền từ lợi nhuận giảm trong ngắn hạn, còn suy giảm làm lợi nhuận giảm nhưng lại giải phóng tiền**, vì khi doanh thu và chi phí đổi quy mô thì phải thu khách hàng, hàng tồn kho, chi phí trả trước và các khoản nợ hoạt động cũng đổi theo.
+
+Ví dụ trung tâm dùng doanh nghiệp ví dụ của cả cuốn sách với ba kịch bản cho năm sau (đơn vị nghìn USD):
+
+- **ổn định** — doanh thu giữ nguyên 52.000, lợi nhuận ròng 2.642, mọi tài sản và nợ hoạt động không đổi, nên dòng tiền từ lợi nhuận bằng lợi nhuận ròng cộng khấu hao 785, tức 3.427.
+- **tăng trưởng** — doanh thu tăng 6.500 (12,5%), lợi nhuận ròng tăng 395 (15%) lên 3.037, nhưng phải thu tăng 625 và tồn kho tăng 1.056 kéo dòng tiền từ lợi nhuận xuống chỉ còn 2.731, thấp hơn cả năm vừa qua (3.105) và thấp hơn kịch bản ổn định 696. Tracy gọi đây là "hình phạt dòng tiền của tăng trưởng" (cash flow growth penalty).
+- **suy giảm** — doanh thu giảm 6.500, lợi nhuận ròng giảm 450 xuống 2.192, nhưng phải thu, tồn kho, chi phí trả trước cùng giảm nên dòng tiền từ lợi nhuận lên tới 4.143, "hơn 4 triệu USD".
+
+Thông điệp kèm theo: cộng khấu hao vào lợi nhuận ròng chưa phải là dòng tiền thật. Doanh nghiệp tăng trưởng nhanh thường phải ngừng trả cổ tức. Doanh nghiệp thua lỗ có thể có dòng tiền âm và "tốc độ đốt tiền" (burn rate) quyết định nó sống được bao lâu.
 
 ## Sơ đồ
 
@@ -237,7 +234,9 @@
 
 Tracy nhắc lại điều đã giải thích ở Chương 13: đi từ lợi nhuận ròng (dòng cuối của báo cáo kết quả kinh doanh) tới dòng tiền mà lợi nhuận ròng mang lại (phần đầu tiên của báo cáo lưu chuyển tiền tệ). Dòng tiền của kỳ có thể cao hơn hoặc thấp hơn lợi nhuận ròng, vì ba lý do chính.
 
-**Thứ nhất, khấu hao và các chi phí, khoản lỗ không dùng tiền khác.** Doanh thu bù đắp cho doanh nghiệp các chi phí đã bỏ ra để bán hàng; lợi nhuận là phần doanh thu vượt chi phí. Khấu hao là một trong các chi phí đó: mỗi kỳ doanh nghiệp ghi khấu hao bằng cách ghi giảm nguyên giá nhà xưởng, máy móc, thiết bị (trừ đất). Việc ghi chi phí này không đi kèm khoản chi tiền nào, nên khấu hao được cộng lại vào lợi nhuận ròng khi tính dòng tiền. Ngoài khấu hao, doanh nghiệp có thể ghi các chi phí và khoản lỗ không dùng tiền khác, ví dụ chi phí phân bổ dần (amortization) để phản ánh việc tài sản vô hình mất giá trị, hay một khoản lỗ không được bảo hiểm xảy ra trong năm. Cả hai đều là ghi giảm tài sản và đều không làm giảm tiền, nên cũng được cộng lại như khấu hao.
+**Thứ nhất, khấu hao và các chi phí, khoản lỗ không dùng tiền khác.** Doanh thu bù đắp cho doanh nghiệp các chi phí đã bỏ ra để bán hàng; lợi nhuận là phần doanh thu vượt chi phí. Khấu hao là một trong các chi phí đó: mỗi kỳ doanh nghiệp ghi khấu hao bằng cách ghi giảm nguyên giá nhà xưởng, máy móc, thiết bị (trừ đất). Việc ghi chi phí này không đi kèm khoản chi tiền nào, nên khấu hao được cộng lại vào lợi nhuận ròng khi tính dòng tiền.
+
+Ngoài khấu hao, doanh nghiệp có thể ghi các chi phí và khoản lỗ không dùng tiền khác, ví dụ chi phí phân bổ dần (amortization) để phản ánh việc tài sản vô hình mất giá trị, hay một khoản lỗ không được bảo hiểm xảy ra trong năm. Cả hai đều là ghi giảm tài sản và đều không làm giảm tiền, nên cũng được cộng lại như khấu hao.
 
 **Thứ hai, thay đổi tài sản hoạt động** (phải thu khách hàng, hàng tồn kho, chi phí trả trước). Phải thu tăng làm tiền vào chậm lại; tồn kho và chi phí trả trước tăng đòi doanh nghiệp chi tiền. Ngược lại, phải thu giảm làm tiền vào nhanh hơn, và các tài sản hoạt động khác giảm thì tạo ra tiền: về thực chất doanh nghiệp đang rút ra một phần vốn đã đầu tư vào các tài sản này.
 
@@ -367,7 +366,7 @@ Câu nói "cái gì lên rồi cũng phải xuống" đúng với hầu hết do
 
 Kết quả lợi nhuận gần như luôn giảm khi suy giảm. Doanh nghiệp rất khó phản ứng với doanh thu sụt bằng cách cắt chi phí ngay, một phần vì doanh nghiệp gánh các chi phí cố định (fixed costs) không giảm được trong ngắn hạn khi khối lượng bán giảm; muốn giảm chúng phải tiến hành "đại phẫu". Vậy dòng tiền từ lợi nhuận (hoạt động kinh doanh) ra sao khi doanh thu giảm?
 
-Tracy viết trong một đoạn "Note" rằng trong Exhibit 16.3 chi phí SG&A giảm tương ứng với doanh thu; ông nói thêm rằng hầu hết doanh nghiệp gánh chi phí hoạt động cố định, có thể không giảm được ngay khi doanh thu bắt đầu giảm, và cần thêm thời gian để hạ dần. Đoạn tiếp theo lại viết rằng SG&A của công ty không giảm tương ứng với doanh thu, chủ yếu vì nhiều thành phần của nhóm chi phí này là cố định; dù doanh thu giảm một tỷ lệ đáng kể, doanh nghiệp không giảm ngay được nhiều chi phí cố định. (Số trong bảng khớp với đoạn thứ nhất: SG&A giảm 12,5% như doanh thu; xem khối Lưu ý.)
+Tracy viết trong một đoạn "Note" rằng trong Exhibit 16.3 chi phí SG&A giảm tương ứng với doanh thu; ông nói thêm rằng hầu hết doanh nghiệp gánh chi phí hoạt động cố định, có thể không giảm được ngay khi doanh thu bắt đầu giảm, và cần thêm thời gian để hạ dần. Đoạn tiếp theo lại viết rằng SG&A của công ty không giảm tương ứng với doanh thu, chủ yếu vì nhiều thành phần của nhóm chi phí này là cố định; dù doanh thu giảm một tỷ lệ đáng kể, doanh nghiệp không giảm ngay được nhiều chi phí cố định. (Số trong bảng khớp với đoạn thứ nhất: SG&A giảm 12,5% như doanh thu; xem mục Lưu ý cuối chương.)
 
 Lợi nhuận ròng dự kiến giảm 450.000 USD, xuống còn 2.192.000 USD. Đây là tin xấu. Nhưng dòng tiền từ lợi nhuận lại hơn 4 triệu USD. Tracy biết người đọc có thể thấy điều này đáng ngạc nhiên, thậm chí khó tin, nên ông giải thích.
 
@@ -486,7 +485,9 @@ Mỗi khoản mục của báo cáo kết quả kinh doanh gắn với một kho
 - Đừng chờ ban giám đốc tự giải thích vấn đề dòng tiền; người đọc phải tự phân tích.
 
 ### Trong ngôn ngữ kế toán và tài chính
-Chương này mô tả nhu cầu vốn lưu động (working capital) gắn với tăng trưởng: vốn lưu động hoạt động (phải thu + tồn kho + chi phí trả trước − phải trả người bán − chi phí phải trả − thuế phải nộp) tỷ lệ thuận với quy mô, nên phần tăng của nó là khoản đầu tư bắt buộc khi doanh thu tăng và là nguồn giải phóng tiền khi doanh thu giảm. Trong ví dụ, vốn lưu động hoạt động tăng 1.186 nghìn USD trong kịch bản tăng trưởng (1.801 − 615) và giảm 1.166 nghìn USD trong kịch bản suy giảm (1.801 − 635). Đây cũng là lý do giới phân tích dùng dòng tiền tự do (dòng tiền từ hoạt động kinh doanh trừ chi đầu tư) thay vì chỉ nhìn lợi nhuận, và dùng tốc độ đốt tiền để định giá rủi ro của doanh nghiệp chưa có lãi.
+Chương này mô tả nhu cầu vốn lưu động (working capital) gắn với tăng trưởng: vốn lưu động hoạt động (phải thu + tồn kho + chi phí trả trước − phải trả người bán − chi phí phải trả − thuế phải nộp) tỷ lệ thuận với quy mô, nên phần tăng của nó là khoản đầu tư bắt buộc khi doanh thu tăng và là nguồn giải phóng tiền khi doanh thu giảm. Trong ví dụ, vốn lưu động hoạt động tăng 1.186 nghìn USD trong kịch bản tăng trưởng (1.801 − 615) và giảm 1.166 nghìn USD trong kịch bản suy giảm (1.801 − 635).
+
+Đây cũng là lý do giới phân tích dùng dòng tiền tự do (dòng tiền từ hoạt động kinh doanh trừ chi đầu tư) thay vì chỉ nhìn lợi nhuận, và dùng tốc độ đốt tiền để định giá rủi ro của doanh nghiệp chưa có lãi.
 
 ## Thuật ngữ
 
@@ -553,7 +554,9 @@ Chương này mô tả nhu cầu vốn lưu động (working capital) gắn vớ
 Điểm mạnh nhất của chương là Tracy giữ nguyên doanh nghiệp ví dụ và các tỷ lệ hoạt động đã xây dựng suốt Phần Một, chỉ thay đổi một biến (mức doanh thu). Nhờ vậy người đọc thấy rõ một điều trái trực giác: thứ tự lợi nhuận (tăng trưởng 3.037 > ổn định 2.642 > suy giảm 2.192) đảo ngược hoàn toàn so với thứ tự dòng tiền (suy giảm 4.143 > ổn định 3.427 > tăng trưởng 2.731). Các mũi tên nối từng thay đổi trong báo cáo kết quả kinh doanh tới từng điều chỉnh dòng tiền cũng là cách trình bày rất hợp với chủ đề "mối nối" của cả cuốn sách. Ngoài ra, các con số này có thể tính lại được từ các tỷ lệ của Phần Một, nghĩa là bảng không phải số đặt tuỳ ý.
 
 ### Mô hình giữ mọi chi phí biến đổi theo doanh thu nên làm nhẹ đi tác động lên lợi nhuận khi suy giảm
-Trong Exhibit 16.3, giá vốn và SG&A đều giảm đúng 12,5% như doanh thu, nên lợi nhuận chỉ giảm 450 nghìn USD (17%). Chính Tracy viết ngay bên cạnh rằng thực tế SG&A có nhiều phần cố định và không giảm ngay được, và đoạn văn của ông tự mâu thuẫn ở điểm này. Nếu SG&A không giảm, lợi nhuận trước thuế sẽ giảm thêm 1.560 nghìn USD, lợi nhuận ròng năm sau có thể chỉ còn khoảng một nửa, và dòng tiền từ lợi nhuận cũng giảm theo, dù vẫn được hỗ trợ bởi phải thu và tồn kho thu hẹp (theo ước tính của người tổng hợp). Tương tự, trong kịch bản tăng trưởng, nếu một phần SG&A cố định thì lợi nhuận tăng nhiều hơn 15%. Chương 18 (đòn bẩy hoạt động, chi phí cố định và biến đổi) mới là nơi phân tích điều này; ở Chương 16, kết luận về hướng tác động lên dòng tiền vẫn đúng, nhưng độ lớn của tác động lên lợi nhuận bị đơn giản hoá.
+Trong Exhibit 16.3, giá vốn và SG&A đều giảm đúng 12,5% như doanh thu, nên lợi nhuận chỉ giảm 450 nghìn USD (17%). Chính Tracy viết ngay bên cạnh rằng thực tế SG&A có nhiều phần cố định và không giảm ngay được, và đoạn văn của ông tự mâu thuẫn ở điểm này.
+
+Nếu SG&A không giảm, lợi nhuận trước thuế sẽ giảm thêm 1.560 nghìn USD, lợi nhuận ròng năm sau có thể chỉ còn khoảng một nửa, và dòng tiền từ lợi nhuận cũng giảm theo, dù vẫn được hỗ trợ bởi phải thu và tồn kho thu hẹp (theo ước tính của người tổng hợp). Tương tự, trong kịch bản tăng trưởng, nếu một phần SG&A cố định thì lợi nhuận tăng nhiều hơn 15%. Chương 18 (đòn bẩy hoạt động, chi phí cố định và biến đổi) mới là nơi phân tích điều này; ở Chương 16, kết luận về hướng tác động lên dòng tiền vẫn đúng, nhưng độ lớn của tác động lên lợi nhuận bị đơn giản hoá.
 
 ### Kịch bản tăng trưởng chưa tính khoản tiền lớn hơn nhiều: đầu tư tài sản cố định
 Tracy tự nói bảng chỉ có phần hoạt động kinh doanh. Nhưng khấu hao tăng 95 nghìn USD cho thấy công ty định mua thêm tài sản cố định, và khoản chi đầu tư đó có thể lớn hơn cả phần dòng tiền bị hút vào vốn lưu động. Năm vừa qua, công ty đã chi 3.625 nghìn USD cho nhà xưởng, máy móc, thiết bị và tài sản vô hình, nhiều hơn toàn bộ dòng tiền từ hoạt động kinh doanh (3.105). Như vậy "hình phạt" thật của tăng trưởng, xét theo dòng tiền tự do, có thể lớn hơn mức 696 nghìn USD mà chương nêu. Người cho vay đánh giá doanh nghiệp tăng trưởng nên nhìn cả hai phần.
@@ -571,3 +574,168 @@ Tracy viết rằng thu hẹp quy mô nghĩa là ban giám đốc đã từ bỏ
 - **Người cho vay:** doanh nghiệp tăng trưởng nhanh, lãi tốt vẫn có thể cần vay thêm và có thể gặp khó khăn thanh khoản; ngược lại, dòng tiền mạnh của doanh nghiệp đang thu hẹp có thể không kéo dài khi phải thu và tồn kho đã giảm hết mức.
 - **Nhà đầu tư:** không nên kỳ vọng cổ tức tăng theo lợi nhuận ở doanh nghiệp tăng trưởng nhanh; với doanh nghiệp thua lỗ, cần xem lỗ đến từ ghi giảm tài sản hay từ hoạt động, và ước tính tốc độ đốt tiền so với lượng tiền đang có.
 - **Người đọc Việt Nam:** logic này áp dụng nguyên vẹn khi đọc báo cáo lưu chuyển tiền tệ lập theo phương pháp gián tiếp của doanh nghiệp trong nước: các dòng biến động phải thu, hàng tồn kho, phải trả trong phần hoạt động kinh doanh cho biết doanh nghiệp đang bỏ thêm tiền vào vốn lưu động (thường khi mở rộng) hay đang thu hồi về (thường khi thu hẹp), và giải thích vì sao một doanh nghiệp báo lãi lớn vẫn có thể có dòng tiền kinh doanh âm.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 16 trên một trang: sáu nhánh lớn đi theo các mục 1–6 trong phần Nội dung chi tiết (ba nguyên nhân dòng tiền khác lợi nhuận ròng, kịch bản ổn định, kịch bản tăng trưởng, kịch bản suy giảm, bảng so sánh ba kịch bản, thua lỗ và dòng tiền âm), mỗi nhánh ghi định nghĩa, phép tính và con số then chốt của doanh nghiệp ví dụ (nghìn USD); nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 16: tăng trưởng làm lợi nhuận tăng nhưng dòng tiền từ lợi nhuận giảm, suy giảm thì ngược lại`"]
+  n1["`Mục 1 — Ba nguyên nhân khiến dòng tiền từ lợi nhuận khác lợi nhuận ròng`"]
+  n0 --- n1
+  n2["`Khấu hao, phân bổ dần, lỗ ghi giảm tài sản không chi tiền nên được cộng lại vào lợi nhuận ròng`"]
+  n1 --- n2
+  n3["`Tài sản hoạt động (phải thu, tồn kho, chi phí trả trước) tăng thì trừ, giảm thì cộng`"]
+  n1 --- n3
+  n4["`Nợ hoạt động (phải trả người bán, chi phí phải trả, thuế phải nộp) tăng thì cộng, giảm thì trừ`"]
+  n1 --- n4
+  n5["`Cảnh báo: chỉ cộng khấu hao vào lợi nhuận ròng thì chưa ra dòng tiền thật`"]
+  n1 --- n5
+  n6["`Năm vừa qua: lợi nhuận ròng 2.642 nhưng dòng tiền từ lợi nhuận 3.105 nghìn USD`"]
+  n1 --- n6
+  n7["`Mục 2 — Kịch bản ổn định: doanh nghiệp #quot;con bò sữa#quot;`"]
+  n0 --- n7
+  n8["`Doanh thu 52.000, mọi chi phí và tỷ lệ hoạt động năm sau lặp lại năm vừa qua`"]
+  n7 --- n8
+  n9["`Phải thu bằng 5 tuần doanh thu (5.000), tồn kho bằng 13 tuần giá vốn (8.450)`"]
+  n7 --- n9
+  n10["`Mọi thay đổi tài sản và nợ hoạt động bằng 0`"]
+  n7 --- n10
+  n11["`Dòng tiền = lợi nhuận ròng 2.642 + khấu hao 785 = 3.427 nghìn USD`"]
+  n7 --- n11
+  n12["`Khấu hao nổi bật hẳn: được trừ khi tính lợi nhuận nhưng không tốn tiền trong kỳ`"]
+  n7 --- n12
+  n13["`Doanh thu đứng yên mà kỳ thu tiền trôi lên 6 tuần thì phải thu tăng, dòng tiền giảm`"]
+  n7 --- n13
+  n14["`Con bò sữa: mỗi kỳ cho đều một lượng tiền bằng lợi nhuận ròng cộng khấu hao`"]
+  n7 --- n14
+  n15["`Khấu hao thu hồi là nguồn thay tài sản cố định, nhưng lạm phát làm tài sản mới đắt hơn`"]
+  n7 --- n15
+  n16["`Mục 3 — Tăng trưởng 12,5%: hình phạt dòng tiền của tăng trưởng`"]
+  n0 --- n16
+  n17["`Dự toán: doanh thu +6.500, giá vốn +4.225, SG#amp;A +1.560, khấu hao +95, lãi vay +35, thuế +190`"]
+  n16 --- n17
+  n18["`Lợi nhuận ròng tăng 395 (15%), từ 2.642 lên 3.037`"]
+  n16 --- n18
+  n19["`Giữ nguyên tỷ lệ: tồn kho tăng 4.225 × 13/52 = 1.056, phải thu tăng 6.500 × 5/52 = 625`"]
+  n16 --- n19
+  n20["`Chi phí trả trước +120, phải trả người bán +415, chi phí phải trả +185, thuế phải nộp +15`"]
+  n16 --- n20
+  n21["`Khấu hao cộng lại 785 + 95 = 880 vì công ty mua thêm tài sản cố định`"]
+  n16 --- n21
+  n22["`Dòng tiền chỉ còn 2.731: thấp hơn năm vừa qua 3.105 và thấp hơn kịch bản ổn định 696`"]
+  n16 --- n22
+  n23["`Tài sản hoạt động tăng 1.801, nợ hoạt động tăng chỉ bù được 615`"]
+  n22 --- n23
+  n24["`Cách tính gọn 3.037 + 880 = 3.917 cao hơn hẳn dòng tiền thật 2.731`"]
+  n22 --- n24
+  n25["`Tăng trưởng không có bữa trưa miễn phí khi xét về dòng tiền`"]
+  n16 --- n25
+  n26["`Cổ đông mong cổ tức tăng 15% theo lợi nhuận có thể thất vọng`"]
+  n16 --- n26
+  n27["`Giai đoạn tăng trưởng nhanh, đa số công ty ngừng trả cổ tức, giữ lại toàn bộ lợi nhuận để tái đầu tư`"]
+  n16 --- n27
+  n28["`Cải thiện tỷ lệ hoạt động giúp dòng tiền, nhưng lúc tăng trưởng tỷ lệ thường xấu đi (nới bán chịu, thêm hàng)`"]
+  n16 --- n28
+  n29["`Bảng chỉ có phần hoạt động kinh doanh, chưa có chi đầu tư tài sản cố định và cổ tức`"]
+  n16 --- n29
+  n30["`Mục 4 — Suy giảm 12,5%: phần thưởng dòng tiền từ suy giảm`"]
+  n0 --- n30
+  n31["`Ít doanh nghiệp tăng trưởng mãi: Wal-Mart là ngoại lệ, McDonald's cũng từng chững lại`"]
+  n30 --- n31
+  n32["`Lợi nhuận gần như luôn giảm vì chi phí cố định không cắt được trong ngắn hạn`"]
+  n30 --- n32
+  n33["`Dự toán: doanh thu −6.500, giá vốn −4.225, SG#amp;A −1.560, khấu hao giữ nguyên, lãi vay −25, thuế −240`"]
+  n30 --- n33
+  n34["`Lợi nhuận ròng giảm 450, từ 2.642 xuống 2.192`"]
+  n30 --- n34
+  n35["`Phải thu −625, tồn kho −1.056, chi phí trả trước −120: cộng vào lợi nhuận ròng`"]
+  n30 --- n35
+  n36["`Phải trả người bán −415, chi phí phải trả −175, thuế phải nộp −45: trừ khỏi lợi nhuận ròng`"]
+  n30 --- n36
+  n37["`Dòng tiền lên 4.143, hơn 4 triệu USD, cao hơn kịch bản ổn định 716 và tăng trưởng 1.412`"]
+  n30 --- n37
+  n38["`Dùng tiền dôi ra để trả bớt nợ có lãi hoặc mua lại một phần cổ phiếu`"]
+  n30 --- n38
+  n39["`Suy giảm lâu dài: quy mô nhỏ hơn cần ít tài sản, ít vốn vay và vốn chủ hơn`"]
+  n30 --- n39
+  n40["`Tracy: thu hẹp, sa thải nhân viên lâu năm nghĩa là ban giám đốc đã bỏ cuộc`"]
+  n30 --- n40
+  n41["`Bảng so sánh ba kịch bản (cuối Mục 4) — thứ tự lợi nhuận và thứ tự dòng tiền đảo ngược`"]
+  n0 --- n41
+  n42["`Lợi nhuận ròng: tăng trưởng 3.037 #gt; ổn định 2.642 #gt; suy giảm 2.192`"]
+  n41 --- n42
+  n43["`Dòng tiền: suy giảm 4.143 #gt; ổn định 3.427 #gt; tăng trưởng 2.731`"]
+  n41 --- n43
+  n44["`Dòng tiền trừ lợi nhuận ròng: năm vừa qua 463, ổn định 785, tăng trưởng −306, suy giảm 1.951`"]
+  n41 --- n44
+  n45["`Vốn lưu động hoạt động tăng 1.186 khi tăng trưởng, giảm 1.166 khi suy giảm`"]
+  n41 --- n45
+  n46["`Suy giảm không hẳn là ảnh gương: khấu hao, lãi vay, thuế, chi phí phải trả lệch nhau`"]
+  n41 --- n46
+  n47["`Mô hình cho SG#amp;A giảm đúng 12,5% nên làm nhẹ tác động lên lợi nhuận khi suy giảm`"]
+  n41 --- n47
+  n48["`Mục 5–6 — Thua lỗ, dòng tiền âm và tốc độ đốt tiền`"]
+  n0 --- n48
+  n49["`Lỗ ròng 10 triệu USD không có nghĩa tiền giảm 10 triệu USD`"]
+  n48 --- n49
+  n50["`Lỗ do ghi giảm tài sản, như suy giảm giá trị lợi thế thương mại, không tốn tiền`"]
+  n48 --- n50
+  n51["`Lúc sách viết, nhiều tổ chức tài chính ghi giảm lớn khoản cho vay thế chấp nhà dưới chuẩn`"]
+  n48 --- n51
+  n52["`Lỗ không do ghi giảm: tiền chi cho chi phí vượt tiền thu, dòng tiền rất có thể âm`"]
+  n48 --- n52
+  n53["`Tốc độ đốt tiền ước tính doanh nghiệp sống được bao lâu nếu không được bơm vốn lớn`"]
+  n48 --- n53
+  n54["`Doanh nghiệp khởi nghiệp thường dòng tiền âm vài năm đầu, nhiều nơi đốt tiền quá nhanh nên không trụ nổi`"]
+  n48 --- n54
+  n55["`Chuẩn mực không buộc ban giám đốc giải thích vấn đề dòng tiền: người đọc tự dùng chỉ số ở Chương 17`"]
+  n48 --- n55
+  n56["`Thông điệp xuyên suốt`"]
+  n0 --- n56
+  n57["`Đừng đánh đồng lợi nhuận tăng với tiền nhiều hơn`"]
+  n56 --- n57
+  n58["`Dòng tiền cao lúc doanh thu giảm là vốn rút ra khỏi tài sản hoạt động, không phải dấu hiệu khỏe mạnh`"]
+  n56 --- n58
+  n59["`Tính cả chi đầu tư thì hình phạt của tăng trưởng lớn hơn 696: năm vừa qua chi 3.625, hơn dòng tiền 3.105`"]
+  n56 --- n59
+  n60["`Nhà quản lý phải dự toán nhu cầu vốn lưu động và chuẩn bị nguồn tài trợ trước khi tăng trưởng`"]
+  n56 --- n60
+  class n0 root
+  class n1,n7,n16,n30,n41,n48,n56 branch
+  class n2,n3,n4,n5,n6,n8,n9,n10,n11,n12,n13,n14,n15,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n27,n28,n29,n31,n32,n33,n34,n35,n36,n37,n38,n39,n40,n42,n43,n44,n45,n46,n47,n49,n50,n51,n52,n53,n54,n55,n57,n58,n59,n60 leaf
+```
+
+## Nguồn
+
+John A. Tracy, *How to Read a Financial Report: Wringing Vital Signs Out of the Numbers*, ấn bản thứ bảy (John Wiley & Sons, 2009), Phần Hai "Financial Statement Analysis", Chương 16 "Impact of Growth and Decline on Cash Flow", trang in 111–122 (trang in 109–110 là trang tên Phần Hai; trang in 111 là trang tên chương).
+
+## Tác giả
+
+John A. Tracy, giáo sư kế toán danh dự Đại học Colorado ở Boulder, kế toán viên công chứng (CPA).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phần Một (Chương 1–15) đã dựng xong ba báo cáo tài chính của doanh nghiệp ví dụ (doanh thu 52 triệu USD/năm) và lần lượt chỉ ra mối nối giữa từng khoản mục của báo cáo kết quả kinh doanh với một khoản mục của bảng cân đối kế toán; [Chương 13](C13-dong-tien-tu-hoat-dong-kinh-doanh.md) giải thích vì sao dòng tiền từ hoạt động kinh doanh năm vừa qua (3.105 nghìn USD) khác lợi nhuận ròng (2.642 nghìn USD), và [Chương 14](C14-dong-tien-tu-hoat-dong-dau-tu-va-tai-chinh.md) bàn phần đầu tư và tài chính của báo cáo lưu chuyển tiền tệ.
+
+Chương 16 mở đầu Phần Hai "Phân tích báo cáo tài chính" (Financial Statement Analysis): thay vì nhìn lại năm đã qua, Tracy nhìn **tới năm sau** và dùng chính các tỷ lệ hoạt động đã xây ở Chương 4–11 (phải thu bằng 5 tuần doanh thu, tồn kho bằng 13 tuần giá vốn, v.v.) để dự báo dòng tiền từ lợi nhuận trong ba kịch bản: doanh thu đứng yên, tăng 12,5% và giảm 12,5%; cuối chương thêm trường hợp thua lỗ.
+
+[Chương 17](C17-cac-chi-so-tai-chinh.md) tiếp theo trình bày các chỉ số tài chính giúp người cho vay và nhà đầu tư phát hiện vấn đề về khả năng thanh khoản và khả năng trả nợ, đúng loại vấn đề mà chương này cho thấy có thể nảy sinh khi doanh nghiệp tăng trưởng nhanh hoặc thua lỗ. [Chương 18](C18-phan-tich-loi-nhuan-cho-nha-quan-ly.md) đi sâu vào chi phí cố định, chi phí biến đổi, thứ mà chương này mới chỉ nhắc tới khi nói về suy giảm.
+
+## Lưu ý
+
+- **Lỗi đánh máy:** trang in 115, Tracy viết khoản khấu hao cộng lại năm sau là "$785,000 + $95,000 = $880,00"; đúng phải là 880.000 USD.
+- **Mâu thuẫn trong lời giải thích kịch bản suy giảm (trang in 118):** đoạn "Note" viết rằng trong Exhibit 16.3 chi phí SG&A giảm **tương ứng** (proportionally) với doanh thu; ngay đoạn sau (bắt đầu bằng "However") lại viết chi phí SG&A **không** giảm tương ứng với doanh thu vì nhiều thành phần là chi phí cố định. Số trong Exhibit 16.3 khớp với câu thứ nhất: SG&A giảm 1.560 trên 12.480, tức 12,5%, đúng bằng mức giảm doanh thu 6.500 trên 52.000. Như vậy đoạn "However" mô tả điều thường xảy ra ngoài thực tế, không phải điều có trong bảng. Nếu SG&A thực sự không giảm hết như vậy thì lợi nhuận ròng năm sau sẽ thấp hơn 2.192.
+- **Kịch bản suy giảm không hoàn toàn là "ảnh gương" của kịch bản tăng trưởng**, dù Tracy nói "trong hầu hết các mặt" là vậy. Những dòng đối xứng: phải thu 625, tồn kho 1.056, chi phí trả trước 120, phải trả người bán 415. Những dòng không đối xứng: khấu hao tăng 95 khi tăng trưởng nhưng giữ nguyên (0) khi suy giảm; chi phí lãi vay tăng 35 nhưng chỉ giảm 25; chi phí thuế tăng 190 nhưng giảm 240; chi phí phải trả tăng 185 nhưng giảm 175; thuế thu nhập phải nộp tăng 15 nhưng giảm 45. Sách không giải thích các khác biệt này.
+- **Người tổng hợp tái tạo được phần lớn con số trong Exhibit 16.2 và 16.3 từ các tỷ lệ hoạt động của Phần Một** (phải thu 5 tuần doanh thu; tồn kho 13 tuần giá vốn; chi phí trả trước 4 tuần SG&A; phải trả người bán 4 tuần giá vốn cộng 3 tuần SG&A; chi phí phải trả 6 tuần SG&A cộng phần lãi vay cộng dồn): 625, 1.056, 120, 415 và 185 đều khớp. Riêng hai con số không tái tạo được: chi phí phải trả giảm 175 trong kịch bản suy giảm (theo tỷ lệ phải khoảng 183) và thuế thu nhập phải nộp (thay đổi 15 và 45, trong khi tỷ lệ năm vừa qua 165/1.748 cho khoảng 18 và 23). Đây là phép tính của người tổng hợp, sách không trình bày cách tính các dòng này.
+- **Phép cộng trừ trong ba Exhibit đều đúng:** Exhibit 16.1: 2.642 + 785 = 3.427. Exhibit 16.2: 6.500 − 4.225 − 1.560 − 95 − 35 − 190 = 395; 3.037 − 625 − 1.056 − 120 + 880 + 415 + 185 + 15 = 2.731. Exhibit 16.3: −6.500 + 4.225 + 1.560 + 0 + 25 + 240 = −450; 2.192 + 625 + 1.056 + 120 + 785 − 415 − 175 − 45 = 4.143. Chênh lệch 3.427 − 2.731 = 696 mà Tracy nêu cũng đúng.
+- Trong kịch bản ổn định, Tracy viết báo cáo kết quả kinh doanh năm sau là "bản sao" của báo cáo trong Exhibit 12.2 (tức báo cáo kết quả kinh doanh năm vừa qua); bản tổng hợp chép lại các dòng cần dùng ở Mục 2.
+- **Quy định đã khác so với lúc sách viết (theo hiểu biết của người tổng hợp, không tra cứu):** Tracy viết rằng chuẩn mực báo cáo tài chính không bắt doanh nghiệp giải thích chiến lược và vấn đề dòng tiền. Với công ty niêm yết ở Mỹ, phần thảo luận và phân tích của ban giám đốc (MD&A) theo quy định của SEC (Ủy ban Chứng khoán và Giao dịch Hoa Kỳ) từ trước năm 2009 đã yêu cầu bàn về thanh khoản và nguồn vốn, dù không nằm trong báo cáo tài chính; và từ khoảng năm 2016, chuẩn mực Mỹ (ASU 2014-15) buộc ban giám đốc tự đánh giá khả năng hoạt động liên tục (going concern) trong một năm tới và thuyết minh khi có nghi ngờ đáng kể.
+
+  Thuế suất thuế thu nhập doanh nghiệp liên bang Mỹ đã giảm còn 21% từ năm 2018, nên tỷ lệ thuế khoảng 40% trong ví dụ không còn tiêu biểu. Wal-Mart nay mang tên Walmart Inc. (từ 2018).
+- Các con số của ví dụ là giả định của Tracy, đơn vị nghìn USD trừ khi ghi khác.
