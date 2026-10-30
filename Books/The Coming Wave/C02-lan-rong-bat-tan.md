@@ -1,23 +1,18 @@
 # Chương 2 — Lan rộng bất tận (Endless Proliferation)
 
-**Nguồn:** Mustafa Suleyman với Michael Bhaskar, *The Coming Wave: Technology, Power, and the Twenty-First Century's Greatest Dilemma* (Crown, Penguin Random House, 2023), bản ebook tiếng Anh: trang mở Phần I "Homo Technologicus" (trang PDF 34) và Chương 2 "Endless Proliferation", trang PDF 35–47; chú thích cuối sách của chương ở trang PDF 312–318.
-**Tác giả:** Mustafa Suleyman là đồng sáng lập DeepMind và Inflection AI (Chương 4 gọi Inflection AI là "công ty mới của tôi"); Michael Bhaskar là đồng tác giả (theo hiểu biết của người tổng hợp, Bhaskar là nhà văn và người làm xuất bản, còn Suleyman là CEO của Inflection AI lúc viết sách).
-**Vị trí trong lập luận của cả cuốn sách:** Chương 1 ([C01-khong-the-khong-che.md](C01-khong-the-khong-che.md)) báo trước rằng Phần I sẽ nhìn lại lịch sử dài của công nghệ để xem công nghệ lan rộng thế nào. Chương 2 mở Phần I và làm vế thứ nhất của lập luận: trong lịch sử, sự lan rộng (proliferation) là trạng thái mặc định của mọi công nghệ đa mục đích (general-purpose technology). Chương 3 ([C03-bai-toan-khong-che.md](C03-bai-toan-khong-che.md)) làm vế thứ hai: vì công nghệ lan rộng như vậy nên hậu quả của nó vượt khỏi tầm tay người tạo ra nó, và con người gần như chưa bao giờ khống chế (containment) được một làn sóng công nghệ. Phần II, bắt đầu từ Chương 4 ([C04-cong-nghe-cua-tri-tue.md](C04-cong-nghe-cua-tri-tue.md)) và Chương 5 ([C05-cong-nghe-cua-su-song.md](C05-cong-nghe-cua-su-song.md)), áp khuôn mẫu lịch sử này vào làn sóng sắp tới (the coming wave) của AI và sinh học tổng hợp; Chương 7 ([C07-bon-dac-diem-cua-lan-song.md](C07-bon-dac-diem-cua-lan-song.md)) giải thích vì sao làn sóng mới còn khó khống chế hơn; Chương 8 ([C08-nhung-dong-luc-khong-the-can.md](C08-nhung-dong-luc-khong-the-can.md)) phân tích các động lực khiến nó không thể dừng.
-**Ý chính:** **Suleyman cho rằng lịch sử loài người có thể kể như một chuỗi làn sóng (waves) công nghệ, mỗi làn sóng do một hay vài công nghệ đa mục đích dẫn dắt, và một khi đã có đà thì làn sóng gần như luôn lan ra khắp nơi: sự lan rộng là trạng thái mặc định của công nghệ.** Chương mở bằng câu chuyện động cơ đốt trong: từ xe hơi nước của Cugnot (khoảng 3 km/giờ), động cơ bốn kỳ của Otto (1876), Motorwagen của Benz (1886, đến 1900 mới bán 1.709 chiếc) tới Model T của Ford (1908, giá 850 USD so với khoảng 2.000 USD của xe khác); tỷ lệ người Mỹ có xe tăng từ 10% (1915) lên 59% (1930), và nay thế giới có khoảng 2 tỷ động cơ đốt trong, 1,4 tỷ trong số đó nằm trong ô tô. Một nghiên cứu lớn chỉ đếm được 24 công nghệ đa mục đích trong toàn bộ lịch sử, nhưng nhịp xuất hiện tăng dần: 7 trong mười nghìn năm tới năm 1000 TCN, 6 trong hai trăm năm 1700–1900, 7 trong một trăm năm gần nhất. Hai lực đẩy sự lan rộng là nhu cầu và chi phí giảm, cộng với việc bắt chước: máy in từ một chiếc (1440) thành một nghìn chiếc sau 50 năm và làm giá sách giảm 340 lần; điện từ 8 TWh (1900) lên 600 TWh (1950); điện thoại ở Mỹ từ 600.000 (1900) lên 5,8 triệu (1910). Máy tính là trường hợp lan rộng nhanh nhất: số transistor trên một chip tăng mười triệu lần từ đầu thập niên 1970, transistor nay được sản xuất hàng chục nghìn tỷ chiếc mỗi giây với giá phần tỷ đô la một chiếc, và thế giới có khoảng 14 tỷ thiết bị kết nối. Chương kết bằng câu hỏi bỏ ngỏ: liệu tương lai có lặp lại khuôn mẫu ấy không.
+## Ý chính
 
-> **Lưu ý:**
-> - **Chú thích cuối sách không đánh số** trong ebook; mỗi chú thích mở đầu bằng cụm từ trong lời văn. Bản tổng hợp đặt nội dung của chú thích vào đúng chỗ theo cụm từ đó. Phần lớn chú thích của chương này chỉ ghi nguồn; vài chú thích bổ sung ý (định nghĩa công nghệ, chiều ngược lại giữa khoa học và công nghệ, cối xay gió, cách đếm điện thoại) được đưa vào lời văn và ghi "(theo chú thích của sách)".
-> - **Ba con số về công nghệ đa mục đích cộng lại không đủ 24.** Lời văn nêu 7 (tới năm 1000 TCN), 6 (1700–1900) và 7 (một trăm năm gần nhất), tổng là 20. Chú thích của sách giải thích 4 công nghệ còn lại xuất hiện giữa năm 1000 TCN và năm 1700. Như vậy con số 24 là nhất quán.
-> - **"10 phần trăm người Mỹ có xe" (trang PDF 36):** theo hiểu biết của người tổng hợp, con số 10% năm 1915 và 59% năm 1930 nhiều khả năng là tỷ lệ *hộ gia đình* có ô tô chứ không phải tỷ lệ *người*; năm 1915 nước Mỹ có khoảng 2–2,5 triệu xe cho khoảng 100 triệu dân, tức chỉ khoảng 2–3 xe trên 100 người. Ý của sách (ô tô lan rộng rất nhanh) không đổi.
-> - **ENIAC "ba trăm phép tính mỗi giây" (trang PDF 44):** theo hiểu biết của người tổng hợp, ENIAC thường được mô tả làm được khoảng 5.000 phép cộng mỗi giây; con số khoảng 300–360 là số phép *nhân* mỗi giây. Con số "mười tám nghìn đèn chân không" là con số làm tròn (thường ghi khoảng 17.500 đèn).
-> - **Định luật Moore (trang PDF 45):** sách ghi Moore đề xuất số transistor trên chip tăng gấp đôi sau mỗi 24 tháng. Theo hiểu biết của người tổng hợp, năm 1965 Moore dự báo gấp đôi mỗi năm, đến năm 1975 ông sửa thành mỗi hai năm; Moore cũng không chỉ là "một nhà nghiên cứu" mà là đồng sáng lập Fairchild Semiconductor và Intel. Sách cũng chỉ nhắc Robert Noyce; theo hiểu biết của người tổng hợp, Jack Kilby ở Texas Instruments đã độc lập làm ra mạch tích hợp năm 1958.
-> - **"Mười bậc độ lớn, tức cải thiện mười bảy tỷ lần" (trang PDF 45):** mười bậc độ lớn là 10 tỷ lần; 17 tỷ lần là khoảng 10,2 bậc. Đây là cách nói làm tròn, không phải mâu thuẫn (nhận xét của người tổng hợp).
-> - **Bletchley Park:** sách nói Bletchley "lần đầu hiện thực hoá một chiếc máy tính thật sự" mà không nêu tên. Theo hiểu biết của người tổng hợp, đó là các máy Colossus (1943–1944), máy tính điện tử lập trình được dùng để giải mã điện báo Lorenz của bộ chỉ huy Đức; máy giải Enigma là máy cơ điện "Bombe". Sách gộp hai việc này vào câu "chạy đua phá máy Enigma".
-> - **Câu nói của Thomas J. Watson** ("thế giới chỉ cần khoảng năm chiếc máy tính") được sách ghi rõ là "được cho là" (allegedly). Theo hiểu biết của người tổng hợp, chưa ai tìm được bằng chứng Watson từng nói câu này.
-> - **Chuyến đi của Bertha Benz:** sách không ghi năm. Theo hiểu biết của người tổng hợp, chuyến đi diễn ra tháng 8 năm 1888.
-> - **"Động cơ đốt trong đang ở buổi hoàng hôn nhờ động cơ điện và hydro" (trang PDF 37):** đây là nhận định của Suleyman năm 2023. Xem mục Đánh giá về tình hình tới năm 2026.
-> - **Quy đổi đơn vị:** sách dùng dặm và tấn Mỹ; các con số km, kg trong ngoặc là quy đổi của người tổng hợp (1 dặm khoảng 1,61 km).
-> - **Phân biệt "diffusion" và "proliferation":** theo chú thích của sách, giới nghiên cứu phân biệt hai khái niệm này, nhưng sách dùng chúng theo nghĩa thông thường và gần như thay cho nhau. Bản tổng hợp dịch "proliferation" là *sự lan rộng* và "diffusion" là *sự lan toả*.
+**Suleyman cho rằng lịch sử loài người có thể kể như một chuỗi làn sóng (waves) công nghệ, mỗi làn sóng do một hay vài công nghệ đa mục đích dẫn dắt, và một khi đã có đà thì làn sóng gần như luôn lan ra khắp nơi: sự lan rộng là trạng thái mặc định của công nghệ.**
+
+Chương mở bằng câu chuyện động cơ đốt trong: từ xe hơi nước của Cugnot (khoảng 3 km/giờ), động cơ bốn kỳ của Otto (1876), Motorwagen của Benz (1886, đến 1900 mới bán 1.709 chiếc) tới Model T của Ford (1908, giá 850 USD so với khoảng 2.000 USD của xe khác). Tỷ lệ người Mỹ có xe tăng từ 10% (1915) lên 59% (1930), và nay thế giới có khoảng 2 tỷ động cơ đốt trong, 1,4 tỷ trong số đó nằm trong ô tô.
+
+Một nghiên cứu lớn chỉ đếm được 24 công nghệ đa mục đích trong toàn bộ lịch sử, nhưng nhịp xuất hiện tăng dần: 7 trong mười nghìn năm tới năm 1000 TCN, 6 trong hai trăm năm 1700–1900, 7 trong một trăm năm gần nhất.
+
+Hai lực đẩy sự lan rộng là nhu cầu và chi phí giảm, cộng với việc bắt chước: máy in từ một chiếc (1440) thành một nghìn chiếc sau 50 năm và làm giá sách giảm 340 lần. Điện từ 8 TWh (1900) lên 600 TWh (1950). Điện thoại ở Mỹ từ 600.000 (1900) lên 5,8 triệu (1910).
+
+Máy tính là trường hợp lan rộng nhanh nhất: số transistor trên một chip tăng mười triệu lần từ đầu thập niên 1970, transistor nay được sản xuất hàng chục nghìn tỷ chiếc mỗi giây với giá phần tỷ đô la một chiếc, và thế giới có khoảng 14 tỷ thiết bị kết nối.
+
+Chương kết bằng câu hỏi bỏ ngỏ: liệu tương lai có lặp lại khuôn mẫu ấy không.
 
 ## Sơ đồ
 
@@ -339,7 +334,9 @@ Giấc mơ về phương tiện tự hành cá nhân vẫn còn đó dù chưa t
 | Benz bán được tới năm 1900 | 1.709 xe |
 | Xe trên đường ở Đức, hai mươi năm sau bằng sáng chế của Benz (khoảng 1906) | 35.000 xe |
 
-**Ford Model T: bước ngoặt.** Bước ngoặt là chiếc Model T của Henry Ford năm 1908. Chiếc xe đơn giản mà hiệu quả này được làm bằng một cách mới mang tính cách mạng: dây chuyền lắp ráp di động. Quy trình hiệu quả, tuyến tính và lặp lại cho phép Ford hạ mạnh giá xe, và người mua kéo tới. Phần lớn xe thời đó giá khoảng 2.000 USD; Ford bán Model T giá 850 USD. Những năm đầu, Model T bán được vài nghìn chiếc. Ford tiếp tục tăng sản lượng và giảm giá, với lập luận: "Mỗi lần tôi giảm giá xe một đô la, tôi có thêm một nghìn người mua mới." Tới thập niên 1920, Ford bán hàng triệu xe mỗi năm, và lần đầu tiên tầng lớp trung lưu Mỹ mua được phương tiện có động cơ. Ô tô lan rộng với tốc độ khổng lồ:
+**Ford Model T: bước ngoặt.** Bước ngoặt là chiếc Model T của Henry Ford năm 1908. Chiếc xe đơn giản mà hiệu quả này được làm bằng một cách mới mang tính cách mạng: dây chuyền lắp ráp di động. Quy trình hiệu quả, tuyến tính và lặp lại cho phép Ford hạ mạnh giá xe, và người mua kéo tới. Phần lớn xe thời đó giá khoảng 2.000 USD; Ford bán Model T giá 850 USD.
+
+Những năm đầu, Model T bán được vài nghìn chiếc. Ford tiếp tục tăng sản lượng và giảm giá, với lập luận: "Mỗi lần tôi giảm giá xe một đô la, tôi có thêm một nghìn người mua mới." Tới thập niên 1920, Ford bán hàng triệu xe mỗi năm, và lần đầu tiên tầng lớp trung lưu Mỹ mua được phương tiện có động cơ. Ô tô lan rộng với tốc độ khổng lồ:
 
 | Năm | Tỷ lệ người Mỹ có ô tô (theo cách ghi của sách) |
 |---|---|
@@ -354,7 +351,11 @@ Suleyman kết đoạn: đây không chỉ là chuyện động cơ và ô tô, 
 
 ### 3. General-Purpose Waves: The Rhythm of History — Các làn sóng đa mục đích: nhịp điệu của lịch sử (trang PDF 37–42)
 
-**Quỹ đạo tất yếu.** Suleyman khẳng định công nghệ có một quỹ đạo rõ ràng và tất yếu: lan toả đại trà thành những làn sóng lớn cuộn trào. Điều này đúng từ công cụ đá lửa và xương đầu tiên tới các mô hình AI mới nhất. Khi khoa học có phát hiện mới, con người dùng chúng để làm ra thức ăn rẻ hơn, hàng hoá tốt hơn, giao thông hiệu quả hơn. Theo thời gian, nhu cầu với sản phẩm và dịch vụ tốt nhất tăng lên, thúc đẩy cạnh tranh để làm ra phiên bản rẻ hơn với nhiều tính năng hơn. Điều này lại làm tăng nhu cầu với chính các công nghệ tạo ra sản phẩm, và các công nghệ đó cũng trở nên dễ dùng và rẻ hơn. Chi phí tiếp tục giảm, năng lực tiếp tục tăng: thử nghiệm, lặp lại, sử dụng; phát triển, cải tiến, thích nghi. Suleyman gọi đó là bản chất tiến hoá không thể tránh của công nghệ. Theo chú thích của sách, quan hệ này cũng chạy theo chiều ngược lại: công nghệ tạo ra công cụ và hiểu biết thúc đẩy khoa học, như máy hơi nước làm rõ nhu cầu về ngành nhiệt động lực học, hay kỹ thuật làm kính tinh xảo tạo ra kính thiên văn làm thay đổi hiểu biết về vũ trụ.
+**Quỹ đạo tất yếu.** Suleyman khẳng định công nghệ có một quỹ đạo rõ ràng và tất yếu: lan toả đại trà thành những làn sóng lớn cuộn trào. Điều này đúng từ công cụ đá lửa và xương đầu tiên tới các mô hình AI mới nhất. Khi khoa học có phát hiện mới, con người dùng chúng để làm ra thức ăn rẻ hơn, hàng hoá tốt hơn, giao thông hiệu quả hơn.
+
+Theo thời gian, nhu cầu với sản phẩm và dịch vụ tốt nhất tăng lên, thúc đẩy cạnh tranh để làm ra phiên bản rẻ hơn với nhiều tính năng hơn. Điều này lại làm tăng nhu cầu với chính các công nghệ tạo ra sản phẩm, và các công nghệ đó cũng trở nên dễ dùng và rẻ hơn. Chi phí tiếp tục giảm, năng lực tiếp tục tăng: thử nghiệm, lặp lại, sử dụng; phát triển, cải tiến, thích nghi. Suleyman gọi đó là bản chất tiến hoá không thể tránh của công nghệ.
+
+Theo chú thích của sách, quan hệ này cũng chạy theo chiều ngược lại: công nghệ tạo ra công cụ và hiểu biết thúc đẩy khoa học, như máy hơi nước làm rõ nhu cầu về ngành nhiệt động lực học, hay kỹ thuật làm kính tinh xảo tạo ra kính thiên văn làm thay đổi hiểu biết về vũ trụ.
 
 Các làn sóng công nghệ và đổi mới nằm ở trung tâm cuốn sách, và quan trọng hơn, ở trung tâm lịch sử loài người. Suleyman viết rằng hiểu các làn sóng phức tạp, hỗn loạn và tích luỹ này thì sẽ thấy rõ thách thức khống chế; hiểu lịch sử của chúng thì có thể bắt đầu phác hoạ tương lai của chúng.
 
@@ -363,13 +364,19 @@ Các làn sóng công nghệ và đổi mới nằm ở trung tâm cuốn sách,
 **Con người tiến hoá cùng công nghệ.** Câu chuyện loài người có thể kể qua các làn sóng này: từ một loài linh trưởng yếu ớt chật vật sinh tồn trên thảo nguyên, con người trở thành lực lượng thống trị hành tinh, dù tốt hay xấu. Con người là loài công nghệ bẩm sinh; ngay từ đầu, ta chưa bao giờ tách khỏi các làn sóng công nghệ mình tạo ra, mà tiến hoá cùng chúng theo kiểu cộng sinh.
 
 - **Công cụ đá.** Công cụ đá sớm nhất có niên đại 3 triệu năm, trước cả khi Homo sapiens xuất hiện, với bằng chứng là những hòn đá đập bị mòn và những con dao thô sơ. Chiếc rìu tay đơn giản là một phần của làn sóng công nghệ đầu tiên trong lịch sử: giết thú hiệu quả hơn, xẻ thịt, đánh đối thủ. Về sau người nguyên thuỷ dùng công cụ khéo léo hơn, từ đó có may vá, vẽ, chạm khắc, nấu ăn.
-- **Lửa.** Một làn sóng khác cũng then chốt là lửa, được tổ tiên Homo erectus sử dụng, đem lại ánh sáng, hơi ấm và sự an toàn trước thú săn mồi. Lửa có tác động rõ rệt tới tiến hoá (theo chú thích của sách, dựa trên Richard Wrangham, *Catching Fire*, 2010): thức ăn nấu chín giải phóng năng lượng nhanh hơn, nên ống tiêu hoá của người ngắn lại và não to ra. Tổ tiên ta, với bộ hàm khoẻ hạn chế sự phát triển của hộp sọ, từng dành thời gian nhai và tiêu hoá không ngừng như các loài linh trưởng ngày nay. Được lửa giải phóng khỏi việc này, họ có thêm thời gian để săn thức ăn giàu năng lượng, làm công cụ, xây mạng lưới xã hội phức tạp. Bếp lửa trở thành trung tâm đời sống, giúp hình thành cộng đồng, quan hệ và tổ chức lao động. Suleyman kết luận con người không chỉ là người tạo ra công cụ; ở cấp độ sinh học và giải phẫu, con người là sản phẩm của công cụ.
+- **Lửa.** Một làn sóng khác cũng then chốt là lửa, được tổ tiên Homo erectus sử dụng, đem lại ánh sáng, hơi ấm và sự an toàn trước thú săn mồi. Lửa có tác động rõ rệt tới tiến hoá (theo chú thích của sách, dựa trên Richard Wrangham, *Catching Fire*, 2010): thức ăn nấu chín giải phóng năng lượng nhanh hơn, nên ống tiêu hoá của người ngắn lại và não to ra. Tổ tiên ta, với bộ hàm khoẻ hạn chế sự phát triển của hộp sọ, từng dành thời gian nhai và tiêu hoá không ngừng như các loài linh trưởng ngày nay.
+
+  Được lửa giải phóng khỏi việc này, họ có thêm thời gian để săn thức ăn giàu năng lượng, làm công cụ, xây mạng lưới xã hội phức tạp. Bếp lửa trở thành trung tâm đời sống, giúp hình thành cộng đồng, quan hệ và tổ chức lao động. Suleyman kết luận con người không chỉ là người tạo ra công cụ; ở cấp độ sinh học và giải phẫu, con người là sản phẩm của công cụ.
 
 **Đặc điểm của công nghệ đa mục đích.** Công cụ đá và lửa là công nghệ tiền đa mục đích: chúng lan khắp nơi và lần lượt mở đường cho phát minh, hàng hoá và cách tổ chức mới. Công nghệ đa mục đích lan toả qua các xã hội, các vùng địa lý và suốt lịch sử (theo chú thích của sách, phần mô tả này lấy từ Lipsey, Carlaw và Bekar, *Economic Transformations*, 2005). Chúng mở rộng cửa cho phát minh, làm nảy sinh hàng loạt công cụ và quy trình hạ nguồn, và thường dựa trên một nguyên lý chung, như sức hơi nước sinh công hay lý thuyết thông tin đằng sau mã nhị phân của máy tính.
 
-Điều trớ trêu là chẳng bao lâu sau, công nghệ đa mục đích trở nên vô hình và ta coi chúng là đương nhiên. Ngôn ngữ, nông nghiệp, chữ viết đều là công nghệ đa mục đích ở trung tâm của các làn sóng đầu tiên, và ba làn sóng này tạo nên nền móng của nền văn minh mà ta biết (theo chú thích của sách, ngôn ngữ về mặt kỹ thuật có thể xem là công nghệ đa mục đích tiền thân hay nền tảng). Một nghiên cứu lớn (Lipsey, Carlaw và Bekar) xác định cả lịch sử loài người chỉ có 24 công nghệ đa mục đích, từ nông nghiệp, hệ thống nhà máy, vật liệu như sắt và đồng, tới máy in, điện và tất nhiên internet. Chúng không nhiều nhưng rất quan trọng; vì vậy ta vẫn nói "thời đại đồ đồng" hay "thời đại thuyền buồm".
+Điều trớ trêu là chẳng bao lâu sau, công nghệ đa mục đích trở nên vô hình và ta coi chúng là đương nhiên. Ngôn ngữ, nông nghiệp, chữ viết đều là công nghệ đa mục đích ở trung tâm của các làn sóng đầu tiên, và ba làn sóng này tạo nên nền móng của nền văn minh mà ta biết (theo chú thích của sách, ngôn ngữ về mặt kỹ thuật có thể xem là công nghệ đa mục đích tiền thân hay nền tảng).
 
-**Dân số và đổi mới.** Suốt lịch sử, quy mô dân số và mức độ đổi mới gắn với nhau (theo chú thích của sách, xem Oded Galor, *The Journey of Humanity*, 2022). Công cụ và kỹ thuật mới nuôi được dân số lớn hơn. Dân số lớn hơn và kết nối hơn là lò luyện mạnh hơn cho mày mò, thử nghiệm và phát hiện tình cờ, tức một "bộ não tập thể" mạnh hơn (theo chú thích của sách, khái niệm của Muthukrishna và Henrich, 2016). Dân số lớn cho phép chuyên môn hoá cao hơn, sinh ra những tầng lớp mới như thợ thủ công và học giả, những người không phải sống nhờ đất. Càng nhiều người không phải lo miếng ăn thì càng nhiều người có thể phát minh và càng nhiều lý do để phát minh, và phát minh lại nuôi thêm người. Từ những nền văn minh đầu tiên như Uruk ở Lưỡng Hà, nơi sinh ra chữ hình nêm, hệ chữ viết đầu tiên được biết, tới các siêu đô thị ngày nay, thành phố luôn thúc đẩy công nghệ, và công nghệ lại tạo ra nhiều thành phố hơn, lớn hơn.
+Một nghiên cứu lớn (Lipsey, Carlaw và Bekar) xác định cả lịch sử loài người chỉ có 24 công nghệ đa mục đích, từ nông nghiệp, hệ thống nhà máy, vật liệu như sắt và đồng, tới máy in, điện và tất nhiên internet. Chúng không nhiều nhưng rất quan trọng; vì vậy ta vẫn nói "thời đại đồ đồng" hay "thời đại thuyền buồm".
+
+**Dân số và đổi mới.** Suốt lịch sử, quy mô dân số và mức độ đổi mới gắn với nhau (theo chú thích của sách, xem Oded Galor, *The Journey of Humanity*, 2022). Công cụ và kỹ thuật mới nuôi được dân số lớn hơn. Dân số lớn hơn và kết nối hơn là lò luyện mạnh hơn cho mày mò, thử nghiệm và phát hiện tình cờ, tức một "bộ não tập thể" mạnh hơn (theo chú thích của sách, khái niệm của Muthukrishna và Henrich, 2016).
+
+Dân số lớn cho phép chuyên môn hoá cao hơn, sinh ra những tầng lớp mới như thợ thủ công và học giả, những người không phải sống nhờ đất. Càng nhiều người không phải lo miếng ăn thì càng nhiều người có thể phát minh và càng nhiều lý do để phát minh, và phát minh lại nuôi thêm người. Từ những nền văn minh đầu tiên như Uruk ở Lưỡng Hà, nơi sinh ra chữ hình nêm, hệ chữ viết đầu tiên được biết, tới các siêu đô thị ngày nay, thành phố luôn thúc đẩy công nghệ, và công nghệ lại tạo ra nhiều thành phố hơn, lớn hơn.
 
 | Thời điểm | Dân số thế giới |
 |---|---|
@@ -418,7 +425,9 @@ Suleyman nhận xét phần lớn người làm công nghệ mắc kẹt trong c
 
 **Nhìn gần và nhìn xa.** Trong phần lớn lịch sử từng sống, việc công nghệ mới lan rộng là hiếm: đa số người sinh ra, sống và chết giữa cùng một bộ công cụ. Nhưng lùi ra nhìn toàn cảnh thì rõ ràng lan rộng mới là mặc định.
 
-**Từ công nghệ đa mục đích tới làn sóng.** Công nghệ đa mục đích chỉ thành làn sóng khi chúng lan toả rộng khắp. Không có một sự lan toả toàn cầu, quy mô lớn và gần như không bị kiểm soát thì đó không phải làn sóng mà chỉ là một chuyện lạ của lịch sử. Một khi sự lan toả bắt đầu, quá trình đó lặp lại suốt lịch sử: nông nghiệp lan khắp lục địa Á–Âu; cối xay nước chậm rãi lan từ Đế chế La Mã ra khắp châu Âu. Theo chú thích của sách, một dấu hiệu sớm của sự lan rộng tăng tốc là trong khi cối xay nước mất hàng nghìn năm để lan ra, thì cối xay gió chỉ vài năm sau khi được phát minh đã xuất hiện khắp nơi từ miền bắc nước Anh tới Syria (theo Lynn White Jr., *Medieval Technology and Social Change*, 1962). Khi một công nghệ có chỗ đứng và một làn sóng bắt đầu hình thành, khuôn mẫu đã thấy với ô tô trở nên rõ ràng.
+**Từ công nghệ đa mục đích tới làn sóng.** Công nghệ đa mục đích chỉ thành làn sóng khi chúng lan toả rộng khắp. Không có một sự lan toả toàn cầu, quy mô lớn và gần như không bị kiểm soát thì đó không phải làn sóng mà chỉ là một chuyện lạ của lịch sử. Một khi sự lan toả bắt đầu, quá trình đó lặp lại suốt lịch sử: nông nghiệp lan khắp lục địa Á–Âu; cối xay nước chậm rãi lan từ Đế chế La Mã ra khắp châu Âu.
+
+Theo chú thích của sách, một dấu hiệu sớm của sự lan rộng tăng tốc là trong khi cối xay nước mất hàng nghìn năm để lan ra, thì cối xay gió chỉ vài năm sau khi được phát minh đã xuất hiện khắp nơi từ miền bắc nước Anh tới Syria (theo Lynn White Jr., *Medieval Technology and Social Change*, 1962). Khi một công nghệ có chỗ đứng và một làn sóng bắt đầu hình thành, khuôn mẫu đã thấy với ô tô trở nên rõ ràng.
 
 **Máy in và sách.** Khi Gutenberg phát minh ra máy in khoảng năm 1440, châu Âu chỉ có một chiếc: chiếc nguyên bản của ông ở Mainz, Đức. Chỉ năm mươi năm sau, một nghìn máy in đã có mặt khắp lục địa. Bản thân sách, một trong những công nghệ có ảnh hưởng nhất lịch sử, nhân lên với tốc độ bùng nổ:
 
@@ -443,9 +452,13 @@ Nhà kinh tế đoạt giải Nobel William Nordhaus tính rằng cùng một l�
 
 **Hàng tiêu dùng.** Không ngạc nhiên, công nghệ tiêu dùng cũng theo xu hướng đó. Alexander Graham Bell giới thiệu điện thoại năm 1876. Năm 1900 nước Mỹ có 600.000 máy điện thoại; mười năm sau có 5,8 triệu máy. Ngày nay nước Mỹ có nhiều điện thoại hơn số dân (theo chú thích của sách, tính cả điện thoại cố định và di động). Chất lượng tăng cùng lúc với giá giảm: một chiếc tivi thô sơ giá 1.000 USD năm 1950 thì năm 2023 chỉ còn 8 USD, dù tất nhiên tivi ngày nay tốt hơn vô cùng nên đắt hơn thế. Có thể thấy những đường cong giá và mức phổ biến gần như y hệt với ô tô, lò vi sóng hay máy giặt; thế kỷ 20 và 21 chứng kiến sự phổ biến đều đặn đáng kinh ngạc của đồ điện tử tiêu dùng mới.
 
-**Hai lực xúc tác: nhu cầu và chi phí giảm.** Sự lan rộng được xúc tác bởi hai lực: nhu cầu, và việc chi phí giảm do nhu cầu đó; mỗi lực lại đẩy công nghệ trở nên tốt hơn và rẻ hơn. Cuộc đối thoại dài và phức tạp giữa khoa học và công nghệ tạo ra một chuỗi hiểu biết, đột phá và công cụ tích luỹ và củng cố nhau theo thời gian, những sự kết hợp lại có tính sản xuất thúc đẩy tương lai. Có thêm công nghệ rẻ hơn thì có thêm công nghệ mới, rẻ hơn ở hạ nguồn. Suleyman đưa một chuỗi ví dụ: Uber không thể có nếu không có điện thoại thông minh; điện thoại thông minh cần GPS; GPS cần vệ tinh; vệ tinh cần tên lửa; tên lửa cần kỹ thuật đốt cháy; và kỹ thuật đốt cháy cần ngôn ngữ và lửa.
+**Hai lực xúc tác: nhu cầu và chi phí giảm.** Sự lan rộng được xúc tác bởi hai lực: nhu cầu, và việc chi phí giảm do nhu cầu đó; mỗi lực lại đẩy công nghệ trở nên tốt hơn và rẻ hơn. Cuộc đối thoại dài và phức tạp giữa khoa học và công nghệ tạo ra một chuỗi hiểu biết, đột phá và công cụ tích luỹ và củng cố nhau theo thời gian, những sự kết hợp lại có tính sản xuất thúc đẩy tương lai.
 
-**Con người và sự bắt chước.** Đằng sau các đột phá công nghệ là con người. Họ cải tiến công nghệ trong xưởng, phòng thí nghiệm và ga-ra, vì tiền, vì danh tiếng và thường vì chính tri thức. Người làm công nghệ, nhà đổi mới và doanh nhân giỏi lên nhờ làm, và quan trọng là nhờ bắt chước. Từ chiếc cày tốt hơn của kẻ thù tới điện thoại di động mới nhất, sao chép là động lực then chốt của sự lan toả. Bắt chước kích thích cạnh tranh, công nghệ cải tiến thêm, lợi thế theo quy mô xuất hiện và làm giảm chi phí (theo chú thích của sách, một nghiên cứu năm 2021 của Anuraag Singh và cộng sự dùng dữ liệu bằng sáng chế để ước lượng tốc độ cải tiến của mọi công nghệ, dù tốc độ này khác nhau đáng kể giữa các nhóm công nghệ). Suleyman kết luận: cơn thèm của văn minh với công nghệ hữu ích và rẻ hơn là vô hạn, và điều này sẽ không thay đổi.
+Có thêm công nghệ rẻ hơn thì có thêm công nghệ mới, rẻ hơn ở hạ nguồn. Suleyman đưa một chuỗi ví dụ: Uber không thể có nếu không có điện thoại thông minh; điện thoại thông minh cần GPS; GPS cần vệ tinh; vệ tinh cần tên lửa; tên lửa cần kỹ thuật đốt cháy; và kỹ thuật đốt cháy cần ngôn ngữ và lửa.
+
+**Con người và sự bắt chước.** Đằng sau các đột phá công nghệ là con người. Họ cải tiến công nghệ trong xưởng, phòng thí nghiệm và ga-ra, vì tiền, vì danh tiếng và thường vì chính tri thức. Người làm công nghệ, nhà đổi mới và doanh nhân giỏi lên nhờ làm, và quan trọng là nhờ bắt chước. Từ chiếc cày tốt hơn của kẻ thù tới điện thoại di động mới nhất, sao chép là động lực then chốt của sự lan toả.
+
+Bắt chước kích thích cạnh tranh, công nghệ cải tiến thêm, lợi thế theo quy mô xuất hiện và làm giảm chi phí (theo chú thích của sách, một nghiên cứu năm 2021 của Anuraag Singh và cộng sự dùng dữ liệu bằng sáng chế để ước lượng tốc độ cải tiến của mọi công nghệ, dù tốc độ này khác nhau đáng kể giữa các nhóm công nghệ). Suleyman kết luận: cơn thèm của văn minh với công nghệ hữu ích và rẻ hơn là vô hạn, và điều này sẽ không thay đổi.
 
 ### 5. From Vacuum Tubes to Nanometers: Turbo-Proliferation — Từ đèn chân không tới nanomet: lan rộng siêu tốc (trang PDF 44–46)
 
@@ -482,9 +495,13 @@ Suleyman gọi đây là sự lan rộng nhanh nhất và rộng nhất trong l�
 | 1983 | chỉ 562 máy tính nối vào mạng internet sơ khai |
 | Hiện nay | khoảng 14 tỷ máy tính, điện thoại thông minh và thiết bị kết nối |
 
-Điện thoại thông minh chỉ mất vài năm để từ sản phẩm ngách trở thành vật hoàn toàn thiết yếu với hai phần ba dân số hành tinh. Cùng làn sóng này là email, mạng xã hội, video trực tuyến, mỗi thứ là một trải nghiệm mới về bản chất, nhờ transistor và một công nghệ đa mục đích khác là internet. Suleyman gọi đây là hình ảnh của sự lan rộng công nghệ thuần tuý, không bị khống chế. Nó tạo ra một sự lan rộng còn choáng ngợp hơn: dữ liệu tăng 20 lần chỉ trong thập kỷ 2010–2020. Vài thập kỷ trước, lưu trữ dữ liệu là việc của sách và kho lưu trữ bụi bặm; nay mỗi ngày con người tạo ra hàng trăm tỷ email, tin nhắn, ảnh, video và lưu chúng trên đám mây. Mỗi phút của mỗi ngày, thế giới thêm 18 triệu gigabyte dữ liệu.
+Điện thoại thông minh chỉ mất vài năm để từ sản phẩm ngách trở thành vật hoàn toàn thiết yếu với hai phần ba dân số hành tinh. Cùng làn sóng này là email, mạng xã hội, video trực tuyến, mỗi thứ là một trải nghiệm mới về bản chất, nhờ transistor và một công nghệ đa mục đích khác là internet. Suleyman gọi đây là hình ảnh của sự lan rộng công nghệ thuần tuý, không bị khống chế.
 
-**Thấm vào mọi ngóc ngách.** Hàng tỷ giờ của đời sống con người được các công nghệ này tiêu thụ, định hình, bóp méo và làm phong phú. Chúng chi phối việc kinh doanh và thời gian rảnh, chiếm tâm trí ta và mọi kẽ hở của thế giới, từ tủ lạnh, đồng hồ hẹn giờ, cửa ga-ra, máy trợ thính tới tua bin gió. Chúng là kiến trúc của đời sống hiện đại. Điện thoại là thứ đầu tiên ta nhìn mỗi sáng và thứ cuối cùng ta nhìn mỗi tối. Mọi mặt đời sống đều bị ảnh hưởng: chúng giúp ta tìm tình yêu và bạn mới, đồng thời tăng tốc chuỗi cung ứng; chúng ảnh hưởng tới việc ai được bầu và bầu thế nào, tiền của ta được đầu tư vào đâu, lòng tự trọng của trẻ em, gu âm nhạc, thời trang, ăn uống và mọi thứ ở giữa.
+Nó tạo ra một sự lan rộng còn choáng ngợp hơn: dữ liệu tăng 20 lần chỉ trong thập kỷ 2010–2020. Vài thập kỷ trước, lưu trữ dữ liệu là việc của sách và kho lưu trữ bụi bặm; nay mỗi ngày con người tạo ra hàng trăm tỷ email, tin nhắn, ảnh, video và lưu chúng trên đám mây. Mỗi phút của mỗi ngày, thế giới thêm 18 triệu gigabyte dữ liệu.
+
+**Thấm vào mọi ngóc ngách.** Hàng tỷ giờ của đời sống con người được các công nghệ này tiêu thụ, định hình, bóp méo và làm phong phú. Chúng chi phối việc kinh doanh và thời gian rảnh, chiếm tâm trí ta và mọi kẽ hở của thế giới, từ tủ lạnh, đồng hồ hẹn giờ, cửa ga-ra, máy trợ thính tới tua bin gió. Chúng là kiến trúc của đời sống hiện đại.
+
+Điện thoại là thứ đầu tiên ta nhìn mỗi sáng và thứ cuối cùng ta nhìn mỗi tối. Mọi mặt đời sống đều bị ảnh hưởng: chúng giúp ta tìm tình yêu và bạn mới, đồng thời tăng tốc chuỗi cung ứng; chúng ảnh hưởng tới việc ai được bầu và bầu thế nào, tiền của ta được đầu tư vào đâu, lòng tự trọng của trẻ em, gu âm nhạc, thời trang, ăn uống và mọi thứ ở giữa.
 
 Một người từ thời hậu chiến sẽ choáng váng trước quy mô và tầm với của thứ từng có vẻ là công nghệ ngách. Khả năng lan rộng và cải tiến với tốc độ hàm mũ của máy tính, khả năng đi vào và bao trùm gần như mọi mặt đời sống, đã trở thành sự thật nổi bật nhất của văn minh đương đại. Chưa làn sóng nào trước đó bùng lên nhanh như vậy, nhưng khuôn mẫu lịch sử vẫn lặp lại: lúc đầu có vẻ bất khả và không thể hình dung; rồi có vẻ tất yếu; và mỗi làn sóng lại lớn hơn, mạnh hơn.
 
@@ -608,7 +625,9 @@ Mọi lập luận sau của Suleyman (không thể khống chế, các động 
 
 ### Giả định ngầm: công nghệ của làn sóng sắp tới sẽ theo đường cong chi phí của hàng tiêu dùng
 
-Toàn bộ bằng chứng của chương là công nghệ có đường cong chi phí giảm mạnh và nhu cầu đại chúng. Suleyman ngầm giả định AI và sinh học tổng hợp cũng như vậy. Tới năm 2026, theo hiểu biết của người tổng hợp, giả định này phần lớn đúng với AI ở tầng sử dụng: giá mỗi token của các mô hình ngôn ngữ lớn (LLM) cùng mức năng lực giảm hàng chục tới hàng trăm lần trong vài năm; các mô hình có trọng số mở (Llama của Meta, các mô hình của Mistral, DeepSeek-R1 đầu năm 2025, Qwen) lan rất nhanh; ChatGPT được báo cáo có hàng trăm triệu người dùng mỗi tuần. Nhưng ở tầng huấn luyện mô hình tiên phong thì chi phí lại tăng (các cụm máy hàng trăm nghìn GPU, đầu tư trung tâm dữ liệu hàng trăm tỷ USD), nên năng lực tạo mô hình mạnh nhất tập trung vào ít công ty hơn. Bức tranh vì thế vừa lan rộng (sử dụng) vừa tập trung (sáng tạo), đúng với nhận định "tập trung và phân tán cùng lúc" mà Suleyman nêu ở Phần III ([C11-tuong-lai-cua-cac-quoc-gia.md](C11-tuong-lai-cua-cac-quoc-gia.md)).
+Toàn bộ bằng chứng của chương là công nghệ có đường cong chi phí giảm mạnh và nhu cầu đại chúng. Suleyman ngầm giả định AI và sinh học tổng hợp cũng như vậy. Tới năm 2026, theo hiểu biết của người tổng hợp, giả định này phần lớn đúng với AI ở tầng sử dụng: giá mỗi token của các mô hình ngôn ngữ lớn (LLM) cùng mức năng lực giảm hàng chục tới hàng trăm lần trong vài năm; các mô hình có trọng số mở (Llama của Meta, các mô hình của Mistral, DeepSeek-R1 đầu năm 2025, Qwen) lan rất nhanh; ChatGPT được báo cáo có hàng trăm triệu người dùng mỗi tuần.
+
+Nhưng ở tầng huấn luyện mô hình tiên phong thì chi phí lại tăng (các cụm máy hàng trăm nghìn GPU, đầu tư trung tâm dữ liệu hàng trăm tỷ USD), nên năng lực tạo mô hình mạnh nhất tập trung vào ít công ty hơn. Bức tranh vì thế vừa lan rộng (sử dụng) vừa tập trung (sáng tạo), đúng với nhận định "tập trung và phân tán cùng lúc" mà Suleyman nêu ở Phần III ([C11-tuong-lai-cua-cac-quoc-gia.md](C11-tuong-lai-cua-cac-quoc-gia.md)).
 
 ### "Động cơ đốt trong đang ở buổi hoàng hôn": đúng một phần tới năm 2026
 
@@ -620,7 +639,7 @@ Theo hiểu biết của người tổng hợp, từ cuối thập niên 2010 t�
 
 ### Một số chi tiết lịch sử được kể theo phiên bản phổ thông
 
-Câu nói của Watson, chuyến đi của Bertha Benz "mà chồng không biết", việc Bletchley "phá Enigma bằng máy tính", hay con số "10% người Mỹ có xe" đều là phiên bản phổ thông, có chỗ đơn giản hoá (xem khối Lưu ý). Chúng không làm sai luận điểm chính, nhưng người đọc nên coi chúng là minh hoạ hơn là số liệu chính xác (nhận xét của người tổng hợp).
+Câu nói của Watson, chuyến đi của Bertha Benz "mà chồng không biết", việc Bletchley "phá Enigma bằng máy tính", hay con số "10% người Mỹ có xe" đều là phiên bản phổ thông, có chỗ đơn giản hoá (xem mục Lưu ý cuối chương). Chúng không làm sai luận điểm chính, nhưng người đọc nên coi chúng là minh hoạ hơn là số liệu chính xác (nhận xét của người tổng hợp).
 
 ### Liên hệ với các chương khác
 
@@ -633,3 +652,170 @@ Câu nói của Watson, chuyến đi của Bertha Benz "mà chồng không biế
 - **Công việc:** khi đánh giá một công nghệ mới trong nghề của mình (ví dụ trợ lý lập trình bằng AI), đừng hỏi "nó đã đủ tốt chưa" mà hỏi "đường cong chi phí và nhu cầu của nó đang đi về đâu". Bài học từ Model T và transistor là khi giá giảm đều và nhu cầu lớn, việc phổ biến chỉ là vấn đề thời gian; học sớm thường rẻ hơn học muộn.
 - **Đầu tư:** chương nhắc rằng giá trị của công nghệ đa mục đích thường chảy về hạ nguồn (Uber cần điện thoại, điện thoại cần GPS…). Người đầu tư có thể tìm cơ hội ở tầng ứng dụng mà công nghệ nền vừa trở nên rẻ, đồng thời thận trọng với giai đoạn "đột phá bùng nổ và đầu cơ điên cuồng" mà Carlota Perez mô tả, giai đoạn thường đi kèm bong bóng (nhận xét của người tổng hợp; đây không phải khuyến nghị đầu tư).
 - **Đời sống:** phần mô tả điện thoại và dữ liệu (thứ đầu tiên nhìn buổi sáng, thứ cuối cùng nhìn buổi tối; ảnh hưởng tới lòng tự trọng của trẻ em) là lời nhắc rằng công nghệ lan rộng không chờ ta quyết định có muốn hay không. Việc chủ động đặt giới hạn sử dụng trong gia đình là một dạng "khống chế" ở quy mô nhỏ.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 2 trên một trang: sáu nhánh lớn đi theo các mục 1–6 của phần Nội dung chi tiết (Phần I và câu chuyện động cơ đốt trong, các làn sóng đa mục đích, lan rộng là trạng thái mặc định, lan rộng siêu tốc của máy tính, đoạn kết chương) cùng phần Đánh giá, mỗi nhánh ghi định nghĩa, ví dụ lịch sử và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 2: lan rộng là trạng thái mặc định của mọi công nghệ đa mục đích, và nhịp lan rộng ngày càng nhanh`"]
+  n1["`Mục 1–2 — Phần I Homo technologicus và câu chuyện động cơ đốt trong`"]
+  n0 --- n1
+  n2["`Phần I gồm Chương 2 (công nghệ luôn lan rộng) và Chương 3 (bài toán khống chế)`"]
+  n1 --- n2
+  n3["`Cugnot chạy xe hơi nước khoảng 3 km/giờ, Lenoir (1863) chạy xe động cơ đốt trong 11 km ra khỏi Paris`"]
+  n1 --- n3
+  n4["`Otto (1876) làm động cơ đốt trong bốn kỳ đầu tiên, Benz (1886) được cấp bằng sáng chế Motorwagen`"]
+  n1 --- n4
+  n5["`Bertha Benz tự lái khoảng 105 km từ Mannheim về Pforzheim, tiếp nhiên liệu bằng dung môi mua ở hiệu thuốc`"]
+  n4 --- n5
+  n6["`Xe vẫn xa xỉ: Benz bán 69 xe tới 1893, 1.709 xe tới 1900, Đức có 35.000 xe khoảng 1906`"]
+  n1 --- n6
+  n7["`Bước ngoặt Ford Model T (1908) trên dây chuyền lắp ráp di động: 850 USD so với khoảng 2.000 USD`"]
+  n1 --- n7
+  n8["`Ford: mỗi lần giảm giá một đô la thì có thêm một nghìn người mua mới`"]
+  n7 --- n8
+  n9["`Tỷ lệ người Mỹ có ô tô tăng từ 10% (1915) lên 59% (1930)`"]
+  n7 --- n9
+  n10["`Nay khoảng 2 tỷ động cơ đốt trong, 1,4 tỷ trong ô tô, cả một nền văn minh ngoại ô và xa lộ`"]
+  n1 --- n10
+  n11["`Đây không chỉ là chuyện ô tô mà là câu chuyện của chính công nghệ`"]
+  n1 --- n11
+  n12["`Mục 3 — Các làn sóng đa mục đích: nhịp điệu của lịch sử`"]
+  n0 --- n12
+  n13["`Làn sóng là cụm công nghệ cùng thời, dẫn dắt bởi một hay vài công nghệ đa mục đích`"]
+  n12 --- n13
+  n14["`Vòng tự củng cố: phát hiện khoa học thành sản phẩm, nhu cầu và cạnh tranh làm công nghệ rẻ hơn`"]
+  n12 --- n14
+  n15["`Công nghệ đa mục đích lan khắp xã hội, mở đường cho vô số phát minh hạ nguồn, rồi trở nên vô hình`"]
+  n12 --- n15
+  n16["`Lipsey, Carlaw và Bekar chỉ đếm được 24 công nghệ đa mục đích trong toàn bộ lịch sử`"]
+  n15 --- n16
+  n17["`Nhịp tăng dần: 7 trong mười nghìn năm tới 1000 TCN, 6 trong 1700–1900, 7 trong một trăm năm gần nhất`"]
+  n15 --- n17
+  n18["`Lửa làm thức ăn chín, ruột ngắn lại, não to ra: con người là sản phẩm của công cụ`"]
+  n12 --- n18
+  n19["`Bộ não tập thể: dân số từ 2,4 triệu lên gần 1 tỷ người, tăng khoảng 400 lần, đổi mới và dân số thúc đẩy nhau`"]
+  n12 --- n19
+  n20["`Mỗi làn sóng đặt nền cho làn sóng sau: bánh xe thành khối xây dựng cho xe ngựa, cối xay, bánh đà`"]
+  n12 --- n20
+  n21["`Từ Cách mạng Công nghiệp, thay đổi lớn tính bằng thập kỷ chứ không còn bằng thế kỷ`"]
+  n12 --- n21
+  n22["`Toffler, Schumpeter, Mumford và Carlota Perez đã nhìn lịch sử như một chuỗi làn sóng`"]
+  n12 --- n22
+  n23["`Không tồn tại thứ gọi là con người phi công nghệ`"]
+  n12 --- n23
+  n24["`Mục 4 — Lan rộng là trạng thái mặc định, do nhu cầu và chi phí giảm thúc đẩy`"]
+  n0 --- n24
+  n25["`Không có lan toả toàn cầu gần như không kiểm soát thì không phải làn sóng mà chỉ là chuyện lạ của lịch sử`"]
+  n24 --- n25
+  n26["`Cối xay nước mất hàng nghìn năm để lan ra, cối xay gió chỉ vài năm`"]
+  n24 --- n26
+  n27["`Máy in từ 1 chiếc ở Mainz (khoảng 1440) thành 1.000 chiếc sau 50 năm, giá sách giảm 340 lần`"]
+  n24 --- n27
+  n28["`Sản lượng điện thế giới từ 8 TWh (1900) lên 600 TWh (1950)`"]
+  n24 --- n28
+  n29["`Nordhaus: lao động từng mua 54 phút ánh sáng ở thế kỷ 18 nay mua được hơn 50 năm ánh sáng`"]
+  n24 --- n29
+  n30["`Điện thoại ở Mỹ từ 600.000 (1900) lên 5,8 triệu (1910), tivi 1.000 USD năm 1950 còn 8 USD năm 2023`"]
+  n24 --- n30
+  n31["`Hai lực xúc tác: nhu cầu và chi phí giảm, mỗi lực lại làm công nghệ tốt hơn và rẻ hơn`"]
+  n24 --- n31
+  n32["`Công nghệ rẻ ở thượng nguồn sinh công nghệ mới: Uber cần điện thoại, GPS, vệ tinh, tên lửa, lửa`"]
+  n31 --- n32
+  n33["`Bắt chước kích thích cạnh tranh, rồi lợi thế theo quy mô làm giá giảm`"]
+  n31 --- n33
+  n34["`Cơn thèm của văn minh với công nghệ hữu ích và rẻ hơn là vô hạn, và sẽ không thay đổi`"]
+  n24 --- n34
+  n35["`Mục 5 — Từ đèn chân không tới nanomet: máy tính là sự lan rộng nhanh nhất lịch sử`"]
+  n0 --- n35
+  n36["`Máy tính ra đời từ toán học và chiến tranh: Bletchley Park, ENIAC (1945) với 18.000 đèn chân không`"]
+  n35 --- n36
+  n37["`Bell Labs (1947) làm transistor đầu tiên từ kẹp giấy, lá vàng và tinh thể germanium`"]
+  n35 --- n37
+  n38["`Người đương thời đánh giá thấp: Watson được cho là nói thế giới cần khoảng năm máy tính`"]
+  n35 --- n38
+  n39["`Mười năm sau Bletchley, cả thế giới chỉ có vài trăm máy tính`"]
+  n38 --- n39
+  n40["`Noyce làm mạch tích hợp, định luật Moore: số transistor trên chip gấp đôi mỗi 24 tháng`"]
+  n35 --- n40
+  n41["`Transistor trên chip tăng 10 triệu lần từ đầu thập niên 1970, sức tính toán tăng khoảng 17 tỷ lần`"]
+  n40 --- n41
+  n42["`Fairchild 1958 bán transistor 150 USD một chiếc, nay hàng chục nghìn tỷ chiếc mỗi giây, giá phần tỷ USD`"]
+  n40 --- n42
+  n43["`Từ 562 máy nối internet sơ khai (1983) tới khoảng 14 tỷ thiết bị kết nối`"]
+  n35 --- n43
+  n44["`Dữ liệu tăng 20 lần trong 2010–2020, mỗi phút thế giới thêm 18 triệu gigabyte`"]
+  n35 --- n44
+  n45["`Khuôn mẫu: lúc đầu tưởng bất khả, rồi thấy tất yếu, mỗi làn sóng lớn hơn và mạnh hơn`"]
+  n35 --- n45
+  n46["`Mục 6 — Đoạn kết: những thứ trông như quy luật của công nghệ`"]
+  n0 --- n46
+  n47["`Các làn sóng tăng về tốc độ, phạm vi, mức dễ tiếp cận và mức hệ quả, đã có đà thì hiếm khi dừng`"]
+  n46 --- n47
+  n48["`Công nghệ càng rẻ thì càng nhiều người tiếp cận, lan rộng tăng tốc dù công nghệ ngày càng mạnh`"]
+  n46 --- n48
+  n49["`Lan rộng tràn lan là thứ gần nhất với trạng thái tự nhiên của công nghệ`"]
+  n46 --- n49
+  n50["`Chương kết bằng câu hỏi Hay là không? mở sang bài toán khống chế ở Chương 3`"]
+  n46 --- n50
+  n51["`Đánh giá — điểm mạnh, điểm yếu và tình hình tới năm 2026`"]
+  n0 --- n51
+  n52["`Chương là nền móng thực nghiệm của cả sách nhưng chỉ chọn công nghệ thành công, bỏ qua Concorde, khí cầu`"]
+  n51 --- n52
+  n53["`Tới 2026 AI lan rộng ở tầng sử dụng nhưng tập trung ở tầng huấn luyện mô hình tiên phong`"]
+  n51 --- n53
+  n54["`Xe điện chiếm khoảng một phần năm doanh số ô tô mới 2024, xe hydro vẫn rất ít`"]
+  n51 --- n54
+  n55["`Định luật Moore chậm lại nhưng tính toán cho AI vẫn tăng nhanh nhờ GPU, TPU và đầu tư lớn`"]
+  n51 --- n55
+  n56["`Thông điệp xuyên suốt`"]
+  n0 --- n56
+  n57["`Nhu cầu và chi phí giảm củng cố lẫn nhau nên lan rộng là mặc định và ngày càng nhanh`"]
+  n56 --- n57
+  n58["`Người đương thời luôn đánh giá thấp tốc độ lan rộng của công nghệ mới`"]
+  n56 --- n58
+  n59["`Nếu khuôn mẫu tiếp tục, AI và sinh học tổng hợp sẽ lan nhanh hơn mọi làn sóng trước`"]
+  n56 --- n59
+  n60["`Khuôn mẫu chỉ là quan sát thực nghiệm, cả cuốn sách tìm cách để làn sóng sắp tới thành ngoại lệ`"]
+  n56 --- n60
+  class n0 root
+  class n1,n12,n24,n35,n46,n51,n56 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n25,n26,n27,n28,n29,n30,n31,n32,n33,n34,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n47,n48,n49,n50,n52,n53,n54,n55,n57,n58,n59,n60 leaf
+```
+
+## Nguồn
+
+Mustafa Suleyman với Michael Bhaskar, *The Coming Wave: Technology, Power, and the Twenty-First Century's Greatest Dilemma* (Crown, Penguin Random House, 2023), bản ebook tiếng Anh: trang mở Phần I "Homo Technologicus" (trang PDF 34) và Chương 2 "Endless Proliferation", trang PDF 35–47; chú thích cuối sách của chương ở trang PDF 312–318.
+
+## Tác giả
+
+Mustafa Suleyman là đồng sáng lập DeepMind và Inflection AI (Chương 4 gọi Inflection AI là "công ty mới của tôi"); Michael Bhaskar là đồng tác giả (theo hiểu biết của người tổng hợp, Bhaskar là nhà văn và người làm xuất bản, còn Suleyman là CEO của Inflection AI lúc viết sách).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 1 ([C01-khong-the-khong-che.md](C01-khong-the-khong-che.md)) báo trước rằng Phần I sẽ nhìn lại lịch sử dài của công nghệ để xem công nghệ lan rộng thế nào. Chương 2 mở Phần I và làm vế thứ nhất của lập luận: trong lịch sử, sự lan rộng (proliferation) là trạng thái mặc định của mọi công nghệ đa mục đích (general-purpose technology).
+
+Chương 3 ([C03-bai-toan-khong-che.md](C03-bai-toan-khong-che.md)) làm vế thứ hai: vì công nghệ lan rộng như vậy nên hậu quả của nó vượt khỏi tầm tay người tạo ra nó, và con người gần như chưa bao giờ khống chế (containment) được một làn sóng công nghệ.
+
+Phần II, bắt đầu từ Chương 4 ([C04-cong-nghe-cua-tri-tue.md](C04-cong-nghe-cua-tri-tue.md)) và Chương 5 ([C05-cong-nghe-cua-su-song.md](C05-cong-nghe-cua-su-song.md)), áp khuôn mẫu lịch sử này vào làn sóng sắp tới (the coming wave) của AI và sinh học tổng hợp; Chương 7 ([C07-bon-dac-diem-cua-lan-song.md](C07-bon-dac-diem-cua-lan-song.md)) giải thích vì sao làn sóng mới còn khó khống chế hơn; Chương 8 ([C08-nhung-dong-luc-khong-the-can.md](C08-nhung-dong-luc-khong-the-can.md)) phân tích các động lực khiến nó không thể dừng.
+
+## Lưu ý
+
+- **Chú thích cuối sách không đánh số** trong ebook; mỗi chú thích mở đầu bằng cụm từ trong lời văn. Bản tổng hợp đặt nội dung của chú thích vào đúng chỗ theo cụm từ đó. Phần lớn chú thích của chương này chỉ ghi nguồn; vài chú thích bổ sung ý (định nghĩa công nghệ, chiều ngược lại giữa khoa học và công nghệ, cối xay gió, cách đếm điện thoại) được đưa vào lời văn và ghi "(theo chú thích của sách)".
+- **Ba con số về công nghệ đa mục đích cộng lại không đủ 24.** Lời văn nêu 7 (tới năm 1000 TCN), 6 (1700–1900) và 7 (một trăm năm gần nhất), tổng là 20. Chú thích của sách giải thích 4 công nghệ còn lại xuất hiện giữa năm 1000 TCN và năm 1700. Như vậy con số 24 là nhất quán.
+- **"10 phần trăm người Mỹ có xe" (trang PDF 36):** theo hiểu biết của người tổng hợp, con số 10% năm 1915 và 59% năm 1930 nhiều khả năng là tỷ lệ *hộ gia đình* có ô tô chứ không phải tỷ lệ *người*; năm 1915 nước Mỹ có khoảng 2–2,5 triệu xe cho khoảng 100 triệu dân, tức chỉ khoảng 2–3 xe trên 100 người. Ý của sách (ô tô lan rộng rất nhanh) không đổi.
+- **ENIAC "ba trăm phép tính mỗi giây" (trang PDF 44):** theo hiểu biết của người tổng hợp, ENIAC thường được mô tả làm được khoảng 5.000 phép cộng mỗi giây; con số khoảng 300–360 là số phép *nhân* mỗi giây. Con số "mười tám nghìn đèn chân không" là con số làm tròn (thường ghi khoảng 17.500 đèn).
+- **Định luật Moore (trang PDF 45):** sách ghi Moore đề xuất số transistor trên chip tăng gấp đôi sau mỗi 24 tháng. Theo hiểu biết của người tổng hợp, năm 1965 Moore dự báo gấp đôi mỗi năm, đến năm 1975 ông sửa thành mỗi hai năm; Moore cũng không chỉ là "một nhà nghiên cứu" mà là đồng sáng lập Fairchild Semiconductor và Intel. Sách cũng chỉ nhắc Robert Noyce; theo hiểu biết của người tổng hợp, Jack Kilby ở Texas Instruments đã độc lập làm ra mạch tích hợp năm 1958.
+- **"Mười bậc độ lớn, tức cải thiện mười bảy tỷ lần" (trang PDF 45):** mười bậc độ lớn là 10 tỷ lần; 17 tỷ lần là khoảng 10,2 bậc. Đây là cách nói làm tròn, không phải mâu thuẫn (nhận xét của người tổng hợp).
+- **Bletchley Park:** sách nói Bletchley "lần đầu hiện thực hoá một chiếc máy tính thật sự" mà không nêu tên. Theo hiểu biết của người tổng hợp, đó là các máy Colossus (1943–1944), máy tính điện tử lập trình được dùng để giải mã điện báo Lorenz của bộ chỉ huy Đức; máy giải Enigma là máy cơ điện "Bombe". Sách gộp hai việc này vào câu "chạy đua phá máy Enigma".
+- **Câu nói của Thomas J. Watson** ("thế giới chỉ cần khoảng năm chiếc máy tính") được sách ghi rõ là "được cho là" (allegedly). Theo hiểu biết của người tổng hợp, chưa ai tìm được bằng chứng Watson từng nói câu này.
+- **Chuyến đi của Bertha Benz:** sách không ghi năm. Theo hiểu biết của người tổng hợp, chuyến đi diễn ra tháng 8 năm 1888.
+- **"Động cơ đốt trong đang ở buổi hoàng hôn nhờ động cơ điện và hydro" (trang PDF 37):** đây là nhận định của Suleyman năm 2023. Xem mục Đánh giá về tình hình tới năm 2026.
+- **Quy đổi đơn vị:** sách dùng dặm và tấn Mỹ; các con số km, kg trong ngoặc là quy đổi của người tổng hợp (1 dặm khoảng 1,61 km).
+- **Phân biệt "diffusion" và "proliferation":** theo chú thích của sách, giới nghiên cứu phân biệt hai khái niệm này, nhưng sách dùng chúng theo nghĩa thông thường và gần như thay cho nhau. Bản tổng hợp dịch "proliferation" là *sự lan rộng* và "diffusion" là *sự lan toả*.

@@ -1,22 +1,18 @@
 # Chương 8 — Những động lực không thể cản (Unstoppable Incentives)
 
-**Nguồn:** Mustafa Suleyman với Michael Bhaskar, *The Coming Wave: Technology, Power, and the Twenty-First Century's Greatest Dilemma* (Crown, Penguin Random House, 2023), bản ebook tiếng Anh, Chapter 8 "Unstoppable Incentives", trang PDF 134–162; chú thích cuối sách của chương ở trang PDF 349–360.
-**Tác giả:** Mustafa Suleyman là đồng sáng lập DeepMind (phòng thí nghiệm AI làm ra AlphaGo, sau thuộc Google) và Inflection AI; Michael Bhaskar là nhà văn, nhà xuất bản, đồng tác giả cuốn sách.
-**Vị trí trong lập luận của cả cuốn sách:** Phần II "The Next Wave" mô tả các công nghệ của làn sóng sắp tới (the coming wave): trí tuệ nhân tạo ([C04-cong-nghe-cua-tri-tue.md](C04-cong-nghe-cua-tri-tue.md)), sinh học tổng hợp ([C05-cong-nghe-cua-su-song.md](C05-cong-nghe-cua-su-song.md)), robot, điện toán lượng tử, năng lượng ([C06-lan-song-rong-hon.md](C06-lan-song-rong-hon.md)), rồi rút ra bốn đặc điểm của làn sóng ([C07-bon-dac-diem-cua-lan-song.md](C07-bon-dac-diem-cua-lan-song.md)). Chương 8 khép Phần II bằng câu hỏi "vì sao": vì sao làn sóng chắc chắn sẽ đến và vì sao việc khống chế (containment, tức năng lực giám sát, hạn chế, kiểm soát và khi cần thì dừng hẳn một công nghệ) nó khó đến vậy. Câu trả lời là năm động lực chồng lên nhau. Chương này nối lại lập luận lịch sử ở Phần I rằng chưa làn sóng công nghệ nào từng bị khống chế ([C01-khong-the-khong-che.md](C01-khong-the-khong-che.md), [C02-lan-rong-bat-tan.md](C02-lan-rong-bat-tan.md), [C03-bai-toan-khong-che.md](C03-bai-toan-khong-che.md)), và kết thúc bằng việc chỉ ra chủ thể duy nhất có thể giải bài toán khống chế (the containment problem) là nhà nước dân tộc (nation-state). Chương 9 ([C09-thoa-thuan-lon.md](C09-thoa-thuan-lon.md)) mở Phần III bằng chính chủ thể này và thỏa thuận lớn giữa nhà nước và công dân. Năm động lực của Chương 8 cũng là thứ mà mười bước khống chế ở Chương 14 ([C14-muoi-buoc-tien-toi-khong-che.md](C14-muoi-buoc-tien-toi-khong-che.md)) phải tìm cách xoay chuyển.
-**Ý chính:** **Công nghệ được đẩy đi bởi những nhu cầu rất con người, và chừng nào các động lực ấy còn đó thì câu hỏi "có nên làm không?" trở nên vô nghĩa: làn sóng sắp tới sẽ được xây và được dùng.** Suleyman nêu năm động lực. (1) Cạnh tranh giữa các cường quốc: trận AlphaGo thắng Lee Sedol năm 2016 (hơn 280 triệu người xem trực tiếp) trở thành "khoảnh khắc Sputnik" của Trung Quốc; hai tháng sau trận thắng Ke Jie năm 2017, Trung Quốc công bố kế hoạch dẫn đầu thế giới về AI vào năm 2030; chi R&D của Trung Quốc tăng từ 12% lên 90% của Mỹ, và gần như nước nào cũng có chiến lược AI. (2) Hệ sinh thái nghiên cứu mở: công bố, trích dẫn, mã nguồn mở (GitHub có 190 triệu kho mã, arXiv hơn 2 triệu bài), chi R&D toàn cầu hơn 700 tỷ USD mỗi năm, và nghiên cứu ở biên giới tri thức vốn không đoán trước được (CRISPR, mạng nơ-ron, GPU). (3) Lợi nhuận: bong bóng đường sắt thập niên 1840 cho thấy cơn sốt kiếm tiền để lại hạ tầng lâu dài; đầu tư vào AI đã đạt 100 tỷ USD mỗi năm, PwC dự báo AI thêm 15,7 nghìn tỷ USD cho kinh tế thế giới vào năm 2030, và về dài hạn làn sóng có thể mở ra khoảng 100 nghìn tỷ USD GDP tăng thêm. (4) Các thách thức toàn cầu: năng suất lúa mì ở Anh tăng 16 lần kể từ thế kỷ 13, nhưng biến đổi khí hậu, năng lượng (điện mới chỉ khoảng 25% năng lượng toàn cầu) và nhu cầu tăng gần 50% lương thực vào năm 2050 đòi hỏi công nghệ mới. (5) Cái tôi của nhà khoa học và kỹ sư, như câu "technically sweet" của Oppenheimer. Các động lực này cộng hưởng với nhau, nên làm chậm công nghệ đi ngược lợi ích của quốc gia, doanh nghiệp và giới nghiên cứu; đây là bài toán hành động tập thể tối hậu, và chỉ nhà nước dân tộc may ra giải được, trong khi chính nhà nước cũng đang chịu sức ép lớn.
+## Ý chính
 
-> **Lưu ý:**
-> - **"Nhanh hơn Sycamore 10^14 lần" (trang PDF 140):** sách viết các nhà khoa học Hợp Phì tuyên bố đã làm một máy tính lượng tử nhanh hơn máy Sycamore của Google 10^14 lần (lớp chữ của PDF mất chỉ số trên nên hiện thành "1014"; ảnh trang in đúng là 10 mũ 14). Theo hiểu biết của người tổng hợp, bài báo được chú thích dẫn (Zhong và cộng sự, *Science*, 12/2020, máy Jiuzhang) so tốc độ lấy mẫu với **siêu máy tính cổ điển** (nhanh hơn khoảng 10^14 lần), còn so với Sycamore thì nhóm tác giả nêu con số khoảng 10^10 lần; hai máy cũng giải hai bài toán khác nhau. Câu trong sách gộp hai phép so sánh này.
-> - **"Mặt tối của Mặt Trăng" (trang PDF 138, "dark side of the moon"):** theo hiểu biết của người tổng hợp, tàu Hằng Nga 4 (2019) đáp xuống **mặt khuất** của Mặt Trăng (mặt luôn quay ra xa Trái Đất); mặt này vẫn được Mặt Trời chiếu sáng như mặt kia, "dark side" chỉ là cách nói quen.
-> - **Con số điện chiếm "khoảng 25%" năng lượng toàn cầu (trang PDF 156)** được chú thích dẫn từ Vaclav Smil, *How the World Really Works*, trang 36. Theo hiểu biết của người tổng hợp (chưa đối chiếu nguyên tác Smil), Smil thường nêu điện chiếm khoảng 18% tiêu thụ năng lượng cuối cùng; mức chênh có thể do cách tính khác nhau. Ý của sách (phần lớn năng lượng chưa phải điện nên khó chuyển sang nguồn sạch) không đổi.
-> - **Phép tính "100 nghìn tỷ USD" (trang PDF 153) không nói rõ cách tính.** Sách viết kinh tế thế giới tăng gấp sáu lần trong nửa sau thế kỷ 20, và nếu năm mươi năm tới tăng trưởng chỉ bằng một phần ba mức đó thì vẫn mở ra khoảng 100 nghìn tỷ USD GDP tăng thêm. Minh hoạ của người tổng hợp: nếu "một phần ba" hiểu là kinh tế tăng gấp đôi trong 50 năm, thì từ nền 85 nghìn tỷ USD (con số sách dùng ở trang PDF 151) phần tăng thêm là khoảng 85 nghìn tỷ USD; nếu hiểu là tốc độ tăng mỗi năm bằng một phần ba (khoảng 1,2% thay vì 3,6%), phần tăng thêm khoảng 70 nghìn tỷ USD. Con số 100 nghìn tỷ là mức làm tròn rộng, đúng về độ lớn.
-> - **Chương 8 tự sửa Chương 1:** ở trang PDF 151, Suleyman viết rằng ở Chương 1 ông nói hầu hết mọi thứ quanh ta là sản phẩm của trí tuệ con người, và nay ông "sửa nhẹ": phần lớn những gì ta thấy được tạo ra bởi trí tuệ con người **nhằm trực tiếp kiếm tiền** ([C01-khong-the-khong-che.md](C01-khong-the-khong-che.md)).
-> - **Hai chú thích bổ sung số liệu quan trọng:** chú thích về vốn đầu tư (trang PDF 357) cho biết riêng năm 2021 có hơn 600 tỷ USD vốn mạo hiểm được rót trên toàn cầu, chủ yếu vào công nghệ và công nghệ sinh học, gấp mười lần một thập niên trước; đầu tư của quỹ đầu tư tư nhân (private equity) vào công nghệ năm 2021 vượt 400 tỷ USD. Chú thích về con số 100 tỷ USD đầu tư AI mỗi năm dẫn AI Index Report 2021 và tự thừa nhận con số "chắc chắn đã tăng" trong cơn sốt AI tạo sinh. Chú thích về tăng trưởng do AI tổng quát (trang PDF 358) nhắc tới kịch bản cực đoan "tăng đủ nhanh để tạo ra sản lượng vô hạn trong thời gian hữu hạn" trong mô hình của Trammell và Korinek.
-> - **Chú thích về bằng sáng chế (trang PDF 351)** nói số liệu của Mỹ lấy từ năm 2020 trong khi số liệu Trung Quốc là năm 2021, tức phép so sánh lệch một năm; chú thích cũng thêm rằng số bằng sáng chế giá trị cao của Trung Quốc tăng nhanh.
-> - **GitHub "190 triệu kho mã" (trang PDF 146):** chú thích dẫn một bài năm 2020 có tựa "GitHub's Path to 128M Public Repositories", tức 128 triệu là số kho **công khai**; 190 triệu là tổng số kho, đúng với câu "nhiều trong số đó công khai" của sách.
-> - **Số liệu đã cũ so với năm 2026 (theo hiểu biết của người tổng hợp):** quy mô kinh tế thế giới 85 nghìn tỷ USD là con số khoảng năm 2020, đến giữa thập niên 2020 đã vượt 100 nghìn tỷ USD (tính theo giá hiện hành); tỷ trọng công nghệ trong S&P 500 (26%, số tháng 7/2022) đến 2024–2025 đã cao hơn nhiều; đầu tư vào AI đã vượt xa 100 tỷ USD mỗi năm, riêng chi đầu tư hạ tầng AI của vài tập đoàn lớn nhất năm 2025 đã ở mức hàng trăm tỷ USD. Chi tiết ở mục "Đánh giá và phát hiện đáng chú ý".
-> - **Tên người không được nêu trong sách:** "giám đốc phần mềm đầu tiên của Lầu Năm Góc" từ chức năm 2021 (trang PDF 140) là Nicolas Chaillan (theo hiểu biết của người tổng hợp). Câu "technically sweet" của Oppenheimer được nói trong phiên điều trần về an ninh năm 1954 (theo hiểu biết của người tổng hợp; sách không ghi bối cảnh).
-> - **Ngắt đoạn bằng chữ in hoa nhỏ:** chữ đầu các đoạn sau dấu ngắt "—" in hoa nhỏ và mất trong lớp chữ; người tổng hợp đã đọc lại từ ảnh trang (ví dụ "Technology is pushed on…", "In World War II…", "Predicting anything at the frontier…", "The railway boom of…", "When a corporation automates…", "It's likely that the…", "Nationalism, capitalism, and science…").
+**Công nghệ được đẩy đi bởi những nhu cầu rất con người, và chừng nào các động lực ấy còn đó thì câu hỏi "có nên làm không?" trở nên vô nghĩa: làn sóng sắp tới sẽ được xây và được dùng.**
+
+Suleyman nêu năm động lực.
+
+- Cạnh tranh giữa các cường quốc: trận AlphaGo thắng Lee Sedol năm 2016 (hơn 280 triệu người xem trực tiếp) trở thành "khoảnh khắc Sputnik" của Trung Quốc; hai tháng sau trận thắng Ke Jie năm 2017, Trung Quốc công bố kế hoạch dẫn đầu thế giới về AI vào năm 2030; chi R&D của Trung Quốc tăng từ 12% lên 90% của Mỹ, và gần như nước nào cũng có chiến lược AI.
+- Hệ sinh thái nghiên cứu mở: công bố, trích dẫn, mã nguồn mở (GitHub có 190 triệu kho mã, arXiv hơn 2 triệu bài), chi R&D toàn cầu hơn 700 tỷ USD mỗi năm, và nghiên cứu ở biên giới tri thức vốn không đoán trước được (CRISPR, mạng nơ-ron, GPU).
+- Lợi nhuận: bong bóng đường sắt thập niên 1840 cho thấy cơn sốt kiếm tiền để lại hạ tầng lâu dài; đầu tư vào AI đã đạt 100 tỷ USD mỗi năm, PwC dự báo AI thêm 15,7 nghìn tỷ USD cho kinh tế thế giới vào năm 2030, và về dài hạn làn sóng có thể mở ra khoảng 100 nghìn tỷ USD GDP tăng thêm.
+- Các thách thức toàn cầu: năng suất lúa mì ở Anh tăng 16 lần kể từ thế kỷ 13, nhưng biến đổi khí hậu, năng lượng (điện mới chỉ khoảng 25% năng lượng toàn cầu) và nhu cầu tăng gần 50% lương thực vào năm 2050 đòi hỏi công nghệ mới.
+- Cái tôi của nhà khoa học và kỹ sư, như câu "technically sweet" của Oppenheimer.
+
+Các động lực này cộng hưởng với nhau, nên làm chậm công nghệ đi ngược lợi ích của quốc gia, doanh nghiệp và giới nghiên cứu. Đây là bài toán hành động tập thể tối hậu, và chỉ nhà nước dân tộc may ra giải được, trong khi chính nhà nước cũng đang chịu sức ép lớn.
 
 ## Sơ đồ
 
@@ -526,9 +522,15 @@
 
 **Chiều thứ tư: đối đầu quốc gia.** Dưới bề mặt, Suleyman thấy một chiều quan trọng hơn mà ông đã lờ mờ lo từ trước trận và càng thấy rõ khi trận đấu diễn ra. Khi Lee Sedol ngồi vào bàn, DeepMind được đại diện bằng lá cờ Union Jack của Anh, còn phía Lee Sedol treo taegeukgi, lá cờ Hàn Quốc. Trận đấu thành phương Tây đấu phương Đông. Suleyman viết rằng hàm ý đối đầu quốc gia này là điều ông sớm thấy hối tiếc.
 
-**Quy mô ở châu Á.** Ở phương Tây, chỉ những người mê AI theo dõi và báo chí đưa tin ở mức vừa phải. Ở châu Á, sự kiện lớn hơn cả trận chung kết bóng bầu dục Mỹ (Super Bowl): hơn 280 triệu người xem trực tiếp (chú thích của sách dẫn trang sự kiện của Google về Future of Go Summit). DeepMind thuê trọn một khách sạn ở trung tâm Seoul, bị hàng trăm phóng viên ảnh và máy quay truyền hình vây kín; với người phương Tây, mức độ chú ý ấy thật xa lạ cho một trò chơi họ coi là dành cho người mê toán. Ở châu Á, không chỉ giới kỹ thuật mà ai cũng xem, kể cả các công ty công nghệ, chính phủ và quân đội. Kết quả gây chấn động cho tất cả: một công ty phương Tây, đặt trụ sở ở London và thuộc sở hữu Mỹ, đã bước vào một trò chơi cổ xưa, mang tính biểu tượng và được trân quý, cắm cờ của mình xuống và đánh bại đội chủ nhà. Suleyman so sánh: giống như một nhóm robot Hàn Quốc đến sân Yankee Stadium và đánh bại đội tuyển bóng chày toàn sao của Mỹ. Với DeepMind, đó là một thí nghiệm khoa học, một màn trình diễn kỹ thuật mà họ mất nhiều năm hoàn thiện. Với nhiều người ở châu Á, đó là một vết thương cho lòng tự hào khu vực và dân tộc.
+**Quy mô ở châu Á.** Ở phương Tây, chỉ những người mê AI theo dõi và báo chí đưa tin ở mức vừa phải. Ở châu Á, sự kiện lớn hơn cả trận chung kết bóng bầu dục Mỹ (Super Bowl): hơn 280 triệu người xem trực tiếp (chú thích của sách dẫn trang sự kiện của Google về Future of Go Summit).
 
-**Ô Trấn, 2017.** Một năm sau, tháng 5/2017, AlphaGo đấu với Ke Jie, kỳ thủ số một thế giới, tại Future of Go Summit ở Ô Trấn, Trung Quốc. Sự đón tiếp khác hẳn: Trung Quốc cấm phát trực tiếp các ván đấu, cấm nhắc tên Google; không khí chặt chẽ, có kiểm soát, câu chuyện được chính quyền dàn dựng cẩn thận. Không còn cảnh báo chí ồn ào. Thông điệp ngầm rất rõ: đây không còn là một trò chơi. AlphaGo lại thắng, nhưng trong bầu không khí căng thẳng. Suleyman kết luận rằng nếu Seoul là gợi ý, thì Ô Trấn làm điều đó rõ hẳn: AlphaGo là một phần của câu chuyện lớn hơn nhiều so với một chiếc cúp, một hệ thống hay một công ty. Đó là câu chuyện các cường quốc bước vào một trò chơi cạnh tranh công nghệ mới và nguy hiểm, cùng một chuỗi động lực rất mạnh và đan cài nhau bảo đảm rằng làn sóng sắp tới thật sự sẽ đến.
+DeepMind thuê trọn một khách sạn ở trung tâm Seoul, bị hàng trăm phóng viên ảnh và máy quay truyền hình vây kín; với người phương Tây, mức độ chú ý ấy thật xa lạ cho một trò chơi họ coi là dành cho người mê toán. Ở châu Á, không chỉ giới kỹ thuật mà ai cũng xem, kể cả các công ty công nghệ, chính phủ và quân đội.
+
+Kết quả gây chấn động cho tất cả: một công ty phương Tây, đặt trụ sở ở London và thuộc sở hữu Mỹ, đã bước vào một trò chơi cổ xưa, mang tính biểu tượng và được trân quý, cắm cờ của mình xuống và đánh bại đội chủ nhà. Suleyman so sánh: giống như một nhóm robot Hàn Quốc đến sân Yankee Stadium và đánh bại đội tuyển bóng chày toàn sao của Mỹ. Với DeepMind, đó là một thí nghiệm khoa học, một màn trình diễn kỹ thuật mà họ mất nhiều năm hoàn thiện. Với nhiều người ở châu Á, đó là một vết thương cho lòng tự hào khu vực và dân tộc.
+
+**Ô Trấn, 2017.** Một năm sau, tháng 5/2017, AlphaGo đấu với Ke Jie, kỳ thủ số một thế giới, tại Future of Go Summit ở Ô Trấn, Trung Quốc. Sự đón tiếp khác hẳn: Trung Quốc cấm phát trực tiếp các ván đấu, cấm nhắc tên Google; không khí chặt chẽ, có kiểm soát, câu chuyện được chính quyền dàn dựng cẩn thận. Không còn cảnh báo chí ồn ào. Thông điệp ngầm rất rõ: đây không còn là một trò chơi.
+
+AlphaGo lại thắng, nhưng trong bầu không khí căng thẳng. Suleyman kết luận rằng nếu Seoul là gợi ý, thì Ô Trấn làm điều đó rõ hẳn: AlphaGo là một phần của câu chuyện lớn hơn nhiều so với một chiếc cúp, một hệ thống hay một công ty. Đó là câu chuyện các cường quốc bước vào một trò chơi cạnh tranh công nghệ mới và nguy hiểm, cùng một chuỗi động lực rất mạnh và đan cài nhau bảo đảm rằng làn sóng sắp tới thật sự sẽ đến.
 
 ### 2. Năm động lực đẩy công nghệ đi tới (tên do người tổng hợp đặt; trang PDF 136)
 
@@ -550,7 +552,9 @@ Suleyman nêu luận điểm chung: công nghệ được đẩy đi bởi nhữ
 
 Nước Mỹ sau Thế chiến II coi ưu thế công nghệ của mình là đương nhiên, cho đến khi Sputnik đánh thức họ. Mùa thu năm 1957, Liên Xô phóng Sputnik, vệ tinh nhân tạo đầu tiên của thế giới, lần đầu tiên loài người vươn vào không gian. Vệ tinh chỉ cỡ một quả bóng bãi biển nhưng lúc đó trông như đến từ tương lai; cả thế giới nghe được tiếng bíp của nó phát quanh hành tinh. Đó là một kỳ tích không thể chối cãi.
 
-Với Mỹ, đây là một cuộc khủng hoảng, một "trận Trân Châu Cảng về công nghệ" (chú thích của sách dẫn bài "Sputnik's Impact on America" của PBS). Chính sách thay đổi ngay: khoa học và công nghệ, từ trường trung học đến phòng thí nghiệm tiên tiến, trở thành ưu tiên quốc gia, với tiền mới và cơ quan mới như NASA và DARPA. Nguồn lực khổng lồ được đổ vào các dự án công nghệ lớn, nhất là chương trình Apollo, thúc đẩy nhiều tiến bộ về tên lửa, vi điện tử và lập trình máy tính. Các liên minh non trẻ như NATO được củng cố. Mười hai năm sau, chính Mỹ, chứ không phải Liên Xô, đưa được người lên Mặt Trăng, còn Liên Xô gần như phá sản vì cố theo kịp. Suleyman tóm lại: với Sputnik, Liên Xô đã vượt Mỹ bằng một thành tựu kỹ thuật lịch sử có hệ quả địa chính trị to lớn; nhưng khi Mỹ cần vươn lên, Mỹ đã làm được.
+Với Mỹ, đây là một cuộc khủng hoảng, một "trận Trân Châu Cảng về công nghệ" (chú thích của sách dẫn bài "Sputnik's Impact on America" của PBS). Chính sách thay đổi ngay: khoa học và công nghệ, từ trường trung học đến phòng thí nghiệm tiên tiến, trở thành ưu tiên quốc gia, với tiền mới và cơ quan mới như NASA và DARPA.
+
+Nguồn lực khổng lồ được đổ vào các dự án công nghệ lớn, nhất là chương trình Apollo, thúc đẩy nhiều tiến bộ về tên lửa, vi điện tử và lập trình máy tính. Các liên minh non trẻ như NATO được củng cố. Mười hai năm sau, chính Mỹ, chứ không phải Liên Xô, đưa được người lên Mặt Trăng, còn Liên Xô gần như phá sản vì cố theo kịp. Suleyman tóm lại: với Sputnik, Liên Xô đã vượt Mỹ bằng một thành tựu kỹ thuật lịch sử có hệ quả địa chính trị to lớn; nhưng khi Mỹ cần vươn lên, Mỹ đã làm được.
 
 #### 3.2. AlphaGo, khoảnh khắc Sputnik của Trung Quốc (trang PDF 137–138)
 
@@ -562,7 +566,9 @@ Theo Đảng Cộng sản Trung Quốc, đã đến lúc giành lại vị trí 
 
 #### 3.3. Kế hoạch AI 2030 và những gì Trung Quốc đã đạt (trang PDF 138–139)
 
-Mô hình quản trị từ trên xuống cho phép Trung Quốc huy động toàn bộ nguồn lực nhà nước cho mục tiêu công nghệ (chú thích của sách dẫn Nigel Inkster, *The Great Decoupling*, 2020). Trung Quốc có chiến lược quốc gia công khai là dẫn đầu thế giới về AI vào năm 2030. Kế hoạch phát triển trí tuệ nhân tạo thế hệ mới (New Generation Artificial Intelligence Development Plan) được công bố chỉ hai tháng sau khi Ke Jie thua AlphaGo, nhằm gắn kết chính phủ, quân đội, các tổ chức nghiên cứu và doanh nghiệp vào một sứ mệnh chung. Kế hoạch tuyên bố rằng đến năm 2030, lý thuyết, công nghệ và ứng dụng AI của Trung Quốc phải đạt trình độ hàng đầu thế giới, đưa Trung Quốc thành trung tâm đổi mới AI chủ yếu của thế giới (chú thích của sách dẫn bản dịch toàn văn của DigiChina, Đại học Stanford). Từ quốc phòng đến thành phố thông minh, từ lý thuyết cơ bản đến ứng dụng mới, Trung Quốc phải chiếm "đỉnh cao chỉ huy" của AI.
+Mô hình quản trị từ trên xuống cho phép Trung Quốc huy động toàn bộ nguồn lực nhà nước cho mục tiêu công nghệ (chú thích của sách dẫn Nigel Inkster, *The Great Decoupling*, 2020). Trung Quốc có chiến lược quốc gia công khai là dẫn đầu thế giới về AI vào năm 2030. Kế hoạch phát triển trí tuệ nhân tạo thế hệ mới (New Generation Artificial Intelligence Development Plan) được công bố chỉ hai tháng sau khi Ke Jie thua AlphaGo, nhằm gắn kết chính phủ, quân đội, các tổ chức nghiên cứu và doanh nghiệp vào một sứ mệnh chung.
+
+Kế hoạch tuyên bố rằng đến năm 2030, lý thuyết, công nghệ và ứng dụng AI của Trung Quốc phải đạt trình độ hàng đầu thế giới, đưa Trung Quốc thành trung tâm đổi mới AI chủ yếu của thế giới (chú thích của sách dẫn bản dịch toàn văn của DigiChina, Đại học Stanford). Từ quốc phòng đến thành phố thông minh, từ lý thuyết cơ bản đến ứng dụng mới, Trung Quốc phải chiếm "đỉnh cao chỉ huy" của AI.
 
 Suleyman nhấn mạnh đây không phải lời nói suông. Vào lúc ông viết, chỉ sáu năm sau khi kế hoạch được công bố, Mỹ và các nước phương Tây không còn dẫn trước quá xa về nghiên cứu AI:
 
@@ -596,15 +602,21 @@ Không chỉ AI: từ công nghệ sạch đến khoa học sinh học, Trung Qu
 | 2018 | Số bằng sáng chế lượng tử gấp đôi Mỹ |
 | Đang diễn ra | Đầu tư hơn 10 tỷ USD xây Phòng thí nghiệm quốc gia về khoa học thông tin lượng tử ở Hợp Phì, cơ sở lớn nhất loại này trên thế giới |
 
-Micius chỉ là bước đầu trong tham vọng xây một internet lượng tử không thể bị xâm nhập. Trung Quốc giữ kỷ lục về số qubit được liên kết bằng rối lượng tử (quantum entanglement), một bước quan trọng tiến tới máy tính lượng tử hoàn chỉnh. Các nhà khoa học ở Hợp Phì thậm chí tuyên bố đã làm ra một máy tính lượng tử nhanh hơn Sycamore, máy tính đột phá của Google, tới 10^14 lần (chú thích của sách dẫn Zhong và cộng sự, *Science*, 12/2020; xem phần Lưu ý về phép so sánh này). Pan Jianwei, trưởng nhóm nghiên cứu Micius và một trong những nhà khoa học lượng tử hàng đầu thế giới, nói rõ ý nghĩa: theo ông, Trung Quốc đã mở một "cuộc đua không gian lượng tử" toàn cầu; với khoa học thông tin hiện đại, Trung Quốc từng là người học và người theo sau, còn với công nghệ lượng tử, nếu cố hết sức, Trung Quốc có thể là một trong những người chơi chính.
+Micius chỉ là bước đầu trong tham vọng xây một internet lượng tử không thể bị xâm nhập. Trung Quốc giữ kỷ lục về số qubit được liên kết bằng rối lượng tử (quantum entanglement), một bước quan trọng tiến tới máy tính lượng tử hoàn chỉnh. Các nhà khoa học ở Hợp Phì thậm chí tuyên bố đã làm ra một máy tính lượng tử nhanh hơn Sycamore, máy tính đột phá của Google, tới 10^14 lần (chú thích của sách dẫn Zhong và cộng sự, *Science*, 12/2020; xem mục Lưu ý cuối chương về phép so sánh này).
+
+Pan Jianwei, trưởng nhóm nghiên cứu Micius và một trong những nhà khoa học lượng tử hàng đầu thế giới, nói rõ ý nghĩa: theo ông, Trung Quốc đã mở một "cuộc đua không gian lượng tử" toàn cầu; với khoa học thông tin hiện đại, Trung Quốc từng là người học và người theo sau, còn với công nghệ lượng tử, nếu cố hết sức, Trung Quốc có thể là một trong những người chơi chính.
 
 #### 3.5. Phương Tây đánh giá sai, Mỹ mất dần thế dẫn đầu (trang PDF 140–141)
 
 Suleyman thừa nhận phương Tây (dùng chữ "chúng ta") đã sai khi hàng chục năm liền gạt đi năng lực của Trung Quốc với lý do "không sáng tạo": cho rằng Trung Quốc chỉ giỏi bắt chước, quá gò bó và thiếu tự do, và doanh nghiệp nhà nước kém cỏi. Nhìn lại, phần lớn các đánh giá đó sai; và ở chỗ chúng có lý thì cũng không ngăn được Trung Quốc thành một người khổng lồ về khoa học và kỹ thuật, một phần vì các kênh chuyển giao sở hữu trí tuệ hợp pháp (mua công ty, dịch tạp chí) được bổ sung bằng trộm cắp trắng trợn, ép chuyển giao, kỹ thuật đảo ngược và các chiến dịch gián điệp.
 
-Trong khi đó, Mỹ đang mất thế dẫn đầu chiến lược. Nhiều năm liền ai cũng thấy Mỹ vượt trội về mọi thứ, từ thiết kế bán dẫn đến dược phẩm, từ phát minh ra internet đến công nghệ quân sự tinh vi nhất. Theo Suleyman, ưu thế ấy chưa mất hẳn nhưng đang mất dần. Một báo cáo của Graham Allison (Harvard) cho rằng tình hình nghiêm trọng hơn nhiều so với cách phần lớn phương Tây hình dung: Trung Quốc đã vượt Mỹ về năng lượng xanh, 5G và AI, và đang trên đà vượt Mỹ về lượng tử và công nghệ sinh học trong vài năm tới. Giám đốc phần mềm đầu tiên của Lầu Năm Góc từ chức năm 2021 để phản đối vì quá thất vọng; ông nói với *Financial Times* rằng Mỹ không còn cơ hội cạnh tranh với Trung Quốc trong 15 đến 20 năm tới, rằng theo ông mọi chuyện đã an bài.
+Trong khi đó, Mỹ đang mất thế dẫn đầu chiến lược. Nhiều năm liền ai cũng thấy Mỹ vượt trội về mọi thứ, từ thiết kế bán dẫn đến dược phẩm, từ phát minh ra internet đến công nghệ quân sự tinh vi nhất. Theo Suleyman, ưu thế ấy chưa mất hẳn nhưng đang mất dần. Một báo cáo của Graham Allison (Harvard) cho rằng tình hình nghiêm trọng hơn nhiều so với cách phần lớn phương Tây hình dung: Trung Quốc đã vượt Mỹ về năng lượng xanh, 5G và AI, và đang trên đà vượt Mỹ về lượng tử và công nghệ sinh học trong vài năm tới.
 
-Không lâu sau khi lên làm chủ tịch nước năm 2013, Tập Cận Bình có một bài phát biểu với hệ quả lâu dài cho Trung Quốc và cả thế giới. Ông tuyên bố công nghệ tiên tiến là "vũ khí sắc bén của nhà nước hiện đại", rằng công nghệ Trung Quốc nhìn chung còn thua các nước phát triển, nên phải áp dụng chiến lược bất đối xứng để đuổi kịp và vượt lên (chú thích của sách dẫn Inkster, *The Great Decoupling*, trang 193). Suleyman nhận xét rằng khác với phần lớn những gì Tập Cận Bình nói, bất kỳ lãnh đạo nào cũng có thể nói câu này một cách đáng tin: tổng thống Mỹ hay Brazil, thủ tướng Đức hay Ấn Độ đều sẽ đồng ý rằng công nghệ là "vũ khí sắc bén" giúp quốc gia có ảnh hưởng. Tập Cận Bình chỉ nói ra một sự thật trần trụi, là câu thần chú của gần như mọi nhà nước, từ siêu cường ở biên giới công nghệ đến những nước bị cô lập: ai làm ra, sở hữu và triển khai công nghệ là điều quan trọng.
+Giám đốc phần mềm đầu tiên của Lầu Năm Góc từ chức năm 2021 để phản đối vì quá thất vọng; ông nói với *Financial Times* rằng Mỹ không còn cơ hội cạnh tranh với Trung Quốc trong 15 đến 20 năm tới, rằng theo ông mọi chuyện đã an bài.
+
+Không lâu sau khi lên làm chủ tịch nước năm 2013, Tập Cận Bình có một bài phát biểu với hệ quả lâu dài cho Trung Quốc và cả thế giới. Ông tuyên bố công nghệ tiên tiến là "vũ khí sắc bén của nhà nước hiện đại", rằng công nghệ Trung Quốc nhìn chung còn thua các nước phát triển, nên phải áp dụng chiến lược bất đối xứng để đuổi kịp và vượt lên (chú thích của sách dẫn Inkster, *The Great Decoupling*, trang 193).
+
+Suleyman nhận xét rằng khác với phần lớn những gì Tập Cận Bình nói, bất kỳ lãnh đạo nào cũng có thể nói câu này một cách đáng tin: tổng thống Mỹ hay Brazil, thủ tướng Đức hay Ấn Độ đều sẽ đồng ý rằng công nghệ là "vũ khí sắc bén" giúp quốc gia có ảnh hưởng. Tập Cận Bình chỉ nói ra một sự thật trần trụi, là câu thần chú của gần như mọi nhà nước, từ siêu cường ở biên giới công nghệ đến những nước bị cô lập: ai làm ra, sở hữu và triển khai công nghệ là điều quan trọng.
 
 ### 4. The Arms Race — Cuộc chạy đua vũ trang (trang PDF 141–144)
 
@@ -616,9 +628,13 @@ Suleyman phân biệt động lực này với các động lực khác trong ch
 
 #### 4.2. Suleyman từng phản đối cách nhìn "chạy đua" (trang PDF 141–142)
 
-Suleyman kể ông đã lâu phản đối việc coi tiến bộ công nghệ là một cuộc chạy đua vũ trang quốc tế có tổng bằng không. Ở DeepMind, ông luôn bác bỏ việc gọi DeepMind là "Dự án Manhattan về AI", không chỉ vì phép so sánh với vũ khí hạt nhân mà vì chính cách gọi ấy có thể khởi động một loạt Dự án Manhattan khác, nuôi động lực chạy đua đúng vào lúc thế giới cần phối hợp chặt chẽ, có điểm dừng và có lúc làm chậm. Nhưng thực tế là logic của nhà nước dân tộc đôi khi đơn giản đến đau lòng mà không thể tránh được. Trong bối cảnh an ninh quốc gia, chỉ cần nêu một ý tưởng đã là nguy hiểm: lời vừa nói ra thì súng lệnh đã nổ, chính lời lẽ tạo ra phản ứng quốc gia quyết liệt, và từ đó mọi thứ leo thang.
+Suleyman kể ông đã lâu phản đối việc coi tiến bộ công nghệ là một cuộc chạy đua vũ trang quốc tế có tổng bằng không. Ở DeepMind, ông luôn bác bỏ việc gọi DeepMind là "Dự án Manhattan về AI", không chỉ vì phép so sánh với vũ khí hạt nhân mà vì chính cách gọi ấy có thể khởi động một loạt Dự án Manhattan khác, nuôi động lực chạy đua đúng vào lúc thế giới cần phối hợp chặt chẽ, có điểm dừng và có lúc làm chậm.
 
-Rất nhiều bạn bè và đồng nghiệp của ông ở Washington và Brussels, trong chính phủ, các viện nghiên cứu chính sách và đại học, đều lặp lại một lập luận mà ông thấy rất bực mình: dù chưa thật sự có chạy đua vũ trang, ta phải giả định "họ" nghĩ là có, nên ta phải tự chạy đua để giành ưu thế chiến lược quyết định, vì làn sóng công nghệ mới có thể làm cân bằng quyền lực toàn cầu thay đổi hoàn toàn. Thái độ này trở thành lời tiên tri tự ứng nghiệm. Suleyman nói không cần giả vờ nữa: cạnh tranh với Trung Quốc là một trong số ít lĩnh vực được cả hai đảng ở Washington đồng thuận. Cuộc tranh luận nay không còn là có hay không một cuộc chạy đua công nghệ và AI, mà là cuộc đua sẽ dẫn tới đâu.
+Nhưng thực tế là logic của nhà nước dân tộc đôi khi đơn giản đến đau lòng mà không thể tránh được. Trong bối cảnh an ninh quốc gia, chỉ cần nêu một ý tưởng đã là nguy hiểm: lời vừa nói ra thì súng lệnh đã nổ, chính lời lẽ tạo ra phản ứng quốc gia quyết liệt, và từ đó mọi thứ leo thang.
+
+Rất nhiều bạn bè và đồng nghiệp của ông ở Washington và Brussels, trong chính phủ, các viện nghiên cứu chính sách và đại học, đều lặp lại một lập luận mà ông thấy rất bực mình: dù chưa thật sự có chạy đua vũ trang, ta phải giả định "họ" nghĩ là có, nên ta phải tự chạy đua để giành ưu thế chiến lược quyết định, vì làn sóng công nghệ mới có thể làm cân bằng quyền lực toàn cầu thay đổi hoàn toàn.
+
+Thái độ này trở thành lời tiên tri tự ứng nghiệm. Suleyman nói không cần giả vờ nữa: cạnh tranh với Trung Quốc là một trong số ít lĩnh vực được cả hai đảng ở Washington đồng thuận. Cuộc tranh luận nay không còn là có hay không một cuộc chạy đua công nghệ và AI, mà là cuộc đua sẽ dẫn tới đâu.
 
 #### 4.3. Chủ nghĩa dân tộc công nghệ lan khắp thế giới (trang PDF 142–143)
 
@@ -629,7 +645,9 @@ Cuộc đua thường được mô tả là chuyện của hai nước Mỹ và 
 - Tổng thống Pháp Emmanuel Macron tuyên bố "chúng ta sẽ chiến đấu để xây một metaverse châu Âu". Ý rộng hơn của ông là châu Âu đã không làm ra được những tập đoàn công nghệ khổng lồ như Mỹ và Trung Quốc, có ít đột phá hơn, thiếu cả sở hữu trí tuệ lẫn năng lực sản xuất ở những phần then chốt của hệ sinh thái công nghệ. Theo ông và nhiều người khác, an ninh, thịnh vượng và uy tín của châu Âu đều phụ thuộc vào việc châu Âu trở thành cường quốc thứ ba (chú thích của sách dẫn chương trình France 2030).
 - Mỗi nước có thế mạnh riêng: Anh về khoa học sinh học và AI; Đức, Nhật, Hàn Quốc về robot; Israel về an ninh mạng. Nước nào cũng có chương trình R&D lớn trên các phần của làn sóng, với hệ sinh thái khởi nghiệp dân sự ngày càng được hậu thuẫn bởi nhu cầu quân sự.
 
-**Ấn Độ.** Suleyman coi Ấn Độ là trụ cột thứ tư hiển nhiên của trật tự thế giới mới, bên cạnh Mỹ, Trung Quốc và EU. Dân số Ấn Độ trẻ, ưa kinh doanh, đô thị hoá nhanh, ngày càng kết nối và thạo công nghệ. Đến năm 2030, kinh tế Ấn Độ sẽ vượt Anh, Đức, Nhật để thành lớn thứ ba thế giới; đến năm 2050 sẽ đạt 30 nghìn tỷ USD (chú thích của sách dẫn một phát biểu của Gautam Adani trên *Economic Times*, 2022). Chính phủ quyết tâm biến công nghệ Ấn Độ thành hiện thực: qua chương trình Atmanirbhar Bharat (Ấn Độ tự cường), chính phủ muốn quốc gia đông dân nhất thế giới sở hữu các hệ thống công nghệ cốt lõi cạnh tranh được với Mỹ và Trung Quốc. Trong khuôn khổ đó, Ấn Độ hợp tác với Nhật về AI và robot, với Israel về máy bay không người lái. Suleyman viết: hãy chuẩn bị cho một làn sóng Ấn Độ.
+**Ấn Độ.** Suleyman coi Ấn Độ là trụ cột thứ tư hiển nhiên của trật tự thế giới mới, bên cạnh Mỹ, Trung Quốc và EU. Dân số Ấn Độ trẻ, ưa kinh doanh, đô thị hoá nhanh, ngày càng kết nối và thạo công nghệ. Đến năm 2030, kinh tế Ấn Độ sẽ vượt Anh, Đức, Nhật để thành lớn thứ ba thế giới; đến năm 2050 sẽ đạt 30 nghìn tỷ USD (chú thích của sách dẫn một phát biểu của Gautam Adani trên *Economic Times*, 2022).
+
+Chính phủ quyết tâm biến công nghệ Ấn Độ thành hiện thực: qua chương trình Atmanirbhar Bharat (Ấn Độ tự cường), chính phủ muốn quốc gia đông dân nhất thế giới sở hữu các hệ thống công nghệ cốt lõi cạnh tranh được với Mỹ và Trung Quốc. Trong khuôn khổ đó, Ấn Độ hợp tác với Nhật về AI và robot, với Israel về máy bay không người lái. Suleyman viết: hãy chuẩn bị cho một làn sóng Ấn Độ.
 
 #### 4.4. Chạy đua với bóng ma: Dự án Manhattan và "khoảng cách tên lửa" (trang PDF 143)
 
@@ -643,7 +661,9 @@ Liệu các cuộc chạy đua công nghệ hiện nay có lặp lại sai lầm
 
 Thành tựu diễn ra công khai, theo thời gian thực: Trung Quốc đáp tàu lên Mặt Trăng, Ấn Độ có hệ thống định danh sinh trắc học Aadhaar cho hơn một tỷ người. Ai cũng biết Trung Quốc có những LLM khổng lồ, Đài Loan dẫn đầu về bán dẫn, Hàn Quốc có chuyên môn robot hàng đầu, và chính phủ khắp nơi công bố và thực hiện chiến lược công nghệ chi tiết. Tất cả diễn ra công khai, được chia sẻ qua bằng sáng chế và hội nghị học thuật, đưa tin trên *Wired* và *Financial Times*, phát trực tiếp trên Bloomberg.
 
-Vì vậy, tuyên bố có chạy đua vũ trang không còn là một trò ảo thuật hay một lời tiên tri tự ứng nghiệm: lời tiên tri đã ứng nghiệm, cuộc đua đang diễn ra. Suleyman nêu một điểm hiển nhiên đến mức ít ai nhắc: không có cơ quan trung ương nào kiểm soát việc công nghệ nào được phát triển, ai phát triển và để làm gì; công nghệ là một dàn nhạc không có nhạc trưởng. Theo ông, chính sự thật đơn giản này có thể là điều quan trọng nhất của thế kỷ 21. Nếu cụm từ "chạy đua vũ trang" làm người ta lo, thì nỗi lo đó có cơ sở: khó có nền móng nào bấp bênh hơn cho một loạt công nghệ đang leo thang bằng nhận thức (và thực tế) về một cuộc cạnh tranh tổng bằng không xây trên nỗi sợ. Nhưng công nghệ còn có những động lực khác, tích cực hơn.
+Vì vậy, tuyên bố có chạy đua vũ trang không còn là một trò ảo thuật hay một lời tiên tri tự ứng nghiệm: lời tiên tri đã ứng nghiệm, cuộc đua đang diễn ra.
+
+Suleyman nêu một điểm hiển nhiên đến mức ít ai nhắc: không có cơ quan trung ương nào kiểm soát việc công nghệ nào được phát triển, ai phát triển và để làm gì; công nghệ là một dàn nhạc không có nhạc trưởng. Theo ông, chính sự thật đơn giản này có thể là điều quan trọng nhất của thế kỷ 21. Nếu cụm từ "chạy đua vũ trang" làm người ta lo, thì nỗi lo đó có cơ sở: khó có nền móng nào bấp bênh hơn cho một loạt công nghệ đang leo thang bằng nhận thức (và thực tế) về một cuộc cạnh tranh tổng bằng không xây trên nỗi sợ. Nhưng công nghệ còn có những động lực khác, tích cực hơn.
 
 ### 5. Knowledge Just Wants to Be Free — Tri thức chỉ muốn được tự do (trang PDF 144–148)
 
@@ -653,7 +673,9 @@ Sự tò mò thuần tuý, việc tìm kiếm sự thật, tầm quan trọng c�
 
 Suleyman gọi sự cởi mở là hệ tư tưởng trung tâm của khoa học và công nghệ: điều đã biết phải được chia sẻ, điều đã phát hiện phải được công bố. Khoa học và công nghệ sống nhờ tranh luận tự do và chia sẻ thông tin mở, đến mức chính sự cởi mở đã thành một động lực mạnh (và có lợi đáng kinh ngạc).
 
-Ông dẫn khái niệm "đổi mới công nghệ mở" (open technological innovation) của Audrey Kurth Cronin (chú thích của sách dẫn cuốn *Power to the People* của Cronin): hệ thống phát triển tri thức và công nghệ toàn cầu nay rộng và mở đến mức gần như không thể lái, quản lý hay, nếu cần, đóng lại. Vì vậy năng lực hiểu, tạo ra, xây tiếp và điều chỉnh công nghệ phân tán rất rộng. Một công trình ít ai biết của một nghiên cứu sinh khoa học máy tính năm nay có thể nằm trong tay hàng trăm triệu người dùng năm sau, nên rất khó dự đoán hay kiểm soát. Các công ty công nghệ dĩ nhiên muốn giữ bí mật, nhưng họ cũng có xu hướng tuân theo triết lý mở của ngành phần mềm và giới học thuật. Kết quả là đổi mới lan nhanh hơn, xa hơn và gây xáo trộn hơn.
+Ông dẫn khái niệm "đổi mới công nghệ mở" (open technological innovation) của Audrey Kurth Cronin (chú thích của sách dẫn cuốn *Power to the People* của Cronin): hệ thống phát triển tri thức và công nghệ toàn cầu nay rộng và mở đến mức gần như không thể lái, quản lý hay, nếu cần, đóng lại. Vì vậy năng lực hiểu, tạo ra, xây tiếp và điều chỉnh công nghệ phân tán rất rộng.
+
+Một công trình ít ai biết của một nghiên cứu sinh khoa học máy tính năm nay có thể nằm trong tay hàng trăm triệu người dùng năm sau, nên rất khó dự đoán hay kiểm soát. Các công ty công nghệ dĩ nhiên muốn giữ bí mật, nhưng họ cũng có xu hướng tuân theo triết lý mở của ngành phần mềm và giới học thuật. Kết quả là đổi mới lan nhanh hơn, xa hơn và gây xáo trộn hơn.
 
 #### 5.2. Cơ chế khuyến khích công bố (trang PDF 145–146)
 
@@ -686,7 +708,9 @@ Lượng lớn dữ liệu và mã AI là công khai:
 | Chi R&D của Amazon | 78 tỷ USD; nếu là một quốc gia thì đứng thứ 9 thế giới |
 | Alphabet, Apple, Huawei, Meta, Microsoft | Mỗi hãng chi hơn 20 tỷ USD/năm cho R&D (chú thích của sách dẫn tin Huawei chi 22 tỷ USD cho R&D để vượt lệnh trừng phạt của Mỹ) |
 
-Thêm vào đó, tài trợ và hợp tác xuyên biên giới là chuyện bình thường; nhiều dự án có hàng trăm nhà nghiên cứu chia sẻ thông tin tự do; hàng nghìn bài hướng dẫn và khoá học về kỹ thuật tiên tiến nhất có sẵn trên mạng. Những công ty đầu tư mạnh nhất vào làn sóng sắp tới, với ngân sách lớn nhất, đều có thói quen công bố nghiên cứu công khai. Suleyman kết luận: tương lai đang được xây theo lối mã nguồn mở, công bố trên arXiv, lưu trên GitHub, vì trích dẫn, vì uy tín nghiên cứu và vì lời hứa về biên chế giảng dạy suốt đời (tenure). Yêu cầu cởi mở cùng khối lượng khổng lồ tài liệu nghiên cứu dễ tiếp cận tạo ra một tập hợp động lực và nền tảng ăn sâu, phân tán rộng, không ai quản lý được hoàn toàn.
+Thêm vào đó, tài trợ và hợp tác xuyên biên giới là chuyện bình thường; nhiều dự án có hàng trăm nhà nghiên cứu chia sẻ thông tin tự do; hàng nghìn bài hướng dẫn và khoá học về kỹ thuật tiên tiến nhất có sẵn trên mạng.
+
+Những công ty đầu tư mạnh nhất vào làn sóng sắp tới, với ngân sách lớn nhất, đều có thói quen công bố nghiên cứu công khai. Suleyman kết luận: tương lai đang được xây theo lối mã nguồn mở, công bố trên arXiv, lưu trên GitHub, vì trích dẫn, vì uy tín nghiên cứu và vì lời hứa về biên chế giảng dạy suốt đời (tenure). Yêu cầu cởi mở cùng khối lượng khổng lồ tài liệu nghiên cứu dễ tiếp cận tạo ra một tập hợp động lực và nền tảng ăn sâu, phân tán rộng, không ai quản lý được hoàn toàn.
 
 #### 5.4. Không ai đoán được đột phá đến từ đâu (trang PDF 147–148)
 
@@ -694,7 +718,9 @@ Dự đoán bất cứ điều gì ở biên giới tri thức đều khó. Ai m
 
 **CRISPR.** Công nghệ chỉnh sửa gen CRISPR bắt nguồn từ công trình của nhà nghiên cứu Tây Ban Nha Francisco Mojica, người muốn hiểu vì sao một số sinh vật đơn bào sống tốt trong nước lợ. Mojica tình cờ phát hiện những đoạn DNA lặp lại, sau này là phần then chốt của CRISPR; các đoạn lặp tụ thành cụm này có vẻ quan trọng, và chính ông đặt ra cái tên CRISPR. Về sau, hai nhà nghiên cứu ở một công ty sữa chua Đan Mạch tìm cách bảo vệ những vi khuẩn thiết yếu cho men cái trong quá trình lên men sữa chua, và công trình của họ giúp chỉ ra cơ chế cốt lõi có thể vận hành thế nào. Những con đường khó ngờ ấy là nền móng cho câu chuyện công nghệ sinh học có lẽ lớn nhất thế kỷ 21.
 
-**Mạng nơ-ron.** Một lĩnh vực có thể đứng yên hàng chục năm rồi đổi khác trong vài tháng. Mạng nơ-ron (neural networks) bị bỏ rơi hàng chục năm, bị những tên tuổi như Marvin Minsky chê bai. Chỉ vài nhà nghiên cứu đơn độc như Geoffrey Hinton và Yann LeCun giữ cho hướng này sống qua một thời kỳ mà chữ "neural" gây tranh cãi đến mức các nhà nghiên cứu cố tình xoá nó khỏi bài báo. Vào thập niên 1990, điều đó tưởng như không thể, nhưng mạng nơ-ron rốt cuộc thống trị AI. Thế mà cũng chính LeCun nói AlphaGo là bất khả chỉ vài ngày trước khi nó tạo đột phá lớn đầu tiên (chú thích của sách dẫn Metz, *Genius Makers*, trang 58). Suleyman nói điều này không làm LeCun mất uy tín mà chỉ cho thấy ở biên giới nghiên cứu không ai chắc được điều gì.
+**Mạng nơ-ron.** Một lĩnh vực có thể đứng yên hàng chục năm rồi đổi khác trong vài tháng. Mạng nơ-ron (neural networks) bị bỏ rơi hàng chục năm, bị những tên tuổi như Marvin Minsky chê bai. Chỉ vài nhà nghiên cứu đơn độc như Geoffrey Hinton và Yann LeCun giữ cho hướng này sống qua một thời kỳ mà chữ "neural" gây tranh cãi đến mức các nhà nghiên cứu cố tình xoá nó khỏi bài báo.
+
+Vào thập niên 1990, điều đó tưởng như không thể, nhưng mạng nơ-ron rốt cuộc thống trị AI. Thế mà cũng chính LeCun nói AlphaGo là bất khả chỉ vài ngày trước khi nó tạo đột phá lớn đầu tiên (chú thích của sách dẫn Metz, *Genius Makers*, trang 58). Suleyman nói điều này không làm LeCun mất uy tín mà chỉ cho thấy ở biên giới nghiên cứu không ai chắc được điều gì.
 
 **GPU.** Ngay cả con đường phần cứng dẫn tới AI cũng không đoán trước được. GPU (bộ xử lý đồ hoạ) là nền tảng của AI hiện đại, nhưng ban đầu được phát triển để làm đồ hoạ trò chơi điện tử ngày càng chân thực. Đây là minh hoạ cho tính đa dụng toàn diện (omni-use) của công nghệ: khả năng xử lý song song nhanh cho đồ hoạ hào nhoáng hoá ra rất hợp để huấn luyện mạng nơ-ron sâu. Theo Suleyman, rốt cuộc là may mắn khi nhu cầu chơi game ảnh thực khiến các công ty như NVIDIA đầu tư nhiều vào phần cứng tốt hơn, và phần cứng ấy lại hợp với học máy đến vậy. NVIDIA chẳng phàn nàn gì: giá cổ phiếu của hãng tăng 1.000% trong năm năm sau AlexNet (chú thích của sách dẫn Melanie Mitchell, *Artificial Intelligence*, trang 103).
 
@@ -704,7 +730,9 @@ Suleyman rút ra: nếu trong quá khứ có ai tìm cách giám sát và địn
 
 #### 6.1. Đường sắt Liverpool–Manchester và cơn sốt đường sắt (trang PDF 148–150)
 
-Năm 1830, tuyến đường sắt chở khách đầu tiên được khai trương giữa Liverpool và Manchester. Để xây kỳ công kỹ thuật này, cần một đạo luật của Quốc hội; tuyến đường cần cầu, đường xẻ qua đồi, đoạn đường nâng qua đất lầy, và giải quyết vô số tranh chấp đất đai. Lễ khai trương có các quan chức cấp cao, gồm thủ tướng và nghị sĩ của Liverpool là William Huskisson. Trong buổi lễ, đám đông đứng trên đường ray để chào đón con tàu đang tới. Cỗ máy còn quá xa lạ đến mức người ta không lường được tốc độ của tàu, và chính Huskisson bị cán chết dưới bánh đầu máy. Với những người chứng kiến kinh hoàng, đầu máy hơi nước Rocket của George Stephenson là một quái vật xa lạ, phun khói, đáng sợ, hiện thân mờ nhoè của hiện đại và máy móc.
+Năm 1830, tuyến đường sắt chở khách đầu tiên được khai trương giữa Liverpool và Manchester. Để xây kỳ công kỹ thuật này, cần một đạo luật của Quốc hội; tuyến đường cần cầu, đường xẻ qua đồi, đoạn đường nâng qua đất lầy, và giải quyết vô số tranh chấp đất đai.
+
+Lễ khai trương có các quan chức cấp cao, gồm thủ tướng và nghị sĩ của Liverpool là William Huskisson. Trong buổi lễ, đám đông đứng trên đường ray để chào đón con tàu đang tới. Cỗ máy còn quá xa lạ đến mức người ta không lường được tốc độ của tàu, và chính Huskisson bị cán chết dưới bánh đầu máy. Với những người chứng kiến kinh hoàng, đầu máy hơi nước Rocket của George Stephenson là một quái vật xa lạ, phun khói, đáng sợ, hiện thân mờ nhoè của hiện đại và máy móc.
 
 Nhưng nó cũng là một hiện tượng, nhanh hơn bất cứ thứ gì người ta từng trải qua, và tăng trưởng rất nhanh:
 
@@ -717,7 +745,9 @@ Nhưng nó cũng là một hiện tượng, nhanh hơn bất cứ thứ gì ngư
 
 Chính phủ thấy cơ hội lớn hơn. Năm 1844, nghị sĩ trẻ William Gladstone đưa ra Đạo luật Quản lý Đường sắt (Railway Regulation Act) để thúc đẩy đầu tư. Chỉ trong vài tháng năm 1845, các công ty nộp hàng trăm đơn xin xây tuyến mới. Trong khi phần còn lại của thị trường chứng khoán đi ngang, cổ phiếu đường sắt bùng nổ và nhà đầu tư đổ xô vào; lúc đỉnh điểm, cổ phiếu đường sắt chiếm hơn hai phần ba tổng giá trị thị trường chứng khoán. Chưa đầy một năm sau, sụp đổ bắt đầu; thị trường chạm đáy năm 1850, thấp hơn đỉnh 66%. Suleyman nhận xét rằng, không phải lần đầu cũng không phải lần cuối, lợi nhuận dễ dàng đã làm người ta tham lam và dại dột; hàng nghìn người mất trắng.
 
-Dù vậy, một thời đại mới đã đến cùng cơn sốt. Thế giới thôn dã cũ bị xé nát bởi cầu cạn, đường hầm, đường xẻ, nhà ga lớn, khói than và tiếng còi. Từ vài tuyến rời rạc, cơn sốt đầu tư tạo ra khung của một mạng lưới quốc gia liền mạch, khiến đất nước như thu nhỏ lại. Thập niên 1830, đi từ London đến Edinburgh mất nhiều ngày trên xe ngựa chở khách chật chội; đến thập niên 1850, một chuyến tàu đi hết dưới mười hai giờ. Việc được nối với phần còn lại của đất nước làm các thị trấn, thành phố và vùng phát triển mạnh; du lịch, thương mại và đời sống gia đình thay đổi. Đường sắt còn tạo ra nhu cầu về một giờ chuẩn quốc gia để các bảng giờ tàu có nghĩa. Và tất cả được làm ra nhờ cơn khát lợi nhuận không ngừng.
+Dù vậy, một thời đại mới đã đến cùng cơn sốt. Thế giới thôn dã cũ bị xé nát bởi cầu cạn, đường hầm, đường xẻ, nhà ga lớn, khói than và tiếng còi. Từ vài tuyến rời rạc, cơn sốt đầu tư tạo ra khung của một mạng lưới quốc gia liền mạch, khiến đất nước như thu nhỏ lại.
+
+Thập niên 1830, đi từ London đến Edinburgh mất nhiều ngày trên xe ngựa chở khách chật chội; đến thập niên 1850, một chuyến tàu đi hết dưới mười hai giờ. Việc được nối với phần còn lại của đất nước làm các thị trấn, thành phố và vùng phát triển mạnh; du lịch, thương mại và đời sống gia đình thay đổi. Đường sắt còn tạo ra nhu cầu về một giờ chuẩn quốc gia để các bảng giờ tàu có nghĩa. Và tất cả được làm ra nhờ cơn khát lợi nhuận không ngừng.
 
 #### 6.2. Giai đoạn cuồng nhiệt và động lực lợi nhuận (trang PDF 150–151)
 
@@ -742,7 +772,9 @@ Suleyman nói đây không phải điều xấu. Chỉ vài trăm năm trước,
 | Máy may của Isaac Singer | Thời gian may một chiếc áo sơ mi giảm từ 14 giờ xuống 1 giờ (hai số liệu này chú thích của sách dẫn Greenspan và Wooldridge, *Capitalism in America*) |
 | Giờ làm việc hằng năm ở Đức | Giảm gần 60% kể từ năm 1870 |
 
-Về gốc rễ, đây là câu chuyện áp dụng khoa học và công nghệ một cách có hệ thống nhằm kiếm lợi nhuận, và điều đó tạo ra những bước nhảy lớn về sản lượng và mức sống. Ở các nền kinh tế phát triển, người ta làm ít hơn nhiều mà được hưởng nhiều hơn nhiều. Công nghệ bước vào một vòng tuần hoàn tốt: tạo ra của cải để tái đầu tư vào phát triển công nghệ tiếp theo, tất cả nâng mức sống lên. Nhưng không cá nhân nào thực sự lấy các mục tiêu dài hạn ấy làm mục tiêu chính. Suleyman sửa lại một câu ở Chương 1: ở đó ông nói hầu như mọi thứ quanh ta là sản phẩm của trí tuệ con người; nay ông nói chính xác hơn rằng phần lớn những gì ta thấy quanh mình được tạo ra bởi trí tuệ con người theo đuổi trực tiếp lợi ích tiền bạc.
+Về gốc rễ, đây là câu chuyện áp dụng khoa học và công nghệ một cách có hệ thống nhằm kiếm lợi nhuận, và điều đó tạo ra những bước nhảy lớn về sản lượng và mức sống. Ở các nền kinh tế phát triển, người ta làm ít hơn nhiều mà được hưởng nhiều hơn nhiều. Công nghệ bước vào một vòng tuần hoàn tốt: tạo ra của cải để tái đầu tư vào phát triển công nghệ tiếp theo, tất cả nâng mức sống lên.
+
+Nhưng không cá nhân nào thực sự lấy các mục tiêu dài hạn ấy làm mục tiêu chính. Suleyman sửa lại một câu ở Chương 1: ở đó ông nói hầu như mọi thứ quanh ta là sản phẩm của trí tuệ con người; nay ông nói chính xác hơn rằng phần lớn những gì ta thấy quanh mình được tạo ra bởi trí tuệ con người theo đuổi trực tiếp lợi ích tiền bạc.
 
 Động cơ này đã tạo ra một nền kinh tế thế giới trị giá 85 nghìn tỷ USD và vẫn đang tăng. Từ những người tiên phong của Cách mạng Công nghiệp đến các doanh nhân Thung lũng Silicon ngày nay, công nghệ có một sức hút mạnh dưới dạng phần thưởng tài chính lớn. Làn sóng sắp tới là phần thưởng kinh tế lớn nhất lịch sử, một kho hàng tiêu dùng dồi dào và một trung tâm lợi nhuận tiềm năng không gì sánh được. Theo Suleyman, ai muốn khống chế nó phải giải thích được làm sao thuyết phục một hệ thống tư bản toàn cầu, phân tán, có sức mạnh không kiềm chế, chịu giảm tốc, chưa nói đến chuyện từ bỏ hẳn phần thưởng ấy.
 
@@ -774,13 +806,23 @@ Như với Cách mạng Công nghiệp, phần thưởng kinh tế tiềm năng 
 
 Nhất là khi các nguồn tăng trưởng khác ngày càng khan hiếm, đây là những động lực rất mạnh, và với lợi nhuận cao đến vậy, ngăn cơn sốt vàng là cực kỳ khó.
 
-Các dự báo này có hợp lý không? Suleyman thừa nhận các con số gây choáng và việc rút ra những con số lớn cho tương lai gần trên giấy là dễ. Nhưng trong khung thời gian dài hơn một chút, chúng không hẳn vô lý. Thị trường có thể khai thác của làn sóng, giống như Cách mạng Công nghiệp lần thứ nhất và thứ hai, rốt cuộc mở rộng ra toàn bộ nền kinh tế thế giới. Một người cuối thế kỷ 18 hẳn sẽ không tin GDP đầu người có thể tăng 100 lần, nhưng điều đó đã xảy ra. Theo Suleyman, với các dự báo ấy và với việc làn sóng chạm đến những lĩnh vực nền tảng, mức tăng 10–15% cho kinh tế thế giới trong thập niên tới có thể còn là thận trọng, và về dài hạn có lẽ lớn hơn nhiều. Ông đưa phép tính: kinh tế thế giới tăng gấp sáu lần trong nửa sau thế kỷ 20; kể cả nếu năm mươi năm tới tăng trưởng chậm lại chỉ còn một phần ba mức đó, nó vẫn mở ra khoảng 100 nghìn tỷ USD GDP tăng thêm (chú thích của sách dẫn OECD, 2006). Đây là con số trong tên mục.
+Các dự báo này có hợp lý không? Suleyman thừa nhận các con số gây choáng và việc rút ra những con số lớn cho tương lai gần trên giấy là dễ. Nhưng trong khung thời gian dài hơn một chút, chúng không hẳn vô lý. Thị trường có thể khai thác của làn sóng, giống như Cách mạng Công nghiệp lần thứ nhất và thứ hai, rốt cuộc mở rộng ra toàn bộ nền kinh tế thế giới.
+
+Một người cuối thế kỷ 18 hẳn sẽ không tin GDP đầu người có thể tăng 100 lần, nhưng điều đó đã xảy ra. Theo Suleyman, với các dự báo ấy và với việc làn sóng chạm đến những lĩnh vực nền tảng, mức tăng 10–15% cho kinh tế thế giới trong thập niên tới có thể còn là thận trọng, và về dài hạn có lẽ lớn hơn nhiều.
+
+Ông đưa phép tính: kinh tế thế giới tăng gấp sáu lần trong nửa sau thế kỷ 20; kể cả nếu năm mươi năm tới tăng trưởng chậm lại chỉ còn một phần ba mức đó, nó vẫn mở ra khoảng 100 nghìn tỷ USD GDP tăng thêm (chú thích của sách dẫn OECD, 2006). Đây là con số trong tên mục.
 
 #### 6.6. Trí tuệ là thứ có giá trị nhất (trang PDF 153–154)
 
-Suleyman bảo người đọc hình dung tác động của làn sóng hệ thống AI mới. Mô hình ngôn ngữ lớn cho phép trò chuyện hữu ích với AI về bất kỳ chủ đề nào bằng ngôn ngữ tự nhiên trôi chảy. Ông dự đoán trong vài năm tới, dù làm nghề gì, mỗi người sẽ có thể hỏi ý kiến một chuyên gia theo yêu cầu: hỏi về chiến dịch quảng cáo hay thiết kế sản phẩm mới nhất, hỏi chi tiết một tình huống pháp lý khó, tách ra những yếu tố hiệu quả nhất của một bài thuyết trình gọi vốn, giải một bài toán hậu cần hóc búa, xin ý kiến thứ hai về một chẩn đoán, rồi tiếp tục hỏi sâu và nhận câu trả lời ngày càng chi tiết dựa trên tri thức mới nhất, với sắc thái tinh tế. Toàn bộ tri thức, cách làm tốt nhất, tiền lệ và sức mạnh tính toán của thế giới sẽ có sẵn, may đo cho từng người, tức thời và không tốn công. Theo ông, đây là bước nhảy về tiềm năng nhận thức ít nhất lớn bằng internet, và đó là còn chưa tính tới hệ quả của trí tuệ nhân tạo có năng lực (ACI) và Phép thử Turing hiện đại (Modern Turing Test) đã bàn ở Chương 4 ([C04-cong-nghe-cua-tri-tue.md](C04-cong-nghe-cua-tri-tue.md)).
+Suleyman bảo người đọc hình dung tác động của làn sóng hệ thống AI mới. Mô hình ngôn ngữ lớn cho phép trò chuyện hữu ích với AI về bất kỳ chủ đề nào bằng ngôn ngữ tự nhiên trôi chảy.
 
-Theo Suleyman, khó có gì giá trị hơn trí tuệ: trí tuệ là nguồn gốc, là người chỉ huy, kiến trúc sư và người tạo điều kiện cho nền kinh tế thế giới. Càng mở rộng phạm vi và loại trí tuệ có sẵn, càng có thể tăng trưởng nhiều hơn. Với AI đa năng, các kịch bản kinh tế hợp lý cho thấy nó có thể không chỉ làm tăng trưởng nhanh hơn mà còn làm chính tốc độ tăng trưởng tăng lên vĩnh viễn (chú thích của sách dẫn Trammell và Korinek, "Economic Growth Under Transformative AI", Global Priorities Institute, 2020, và nói mô hình này dẫn tới cả kịch bản cực đoan, không thể xảy ra, là tăng trưởng đủ nhanh để tạo ra sản lượng vô hạn trong thời gian hữu hạn). Nói thẳng theo ngôn ngữ kinh tế, về dài hạn AI có thể là công nghệ giá trị nhất từ trước tới nay, nhất là khi kết hợp với sinh học tổng hợp, robot và các công nghệ khác.
+Ông dự đoán trong vài năm tới, dù làm nghề gì, mỗi người sẽ có thể hỏi ý kiến một chuyên gia theo yêu cầu: hỏi về chiến dịch quảng cáo hay thiết kế sản phẩm mới nhất, hỏi chi tiết một tình huống pháp lý khó, tách ra những yếu tố hiệu quả nhất của một bài thuyết trình gọi vốn, giải một bài toán hậu cần hóc búa, xin ý kiến thứ hai về một chẩn đoán, rồi tiếp tục hỏi sâu và nhận câu trả lời ngày càng chi tiết dựa trên tri thức mới nhất, với sắc thái tinh tế.
+
+Toàn bộ tri thức, cách làm tốt nhất, tiền lệ và sức mạnh tính toán của thế giới sẽ có sẵn, may đo cho từng người, tức thời và không tốn công. Theo ông, đây là bước nhảy về tiềm năng nhận thức ít nhất lớn bằng internet, và đó là còn chưa tính tới hệ quả của trí tuệ nhân tạo có năng lực (ACI) và Phép thử Turing hiện đại (Modern Turing Test) đã bàn ở Chương 4 ([C04-cong-nghe-cua-tri-tue.md](C04-cong-nghe-cua-tri-tue.md)).
+
+Theo Suleyman, khó có gì giá trị hơn trí tuệ: trí tuệ là nguồn gốc, là người chỉ huy, kiến trúc sư và người tạo điều kiện cho nền kinh tế thế giới. Càng mở rộng phạm vi và loại trí tuệ có sẵn, càng có thể tăng trưởng nhiều hơn.
+
+Với AI đa năng, các kịch bản kinh tế hợp lý cho thấy nó có thể không chỉ làm tăng trưởng nhanh hơn mà còn làm chính tốc độ tăng trưởng tăng lên vĩnh viễn (chú thích của sách dẫn Trammell và Korinek, "Economic Growth Under Transformative AI", Global Priorities Institute, 2020, và nói mô hình này dẫn tới cả kịch bản cực đoan, không thể xảy ra, là tăng trưởng đủ nhanh để tạo ra sản lượng vô hạn trong thời gian hữu hạn). Nói thẳng theo ngôn ngữ kinh tế, về dài hạn AI có thể là công nghệ giá trị nhất từ trước tới nay, nhất là khi kết hợp với sinh học tổng hợp, robot và các công nghệ khác.
 
 Các khoản đầu tư ấy không thụ động: chúng góp phần lớn làm cho AI thành ra như vậy, thêm một lời tiên tri tự ứng nghiệm đã thành hiện thực. Hàng nghìn tỷ USD ấy là giá trị gia tăng và cơ hội rất lớn cho xã hội, mang lại mức sống tốt hơn cho hàng tỷ người cùng lợi nhuận khổng lồ cho lợi ích tư nhân. Dù nhìn theo cách nào, điều đó tạo ra một động lực ăn sâu để tiếp tục tìm và tung ra công nghệ mới.
 
@@ -788,7 +830,9 @@ Các khoản đầu tư ấy không thụ động: chúng góp phần lớn làm
 
 #### 7.1. Nuôi sống loài người (trang PDF 154–156)
 
-Trong phần lớn lịch sử, nuôi sống bản thân và gia đình là thách thức chính của đời người. Làm nông luôn vất vả và bấp bênh, và trước những cải tiến của thế kỷ 20 thì còn khó hơn rất nhiều. Bất kỳ biến động thời tiết nào (quá lạnh, quá nóng, quá khô, quá ướt) cũng có thể là thảm hoạ. Gần như mọi việc làm bằng tay, may ra có vài con bò giúp sức; có lúc trong năm gần như không có việc, có lúc thì hàng tuần lao động nặng nhọc không nghỉ. Mùa màng có thể bị sâu bệnh phá, hỏng sau thu hoạch, hay bị quân xâm lược cướp. Phần lớn nông dân sống lay lắt qua ngày, thường là nông nô phải nộp phần lớn vụ mùa ít ỏi. Ngay ở những vùng màu mỡ nhất, năng suất thấp và mong manh. Khi Thomas Malthus lập luận năm 1798 rằng dân số tăng nhanh sẽ sớm vượt quá sức chở của nông nghiệp và dẫn tới sụp đổ, ông không sai: với năng suất đứng yên, quy luật này sẽ đúng và thường đã đúng.
+Trong phần lớn lịch sử, nuôi sống bản thân và gia đình là thách thức chính của đời người. Làm nông luôn vất vả và bấp bênh, và trước những cải tiến của thế kỷ 20 thì còn khó hơn rất nhiều. Bất kỳ biến động thời tiết nào (quá lạnh, quá nóng, quá khô, quá ướt) cũng có thể là thảm hoạ. Gần như mọi việc làm bằng tay, may ra có vài con bò giúp sức; có lúc trong năm gần như không có việc, có lúc thì hàng tuần lao động nặng nhọc không nghỉ.
+
+Mùa màng có thể bị sâu bệnh phá, hỏng sau thu hoạch, hay bị quân xâm lược cướp. Phần lớn nông dân sống lay lắt qua ngày, thường là nông nô phải nộp phần lớn vụ mùa ít ỏi. Ngay ở những vùng màu mỡ nhất, năng suất thấp và mong manh. Khi Thomas Malthus lập luận năm 1798 rằng dân số tăng nhanh sẽ sớm vượt quá sức chở của nông nghiệp và dẫn tới sụp đổ, ông không sai: với năng suất đứng yên, quy luật này sẽ đúng và thường đã đúng.
 
 Điều Malthus không tính tới là tầm vóc của sự khéo léo con người. Từ luân canh, chọn giống, cày cơ giới, phân bón tổng hợp, thuốc trừ sâu, biến đổi gen, đến nay là trồng và làm cỏ tối ưu bằng AI, các kỹ thuật mới dần thay đổi mọi thứ:
 
@@ -801,7 +845,9 @@ Trong phần lớn lịch sử, nuôi sống bản thân và gia đình là thá
 | Tỷ lệ dân số thế giới thiếu ăn nghiêm trọng | Khoảng 50% năm 1945; nay 10%, dù dân số lớn hơn ba lần |
 | Số người thiếu ăn hiện nay | Hơn 600 triệu, một con số không thể chấp nhận; nhưng nếu vẫn ở tỷ lệ năm 1945 thì sẽ là 4 tỷ người (dù thực ra không thể giữ chừng ấy người sống) |
 
-Suleyman hỏi: một nông dân thời trung cổ sẽ đánh đổi gì để có những máy gặt đập liên hợp khổng lồ và hệ thống tưới tiêu quy mô lớn của nông dân hiện đại? Với họ, mức cải thiện 16 lần hẳn là phép màu, và theo ông đúng là phép màu. Nuôi sống thế giới vẫn là thách thức lớn, nhưng nhu cầu ấy đã đẩy công nghệ đi tới và tạo ra một sự dồi dào chưa từng tưởng tượng: đủ thức ăn, dù chưa được phân phối hợp lý, cho tám tỷ người và hơn nữa. Như với nguồn cung lương thực, công nghệ là phần sống còn để giải quyết các thách thức nhân loại phải đối mặt hôm nay và ngày mai. Ta theo đuổi công nghệ mới, kể cả công nghệ của làn sóng sắp tới, không chỉ vì muốn mà vì về căn bản ta *cần* chúng.
+Suleyman hỏi: một nông dân thời trung cổ sẽ đánh đổi gì để có những máy gặt đập liên hợp khổng lồ và hệ thống tưới tiêu quy mô lớn của nông dân hiện đại? Với họ, mức cải thiện 16 lần hẳn là phép màu, và theo ông đúng là phép màu. Nuôi sống thế giới vẫn là thách thức lớn, nhưng nhu cầu ấy đã đẩy công nghệ đi tới và tạo ra một sự dồi dào chưa từng tưởng tượng: đủ thức ăn, dù chưa được phân phối hợp lý, cho tám tỷ người và hơn nữa.
+
+Như với nguồn cung lương thực, công nghệ là phần sống còn để giải quyết các thách thức nhân loại phải đối mặt hôm nay và ngày mai. Ta theo đuổi công nghệ mới, kể cả công nghệ của làn sóng sắp tới, không chỉ vì muốn mà vì về căn bản ta *cần* chúng.
 
 #### 7.2. Khí hậu, năng lượng và vật liệu (trang PDF 156–157)
 
@@ -821,7 +867,11 @@ Dù có nhiều lý do chính đáng để nói về chuyển đổi năng lư�
 
 Mật độ năng lượng của hydrocarbon rất khó thay thế cho những việc như bay máy bay hay chạy tàu container. Nhà nghiên cứu năng lượng Vaclav Smil gọi amoniac, xi măng, nhựa và thép là bốn trụ cột của văn minh hiện đại: nền vật chất của xã hội hiện đại, mỗi thứ thải rất nhiều carbon khi sản xuất và chưa có thứ thay thế rõ ràng. Không có các vật liệu này, đời sống hiện đại dừng lại; không có nhiên liệu hoá thạch, các vật liệu này dừng lại. Xe điện không thải carbon khi chạy nhưng vẫn ngốn tài nguyên. Sản xuất lương thực là thành công lớn của công nghệ, nhưng từ máy kéo, phân bón tổng hợp đến nhà kính nhựa, nó thấm đẫm nhiên liệu hoá thạch.
 
-Các nhà khoa học làm việc trong Ủy ban Liên chính phủ về Biến đổi Khí hậu (IPCC) của Liên Hợp Quốc đã nói rõ: muốn có cơ hội giữ ấm lên dưới 2°C, thu giữ và lưu trữ carbon là công nghệ bắt buộc. Thế nhưng công nghệ này phần lớn chưa được phát minh hoặc chưa được triển khai ở quy mô lớn (chú thích của sách dẫn Elizabeth Kolbert, *Under a White Sky*, 2022). Để đáp ứng thách thức này, phải thiết kế lại từ gốc các hệ thống nông nghiệp, sản xuất, giao thông và năng lượng bằng công nghệ mới trung hoà carbon, thậm chí có lẽ phải âm carbon. Trên thực tế, điều đó nghĩa là xây lại toàn bộ hạ tầng của xã hội hiện đại, đồng thời mong cải thiện chất lượng sống cho hàng tỷ người. Nhân loại không có lựa chọn nào khác ngoài đối mặt với những thách thức này, và nhiều thách thức khác như cung cấp dịch vụ y tế ngày càng đắt cho dân số già mắc các bệnh mạn tính khó chữa. Suleyman gọi đây là một động lực mạnh khác, và nói có một lập luận đạo đức mạnh cho công nghệ mới, vượt lên trên lợi nhuận hay lợi thế.
+Các nhà khoa học làm việc trong Ủy ban Liên chính phủ về Biến đổi Khí hậu (IPCC) của Liên Hợp Quốc đã nói rõ: muốn có cơ hội giữ ấm lên dưới 2°C, thu giữ và lưu trữ carbon là công nghệ bắt buộc. Thế nhưng công nghệ này phần lớn chưa được phát minh hoặc chưa được triển khai ở quy mô lớn (chú thích của sách dẫn Elizabeth Kolbert, *Under a White Sky*, 2022).
+
+Để đáp ứng thách thức này, phải thiết kế lại từ gốc các hệ thống nông nghiệp, sản xuất, giao thông và năng lượng bằng công nghệ mới trung hoà carbon, thậm chí có lẽ phải âm carbon. Trên thực tế, điều đó nghĩa là xây lại toàn bộ hạ tầng của xã hội hiện đại, đồng thời mong cải thiện chất lượng sống cho hàng tỷ người.
+
+Nhân loại không có lựa chọn nào khác ngoài đối mặt với những thách thức này, và nhiều thách thức khác như cung cấp dịch vụ y tế ngày càng đắt cho dân số già mắc các bệnh mạn tính khó chữa. Suleyman gọi đây là một động lực mạnh khác, và nói có một lập luận đạo đức mạnh cho công nghệ mới, vượt lên trên lợi nhuận hay lợi thế.
 
 #### 7.3. Công nghệ mới có thể làm gì, và giới hạn của nó (trang PDF 157–158)
 
@@ -835,17 +885,27 @@ Suleyman liệt kê những gì công nghệ có thể làm:
 - Pin bền vững và mở rộng được cần công nghệ mới căn bản. Máy tính lượng tử kết hợp AI, với khả năng mô phỏng đến cấp độ phân tử, có thể giúp tìm các chất thay thế pin lithium thông thường, nhẹ hơn, rẻ hơn, sạch hơn, dễ sản xuất và tái chế hơn, dồi dào hơn.
 - Tương tự với vật liệu quang điện hay khám phá thuốc: mô phỏng phân tử để tìm hợp chất mới chính xác và mạnh hơn nhiều so với các kỹ thuật thực nghiệm chậm chạp trước đây. Suleyman gọi đây là siêu tiến hoá (hyper-evolution) đang diễn ra ([C07-bon-dac-diem-cua-lan-song.md](C07-bon-dac-diem-cua-lan-song.md)), hứa hẹn tiết kiệm hàng tỷ USD chi R&D và vượt xa mô hình nghiên cứu hiện nay.
 
-Ông cũng đặt giới hạn. Có một trường phái giải pháp công nghệ ngây thơ (naive techno-solutionism) coi công nghệ là lời giải cho mọi vấn đề của thế giới. Một mình công nghệ thì không phải; cách nó được tạo ra, sử dụng, sở hữu và quản lý đều tạo ra khác biệt. Không ai nên giả vờ công nghệ là câu trả lời gần như phép màu cho một vấn đề đa diện và khổng lồ như biến đổi khí hậu. Nhưng ý nghĩ rằng ta có thể vượt qua các thách thức định hình thế kỷ này mà không có công nghệ mới là hoàn toàn hoang tưởng. Cũng nên nhớ công nghệ của làn sóng sẽ làm cuộc sống dễ dàng hơn, khoẻ mạnh hơn, năng suất hơn và thú vị hơn cho hàng tỷ người, tiết kiệm thời gian, chi phí, phiền toái và cứu hàng triệu mạng người. Ý nghĩa này không nên bị xem nhẹ hay lãng quên giữa sự bất định. Làn sóng sắp tới đến một phần vì không có lối đi nào khác mà không cần nó. Bên cạnh những lực có hệ thống ở quy mô lớn như vậy, theo kinh nghiệm của Suleyman còn một lực mang tính cá nhân hơn, luôn hiện diện và phần lớn bị đánh giá thấp: cái tôi.
+Ông cũng đặt giới hạn. Có một trường phái giải pháp công nghệ ngây thơ (naive techno-solutionism) coi công nghệ là lời giải cho mọi vấn đề của thế giới. Một mình công nghệ thì không phải; cách nó được tạo ra, sử dụng, sở hữu và quản lý đều tạo ra khác biệt. Không ai nên giả vờ công nghệ là câu trả lời gần như phép màu cho một vấn đề đa diện và khổng lồ như biến đổi khí hậu. Nhưng ý nghĩ rằng ta có thể vượt qua các thách thức định hình thế kỷ này mà không có công nghệ mới là hoàn toàn hoang tưởng.
+
+Cũng nên nhớ công nghệ của làn sóng sẽ làm cuộc sống dễ dàng hơn, khoẻ mạnh hơn, năng suất hơn và thú vị hơn cho hàng tỷ người, tiết kiệm thời gian, chi phí, phiền toái và cứu hàng triệu mạng người. Ý nghĩa này không nên bị xem nhẹ hay lãng quên giữa sự bất định. Làn sóng sắp tới đến một phần vì không có lối đi nào khác mà không cần nó. Bên cạnh những lực có hệ thống ở quy mô lớn như vậy, theo kinh nghiệm của Suleyman còn một lực mang tính cá nhân hơn, luôn hiện diện và phần lớn bị đánh giá thấp: cái tôi.
 
 ### 8. Ego — Cái tôi (trang PDF 158–160)
 
-Các nhà khoa học và kỹ sư công nghệ cũng là con người. Họ khao khát địa vị, thành công và di sản; muốn là người đầu tiên, giỏi nhất và được công nhận như vậy. Họ ganh đua, thông minh, có ý thức được vun đắp kỹ về vị trí của mình trong thế giới và trong lịch sử. Họ thích đẩy các giới hạn, đôi khi vì tiền nhưng thường vì vinh quang, đôi khi chỉ vì chính việc đó. Các nhà khoa học và kỹ sư AI thuộc nhóm được trả lương cao nhất thế giới, thế nhưng điều thực sự khiến họ ra khỏi giường mỗi sáng là viễn cảnh được là người đầu tiên đạt một đột phá, hay thấy tên mình trên một bài báo mang tính bước ngoặt. Dù người ta yêu hay ghét, các ông trùm công nghệ và doanh nhân được xem là những ngôi sao dẫn đường đặc biệt về quyền lực, giàu có, tầm nhìn và ý chí. Cả người phê phán lẫn người hâm mộ đều xem họ là hiện thân của cái tôi, những người rất giỏi biến điều muốn làm thành hiện thực.
+Các nhà khoa học và kỹ sư công nghệ cũng là con người. Họ khao khát địa vị, thành công và di sản; muốn là người đầu tiên, giỏi nhất và được công nhận như vậy. Họ ganh đua, thông minh, có ý thức được vun đắp kỹ về vị trí của mình trong thế giới và trong lịch sử. Họ thích đẩy các giới hạn, đôi khi vì tiền nhưng thường vì vinh quang, đôi khi chỉ vì chính việc đó.
 
-**Tâm thế của kỹ sư.** Suleyman nói các kỹ sư thường có một kiểu tư duy riêng. J. Robert Oppenheimer, giám đốc phòng thí nghiệm Los Alamos, là người có nguyên tắc cao, nhưng trên hết ông là người giải quyết vấn đề vì tò mò. Câu nổi tiếng của Oppenheimer khi chứng kiến vụ thử hạt nhân đầu tiên là câu trong kinh Bhagavad Gita của Ấn Độ giáo: "Giờ đây ta trở thành Thần Chết, kẻ huỷ diệt các thế giới". Suleyman cho rằng một câu khác của ông cũng đáng sợ không kém: khi thấy một điều gì đó "ngọt ngào về mặt kỹ thuật" (technically sweet), người ta cứ thế làm, và chỉ tranh luận nên làm gì với nó sau khi đã thành công về kỹ thuật (chú thích của sách dẫn *Oxford Essential Quotations*). Đồng nghiệp của ông trong Dự án Manhattan, nhà bác học người Mỹ gốc Hungary John von Neumann, cũng có thái độ ấy. Von Neumann nói rằng thứ họ đang tạo ra là một con quái vật sẽ thay đổi lịch sử, nếu lịch sử còn tồn tại, nhưng không thể không làm đến cùng, không chỉ vì lý do quân sự mà vì về đạo đức nhà khoa học không được bỏ không làm điều họ biết là khả thi, dù hậu quả khủng khiếp đến đâu (chú thích của sách dẫn George Dyson, *Turing's Cathedral*).
+Các nhà khoa học và kỹ sư AI thuộc nhóm được trả lương cao nhất thế giới, thế nhưng điều thực sự khiến họ ra khỏi giường mỗi sáng là viễn cảnh được là người đầu tiên đạt một đột phá, hay thấy tên mình trên một bài báo mang tính bước ngoặt. Dù người ta yêu hay ghét, các ông trùm công nghệ và doanh nhân được xem là những ngôi sao dẫn đường đặc biệt về quyền lực, giàu có, tầm nhìn và ý chí. Cả người phê phán lẫn người hâm mộ đều xem họ là hiện thân của cái tôi, những người rất giỏi biến điều muốn làm thành hiện thực.
+
+**Tâm thế của kỹ sư.** Suleyman nói các kỹ sư thường có một kiểu tư duy riêng. J. Robert Oppenheimer, giám đốc phòng thí nghiệm Los Alamos, là người có nguyên tắc cao, nhưng trên hết ông là người giải quyết vấn đề vì tò mò. Câu nổi tiếng của Oppenheimer khi chứng kiến vụ thử hạt nhân đầu tiên là câu trong kinh Bhagavad Gita của Ấn Độ giáo: "Giờ đây ta trở thành Thần Chết, kẻ huỷ diệt các thế giới". Suleyman cho rằng một câu khác của ông cũng đáng sợ không kém: khi thấy một điều gì đó "ngọt ngào về mặt kỹ thuật" (technically sweet), người ta cứ thế làm, và chỉ tranh luận nên làm gì với nó sau khi đã thành công về kỹ thuật (chú thích của sách dẫn *Oxford Essential Quotations*).
+
+Đồng nghiệp của ông trong Dự án Manhattan, nhà bác học người Mỹ gốc Hungary John von Neumann, cũng có thái độ ấy. Von Neumann nói rằng thứ họ đang tạo ra là một con quái vật sẽ thay đổi lịch sử, nếu lịch sử còn tồn tại, nhưng không thể không làm đến cùng, không chỉ vì lý do quân sự mà vì về đạo đức nhà khoa học không được bỏ không làm điều họ biết là khả thi, dù hậu quả khủng khiếp đến đâu (chú thích của sách dẫn George Dyson, *Turing's Cathedral*).
 
 Suleyman viết rằng ai ở đủ lâu trong môi trường kỹ thuật, dù nghe nói nhiều về đạo đức và trách nhiệm xã hội, sẽ nhận ra quan điểm này rất phổ biến, kể cả khi đối mặt với công nghệ cực mạnh. Ông đã thấy nó nhiều lần, và thừa nhận có lẽ ông sẽ nói dối nếu bảo mình chưa từng bị nó cuốn theo.
 
-**Những động cơ cá nhân.** Làm nên lịch sử, làm điều có ý nghĩa, giúp người khác, đánh bại người khác, gây ấn tượng với người mình muốn chinh phục, với sếp, đồng nghiệp, đối thủ: tất cả đều nằm trong đó, là phần của động lực luôn hiện diện thúc người ta chấp nhận rủi ro, khám phá giới hạn, đi sâu hơn vào điều chưa biết, làm ra thứ mới, thay đổi cuộc chơi, leo lên đỉnh núi. Dù cao thượng hay cay đắng và tổng bằng không, khi làm công nghệ, chính khía cạnh này thường thúc đẩy tiến bộ còn hơn nhu cầu của nhà nước hay yêu cầu của các cổ đông ở xa. Theo Suleyman, ở bất kỳ nhà khoa học hay kỹ sư thành công nào, đâu đó ta sẽ thấy một người được thúc đẩy bởi cái tôi trần trụi, bởi những thôi thúc cảm xúc nghe có thể thấp kém hay phi đạo đức nhưng vẫn là một phần ít được thừa nhận của lý do ta có những công nghệ ta đang có. Huyền thoại Thung lũng Silicon về nhà sáng lập khởi nghiệp anh hùng một mình xây đế chế giữa một thế giới thù địch và thiếu hiểu biết tồn tại dai dẳng là có lý do: đó là hình ảnh bản thân mà giới công nghệ vẫn quá thường khao khát, một hình mẫu để noi theo, một ảo tưởng vẫn đang thúc đẩy công nghệ mới.
+**Những động cơ cá nhân.** Làm nên lịch sử, làm điều có ý nghĩa, giúp người khác, đánh bại người khác, gây ấn tượng với người mình muốn chinh phục, với sếp, đồng nghiệp, đối thủ: tất cả đều nằm trong đó, là phần của động lực luôn hiện diện thúc người ta chấp nhận rủi ro, khám phá giới hạn, đi sâu hơn vào điều chưa biết, làm ra thứ mới, thay đổi cuộc chơi, leo lên đỉnh núi. Dù cao thượng hay cay đắng và tổng bằng không, khi làm công nghệ, chính khía cạnh này thường thúc đẩy tiến bộ còn hơn nhu cầu của nhà nước hay yêu cầu của các cổ đông ở xa.
+
+Theo Suleyman, ở bất kỳ nhà khoa học hay kỹ sư thành công nào, đâu đó ta sẽ thấy một người được thúc đẩy bởi cái tôi trần trụi, bởi những thôi thúc cảm xúc nghe có thể thấp kém hay phi đạo đức nhưng vẫn là một phần ít được thừa nhận của lý do ta có những công nghệ ta đang có.
+
+Huyền thoại Thung lũng Silicon về nhà sáng lập khởi nghiệp anh hùng một mình xây đế chế giữa một thế giới thù địch và thiếu hiểu biết tồn tại dai dẳng là có lý do: đó là hình ảnh bản thân mà giới công nghệ vẫn quá thường khao khát, một hình mẫu để noi theo, một ảo tưởng vẫn đang thúc đẩy công nghệ mới.
 
 ### 9. Phần kết chương: các động lực cộng hưởng và câu hỏi về nhà nước (tên do người tổng hợp đặt; trang PDF 160–162)
 
@@ -853,7 +913,9 @@ Suleyman viết rằng ai ở đủ lâu trong môi trường kỹ thuật, dù 
 
 **Cộng hưởng.** Hơn nữa, các động lực và các thành phần của làn sóng cộng hưởng với nhau. Chạy đua vũ trang giữa các quốc gia khớp với cạnh tranh giữa các tập đoàn, trong khi các phòng thí nghiệm và nhà nghiên cứu thúc nhau. Nói cách khác, một chuỗi "cuộc đua con" lồng vào nhau tạo thành một động lực phức tạp tự củng cố lẫn nhau. Công nghệ "nổi lên" (emerges) qua vô số đóng góp độc lập chồng lên nhau, một mớ ý tưởng đan rối, lan như di căn, tự tháo gỡ mình, được đẩy bởi những động lực ăn sâu và phân tán.
 
-**Mọi thứ đều rò rỉ.** Khi chưa có công cụ lan truyền thông tin với tốc độ ánh sáng, người xưa có thể sống cạnh công nghệ mới hàng chục năm trước khi nhận ra hết hệ quả của nó, và kể cả khi nhận ra thì vẫn cần nhiều thời gian và trí tưởng tượng để thấy hết các tác động rộng. Ngày nay cả thế giới nhìn nhau phản ứng theo thời gian thực. Mọi thứ rò rỉ; mọi thứ được sao chép, lặp lại, cải tiến. Vì ai cũng nhìn và học từ người khác, với rất nhiều người cùng đào bới một vùng, chắc chắn sẽ có ai đó tìm ra đột phá lớn tiếp theo. Người tìm ra cũng không có hy vọng khống chế nó: kể cả khi họ giữ kín, người khác sẽ đến sau, khám phá cùng ý tưởng hay tìm một cách gần kề để làm cùng việc, thấy tiềm năng chiến lược, lợi nhuận hay uy tín và theo đuổi nó.
+**Mọi thứ đều rò rỉ.** Khi chưa có công cụ lan truyền thông tin với tốc độ ánh sáng, người xưa có thể sống cạnh công nghệ mới hàng chục năm trước khi nhận ra hết hệ quả của nó, và kể cả khi nhận ra thì vẫn cần nhiều thời gian và trí tưởng tượng để thấy hết các tác động rộng. Ngày nay cả thế giới nhìn nhau phản ứng theo thời gian thực. Mọi thứ rò rỉ; mọi thứ được sao chép, lặp lại, cải tiến.
+
+Vì ai cũng nhìn và học từ người khác, với rất nhiều người cùng đào bới một vùng, chắc chắn sẽ có ai đó tìm ra đột phá lớn tiếp theo. Người tìm ra cũng không có hy vọng khống chế nó: kể cả khi họ giữ kín, người khác sẽ đến sau, khám phá cùng ý tưởng hay tìm một cách gần kề để làm cùng việc, thấy tiềm năng chiến lược, lợi nhuận hay uy tín và theo đuổi nó.
 
 **Vì sao ta sẽ không nói "không".** Theo Suleyman, đó là lý do ta sẽ không nói không, lý do làn sóng sắp tới đang đến và việc khống chế nó khó như vậy. Công nghệ nay là một siêu hệ thống không thể thiếu, thấm vào mọi mặt của đời sống, xã hội và kinh tế; không ai sống thiếu nó được. Các động lực ăn sâu đòi hỏi có thêm công nghệ, nhiều hơn hẳn. Không ai kiểm soát hoàn toàn việc nó làm gì hay đi đâu tiếp. Ông nhấn mạnh đây không phải một ý niệm triết học xa vời, một kịch bản quyết định luận cực đoan hay chủ nghĩa lấy công nghệ làm trung tâm kiểu California, mà là mô tả cơ bản về thế giới ta đang sống, và đã sống khá lâu.
 
@@ -1002,7 +1064,9 @@ Suleyman viết rằng ai ở đủ lâu trong môi trường kỹ thuật, dù 
 
 ### Dự báo về cuộc đua AI giữa các cường quốc đã thành hiện thực rõ hơn cả lúc sách viết
 
-Theo hiểu biết của người tổng hợp, từ 2023 đến 2026 cạnh tranh công nghệ Mỹ–Trung càng gay gắt: Mỹ siết dần kiểm soát xuất khẩu chip AI tiên tiến và thiết bị làm chip sang Trung Quốc (bắt đầu từ tháng 10/2022, mở rộng nhiều lần sau đó); các chính phủ nói thẳng ngôn ngữ "chạy đua", và nhiều dự án hạ tầng AI quy mô hàng trăm tỷ USD được công bố như việc của quốc gia. Điều này khớp với nhận định của Suleyman rằng tranh luận nay chỉ còn là cuộc đua dẫn tới đâu. Tuy vậy, sách viết rằng Trung Quốc "đã vượt Mỹ về AI" (dẫn Graham Allison); theo hiểu biết của người tổng hợp, ở thời điểm 2023–2025 các mô hình biên giới mạnh nhất phần lớn vẫn do các phòng thí nghiệm Mỹ làm ra, dù khoảng cách đã thu hẹp đáng kể. Nhận định "đã vượt" phụ thuộc vào thước đo (số bài báo, bằng sáng chế, triển khai ứng dụng hay mô hình mạnh nhất).
+Theo hiểu biết của người tổng hợp, từ 2023 đến 2026 cạnh tranh công nghệ Mỹ–Trung càng gay gắt: Mỹ siết dần kiểm soát xuất khẩu chip AI tiên tiến và thiết bị làm chip sang Trung Quốc (bắt đầu từ tháng 10/2022, mở rộng nhiều lần sau đó); các chính phủ nói thẳng ngôn ngữ "chạy đua", và nhiều dự án hạ tầng AI quy mô hàng trăm tỷ USD được công bố như việc của quốc gia. Điều này khớp với nhận định của Suleyman rằng tranh luận nay chỉ còn là cuộc đua dẫn tới đâu.
+
+Tuy vậy, sách viết rằng Trung Quốc "đã vượt Mỹ về AI" (dẫn Graham Allison); theo hiểu biết của người tổng hợp, ở thời điểm 2023–2025 các mô hình biên giới mạnh nhất phần lớn vẫn do các phòng thí nghiệm Mỹ làm ra, dù khoảng cách đã thu hẹp đáng kể. Nhận định "đã vượt" phụ thuộc vào thước đo (số bài báo, bằng sáng chế, triển khai ứng dụng hay mô hình mạnh nhất).
 
 ### Lập luận "LLM không có bí mật quốc gia" được thực tế xác nhận
 
@@ -1010,7 +1074,9 @@ Theo hiểu biết của người tổng hợp, đầu năm 2025 các mô hình 
 
 ### Số liệu đầu tư trong sách đã thấp so với thực tế 2026
 
-Sách dùng con số 100 tỷ USD đầu tư AI mỗi năm và 26% tỷ trọng công nghệ trong S&P 500. Theo hiểu biết của người tổng hợp, từ 2024 riêng chi đầu tư cho trung tâm dữ liệu và chip AI của vài tập đoàn công nghệ lớn nhất Mỹ đã lên hàng trăm tỷ USD mỗi năm, và NVIDIA trở thành một trong những công ty có vốn hoá lớn nhất thế giới. Điều này càng củng cố luận điểm "lợi nhuận là động lực không thể cản" của Suleyman. Đồng thời, cũng theo hiểu biết của người tổng hợp, đến 2025–2026 đã có nhiều tranh luận công khai về khả năng có bong bóng đầu tư AI, đúng kiểu "giai đoạn cuồng nhiệt" của Carlota Perez mà chương mô tả qua cơn sốt đường sắt: sách đã chuẩn bị sẵn khung để hiểu rằng kể cả nếu bong bóng vỡ, hạ tầng vẫn ở lại.
+Sách dùng con số 100 tỷ USD đầu tư AI mỗi năm và 26% tỷ trọng công nghệ trong S&P 500. Theo hiểu biết của người tổng hợp, từ 2024 riêng chi đầu tư cho trung tâm dữ liệu và chip AI của vài tập đoàn công nghệ lớn nhất Mỹ đã lên hàng trăm tỷ USD mỗi năm, và NVIDIA trở thành một trong những công ty có vốn hoá lớn nhất thế giới. Điều này càng củng cố luận điểm "lợi nhuận là động lực không thể cản" của Suleyman.
+
+Đồng thời, cũng theo hiểu biết của người tổng hợp, đến 2025–2026 đã có nhiều tranh luận công khai về khả năng có bong bóng đầu tư AI, đúng kiểu "giai đoạn cuồng nhiệt" của Carlota Perez mà chương mô tả qua cơn sốt đường sắt: sách đã chuẩn bị sẵn khung để hiểu rằng kể cả nếu bong bóng vỡ, hạ tầng vẫn ở lại.
 
 ### Chính Suleyman là minh hoạ cho các động lực ông mô tả
 
@@ -1018,7 +1084,9 @@ Theo hiểu biết của người tổng hợp, tháng 3/2024 Microsoft tuyển 
 
 ### Dự báo kinh tế: cần đọc thận trọng
 
-Các con số PwC (15,7 nghìn tỷ USD vào 2030), McKinsey và Oxford Economics là dự báo của các công ty tư vấn có lợi ích trong việc làm AI trông hấp dẫn; Suleyman thừa nhận việc đưa ra con số lớn "trên giấy" là dễ. Phép tính 100 nghìn tỷ USD không ghi rõ cách tính (xem phần Lưu ý). Theo hiểu biết của người tổng hợp, đến 2026 tác động của AI lên tăng trưởng năng suất tổng thể ở các nền kinh tế lớn vẫn chưa thể hiện rõ trong số liệu vĩ mô, dù chi đầu tư cho AI đã góp phần đáng kể vào tăng trưởng GDP Mỹ. Dự đoán "trong vài năm tới ai cũng có một chuyên gia theo yêu cầu" thì về cơ bản đã thành hiện thực với các trợ lý AI phổ biến, dù chất lượng câu trả lời chưa đạt mức "dựa trên tri thức mới nhất với sắc thái tinh tế" ở mọi lĩnh vực.
+Các con số PwC (15,7 nghìn tỷ USD vào 2030), McKinsey và Oxford Economics là dự báo của các công ty tư vấn có lợi ích trong việc làm AI trông hấp dẫn; Suleyman thừa nhận việc đưa ra con số lớn "trên giấy" là dễ. Phép tính 100 nghìn tỷ USD không ghi rõ cách tính (xem mục Lưu ý cuối chương).
+
+Theo hiểu biết của người tổng hợp, đến 2026 tác động của AI lên tăng trưởng năng suất tổng thể ở các nền kinh tế lớn vẫn chưa thể hiện rõ trong số liệu vĩ mô, dù chi đầu tư cho AI đã góp phần đáng kể vào tăng trưởng GDP Mỹ. Dự đoán "trong vài năm tới ai cũng có một chuyên gia theo yêu cầu" thì về cơ bản đã thành hiện thực với các trợ lý AI phổ biến, dù chất lượng câu trả lời chưa đạt mức "dựa trên tri thức mới nhất với sắc thái tinh tế" ở mọi lĩnh vực.
 
 ### Dự báo về Trung Quốc và Ấn Độ
 
@@ -1044,3 +1112,173 @@ Theo hiểu biết của người tổng hợp: Ấn Độ đã vượt Anh về
 - **Đầu tư:** bài học đường sắt Anh là bài học kép. Công nghệ có thể đúng về dài hạn trong khi giá cổ phiếu sụp 66% trong ngắn hạn; hàng nghìn nhà đầu tư mất trắng dù đường sắt thay đổi nước Anh thật. Với cổ phiếu AI, tách hai câu hỏi: công nghệ có thay đổi kinh tế không (có thể có), và giá hiện tại có đã phản ánh quá mức kỳ vọng không. Phân bổ vốn theo cách chịu được một cú giảm sâu, và chú ý rằng người hưởng lợi lâu dài từ hạ tầng thường không phải người xây hạ tầng trong cơn sốt.
 - **Chính sách và quản trị doanh nghiệp:** muốn một công nghệ đi chậm lại hay đi hướng khác, không đủ để cấm hay kêu gọi; phải đổi động lực (quy định trách nhiệm pháp lý, tiêu chuẩn kiểm định, ưu đãi cho hướng an toàn). Trong doanh nghiệp cũng vậy: muốn đội kỹ thuật chú ý an toàn, phải thưởng cho an toàn, không chỉ thưởng cho việc ra sản phẩm trước.
 - **Đời sống cá nhân:** nhận ra động lực "cái tôi" trong chính mình. Câu "technically sweet" của Oppenheimer áp dụng cho cả những quyết định nhỏ: làm một tính năng chỉ vì nó thú vị về kỹ thuật, trong khi chưa nghĩ ai sẽ bị ảnh hưởng. Thói quen tự hỏi "nếu làm được, thì có nên làm không, và ai chịu hậu quả?" trước khi bắt tay làm là cách nhỏ để không bị động lực ấy dẫn dắt.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 8 trên một trang: sáu nhánh lớn đi theo các mục 1–9 trong phần Nội dung chi tiết (AlphaGo và cạnh tranh giữa các cường quốc, cuộc chạy đua vũ trang, tri thức mở, cơ hội 100 nghìn tỷ USD, thách thức toàn cầu và cái tôi, các động lực cộng hưởng và nhà nước dân tộc), mỗi nhánh ghi luận điểm, ví dụ lịch sử và con số then chốt của tác giả; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 8: năm động lực cộng hưởng bảo đảm làn sóng sắp tới sẽ đến, nên câu hỏi có nên làm không trở nên vô nghĩa`"]
+  n1["`Mục 1–3 — Cạnh tranh giữa các cường quốc: AlphaGo thành khoảnh khắc Sputnik của Trung Quốc`"]
+  n0 --- n1
+  n2["`AlphaGo thắng Lee Sedol (3/2016) trước hơn 280 triệu người xem, thành trận phương Tây đấu phương Đông`"]
+  n1 --- n2
+  n3["`Ô Trấn 5/2017: Trung Quốc cấm phát trực tiếp trận Ke Jie và cấm nhắc tên Google`"]
+  n2 --- n3
+  n4["`Sputnik 1957 là trận Trân Châu Cảng công nghệ: Mỹ lập NASA, DARPA, 12 năm sau đưa người lên Mặt Trăng`"]
+  n1 --- n4
+  n5["`Hai tháng sau trận Ke Jie, Trung Quốc công bố kế hoạch thành trung tâm đổi mới AI hàng đầu thế giới vào 2030`"]
+  n1 --- n5
+  n6["`Chi R#amp;D của Trung Quốc từ 12% lên 90% mức của Mỹ (2020), số bài báo AI gấp 4,5 lần Mỹ từ 2010`"]
+  n5 --- n6
+  n7["`Lượng tử: vệ tinh Micius 2016, đường truyền 2.000 km Thượng Hải–Bắc Kinh, hơn 10 tỷ USD cho Hợp Phì`"]
+  n5 --- n7
+  n8["`Graham Allison: Trung Quốc đã vượt Mỹ về năng lượng xanh, 5G và AI, sắp vượt về lượng tử và sinh học`"]
+  n1 --- n8
+  n9["`Tập Cận Bình: công nghệ tiên tiến là vũ khí sắc bén của nhà nước hiện đại, lãnh đạo nước nào cũng đồng ý`"]
+  n1 --- n9
+  n10["`Mục 4 — Chạy đua vũ trang là động lực khó dập nhất`"]
+  n0 --- n10
+  n11["`Chính phủ kìm được nghiên cứu, doanh nghiệp, cái tôi trong nước nhưng không xoá được đối thủ địa chính trị`"]
+  n10 --- n11
+  n12["`Theo logic chạy đua vũ trang, tự hạn chế khi đối thủ lao lên là chọn thua`"]
+  n11 --- n12
+  n13["`Suleyman từng bác bỏ gọi DeepMind là Dự án Manhattan về AI vì sợ kích hoạt các Dự án Manhattan khác`"]
+  n10 --- n13
+  n14["`Giả định đối phương nghĩ ta đang chạy đua thành lời tiên tri tự ứng nghiệm`"]
+  n13 --- n14
+  n15["`Chủ nghĩa dân tộc công nghệ: gần như nước nào cũng có chiến lược AI, Putin nói ai dẫn đầu AI sẽ thống trị thế giới`"]
+  n10 --- n15
+  n16["`Ấn Độ là trụ cột thứ tư: lớn thứ ba thế giới vào 2030, 30 nghìn tỷ USD vào 2050, chương trình Atmanirbhar Bharat`"]
+  n15 --- n16
+  n17["`Quá khứ chạy đua với bóng ma: Dự án Manhattan (0,4% GDP Mỹ) đua với Đức đã gác bom, khoảng cách tên lửa thật ra Mỹ hơn 10 lần`"]
+  n10 --- n17
+  n18["`Lần này cuộc đua có thật: LLM không có bí mật quốc gia, năng lực tính toán thuê được, thành tựu diễn ra công khai`"]
+  n10 --- n18
+  n19["`Không có cơ quan trung ương nào điều khiển: công nghệ là dàn nhạc không có nhạc trưởng`"]
+  n18 --- n19
+  n20["`Mục 5 — Tri thức chỉ muốn được tự do: nghiên cứu hiện đại đi ngược khống chế`"]
+  n0 --- n20
+  n21["`Đổi mới công nghệ mở (Cronin): hệ thống tri thức quá rộng và mở để lái, quản hay đóng lại`"]
+  n20 --- n21
+  n22["`Số bài và số trích dẫn quyết định uy tín, tài trợ, việc làm, ở DeepMind cơ hội công bố là then chốt để thu hút người giỏi`"]
+  n20 --- n22
+  n23["`GitHub 190 triệu kho mã, arXiv hơn 2 triệu bài, chi R#amp;D toàn cầu hơn 700 tỷ USD/năm`"]
+  n20 --- n23
+  n24["`Amazon chi R#amp;D 78 tỷ USD, nếu là quốc gia thì đứng thứ 9 thế giới`"]
+  n23 --- n24
+  n25["`Không ai đoán được đột phá đến từ đâu, người định hướng nghiên cứu sẽ chặn nhầm hoặc bỏ lỡ`"]
+  n20 --- n25
+  n26["`CRISPR bắt nguồn từ vi sinh vật nước lợ của Mojica và một công ty sữa chua Đan Mạch`"]
+  n25 --- n26
+  n27["`Mạng nơ-ron bị Minsky chê, bị bỏ rơi hàng chục năm, chỉ Hinton và LeCun theo đuổi, rồi thống trị AI`"]
+  n25 --- n27
+  n28["`GPU sinh ra cho trò chơi điện tử, cổ phiếu NVIDIA tăng 1.000% trong 5 năm sau AlexNet`"]
+  n25 --- n28
+  n29["`Mục 6 — Cơ hội 100 nghìn tỷ USD: phần lớn công nghệ được làm ra để kiếm tiền`"]
+  n0 --- n29
+  n30["`Đường sắt Liverpool–Manchester 1830: dự báo 250 khách/ngày, sau một tháng đã 1.200 khách/ngày`"]
+  n29 --- n30
+  n31["`Cơn sốt thập niên 1840: cổ phiếu đường sắt hơn 2/3 giá trị thị trường, rồi tới năm 1850 thấp hơn đỉnh 66%`"]
+  n30 --- n31
+  n32["`Hạ tầng ở lại: London–Edinburgh từ nhiều ngày bằng xe ngựa xuống dưới 12 giờ bằng tàu`"]
+  n30 --- n32
+  n33["`Carlota Perez: mọi cách mạng công nghệ lớn đều có giai đoạn cuồng nhiệt để lại nền tảng công nghệ mới`"]
+  n30 --- n33
+  n34["`200 năm qua: sản lượng tăng hơn 300 lần, GDP đầu người ít nhất 13 lần, nghèo cùng cực còn khoảng 9%`"]
+  n29 --- n34
+  n35["`Làm thế hệ công nghệ tiếp theo hoặc bị tiêu diệt: công nghệ chiếm 26% S#amp;P 500, đầu tư AI 100 tỷ USD/năm`"]
+  n29 --- n35
+  n36["`PwC: AI thêm 15,7 nghìn tỷ USD vào 2030, McKinsey: công nghệ sinh học thêm 4 nghìn tỷ USD`"]
+  n29 --- n36
+  n37["`Kinh tế tăng 6 lần nửa sau thế kỷ 20, 50 năm tới chỉ cần 1/3 mức đó là thêm khoảng 100 nghìn tỷ USD`"]
+  n36 --- n37
+  n38["`Trí tuệ là thứ giá trị nhất: AI tổng quát có thể làm tốc độ tăng trưởng tăng vĩnh viễn`"]
+  n29 --- n38
+  n39["`Ai muốn khống chế phải thuyết phục được hệ thống tư bản toàn cầu, phân tán chịu chậm lại`"]
+  n29 --- n39
+  n40["`Mục 7–8 — Thách thức toàn cầu đòi công nghệ mới, cái tôi đẩy người làm công nghệ`"]
+  n0 --- n40
+  n41["`Malthus (1798) đúng nếu năng suất đứng yên, nhưng không tính đến sự khéo léo con người`"]
+  n40 --- n41
+  n42["`Lúa mì ở Anh từ 0,5 lên 8 tấn/ha, gấp 16 lần, thiếu ăn nghiêm trọng từ 50% (1945) còn 10%`"]
+  n41 --- n42
+  n43["`Điện chỉ khoảng 25% năng lượng, tỷ trọng hoá thạch chỉ giảm từ 87% xuống 84%`"]
+  n40 --- n43
+  n44["`Smil: amoniac, xi măng, nhựa, thép là bốn trụ cột của văn minh hiện đại, đều thải nhiều carbon`"]
+  n43 --- n44
+  n45["`Đến 2050 cần thêm gần 50% lương thực, IPCC coi thu giữ carbon là bắt buộc nhưng phần lớn chưa có`"]
+  n43 --- n45
+  n46["`AI đã thiết kế enzyme phân huỷ nhựa, máy tính lượng tử kết hợp AI có thể tìm chất thay pin lithium`"]
+  n40 --- n46
+  n47["`Bác bỏ giải pháp công nghệ ngây thơ, nhưng vượt các thách thức của thế kỷ mà không có công nghệ mới là hoang tưởng`"]
+  n40 --- n47
+  n48["`Cái tôi: nhà khoa học và kỹ sư muốn là người đầu tiên đột phá, thấy tên mình trên bài báo mốc`"]
+  n40 --- n48
+  n49["`Oppenheimer: thấy thứ ngọt ngào về kỹ thuật thì cứ làm, chỉ tranh luận sau khi đã thành công`"]
+  n48 --- n49
+  n50["`Von Neumann: không làm điều mình biết là khả thi là phi đạo đức với nhà khoa học`"]
+  n48 --- n50
+  n51["`Suleyman thừa nhận chính mình đôi khi cũng bị tâm thế này cuốn theo`"]
+  n48 --- n51
+  n52["`Mục 9 — Các động lực cộng hưởng, chỉ nhà nước dân tộc may ra giải được`"]
+  n0 --- n52
+  n53["`Chạy đua quốc gia khớp với cạnh tranh doanh nghiệp, các phòng thí nghiệm thúc nhau: chuỗi cuộc đua con tự củng cố`"]
+  n52 --- n53
+  n54["`Mọi thứ đều rò rỉ: nếu một người không làm, người khác sẽ tìm ra cùng ý tưởng`"]
+  n52 --- n54
+  n55["`Công nghệ như khối nấm nhầy khổng lồ: chặn chỗ này thì khe hở mở ra chỗ khác`"]
+  n52 --- n55
+  n56["`Bài toán hành động tập thể tối hậu: không thể cất CRISPR hay AI trở lại hộp`"]
+  n52 --- n56
+  n57["`Khống chế nghĩa là cắt đứt toàn bộ các động lực tự củng cố, lựa chọn làm chậm hiện không tồn tại`"]
+  n56 --- n57
+  n58["`Nhà nước dân tộc là chủ thể duy nhất có thể giải, nhưng đã chịu sức ép khổng lồ (mở sang Chương 9)`"]
+  n52 --- n58
+  n59["`Thông điệp xuyên suốt`"]
+  n0 --- n59
+  n60["`Muốn hiểu công nghệ phải hỏi vì sao nó được làm ra, không chỉ hỏi nó là gì`"]
+  n59 --- n60
+  n61["`Đây không phải quyết định luận công nghệ mà là bản chất con người`"]
+  n59 --- n61
+  n62["`Các động lực có mặt tốt (mức sống, lương thực, khí hậu) và mặt xấu (chạy đua xây trên nỗi sợ, cái tôi)`"]
+  n59 --- n62
+  class n0 root
+  class n1,n10,n20,n29,n40,n52,n59 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n16,n17,n18,n19,n21,n22,n23,n24,n25,n26,n27,n28,n30,n31,n32,n33,n34,n35,n36,n37,n38,n39,n41,n42,n43,n44,n45,n46,n47,n48,n49,n50,n51,n53,n54,n55,n56,n57,n58,n60,n61,n62 leaf
+```
+
+## Nguồn
+
+Mustafa Suleyman với Michael Bhaskar, *The Coming Wave: Technology, Power, and the Twenty-First Century's Greatest Dilemma* (Crown, Penguin Random House, 2023), bản ebook tiếng Anh, Chapter 8 "Unstoppable Incentives", trang PDF 134–162; chú thích cuối sách của chương ở trang PDF 349–360.
+
+## Tác giả
+
+Mustafa Suleyman là đồng sáng lập DeepMind (phòng thí nghiệm AI làm ra AlphaGo, sau thuộc Google) và Inflection AI; Michael Bhaskar là nhà văn, nhà xuất bản, đồng tác giả cuốn sách.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phần II "The Next Wave" mô tả các công nghệ của làn sóng sắp tới (the coming wave): trí tuệ nhân tạo ([C04-cong-nghe-cua-tri-tue.md](C04-cong-nghe-cua-tri-tue.md)), sinh học tổng hợp ([C05-cong-nghe-cua-su-song.md](C05-cong-nghe-cua-su-song.md)), robot, điện toán lượng tử, năng lượng ([C06-lan-song-rong-hon.md](C06-lan-song-rong-hon.md)), rồi rút ra bốn đặc điểm của làn sóng ([C07-bon-dac-diem-cua-lan-song.md](C07-bon-dac-diem-cua-lan-song.md)).
+
+Chương 8 khép Phần II bằng câu hỏi "vì sao": vì sao làn sóng chắc chắn sẽ đến và vì sao việc khống chế (containment, tức năng lực giám sát, hạn chế, kiểm soát và khi cần thì dừng hẳn một công nghệ) nó khó đến vậy. Câu trả lời là năm động lực chồng lên nhau.
+
+Chương này nối lại lập luận lịch sử ở Phần I rằng chưa làn sóng công nghệ nào từng bị khống chế ([C01-khong-the-khong-che.md](C01-khong-the-khong-che.md), [C02-lan-rong-bat-tan.md](C02-lan-rong-bat-tan.md), [C03-bai-toan-khong-che.md](C03-bai-toan-khong-che.md)), và kết thúc bằng việc chỉ ra chủ thể duy nhất có thể giải bài toán khống chế (the containment problem) là nhà nước dân tộc (nation-state). Chương 9 ([C09-thoa-thuan-lon.md](C09-thoa-thuan-lon.md)) mở Phần III bằng chính chủ thể này và thỏa thuận lớn giữa nhà nước và công dân. Năm động lực của Chương 8 cũng là thứ mà mười bước khống chế ở Chương 14 ([C14-muoi-buoc-tien-toi-khong-che.md](C14-muoi-buoc-tien-toi-khong-che.md)) phải tìm cách xoay chuyển.
+
+## Lưu ý
+
+- **"Nhanh hơn Sycamore 10^14 lần" (trang PDF 140):** sách viết các nhà khoa học Hợp Phì tuyên bố đã làm một máy tính lượng tử nhanh hơn máy Sycamore của Google 10^14 lần (lớp chữ của PDF mất chỉ số trên nên hiện thành "1014"; ảnh trang in đúng là 10 mũ 14). Theo hiểu biết của người tổng hợp, bài báo được chú thích dẫn (Zhong và cộng sự, *Science*, 12/2020, máy Jiuzhang) so tốc độ lấy mẫu với **siêu máy tính cổ điển** (nhanh hơn khoảng 10^14 lần), còn so với Sycamore thì nhóm tác giả nêu con số khoảng 10^10 lần; hai máy cũng giải hai bài toán khác nhau. Câu trong sách gộp hai phép so sánh này.
+- **"Mặt tối của Mặt Trăng" (trang PDF 138, "dark side of the moon"):** theo hiểu biết của người tổng hợp, tàu Hằng Nga 4 (2019) đáp xuống **mặt khuất** của Mặt Trăng (mặt luôn quay ra xa Trái Đất); mặt này vẫn được Mặt Trời chiếu sáng như mặt kia, "dark side" chỉ là cách nói quen.
+- **Con số điện chiếm "khoảng 25%" năng lượng toàn cầu (trang PDF 156)** được chú thích dẫn từ Vaclav Smil, *How the World Really Works*, trang 36. Theo hiểu biết của người tổng hợp (chưa đối chiếu nguyên tác Smil), Smil thường nêu điện chiếm khoảng 18% tiêu thụ năng lượng cuối cùng; mức chênh có thể do cách tính khác nhau. Ý của sách (phần lớn năng lượng chưa phải điện nên khó chuyển sang nguồn sạch) không đổi.
+- **Phép tính "100 nghìn tỷ USD" (trang PDF 153) không nói rõ cách tính.** Sách viết kinh tế thế giới tăng gấp sáu lần trong nửa sau thế kỷ 20, và nếu năm mươi năm tới tăng trưởng chỉ bằng một phần ba mức đó thì vẫn mở ra khoảng 100 nghìn tỷ USD GDP tăng thêm. Minh hoạ của người tổng hợp: nếu "một phần ba" hiểu là kinh tế tăng gấp đôi trong 50 năm, thì từ nền 85 nghìn tỷ USD (con số sách dùng ở trang PDF 151) phần tăng thêm là khoảng 85 nghìn tỷ USD; nếu hiểu là tốc độ tăng mỗi năm bằng một phần ba (khoảng 1,2% thay vì 3,6%), phần tăng thêm khoảng 70 nghìn tỷ USD. Con số 100 nghìn tỷ là mức làm tròn rộng, đúng về độ lớn.
+- **Chương 8 tự sửa Chương 1:** ở trang PDF 151, Suleyman viết rằng ở Chương 1 ông nói hầu hết mọi thứ quanh ta là sản phẩm của trí tuệ con người, và nay ông "sửa nhẹ": phần lớn những gì ta thấy được tạo ra bởi trí tuệ con người **nhằm trực tiếp kiếm tiền** ([C01-khong-the-khong-che.md](C01-khong-the-khong-che.md)).
+- **Hai chú thích bổ sung số liệu quan trọng:** chú thích về vốn đầu tư (trang PDF 357) cho biết riêng năm 2021 có hơn 600 tỷ USD vốn mạo hiểm được rót trên toàn cầu, chủ yếu vào công nghệ và công nghệ sinh học, gấp mười lần một thập niên trước; đầu tư của quỹ đầu tư tư nhân (private equity) vào công nghệ năm 2021 vượt 400 tỷ USD. Chú thích về con số 100 tỷ USD đầu tư AI mỗi năm dẫn AI Index Report 2021 và tự thừa nhận con số "chắc chắn đã tăng" trong cơn sốt AI tạo sinh. Chú thích về tăng trưởng do AI tổng quát (trang PDF 358) nhắc tới kịch bản cực đoan "tăng đủ nhanh để tạo ra sản lượng vô hạn trong thời gian hữu hạn" trong mô hình của Trammell và Korinek.
+- **Chú thích về bằng sáng chế (trang PDF 351)** nói số liệu của Mỹ lấy từ năm 2020 trong khi số liệu Trung Quốc là năm 2021, tức phép so sánh lệch một năm; chú thích cũng thêm rằng số bằng sáng chế giá trị cao của Trung Quốc tăng nhanh.
+- **GitHub "190 triệu kho mã" (trang PDF 146):** chú thích dẫn một bài năm 2020 có tựa "GitHub's Path to 128M Public Repositories", tức 128 triệu là số kho **công khai**; 190 triệu là tổng số kho, đúng với câu "nhiều trong số đó công khai" của sách.
+- **Số liệu đã cũ so với năm 2026 (theo hiểu biết của người tổng hợp):** quy mô kinh tế thế giới 85 nghìn tỷ USD là con số khoảng năm 2020, đến giữa thập niên 2020 đã vượt 100 nghìn tỷ USD (tính theo giá hiện hành); tỷ trọng công nghệ trong S&P 500 (26%, số tháng 7/2022) đến 2024–2025 đã cao hơn nhiều; đầu tư vào AI đã vượt xa 100 tỷ USD mỗi năm, riêng chi đầu tư hạ tầng AI của vài tập đoàn lớn nhất năm 2025 đã ở mức hàng trăm tỷ USD. Chi tiết ở mục "Đánh giá và phát hiện đáng chú ý".
+- **Tên người không được nêu trong sách:** "giám đốc phần mềm đầu tiên của Lầu Năm Góc" từ chức năm 2021 (trang PDF 140) là Nicolas Chaillan (theo hiểu biết của người tổng hợp). Câu "technically sweet" của Oppenheimer được nói trong phiên điều trần về an ninh năm 1954 (theo hiểu biết của người tổng hợp; sách không ghi bối cảnh).
+- **Ngắt đoạn bằng chữ in hoa nhỏ:** chữ đầu các đoạn sau dấu ngắt "—" in hoa nhỏ và mất trong lớp chữ; người tổng hợp đã đọc lại từ ảnh trang (ví dụ "Technology is pushed on…", "In World War II…", "Predicting anything at the frontier…", "The railway boom of…", "When a corporation automates…", "It's likely that the…", "Nationalism, capitalism, and science…").

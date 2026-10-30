@@ -1,18 +1,16 @@
 # Phần kết — Cuộc sống sau kỷ Nhân sinh (Life After the Anthropocene)
 
-**Nguồn:** Mustafa Suleyman với Michael Bhaskar, *The Coming Wave: Technology, Power, and the Twenty-First Century's Greatest Dilemma* (Crown, Penguin Random House, 2023), bản ebook tiếng Anh, phần kết "Life After the Anthropocene", trang PDF 302–307; "Acknowledgments" (Lời cảm ơn), trang PDF 308–309; "About the Authors" (Về các tác giả), trang PDF 454; chú thích cuối sách của phần kết ở trang PDF 401.
-**Tác giả:** Mustafa Suleyman là đồng sáng lập DeepMind và Inflection AI, từng làm phó chủ tịch phụ trách quản lý sản phẩm AI và chính sách AI ở Google; Michael Bhaskar là nhà văn, nhà xuất bản ở Anh, cùng viết cuốn sách.
-**Vị trí trong lập luận của cả cuốn sách:** Phần kết đứng sau Chương 14 ([C14-muoi-buoc-tien-toi-khong-che.md](C14-muoi-buoc-tien-toi-khong-che.md)), chương đề xuất mười bước khống chế và kết thúc bằng hình ảnh con đường hẹp. Phần kết không thêm đề xuất mới mà làm ba việc: kể lại câu chuyện phong trào Luddite đầu thế kỷ 19 như một ví dụ về làn sóng công nghệ không được khống chế; rút ra bài học rằng lần này công nghệ phải được điều chỉnh theo con người ngay từ đầu; và phác họa một thế giới mà phần lớn tương tác hằng ngày của con người là với AI. Câu chuyện Luddite nối lại với Chương 1 ([C01-khong-the-khong-che.md](C01-khong-the-khong-che.md)), nơi phản ứng kiểu Luddite được nêu là một khả năng, và Chương 3 ([C03-bai-toan-khong-che.md](C03-bai-toan-khong-che.md)), nơi Suleyman nói những người chống công nghệ kiểu Luddite là quy luật chứ không phải ngoại lệ. Yêu cầu công nghệ phải được "quyết định một cách dân chủ, tranh luận công khai" nối với Chương 9 ([C09-thoa-thuan-lon.md](C09-thoa-thuan-lon.md)) về thỏa thuận lớn giữa nhà nước và công dân và với bước 9 "Movements" của Chương 14. Bản đồ toàn bộ cuốn sách, với liên kết tới từng chương, nằm ở mục 6 của phần Nội dung chi tiết.
-**Ý chính:** **Phong trào Luddite đã thất bại trong việc ngăn máy dệt, và Suleyman cho rằng những ai muốn ngăn công nghệ hôm nay cũng sẽ thất bại; vì vậy việc cấp bách nhất không phải là cưỡi lên làn sóng hay cố dừng nó một cách vô ích, mà là uốn nắn nó, để công nghệ được điều chỉnh theo con người ngay từ đầu chứ không bắt con người phải thích nghi với công nghệ như thời Cách mạng Công nghiệp.** Máy dệt cơ khí của Edmund Cartwright (1785) cho phép một đứa trẻ dệt bằng ba người thợ rưỡi; tiền công thợ dệt giảm hơn một nửa trong 45 năm sau 1770; năm 1811 những người thợ thất nghiệp phá 63 máy trong một đêm; nước Anh từ vài nghìn máy dệt tự động lên 250.000 máy vào năm 1850. Về dài hạn, chính công nghiệp ấy đem lại mức sống mà người Luddite không thể tưởng tượng, nên họ ở trong một thế khó giống chúng ta hôm nay. Thế giới sắp tới sẽ là nơi con người có thể không còn là động lực chính của hành tinh: phần lớn tương tác hằng ngày là với AI, nhà máy "trồng" sản phẩm tại chỗ, bộ gen người trở nên co giãn, tuổi thọ dài hơn nhiều. Công nghệ không phải là mục đích của tương lai; con người mới là. Phần thưởng của việc khống chế thành công là "sự thịnh vượng an toàn và lâu dài của giống loài quý giá của chúng ta".
+## Ý chính
 
-> **Lưu ý:**
-> - **Chữ "Anthropocene" chỉ có ở tiêu đề.** Lời văn của phần kết không dùng lại từ này và không giải thích nó. Kỷ Nhân sinh (Anthropocene) là tên đề xuất cho thời kỳ địa chất trong đó hoạt động của con người là lực chính làm thay đổi Trái Đất (theo hiểu biết của người tổng hợp). Câu nối với tiêu đề là câu ở trang PDF 305: con người có thể không còn là động lực chính của hành tinh như ta đã quen. Vậy "cuộc sống sau kỷ Nhân sinh" là cuộc sống khi AI và sinh học tổng hợp cùng con người định hình thế giới. Theo hiểu biết của người tổng hợp, tháng 3/2024 tiểu ban địa tầng học Đệ Tứ của Liên đoàn Khoa học Địa chất Quốc tế đã bỏ phiếu bác đề xuất công nhận chính thức kỷ Nhân sinh là một đơn vị thời gian địa chất; thuật ngữ vẫn được dùng rộng rãi theo nghĩa không chính thức.
-> - **Cảnh mở đầu là cảnh dựng lại.** Đoạn mở đầu (trang PDF 302) kể một cuộc đột kích ban đêm như một truyện ngắn, không ghi địa điểm, ngày tháng hay tên người; chỉ đến dòng cuối mới lộ ra đó là người Luddite. Đây là cảnh tổng hợp có tính văn chương, không phải tường thuật một sự kiện cụ thể (nhận xét của người tổng hợp).
-> - **Loại máy bị phá (theo hiểu biết của người tổng hợp).** Sách kể câu chuyện xoay quanh thợ dệt và máy dệt cơ khí (power loom). Theo hiểu biết của người tổng hợp, các cuộc phá máy ở Nottinghamshire năm 1811, kể cả đêm 11/3/1811, chủ yếu nhằm vào khung dệt kim (stocking frame) của thợ dệt bít tất; thợ xén vải ở Yorkshire phá máy xén, còn máy dệt cơ khí là mục tiêu chính ở Lancashire. Chữ "frames" trong sách ("hundreds of frames were destroyed") khớp với cách hiểu này. Ý chính của sách không đổi.
-> - **Chú thích duy nhất của phần kết** gắn với câu "Technology should amplify the best of us" và dẫn bài "How AI Fails Us" của Divya Siddarth và cộng sự (Trung tâm Đạo đức Edmond và Lily Safra, Đại học Harvard, 12/2021) như một ví dụ cho lập luận rằng AI nên bổ trợ con người.
-> - **Thông tin về tác giả đã cũ so với năm 2026.** Trang "About the Authors" ghi Suleyman là đồng sáng lập và CEO của Inflection AI, sống ở Palo Alto. Theo hiểu biết của người tổng hợp, tháng 3/2024 Suleyman cùng đồng sáng lập Karén Simonyan rời Inflection AI sang Microsoft, nơi ông làm CEO bộ phận Microsoft AI (phụ trách Copilot và các sản phẩm AI tiêu dùng).
-> - **Hai người được cảm ơn đã qua đời sau khi sách ra mắt** (theo hiểu biết của người tổng hợp): Henry Kissinger (11/2023) và nhà tâm lý học Daniel Kahneman, được ghi trong sách là "Danny Kahneman" (3/2024).
-> - **Thống nhất với Chương 9.** Trang "About the Authors" nói Suleyman bỏ dở chương trình đại học ở Oxford để cùng lập một dịch vụ tư vấn qua điện thoại phi lợi nhuận; Chương 9 nói ông làm việc này năm 19 tuổi. Hai chỗ khớp nhau.
+**Phong trào Luddite đã thất bại trong việc ngăn máy dệt, và Suleyman cho rằng những ai muốn ngăn công nghệ hôm nay cũng sẽ thất bại; vì vậy việc cấp bách nhất không phải là cưỡi lên làn sóng hay cố dừng nó một cách vô ích, mà là uốn nắn nó, để công nghệ được điều chỉnh theo con người ngay từ đầu chứ không bắt con người phải thích nghi với công nghệ như thời Cách mạng Công nghiệp.**
+
+Máy dệt cơ khí của Edmund Cartwright (1785) cho phép một đứa trẻ dệt bằng ba người thợ rưỡi; tiền công thợ dệt giảm hơn một nửa trong 45 năm sau 1770; năm 1811 những người thợ thất nghiệp phá 63 máy trong một đêm; nước Anh từ vài nghìn máy dệt tự động lên 250.000 máy vào năm 1850.
+
+Về dài hạn, chính công nghiệp ấy đem lại mức sống mà người Luddite không thể tưởng tượng, nên họ ở trong một thế khó giống chúng ta hôm nay.
+
+Thế giới sắp tới sẽ là nơi con người có thể không còn là động lực chính của hành tinh: phần lớn tương tác hằng ngày là với AI, nhà máy "trồng" sản phẩm tại chỗ, bộ gen người trở nên co giãn, tuổi thọ dài hơn nhiều.
+
+Công nghệ không phải là mục đích của tương lai; con người mới là. Phần thưởng của việc khống chế thành công là "sự thịnh vượng an toàn và lâu dài của giống loài quý giá của chúng ta".
 
 ## Sơ đồ
 
@@ -311,7 +309,9 @@ Suleyman cho rằng người Luddite đã thua, và rất có thể những ai m
 
 **Con người không còn là động lực chính.** Làn sóng sắp tới sẽ thay đổi thế giới. Rốt cuộc, con người có thể không còn là động lực chính của hành tinh như ta đã quen. Ta sẽ sống trong một thời đại mà phần lớn tương tác hằng ngày không phải với người khác mà với AI. Điều này nghe có thể hấp dẫn, đáng sợ hay phi lý, nhưng Suleyman nói nó đang xảy ra. Ông đoán người đọc đã dành một phần lớn thời gian thức trước màn hình; có thể người đọc nhìn tổng các màn hình trong đời mình nhiều hơn nhìn bất kỳ người nào, kể cả vợ chồng và con cái. Vì vậy không khó để thấy ta sẽ ngày càng dành nhiều thời gian trò chuyện và tương tác với những cỗ máy mới này.
 
-**Các trí tuệ mới trong đời sống.** Loại và bản chất của các trí tuệ nhân tạo và sinh học mà ta gặp sẽ khác hẳn bây giờ. Chúng sẽ làm việc thay ta: tìm thông tin, soạn bài trình bày, viết chương trình, đặt mua đồ và quà Giáng sinh năm nay, tư vấn cách tốt nhất để giải quyết một vấn đề, hoặc chỉ trò chuyện và chơi. Chúng sẽ là trí tuệ cá nhân của ta, bạn đồng hành và người giúp đỡ, người tâm tình và đồng nghiệp, chánh văn phòng, trợ lý và người phiên dịch. Chúng sẽ sắp xếp đời sống ta, lắng nghe những khao khát cháy bỏng và nỗi sợ đen tối nhất của ta. Chúng sẽ giúp điều hành doanh nghiệp, chữa bệnh và đánh những trận chiến của ta. Trong một ngày bình thường, ta sẽ gặp nhiều kiểu tính cách, năng lực và hình thức khác nhau; thế giới tinh thần và trò chuyện của ta sẽ gắn chặt với "vườn thú" mới lạ của các trí tuệ này. Văn hóa, chính trị, kinh tế, tình bạn, vui chơi, tình yêu đều sẽ tiến hóa cùng nhau.
+**Các trí tuệ mới trong đời sống.** Loại và bản chất của các trí tuệ nhân tạo và sinh học mà ta gặp sẽ khác hẳn bây giờ. Chúng sẽ làm việc thay ta: tìm thông tin, soạn bài trình bày, viết chương trình, đặt mua đồ và quà Giáng sinh năm nay, tư vấn cách tốt nhất để giải quyết một vấn đề, hoặc chỉ trò chuyện và chơi. Chúng sẽ là trí tuệ cá nhân của ta, bạn đồng hành và người giúp đỡ, người tâm tình và đồng nghiệp, chánh văn phòng, trợ lý và người phiên dịch. Chúng sẽ sắp xếp đời sống ta, lắng nghe những khao khát cháy bỏng và nỗi sợ đen tối nhất của ta. Chúng sẽ giúp điều hành doanh nghiệp, chữa bệnh và đánh những trận chiến của ta.
+
+Trong một ngày bình thường, ta sẽ gặp nhiều kiểu tính cách, năng lực và hình thức khác nhau; thế giới tinh thần và trò chuyện của ta sẽ gắn chặt với "vườn thú" mới lạ của các trí tuệ này. Văn hóa, chính trị, kinh tế, tình bạn, vui chơi, tình yêu đều sẽ tiến hóa cùng nhau.
 
 **Thế giới ngày mai.** Suleyman phác họa:
 
@@ -486,7 +486,7 @@ Suleyman nói người Luddite thua nhưng "loài người vẫn thích nghi", v
 - **Suleyman sau cuốn sách:** theo hiểu biết của người tổng hợp, từ tháng 3/2024 ông làm CEO Microsoft AI. Năm 2025 ông viết rằng nên xây AI "cho con người, không phải để trở thành một con người", cảnh báo về AI có vẻ có ý thức, và Microsoft AI nói tới mục tiêu "siêu trí tuệ nhân văn" phục vụ con người. Các lập trường này tiếp nối trực tiếp ý "con người là mục đích của tương lai" trong phần kết.
 - **Inflection AI:** theo hiểu biết của người tổng hợp, sau khi Suleyman và phần lớn đội ngũ chuyển sang Microsoft, Inflection AI chuyển hướng sang phục vụ doanh nghiệp. Trang "About the Authors" vì vậy đã cũ.
 - **Khống chế bằng quyết định dân chủ:** theo hiểu biết của người tổng hợp, Đạo luật AI của Liên minh châu Âu là ví dụ rõ nhất về công nghệ AI được "tranh luận công khai, quyết định dân chủ"; ở nhiều nơi khác, quyết định về AI vẫn chủ yếu do các công ty và cơ quan hành pháp đưa ra.
-- **Kỷ Nhân sinh:** xem khối Lưu ý về việc đề xuất chính thức hóa kỷ Nhân sinh bị bác năm 2024.
+- **Kỷ Nhân sinh:** xem mục Lưu ý cuối chương về việc đề xuất chính thức hóa kỷ Nhân sinh bị bác năm 2024.
 
 ### Giả định ngầm
 
@@ -514,15 +514,203 @@ Các tác giả cảm ơn những người làm sách:
 | Người đại diện | Tina Bennett, Sophie Lambert |
 | Nghiên cứu và kiểm chứng | Celia Pannetier (nghiên cứu viên từ đầu dự án, tập hợp bằng chứng); Sean Lavery (kiểm chứng toàn bộ sách) |
 
-Rất nhiều người khác đã góp vào cuốn sách qua nhiều năm: trò chuyện chi tiết, đọc các chương, phản bác lập luận, đưa ý tưởng, sửa lỗi. Các tác giả đặc biệt cảm ơn những người đọc toàn bộ bản thảo và góp ý chi tiết. Danh sách gồm 59 người, trong đó có các nhà nghiên cứu AI và an ninh (Gregory Allen, Ben Buchanan, Rewon Child, Jason Matheny, Stuart Russell, Jeremy Fleming), nhà sinh học (George Church, Jennifer Doudna, Kevin Esvelt, Eric Lander), nhà kinh tế (Erik Brynjolfsson, Andrew McAfee, Jeffrey Sachs), nhà triết học (Nick Bostrom), nhà tâm lý học (Danny Kahneman), chính khách và nhà ngoại giao (Al Gore, Henry Kissinger, David Miliband, Angela Kane), nhà công nghệ và người phê bình công nghệ (Eric Schmidt, Tristan Harris, Aza Raskin, Joi Ito, Bruce Schneier, Jonathan Zittrain), Graham Allison cùng giảng viên và nhân viên Trung tâm Belfer của Đại học Harvard, và nhiều người khác như Anne Applebaum, Ian Bremmer, Richard Danzig, Jack Goldsmith, Martha Minow, Geoff Mulgan, Mark Walport. (Phân loại theo lĩnh vực là của người tổng hợp; sách chỉ liệt kê tên theo thứ tự chữ cái.)
+Rất nhiều người khác đã góp vào cuốn sách qua nhiều năm: trò chuyện chi tiết, đọc các chương, phản bác lập luận, đưa ý tưởng, sửa lỗi. Các tác giả đặc biệt cảm ơn những người đọc toàn bộ bản thảo và góp ý chi tiết.
+
+Danh sách gồm 59 người, trong đó có các nhà nghiên cứu AI và an ninh (Gregory Allen, Ben Buchanan, Rewon Child, Jason Matheny, Stuart Russell, Jeremy Fleming), nhà sinh học (George Church, Jennifer Doudna, Kevin Esvelt, Eric Lander), nhà kinh tế (Erik Brynjolfsson, Andrew McAfee, Jeffrey Sachs), nhà triết học (Nick Bostrom), nhà tâm lý học (Danny Kahneman), chính khách và nhà ngoại giao (Al Gore, Henry Kissinger, David Miliband, Angela Kane), nhà công nghệ và người phê bình công nghệ (Eric Schmidt, Tristan Harris, Aza Raskin, Joi Ito, Bruce Schneier, Jonathan Zittrain), Graham Allison cùng giảng viên và nhân viên Trung tâm Belfer của Đại học Harvard, và nhiều người khác như Anne Applebaum, Ian Bremmer, Richard Danzig, Jack Goldsmith, Martha Minow, Geoff Mulgan, Mark Walport. (Phân loại theo lĩnh vực là của người tổng hợp; sách chỉ liệt kê tên theo thứ tự chữ cái.)
 
 Suleyman cảm ơn các đồng sáng lập Inflection AI là Reid Hoffman và Karén Simonyan, và các đồng sáng lập DeepMind là Demis Hassabis và Shane Legg vì quan hệ đối tác trong "một thập niên phi thường". Michael Bhaskar cảm ơn các đồng sáng lập công ty Canelo của ông là Iain Millar và Nick Barreto, và trên hết là vợ ông, Dani, và hai con trai, Monty và Dougie.
 
 ## Về các tác giả (About the Authors)
 
-*Trang PDF 454; thông tin tại thời điểm sách ra đời năm 2023. Thông tin cập nhật tới năm 2026 nằm trong khối Lưu ý và mục Đánh giá.*
+*Trang PDF 454; thông tin tại thời điểm sách ra đời năm 2023. Thông tin cập nhật tới năm 2026 nằm trong mục Lưu ý cuối chương và mục Đánh giá.*
 
 | Tác giả | Thông tin trong sách |
 |---|---|
 | Mustafa Suleyman | Đồng sáng lập và CEO của Inflection AI. Trước đó đồng sáng lập DeepMind, một trong những công ty AI hàng đầu thế giới. Sau một thập niên ở DeepMind, làm phó chủ tịch phụ trách quản lý sản phẩm AI và chính sách AI ở Google. Khi đang học đại học ở Oxford, ông bỏ học để giúp lập một dịch vụ tư vấn qua điện thoại phi lợi nhuận. Sống ở Palo Alto, California |
 | Michael Bhaskar | Nhà văn và nhà xuất bản ở Anh. Tác giả các sách *The Content Machine*, *Curation* và *Human Frontiers* |
+
+## Bản đồ tư duy
+
+Toàn cảnh phần kết trên một trang: bảy nhánh lớn đi theo các mục 1–6 của phần Nội dung chi tiết (cuộc đột kích Luddite và làn sóng máy dệt, đoạn "Tuy vậy" về thế khó và bài học làm đúng ngay lần đầu, cuộc sống cùng AI và thế giới ngày mai, công nghệ phải phục vụ con người, phần kết trong mạch của cả cuốn sách) cùng mục Đánh giá, mỗi nhánh ghi luận điểm, ví dụ lịch sử, số liệu và đề xuất của tác giả; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Phần kết: chặn công nghệ là vô ích, việc cấp bách là uốn nắn làn sóng để công nghệ theo con người ngay từ đầu`"]
+  n1["`Mục 1–2 — Người Luddite: hình dạng của một làn sóng công nghệ không được khống chế`"]
+  n0 --- n1
+  n2["`Cảnh mở đầu: hàng chục người đeo mặt nạ đêm khuya dùng búa, gậy đập máy, rồi lộ ra là người Luddite`"]
+  n1 --- n2
+  n3["`1785: Edmund Cartwright giới thiệu máy dệt cơ khí, các bản cải tiến làm cách mạng ngành dệt`"]
+  n1 --- n3
+  n4["`Những người thua thiệt: máy móc và đồng vốn lấy việc, đánh sập tiền công, cướp phẩm giá thợ dệt`"]
+  n1 --- n4
+  n5["`Một đứa trẻ đứng máy dệt được lượng vải bằng 3,5 thợ dệt truyền thống`"]
+  n4 --- n5
+  n6["`Tiền công thợ dệt giảm hơn một nửa trong 45 năm sau 1770, giá lương thực tăng vọt`"]
+  n4 --- n6
+  n7["`Đàn ông mất việc vào tay phụ nữ và trẻ em, nhà máy kỷ luật sắt, tai nạn chết người là chuyện thường`"]
+  n4 --- n7
+  n8["`Máy móc có lợi cho chủ nhà máy nhưng là thảm họa cho thợ tay nghề cao, lương cao`"]
+  n4 --- n8
+  n9["`Thợ dệt vùng Midlands theo Ned Ludd không chấp nhận rằng lan rộng là mặc định`"]
+  n1 --- n9
+  n10["`1807: 6.000 thợ dệt biểu tình vì bị giảm lương, kỵ binh cầm gươm giải tán, giết một người`"]
+  n9 --- n10
+  n11["`1811: chủ nhà máy ở Nottingham nhận thư ký tên #quot;Tướng Ludd và Đội quân Đòi công bằng#quot;`"]
+  n9 --- n11
+  n12["`11/3/1811: thợ thất nghiệp phá 63 máy, các tháng sau hàng trăm khung máy bị phá`"]
+  n9 --- n12
+  n13["`Yêu sách nhỏ: tăng lương vừa phải, đưa máy vào từng bước, chia một phần lợi nhuận`"]
+  n9 --- n13
+  n14["`Kết cục: trận chiến đã thua, công nghệ đã lan rộng`"]
+  n1 --- n14
+  n15["`Phong trào bị dập bằng luật hà khắc và lực lượng dân quân đối lập`"]
+  n14 --- n15
+  n16["`Máy dệt tự động ở Anh tăng từ vài nghìn lên khoảng 250.000 vào năm 1850`"]
+  n14 --- n16
+  n17["`Lối sống cũ của thợ dệt bị phá hủy: với người thua thiệt, đó là làn sóng không được khống chế`"]
+  n14 --- n17
+  n18["`Mục 3 — Tuy vậy: người Luddite ở trong thế khó giống chúng ta hôm nay`"]
+  n0 --- n18
+  n19["`Về dài hạn, công nghệ công nghiệp nâng mức sống phi thường: lò sưởi, tủ lạnh, y học, sống lâu hơn`"]
+  n18 --- n19
+  n20["`Nỗi đau của người Luddite là thật, lợi ích con cháu họ và ta hưởng cũng là thật`"]
+  n18 --- n20
+  n21["`Người Luddite không khống chế được công nghệ, nhưng loài người vẫn thích nghi`"]
+  n18 --- n21
+  n22["`Thách thức hôm nay: giành lợi ích của làn sóng mà không bị tác hại của nó nhấn chìm`"]
+  n18 --- n22
+  n23["`Ai muốn dừng công nghệ hôm nay rất có thể cũng thất bại, nên phải làm đúng ngay lần đầu`"]
+  n18 --- n23
+  n24["`Cách mạng Công nghiệp ép con người thích nghi với công nghệ, lần này công nghệ phải theo con người`"]
+  n18 --- n24
+  n25["`Công nghệ đã được điều chỉnh theo con người là công nghệ đã được khống chế`"]
+  n18 --- n25
+  n26["`Việc cấp bách là uốn nắn làn sóng, không cưỡi lên nó hay cố dừng nó một cách vô ích`"]
+  n18 --- n26
+  n27["`Mục 4 — Cuộc sống cùng AI: con người có thể không còn là động lực chính của hành tinh`"]
+  n0 --- n27
+  n28["`Kỷ Nhân sinh là tên đề xuất cho thời kỳ con người là lực chính thay đổi Trái Đất`"]
+  n27 --- n28
+  n29["`Phần lớn tương tác hằng ngày sẽ là với AI, không phải với người khác`"]
+  n27 --- n29
+  n30["`Ta có thể đã nhìn màn hình nhiều hơn nhìn bất kỳ ai, kể cả vợ chồng và con cái`"]
+  n27 --- n30
+  n31["`Trí tuệ cá nhân: các AI đồng hành với từng người`"]
+  n27 --- n31
+  n32["`AI tìm thông tin, soạn bài trình bày, viết chương trình, đặt mua quà Giáng sinh`"]
+  n31 --- n32
+  n33["`AI là bạn đồng hành, người tâm tình, đồng nghiệp, chánh văn phòng, trợ lý, người phiên dịch`"]
+  n31 --- n33
+  n34["`AI giúp điều hành doanh nghiệp, chữa bệnh và đánh những trận chiến của ta`"]
+  n31 --- n34
+  n35["`Văn hóa, chính trị, kinh tế, tình bạn, vui chơi, tình yêu tiến hóa cùng các trí tuệ mới`"]
+  n31 --- n35
+  n36["`Thế giới ngày mai: học cách sống trong đó là việc của mọi người ở thế kỷ 21`"]
+  n27 --- n36
+  n37["`Nhà máy #quot;trồng#quot; sản phẩm tại chỗ, gần giống nông trại thời trước, drone và robot khắp nơi`"]
+  n36 --- n37
+  n38["`Bộ gen người co giãn được, nên chính ý niệm #quot;con người#quot; cũng co giãn`"]
+  n36 --- n38
+  n39["`Tuổi thọ dài hơn nhiều, nhiều người gần như biến mất hoàn toàn vào thế giới ảo`"]
+  n36 --- n39
+  n40["`Khế ước xã hội tưởng đã ổn định sẽ bị vặn xoắn và oằn xuống`"]
+  n36 --- n40
+  n41["`Mục 5 — Công nghệ phải phục vụ con người, và khống chế phải đi trước`"]
+  n0 --- n41
+  n42["`Phản ứng kiểu Luddite là tự nhiên và đoán trước được, nhưng như mọi lần sẽ vô ích`"]
+  n41 --- n42
+  n43["`Carl Benz và các ông trùm dầu mỏ đầu tiên không nghĩ tới bầu khí quyển của Trái Đất`"]
+  n41 --- n43
+  n44["`Chưa có một #quot;chúng ta#quot; toàn cầu, nhưng nhóm đang xây công nghệ mang trách nhiệm rất nặng`"]
+  n41 --- n44
+  n45["`Làn sóng phải xây quanh nhu cầu con người, không theo logic công nghệ mù quáng`"]
+  n41 --- n45
+  n46["`Bắt đầu tầm nhìn tương lai từ việc công nghệ làm được gì là nền móng hoàn toàn sai`"]
+  n41 --- n46
+  n47["`Công nghệ là trung tâm của tương lai nhưng không phải mục đích: chúng ta mới là`"]
+  n41 --- n47
+  n48["`Công nghệ nên khuếch đại điều tốt nhất trong ta, làm ta hạnh phúc và khỏe mạnh hơn`"]
+  n41 --- n48
+  n49["`Theo điều kiện của ta: quyết định dân chủ, tranh luận công khai, lợi ích chia rộng rãi`"]
+  n41 --- n49
+  n50["`Trước hết cần sự nắm chắc chưa từng có của con người lên toàn bộ quyển công nghệ`"]
+  n41 --- n50
+  n51["`Khống chế đòi hỏi quyết tâm phi thường kéo dài nhiều thập niên trên mọi lĩnh vực`"]
+  n41 --- n51
+  n52["`Phần thưởng là sự thịnh vượng an toàn, lâu dài của giống loài: điều đó đáng để chiến đấu`"]
+  n41 --- n52
+  n53["`Mục 6 — Phần kết khép lại lập luận của mười bốn chương`"]
+  n0 --- n53
+  n54["`Phần I: lan rộng là mặc định, người chống công nghệ kiểu Luddite là quy luật`"]
+  n53 --- n54
+  n55["`Phần II: AI, sinh học tổng hợp với bốn đặc điểm bất đối xứng, siêu tiến hóa, đa dụng toàn diện, tự chủ`"]
+  n53 --- n55
+  n56["`Phần III: thỏa thuận lớn rạn nứt, thế lưỡng nan giữa thảm họa và chuyên chế`"]
+  n53 --- n56
+  n57["`Phần IV: mười bước khống chế, khống chế là con đường hẹp không có điểm dừng`"]
+  n53 --- n57
+  n58["`Phần kết: mục tiêu của việc đi qua là một tương lai lấy con người làm trung tâm`"]
+  n53 --- n58
+  n59["`Đánh giá — Điểm mạnh, điểm căng và giả định ngầm`"]
+  n0 --- n59
+  n60["`Câu chuyện Luddite cắt hai chiều: họ đúng ở điểm đau, sai ở chiến lược phá máy`"]
+  n59 --- n60
+  n61["`Yêu sách của người Luddite chính là các biện pháp uốn nắn mà Suleyman đề xuất`"]
+  n59 --- n61
+  n62["`Điểm căng: người Luddite thua rồi loài người thích nghi, nhưng lần này phải làm đúng ngay lần đầu`"]
+  n59 --- n62
+  n63["`Lý do ngầm: rủi ro lần này có thể là thảm họa không đảo ngược được (Chương 12)`"]
+  n59 --- n63
+  n64["`Tầm nhìn trí tuệ cá nhân trùng với định vị Pi của Inflection AI, tác giả có lợi ích trực tiếp`"]
+  n59 --- n64
+  n65["`Bài học Cách mạng Công nghiệp có thể đánh giá thấp tốc độ và quy mô thay đổi lần này`"]
+  n59 --- n65
+  n66["`Vận dụng: thương lượng sớm điều kiện chuyển đổi, đưa vào từng bước, chia lợi ích, đào tạo lại`"]
+  n59 --- n66
+  n67["`Thông điệp xuyên suốt`"]
+  n0 --- n67
+  n68["`Lựa chọn đúng không phải giữa cấm và để mặc, mà là uốn nắn: giữ lợi ích, giảm tác hại`"]
+  n67 --- n68
+  n69["`Khống chế không chỉ là kìm hãm, nó là một nguyên tắc thiết kế`"]
+  n67 --- n69
+  n70["`Con người, không phải công nghệ, là mục đích của tương lai`"]
+  n67 --- n70
+  n71["`Khống chế là việc của nhiều thập niên, phần thưởng là sự tồn tại lâu dài của loài người`"]
+  n67 --- n71
+  class n0 root
+  class n1,n18,n27,n41,n53,n59,n67 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n13,n14,n15,n16,n17,n19,n20,n21,n22,n23,n24,n25,n26,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n38,n39,n40,n42,n43,n44,n45,n46,n47,n48,n49,n50,n51,n52,n54,n55,n56,n57,n58,n60,n61,n62,n63,n64,n65,n66,n68,n69,n70,n71 leaf
+```
+
+## Nguồn
+
+Mustafa Suleyman với Michael Bhaskar, *The Coming Wave: Technology, Power, and the Twenty-First Century's Greatest Dilemma* (Crown, Penguin Random House, 2023), bản ebook tiếng Anh, phần kết "Life After the Anthropocene", trang PDF 302–307; "Acknowledgments" (Lời cảm ơn), trang PDF 308–309; "About the Authors" (Về các tác giả), trang PDF 454; chú thích cuối sách của phần kết ở trang PDF 401.
+
+## Tác giả
+
+Mustafa Suleyman là đồng sáng lập DeepMind và Inflection AI, từng làm phó chủ tịch phụ trách quản lý sản phẩm AI và chính sách AI ở Google; Michael Bhaskar là nhà văn, nhà xuất bản ở Anh, cùng viết cuốn sách.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phần kết đứng sau Chương 14 ([C14-muoi-buoc-tien-toi-khong-che.md](C14-muoi-buoc-tien-toi-khong-che.md)), chương đề xuất mười bước khống chế và kết thúc bằng hình ảnh con đường hẹp. Phần kết không thêm đề xuất mới mà làm ba việc: kể lại câu chuyện phong trào Luddite đầu thế kỷ 19 như một ví dụ về làn sóng công nghệ không được khống chế; rút ra bài học rằng lần này công nghệ phải được điều chỉnh theo con người ngay từ đầu; và phác họa một thế giới mà phần lớn tương tác hằng ngày của con người là với AI.
+
+Câu chuyện Luddite nối lại với Chương 1 ([C01-khong-the-khong-che.md](C01-khong-the-khong-che.md)), nơi phản ứng kiểu Luddite được nêu là một khả năng, và Chương 3 ([C03-bai-toan-khong-che.md](C03-bai-toan-khong-che.md)), nơi Suleyman nói những người chống công nghệ kiểu Luddite là quy luật chứ không phải ngoại lệ. Yêu cầu công nghệ phải được "quyết định một cách dân chủ, tranh luận công khai" nối với Chương 9 ([C09-thoa-thuan-lon.md](C09-thoa-thuan-lon.md)) về thỏa thuận lớn giữa nhà nước và công dân và với bước 9 "Movements" của Chương 14.
+
+Bản đồ toàn bộ cuốn sách, với liên kết tới từng chương, nằm ở mục 6 của phần Nội dung chi tiết.
+
+## Lưu ý
+
+- **Chữ "Anthropocene" chỉ có ở tiêu đề.** Lời văn của phần kết không dùng lại từ này và không giải thích nó. Kỷ Nhân sinh (Anthropocene) là tên đề xuất cho thời kỳ địa chất trong đó hoạt động của con người là lực chính làm thay đổi Trái Đất (theo hiểu biết của người tổng hợp). Câu nối với tiêu đề là câu ở trang PDF 305: con người có thể không còn là động lực chính của hành tinh như ta đã quen. Vậy "cuộc sống sau kỷ Nhân sinh" là cuộc sống khi AI và sinh học tổng hợp cùng con người định hình thế giới.
+
+  Theo hiểu biết của người tổng hợp, tháng 3/2024 tiểu ban địa tầng học Đệ Tứ của Liên đoàn Khoa học Địa chất Quốc tế đã bỏ phiếu bác đề xuất công nhận chính thức kỷ Nhân sinh là một đơn vị thời gian địa chất; thuật ngữ vẫn được dùng rộng rãi theo nghĩa không chính thức.
+- **Cảnh mở đầu là cảnh dựng lại.** Đoạn mở đầu (trang PDF 302) kể một cuộc đột kích ban đêm như một truyện ngắn, không ghi địa điểm, ngày tháng hay tên người; chỉ đến dòng cuối mới lộ ra đó là người Luddite. Đây là cảnh tổng hợp có tính văn chương, không phải tường thuật một sự kiện cụ thể (nhận xét của người tổng hợp).
+- **Loại máy bị phá (theo hiểu biết của người tổng hợp).** Sách kể câu chuyện xoay quanh thợ dệt và máy dệt cơ khí (power loom). Theo hiểu biết của người tổng hợp, các cuộc phá máy ở Nottinghamshire năm 1811, kể cả đêm 11/3/1811, chủ yếu nhằm vào khung dệt kim (stocking frame) của thợ dệt bít tất; thợ xén vải ở Yorkshire phá máy xén, còn máy dệt cơ khí là mục tiêu chính ở Lancashire. Chữ "frames" trong sách ("hundreds of frames were destroyed") khớp với cách hiểu này. Ý chính của sách không đổi.
+- **Chú thích duy nhất của phần kết** gắn với câu "Technology should amplify the best of us" và dẫn bài "How AI Fails Us" của Divya Siddarth và cộng sự (Trung tâm Đạo đức Edmond và Lily Safra, Đại học Harvard, 12/2021) như một ví dụ cho lập luận rằng AI nên bổ trợ con người.
+- **Thông tin về tác giả đã cũ so với năm 2026.** Trang "About the Authors" ghi Suleyman là đồng sáng lập và CEO của Inflection AI, sống ở Palo Alto. Theo hiểu biết của người tổng hợp, tháng 3/2024 Suleyman cùng đồng sáng lập Karén Simonyan rời Inflection AI sang Microsoft, nơi ông làm CEO bộ phận Microsoft AI (phụ trách Copilot và các sản phẩm AI tiêu dùng).
+- **Hai người được cảm ơn đã qua đời sau khi sách ra mắt** (theo hiểu biết của người tổng hợp): Henry Kissinger (11/2023) và nhà tâm lý học Daniel Kahneman, được ghi trong sách là "Danny Kahneman" (3/2024).
+- **Thống nhất với Chương 9.** Trang "About the Authors" nói Suleyman bỏ dở chương trình đại học ở Oxford để cùng lập một dịch vụ tư vấn qua điện thoại phi lợi nhuận; Chương 9 nói ông làm việc này năm 19 tuổi. Hai chỗ khớp nhau.

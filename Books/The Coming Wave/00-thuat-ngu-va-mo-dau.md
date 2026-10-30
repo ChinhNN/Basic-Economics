@@ -1,19 +1,16 @@
 # Bảng thuật ngữ và Lời mở đầu (Glossary of Key Terms; Prologue)
 
-**Nguồn:** Mustafa Suleyman với Michael Bhaskar, *The Coming Wave: Technology, Power, and the Twenty-First Century's Greatest Dilemma* (Crown, Penguin Random House, 2023), bản ebook tiếng Anh; mục "Glossary of Key Terms" (trang PDF 14–15) và "Prologue" (trang PDF 16–17).
-**Tác giả:** Mustafa Suleyman là người đồng sáng lập DeepMind (mùa hè 2010, cùng Demis Hassabis và Shane Legg, theo Chương 1) và Inflection AI (theo Chương 4); Michael Bhaskar là người viết cùng ông (theo hiểu biết của người tổng hợp, Bhaskar là nhà văn và người làm xuất bản, còn Suleyman giữ chức CEO của Microsoft AI từ tháng 3/2024).
-**Vị trí trong lập luận của cả cuốn sách:** Hai phần này đứng trước Chương 1. Bảng thuật ngữ định nghĩa trước mười ba khái niệm mà cả cuốn sách dùng lại: làn sóng sắp tới, khống chế, bài toán khống chế, thế lưỡng nan, bốn đặc điểm, các tác nhân khuếch đại sự mong manh, thỏa thuận lớn, con đường hẹp, né tránh bi quan, và vài khái niệm nền. Lời mở đầu là một trang văn do một AI viết, rồi tác giả tiết lộ điều đó ở dòng cuối; đây là màn trình diễn đầu tiên cho luận điểm rằng làn sóng sắp tới đã đến. Chương 1 ([C01-khong-the-khong-che.md](C01-khong-the-khong-che.md)) trình bày lập luận chính của cả sách và dàn ý bốn phần. Các khái niệm trong bảng được giải thích kỹ ở: làn sóng và sự lan rộng ([C02-lan-rong-bat-tan.md](C02-lan-rong-bat-tan.md)); bài toán khống chế ([C03-bai-toan-khong-che.md](C03-bai-toan-khong-che.md)); trí tuệ nhân tạo và ACI ([C04-cong-nghe-cua-tri-tue.md](C04-cong-nghe-cua-tri-tue.md)); sinh học tổng hợp ([C05-cong-nghe-cua-su-song.md](C05-cong-nghe-cua-su-song.md)); bốn đặc điểm ([C07-bon-dac-diem-cua-lan-song.md](C07-bon-dac-diem-cua-lan-song.md)); thỏa thuận lớn ([C09-thoa-thuan-lon.md](C09-thoa-thuan-lon.md)); các tác nhân khuếch đại sự mong manh ([C10-cac-tac-nhan-khuech-dai-su-mong-manh.md](C10-cac-tac-nhan-khuech-dai-su-mong-manh.md)); thế lưỡng nan ([C12-the-luong-nan.md](C12-the-luong-nan.md)); con đường hẹp và các bước khống chế ([C13-khong-che-phai-kha-thi.md](C13-khong-che-phai-kha-thi.md), [C14-muoi-buoc-tien-toi-khong-che.md](C14-muoi-buoc-tien-toi-khong-che.md)).
-**Ý chính:** **Bảng thuật ngữ cho thấy khung tư duy của cả cuốn sách trước khi lập luận bắt đầu: công nghệ lan rộng theo từng làn sóng; làn sóng sắp tới xoay quanh trí tuệ nhân tạo và sinh học tổng hợp; khống chế là năng lực giám sát, hạn chế, kiểm soát và khi cần thì dừng hẳn công nghệ; và thế lưỡng nan là khả năng ngày càng lớn rằng cả việc có lẫn việc không có công nghệ mới đều dẫn tới thảm họa hoặc phản địa đàng (dystopia).** Bảng gồm mười ba mục, trong đó mục đầu gộp ba khái niệm AI, AGI và ACI. Suleyman định nghĩa AGI rất cao (làm mọi kỹ năng nhận thức tốt hơn người giỏi nhất) và đặt ra khái niệm ACI để chỉ chặng giữa đang đến rất nhanh. Lời mở đầu gồm một câu hỏi ("Làn sóng công nghệ sắp tới có ý nghĩa gì với nhân loại?") và sáu đoạn trả lời; dòng cuối trang PDF 17 tiết lộ rằng toàn bộ phần trả lời do một AI viết, phần còn lại của sách thì không, "dù nó sớm có thể là như vậy". Câu trả lời của AI trôi chảy và đúng ý cả cuốn sách (lợi ích lớn, rủi ro lớn, nhân loại đứng trước lựa chọn), nhưng sáo rỗng; chính sự trôi chảy ấy là bằng chứng mà tác giả muốn người đọc tự cảm nhận.
+## Ý chính
 
-> **Lưu ý:**
-> - **Lời mở đầu do một AI viết (đã đối chiếu ảnh trang PDF 16–17).** Lớp chữ trích ra mất các chữ in hoa nhỏ ở câu mở và câu kết. Ảnh trang cho thấy câu mở là "THIS IS HOW AN AI sees it." ("Đây là cách một AI nhìn nhận nó."), dòng tiếp là "QUESTION: What does the coming wave of technology mean for humanity?", và câu kết sau dấu ngắt "—" là "THE ABOVE WAS WRITTEN by an AI. The rest is not, although it soon could be. This is what's coming." Như vậy toàn bộ sáu đoạn từ "In the annals of human history…" đến "…face its challenges head-on." là văn do máy viết, còn câu đầu, dòng câu hỏi và câu kết là của tác giả.
-> - **Sách không nói AI nào viết, viết khi nào, và văn bản có được người biên tập lại hay không.** Bản tổng hợp không đoán tên mô hình. Theo hiểu biết của người tổng hợp, sách viết trong 2022–2023, khi các mô hình ngôn ngữ lớn (LLM) đã viết được những đoạn văn như vậy; Suleyman lúc đó đang điều hành Inflection AI, công ty làm chatbot Pi.
-> - **Định nghĩa AGI của sách cao hơn cách hiểu phổ biến (theo hiểu biết của người tổng hợp).** Sách định nghĩa AGI là thời điểm AI làm được mọi kỹ năng nhận thức của con người *tốt hơn những người thông minh nhất*. Nhiều định nghĩa khác chỉ đòi hỏi ngang mức con người, hoặc vượt con người ở phần lớn công việc có giá trị kinh tế; định nghĩa của sách gần với cái mà nhiều người gọi là siêu trí tuệ (superintelligence).
-> - **ACI là thuật ngữ do Suleyman đặt** (theo hiểu biết của người tổng hợp, nó không phải thuật ngữ chuẩn của ngành). Sách gọi ACI là một điểm "đang đến rất nhanh" giữa AI và AGI.
-> - **Bảng thuật ngữ dùng "pessimism aversion" (né tránh bi quan), còn Chương 1 dùng "pessimism-aversion trap" (bẫy né tránh bi quan)** cho cùng hiện tượng. Bảng còn gọi nó là một biến thể của thiên kiến lạc quan (optimism bias), điều Chương 1 không nói. Ý "nhất là giới tinh hoa" thì Chương 1 cũng có: chương nói hiện tượng này hay đến từ những người ở vị trí an toàn, có quyền lực, và gọi đích danh "giới tinh hoa công nghệ né tránh bi quan" (trang PDF 29–30).
-> - **AI trong Lời mở đầu nói "advanced AI and biotechnology" (AI tiên tiến và công nghệ sinh học)**, còn bảng thuật ngữ và các chương sau nói "AI and synthetic biology" (AI và sinh học tổng hợp). Đây là khác biệt chữ dùng, không phải mâu thuẫn ý.
-> - **Dấu "￾" trong lớp chữ ở "hyper￾evolution" và "nation￾state"** chỉ là dấu gạch nối ngắt dòng; ảnh trang PDF 14 in đúng "hyper-evolution" và "nation-state".
-> - **Bảng thuật ngữ xếp mục theo thứ tự chữ cái tiếng Anh, bỏ qua mạo từ "THE":** các mục bắt đầu bằng "THE" được xếp theo chữ đứng sau "THE" (COMING WAVE, CONTAINMENT PROBLEM, DILEMMA, GRAND BARGAIN, NARROW PATH). Bản tổng hợp giữ đúng thứ tự của sách.
+**Bảng thuật ngữ cho thấy khung tư duy của cả cuốn sách trước khi lập luận bắt đầu: công nghệ lan rộng theo từng làn sóng; làn sóng sắp tới xoay quanh trí tuệ nhân tạo và sinh học tổng hợp; khống chế là năng lực giám sát, hạn chế, kiểm soát và khi cần thì dừng hẳn công nghệ; và thế lưỡng nan là khả năng ngày càng lớn rằng cả việc có lẫn việc không có công nghệ mới đều dẫn tới thảm họa hoặc phản địa đàng (dystopia).**
+
+Bảng gồm mười ba mục, trong đó mục đầu gộp ba khái niệm AI, AGI và ACI.
+
+Suleyman định nghĩa AGI rất cao (làm mọi kỹ năng nhận thức tốt hơn người giỏi nhất) và đặt ra khái niệm ACI để chỉ chặng giữa đang đến rất nhanh.
+
+Lời mở đầu gồm một câu hỏi ("Làn sóng công nghệ sắp tới có ý nghĩa gì với nhân loại?") và sáu đoạn trả lời; dòng cuối trang PDF 17 tiết lộ rằng toàn bộ phần trả lời do một AI viết, phần còn lại của sách thì không, "dù nó sớm có thể là như vậy".
+
+Câu trả lời của AI trôi chảy và đúng ý cả cuốn sách (lợi ích lớn, rủi ro lớn, nhân loại đứng trước lựa chọn), nhưng sáo rỗng; chính sự trôi chảy ấy là bằng chứng mà tác giả muốn người đọc tự cảm nhận.
 
 ## Sơ đồ
 
@@ -376,7 +373,9 @@ Lời mở đầu không lập luận mà trình diễn: nó để người đ�
 
 ### Thủ pháp "AI viết lời mở đầu" mạnh vào năm 2023 nhưng đã thành quen thuộc tới năm 2026
 
-Khi sách ra đời (năm 2023; theo hiểu biết của người tổng hợp là tháng 9/2023), việc một mô hình ngôn ngữ lớn viết được một trang văn trôi chảy vẫn còn gây ấn tượng với nhiều người đọc. Theo hiểu biết của người tổng hợp, tới năm 2026 văn bản do AI viết đã phổ biến trong công việc hằng ngày, và người đọc thường nhận ra dấu hiệu của nó: câu cân đối kiểu "một mặt… mặt khác…", cụm từ lớn lao, không có chi tiết cụ thể. Chính sáu đoạn trong Lời mở đầu có đủ các dấu hiệu ấy. Vì vậy với người đọc hôm nay, thủ pháp chứng minh hai điều cùng lúc: AI viết được văn trôi chảy, và văn trôi chảy chưa chắc có nội dung. Câu "dù nó sớm có thể là như vậy" của tác giả đã đúng một phần: theo hiểu biết của người tổng hợp, năm 2026 đã có những cuốn sách viết phần lớn bằng AI, nhưng một cuốn sách lập luận có số liệu, câu chuyện riêng và chú thích như *The Coming Wave* vẫn cần người viết chịu trách nhiệm.
+Khi sách ra đời (năm 2023; theo hiểu biết của người tổng hợp là tháng 9/2023), việc một mô hình ngôn ngữ lớn viết được một trang văn trôi chảy vẫn còn gây ấn tượng với nhiều người đọc. Theo hiểu biết của người tổng hợp, tới năm 2026 văn bản do AI viết đã phổ biến trong công việc hằng ngày, và người đọc thường nhận ra dấu hiệu của nó: câu cân đối kiểu "một mặt… mặt khác…", cụm từ lớn lao, không có chi tiết cụ thể. Chính sáu đoạn trong Lời mở đầu có đủ các dấu hiệu ấy.
+
+Vì vậy với người đọc hôm nay, thủ pháp chứng minh hai điều cùng lúc: AI viết được văn trôi chảy, và văn trôi chảy chưa chắc có nội dung. Câu "dù nó sớm có thể là như vậy" của tác giả đã đúng một phần: theo hiểu biết của người tổng hợp, năm 2026 đã có những cuốn sách viết phần lớn bằng AI, nhưng một cuốn sách lập luận có số liệu, câu chuyện riêng và chú thích như *The Coming Wave* vẫn cần người viết chịu trách nhiệm.
 
 ### Định nghĩa AGI cao giúp lập luận của Suleyman nhưng khó so sánh với các nguồn khác
 
@@ -397,3 +396,166 @@ Câu hỏi đặt cho AI trong Lời mở đầu ("làn sóng công nghệ sắp
 - **Công việc:** giữ bảng thuật ngữ này bên cạnh khi đọc tin về AI; khi thấy chữ "AGI", hỏi lại người viết đang dùng định nghĩa nào. Khi dùng AI để viết, kiểm tra xem văn bản có số liệu, ví dụ và lập luận riêng hay chỉ có những câu cân đối, lớn lao như Lời mở đầu.
 - **Đầu tư:** khung "khống chế" và "thế lưỡng nan" giúp đặt câu hỏi về rủi ro quy định đối với các công ty AI và công nghệ sinh học: công ty đang hoạt động ở phía "mở" hay phía "đóng" của con đường hẹp, và nếu chính sách siết lại thì mô hình kinh doanh còn đứng được không (nhận xét của người tổng hợp).
 - **Đời sống:** khái niệm né tránh bi quan áp dụng cho cả rủi ro cá nhân (sức khỏe, tài chính): nhận ra lúc mình gạt đi một tin xấu chỉ vì nó khó chịu là bước đầu để xử lý nó.
+
+## Bản đồ tư duy
+
+Toàn cảnh Bảng thuật ngữ và Lời mở đầu trên một trang: sáu nhánh lớn theo phần Nội dung chi tiết và Đánh giá (mục 1 chia thành bốn nhóm thuật ngữ: công nghệ và làn sóng, ba nấc AI, khống chế, nhà nước và thế lưỡng nan; mục 2 là Lời mở đầu do AI viết; nhánh thứ sáu là đánh giá khi đọc lại năm 2026), mỗi nhánh ghi định nghĩa, ví dụ và lập luận then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Bảng thuật ngữ và Lời mở đầu: mười ba khái niệm khung của cả sách, và một trang văn do AI viết chứng minh làn sóng đã đến`"]
+  n1["`Mục 1 (thuật ngữ 2, 11–13) — Công nghệ lan rộng theo làn sóng`"]
+  n0 --- n1
+  n2["`Công nghệ: ứng dụng tri thức khoa học, theo nghĩa rộng nhất, để tạo công cụ hoặc kết quả thực tế`"]
+  n1 --- n2
+  n3["`Đây là định nghĩa đời thường, chọn giữa một cuộc tranh luận học thuật dài (chú thích Chương 2)`"]
+  n2 --- n3
+  n4["`Làn sóng: lan rộng toàn cầu của một thế hệ công nghệ neo vào một công nghệ đa mục đích mới, như động cơ đốt trong hay điện`"]
+  n1 --- n4
+  n5["`Từ cuốc chim tới máy bay, công nghệ nền tảng đều rẻ dần, dễ dùng dần và lan rộng khắp nơi`"]
+  n4 --- n5
+  n6["`Làn sóng sắp tới: cụm công nghệ xoay quanh AI và sinh học tổng hợp, vừa trao sức mạnh vừa gây rủi ro chưa từng có`"]
+  n1 --- n6
+  n7["`Định nghĩa làn sóng sắp tới đã chứa sẵn thế lưỡng nan: cùng một cụm công nghệ đem lại cả sức mạnh lẫn rủi ro`"]
+  n6 --- n7
+  n8["`Sinh học tổng hợp: thiết kế và chế tạo sinh vật mới, hoặc thiết kế lại các hệ sinh học đang có`"]
+  n1 --- n8
+  n9["`Máy tổng hợp DNA giá vài chục nghìn USD đặt vừa trên bàn trong ga-ra (Chương 1)`"]
+  n8 --- n9
+  n10["`Mục 1 (thuật ngữ 1) — Ba nấc AI, ACI, AGI`"]
+  n0 --- n10
+  n11["`AI: ngành khoa học dạy máy học các năng lực giống con người`"]
+  n10 --- n11
+  n12["`AGI: AI làm mọi kỹ năng nhận thức của con người tốt hơn những người thông minh nhất`"]
+  n10 --- n12
+  n13["`Định nghĩa AGI này cao hơn cách hiểu phổ biến, gần với cái nhiều người gọi là siêu trí tuệ`"]
+  n12 --- n13
+  n14["`ACI: điểm đang đến rất nhanh giữa AI và AGI, làm được nhiều nhiệm vụ phức tạp nhưng còn xa mới tổng quát`"]
+  n10 --- n14
+  n15["`ACI là thuật ngữ do Suleyman đặt, không phải thuật ngữ chuẩn của ngành`"]
+  n14 --- n15
+  n16["`Chương 1: AI có vẻ sẽ đạt mức con người ở rất nhiều nhiệm vụ trong vòng ba năm`"]
+  n14 --- n16
+  n17["`Không cần AGI mới có biến đổi lớn: chuyển câu hỏi từ bao giờ có AGI sang AI làm được gì ngay bây giờ`"]
+  n10 --- n17
+  n18["`Khi đọc nguồn khác: ACI của Suleyman gần cái nhiều nơi gọi là AGI, nên hỏi lại người viết dùng định nghĩa nào`"]
+  n10 --- n18
+  n19["`Mục 1 (thuật ngữ 3, 4, 6) — Khống chế và vì sao khó`"]
+  n0 --- n19
+  n20["`Khống chế: năng lực giám sát, hạn chế, kiểm soát và khi cần thì dừng hẳn công nghệ`"]
+  n19 --- n20
+  n21["`Bốn mức tăng dần nên khống chế không đồng nghĩa với cấm: mục tiêu là điều tiết có chủ đích`"]
+  n20 --- n21
+  n22["`Chương 1: tập hợp cơ chế kỹ thuật, xã hội và pháp lý đan cài, hoạt động ở mọi cấp độ`"]
+  n20 --- n22
+  n23["`Bài toán khống chế: khuynh hướng sẵn có của công nghệ lan rộng theo làn sóng, gây tác động không dự đoán, không kiểm soát được`"]
+  n19 --- n23
+  n24["`Chữ predisposition cho thấy lan rộng là bản chất của công nghệ, không phải tai nạn`"]
+  n23 --- n24
+  n25["`Bốn đặc điểm làm khống chế khó hơn: bất đối xứng, siêu tiến hoá, đa dụng toàn diện (omni-use), tự chủ`"]
+  n19 --- n25
+  n26["`Bốn đặc điểm phân biệt làn sóng này với các làn sóng trước, bàn kỹ ở Chương 7`"]
+  n25 --- n26
+  n27["`Mục 1 (thuật ngữ 5, 7–10) — Nhà nước, thế lưỡng nan và lối thoát`"]
+  n0 --- n27
+  n28["`Tác nhân khuếch đại sự mong manh: ứng dụng và tác động làm rung chuyển nền móng vốn đã giòn của nhà nước dân tộc`"]
+  n27 --- n28
+  n29["`Ví dụ Chương 1: bạo lực mới, làn sóng thông tin sai lệch, việc làm biến mất, nguy cơ tai nạn thảm khốc`"]
+  n28 --- n29
+  n30["`Thỏa thuận lớn: công dân trao độc quyền dùng vũ lực, nhà nước giữ trật tự, cung cấp dịch vụ công, khai thác công nghệ và giảm tác hại`"]
+  n27 --- n30
+  n31["`Làn sóng sắp tới đặt thỏa thuận này dưới áp lực lớn đúng lúc ta cần nó nhất`"]
+  n30 --- n31
+  n32["`Thế lưỡng nan: cả công nghệ mới lẫn việc thiếu nó đều có thể dẫn tới thảm họa và/hoặc phản địa đàng`"]
+  n27 --- n32
+  n33["`Không khống chế được → thảm họa#59; giám sát toàn diện → phản địa đàng#59; từ bỏ công nghệ → trì trệ, dễ sụp đổ`"]
+  n32 --- n33
+  n34["`Suleyman gọi thế lưỡng nan là #quot;siêu vấn đề#quot; lớn của thế kỷ 21`"]
+  n32 --- n34
+  n35["`Con đường hẹp: cân bằng giữa mở và đóng#59; quá mở dẫn tới thảm họa, quá đóng dẫn tới phản địa đàng`"]
+  n27 --- n35
+  n36["`Chương 1 cảnh báo con đường này hẹp dần theo thời gian`"]
+  n35 --- n36
+  n37["`Né tránh bi quan: con người, nhất là giới tinh hoa, gạt đi câu chuyện quá tiêu cực, một biến thể của thiên kiến lạc quan`"]
+  n27 --- n37
+  n38["`Ví dụ Chương 1: các nhà sáng lập công nghệ nhìn Suleyman với ánh mắt trống rỗng khi ông cảnh báo về AI`"]
+  n37 --- n38
+  n39["`Mục 2 — Lời mở đầu: sáu đoạn do AI viết`"]
+  n0 --- n39
+  n40["`Câu mở của tác giả: #quot;Đây là cách một AI nhìn nhận nó.#quot;, rồi câu hỏi: làn sóng công nghệ sắp tới có ý nghĩa gì với nhân loại?`"]
+  n39 --- n40
+  n41["`Đoạn 1–2: lửa, bánh xe, điện là bước ngoặt#59; nay ta đứng trước AI tiên tiến và công nghệ sinh học`"]
+  n39 --- n41
+  n42["`Đoạn 3: lợi ích lớn: giải mã vũ trụ, chữa bệnh, nghệ thuật mới, thiết kế sự sống cho y tế và nông nghiệp`"]
+  n39 --- n42
+  n43["`Đoạn 4: nguy hiểm lớn: hệ thống vượt tầm kiểm soát, thuật toán ta không hiểu, hậu quả cho cá nhân và hệ sinh thái`"]
+  n39 --- n43
+  n44["`Đoạn 5–6: phải chọn giữa khả năng chưa từng có và hiểm họa khôn lường#59; ta phải sẵn sàng`"]
+  n39 --- n44
+  n45["`Câu kết: phần trên do một AI viết, phần còn lại thì không, dù nó sớm có thể là như vậy. Đây là điều đang tới`"]
+  n39 --- n45
+  n46["`Thủ pháp chứng minh năng lực AI: người đọc đọc trọn sáu đoạn trôi chảy mà không biết máy viết`"]
+  n39 --- n46
+  n47["`Nội dung sáu đoạn trùng khung cả sách: lợi ích lớn, rủi ro lớn, nhân loại đứng trước lựa chọn`"]
+  n39 --- n47
+  n48["`Giới hạn: cụm sáo lặp hai lần, không có số liệu, ví dụ cụ thể hay lập luận riêng`"]
+  n39 --- n48
+  n49["`Sách không nói AI nào viết, viết khi nào, và văn bản có được người biên tập lại hay không`"]
+  n39 --- n49
+  n50["`Đánh giá — Đọc lại năm 2026 và các giả định ngầm`"]
+  n0 --- n50
+  n51["`Thủ pháp mạnh năm 2023, tới 2026 văn AI đã quen và dễ nhận ra: câu một mặt… mặt khác…, cụm lớn lao, không chi tiết`"]
+  n50 --- n51
+  n52["`Thủ pháp nay chứng minh hai điều: AI viết được văn trôi chảy, và văn trôi chảy chưa chắc có nội dung`"]
+  n50 --- n52
+  n53["`Giả định ngầm: nhà nước dân tộc là chủ thể khống chế chính#59; công ty và tổ chức quốc tế chỉ được mở rộng ở Chương 14`"]
+  n50 --- n53
+  n54["`Bảng chỉ coi thảm họa và phản địa đàng là kết cục xấu, không bàn khả năng công nghệ tự điều chỉnh qua thị trường`"]
+  n50 --- n54
+  n55["`Né tránh bi quan định nghĩa như thiên kiến của người khác nên mọi phản bác lạc quan có nguy cơ bị xếp vào đó`"]
+  n50 --- n55
+  n56["`AI dừng ở #quot;ta phải sẵn sàng#quot;, tác giả trả lời bằng 14 chương và mười bước cụ thể ở Chương 14`"]
+  n50 --- n56
+  n57["`Thông điệp xuyên suốt`"]
+  n0 --- n57
+  n58["`Bộ thuật ngữ là chuỗi lập luận thu gọn: làn sóng → khó khống chế → nhà nước suy yếu → thế lưỡng nan → con đường hẹp`"]
+  n57 --- n58
+  n59["`Rào cản đầu tiên là thói quen gạt đi tin xấu: né tránh bi quan`"]
+  n57 --- n59
+  n60["`Bằng chứng tốt nhất là cho người đọc tự trải nghiệm: làn sóng sắp tới đã có mặt ngay trong cuốn sách`"]
+  n57 --- n60
+  class n0 root
+  class n1,n10,n19,n27,n39,n50,n57 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n16,n17,n18,n20,n21,n22,n23,n24,n25,n26,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n38,n40,n41,n42,n43,n44,n45,n46,n47,n48,n49,n51,n52,n53,n54,n55,n56,n58,n59,n60 leaf
+```
+
+## Nguồn
+
+Mustafa Suleyman với Michael Bhaskar, *The Coming Wave: Technology, Power, and the Twenty-First Century's Greatest Dilemma* (Crown, Penguin Random House, 2023), bản ebook tiếng Anh; mục "Glossary of Key Terms" (trang PDF 14–15) và "Prologue" (trang PDF 16–17).
+
+## Tác giả
+
+Mustafa Suleyman là người đồng sáng lập DeepMind (mùa hè 2010, cùng Demis Hassabis và Shane Legg, theo Chương 1) và Inflection AI (theo Chương 4); Michael Bhaskar là người viết cùng ông (theo hiểu biết của người tổng hợp, Bhaskar là nhà văn và người làm xuất bản, còn Suleyman giữ chức CEO của Microsoft AI từ tháng 3/2024).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Hai phần này đứng trước Chương 1. Bảng thuật ngữ định nghĩa trước mười ba khái niệm mà cả cuốn sách dùng lại: làn sóng sắp tới, khống chế, bài toán khống chế, thế lưỡng nan, bốn đặc điểm, các tác nhân khuếch đại sự mong manh, thỏa thuận lớn, con đường hẹp, né tránh bi quan, và vài khái niệm nền.
+
+Lời mở đầu là một trang văn do một AI viết, rồi tác giả tiết lộ điều đó ở dòng cuối; đây là màn trình diễn đầu tiên cho luận điểm rằng làn sóng sắp tới đã đến.
+
+Chương 1 ([C01-khong-the-khong-che.md](C01-khong-the-khong-che.md)) trình bày lập luận chính của cả sách và dàn ý bốn phần. Các khái niệm trong bảng được giải thích kỹ ở: làn sóng và sự lan rộng ([C02-lan-rong-bat-tan.md](C02-lan-rong-bat-tan.md)); bài toán khống chế ([C03-bai-toan-khong-che.md](C03-bai-toan-khong-che.md)); trí tuệ nhân tạo và ACI ([C04-cong-nghe-cua-tri-tue.md](C04-cong-nghe-cua-tri-tue.md)); sinh học tổng hợp ([C05-cong-nghe-cua-su-song.md](C05-cong-nghe-cua-su-song.md)); bốn đặc điểm ([C07-bon-dac-diem-cua-lan-song.md](C07-bon-dac-diem-cua-lan-song.md)); thỏa thuận lớn ([C09-thoa-thuan-lon.md](C09-thoa-thuan-lon.md)); các tác nhân khuếch đại sự mong manh ([C10-cac-tac-nhan-khuech-dai-su-mong-manh.md](C10-cac-tac-nhan-khuech-dai-su-mong-manh.md)); thế lưỡng nan ([C12-the-luong-nan.md](C12-the-luong-nan.md)); con đường hẹp và các bước khống chế ([C13-khong-che-phai-kha-thi.md](C13-khong-che-phai-kha-thi.md), [C14-muoi-buoc-tien-toi-khong-che.md](C14-muoi-buoc-tien-toi-khong-che.md)).
+
+## Lưu ý
+
+- **Lời mở đầu do một AI viết (đã đối chiếu ảnh trang PDF 16–17).** Lớp chữ trích ra mất các chữ in hoa nhỏ ở câu mở và câu kết. Ảnh trang cho thấy câu mở là "THIS IS HOW AN AI sees it." ("Đây là cách một AI nhìn nhận nó."), dòng tiếp là "QUESTION: What does the coming wave of technology mean for humanity?", và câu kết sau dấu ngắt "—" là "THE ABOVE WAS WRITTEN by an AI. The rest is not, although it soon could be. This is what's coming." Như vậy toàn bộ sáu đoạn từ "In the annals of human history…" đến "…face its challenges head-on." là văn do máy viết, còn câu đầu, dòng câu hỏi và câu kết là của tác giả.
+- **Sách không nói AI nào viết, viết khi nào, và văn bản có được người biên tập lại hay không.** Bản tổng hợp không đoán tên mô hình. Theo hiểu biết của người tổng hợp, sách viết trong 2022–2023, khi các mô hình ngôn ngữ lớn (LLM) đã viết được những đoạn văn như vậy; Suleyman lúc đó đang điều hành Inflection AI, công ty làm chatbot Pi.
+- **Định nghĩa AGI của sách cao hơn cách hiểu phổ biến (theo hiểu biết của người tổng hợp).** Sách định nghĩa AGI là thời điểm AI làm được mọi kỹ năng nhận thức của con người *tốt hơn những người thông minh nhất*. Nhiều định nghĩa khác chỉ đòi hỏi ngang mức con người, hoặc vượt con người ở phần lớn công việc có giá trị kinh tế; định nghĩa của sách gần với cái mà nhiều người gọi là siêu trí tuệ (superintelligence).
+- **ACI là thuật ngữ do Suleyman đặt** (theo hiểu biết của người tổng hợp, nó không phải thuật ngữ chuẩn của ngành). Sách gọi ACI là một điểm "đang đến rất nhanh" giữa AI và AGI.
+- **Bảng thuật ngữ dùng "pessimism aversion" (né tránh bi quan), còn Chương 1 dùng "pessimism-aversion trap" (bẫy né tránh bi quan)** cho cùng hiện tượng. Bảng còn gọi nó là một biến thể của thiên kiến lạc quan (optimism bias), điều Chương 1 không nói. Ý "nhất là giới tinh hoa" thì Chương 1 cũng có: chương nói hiện tượng này hay đến từ những người ở vị trí an toàn, có quyền lực, và gọi đích danh "giới tinh hoa công nghệ né tránh bi quan" (trang PDF 29–30).
+- **AI trong Lời mở đầu nói "advanced AI and biotechnology" (AI tiên tiến và công nghệ sinh học)**, còn bảng thuật ngữ và các chương sau nói "AI and synthetic biology" (AI và sinh học tổng hợp). Đây là khác biệt chữ dùng, không phải mâu thuẫn ý.
+- **Dấu "￾" trong lớp chữ ở "hyper￾evolution" và "nation￾state"** chỉ là dấu gạch nối ngắt dòng; ảnh trang PDF 14 in đúng "hyper-evolution" và "nation-state".
+- **Bảng thuật ngữ xếp mục theo thứ tự chữ cái tiếng Anh, bỏ qua mạo từ "THE":** các mục bắt đầu bằng "THE" được xếp theo chữ đứng sau "THE" (COMING WAVE, CONTAINMENT PROBLEM, DILEMMA, GRAND BARGAIN, NARROW PATH). Bản tổng hợp giữ đúng thứ tự của sách.

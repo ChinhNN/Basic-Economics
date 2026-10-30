@@ -1,21 +1,14 @@
 # Chương 6 — Làn sóng rộng hơn (The Wider Wave)
 
-**Nguồn:** Mustafa Suleyman với Michael Bhaskar, *The Coming Wave: Technology, Power, and the Twenty-First Century's Greatest Dilemma* (Crown, Penguin Random House, 2023), bản ebook tiếng Anh, Phần II "The Next Wave", Chương 6 "The Wider Wave", trang PDF 107–118; chú thích cuối sách của chương ở trang PDF 340–342.
-**Tác giả:** Mustafa Suleyman là đồng sáng lập DeepMind và Inflection AI, viết sách cùng Michael Bhaskar, nhà văn và người làm xuất bản; trong chương này Suleyman nói bằng ngôi "tôi" khi đưa ra nhận định riêng (ví dụ coi robot là "cơ thể của AI").
-**Vị trí trong lập luận của cả cuốn sách:** Chương 4 ([C04-cong-nghe-cua-tri-tue.md](C04-cong-nghe-cua-tri-tue.md)) và Chương 5 ([C05-cong-nghe-cua-su-song.md](C05-cong-nghe-cua-su-song.md)) trình bày hai công nghệ đa mục đích (general-purpose technology) ở trung tâm làn sóng sắp tới (the coming wave) là AI và sinh học tổng hợp (synthetic biology). Chương 6 khép Phần II bằng cách cho thấy một làn sóng công nghệ luôn là một cụm công nghệ: quanh AI và sinh học là robot, máy tính lượng tử, chuyển đổi năng lượng (điện mặt trời, nhiệt hạch) và xa hơn là công nghệ nano. Đoạn kết chương nêu luận điểm nối sang phần sau: làn sóng này là câu chuyện về sự lan rộng (proliferation) của quyền lực, vì nó giảm chi phí *hành động* chứ không chỉ chi phí *phát tán thông tin*. Chương 7 ([C07-bon-dac-diem-cua-lan-song.md](C07-bon-dac-diem-cua-lan-song.md)) tiếp ngay bằng bốn đặc điểm của làn sóng. Vụ cảnh sát Dallas dùng robot gắn thuốc nổ, mà sách hẹn "sẽ quay lại ở Phần III", được bàn ở Chương 10 ([C10-cac-tac-nhan-khuech-dai-su-mong-manh.md](C10-cac-tac-nhan-khuech-dai-su-mong-manh.md)); năng lượng phân tán và tập trung được bàn ở Chương 11 ([C11-tuong-lai-cua-cac-quoc-gia.md](C11-tuong-lai-cua-cac-quoc-gia.md)); khái niệm né tránh bi quan (pessimism aversion) nhắc ở cuối chương đã được giới thiệu ở Chương 1 ([C01-khong-the-khong-che.md](C01-khong-the-khong-che.md)).
-**Ý chính:** **Suleyman cho rằng làn sóng công nghệ luôn rộng hơn một hai công nghệ đa mục đích: AI và sinh học là trung tâm, nhưng quanh chúng là một cụm công nghệ cùng bứt phá và khuếch đại lẫn nhau, và cả cụm này khác mọi làn sóng trước ở chỗ nó làm giảm chi phí hành động dựa trên thông tin, chứ không chỉ chi phí phát tán thông tin.** Robot là "cơ thể của AI": John Deere từ chiếc cày thép năm 1837 nay làm máy kéo tự lái; Amazon có robot kho Proteus và Sparrow; Google có đội 100 robot lau bàn, phân loại rác; giá cánh tay robot giảm 46% trong năm năm. Năm 2016 cảnh sát Dallas dùng robot gỡ bom giá 150.000 USD gắn thuốc nổ C-4 để giết một tay súng đã bắn chết năm cảnh sát, lần đầu robot dùng vũ lực gây chết người có chủ đích ở Mỹ. Năm 2019 máy tính lượng tử 53 qubit của Google làm trong vài giây một phép tính mà Google nói máy tính thường cần mười nghìn năm; máy lượng tử đe doạ mật mã ("Q-Day") nhưng hứa mô phỏng hoá học và tối ưu hoá. Năng lượng tái tạo sẽ thành nguồn điện lớn nhất vào năm 2027; giá tấm pin mặt trời giảm từ 4,88 USD mỗi watt (2000) xuống 0,38 USD (2019); năm 2022 phòng thí nghiệm NIF lần đầu đạt phản ứng nhiệt hạch cho ra nhiều năng lượng hơn năng lượng laser đưa vào. Xa hơn là công nghệ nano điều khiển từng nguyên tử, vẫn là khoa học viễn tưởng.
+## Ý chính
 
-> **Lưu ý:**
-> - **"Mười nghìn năm" của Google (trang PDF 113):** sách thuật lại tuyên bố của Google rằng máy tính thường cần mười nghìn năm cho phép tính mà máy lượng tử làm trong vài giây. Theo hiểu biết của người tổng hợp, ngay năm 2019 IBM phản bác rằng một siêu máy tính cổ điển có thể làm phép tính ấy trong khoảng hai ngày rưỡi, và các năm sau một số nhóm đã mô phỏng được bằng máy cổ điển nhanh hơn nhiều. Phép tính được chọn cũng là một bài toán lấy mẫu ngẫu nhiên không có ứng dụng thực tế. Sách có ghi "it said" (theo lời Google), nên không sai, nhưng người đọc dễ hiểu đó là sự thật đã được xác nhận.
-> - **"Bảy mươi hai tỷ gigabyte" (trang PDF 113):** phép tính minh hoạ của người tổng hợp: trạng thái của 53 qubit cần 2 mũ 53, khoảng 9 triệu tỷ, số phức để mô tả; mỗi số phức chính xác kép chiếm 16 byte, tổng cộng khoảng 144 triệu gigabyte (144 petabyte). Con số trong sách lớn hơn kết quả tính đơn giản này khoảng 500 lần. Có thể nguồn dùng giả định khác; người tổng hợp không khẳng định sách sai, chỉ lưu ý nên coi con số là minh hoạ bậc độ lớn. Chú thích của sách cho câu này ghi bài của *MIT Technology Review* ngày "Feb. 26, 2022" nhưng đường dẫn chứa "2020/02/26", nên ngày đúng có lẽ là 26/2/2020.
-> - **"Mỗi qubit thêm vào làm năng lực tính toán tăng gấp đôi" (trang PDF 113):** đây là cách nói đơn giản hoá. Theo hiểu biết của người tổng hợp, cái tăng gấp đôi là số chiều của không gian trạng thái, và lợi thế chỉ có với một số loại bài toán có thuật toán lượng tử phù hợp. Chính chú thích của sách cho câu "một số ít hạt có thể mạnh hơn cả vũ trụ biến thành máy tính cổ điển" có thêm chữ "ít nhất là với một số nhiệm vụ nhất định".
-> - **Giá điện mặt trời (trang PDF 115):** sách viết "năng lượng mặt trời có giá 4,88 USD mỗi watt năm 2000, giảm còn 38 xu năm 2019". Theo chú thích của sách, nguồn là biểu đồ "Solar PV Module Prices" của Our World in Data, tức giá *tấm pin quang điện* tính theo watt công suất, không phải giá điện năng. Mức giảm là khoảng 13 lần (phép tính của người tổng hợp: 4,88 chia 0,38).
-> - **Mốc năm 2027 cho năng lượng tái tạo (trang PDF 115):** chú thích của sách dẫn bài *Financial Times* ngày 10/12/2022 về báo cáo của Cơ quan Năng lượng Quốc tế (IEA). Theo hiểu biết của người tổng hợp, báo cáo IEA "Renewables 2022" dự báo năng lượng tái tạo vượt than để thành nguồn sản xuất điện lớn nhất thế giới vào đầu năm 2025, còn mốc 2027 là lúc *công suất* điện mặt trời vượt than. Sách có thể đã gộp hai mốc này.
-> - **Kết quả nhiệt hạch NIF (trang PDF 116):** "lợi năng lượng ròng" mà sách nói là so với năng lượng của chùm laser chiếu vào viên nhiên liệu. Theo hiểu biết của người tổng hợp, ngày 5/12/2022 NIF thu khoảng 3,15 MJ từ 2,05 MJ laser, nhưng hệ thống laser lấy từ lưới điện khoảng 300 MJ, nên tính cho cả nhà máy thì vẫn còn xa mới hoà vốn năng lượng. Kỷ lục ở JET mà sách nhắc là 59 MJ năm 2022 so với khoảng 22 MJ năm 1997 (theo hiểu biết của người tổng hợp), tức hơn gấp đôi.
-> - **Số người thương vong ở Dallas (trang PDF 112):** sách ghi năm cảnh sát chết, bảy người bị thương. Theo hiểu biết của người tổng hợp, các nguồn báo chí phổ biến ghi năm cảnh sát chết, chín cảnh sát khác và hai thường dân bị thương; vụ việc xảy ra đêm 7/7/2016 tại El Centro College. Sách không nêu tên tay súng.
-> - **"Q-Day":** sách không giải thích tên này; đó là ngày giả định khi máy tính lượng tử đủ mạnh để phá các hệ mật mã khoá công khai đang dùng (giải thích của người tổng hợp).
-> - **Phương trình ở trang PDF 115** dùng dấu "+", "x" và "=" theo nguyên văn của sách; bản tổng hợp chép nguyên văn ở mục Câu nói đáng nhớ và diễn đạt bằng lời ở các phần khác.
-> - **Số liệu đã cũ so với năm 2026:** đội robot của Google (Everyday Robots), máy lượng tử 53 qubit, dự báo về nhiệt hạch đều đã có diễn biến mới; xem phần Đánh giá.
+**Suleyman cho rằng làn sóng công nghệ luôn rộng hơn một hai công nghệ đa mục đích: AI và sinh học là trung tâm, nhưng quanh chúng là một cụm công nghệ cùng bứt phá và khuếch đại lẫn nhau, và cả cụm này khác mọi làn sóng trước ở chỗ nó làm giảm chi phí hành động dựa trên thông tin, chứ không chỉ chi phí phát tán thông tin.**
+
+Robot là "cơ thể của AI": John Deere từ chiếc cày thép năm 1837 nay làm máy kéo tự lái; Amazon có robot kho Proteus và Sparrow; Google có đội 100 robot lau bàn, phân loại rác; giá cánh tay robot giảm 46% trong năm năm. Năm 2016 cảnh sát Dallas dùng robot gỡ bom giá 150.000 USD gắn thuốc nổ C-4 để giết một tay súng đã bắn chết năm cảnh sát, lần đầu robot dùng vũ lực gây chết người có chủ đích ở Mỹ.
+
+Năm 2019 máy tính lượng tử 53 qubit của Google làm trong vài giây một phép tính mà Google nói máy tính thường cần mười nghìn năm; máy lượng tử đe doạ mật mã ("Q-Day") nhưng hứa mô phỏng hoá học và tối ưu hoá.
+
+Năng lượng tái tạo sẽ thành nguồn điện lớn nhất vào năm 2027; giá tấm pin mặt trời giảm từ 4,88 USD mỗi watt (2000) xuống 0,38 USD (2019); năm 2022 phòng thí nghiệm NIF lần đầu đạt phản ứng nhiệt hạch cho ra nhiều năng lượng hơn năng lượng laser đưa vào. Xa hơn là công nghệ nano điều khiển từng nguyên tử, vẫn là khoa học viễn tưởng.
 
 ## Sơ đồ
 
@@ -420,13 +413,21 @@ Sinh học và AI nằm ở trung tâm, nhưng quanh chúng là một vùng bán
 
 ### 2. Robotics Comes of Age — Robot trưởng thành (trang PDF 108–112)
 
-**John Deere và chiếc cày thép.** Năm 1837, John Deere là một thợ rèn ở Grand Detour, bang Illinois. Đây là vùng đồng cỏ với đất đen đặc và không gian rộng mở, có tiềm năng là một trong những vùng đất canh tác tốt nhất thế giới, rất hợp cho cây trồng nhưng cực kỳ khó cày. Một ngày, Deere thấy một lưỡi cưa thép gãy ở một xưởng xay. Thép khi ấy hiếm, nên ông mang nó về và rèn lưỡi cưa thành lưỡi cày. Cứng và trơn, thép là vật liệu hoàn hảo để cày qua lớp đất đặc và dính. Những người khác cũng đã thấy thép có thể thay cho lưỡi cày bằng sắt thô hơn; đột phá của Deere là đẩy mạnh sản xuất hàng loạt. Chẳng bao lâu nông dân khắp vùng Trung Tây đổ về xưởng của ông. Phát minh của ông mở vùng đồng cỏ cho làn sóng người định cư. Trung Tây trở thành vựa lúa của thế giới, cái tên John Deere nhanh chóng đồng nghĩa với nông nghiệp, và một cuộc cách mạng công nghệ và địa lý được khởi động.
+**John Deere và chiếc cày thép.** Năm 1837, John Deere là một thợ rèn ở Grand Detour, bang Illinois. Đây là vùng đồng cỏ với đất đen đặc và không gian rộng mở, có tiềm năng là một trong những vùng đất canh tác tốt nhất thế giới, rất hợp cho cây trồng nhưng cực kỳ khó cày. Một ngày, Deere thấy một lưỡi cưa thép gãy ở một xưởng xay. Thép khi ấy hiếm, nên ông mang nó về và rèn lưỡi cưa thành lưỡi cày. Cứng và trơn, thép là vật liệu hoàn hảo để cày qua lớp đất đặc và dính. Những người khác cũng đã thấy thép có thể thay cho lưỡi cày bằng sắt thô hơn; đột phá của Deere là đẩy mạnh sản xuất hàng loạt.
 
-**John Deere ngày nay.** Công ty John Deere vẫn làm công nghệ nông nghiệp. Ta có thể nghĩ tới máy kéo, máy phun tưới, máy gặt đập liên hợp, và đúng là John Deere làm tất cả những thứ đó. Nhưng ngày càng nhiều, công ty chế tạo robot. Theo cách John Deere hình dung, tương lai nông nghiệp gồm máy kéo và máy gặt đập tự hành, đi theo toạ độ GPS của cánh đồng, dùng một loạt cảm biến để tự động điều chỉnh việc thu hoạch theo thời gian thực, tối đa năng suất và tối thiểu hao hụt. Công ty đang sản xuất robot có thể gieo trồng, chăm sóc và thu hoạch với độ chính xác và độ chi tiết con người không làm được. Mọi yếu tố, từ chất đất tới thời tiết, được đưa vào một bộ máy móc sẽ sớm làm phần lớn công việc. Trong thời giá lương thực tăng và dân số tăng, giá trị của việc này là rõ ràng.
+Chẳng bao lâu nông dân khắp vùng Trung Tây đổ về xưởng của ông. Phát minh của ông mở vùng đồng cỏ cho làn sóng người định cư. Trung Tây trở thành vựa lúa của thế giới, cái tên John Deere nhanh chóng đồng nghĩa với nông nghiệp, và một cuộc cách mạng công nghệ và địa lý được khởi động.
 
-Robot nông nghiệp không chỉ đang tới mà đã ở đây: drone theo dõi gia súc, giàn tưới chính xác, robot di động nhỏ tuần tra các trang trại trong nhà rộng lớn, từ gieo hạt tới thu hoạch, từ hái tới xếp pallet, từ tưới cà chua tới theo dõi và chăn bò. Thực tế là thức ăn ta ăn hôm nay ngày càng đến từ một thế giới robot chạy bằng AI đang được triển khai và mở rộng. Phần lớn robot này không trông giống người máy trong phim khoa học viễn tưởng; chúng trông như máy nông nghiệp. Và nhiều người cũng ít khi ra trang trại. Nhưng như chiếc cày của John Deere từng biến đổi ngành nông nghiệp, các phát minh lấy robot làm trung tâm đang biến đổi cách thức ăn tới bàn ta. Theo Suleyman, đó là một cuộc cách mạng ta không quen nhận ra, nhưng nó đã diễn ra từ lâu.
+**John Deere ngày nay.** Công ty John Deere vẫn làm công nghệ nông nghiệp. Ta có thể nghĩ tới máy kéo, máy phun tưới, máy gặt đập liên hợp, và đúng là John Deere làm tất cả những thứ đó. Nhưng ngày càng nhiều, công ty chế tạo robot.
 
-**Từ công cụ một việc.** Robot chủ yếu phát triển như những công cụ một chiều: máy làm một việc duy nhất trên dây chuyền sản xuất, nhanh và chính xác, giúp nhà sản xuất tăng năng suất nhiều, nhưng còn rất xa hình ảnh người máy giúp việc rụt rè kiểu phim hoạt hình *The Jetsons* thập niên 1960. Giống AI, robot hoá ra khó hơn nhiều so với điều các kỹ sư thời đầu giả định. Thế giới thật là một môi trường lạ lùng, không bằng phẳng, bất ngờ và không có cấu trúc, cực kỳ nhạy với những thứ như áp lực: nhặt một quả trứng, một quả táo, một viên gạch, một đứa trẻ hay một bát súp đều đòi hỏi độ khéo, độ nhạy, sức mạnh và thăng bằng phi thường. Một môi trường như bếp hay xưởng thì lộn xộn, đầy vật nguy hiểm, vết dầu loang, nhiều loại dụng cụ và vật liệu khác nhau: một cơn ác mộng với robot.
+Theo cách John Deere hình dung, tương lai nông nghiệp gồm máy kéo và máy gặt đập tự hành, đi theo toạ độ GPS của cánh đồng, dùng một loạt cảm biến để tự động điều chỉnh việc thu hoạch theo thời gian thực, tối đa năng suất và tối thiểu hao hụt. Công ty đang sản xuất robot có thể gieo trồng, chăm sóc và thu hoạch với độ chính xác và độ chi tiết con người không làm được. Mọi yếu tố, từ chất đất tới thời tiết, được đưa vào một bộ máy móc sẽ sớm làm phần lớn công việc. Trong thời giá lương thực tăng và dân số tăng, giá trị của việc này là rõ ràng.
+
+Robot nông nghiệp không chỉ đang tới mà đã ở đây: drone theo dõi gia súc, giàn tưới chính xác, robot di động nhỏ tuần tra các trang trại trong nhà rộng lớn, từ gieo hạt tới thu hoạch, từ hái tới xếp pallet, từ tưới cà chua tới theo dõi và chăn bò. Thực tế là thức ăn ta ăn hôm nay ngày càng đến từ một thế giới robot chạy bằng AI đang được triển khai và mở rộng.
+
+Phần lớn robot này không trông giống người máy trong phim khoa học viễn tưởng; chúng trông như máy nông nghiệp. Và nhiều người cũng ít khi ra trang trại. Nhưng như chiếc cày của John Deere từng biến đổi ngành nông nghiệp, các phát minh lấy robot làm trung tâm đang biến đổi cách thức ăn tới bàn ta. Theo Suleyman, đó là một cuộc cách mạng ta không quen nhận ra, nhưng nó đã diễn ra từ lâu.
+
+**Từ công cụ một việc.** Robot chủ yếu phát triển như những công cụ một chiều: máy làm một việc duy nhất trên dây chuyền sản xuất, nhanh và chính xác, giúp nhà sản xuất tăng năng suất nhiều, nhưng còn rất xa hình ảnh người máy giúp việc rụt rè kiểu phim hoạt hình *The Jetsons* thập niên 1960.
+
+Giống AI, robot hoá ra khó hơn nhiều so với điều các kỹ sư thời đầu giả định. Thế giới thật là một môi trường lạ lùng, không bằng phẳng, bất ngờ và không có cấu trúc, cực kỳ nhạy với những thứ như áp lực: nhặt một quả trứng, một quả táo, một viên gạch, một đứa trẻ hay một bát súp đều đòi hỏi độ khéo, độ nhạy, sức mạnh và thăng bằng phi thường. Một môi trường như bếp hay xưởng thì lộn xộn, đầy vật nguy hiểm, vết dầu loang, nhiều loại dụng cụ và vật liệu khác nhau: một cơn ác mộng với robot.
 
 **Robot đang học.** Dù vậy, phần lớn ngoài tầm mắt công chúng, robot đã âm thầm học về mô-men xoắn, độ bền kéo, vật lý của việc thao tác, độ chính xác, áp lực và sự thích nghi. Chỉ cần xem video về một nhà máy ô tô trên YouTube: một vũ điệu sắc gọn, không dứt của các cánh tay robot và bộ thao tác đều đặn lắp ráp một chiếc xe.
 
@@ -438,21 +439,31 @@ Robot nông nghiệp không chỉ đang tới mà đã ở đây: drone theo dõ
 
 Không khó hình dung robot trong kho hàng và nhà máy, những môi trường tương đối tĩnh. Nhưng chúng sẽ sớm xuất hiện ngày càng nhiều ở nhà hàng, quán bar, viện dưỡng lão và trường học. Những ứng dụng hiện nay chỉ là bước đầu của một đợt triển khai robot rộng hơn nhiều.
 
-**Từ lập trình sang tự học.** Ngày nay, người lập trình vẫn thường điều khiển từng chi tiết hoạt động của robot, khiến chi phí tích hợp robot vào một môi trường mới cao đến mức không làm nổi. Nhưng như đã thấy ở nhiều ứng dụng học máy khác, cái bắt đầu bằng giám sát chặt của con người rồi sẽ kết thúc bằng việc AI tự học làm tốt hơn và cuối cùng tổng quát hoá sang môi trường mới. Bộ phận nghiên cứu của Google đang chế tạo robot có thể, như giấc mơ thập niên 1950, làm việc nhà và việc đơn giản, từ xếp bát đĩa tới kê lại ghế trong phòng họp. Họ đã lập một đội một trăm robot có thể phân loại rác và lau bàn (chú thích của sách dẫn trang của dự án Everyday Robots). Học tăng cường giúp tay kẹp của từng robot nhặt cốc và mở cửa, đúng những động tác mà trẻ mới biết đi làm dễ dàng nhưng đã làm khó giới chế tạo robot hàng chục năm. Thế hệ robot mới này làm được các hoạt động chung và đáp lại lệnh nói bằng ngôn ngữ tự nhiên.
+**Từ lập trình sang tự học.** Ngày nay, người lập trình vẫn thường điều khiển từng chi tiết hoạt động của robot, khiến chi phí tích hợp robot vào một môi trường mới cao đến mức không làm nổi. Nhưng như đã thấy ở nhiều ứng dụng học máy khác, cái bắt đầu bằng giám sát chặt của con người rồi sẽ kết thúc bằng việc AI tự học làm tốt hơn và cuối cùng tổng quát hoá sang môi trường mới.
 
-**Đàn robot.** Một lĩnh vực khác đang phát triển là khả năng robot hoạt động theo đàn, khuếch đại năng lực tiềm năng của từng robot thành một trí tuệ tập thể như tổ ong. Ví dụ là Kilobots tí hon của Harvard Wyss Institute, một đàn một nghìn robot làm việc tập thể và tự xếp thành các hình dạng lấy từ tự nhiên, có thể dùng cho các nhiệm vụ khó và phân tán như ngăn xói mòn đất và các biện pháp xử lý môi trường khác, nông nghiệp, tìm kiếm cứu nạn, hay cả ngành xây dựng và kiểm định. Suleyman mời hình dung một đàn robot xây dựng dựng một cây cầu trong vài phút hay một toà nhà lớn trong vài giờ, chăm sóc những trang trại khổng lồ năng suất cao suốt 24 giờ mỗi ngày, bảy ngày mỗi tuần, hay dọn một vụ tràn dầu. Khi quần thể ong mật đang bị đe doạ, Walmart đã nộp đơn xin bằng sáng chế cho ong robot phối hợp để tự thụ phấn chéo cho cây trồng (*World Economic Forum*, 19/3/2018, theo chú thích của sách). Theo Suleyman, mọi hứa hẹn (và nguy hiểm) của robot đều được khuếch đại bởi khả năng phối hợp theo nhóm không giới hạn kích thước, một vũ đạo phức tạp sẽ đặt lại luật về những gì có thể làm, ở đâu và trong bao lâu.
+Bộ phận nghiên cứu của Google đang chế tạo robot có thể, như giấc mơ thập niên 1950, làm việc nhà và việc đơn giản, từ xếp bát đĩa tới kê lại ghế trong phòng họp. Họ đã lập một đội một trăm robot có thể phân loại rác và lau bàn (chú thích của sách dẫn trang của dự án Everyday Robots). Học tăng cường giúp tay kẹp của từng robot nhặt cốc và mở cửa, đúng những động tác mà trẻ mới biết đi làm dễ dàng nhưng đã làm khó giới chế tạo robot hàng chục năm. Thế hệ robot mới này làm được các hoạt động chung và đáp lại lệnh nói bằng ngôn ngữ tự nhiên.
+
+**Đàn robot.** Một lĩnh vực khác đang phát triển là khả năng robot hoạt động theo đàn, khuếch đại năng lực tiềm năng của từng robot thành một trí tuệ tập thể như tổ ong. Ví dụ là Kilobots tí hon của Harvard Wyss Institute, một đàn một nghìn robot làm việc tập thể và tự xếp thành các hình dạng lấy từ tự nhiên, có thể dùng cho các nhiệm vụ khó và phân tán như ngăn xói mòn đất và các biện pháp xử lý môi trường khác, nông nghiệp, tìm kiếm cứu nạn, hay cả ngành xây dựng và kiểm định.
+
+Suleyman mời hình dung một đàn robot xây dựng dựng một cây cầu trong vài phút hay một toà nhà lớn trong vài giờ, chăm sóc những trang trại khổng lồ năng suất cao suốt 24 giờ mỗi ngày, bảy ngày mỗi tuần, hay dọn một vụ tràn dầu. Khi quần thể ong mật đang bị đe doạ, Walmart đã nộp đơn xin bằng sáng chế cho ong robot phối hợp để tự thụ phấn chéo cho cây trồng (*World Economic Forum*, 19/3/2018, theo chú thích của sách). Theo Suleyman, mọi hứa hẹn (và nguy hiểm) của robot đều được khuếch đại bởi khả năng phối hợp theo nhóm không giới hạn kích thước, một vũ đạo phức tạp sẽ đặt lại luật về những gì có thể làm, ở đâu và trong bao lâu.
 
 **In 3D.** Robot ngày nay vẫn thường không giống robot hình người trong trí tưởng tượng phổ biến. Xét hiện tượng in 3D hay sản xuất bồi đắp, kỹ thuật dùng robot lắp ráp đắp từng lớp để tạo ra mọi thứ, từ chi tiết máy tí hon tới các khối chung cư. Những robot phun bê tông khổng lồ có thể xây nhà ở trong vài ngày với một phần nhỏ chi phí xây dựng truyền thống.
 
-**Robot sẽ có mặt khắp nơi.** Robot có thể làm việc chính xác trong nhiều môi trường hơn nhiều và lâu hơn nhiều so với con người; sự cảnh giác và cần mẫn của chúng không có giới hạn. Nếu được nối mạng với nhau, những gì chúng làm được sẽ viết lại luật của việc hành động. Suleyman cho rằng ta đang tới thời điểm AI đẩy robot về gần lời hứa ban đầu: những cỗ máy có thể lặp lại mọi động tác vật lý của con người và hơn thế. Khi chi phí giảm (giá một cánh tay robot giảm 46% trong năm năm và vẫn đang giảm, theo báo cáo AI Index 2021 của Stanford dẫn trong chú thích của sách), khi chúng có pin mạnh, khi chúng được đơn giản hoá và dễ sửa, chúng sẽ có mặt khắp nơi. Điều đó có nghĩa là chúng sẽ xuất hiện trong những tình huống bất thường, cực đoan và nhạy cảm. Dấu hiệu của sự chuyển dịch đã thấy được, nếu biết nhìn vào đâu.
+**Robot sẽ có mặt khắp nơi.** Robot có thể làm việc chính xác trong nhiều môi trường hơn nhiều và lâu hơn nhiều so với con người; sự cảnh giác và cần mẫn của chúng không có giới hạn. Nếu được nối mạng với nhau, những gì chúng làm được sẽ viết lại luật của việc hành động.
 
-**Vụ Dallas.** Đó là cơn ác mộng tồi tệ nhất của lực lượng cảnh sát. Một tay súng bắn tỉa từng được huấn luyện quân sự đã chiếm một vị trí an toàn ở tầng hai một trường cao đẳng cộng đồng ở Dallas, bang Texas. Rồi, từ trên cao nhìn xuống một cuộc biểu tình ôn hoà, hắn bắt đầu bắn vào cảnh sát. Sau bốn mươi lăm phút, hai người đã chết, nhiều người bị thương. Về sau mới biết năm cảnh sát đã bị giết, bảy người bị thương; đây là vụ việc chết chóc nhất đối với lực lượng thực thi pháp luật Mỹ kể từ sự kiện 11/9. Tay súng chế nhạo cảnh sát, cười, hát và bắn chính xác đến lạnh người. Cuộc thương lượng căng thẳng kéo dài hơn hai giờ không đi tới đâu. Cảnh sát bị ghìm chặt, và không rõ còn bao nhiêu người sẽ chết khi cố giải quyết tình hình.
+Suleyman cho rằng ta đang tới thời điểm AI đẩy robot về gần lời hứa ban đầu: những cỗ máy có thể lặp lại mọi động tác vật lý của con người và hơn thế. Khi chi phí giảm (giá một cánh tay robot giảm 46% trong năm năm và vẫn đang giảm, theo báo cáo AI Index 2021 của Stanford dẫn trong chú thích của sách), khi chúng có pin mạnh, khi chúng được đơn giản hoá và dễ sửa, chúng sẽ có mặt khắp nơi. Điều đó có nghĩa là chúng sẽ xuất hiện trong những tình huống bất thường, cực đoan và nhạy cảm. Dấu hiệu của sự chuyển dịch đã thấy được, nếu biết nhìn vào đâu.
+
+**Vụ Dallas.** Đó là cơn ác mộng tồi tệ nhất của lực lượng cảnh sát. Một tay súng bắn tỉa từng được huấn luyện quân sự đã chiếm một vị trí an toàn ở tầng hai một trường cao đẳng cộng đồng ở Dallas, bang Texas. Rồi, từ trên cao nhìn xuống một cuộc biểu tình ôn hoà, hắn bắt đầu bắn vào cảnh sát. Sau bốn mươi lăm phút, hai người đã chết, nhiều người bị thương. Về sau mới biết năm cảnh sát đã bị giết, bảy người bị thương; đây là vụ việc chết chóc nhất đối với lực lượng thực thi pháp luật Mỹ kể từ sự kiện 11/9.
+
+Tay súng chế nhạo cảnh sát, cười, hát và bắn chính xác đến lạnh người. Cuộc thương lượng căng thẳng kéo dài hơn hai giờ không đi tới đâu. Cảnh sát bị ghìm chặt, và không rõ còn bao nhiêu người sẽ chết khi cố giải quyết tình hình.
 
 Rồi đội SWAT nảy ra một ý mới. Sở cảnh sát có một robot gỡ bom, mẫu Remotec Andros Mark 5A-1 giá 150.000 USD do Northrop Grumman sản xuất. Trong mười lăm phút, họ lập kế hoạch gắn một khối lớn thuốc nổ C-4 lên cánh tay robot và đưa nó vào toà nhà nhằm vô hiệu hoá tay súng. Cảnh sát trưởng David Brown nhanh chóng phê duyệt. Robot lăn bánh qua toà nhà và đặt thuốc nổ ở một phòng liền kề, sát bức tường mà phía bên kia là tay súng. Thuốc nổ phát nổ, phá tung bức tường và giết chết tay súng (CNN, 12/7/2016, theo chú thích của sách). Đó là lần đầu tiên một robot được dùng vũ lực gây chết người có chủ đích ở Mỹ. Ở Dallas, nó đã cứu vãn tình thế và chấm dứt một sự kiện kinh hoàng.
 
 Dù vậy, một số người thấy bất an. Tiềm năng đáng lo của robot cảnh sát có khả năng giết người thì không cần nhấn mạnh. Suleyman hẹn sẽ quay lại hệ quả của tất cả những điều này ở Phần III. Nhưng trên hết, theo ông, vụ việc cho thấy robot đang dần đi vào xã hội, sẵn sàng đóng vai trò lớn hơn nhiều trong đời sống hằng ngày so với trước. Từ một cuộc khủng hoảng chết người tới tiếng rì rì của một trung tâm hậu cần, từ một nhà máy nhộn nhịp tới một viện dưỡng lão, robot đã có mặt.
 
-**Robot là cầu nối của AI với thế giới thật.** AI là sản phẩm của bit và mã, tồn tại trong mô phỏng và máy chủ. Robot là cầu nối, là giao diện của AI với thế giới thật. Nếu AI là tự động hoá thông tin thì robot là tự động hoá vật chất, là hiện thân vật lý của AI, một bước nhảy về những gì có thể làm. Việc làm chủ bit đi trọn một vòng để quay lại trực tiếp sắp xếp lại nguyên tử, viết lại giới hạn không chỉ của những gì có thể nghĩ, nói hay tính, mà của những gì có thể xây dựng theo nghĩa vật chất hữu hình nhất. Thế nhưng, theo Suleyman, điều đáng chú ý của làn sóng sắp tới là kiểu thao tác nguyên tử thô như vậy chưa là gì so với những gì đang ở phía chân trời.
+**Robot là cầu nối của AI với thế giới thật.** AI là sản phẩm của bit và mã, tồn tại trong mô phỏng và máy chủ. Robot là cầu nối, là giao diện của AI với thế giới thật. Nếu AI là tự động hoá thông tin thì robot là tự động hoá vật chất, là hiện thân vật lý của AI, một bước nhảy về những gì có thể làm.
+
+Việc làm chủ bit đi trọn một vòng để quay lại trực tiếp sắp xếp lại nguyên tử, viết lại giới hạn không chỉ của những gì có thể nghĩ, nói hay tính, mà của những gì có thể xây dựng theo nghĩa vật chất hữu hình nhất. Thế nhưng, theo Suleyman, điều đáng chú ý của làn sóng sắp tới là kiểu thao tác nguyên tử thô như vậy chưa là gì so với những gì đang ở phía chân trời.
 
 ### 3. Quantum Supremacy — Ưu thế lượng tử (trang PDF 113–114)
 
@@ -513,13 +524,19 @@ Các nhà khoa học nay nói về việc nhiệt hạch tới "khi nào chứ k
 
 Thách thức thực tế rất lớn, nhưng đang được nghiên cứu ngày càng mạnh. Chẳng hạn, một nhóm ở Đại học Oxford đã tạo ra một bộ lắp ráp tự nhân bản, hướng tới các phiên bản đa năng mà những người tiên phong công nghệ nano hình dung: những thiết bị có thể không ngừng chế tạo và tổ hợp lại ở cấp nguyên tử.
 
-Máy nano sẽ làm việc với tốc độ vượt xa mọi thứ ở thang của chúng ta, cho ra sản lượng phi thường. Ví dụ, một động cơ nano cấp nguyên tử có thể quay bốn mươi tám tỷ vòng mỗi phút. Nhân rộng quy mô, nó có thể chạy một chiếc Tesla bằng lượng vật liệu có thể tích tương đương khoảng mười hai hạt cát (bài "Nanotechnology's Spring" của Eli Dourado trên *Works in Progress*, 12/10/2022, theo chú thích của sách). Đó là thế giới của những cấu trúc mỏng như tơ làm bằng kim cương, những bộ đồ du hành ôm sát và bảo vệ cơ thể trong mọi môi trường, nơi các "trình biên dịch" vật chất có thể tạo ra mọi thứ từ một nguồn nguyên liệu cơ bản. Tóm lại, một thế giới nơi bất cứ thứ gì cũng có thể trở thành bất cứ thứ gì nếu thao tác nguyên tử đúng cách. Giấc mơ biến vũ trụ vật chất thành một nền tảng hoàn toàn mềm dẻo, món đồ chơi của những robot nano tí hon khéo léo hay những máy nhân bản không tốn sức, vẫn thuộc về khoa học viễn tưởng, giống như siêu trí tuệ (superintelligence). Suleyman gọi đó là một "ảo mộng công nghệ" còn cách nhiều thập kỷ, nhưng sẽ dần rõ nét khi làn sóng sắp tới diễn ra.
+Máy nano sẽ làm việc với tốc độ vượt xa mọi thứ ở thang của chúng ta, cho ra sản lượng phi thường. Ví dụ, một động cơ nano cấp nguyên tử có thể quay bốn mươi tám tỷ vòng mỗi phút. Nhân rộng quy mô, nó có thể chạy một chiếc Tesla bằng lượng vật liệu có thể tích tương đương khoảng mười hai hạt cát (bài "Nanotechnology's Spring" của Eli Dourado trên *Works in Progress*, 12/10/2022, theo chú thích của sách).
+
+Đó là thế giới của những cấu trúc mỏng như tơ làm bằng kim cương, những bộ đồ du hành ôm sát và bảo vệ cơ thể trong mọi môi trường, nơi các "trình biên dịch" vật chất có thể tạo ra mọi thứ từ một nguồn nguyên liệu cơ bản. Tóm lại, một thế giới nơi bất cứ thứ gì cũng có thể trở thành bất cứ thứ gì nếu thao tác nguyên tử đúng cách.
+
+Giấc mơ biến vũ trụ vật chất thành một nền tảng hoàn toàn mềm dẻo, món đồ chơi của những robot nano tí hon khéo léo hay những máy nhân bản không tốn sức, vẫn thuộc về khoa học viễn tưởng, giống như siêu trí tuệ (superintelligence). Suleyman gọi đó là một "ảo mộng công nghệ" còn cách nhiều thập kỷ, nhưng sẽ dần rõ nét khi làn sóng sắp tới diễn ra.
 
 **Cốt lõi: sự lan rộng của quyền lực.** Theo Suleyman, ở cốt lõi, làn sóng sắp tới là câu chuyện về sự lan rộng của quyền lực. Nếu làn sóng trước giảm chi phí *phát tán* thông tin thì làn sóng này giảm chi phí *hành động* dựa trên thông tin, sinh ra những công nghệ đi từ giải trình tự tới tổng hợp, từ đọc tới viết, từ sửa tới tạo mới, từ bắt chước hội thoại tới dẫn dắt hội thoại. Ở điểm này, nó khác về chất với mọi làn sóng trước, bất chấp mọi tuyên bố lớn về sức mạnh biến đổi của internet. Loại quyền lực này còn khó tập trung và giám sát hơn; vì vậy làn sóng này không chỉ là sự đào sâu và tăng tốc của mô thức lịch sử mà còn là một sự đứt gãy rõ rệt với nó.
 
 **Thừa nhận hoài nghi.** Suleyman thừa nhận không phải ai cũng đồng ý rằng các công nghệ này chắc chắn sẽ đến hoặc có hệ quả lớn như ông nghĩ. Hoài nghi và né tránh bi quan không phải phản ứng vô lý, vì còn nhiều bất định. Mỗi công nghệ đều chịu một chu kỳ thổi phồng khắc nghiệt, mỗi công nghệ đều không chắc chắn về cách phát triển và cách được đón nhận, mỗi công nghệ đều vây quanh bởi thách thức kỹ thuật, đạo đức và xã hội. Không công nghệ nào đã hoàn chỉnh. Chắc chắn sẽ có thất bại, và nhiều tác hại, cũng như nhiều lợi ích, vẫn chưa rõ.
 
-**Nhưng nhìn dài hạn.** Đồng thời, mỗi ngày mỗi công nghệ lại cụ thể hơn, phát triển hơn, có năng lực hơn; mỗi công nghệ đều dễ tiếp cận hơn và mạnh hơn. Theo Suleyman, ta đang tới điểm quyết định của một vụ bùng nổ công nghệ, xét theo thang thời gian địa chất hay tiến hoá của loài người, diễn ra theo từng làn sóng nối tiếp nhau: một chu kỳ đổi mới cộng dồn và tăng tốc, ngày càng nhanh và ngày càng tác động mạnh, lúc đầu mỗi đợt kéo dài hàng nghìn năm, rồi hàng trăm năm, và nay chỉ vài năm hay thậm chí vài tháng. Nhìn các công nghệ này qua thông cáo báo chí và bài bình luận, theo nhịp phù du của mạng xã hội, chúng có thể trông như thổi phồng và bọt bong bóng; nhìn dài hạn thì tiềm năng thật của chúng hiện rõ.
+**Nhưng nhìn dài hạn.** Đồng thời, mỗi ngày mỗi công nghệ lại cụ thể hơn, phát triển hơn, có năng lực hơn; mỗi công nghệ đều dễ tiếp cận hơn và mạnh hơn. Theo Suleyman, ta đang tới điểm quyết định của một vụ bùng nổ công nghệ, xét theo thang thời gian địa chất hay tiến hoá của loài người, diễn ra theo từng làn sóng nối tiếp nhau: một chu kỳ đổi mới cộng dồn và tăng tốc, ngày càng nhanh và ngày càng tác động mạnh, lúc đầu mỗi đợt kéo dài hàng nghìn năm, rồi hàng trăm năm, và nay chỉ vài năm hay thậm chí vài tháng.
+
+Nhìn các công nghệ này qua thông cáo báo chí và bài bình luận, theo nhịp phù du của mạng xã hội, chúng có thể trông như thổi phồng và bọt bong bóng; nhìn dài hạn thì tiềm năng thật của chúng hiện rõ.
 
 **Chuyển sang Chương 7.** Tất nhiên loài người đã trải qua những thay đổi công nghệ lớn lao trong quá trình này. Nhưng để hiểu những thách thức riêng của làn sóng sắp tới, tức vì sao nó đặc biệt khó khống chế, và vì sao lời hứa to lớn của nó phải được cân bằng bằng sự thận trọng tỉnh táo, trước hết cần phân tích các đặc điểm then chốt của nó: một số chưa có tiền lệ lịch sử, và tất cả đều đã bắt đầu được cảm nhận.
 
@@ -671,7 +688,7 @@ Máy nano sẽ làm việc với tốc độ vượt xa mọi thứ ở thang c�
 
 - **Mọi công nghệ trong cụm đều đi cùng một quỹ đạo:** chi phí giảm, năng lực tăng, rồi lan rộng. Chương đặt robot, lượng tử, nhiệt hạch và nano cạnh nhau như thể chỉ khác nhau về thời điểm, trong khi chúng ở những mức độ chín rất khác nhau: robot kho và điện mặt trời đã thương mại, máy lượng tử và nhiệt hạch chưa có ứng dụng kinh tế, công nghệ nano còn là viễn tưởng (Suleyman có thừa nhận điều này cho công nghệ nano).
 - **Năng lượng phân tán đồng nghĩa với quyền lực phân tán.** Chương gợi ý điều này và hẹn bàn ở Phần III; nhưng chính ví dụ nhiệt hạch là loại năng lượng rất tập trung, cần vốn và nhà nước lớn.
-- **"Mỗi qubit tăng gấp đôi năng lực" đúng cho mọi bài toán.** Như phần Lưu ý đã nêu, lợi thế lượng tử chỉ có với một số loại bài toán; ví dụ giao thông Seattle của Microsoft và Ford dùng "cách tiếp cận lượng tử sơ khai", theo hiểu biết của người tổng hợp là thuật toán lấy cảm hứng lượng tử chạy trên máy cổ điển.
+- **"Mỗi qubit tăng gấp đôi năng lực" đúng cho mọi bài toán.** Như mục Lưu ý cuối chương đã nêu, lợi thế lượng tử chỉ có với một số loại bài toán; ví dụ giao thông Seattle của Microsoft và Ford dùng "cách tiếp cận lượng tử sơ khai", theo hiểu biết của người tổng hợp là thuật toán lấy cảm hứng lượng tử chạy trên máy cổ điển.
 
 ### Điểm mạnh và điểm yếu của lập luận
 
@@ -691,3 +708,168 @@ Máy nano sẽ làm việc với tốc độ vượt xa mọi thứ ở thang c�
 - **Công việc:** chương gợi một cách nhìn thực tế: tự động hoá thường đến trước ở môi trường "tương đối tĩnh" (kho, nhà máy, nông trại lớn) rồi mới tới môi trường lộn xộn (bếp, viện dưỡng lão). Người làm ở các khâu thao tác lặp lại trong môi trường tĩnh nên chuẩn bị kỹ năng giám sát, bảo trì, điều phối robot. Với người làm công nghệ thông tin, việc chuẩn bị cho mật mã hậu lượng tử (kiểm kê hệ thống đang dùng mã hoá khoá công khai) là việc cụ thể làm được ngay.
 - **Đầu tư:** chương cho thấy cùng một "làn sóng" chứa những công nghệ ở mức chín rất khác nhau. Một cách đọc hữu ích là chia theo ba nhóm: đã có doanh thu và đường cong chi phí rõ (điện mặt trời, robot kho); có mốc kỹ thuật nhưng chưa có kinh tế (lượng tử, nhiệt hạch); còn viễn tưởng (nano). Câu cuối chương về "chu kỳ thổi phồng" cũng là lời nhắc rằng một công nghệ đúng về dài hạn vẫn có thể làm nhà đầu tư thua lỗ nếu mua ở đỉnh của chu kỳ.
 - **Đời sống:** điện mặt trời phân tán ("từ từng thiết bị tới cả cộng đồng") đã là lựa chọn thực tế cho hộ gia đình ở nhiều nơi nhờ giá tấm pin giảm mạnh. Với tin tức về đột phá lượng tử hay nhiệt hạch, lời khuyên của chính Suleyman là nhìn dài hạn thay vì nhìn theo nhịp thông cáo báo chí, và cũng nên hỏi: đột phá này so với cái gì (ví dụ "lợi năng lượng" so với năng lượng laser hay so với điện lấy từ lưới).
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 6 trên một trang: sáu nhánh lớn đi theo các mục 1–5 của phần Nội dung chi tiết (làn sóng là cụm công nghệ khuếch đại lẫn nhau; robot từ John Deere tới đàn robot; vụ Dallas và robot là cầu nối của AI với thế giới vật chất; máy tính lượng tử; chuyển đổi năng lượng; công nghệ nano và sự lan rộng của quyền lực), mỗi nhánh ghi luận điểm, ví dụ và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 6: làn sóng là một cụm công nghệ quanh AI và sinh học, giảm chi phí hành động chứ không chỉ chi phí phát tán thông tin`"]
+  n1["`Mục 1 — Làn sóng là một cụm công nghệ khuếch đại lẫn nhau`"]
+  n0 --- n1
+  n2["`Làn sóng là cụm công nghệ đến cùng lúc, neo bởi một hoặc vài công nghệ đa mục đích nhưng vươn xa hơn`"]
+  n1 --- n2
+  n3["`Công nghệ đa mục đích là chất xúc tác: phát minh châm ngòi cho phát minh`"]
+  n1 --- n3
+  n4["`Công ty mọc quanh chúng, thu hút đầu tư, chỉnh công nghệ cho hàng nghìn mục đích`"]
+  n1 --- n4
+  n5["`Vòng khuếch đại: máy hơi nước kéo theo hàng hoá làm trong nhà máy hơi nước và hành khách đi tàu hơi nước`"]
+  n1 --- n5
+  n6["`Máy tính cá nhân kéo theo doanh nghiệp phần mềm và mọi thứ dựa vào điện toán`"]
+  n1 --- n6
+  n7["`Quanh AI và sinh học là robot, máy tính lượng tử, năng lượng, xa hơn là công nghệ nano`"]
+  n1 --- n7
+  n8["`Trong 20 năm tới nhiều công nghệ cùng bứt phá một lúc, thụ phấn chéo cho nhau`"]
+  n1 --- n8
+  n9["`Mục 2 — Robot là cơ thể của AI, từ nông trại tới đàn robot`"]
+  n0 --- n9
+  n10["`Năm 1837 thợ rèn John Deere rèn lưỡi cưa thép gãy thành lưỡi cày cho đất đồng cỏ đặc và dính`"]
+  n9 --- n10
+  n11["`Đột phá của Deere là sản xuất hàng loạt, biến Trung Tây thành vựa lúa của thế giới`"]
+  n9 --- n11
+  n12["`John Deere nay làm máy kéo, máy gặt đập tự lái theo toạ độ GPS, cảm biến chỉnh thu hoạch theo thời gian thực`"]
+  n9 --- n12
+  n13["`Robot nông nghiệp trông như máy nông nghiệp: cuộc cách mạng ta không quen nhận ra nhưng đã diễn ra`"]
+  n9 --- n13
+  n14["`Thế giới thật lộn xộn, nhạy với áp lực: bếp hay xưởng là cơn ác mộng của robot`"]
+  n9 --- n14
+  n15["`Amazon Proteus là robot di động tự hành hoàn toàn đầu tiên, Sparrow phát hiện, chọn và cầm từng món hàng`"]
+  n9 --- n15
+  n16["`Robot đã làm phẫu thuật phức tạp, cùng con người và cả tự hành trên lợn`"]
+  n9 --- n16
+  n17["`Google lập đội 100 robot phân loại rác, lau bàn, học tăng cường để nhặt cốc, mở cửa, nhận lệnh bằng ngôn ngữ tự nhiên`"]
+  n9 --- n17
+  n18["`Kilobots của Harvard Wyss Institute: đàn 1.000 robot tự xếp hình, Walmart xin bằng sáng chế ong robot thụ phấn`"]
+  n9 --- n18
+  n19["`In 3D: robot phun bê tông xây nhà trong vài ngày với một phần nhỏ chi phí truyền thống`"]
+  n9 --- n19
+  n20["`Giá cánh tay robot giảm 46% trong 5 năm, robot sẽ có mặt khắp nơi, cả ở tình huống cực đoan, nhạy cảm`"]
+  n9 --- n20
+  n21["`Mục 2 (tiếp) — Vụ Dallas và robot là cầu nối của AI với thế giới vật chất`"]
+  n0 --- n21
+  n22["`Năm 2016 tay súng ở Dallas giết 5 cảnh sát, 7 người bị thương, thương lượng hơn 2 giờ không kết quả`"]
+  n21 --- n22
+  n23["`Đội SWAT gắn thuốc nổ C-4 lên robot gỡ bom Remotec Andros giá 150.000 USD sau 15 phút lên kế hoạch`"]
+  n21 --- n23
+  n24["`Lần đầu robot dùng vũ lực gây chết người có chủ đích ở Mỹ, hệ quả được bàn ở Phần III`"]
+  n21 --- n24
+  n25["`Thiết bị gỡ bom thành vũ khí: ví dụ sớm về tính đa dụng toàn diện của Chương 7 (liên hệ của người tổng hợp)`"]
+  n21 --- n25
+  n26["`AI tự động hoá thông tin, robot tự động hoá vật chất`"]
+  n21 --- n26
+  n27["`Làm chủ bit quay lại sắp xếp nguyên tử, nhưng thao tác nguyên tử thô chưa là gì so với những gì sắp tới`"]
+  n21 --- n27
+  n28["`Mục 3 — Máy tính lượng tử còn rất sớm nhưng có thể phá mật mã`"]
+  n0 --- n28
+  n29["`Năm 2019 máy 53 qubit của Google làm trong vài giây phép tính Google nói máy thường cần 10.000 năm`"]
+  n28 --- n29
+  n30["`Người tổng hợp lưu ý: IBM phản bác rằng siêu máy tính cổ điển làm được trong khoảng hai ngày rưỡi`"]
+  n28 --- n30
+  n31["`Máy cổ điển cần 72 tỷ gigabyte để lưu lượng thông tin tương đương (theo sách), từ lý thuyết tới nguyên mẫu mất bốn thập kỷ`"]
+  n28 --- n31
+  n32["`Mỗi qubit thêm vào làm năng lực tăng gấp đôi, nhưng lợi thế chỉ có với một số loại bài toán`"]
+  n28 --- n32
+  n33["`Q-Day: mật mã từ email tới tiền mã hoá có thể bị phá, ngân hàng và chính phủ đã chi hàng tỷ USD để phòng`"]
+  n28 --- n33
+  n34["`Microsoft và Ford mô hình hoá giao thông Seattle, mọi bài toán tối ưu có thể được tăng tốc`"]
+  n28 --- n34
+  n35["`Hứa hẹn gần nhất: mô hình hoá phản ứng hoá học, phân tử trở nên lập trình được, thuốc và pin làm đúng ngay lần đầu`"]
+  n28 --- n35
+  n36["`Chưa tới lúc giảm giá và lan rộng, nhưng vốn và kiến thức đang tăng như AI và sinh học`"]
+  n28 --- n36
+  n37["`Mục 4 — Chuyển đổi năng lượng gỡ giới hạn cho cả làn sóng`"]
+  n0 --- n37
+  n38["`Phương trình thô nhất: (Sự sống + Trí tuệ) x Năng lượng = Nền văn minh hiện đại`"]
+  n37 --- n38
+  n39["`Năng lượng đắt và bẩn đang giới hạn tiến bộ công nghệ, trung tâm dữ liệu và robot cần lượng điện khổng lồ`"]
+  n37 --- n39
+  n40["`Năng lượng tái tạo thành nguồn điện lớn nhất vào năm 2027, công suất thêm trong 5 năm tới nhiều hơn 20 năm trước`"]
+  n37 --- n40
+  n41["`Giá tấm pin mặt trời giảm từ 4,88 USD mỗi watt năm 2000 xuống 0,38 USD năm 2019, khoảng 13 lần`"]
+  n37 --- n41
+  n42["`Năng lượng phân tán hơn, sản xuất tại chỗ từ từng thiết bị tới cả cộng đồng`"]
+  n37 --- n42
+  n43["`Nhiệt hạch: đồng vị hydro hợp thành heli, chén thánh của năng lượng, thập niên 1950 đoán chỉ mất 10 năm`"]
+  n37 --- n43
+  n44["`Năm 2022 NIF thu 3,15 MJ từ 2,05 MJ laser, nhưng hệ thống laser lấy khoảng 300 MJ từ lưới điện`"]
+  n37 --- n44
+  n45["`JET gấp đôi kỷ lục năm 1997, ít nhất 30 startup nhiệt hạch: khi nào chứ không phải có hay không`"]
+  n37 --- n45
+  n46["`Mục 5 — Làn sóng sau làn sóng và sự lan rộng của quyền lực`"]
+  n0 --- n46
+  n47["`Công nghệ nano điều khiển từng nguyên tử: đỉnh cao của quan hệ giữa bit và nguyên tử`"]
+  n46 --- n47
+  n48["`Đại học Oxford tạo bộ lắp ráp tự nhân bản, hướng tới thiết bị lắp ráp gần như mọi thứ`"]
+  n46 --- n48
+  n49["`Động cơ nano quay 48 tỷ vòng mỗi phút, vật liệu cỡ 12 hạt cát có thể chạy một chiếc Tesla`"]
+  n46 --- n49
+  n50["`Nano vẫn là khoa học viễn tưởng như siêu trí tuệ, còn cách nhiều thập kỷ`"]
+  n46 --- n50
+  n51["`Internet giảm chi phí phát tán thông tin, làn sóng này giảm chi phí hành động dựa trên thông tin`"]
+  n46 --- n51
+  n52["`Từ giải trình tự sang tổng hợp, từ đọc sang viết, từ bắt chước sang dẫn dắt hội thoại`"]
+  n46 --- n52
+  n53["`Quyền lực này khó tập trung và giám sát hơn: vừa tiếp nối vừa đứt gãy với mô thức lịch sử`"]
+  n46 --- n53
+  n54["`Hoài nghi và né tránh bi quan không vô lý: mỗi công nghệ chịu chu kỳ thổi phồng, chắc chắn có thất bại`"]
+  n46 --- n54
+  n55["`Mỗi đợt bùng nổ công nghệ từng kéo dài hàng nghìn năm, rồi hàng trăm năm, nay vài năm hay vài tháng`"]
+  n46 --- n55
+  n56["`Thông điệp xuyên suốt`"]
+  n0 --- n56
+  n57["`Không thể đánh giá hay khống chế từng công nghệ riêng lẻ, tốc độ cả cụm lớn hơn từng phần`"]
+  n56 --- n57
+  n58["`Nhìn dài hạn thay vì theo nhịp thông cáo báo chí và mạng xã hội thì tiềm năng thật hiện rõ`"]
+  n56 --- n58
+  n59["`Các công nghệ chín rất khác nhau: điện mặt trời, robot kho đã thương mại, lượng tử, nhiệt hạch chưa, nano còn viễn tưởng`"]
+  n56 --- n59
+  n60["`Chương 7 phân tích các đặc điểm khiến làn sóng đặc biệt khó khống chế`"]
+  n56 --- n60
+  class n0 root
+  class n1,n9,n21,n28,n37,n46,n56 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n22,n23,n24,n25,n26,n27,n29,n30,n31,n32,n33,n34,n35,n36,n38,n39,n40,n41,n42,n43,n44,n45,n47,n48,n49,n50,n51,n52,n53,n54,n55,n57,n58,n59,n60 leaf
+```
+
+## Nguồn
+
+Mustafa Suleyman với Michael Bhaskar, *The Coming Wave: Technology, Power, and the Twenty-First Century's Greatest Dilemma* (Crown, Penguin Random House, 2023), bản ebook tiếng Anh, Phần II "The Next Wave", Chương 6 "The Wider Wave", trang PDF 107–118; chú thích cuối sách của chương ở trang PDF 340–342.
+
+## Tác giả
+
+Mustafa Suleyman là đồng sáng lập DeepMind và Inflection AI, viết sách cùng Michael Bhaskar, nhà văn và người làm xuất bản; trong chương này Suleyman nói bằng ngôi "tôi" khi đưa ra nhận định riêng (ví dụ coi robot là "cơ thể của AI").
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 4 ([C04-cong-nghe-cua-tri-tue.md](C04-cong-nghe-cua-tri-tue.md)) và Chương 5 ([C05-cong-nghe-cua-su-song.md](C05-cong-nghe-cua-su-song.md)) trình bày hai công nghệ đa mục đích (general-purpose technology) ở trung tâm làn sóng sắp tới (the coming wave) là AI và sinh học tổng hợp (synthetic biology).
+
+Chương 6 khép Phần II bằng cách cho thấy một làn sóng công nghệ luôn là một cụm công nghệ: quanh AI và sinh học là robot, máy tính lượng tử, chuyển đổi năng lượng (điện mặt trời, nhiệt hạch) và xa hơn là công nghệ nano. Đoạn kết chương nêu luận điểm nối sang phần sau: làn sóng này là câu chuyện về sự lan rộng (proliferation) của quyền lực, vì nó giảm chi phí *hành động* chứ không chỉ chi phí *phát tán thông tin*.
+
+Chương 7 ([C07-bon-dac-diem-cua-lan-song.md](C07-bon-dac-diem-cua-lan-song.md)) tiếp ngay bằng bốn đặc điểm của làn sóng. Vụ cảnh sát Dallas dùng robot gắn thuốc nổ, mà sách hẹn "sẽ quay lại ở Phần III", được bàn ở Chương 10 ([C10-cac-tac-nhan-khuech-dai-su-mong-manh.md](C10-cac-tac-nhan-khuech-dai-su-mong-manh.md)); năng lượng phân tán và tập trung được bàn ở Chương 11 ([C11-tuong-lai-cua-cac-quoc-gia.md](C11-tuong-lai-cua-cac-quoc-gia.md)); khái niệm né tránh bi quan (pessimism aversion) nhắc ở cuối chương đã được giới thiệu ở Chương 1 ([C01-khong-the-khong-che.md](C01-khong-the-khong-che.md)).
+
+## Lưu ý
+
+- **"Mười nghìn năm" của Google (trang PDF 113):** sách thuật lại tuyên bố của Google rằng máy tính thường cần mười nghìn năm cho phép tính mà máy lượng tử làm trong vài giây. Theo hiểu biết của người tổng hợp, ngay năm 2019 IBM phản bác rằng một siêu máy tính cổ điển có thể làm phép tính ấy trong khoảng hai ngày rưỡi, và các năm sau một số nhóm đã mô phỏng được bằng máy cổ điển nhanh hơn nhiều. Phép tính được chọn cũng là một bài toán lấy mẫu ngẫu nhiên không có ứng dụng thực tế. Sách có ghi "it said" (theo lời Google), nên không sai, nhưng người đọc dễ hiểu đó là sự thật đã được xác nhận.
+- **"Bảy mươi hai tỷ gigabyte" (trang PDF 113):** phép tính minh hoạ của người tổng hợp: trạng thái của 53 qubit cần 2 mũ 53, khoảng 9 triệu tỷ, số phức để mô tả; mỗi số phức chính xác kép chiếm 16 byte, tổng cộng khoảng 144 triệu gigabyte (144 petabyte). Con số trong sách lớn hơn kết quả tính đơn giản này khoảng 500 lần. Có thể nguồn dùng giả định khác; người tổng hợp không khẳng định sách sai, chỉ lưu ý nên coi con số là minh hoạ bậc độ lớn. Chú thích của sách cho câu này ghi bài của *MIT Technology Review* ngày "Feb. 26, 2022" nhưng đường dẫn chứa "2020/02/26", nên ngày đúng có lẽ là 26/2/2020.
+- **"Mỗi qubit thêm vào làm năng lực tính toán tăng gấp đôi" (trang PDF 113):** đây là cách nói đơn giản hoá. Theo hiểu biết của người tổng hợp, cái tăng gấp đôi là số chiều của không gian trạng thái, và lợi thế chỉ có với một số loại bài toán có thuật toán lượng tử phù hợp. Chính chú thích của sách cho câu "một số ít hạt có thể mạnh hơn cả vũ trụ biến thành máy tính cổ điển" có thêm chữ "ít nhất là với một số nhiệm vụ nhất định".
+- **Giá điện mặt trời (trang PDF 115):** sách viết "năng lượng mặt trời có giá 4,88 USD mỗi watt năm 2000, giảm còn 38 xu năm 2019". Theo chú thích của sách, nguồn là biểu đồ "Solar PV Module Prices" của Our World in Data, tức giá *tấm pin quang điện* tính theo watt công suất, không phải giá điện năng. Mức giảm là khoảng 13 lần (phép tính của người tổng hợp: 4,88 chia 0,38).
+- **Mốc năm 2027 cho năng lượng tái tạo (trang PDF 115):** chú thích của sách dẫn bài *Financial Times* ngày 10/12/2022 về báo cáo của Cơ quan Năng lượng Quốc tế (IEA). Theo hiểu biết của người tổng hợp, báo cáo IEA "Renewables 2022" dự báo năng lượng tái tạo vượt than để thành nguồn sản xuất điện lớn nhất thế giới vào đầu năm 2025, còn mốc 2027 là lúc *công suất* điện mặt trời vượt than. Sách có thể đã gộp hai mốc này.
+- **Kết quả nhiệt hạch NIF (trang PDF 116):** "lợi năng lượng ròng" mà sách nói là so với năng lượng của chùm laser chiếu vào viên nhiên liệu. Theo hiểu biết của người tổng hợp, ngày 5/12/2022 NIF thu khoảng 3,15 MJ từ 2,05 MJ laser, nhưng hệ thống laser lấy từ lưới điện khoảng 300 MJ, nên tính cho cả nhà máy thì vẫn còn xa mới hoà vốn năng lượng. Kỷ lục ở JET mà sách nhắc là 59 MJ năm 2022 so với khoảng 22 MJ năm 1997 (theo hiểu biết của người tổng hợp), tức hơn gấp đôi.
+- **Số người thương vong ở Dallas (trang PDF 112):** sách ghi năm cảnh sát chết, bảy người bị thương. Theo hiểu biết của người tổng hợp, các nguồn báo chí phổ biến ghi năm cảnh sát chết, chín cảnh sát khác và hai thường dân bị thương; vụ việc xảy ra đêm 7/7/2016 tại El Centro College. Sách không nêu tên tay súng.
+- **"Q-Day":** sách không giải thích tên này; đó là ngày giả định khi máy tính lượng tử đủ mạnh để phá các hệ mật mã khoá công khai đang dùng (giải thích của người tổng hợp).
+- **Phương trình ở trang PDF 115** dùng dấu "+", "x" và "=" theo nguyên văn của sách; bản tổng hợp chép nguyên văn ở mục Câu nói đáng nhớ và diễn đạt bằng lời ở các phần khác.
+- **Số liệu đã cũ so với năm 2026:** đội robot của Google (Everyday Robots), máy lượng tử 53 qubit, dự báo về nhiệt hạch đều đã có diễn biến mới; xem phần Đánh giá.

@@ -1,21 +1,18 @@
 # Chương 5 — Công nghệ của sự sống (The Technology of Life)
 
-**Nguồn:** Mustafa Suleyman với Michael Bhaskar, *The Coming Wave: Technology, Power, and the Twenty-First Century's Greatest Dilemma* (Crown, Penguin Random House, 2023), bản ebook tiếng Anh, Phần II "The Next Wave", Chương 5 "The Technology of Life", trang PDF 93–106; chú thích cuối sách của chương ở trang PDF 331–339.
-**Tác giả:** Mustafa Suleyman là đồng sáng lập DeepMind và Inflection AI, viết sách cùng Michael Bhaskar, nhà văn và người làm xuất bản; chương này có đoạn Suleyman kể trực tiếp về dự án AlphaFold bắt đầu trong nhóm của ông ở DeepMind.
-**Vị trí trong lập luận của cả cuốn sách:** Phần II mô tả làn sóng sắp tới (the coming wave) gồm những công nghệ nào. Chương 4 ([C04-cong-nghe-cua-tri-tue.md](C04-cong-nghe-cua-tri-tue.md)) trình bày công nghệ đa mục đích (general-purpose technology) thứ nhất là trí tuệ nhân tạo; Chương 5 trình bày công nghệ đa mục đích thứ hai là sinh học tổng hợp (synthetic biology), rồi cho thấy hai công nghệ này nhập vào nhau. Chương 6 ([C06-lan-song-rong-hon.md](C06-lan-song-rong-hon.md)) mở rộng sang các công nghệ vây quanh hai trung tâm ấy (robot, máy tính lượng tử, năng lượng, công nghệ nano). Chương 7 ([C07-bon-dac-diem-cua-lan-song.md](C07-bon-dac-diem-cua-lan-song.md)) rút ra bốn đặc điểm của làn sóng, trong đó nhiều ví dụ của Chương 5 (máy tổng hợp DNA để bàn giá 25.000 USD, bộ kit biến đổi gen 1.999 USD) là bằng chứng cho tính bất đối xứng và sự lan rộng (proliferation). Những rủi ro sinh học mà chương này chỉ chạm nhẹ (trẻ sơ sinh chỉnh sửa gen, thí nghiệm không ai giám sát) được bàn kỹ ở Chương 10 ([C10-cac-tac-nhan-khuech-dai-su-mong-manh.md](C10-cac-tac-nhan-khuech-dai-su-mong-manh.md)) và Chương 12 ([C12-the-luong-nan.md](C12-the-luong-nan.md)); quy luật chi phí giảm dẫn tới lan rộng đã được nêu ở Chương 2 ([C02-lan-rong-bat-tan.md](C02-lan-rong-bat-tan.md)).
-**Ý chính:** **Suleyman cho rằng việc nhận ra DNA là thông tin đã biến sinh học thành một ngành kỹ thuật: con người nay đọc, sửa và viết được mã của sự sống, với chi phí giảm theo cấp số mũ giống như AI, và hai làn sóng AI và sinh học tổng hợp đang hòa vào nhau thành một.** Chi phí giải trình tự bộ gen người giảm từ 1 tỷ USD (2003) xuống dưới 1.000 USD (2022), tức giảm một triệu lần trong chưa tới hai mươi năm (đường cong Carlson). Công cụ CRISPR (đột phá năm 2012 của Jennifer Doudna và Emmanuelle Charpentier) cho phép chỉnh sửa gen gần như sửa văn bản, rẻ và dễ tới mức một bộ kit biến đổi gen bán giá 1.999 USD và một máy tổng hợp DNA để bàn chỉ 25.000 USD. Tổng hợp gen cho phép in hàng triệu đoạn DNA một lúc, giá giảm mười lần; năm 2019 hai anh em ở ETH Zurich tạo bộ gen vi khuẩn thiết kế hoàn toàn trên máy tính với chưa tới 100.000 USD. Ứng dụng trải từ y học (chữa thiếu máu hồng cầu hình liềm, trả lại thị lực một phần cho người mù, chống lão hoá với Altos Labs gọi vốn 3 tỷ USD) tới sản xuất, vật liệu và lưu trữ dữ liệu; McKinsey ước tới 60% đầu vào vật chất của nền kinh tế có thể chịu tác động của "đổi mới sinh học". AlphaFold của DeepMind thắng CASP13 năm 2018 (đoán đúng 25 trên 43 cấu trúc khó nhất, đội thứ hai chỉ 3) và năm 2022 đưa lên khoảng 200 triệu cấu trúc protein, gần như mọi protein đã biết, so với khoảng 190.000 cấu trúc mà các thí nghiệm trước đó đã tích luỹ.
+## Ý chính
 
-> **Lưu ý:**
-> - **"biannual competition" cho CASP (trang PDF 103):** "biannual" nghĩa đen là hai lần mỗi năm. Theo hiểu biết của người tổng hợp, CASP tổ chức hai năm một lần (biennial): CASP13 năm 2018, CASP14 năm 2020, đúng như chính cuốn sách kể "hai năm sau đội của chúng tôi quay lại".
-> - **Lễ công bố ở Nhà Trắng (trang PDF 95):** sách viết rằng năm 2003 một buổi lễ ở Nhà Trắng công bố 92% bộ gen người đã được giải trình tự. Theo hiểu biết của người tổng hợp, buổi lễ ở Nhà Trắng (với Tổng thống Clinton) diễn ra tháng 6/2000 để công bố *bản nháp*; việc hoàn tất Dự án Bộ gen Người được công bố tháng 4/2003. Con số 92% là phần bộ gen mà bản 2003 thực sự phủ; 8% còn lại (vùng lặp, tâm động) chỉ được giải trình tự xong năm 2022 bởi nhóm Telomere-to-Telomere. Sách gộp hai mốc này vào một câu.
-> - **"Nhanh hơn định luật Moore một nghìn lần" (trang PDF 95):** đây là cách nói gần đúng chứ không phải phép đo chính xác. Phép tính minh hoạ của người tổng hợp: nếu giá giảm một nửa mỗi hai năm theo nhịp định luật Moore, trong 19 năm (2003–2022) giá giảm khoảng 2 mũ 9,5, tức khoảng 720 lần; giá giải trình tự giảm khoảng 1.000.000 lần, tức mạnh hơn khoảng 1.400 lần. Vậy "một nghìn lần" khớp về bậc độ lớn.
-> - **Năm phát hành AlphaFold (trang PDF 104):** sách viết "năm 2022, AlphaFold2 được mở cho công chúng sử dụng". Theo hiểu biết của người tổng hợp, mã nguồn AlphaFold2 và cơ sở dữ liệu cấu trúc AlphaFold (hợp tác với EMBL-EBI) ra mắt tháng 7/2021 với khoảng 350.000 cấu trúc; tháng 7/2022 là đợt mở rộng lên khoảng 200 triệu cấu trúc mà sách kể ngay sau đó. Tương tự, bài báo *Scientific American* "One of the Biggest Problems in Biology Has Finally Been Solved" mà sách gắn với lần quay lại CASP năm 2020 thực ra đăng ngày 31/10/2022 (theo chú thích của sách).
-> - **Thí nghiệm của Neuralink trên lợn (trang PDF 105):** sách viết năm 2021 Neuralink cấy 3.000 điện cực vào não một con lợn. Theo hiểu biết của người tổng hợp, buổi trình diễn với lợn (con lợn tên Gertrude) diễn ra tháng 8/2020 với thiết bị khoảng 1.024 kênh; buổi trình diễn năm 2021 là một con khỉ chơi trò Pong bằng ý nghĩ. Sách không có chú thích nguồn cho câu này. Con số "khoảng 3.000 điện cực" khớp với bài báo năm 2019 của Neuralink về hệ thống cấy ở chuột (theo hiểu biết của người tổng hợp, chưa đối chiếu).
-> - **Lỗi trong chú thích cuối sách:** chú thích cho "Furthermore, new techniques" ghi tên tạp chí là *Nature Biology*; mã bài (s41587-020-0695-9) thuộc *Nature Biotechnology*. Chú thích cho "In the future, it could offer" ghi bài của Mohamed Fareh đăng trên *Nature*; mã bài (s41467-021-24577-9) thuộc *Nature Communications* (theo hiểu biết của người tổng hợp về tiền tố mã bài của Nature).
-> - **Người làm ra hai em bé Lulu và Nana (trang PDF 100):** sách chỉ gọi là "một giáo sư bất tuân" (rogue professor). Theo hiểu biết của người tổng hợp, đó là nhà khoa học Hạ Kiến Khuê (He Jiankui), bị toà án Trung Quốc kết án ba năm tù năm 2019 và ra tù năm 2022.
-> - **Một vài chi tiết sách nói gọn:** sách nói Boyer "lập" Genentech năm 1976; theo hiểu biết của người tổng hợp, Boyer đồng sáng lập công ty cùng nhà đầu tư Robert Swanson. Sách nói nhóm Venter cấy bộ gen của *Mycoplasma mycoides* vào "một tế bào mới"; theo hiểu biết của người tổng hợp, tế bào nhận là của một loài họ hàng, *Mycoplasma capricolum*, đã bị loại bỏ bộ gen gốc.
-> - **Chú thích bổ sung đáng chú ý:** chú thích cho cụm "Put it all together" giải thích sinh học tổng hợp không chỉ dựa vào tổng hợp DNA mà còn dựa vào hiểu biết ngày càng sâu về cách bật và tắt gen, kết hợp với kỹ thuật chuyển hoá (metabolic engineering), tức ngành "khuyến khích" tế bào sản xuất ra chất mong muốn. Nội dung này đã được đưa vào phần Nội dung chi tiết.
-> - **Số liệu đã cũ so với năm 2026:** nhiều mốc trong chương (Neuralink "sắp" thử nghiệm trên người, CRISPR "có thể" chữa thiếu máu hồng cầu hình liềm) đã thành hiện thực sau khi sách in; xem phần Đánh giá.
+**Suleyman cho rằng việc nhận ra DNA là thông tin đã biến sinh học thành một ngành kỹ thuật: con người nay đọc, sửa và viết được mã của sự sống, với chi phí giảm theo cấp số mũ giống như AI, và hai làn sóng AI và sinh học tổng hợp đang hòa vào nhau thành một.**
+
+Chi phí giải trình tự bộ gen người giảm từ 1 tỷ USD (2003) xuống dưới 1.000 USD (2022), tức giảm một triệu lần trong chưa tới hai mươi năm (đường cong Carlson).
+
+Công cụ CRISPR (đột phá năm 2012 của Jennifer Doudna và Emmanuelle Charpentier) cho phép chỉnh sửa gen gần như sửa văn bản, rẻ và dễ tới mức một bộ kit biến đổi gen bán giá 1.999 USD và một máy tổng hợp DNA để bàn chỉ 25.000 USD.
+
+Tổng hợp gen cho phép in hàng triệu đoạn DNA một lúc, giá giảm mười lần; năm 2019 hai anh em ở ETH Zurich tạo bộ gen vi khuẩn thiết kế hoàn toàn trên máy tính với chưa tới 100.000 USD.
+
+Ứng dụng trải từ y học (chữa thiếu máu hồng cầu hình liềm, trả lại thị lực một phần cho người mù, chống lão hoá với Altos Labs gọi vốn 3 tỷ USD) tới sản xuất, vật liệu và lưu trữ dữ liệu; McKinsey ước tới 60% đầu vào vật chất của nền kinh tế có thể chịu tác động của "đổi mới sinh học".
+
+AlphaFold của DeepMind thắng CASP13 năm 2018 (đoán đúng 25 trên 43 cấu trúc khó nhất, đội thứ hai chỉ 3) và năm 2022 đưa lên khoảng 200 triệu cấu trúc protein, gần như mọi protein đã biết, so với khoảng 190.000 cấu trúc mà các thí nghiệm trước đó đã tích luỹ.
 
 ## Sơ đồ
 
@@ -465,7 +462,9 @@ Nghiên cứu này dẫn Boyer tới việc lập Genentech năm 1976, một tro
 
 Dù có vài thành tựu đáng kể, tiến bộ ban đầu chậm vì kỹ thuật di truyền đắt, khó và hay thất bại. Khoảng hai mươi năm gần đây, điều đó thay đổi: kỹ thuật di truyền rẻ hơn nhiều và dễ hơn nhiều. Suleyman chêm vào: "Nghe quen không?" (theo hiểu biết của người tổng hợp, ý ông là AI ở Chương 4 cũng đi theo đúng quỹ đạo rẻ hơn và dễ hơn này).
 
-**Dự án Bộ gen Người.** Một chất xúc tác là Dự án Bộ gen Người (Human Genome Project): một nỗ lực kéo dài mười ba năm, tốn hàng tỷ USD, quy tụ hàng nghìn nhà khoa học từ các tổ chức công và tư khắp thế giới với một mục tiêu duy nhất là giải mã ba tỷ "chữ cái" thông tin di truyền tạo nên bộ gen người. Giải trình tự biến thông tin sinh học (DNA) thành văn bản thô mà con người đọc và dùng được: một cấu trúc hoá học phức tạp được chuyển thành một chuỗi gồm bốn bazơ A, T, C và G. Lần đầu tiên, dự án nhắm làm cho toàn bộ bản đồ di truyền của con người trở nên đọc được. Khi công bố năm 1988, có người cho rằng nó bất khả thi. Nhưng dự án đã chứng minh họ sai: năm 2003, một buổi lễ ở Nhà Trắng công bố 92% bộ gen người đã được giải trình tự, "mã của sự sống" đã được phơi bày. Đó là một thành tựu mốc; dù cần thời gian để phát huy hết tiềm năng, nhìn lại thì rõ là dự án đánh dấu khởi đầu của một cuộc cách mạng.
+**Dự án Bộ gen Người.** Một chất xúc tác là Dự án Bộ gen Người (Human Genome Project): một nỗ lực kéo dài mười ba năm, tốn hàng tỷ USD, quy tụ hàng nghìn nhà khoa học từ các tổ chức công và tư khắp thế giới với một mục tiêu duy nhất là giải mã ba tỷ "chữ cái" thông tin di truyền tạo nên bộ gen người. Giải trình tự biến thông tin sinh học (DNA) thành văn bản thô mà con người đọc và dùng được: một cấu trúc hoá học phức tạp được chuyển thành một chuỗi gồm bốn bazơ A, T, C và G. Lần đầu tiên, dự án nhắm làm cho toàn bộ bản đồ di truyền của con người trở nên đọc được.
+
+Khi công bố năm 1988, có người cho rằng nó bất khả thi. Nhưng dự án đã chứng minh họ sai: năm 2003, một buổi lễ ở Nhà Trắng công bố 92% bộ gen người đã được giải trình tự, "mã của sự sống" đã được phơi bày. Đó là một thành tựu mốc; dù cần thời gian để phát huy hết tiềm năng, nhìn lại thì rõ là dự án đánh dấu khởi đầu của một cuộc cách mạng.
 
 **Đường cong Carlson.** Định luật Moore được chú ý nhiều, nhưng ít người biết tới cái mà The Economist gọi là đường cong Carlson: sự sụp đổ ngoạn mục của chi phí giải trình tự DNA (bài "Life 2.0" của The Economist, 31/8/2006, theo chú thích của sách). Nhờ kỹ thuật liên tục cải tiến, chi phí giải trình tự bộ gen người giảm như sau (nguồn: Viện Nghiên cứu Bộ gen Người Quốc gia Mỹ NHGRI và một bài trên *Science* năm 2022 về máy giải trình tự có thể đưa giá xuống 100 USD, theo chú thích của sách):
 
@@ -477,9 +476,13 @@ Dù có vài thành tựu đáng kể, tiến bộ ban đầu chậm vì kỹ th
 
 Suleyman gọi đây là một bước phát triển kinh ngạc "nằm ngay trước mắt mà không ai để ý". Giải trình tự gen nay là ngành kinh doanh bùng nổ. Theo thời gian, có lẽ phần lớn con người, cây cối, động vật và mọi thứ ở giữa sẽ được giải trình tự bộ gen. Các dịch vụ như 23andMe đã bán hồ sơ DNA cá nhân với giá vài trăm USD.
 
-**CRISPR.** Nhưng sức mạnh của công nghệ sinh học vượt xa việc đọc mã: nay ta có thể sửa và viết mã. Chỉnh sửa gen bằng CRISPR (viết tắt của clustered regularly interspaced short palindromic repeats) có lẽ là ví dụ nổi tiếng nhất về can thiệp trực tiếp vào di truyền. Một đột phá năm 2012 do Jennifer Doudna và Emmanuelle Charpentier dẫn dắt giúp lần đầu tiên sửa được gen gần như sửa văn bản hay mã máy tính, dễ hơn nhiều so với thời đầu của kỹ thuật di truyền. CRISPR sửa trình tự DNA nhờ Cas9, một enzyme hoạt động như chiếc kéo cắt DNA được tinh chỉnh, cắt những phần của sợi DNA để chỉnh sửa chính xác bất kỳ sinh vật nào, từ con vi khuẩn nhỏ xíu tới động vật có vú lớn như con người, với mức sửa từ rất nhỏ tới can thiệp lớn vào bộ gen. Tác động có thể rất lớn: sửa tế bào mầm, tức các tế bào tạo trứng và tinh trùng, nghĩa là thay đổi sẽ truyền qua nhiều thế hệ.
+**CRISPR.** Nhưng sức mạnh của công nghệ sinh học vượt xa việc đọc mã: nay ta có thể sửa và viết mã. Chỉnh sửa gen bằng CRISPR (viết tắt của clustered regularly interspaced short palindromic repeats) có lẽ là ví dụ nổi tiếng nhất về can thiệp trực tiếp vào di truyền. Một đột phá năm 2012 do Jennifer Doudna và Emmanuelle Charpentier dẫn dắt giúp lần đầu tiên sửa được gen gần như sửa văn bản hay mã máy tính, dễ hơn nhiều so với thời đầu của kỹ thuật di truyền.
 
-Sau bài báo CRISPR đầu tiên, ứng dụng tiến rất nhanh: cây trồng chỉnh sửa gen đầu tiên ra đời trong vòng một năm (bài trên *Nature Biotechnology* ngày 31/8/2013 về chỉnh sửa gen ở cây Arabidopsis và thuốc lá Nicotiana benthamiana, theo chú thích của sách), còn động vật đầu tiên là chuột thì còn sớm hơn. Các hệ thống dựa trên CRISPR như Carver và PAC-MAN hứa hẹn cách phòng ngừa virus hiệu quả mà không kích hoạt phản ứng miễn dịch như vaccine, giúp bảo vệ trước các đại dịch tương lai. Chỉnh sửa RNA mở ra các hướng điều trị mới cho cholesterol cao và ung thư. Các kỹ thuật mới như Craspase, một công cụ CRISPR làm việc với RNA và protein thay vì DNA, có thể cho phép can thiệp điều trị an toàn hơn cách thông thường (bài trên *Science* ngày 25/8/2022, theo chú thích của sách).
+CRISPR sửa trình tự DNA nhờ Cas9, một enzyme hoạt động như chiếc kéo cắt DNA được tinh chỉnh, cắt những phần của sợi DNA để chỉnh sửa chính xác bất kỳ sinh vật nào, từ con vi khuẩn nhỏ xíu tới động vật có vú lớn như con người, với mức sửa từ rất nhỏ tới can thiệp lớn vào bộ gen. Tác động có thể rất lớn: sửa tế bào mầm, tức các tế bào tạo trứng và tinh trùng, nghĩa là thay đổi sẽ truyền qua nhiều thế hệ.
+
+Sau bài báo CRISPR đầu tiên, ứng dụng tiến rất nhanh: cây trồng chỉnh sửa gen đầu tiên ra đời trong vòng một năm (bài trên *Nature Biotechnology* ngày 31/8/2013 về chỉnh sửa gen ở cây Arabidopsis và thuốc lá Nicotiana benthamiana, theo chú thích của sách), còn động vật đầu tiên là chuột thì còn sớm hơn. Các hệ thống dựa trên CRISPR như Carver và PAC-MAN hứa hẹn cách phòng ngừa virus hiệu quả mà không kích hoạt phản ứng miễn dịch như vaccine, giúp bảo vệ trước các đại dịch tương lai.
+
+Chỉnh sửa RNA mở ra các hướng điều trị mới cho cholesterol cao và ung thư. Các kỹ thuật mới như Craspase, một công cụ CRISPR làm việc với RNA và protein thay vì DNA, có thể cho phép can thiệp điều trị an toàn hơn cách thông thường (bài trên *Science* ngày 25/8/2022, theo chú thích của sách).
 
 Giống AI, kỹ thuật di truyền là một lĩnh vực chuyển động dữ dội, thay đổi theo tuần, với một khối tài năng và năng lượng khổng lồ toàn cầu bắt đầu "ra quả", mà ở đây theo nghĩa đen. Các trường hợp sử dụng CRISPR đang nhân lên:
 
@@ -506,7 +509,9 @@ Việc này đã có từ nhiều năm trước, nhưng cũng chậm, đắt và
 
 Một thế giới khả năng mới mở ra cho việc tạo DNA, trong đó các chu trình thiết kế, chế tạo, thử nghiệm và lặp lại diễn ra với tốc độ tăng gấp bội. Máy tổng hợp DNA dùng tại nhà hiện còn vài giới hạn kỹ thuật nhưng vẫn rất mạnh, và theo Suleyman các giới hạn ấy chắc chắn sẽ bị vượt qua trong tương lai gần.
 
-**Tiến hoá có thiết kế.** Tự nhiên đi con đường dài và quanh co để đạt kết quả cực kỳ hiệu quả; cách mạng sinh học đặt sức mạnh của thiết kế tập trung vào trung tâm của các quá trình tự nhân bản, tự chữa lành và tiến hoá ấy. Đó là lời hứa của "tiến hoá có thiết kế": hàng chục triệu năm lịch sử được nén lại và đi tắt nhờ can thiệp có chủ đích. Nó kết hợp công nghệ sinh học, sinh học phân tử và di truyền học với sức mạnh của các công cụ thiết kế bằng máy tính. Theo chú thích của sách, sinh học tổng hợp không chỉ dùng tổng hợp DNA mà còn dựa vào hiểu biết ngày càng sâu về cách bật và tắt gen, kết hợp với kỹ thuật chuyển hoá, tức ngành khuyến khích tế bào sản xuất ra chất mong muốn. Ghép tất cả lại, ta có một nền tảng có tầm biến đổi sâu rộng. Nhà kỹ thuật sinh học Drew Endy ở Stanford nói: "Sinh học là nền tảng sản xuất phân tán tối thượng." Vì thế, lời hứa thật sự của sinh học tổng hợp là nó sẽ "giúp người ta trực tiếp và tự do hơn làm ra bất cứ thứ gì họ cần, ở bất cứ đâu họ ở".
+**Tiến hoá có thiết kế.** Tự nhiên đi con đường dài và quanh co để đạt kết quả cực kỳ hiệu quả; cách mạng sinh học đặt sức mạnh của thiết kế tập trung vào trung tâm của các quá trình tự nhân bản, tự chữa lành và tiến hoá ấy. Đó là lời hứa của "tiến hoá có thiết kế": hàng chục triệu năm lịch sử được nén lại và đi tắt nhờ can thiệp có chủ đích.
+
+Nó kết hợp công nghệ sinh học, sinh học phân tử và di truyền học với sức mạnh của các công cụ thiết kế bằng máy tính. Theo chú thích của sách, sinh học tổng hợp không chỉ dùng tổng hợp DNA mà còn dựa vào hiểu biết ngày càng sâu về cách bật và tắt gen, kết hợp với kỹ thuật chuyển hoá, tức ngành khuyến khích tế bào sản xuất ra chất mong muốn. Ghép tất cả lại, ta có một nền tảng có tầm biến đổi sâu rộng. Nhà kỹ thuật sinh học Drew Endy ở Stanford nói: "Sinh học là nền tảng sản xuất phân tán tối thượng." Vì thế, lời hứa thật sự của sinh học tổng hợp là nó sẽ "giúp người ta trực tiếp và tự do hơn làm ra bất cứ thứ gì họ cần, ở bất cứ đâu họ ở".
 
 **So sánh với chip máy tính.** Thập niên 1960, chip máy tính phần lớn vẫn làm bằng tay, cũng như cho tới gần đây phần lớn nghiên cứu công nghệ sinh học vẫn là quy trình thủ công, chậm, khó đoán và lộn xộn theo mọi nghĩa. Nay chế tạo bán dẫn là quy trình sản xuất ở cấp nguyên tử với hiệu suất cực cao, cho ra những sản phẩm phức tạp nhất thế giới. Công nghệ sinh học đang đi cùng quỹ đạo, chỉ là ở giai đoạn sớm hơn nhiều; sinh vật sẽ sớm được thiết kế và sản xuất với độ chính xác và quy mô như chip và phần mềm ngày nay.
 
@@ -527,13 +532,23 @@ Suleyman kết mục bằng một câu: "Sinh học, xin giới thiệu với c�
 
 **Y học.** Y học là lĩnh vực hiển nhiên được chú ý. Năm 2021, các nhà khoa học dùng gen của một loại protein cảm nhận ánh sáng lấy từ tảo để dựng lại tế bào thần kinh, và trả lại một phần thị lực cho một người đàn ông bị mù (bài của José-Alain Sahel và cộng sự trên *Nature Medicine*, 24/5/2021, về liệu pháp quang di truyền, theo chú thích của sách). Những bệnh trước đây không chữa được, từ thiếu máu hồng cầu hình liềm tới bệnh bạch cầu, nay có thể chữa. Liệu pháp tế bào CAR-T biến đổi bạch cầu miễn dịch theo từng người để tấn công ung thư; chỉnh sửa gen có vẻ sắp chữa được bệnh tim di truyền (chú thích của sách dẫn dự án CureHeart của British Heart Foundation).
 
-Nhờ những phương pháp cứu người như vaccine, ta đã quen với ý tưởng can thiệp vào sinh học của mình để chống bệnh. Ngành sinh học hệ thống (systems biology) tìm cách hiểu "bức tranh lớn" của một tế bào, mô hay sinh vật, dùng tin sinh học và sinh học tính toán để thấy sinh vật hoạt động như một tổng thể; những nỗ lực này có thể là nền cho một kỷ nguyên mới của y học cá nhân hoá. Theo Suleyman, chẳng bao lâu nữa việc được chữa trị theo kiểu chung chung sẽ có vẻ trung cổ; mọi thứ, từ cách chăm sóc tới loại thuốc được kê, sẽ được may đo chính xác theo DNA và các dấu ấn sinh học riêng của mỗi người. Về lâu dài, có thể tái cấu hình chính mình để tăng phản ứng miễn dịch, và điều đó lại mở cửa cho các thí nghiệm tham vọng hơn như kéo dài tuổi thọ và công nghệ tái tạo, vốn đã là một lĩnh vực nghiên cứu đang bùng lên.
+Nhờ những phương pháp cứu người như vaccine, ta đã quen với ý tưởng can thiệp vào sinh học của mình để chống bệnh. Ngành sinh học hệ thống (systems biology) tìm cách hiểu "bức tranh lớn" của một tế bào, mô hay sinh vật, dùng tin sinh học và sinh học tính toán để thấy sinh vật hoạt động như một tổng thể; những nỗ lực này có thể là nền cho một kỷ nguyên mới của y học cá nhân hoá.
 
-**Chống lão hoá.** Altos Labs, công ty đã gọi được 3 tỷ USD, số vốn khởi nghiệp lớn hơn bất kỳ dự án công nghệ sinh học nào trước đó, là một công ty tìm công nghệ chống lão hoá hiệu quả. Nhà khoa học trưởng Richard Klausner nói: "Chúng tôi nghĩ có thể quay ngược đồng hồ" của cái chết ở con người. Tập trung vào các kỹ thuật "lập trình trẻ hoá", công ty nhắm đặt lại hệ biểu sinh, tức các dấu hoá học trên DNA điều khiển gen bằng cách "bật" và "tắt" chúng. Khi ta già đi, các dấu này "lật" sang vị trí sai; cách tiếp cận thử nghiệm này muốn lật chúng lại, đảo ngược hoặc chặn quá trình lão hoá (bài trên tạp chí *Cell* ngày 12/1/2023 cho rằng mất thông tin biểu sinh là một nguyên nhân gây lão hoá ở động vật có vú, theo chú thích của sách). Cùng nhiều can thiệp hứa hẹn khác, tính tất yếu của lão hoá thể chất, tưởng là phần cơ bản của đời người, đang bị đặt dấu hỏi. Theo Suleyman, một thế giới với tuổi thọ trung bình từ một trăm năm trở lên có thể đạt được trong vài thập kỷ tới (chú thích của sách dẫn ví dụ sách *Lifespan* của David A. Sinclair). Đây không chỉ là sống lâu hơn mà còn là sống khoẻ hơn khi già.
+Theo Suleyman, chẳng bao lâu nữa việc được chữa trị theo kiểu chung chung sẽ có vẻ trung cổ; mọi thứ, từ cách chăm sóc tới loại thuốc được kê, sẽ được may đo chính xác theo DNA và các dấu ấn sinh học riêng của mỗi người. Về lâu dài, có thể tái cấu hình chính mình để tăng phản ứng miễn dịch, và điều đó lại mở cửa cho các thí nghiệm tham vọng hơn như kéo dài tuổi thọ và công nghệ tái tạo, vốn đã là một lĩnh vực nghiên cứu đang bùng lên.
 
-**Tăng cường bản thân.** Thành công như vậy sẽ có tác động xã hội lớn. Đồng thời, các cải thiện về nhận thức, ngoại hình, thể chất và thành tích cũng khả thi, và sẽ vừa gây xáo trộn, vừa bị ghét bỏ, vừa được thèm muốn. Dù thế nào, những tự biến đổi thể chất nghiêm túc sẽ xảy ra. Nghiên cứu bước đầu cho thấy có thể cải thiện trí nhớ và tăng sức cơ (chú thích của sách dẫn nghiên cứu của Harvard về một mạch thần kinh và "công tắc" di truyền giữ độ chính xác của trí nhớ). Không lâu nữa "doping gen" sẽ thành vấn đề thật trong thể thao, giáo dục và công việc. Luật về thử nghiệm lâm sàng rơi vào vùng xám khi người ta tự thử trên mình: thí nghiệm trên người khác rõ ràng bị cấm, nhưng thí nghiệm trên chính mình thì sao? Như nhiều mặt khác của công nghệ tiên phong, đây là vùng chưa được định nghĩa rõ về luật và đạo đức.
+**Chống lão hoá.** Altos Labs, công ty đã gọi được 3 tỷ USD, số vốn khởi nghiệp lớn hơn bất kỳ dự án công nghệ sinh học nào trước đó, là một công ty tìm công nghệ chống lão hoá hiệu quả. Nhà khoa học trưởng Richard Klausner nói: "Chúng tôi nghĩ có thể quay ngược đồng hồ" của cái chết ở con người.
 
-**Lulu và Nana.** Những đứa trẻ đầu tiên có bộ gen bị chỉnh sửa đã ra đời ở Trung Quốc, sau khi một giáo sư bất tuân tiến hành một loạt thí nghiệm trực tiếp với các cặp vợ chồng trẻ, dẫn tới việc năm 2018 một cặp song sinh, được biết với tên Lulu và Nana, chào đời với bộ gen bị chỉnh sửa. Việc này gây sốc cho cộng đồng khoa học vì vi phạm mọi chuẩn mực đạo đức. Không có biện pháp bảo vệ hay cơ chế trách nhiệm thông thường nào; việc chỉnh sửa bị coi là không cần thiết về y khoa và, tệ hơn, làm kém. Sự phẫn nộ của các nhà khoa học là thật, sự lên án gần như toàn diện. Lời kêu gọi tạm ngừng (moratorium) đến nhanh, có nhiều người tiên phong của ngành tham gia, nhưng không phải ai cũng đồng ý đó là cách đúng (bài "New Call to Ban Gene-Edited Babies Divides Biologists" trên *Science*, 13/3/2019, theo chú thích của sách). Theo Suleyman, trước khi có thêm "em bé CRISPR", thế giới có lẽ sẽ phải đối mặt với việc chọn lọc phôi lặp đi lặp lại, cũng có thể dùng để chọn đặc điểm mong muốn.
+Tập trung vào các kỹ thuật "lập trình trẻ hoá", công ty nhắm đặt lại hệ biểu sinh, tức các dấu hoá học trên DNA điều khiển gen bằng cách "bật" và "tắt" chúng. Khi ta già đi, các dấu này "lật" sang vị trí sai; cách tiếp cận thử nghiệm này muốn lật chúng lại, đảo ngược hoặc chặn quá trình lão hoá (bài trên tạp chí *Cell* ngày 12/1/2023 cho rằng mất thông tin biểu sinh là một nguyên nhân gây lão hoá ở động vật có vú, theo chú thích của sách).
+
+Cùng nhiều can thiệp hứa hẹn khác, tính tất yếu của lão hoá thể chất, tưởng là phần cơ bản của đời người, đang bị đặt dấu hỏi. Theo Suleyman, một thế giới với tuổi thọ trung bình từ một trăm năm trở lên có thể đạt được trong vài thập kỷ tới (chú thích của sách dẫn ví dụ sách *Lifespan* của David A. Sinclair). Đây không chỉ là sống lâu hơn mà còn là sống khoẻ hơn khi già.
+
+**Tăng cường bản thân.** Thành công như vậy sẽ có tác động xã hội lớn. Đồng thời, các cải thiện về nhận thức, ngoại hình, thể chất và thành tích cũng khả thi, và sẽ vừa gây xáo trộn, vừa bị ghét bỏ, vừa được thèm muốn. Dù thế nào, những tự biến đổi thể chất nghiêm túc sẽ xảy ra. Nghiên cứu bước đầu cho thấy có thể cải thiện trí nhớ và tăng sức cơ (chú thích của sách dẫn nghiên cứu của Harvard về một mạch thần kinh và "công tắc" di truyền giữ độ chính xác của trí nhớ).
+
+Không lâu nữa "doping gen" sẽ thành vấn đề thật trong thể thao, giáo dục và công việc. Luật về thử nghiệm lâm sàng rơi vào vùng xám khi người ta tự thử trên mình: thí nghiệm trên người khác rõ ràng bị cấm, nhưng thí nghiệm trên chính mình thì sao? Như nhiều mặt khác của công nghệ tiên phong, đây là vùng chưa được định nghĩa rõ về luật và đạo đức.
+
+**Lulu và Nana.** Những đứa trẻ đầu tiên có bộ gen bị chỉnh sửa đã ra đời ở Trung Quốc, sau khi một giáo sư bất tuân tiến hành một loạt thí nghiệm trực tiếp với các cặp vợ chồng trẻ, dẫn tới việc năm 2018 một cặp song sinh, được biết với tên Lulu và Nana, chào đời với bộ gen bị chỉnh sửa. Việc này gây sốc cho cộng đồng khoa học vì vi phạm mọi chuẩn mực đạo đức. Không có biện pháp bảo vệ hay cơ chế trách nhiệm thông thường nào; việc chỉnh sửa bị coi là không cần thiết về y khoa và, tệ hơn, làm kém.
+
+Sự phẫn nộ của các nhà khoa học là thật, sự lên án gần như toàn diện. Lời kêu gọi tạm ngừng (moratorium) đến nhanh, có nhiều người tiên phong của ngành tham gia, nhưng không phải ai cũng đồng ý đó là cách đúng (bài "New Call to Ban Gene-Edited Babies Divides Biologists" trên *Science*, 13/3/2019, theo chú thích của sách). Theo Suleyman, trước khi có thêm "em bé CRISPR", thế giới có lẽ sẽ phải đối mặt với việc chọn lọc phôi lặp đi lặp lại, cũng có thể dùng để chọn đặc điểm mong muốn.
 
 **Ngoài y học.** Ngoài những tin tức đáng lo, sẽ có ngày càng nhiều ứng dụng, vượt xa y học hay biến đổi cá nhân, chỉ bị giới hạn bởi trí tưởng tượng. Sản xuất, nông nghiệp, vật liệu, phát điện, thậm chí máy tính đều sẽ thay đổi tận gốc trong các thập kỷ tới. Dù còn nhiều thách thức, các vật liệu cốt lõi của nền kinh tế như nhựa, xi măng và phân bón có thể được sản xuất bền vững hơn nhiều, với nhiên liệu sinh học và nhựa sinh học thay thế những thứ đang phát thải carbon. Cây trồng có thể kháng nhiễm bệnh, dùng ít nước, đất và phân hơn; nhà có thể được tạo hình và "nuôi" từ nấm.
 
@@ -547,7 +562,9 @@ Bước tiếp theo là mở rộng quy mô sản xuất vật liệu và quy tr
 
 **Công thức tải về.** Máy in DNA thế hệ sau sẽ tạo DNA ngày càng chính xác. Nếu cải tiến được không chỉ việc biểu hiện DNA ấy mà cả việc dùng nó để biến đổi gen nhiều loại sinh vật mới, tự động hoá và mở rộng quy trình, thì về lý thuyết một thiết bị hay một bộ thiết bị có thể tạo ra rất nhiều loại vật liệu và cấu trúc sinh học chỉ từ vài đầu vào cơ bản. Muốn làm bột giặt, một món đồ chơi mới, hay thậm chí nuôi một ngôi nhà? Chỉ cần tải "công thức" về và bấm "chạy". Elliot Hershberg viết (bài "Atoms Are Local", 2022, theo chú thích của sách): "Nếu ta có thể nuôi tại chỗ thứ ta muốn thì sao? Nếu chuỗi cung ứng của ta chỉ là sinh học thì sao?"
 
-**Máy tính sinh học.** Về lâu dài, máy tính cũng có thể được nuôi chứ không chỉ được chế tạo. DNA tự nó là cơ chế lưu trữ dữ liệu hiệu quả nhất mà ta biết: lưu dữ liệu với mật độ gấp hàng triệu lần kỹ thuật tính toán hiện nay, với độ trung thực và độ bền gần như hoàn hảo. Về lý thuyết, toàn bộ dữ liệu của thế giới có thể chứa trong một kilogram DNA (báo cáo về tương lai lưu trữ dữ liệu bằng DNA của Viện Potomac, 2018, theo chú thích của sách). Một phiên bản sinh học của bóng bán dẫn, gọi là transcriptor, dùng phân tử DNA và RNA làm cổng logic. Còn lâu mới khai thác được công nghệ này, nhưng mọi bộ phận chức năng của máy tính, gồm lưu trữ dữ liệu, truyền thông tin và một hệ logic cơ bản, về nguyên tắc đều làm được bằng vật liệu sinh học.
+**Máy tính sinh học.** Về lâu dài, máy tính cũng có thể được nuôi chứ không chỉ được chế tạo. DNA tự nó là cơ chế lưu trữ dữ liệu hiệu quả nhất mà ta biết: lưu dữ liệu với mật độ gấp hàng triệu lần kỹ thuật tính toán hiện nay, với độ trung thực và độ bền gần như hoàn hảo. Về lý thuyết, toàn bộ dữ liệu của thế giới có thể chứa trong một kilogram DNA (báo cáo về tương lai lưu trữ dữ liệu bằng DNA của Viện Potomac, 2018, theo chú thích của sách).
+
+Một phiên bản sinh học của bóng bán dẫn, gọi là transcriptor, dùng phân tử DNA và RNA làm cổng logic. Còn lâu mới khai thác được công nghệ này, nhưng mọi bộ phận chức năng của máy tính, gồm lưu trữ dữ liệu, truyền thông tin và một hệ logic cơ bản, về nguyên tắc đều làm được bằng vật liệu sinh học.
 
 **Quy mô kinh tế.**
 
@@ -589,9 +606,13 @@ Trong một cuộc thi lâu đời toàn chuyên gia cực giỏi, "con bài b�
 
 Trước đây có thể mất vài tuần hay vài tháng để xác định hình dạng và chức năng của một protein; nay quá trình đó có thể bắt đầu trong vài giây. Suleyman viết: đó là điều ông muốn nói khi nói về thay đổi theo cấp số mũ, và đó là điều làn sóng sắp tới làm cho khả thi.
 
-**Siêu làn sóng.** Đây mới là khởi đầu của sự hội tụ giữa hai công nghệ. Cách mạng sinh học đang cùng tiến hoá với các tiến bộ AI, và nhiều hiện tượng bàn trong chương cần AI mới thành hiện thực. Suleyman đề nghị hình dung hai làn sóng va vào nhau, không còn là một làn sóng mà là một siêu làn sóng. Nhìn từ một góc, trí tuệ nhân tạo và sinh học tổng hợp gần như hoán đổi được cho nhau: mọi trí tuệ cho tới nay đều đến từ sự sống; gọi chúng là "trí tuệ tổng hợp" và "sự sống nhân tạo" thì chúng vẫn mang cùng một nghĩa. Cả hai lĩnh vực đều nhằm tái tạo, thiết kế hai khái niệm nền tảng và liên quan chặt với nhau, hai thuộc tính cốt lõi của loài người; đổi góc nhìn thì chúng thành một dự án duy nhất.
+**Siêu làn sóng.** Đây mới là khởi đầu của sự hội tụ giữa hai công nghệ. Cách mạng sinh học đang cùng tiến hoá với các tiến bộ AI, và nhiều hiện tượng bàn trong chương cần AI mới thành hiện thực. Suleyman đề nghị hình dung hai làn sóng va vào nhau, không còn là một làn sóng mà là một siêu làn sóng.
 
-**Công cụ AI cho sinh học.** Độ phức tạp của sinh học tạo ra những kho dữ liệu khổng lồ, như toàn bộ các protein kia, gần như không thể phân tích bằng kỹ thuật truyền thống. Vì thế một thế hệ công cụ mới nhanh chóng trở nên không thể thiếu. Có những đội đang làm sản phẩm tạo trình tự DNA mới chỉ từ chỉ dẫn bằng ngôn ngữ tự nhiên. Mô hình transformer đang học ngôn ngữ của sinh học và hoá học, lại một lần nữa phát hiện quan hệ và ý nghĩa trong những chuỗi dài, phức tạp mà trí óc con người không đọc nổi. Các mô hình ngôn ngữ lớn (LLM) được tinh chỉnh trên dữ liệu hoá sinh có thể tạo ra các ứng viên hợp lý cho phân tử và protein mới, cho trình tự DNA và RNA mới. Chúng dự đoán cấu trúc, chức năng hay tính chất phản ứng của hợp chất trong mô phỏng trước khi kiểm chứng ở phòng thí nghiệm. Không gian ứng dụng và tốc độ khám phá nó chỉ ngày càng tăng.
+Nhìn từ một góc, trí tuệ nhân tạo và sinh học tổng hợp gần như hoán đổi được cho nhau: mọi trí tuệ cho tới nay đều đến từ sự sống; gọi chúng là "trí tuệ tổng hợp" và "sự sống nhân tạo" thì chúng vẫn mang cùng một nghĩa. Cả hai lĩnh vực đều nhằm tái tạo, thiết kế hai khái niệm nền tảng và liên quan chặt với nhau, hai thuộc tính cốt lõi của loài người; đổi góc nhìn thì chúng thành một dự án duy nhất.
+
+**Công cụ AI cho sinh học.** Độ phức tạp của sinh học tạo ra những kho dữ liệu khổng lồ, như toàn bộ các protein kia, gần như không thể phân tích bằng kỹ thuật truyền thống. Vì thế một thế hệ công cụ mới nhanh chóng trở nên không thể thiếu. Có những đội đang làm sản phẩm tạo trình tự DNA mới chỉ từ chỉ dẫn bằng ngôn ngữ tự nhiên. Mô hình transformer đang học ngôn ngữ của sinh học và hoá học, lại một lần nữa phát hiện quan hệ và ý nghĩa trong những chuỗi dài, phức tạp mà trí óc con người không đọc nổi.
+
+Các mô hình ngôn ngữ lớn (LLM) được tinh chỉnh trên dữ liệu hoá sinh có thể tạo ra các ứng viên hợp lý cho phân tử và protein mới, cho trình tự DNA và RNA mới. Chúng dự đoán cấu trúc, chức năng hay tính chất phản ứng của hợp chất trong mô phỏng trước khi kiểm chứng ở phòng thí nghiệm. Không gian ứng dụng và tốc độ khám phá nó chỉ ngày càng tăng.
 
 **Nối não với máy.** Một số nhà khoa học bắt đầu tìm cách cắm trí óc con người thẳng vào hệ thống máy tính.
 
@@ -777,7 +798,7 @@ Theo Suleyman, có lẽ không lâu nữa các "dây thần kinh" làm từ ốn
 ### Điểm mạnh và điểm yếu của lập luận
 
 - **Mạnh:** chuỗi đọc, sửa, viết rất rõ và được đỡ bằng số liệu cụ thể (1 tỷ xuống 1.000 USD; dưới 100 lên hàng triệu đoạn; 190.000 lên 200 triệu cấu trúc). Câu chuyện AlphaFold là bằng chứng trực tiếp, từ người trong cuộc, cho luận điểm hội tụ.
-- **Yếu:** chương trộn những thứ đã chín (giải trình tự, CRISPR, AlphaFold) với những thứ còn rất xa (nuôi nhà từ nấm, tải công thức rồi bấm "chạy", dây thần kinh bằng ống nano carbon) trong cùng một giọng tự tin, khiến người đọc khó phân biệt mức độ chắc chắn. Một vài chi tiết lịch sử bị nén (lễ ở Nhà Trắng năm 2003, AlphaFold2 "năm 2022") như đã ghi ở phần Lưu ý.
+- **Yếu:** chương trộn những thứ đã chín (giải trình tự, CRISPR, AlphaFold) với những thứ còn rất xa (nuôi nhà từ nấm, tải công thức rồi bấm "chạy", dây thần kinh bằng ống nano carbon) trong cùng một giọng tự tin, khiến người đọc khó phân biệt mức độ chắc chắn. Một vài chi tiết lịch sử bị nén (lễ ở Nhà Trắng năm 2003, AlphaFold2 "năm 2022") như đã ghi ở mục Lưu ý cuối chương.
 - **Xung đột lợi ích tiềm tàng:** Suleyman kể AlphaFold từ vị trí người đồng sáng lập DeepMind; số liệu của chương đúng, nhưng giọng kể ("con bài bất ngờ của chúng tôi") là của người trong cuộc.
 
 ### Liên hệ với các chương khác
@@ -793,3 +814,176 @@ Theo Suleyman, có lẽ không lâu nữa các "dây thần kinh" làm từ ốn
 - **Công việc:** với người làm trong y tế, nông nghiệp, hoá chất, vật liệu, câu hỏi của chương là "phần nào trong chuỗi giá trị của mình có thể được 'nuôi' thay vì 'làm'?" Theo dõi chi phí của công cụ (giải trình tự, tổng hợp DNA, mô hình AI cho protein) là cách đơn giản để biết một ứng dụng sinh học đã tới ngưỡng thương mại hay chưa.
 - **Đầu tư:** chương cho thấy công nghệ có thể đúng mà mốc thời gian sai: Dự án Bộ gen Người hoàn tất năm 2003 nhưng, theo chính cuốn sách, phải mất thời gian mới phát huy tiềm năng. Người đầu tư vào công nghệ sinh học nên phân biệt nhóm đã có sản phẩm được phê duyệt (như liệu pháp CRISPR) với nhóm còn ở tầm nhìn (chống lão hoá, máy tính DNA), và không định giá hai nhóm theo cùng một giọng lạc quan.
 - **Đời sống:** dịch vụ hồ sơ DNA cá nhân giá vài trăm USD đã có sẵn; trước khi dùng, nên cân nhắc rằng dữ liệu gen không chỉ nói về mình mà còn về họ hàng, và không thể "đổi" như đổi mật khẩu. Với các lời hứa về tăng cường trí nhớ hay "doping gen", chương nhắc rằng đây vẫn là vùng xám về luật và đạo đức, và thí nghiệm trên chính mình không có cơ chế bảo vệ nào.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 5 trên một trang: năm nhánh lớn đi theo các mục 1–5 của phần Nội dung chi tiết (sự sống trở thành công nghệ, CRISPR và việc đọc, sửa mã sự sống, máy in DNA và việc viết mã, các ứng dụng của sinh học tổng hợp, AI hợp nhất với sinh học), mỗi nhánh ghi luận điểm, ví dụ lịch sử và công nghệ cùng con số then chốt; nhánh cuối là thông điệp xuyên suốt kèm đánh giá của người tổng hợp.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 5: DNA là thông tin, nên con người đọc, sửa, viết được mã sự sống với chi phí giảm mũ như AI`"]
+  n1["`Mục 1 — Sự sống trở thành công nghệ`"]
+  n0 --- n1
+  n2["`Sự sống là công nghệ cổ xưa nhất của vũ trụ, ít nhất 3,7 tỷ năm tuổi`"]
+  n1 --- n2
+  n3["`Chỉ vài thập kỷ gần đây sinh học thành công cụ kỹ thuật, tiến hoá được tăng tốc và có hướng đi`"]
+  n1 --- n3
+  n4["`Máy hơi nước, vi xử lý sinh từ vật lý gặp kỹ thuật, các thập kỷ tới do sinh học gặp kỹ thuật định hình`"]
+  n1 --- n4
+  n5["`Thực phẩm, thuốc, vật liệu, sản xuất, hàng tiêu dùng sẽ được làm lại, cả con người cũng thay đổi`"]
+  n1 --- n5
+  n6["`Suleyman: cùng với AI, đây là chuyển biến quan trọng nhất trong đời chúng ta`"]
+  n1 --- n6
+  n7["`Mục 2 — CRISPR: từ đọc mã sang sửa mã`"]
+  n0 --- n7
+  n8["`Chọn giống qua hàng thiên niên kỷ đã là kỹ thuật di truyền: chó, bò sữa, lúa mì, ngô`"]
+  n7 --- n8
+  n9["`1973 Cohen và Boyer đưa DNA ếch vào vi khuẩn, 1976 Boyer lập Genentech`"]
+  n7 --- n9
+  n10["`Dự án Bộ gen Người: 13 năm, hàng tỷ USD, đọc 3 tỷ chữ cái A, T, C, G`"]
+  n7 --- n10
+  n11["`Đường cong Carlson: giải trình tự từ 1 tỷ USD (2003) xuống dưới 1.000 USD (2022)`"]
+  n7 --- n11
+  n12["`Giảm một triệu lần trong chưa tới 20 năm, nhanh hơn định luật Moore khoảng 1.000 lần`"]
+  n11 --- n12
+  n13["`23andMe bán hồ sơ DNA cá nhân với vài trăm USD`"]
+  n11 --- n13
+  n14["`CRISPR 2012 (Doudna, Charpentier): enzyme Cas9 cắt DNA, sửa gen gần như sửa văn bản`"]
+  n7 --- n14
+  n15["`Sửa tế bào mầm thì thay đổi truyền qua nhiều thế hệ`"]
+  n14 --- n15
+  n16["`Cây trồng chỉnh sửa gen đầu tiên ra đời chưa tới một năm sau bài báo CRISPR`"]
+  n14 --- n16
+  n17["`Ứng dụng: cà chua giàu vitamin D, điều trị thiếu máu hồng cầu hình liềm và beta-thalassemia`"]
+  n14 --- n17
+  n18["`Dân chủ hoá (Nessa Carey): thí nghiệm từng mất nhiều năm, nghiên cứu sinh làm trong vài tuần`"]
+  n7 --- n18
+  n19["`Bộ kit biến đổi gen của The Odin 1.999 USD, máy tổng hợp DNA để bàn từ 25.000 USD, không ai giám sát`"]
+  n18 --- n19
+  n20["`Mục 3 — Máy in DNA: viết mã sự sống`"]
+  n0 --- n20
+  n21["`Nếu giải trình tự là đọc thì tổng hợp là viết, kể cả viết sợi DNA mới, tức thiết kế sự sống`"]
+  n20 --- n21
+  n22["`Tổng hợp từ dưới 100 lên hàng triệu đoạn DNA cùng lúc, giá giảm 10 lần`"]
+  n20 --- n22
+  n23["`London DNA Foundry tạo và thử 15.000 thiết kế di truyền trong một buổi sáng`"]
+  n22 --- n23
+  n24["`DNA Script: tổng hợp bằng enzyme nhanh hơn, ít hỏng hơn, không chất thải độc, dễ học hơn`"]
+  n22 --- n24
+  n25["`Sinh học tổng hợp: đọc, sửa, viết mã sự sống, kèm bật tắt gen và kỹ thuật chuyển hoá`"]
+  n20 --- n25
+  n26["`Tiến hoá có thiết kế nén hàng chục triệu năm bằng can thiệp có chủ đích`"]
+  n25 --- n26
+  n27["`Drew Endy: sinh học là nền tảng sản xuất phân tán tối thượng`"]
+  n25 --- n27
+  n28["`Công nghệ sinh học đi theo quỹ đạo chip: từ làm bằng tay thập niên 1960 tới sản xuất cấp nguyên tử`"]
+  n20 --- n28
+  n29["`2010 nhóm Venter tạo Synthia, cần đội lớn và hàng triệu USD`"]
+  n20 --- n29
+  n30["`2016 nhóm Venter tạo sinh vật 473 gen, ít hơn mọi sinh vật tự nhiên`"]
+  n29 --- n30
+  n31["`2019 ETH Zurich: bộ gen vi khuẩn thiết kế hoàn toàn trên máy tính, hai anh em, dưới 100.000 USD`"]
+  n29 --- n31
+  n32["`GP-write muốn giảm chi phí tạo và thử bộ gen tổng hợp 1.000 lần trong mười năm`"]
+  n29 --- n32
+  n33["`Mục 4 — Sức sáng tạo sinh học được giải phóng`"]
+  n0 --- n33
+  n34["`Virus tạo pin, tảo hút carbon, gene drive loại muỗi truyền bệnh, hồi sinh voi ma mút: không ai chắc hậu quả`"]
+  n33 --- n34
+  n35["`Y học: 2021 gen protein cảm quang từ tảo trả lại một phần thị lực cho người mù`"]
+  n33 --- n35
+  n36["`CAR-T biến đổi bạch cầu để đánh ung thư, y học cá nhân hoá theo DNA và dấu ấn sinh học`"]
+  n35 --- n36
+  n37["`Altos Labs gọi vốn 3 tỷ USD để đặt lại hệ biểu sinh, quay ngược lão hoá`"]
+  n35 --- n37
+  n38["`Tuổi thọ trung bình từ 100 năm trở lên có thể đạt trong vài thập kỷ tới`"]
+  n37 --- n38
+  n39["`Tăng cường trí nhớ, sức cơ và doping gen, tự thí nghiệm trên mình là vùng xám luật và đạo đức`"]
+  n33 --- n39
+  n40["`2018 Trung Quốc: song sinh Lulu và Nana bị chỉnh sửa gen, vi phạm mọi chuẩn mực, bị lên án gần như toàn diện`"]
+  n39 --- n40
+  n41["`Ngoài y học: nhựa, xi măng, phân bón sản xuất bền vững hơn, nhà có thể nuôi từ nấm`"]
+  n33 --- n41
+  n42["`Frances Arnold: enzyme liên kết silic với carbon tiết kiệm năng lượng gấp 15 lần`"]
+  n41 --- n42
+  n43["`Solugen xây Bioforge âm carbon, LanzaTech biến CO2 nhà máy thép thành hoá chất`"]
+  n41 --- n43
+  n44["`Tải #quot;công thức#quot; về rồi bấm #quot;chạy#quot; để làm bột giặt, đồ chơi, thậm chí nuôi ngôi nhà`"]
+  n41 --- n44
+  n45["`Máy tính sinh học: về lý thuyết 1 kg DNA chứa được toàn bộ dữ liệu thế giới, transcriptor làm cổng logic`"]
+  n33 --- n45
+  n46["`Sinh vật biến đổi gen đã chiếm 2% kinh tế Mỹ`"]
+  n33 --- n46
+  n47["`McKinsey: tới 60% đầu vào vật chất chịu tác động, 45% gánh nặng bệnh tật có thể xử lý`"]
+  n46 --- n47
+  n48["`Mục 5 — AI trong thời đại sự sống tổng hợp`"]
+  n0 --- n48
+  n49["`Hình dạng gấp quyết định chức năng protein, thử hết mọi khả năng có thể lâu hơn tuổi vũ trụ`"]
+  n48 --- n49
+  n50["`CASP13 năm 2018: AlphaFold đoán đúng 25 trên 43 cấu trúc khó nhất, hạng nhì chỉ 3`"]
+  n48 --- n50
+  n51["`Khởi đầu từ một hackathon một tuần trong nhóm của Suleyman ở DeepMind năm 2016`"]
+  n50 --- n51
+  n52["`Chìa khoá là học máy, không phải chuyên môn dược hay kính hiển vi điện tử lạnh`"]
+  n50 --- n52
+  n53["`Hai năm sau bài toán gấp protein nửa thế kỷ được giải, CASP bị cho nghỉ hưu như ImageNet`"]
+  n50 --- n53
+  n54["`AlphaFold đưa lên khoảng 200 triệu cấu trúc, so với khoảng 190.000 (0,1%) từ thí nghiệm trước đó`"]
+  n48 --- n54
+  n55["`Hơn 1 triệu nhà nghiên cứu dùng trong 18 tháng đầu, thời gian xác định protein từ vài tháng xuống vài giây`"]
+  n54 --- n55
+  n56["`Transformer và LLM tinh chỉnh trên dữ liệu hoá sinh đề xuất phân tử, protein, DNA và RNA mới`"]
+  n48 --- n56
+  n57["`Giao diện não và máy: 2019 người liệt vì ALS đánh vần câu, Neuralink cấy 3.000 điện cực vào não lợn`"]
+  n48 --- n57
+  n58["`Siêu làn sóng: mọi trí tuệ đến từ sự sống, trí tuệ tổng hợp và sự sống nhân tạo là một dự án`"]
+  n48 --- n58
+  n59["`Thông điệp xuyên suốt`"]
+  n0 --- n59
+  n60["`Chuỗi đọc, sửa, viết là trục của chương: sinh học thành công cụ chế tạo`"]
+  n59 --- n60
+  n61["`Công nghệ rẻ đi thì lan rộng tới nghiên cứu sinh và gara sinh học, mầm của bài toán khống chế`"]
+  n59 --- n61
+  n62["`AI và sinh học tổng hợp, hai công nghệ đa mục đích trung tâm, đẩy nhau trong vòng phản hồi xoắn ốc`"]
+  n59 --- n62
+  n63["`Người tổng hợp: Casgevy được duyệt 2023, AlphaFold đoạt Nobel Hoá học 2024, Neuralink cấy người 2024`"]
+  n59 --- n63
+  n64["`Người tổng hợp: chương trộn điều đã chín với điều còn xa (tuổi thọ 100, máy tính DNA) trong cùng giọng tự tin`"]
+  n59 --- n64
+  class n0 root
+  class n1,n7,n20,n33,n48,n59 branch
+  class n2,n3,n4,n5,n6,n8,n9,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n34,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n46,n47,n49,n50,n51,n52,n53,n54,n55,n56,n57,n58,n60,n61,n62,n63,n64 leaf
+```
+
+## Nguồn
+
+Mustafa Suleyman với Michael Bhaskar, *The Coming Wave: Technology, Power, and the Twenty-First Century's Greatest Dilemma* (Crown, Penguin Random House, 2023), bản ebook tiếng Anh, Phần II "The Next Wave", Chương 5 "The Technology of Life", trang PDF 93–106; chú thích cuối sách của chương ở trang PDF 331–339.
+
+## Tác giả
+
+Mustafa Suleyman là đồng sáng lập DeepMind và Inflection AI, viết sách cùng Michael Bhaskar, nhà văn và người làm xuất bản; chương này có đoạn Suleyman kể trực tiếp về dự án AlphaFold bắt đầu trong nhóm của ông ở DeepMind.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phần II mô tả làn sóng sắp tới (the coming wave) gồm những công nghệ nào. Chương 4 ([C04-cong-nghe-cua-tri-tue.md](C04-cong-nghe-cua-tri-tue.md)) trình bày công nghệ đa mục đích (general-purpose technology) thứ nhất là trí tuệ nhân tạo; Chương 5 trình bày công nghệ đa mục đích thứ hai là sinh học tổng hợp (synthetic biology), rồi cho thấy hai công nghệ này nhập vào nhau. Chương 6 ([C06-lan-song-rong-hon.md](C06-lan-song-rong-hon.md)) mở rộng sang các công nghệ vây quanh hai trung tâm ấy (robot, máy tính lượng tử, năng lượng, công nghệ nano).
+
+Chương 7 ([C07-bon-dac-diem-cua-lan-song.md](C07-bon-dac-diem-cua-lan-song.md)) rút ra bốn đặc điểm của làn sóng, trong đó nhiều ví dụ của Chương 5 (máy tổng hợp DNA để bàn giá 25.000 USD, bộ kit biến đổi gen 1.999 USD) là bằng chứng cho tính bất đối xứng và sự lan rộng (proliferation).
+
+Những rủi ro sinh học mà chương này chỉ chạm nhẹ (trẻ sơ sinh chỉnh sửa gen, thí nghiệm không ai giám sát) được bàn kỹ ở Chương 10 ([C10-cac-tac-nhan-khuech-dai-su-mong-manh.md](C10-cac-tac-nhan-khuech-dai-su-mong-manh.md)) và Chương 12 ([C12-the-luong-nan.md](C12-the-luong-nan.md)); quy luật chi phí giảm dẫn tới lan rộng đã được nêu ở Chương 2 ([C02-lan-rong-bat-tan.md](C02-lan-rong-bat-tan.md)).
+
+## Lưu ý
+
+- **"biannual competition" cho CASP (trang PDF 103):** "biannual" nghĩa đen là hai lần mỗi năm. Theo hiểu biết của người tổng hợp, CASP tổ chức hai năm một lần (biennial): CASP13 năm 2018, CASP14 năm 2020, đúng như chính cuốn sách kể "hai năm sau đội của chúng tôi quay lại".
+- **Lễ công bố ở Nhà Trắng (trang PDF 95):** sách viết rằng năm 2003 một buổi lễ ở Nhà Trắng công bố 92% bộ gen người đã được giải trình tự. Theo hiểu biết của người tổng hợp, buổi lễ ở Nhà Trắng (với Tổng thống Clinton) diễn ra tháng 6/2000 để công bố *bản nháp*; việc hoàn tất Dự án Bộ gen Người được công bố tháng 4/2003. Con số 92% là phần bộ gen mà bản 2003 thực sự phủ; 8% còn lại (vùng lặp, tâm động) chỉ được giải trình tự xong năm 2022 bởi nhóm Telomere-to-Telomere. Sách gộp hai mốc này vào một câu.
+- **"Nhanh hơn định luật Moore một nghìn lần" (trang PDF 95):** đây là cách nói gần đúng chứ không phải phép đo chính xác. Phép tính minh hoạ của người tổng hợp: nếu giá giảm một nửa mỗi hai năm theo nhịp định luật Moore, trong 19 năm (2003–2022) giá giảm khoảng 2 mũ 9,5, tức khoảng 720 lần; giá giải trình tự giảm khoảng 1.000.000 lần, tức mạnh hơn khoảng 1.400 lần. Vậy "một nghìn lần" khớp về bậc độ lớn.
+- **Năm phát hành AlphaFold (trang PDF 104):** sách viết "năm 2022, AlphaFold2 được mở cho công chúng sử dụng". Theo hiểu biết của người tổng hợp, mã nguồn AlphaFold2 và cơ sở dữ liệu cấu trúc AlphaFold (hợp tác với EMBL-EBI) ra mắt tháng 7/2021 với khoảng 350.000 cấu trúc; tháng 7/2022 là đợt mở rộng lên khoảng 200 triệu cấu trúc mà sách kể ngay sau đó. Tương tự, bài báo *Scientific American* "One of the Biggest Problems in Biology Has Finally Been Solved" mà sách gắn với lần quay lại CASP năm 2020 thực ra đăng ngày 31/10/2022 (theo chú thích của sách).
+- **Thí nghiệm của Neuralink trên lợn (trang PDF 105):** sách viết năm 2021 Neuralink cấy 3.000 điện cực vào não một con lợn. Theo hiểu biết của người tổng hợp, buổi trình diễn với lợn (con lợn tên Gertrude) diễn ra tháng 8/2020 với thiết bị khoảng 1.024 kênh; buổi trình diễn năm 2021 là một con khỉ chơi trò Pong bằng ý nghĩ. Sách không có chú thích nguồn cho câu này. Con số "khoảng 3.000 điện cực" khớp với bài báo năm 2019 của Neuralink về hệ thống cấy ở chuột (theo hiểu biết của người tổng hợp, chưa đối chiếu).
+- **Lỗi trong chú thích cuối sách:** chú thích cho "Furthermore, new techniques" ghi tên tạp chí là *Nature Biology*; mã bài (s41587-020-0695-9) thuộc *Nature Biotechnology*. Chú thích cho "In the future, it could offer" ghi bài của Mohamed Fareh đăng trên *Nature*; mã bài (s41467-021-24577-9) thuộc *Nature Communications* (theo hiểu biết của người tổng hợp về tiền tố mã bài của Nature).
+- **Người làm ra hai em bé Lulu và Nana (trang PDF 100):** sách chỉ gọi là "một giáo sư bất tuân" (rogue professor). Theo hiểu biết của người tổng hợp, đó là nhà khoa học Hạ Kiến Khuê (He Jiankui), bị toà án Trung Quốc kết án ba năm tù năm 2019 và ra tù năm 2022.
+- **Một vài chi tiết sách nói gọn:** sách nói Boyer "lập" Genentech năm 1976; theo hiểu biết của người tổng hợp, Boyer đồng sáng lập công ty cùng nhà đầu tư Robert Swanson. Sách nói nhóm Venter cấy bộ gen của *Mycoplasma mycoides* vào "một tế bào mới"; theo hiểu biết của người tổng hợp, tế bào nhận là của một loài họ hàng, *Mycoplasma capricolum*, đã bị loại bỏ bộ gen gốc.
+- **Chú thích bổ sung đáng chú ý:** chú thích cho cụm "Put it all together" giải thích sinh học tổng hợp không chỉ dựa vào tổng hợp DNA mà còn dựa vào hiểu biết ngày càng sâu về cách bật và tắt gen, kết hợp với kỹ thuật chuyển hoá (metabolic engineering), tức ngành "khuyến khích" tế bào sản xuất ra chất mong muốn. Nội dung này đã được đưa vào phần Nội dung chi tiết.
+- **Số liệu đã cũ so với năm 2026:** nhiều mốc trong chương (Neuralink "sắp" thử nghiệm trên người, CRISPR "có thể" chữa thiếu máu hồng cầu hình liềm) đã thành hiện thực sau khi sách in; xem phần Đánh giá.

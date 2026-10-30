@@ -1,20 +1,24 @@
 # Chương 9 — Thỏa thuận lớn (The Grand Bargain)
 
-**Nguồn:** Mustafa Suleyman với Michael Bhaskar, *The Coming Wave: Technology, Power, and the Twenty-First Century's Greatest Dilemma* (Crown, Penguin Random House, 2023), bản ebook tiếng Anh, trang mở Phần III "States of Failure" (trang PDF 163) và Chương 9 "The Grand Bargain", trang PDF 164–177; chú thích cuối sách của chương ở trang PDF 361–365.
-**Tác giả:** Mustafa Suleyman là đồng sáng lập DeepMind và Inflection AI, từng làm phó chủ tịch phụ trách quản lý sản phẩm AI và chính sách AI ở Google (theo hiểu biết của người tổng hợp; chi tiết này không có trong phần chữ của sách mà người tổng hợp đối chiếu); Michael Bhaskar là nhà văn, nhà xuất bản ở Anh, cùng viết cuốn sách.
-**Vị trí trong lập luận của cả cuốn sách:** Phần I (Chương 2–3: [C02-lan-rong-bat-tan.md](C02-lan-rong-bat-tan.md), [C03-bai-toan-khong-che.md](C03-bai-toan-khong-che.md)) cho thấy công nghệ có xu hướng lan rộng và rất khó khống chế. Phần II (Chương 4–8) mô tả làn sóng sắp tới: AI ([C04-cong-nghe-cua-tri-tue.md](C04-cong-nghe-cua-tri-tue.md)), sinh học tổng hợp ([C05-cong-nghe-cua-su-song.md](C05-cong-nghe-cua-su-song.md)), các công nghệ đi kèm ([C06-lan-song-rong-hon.md](C06-lan-song-rong-hon.md)), bốn đặc điểm của làn sóng ([C07-bon-dac-diem-cua-lan-song.md](C07-bon-dac-diem-cua-lan-song.md)) và các động lực khiến không ai dừng được nó (Chương 8, liền trước: [C08-nhung-dong-luc-khong-the-can.md](C08-nhung-dong-luc-khong-the-can.md)). Chương 9 mở Phần III và chuyển câu hỏi từ "công nghệ là gì" sang "công nghệ làm gì với nhà nước". Chương này là chương dẫn: nó định nghĩa thỏa thuận lớn giữa nhà nước và công dân, cho thấy các nhà nước đã yếu sẵn trước khi làn sóng ập tới, khẳng định công nghệ mang tính chính trị, và báo trước hai hướng đổ vỡ. Chương 10 (liền sau: [C10-cac-tac-nhan-khuech-dai-su-mong-manh.md](C10-cac-tac-nhan-khuech-dai-su-mong-manh.md)) liệt kê các tác nhân khuếch đại sự mong manh; Chương 11 ([C11-tuong-lai-cua-cac-quoc-gia.md](C11-tuong-lai-cua-cac-quoc-gia.md)) phân tích hai hướng tập trung quyền lực và phân mảnh quyền lực; Chương 12 ([C12-the-luong-nan.md](C12-the-luong-nan.md)) đưa ra thế lưỡng nan giữa thảm họa và chế độ chuyên chế. Chương 13 ([C13-khong-che-phai-kha-thi.md](C13-khong-che-phai-kha-thi.md)) quay lại khái niệm của chương này và gọi khống chế là việc "viết một kiểu thỏa thuận lớn mới"; bước 6 "Governments" trong Chương 14 ([C14-muoi-buoc-tien-toi-khong-che.md](C14-muoi-buoc-tien-toi-khong-che.md)) là câu trả lời cho việc làm sao để nhà nước đủ mạnh.
-**Ý chính:** **Nhà nước dân tộc đưa ra cho công dân một thỏa thuận lớn: công dân trao cho nhà nước độc quyền sử dụng bạo lực, đổi lại nhà nước giữ trật tự, hòa bình và thịnh vượng, đồng thời chính quyền lực tập trung ấy bị kiềm chế bởi các cơ chế kiểm soát, cân bằng, tái phân phối và thể chế; Suleyman cho rằng thỏa thuận này đang rạn nứt và công nghệ là một động lực then chốt của sự rạn nứt.** Ông kể kinh nghiệm cá nhân (làm cho thị trưởng London năm 2005, điều phối hàng trăm tổ chức phi chính phủ ở hội nghị khí hậu Copenhagen năm 2009 trước 192 quốc gia) để giải thích vì sao ông vừa tin vào nhà nước vừa thấy nó chậm chạp, và vì sao ông chọn làm công nghệ sau khi thấy Facebook đạt hơn 100 triệu người dùng mỗi tháng chỉ trong vài năm. Các nhà nước bước vào làn sóng sắp tới trong tình trạng yếu: niềm tin vào chính phủ Mỹ giảm từ hơn 70% thời Eisenhower và Johnson xuống dưới 20% thời Obama, Trump và Biden; một phần năm người Mỹ cho rằng "quân đội cai trị" là ý hay; 85% người Mỹ thấy đất nước đi sai hướng; đa số người dân ở 27 nước không hài lòng với nền dân chủ của mình; 40 triệu người Mỹ sống trong nghèo đói. Một phân tích tổng hợp gần 500 nghiên cứu cho thấy mức dùng truyền thông số tương quan rõ với mất niềm tin chính trị, chủ nghĩa dân túy và phân cực. Công nghệ không "trung lập về giá trị": chữ viết, đồng hồ, máy in, đài phát thanh, thuốc súng đã cùng nhà nước tiến hóa. Từ đó Suleyman báo trước hai hướng: nhà nước dân chủ tự do bị rỗng ruột thành "chính quyền xác sống", hoặc nhà nước được công nghệ tăng lực thành "Leviathan" chuyên chế; cả hai đều không khống chế được làn sóng.
+## Ý chính
 
-> **Lưu ý:**
-> - **"States of Failure" là chơi chữ (nhận xét của người tổng hợp).** "State" vừa là "trạng thái" vừa là "nhà nước", nên tên Phần III vừa nghĩa là "những trạng thái thất bại" vừa gợi "những nhà nước thất bại". Bản tổng hợp dịch là "Những nhà nước thất bại" vì nội dung của phần này xoay quanh nhà nước.
-> - **Con số về thu nhập của nhóm 1% giàu nhất có lẽ bị nhầm.** Sách viết rằng từ 1980 đến 2021, tỷ trọng thu nhập quốc gia của nhóm 1% giàu nhất ở Mỹ "gần như tăng gấp đôi và hiện ở mức ngay dưới 50%". Theo hiểu biết của người tổng hợp về World Inequality Database (nguồn mà chú thích của sách dẫn), tỷ trọng thu nhập trước thuế của nhóm 1% ở Mỹ tăng từ khoảng 10–11% lên khoảng 19–21%, tức đúng là gần gấp đôi; con số "gần 50%" khớp với nhóm 10% giàu nhất chứ không phải nhóm 1%.
-> - **Một câu so sánh bị mất khỏi lời văn (lời văn ở trang PDF 171, chú thích ở trang PDF 363).** Chú thích gắn với câu "Wealth is ever more concentrated in a tiny clique" dẫn danh sách tỷ phú của Forbes năm 2023 và viết rằng "dù GDP là dòng chảy chứ không phải trữ lượng như của cải, phép so sánh vẫn gây ấn tượng". Nhưng lời văn không có phép so sánh nào giữa của cải tỷ phú và GDP. Có lẽ câu so sánh đã bị cắt trong khâu biên tập mà chú thích còn giữ lại.
-> - **Tên tạp chí (trang PDF 173).** Lời văn nói phân tích tổng hợp "đăng trên tạp chí *Nature*", nhưng chú thích ghi đúng là *Nature Human Behaviour* (Lorenz-Spreen và cộng sự, 11/2022), một tạp chí thuộc nhóm Nature.
-> - **Số liệu của Pew đo niềm tin vào chính phủ liên bang, không đo riêng từng tổng thống** (theo hiểu biết của người tổng hợp). Sách viết như thể người Mỹ tin các "chính quyền tổng thống" Eisenhower và Johnson; chuỗi số liệu của Pew (1958–2022) hỏi người dân có tin "chính phủ ở Washington" làm điều đúng hay không. Ý chính của sách (niềm tin sụp từ trên 70% xuống dưới 20%) không đổi.
-> - **"Chiến tranh Trăm năm giữa Anh (Britain) và Pháp"** (trang PDF 175): theo hiểu biết của người tổng hợp, chiến tranh này (1337–1453) là giữa Vương quốc England và Pháp; "Britain" như một nhà nước chỉ ra đời năm 1707.
-> - **Nguồn của số liệu nghèo đói.** Chú thích dẫn báo cáo của Cục Điều tra dân số Mỹ về năm 2016 và một tài liệu trong thư viện số Liên Hợp Quốc. Theo hiểu biết của người tổng hợp, cụm "điều kiện thế giới thứ ba" và con số hơn 5 triệu người đến từ báo cáo năm 2017–2018 của Báo cáo viên đặc biệt Liên Hợp Quốc về nghèo cùng cực Philip Alston sau chuyến khảo sát nước Mỹ.
-> - **Chú thích bổ sung đáng chú ý:** (1) sách phân biệt "nation-state" (đất nước, người dân và chính phủ) với "state" (bộ máy cai trị và dịch vụ công trong đất nước đó), và dẫn Wendy Brown rằng nhà nước dân tộc là "một thứ hư cấu", nhưng là hư cấu cực kỳ hữu ích; (2) ở Anh chỉ 35% người dân tin chính phủ quốc gia, thấp hơn mức trung bình 41% của các nước OECD, và 49% nói không tin (khảo sát OECD 2021); (3) khái niệm "chính quyền xác sống" gần với "nền dân chủ xác sống" của David Runciman. Các ý này đã được đưa vào Nội dung chi tiết.
-> - **Số liệu đã cũ so với năm 2026.** Các số đo niềm tin, dân chủ, bất bình đẳng trong chương là số liệu 2018–2022. Những thay đổi người tổng hợp biết được ghi ở mục "Đánh giá và phát hiện đáng chú ý".
+**Nhà nước dân tộc đưa ra cho công dân một thỏa thuận lớn: công dân trao cho nhà nước độc quyền sử dụng bạo lực, đổi lại nhà nước giữ trật tự, hòa bình và thịnh vượng, đồng thời chính quyền lực tập trung ấy bị kiềm chế bởi các cơ chế kiểm soát, cân bằng, tái phân phối và thể chế; Suleyman cho rằng thỏa thuận này đang rạn nứt và công nghệ là một động lực then chốt của sự rạn nứt.**
+
+Ông kể kinh nghiệm cá nhân (làm cho thị trưởng London năm 2005, điều phối hàng trăm tổ chức phi chính phủ ở hội nghị khí hậu Copenhagen năm 2009 trước 192 quốc gia) để giải thích vì sao ông vừa tin vào nhà nước vừa thấy nó chậm chạp, và vì sao ông chọn làm công nghệ sau khi thấy Facebook đạt hơn 100 triệu người dùng mỗi tháng chỉ trong vài năm.
+
+Các nhà nước bước vào làn sóng sắp tới trong tình trạng yếu:
+
+- niềm tin vào chính phủ Mỹ giảm từ hơn 70% thời Eisenhower và Johnson xuống dưới 20% thời Obama, Trump và Biden
+- một phần năm người Mỹ cho rằng "quân đội cai trị" là ý hay
+- 85% người Mỹ thấy đất nước đi sai hướng
+- đa số người dân ở 27 nước không hài lòng với nền dân chủ của mình
+- 40 triệu người Mỹ sống trong nghèo đói.
+
+Một phân tích tổng hợp gần 500 nghiên cứu cho thấy mức dùng truyền thông số tương quan rõ với mất niềm tin chính trị, chủ nghĩa dân túy và phân cực.
+
+Công nghệ không "trung lập về giá trị": chữ viết, đồng hồ, máy in, đài phát thanh, thuốc súng đã cùng nhà nước tiến hóa.
+
+Từ đó Suleyman báo trước hai hướng: nhà nước dân chủ tự do bị rỗng ruột thành "chính quyền xác sống", hoặc nhà nước được công nghệ tăng lực thành "Leviathan" chuyên chế; cả hai đều không khống chế được làn sóng.
 
 ## Sơ đồ
 
@@ -280,7 +284,9 @@ Trang PDF 163 chỉ có tên phần: "Part III — States of Failure". Tên này
 
 ### 2. The Promise of the State — Lời hứa của nhà nước (trang PDF 164–165)
 
-**Thỏa thuận.** Chương mở bằng định nghĩa. Nhà nước dân tộc đưa ra cho công dân một thỏa thuận đơn giản và rất thuyết phục: việc tập trung quyền lực vào một nhà nước có chủ quyền và có lãnh thổ là khả thi, và lợi ích của nó lớn hơn nhiều so với rủi ro. Lịch sử cho thấy cách chắc chắn nhất để có hòa bình và thịnh vượng là trao cho nhà nước độc quyền sử dụng bạo lực, tức quyền rộng rãi để thi hành luật và phát triển sức mạnh quân sự. Một đất nước được quản lý tốt cũng là nền tảng của tăng trưởng kinh tế, an ninh và phúc lợi. Trong năm trăm năm qua, việc tập trung quyền lực vào một chính quyền duy nhất là điều thiết yếu để giữ hòa bình, giải phóng tài năng sáng tạo của hàng tỷ người để họ chăm chỉ làm việc, đi học, phát minh, buôn bán, và qua đó tạo ra tiến bộ.
+**Thỏa thuận.** Chương mở bằng định nghĩa. Nhà nước dân tộc đưa ra cho công dân một thỏa thuận đơn giản và rất thuyết phục: việc tập trung quyền lực vào một nhà nước có chủ quyền và có lãnh thổ là khả thi, và lợi ích của nó lớn hơn nhiều so với rủi ro. Lịch sử cho thấy cách chắc chắn nhất để có hòa bình và thịnh vượng là trao cho nhà nước độc quyền sử dụng bạo lực, tức quyền rộng rãi để thi hành luật và phát triển sức mạnh quân sự.
+
+Một đất nước được quản lý tốt cũng là nền tảng của tăng trưởng kinh tế, an ninh và phúc lợi. Trong năm trăm năm qua, việc tập trung quyền lực vào một chính quyền duy nhất là điều thiết yếu để giữ hòa bình, giải phóng tài năng sáng tạo của hàng tỷ người để họ chăm chỉ làm việc, đi học, phát minh, buôn bán, và qua đó tạo ra tiến bộ.
 
 Theo chú thích của sách, Suleyman dùng hai từ theo nghĩa đơn giản: "nation-state" (nhà nước dân tộc) là các quốc gia trên thế giới, gồm người dân và chính phủ của họ; "state" (nhà nước) là chính phủ và hệ thống cai trị, dịch vụ xã hội bên trong quốc gia đó. Ireland, Israel, Ấn Độ và Indonesia rất khác nhau nhưng vẫn có thể được xem như một tập hợp các thực thể cùng loại. Chú thích dẫn Wendy Brown (*Walled States, Waning Sovereignty*, 2010) rằng nhà nước dân tộc luôn là "một thứ gì đó hư cấu", vì làm sao người dân có chủ quyền khi quyền lực lại được thực thi lên chính họ; dù vậy, đó là một thứ hư cấu cực kỳ hữu ích và mạnh mẽ.
 
@@ -292,7 +298,9 @@ Theo chú thích của sách, Suleyman dùng hai từ theo nghĩa đơn giản: 
 
 Ông đặt ra câu hỏi cho cả Phần III. Nhà nước dân tộc là chủ thể có trách nhiệm quản lý và điều tiết tác động của công nghệ vì lợi ích tốt nhất của dân chúng, vậy chúng chuẩn bị đến đâu cho điều sắp tới? Nếu nhà nước không điều phối được việc khống chế làn sóng này, không bảo đảm được rằng nó đem lại lợi ích ròng cho công dân, thì loài người còn những lựa chọn nào trong trung và dài hạn?
 
-Hai phần đầu của sách đã cho thấy một làn sóng công nghệ mạnh sắp đổ xuống. Phần thứ ba sẽ xem điều đó có nghĩa gì và hé nhìn thế giới sau trận lụt. Tác động sâu nhất là lên nhà nước dân tộc, và trên hết là nhà nước dân tộc dân chủ tự do. Các vết nứt đã xuất hiện. Trật tự chính trị từng nuôi dưỡng sự giàu có tăng lên, mức sống cao hơn, giáo dục, khoa học và công nghệ phát triển, một thế giới hướng tới hòa bình, nay đang chịu sức ép rất lớn, và bị làm mất ổn định một phần bởi chính những lực mà nó đã giúp sinh ra. Theo Suleyman, các hệ quả này cho thấy một tương lai mà việc khống chế khó hơn bao giờ hết và thế lưỡng nan lớn của thế kỷ trở nên không tránh khỏi.
+Hai phần đầu của sách đã cho thấy một làn sóng công nghệ mạnh sắp đổ xuống. Phần thứ ba sẽ xem điều đó có nghĩa gì và hé nhìn thế giới sau trận lụt. Tác động sâu nhất là lên nhà nước dân tộc, và trên hết là nhà nước dân tộc dân chủ tự do. Các vết nứt đã xuất hiện.
+
+Trật tự chính trị từng nuôi dưỡng sự giàu có tăng lên, mức sống cao hơn, giáo dục, khoa học và công nghệ phát triển, một thế giới hướng tới hòa bình, nay đang chịu sức ép rất lớn, và bị làm mất ổn định một phần bởi chính những lực mà nó đã giúp sinh ra. Theo Suleyman, các hệ quả này cho thấy một tương lai mà việc khống chế khó hơn bao giờ hết và thế lưỡng nan lớn của thế kỷ trở nên không tránh khỏi.
 
 ### 3. Lessons from Copenhagen: Politics Is Personal — Bài học từ Copenhagen: chính trị là chuyện cá nhân (trang PDF 165–169)
 
@@ -302,9 +310,13 @@ Hai phần đầu của sách đã cho thấy một làn sóng công nghệ mạ
 
 Họ không đồng thuận được điều gì. Trước hết, không ai thống nhất về khoa học hay về thực tế đang diễn ra ngoài hiện trường. Các ưu tiên tản mát. Không có đồng thuận về giải pháp nào hiệu quả, vừa túi tiền hay thậm chí khả thi. Có nên góp 10 tỷ USD để biến rừng Amazon thành công viên quốc gia hấp thụ CO2 không? Nếu vậy thì xử lý các nhóm dân quân và nạn hối lộ thế nào? Hay nên trồng lại rừng ở Na Uy thay vì Brazil? Hay nên nuôi những trang trại tảo bẹ khổng lồ? Đề xuất nào vừa được nêu ra là có người chỉ ra lỗ hổng. Mỗi gợi ý đều thành một vấn đề, và kết cục là bất đồng tối đa về mọi điều có thể. Suleyman gọi đó là "chính trị như thường lệ".
 
-Đó là giữa những người trên danh nghĩa cùng một phe, và họ còn chưa tới phần chính, nơi các quốc gia mặc cả thật sự. Ở hội nghị Copenhagen, một mớ hỗn độn các quốc gia có lập trường riêng cạnh tranh nhau. Thêm vào đó là cảm xúc: người đàm phán phải ra quyết định trong khi hàng trăm người trong phòng cãi vã, la hét, tách thành nhóm nhỏ, và đồng hồ vẫn chạy, cả với hội nghị lẫn với hành tinh. Suleyman gọi đó có lẽ là cuộc đàm phán nhiều bên phức tạp nhất, nhiều rủi ro nhất trong lịch sử loài người, và ngay từ đầu nó đã có vẻ gần như bất khả. Ông nhận ra rằng thời hạn quá gấp, vấn đề quá phức tạp, và các thể chế để giải quyết vấn đề toàn cầu lớn không phù hợp với mục đích.
+Đó là giữa những người trên danh nghĩa cùng một phe, và họ còn chưa tới phần chính, nơi các quốc gia mặc cả thật sự. Ở hội nghị Copenhagen, một mớ hỗn độn các quốc gia có lập trường riêng cạnh tranh nhau. Thêm vào đó là cảm xúc: người đàm phán phải ra quyết định trong khi hàng trăm người trong phòng cãi vã, la hét, tách thành nhóm nhỏ, và đồng hồ vẫn chạy, cả với hội nghị lẫn với hành tinh.
 
-**Tòa thị chính London 2005.** Ông thấy điều tương tự khi làm cho thị trưởng London lúc đầu tuổi hai mươi. Việc của ông là đánh giá tác động của luật nhân quyền lên các cộng đồng trong thành phố; ông phỏng vấn đủ mọi người, từ người Anh gốc Bangladesh đến các nhóm Do Thái địa phương, già và trẻ, mọi tín ngưỡng và xuất thân. Trải nghiệm cho thấy luật nhân quyền có thể cải thiện đời sống một cách rất thực tế. Khác với Mỹ, nước Anh không có hiến pháp thành văn bảo vệ các quyền cơ bản; nay các nhóm dân cư địa phương có thể mang vấn đề tới chính quyền địa phương và chỉ ra rằng chính quyền có nghĩa vụ pháp lý bảo vệ những người dễ tổn thương nhất, nên chính quyền không thể ém nhẹm. Ở một mức độ, điều đó truyền cảm hứng: các thể chế có thể có một bộ quy tắc thành văn về công lý, hệ thống có thể làm được việc.
+Suleyman gọi đó có lẽ là cuộc đàm phán nhiều bên phức tạp nhất, nhiều rủi ro nhất trong lịch sử loài người, và ngay từ đầu nó đã có vẻ gần như bất khả. Ông nhận ra rằng thời hạn quá gấp, vấn đề quá phức tạp, và các thể chế để giải quyết vấn đề toàn cầu lớn không phù hợp với mục đích.
+
+**Tòa thị chính London 2005.** Ông thấy điều tương tự khi làm cho thị trưởng London lúc đầu tuổi hai mươi. Việc của ông là đánh giá tác động của luật nhân quyền lên các cộng đồng trong thành phố; ông phỏng vấn đủ mọi người, từ người Anh gốc Bangladesh đến các nhóm Do Thái địa phương, già và trẻ, mọi tín ngưỡng và xuất thân.
+
+Trải nghiệm cho thấy luật nhân quyền có thể cải thiện đời sống một cách rất thực tế. Khác với Mỹ, nước Anh không có hiến pháp thành văn bảo vệ các quyền cơ bản; nay các nhóm dân cư địa phương có thể mang vấn đề tới chính quyền địa phương và chỉ ra rằng chính quyền có nghĩa vụ pháp lý bảo vệ những người dễ tổn thương nhất, nên chính quyền không thể ém nhẹm. Ở một mức độ, điều đó truyền cảm hứng: các thể chế có thể có một bộ quy tắc thành văn về công lý, hệ thống có thể làm được việc.
 
 Nhưng thực tế chính trị London rất khác. Mọi thứ sa vào viện cớ, đổ lỗi và tô vẽ với báo chí. Kể cả khi trách nhiệm pháp lý đã rõ, các sở ngành và hội đồng địa phương không phản hồi, làm qua loa, né tránh và trì hoãn. Sự trì trệ trước những thách thức thật là căn bệnh phổ biến.
 
@@ -314,13 +326,19 @@ Khi bước vào tòa thị chính London năm 2005, ông vừa 21 tuổi và l�
 
 **Công nghệ cùng với nhà nước.** Suleyman nêu hai mệnh đề cân bằng nhau. Ý nghĩ rằng chỉ riêng công nghệ có thể giải quyết các vấn đề xã hội và chính trị là một ảo tưởng nguy hiểm. Nhưng ý nghĩ rằng có thể giải quyết chúng mà không cần công nghệ cũng sai. Thấy tận mắt sự bất lực của công chức khiến ông muốn tìm cách khác để làm việc hiệu quả ở quy mô lớn, không chống lại mà phối hợp với nhà nước, để có những xã hội năng suất hơn, công bằng hơn, tử tế hơn.
 
-Ông tin các đột phá công nghệ sẽ giúp giải quyết những thách thức đã nêu ở phần trước: trồng trọt trong điều kiện nhiệt độ ngày càng khắc nghiệt; phát hiện sớm lũ lụt, động đất, cháy rừng; nâng mức sống cho mọi người. Trong bối cảnh chi phí tăng vọt và dịch vụ công xuống cấp, ông coi AI và sinh học tổng hợp là những đòn bẩy then chốt: chúng sẽ làm y tế vừa tốt hơn vừa rẻ hơn, giúp phát minh công cụ để chuyển sang năng lượng tái tạo và chống biến đổi khí hậu khi chính trị đã bế tắc, và hỗ trợ giáo viên để tăng hiệu quả của các hệ thống giáo dục thiếu kinh phí. Đó là tiềm năng thật của làn sóng tiếp theo. Vì vậy ông chọn sự nghiệp công nghệ, tin rằng một thế hệ công cụ mới có thể khuếch đại khả năng hành động ở quy mô lớn, nhanh hơn nhiều so với chính sách truyền thống, và việc dùng chúng để "phát minh ra tương lai" là cách tốt nhất để dùng những năm làm việc hiệu quả nhất của đời mình.
+Ông tin các đột phá công nghệ sẽ giúp giải quyết những thách thức đã nêu ở phần trước: trồng trọt trong điều kiện nhiệt độ ngày càng khắc nghiệt; phát hiện sớm lũ lụt, động đất, cháy rừng; nâng mức sống cho mọi người. Trong bối cảnh chi phí tăng vọt và dịch vụ công xuống cấp, ông coi AI và sinh học tổng hợp là những đòn bẩy then chốt: chúng sẽ làm y tế vừa tốt hơn vừa rẻ hơn, giúp phát minh công cụ để chuyển sang năng lượng tái tạo và chống biến đổi khí hậu khi chính trị đã bế tắc, và hỗ trợ giáo viên để tăng hiệu quả của các hệ thống giáo dục thiếu kinh phí.
 
-**Nhận trách nhiệm.** Suleyman nói ông kể về khía cạnh lý tưởng của mình để đặt các chương sau vào bối cảnh: ông coi bức tranh thường là u ám trong các chương ấy là một thất bại khổng lồ của công nghệ, và là thất bại của chính những người như ông, những người xây dựng công nghệ. Công nghệ vẫn là con đường mạnh nhất để giải quyết các thách thức của thế kỷ 21, nhưng không thể làm ngơ mặt trái. Vừa ghi nhận lợi ích, ta vừa phải vượt qua tâm lý né tránh bi quan (pessimism aversion) và nhìn lạnh lùng, thẳng thắn vào những rủi ro mới có thể nảy sinh từ các công nghệ đa dụng toàn diện (omni-use). Theo thời gian, bản chất của các rủi ro ấy và mức độ hệ trọng của chúng chỉ càng rõ hơn. Công nghệ không chỉ là công cụ hỗ trợ thỏa thuận mà ta đã lập trong nhà nước dân tộc; nó cũng là một mối đe dọa thật sự đối với thỏa thuận ấy.
+Đó là tiềm năng thật của làn sóng tiếp theo. Vì vậy ông chọn sự nghiệp công nghệ, tin rằng một thế hệ công cụ mới có thể khuếch đại khả năng hành động ở quy mô lớn, nhanh hơn nhiều so với chính sách truyền thống, và việc dùng chúng để "phát minh ra tương lai" là cách tốt nhất để dùng những năm làm việc hiệu quả nhất của đời mình.
+
+**Nhận trách nhiệm.** Suleyman nói ông kể về khía cạnh lý tưởng của mình để đặt các chương sau vào bối cảnh: ông coi bức tranh thường là u ám trong các chương ấy là một thất bại khổng lồ của công nghệ, và là thất bại của chính những người như ông, những người xây dựng công nghệ. Công nghệ vẫn là con đường mạnh nhất để giải quyết các thách thức của thế kỷ 21, nhưng không thể làm ngơ mặt trái.
+
+Vừa ghi nhận lợi ích, ta vừa phải vượt qua tâm lý né tránh bi quan (pessimism aversion) và nhìn lạnh lùng, thẳng thắn vào những rủi ro mới có thể nảy sinh từ các công nghệ đa dụng toàn diện (omni-use). Theo thời gian, bản chất của các rủi ro ấy và mức độ hệ trọng của chúng chỉ càng rõ hơn. Công nghệ không chỉ là công cụ hỗ trợ thỏa thuận mà ta đã lập trong nhà nước dân tộc; nó cũng là một mối đe dọa thật sự đối với thỏa thuận ấy.
 
 **Những người muốn nhà nước sụp đổ.** Một thiểu số có ảnh hưởng trong ngành công nghệ không chỉ tin rằng công nghệ mới đe dọa thế giới trật tự của các nhà nước dân tộc, mà còn chủ động hoan nghênh sự sụp đổ của nó. Những người phê phán này cho rằng nhà nước chủ yếu là vật cản, nên vứt bỏ, và đã quá rối ren để cứu. Suleyman phản đối từ gốc: kết cục đó sẽ là thảm họa.
 
-Ông là người Anh, sinh ra và lớn lên ở London, nhưng một bên gia đình ông là người Syria và đã bị cuốn vào cuộc chiến khủng khiếp ở nước này những năm gần đây. Ông biết rõ nhà nước sụp đổ trông như thế nào: tệ đến mức không thể tưởng tượng, kinh hoàng. Ai nghĩ chuyện xảy ra ở Syria không bao giờ có thể xảy ra "ở đây" là đang tự lừa mình, vì con người ở đâu cũng là con người. Hệ thống nhà nước dân tộc còn xa mới hoàn hảo, nhưng phải làm mọi cách để củng cố và bảo vệ nó; Suleyman nói cuốn sách này một phần là nỗ lực đứng ra bảo vệ nó. Không có giải pháp thần kỳ nào khác kịp đến để cứu ta, để hấp thụ lực gây bất ổn của làn sóng. Trong trung hạn đơn giản là không có lựa chọn nào khác.
+Ông là người Anh, sinh ra và lớn lên ở London, nhưng một bên gia đình ông là người Syria và đã bị cuốn vào cuộc chiến khủng khiếp ở nước này những năm gần đây. Ông biết rõ nhà nước sụp đổ trông như thế nào: tệ đến mức không thể tưởng tượng, kinh hoàng. Ai nghĩ chuyện xảy ra ở Syria không bao giờ có thể xảy ra "ở đây" là đang tự lừa mình, vì con người ở đâu cũng là con người.
+
+Hệ thống nhà nước dân tộc còn xa mới hoàn hảo, nhưng phải làm mọi cách để củng cố và bảo vệ nó; Suleyman nói cuốn sách này một phần là nỗ lực đứng ra bảo vệ nó. Không có giải pháp thần kỳ nào khác kịp đến để cứu ta, để hấp thụ lực gây bất ổn của làn sóng. Trong trung hạn đơn giản là không có lựa chọn nào khác.
 
 Ngay cả trong kịch bản tốt nhất, làn sóng sắp tới vẫn sẽ là một cú sốc cực lớn cho các hệ thống cai trị xã hội. Vì vậy, trước khi xem các hiểm họa của làn sóng, ông hỏi sức khỏe chung của các nhà nước dân tộc: chúng có đủ sức đón các thách thức phía trước không?
 
@@ -328,7 +346,9 @@ Ngay cả trong kịch bản tốt nhất, làn sóng sắp tới vẫn sẽ là
 
 **Đời sống tốt nhất lịch sử, nhưng có điều gì không ổn.** Xét khách quan, điều kiện sống toàn cầu hôm nay tốt hơn bất kỳ thời điểm nào trước đây. Ta coi nước máy và lương thực dồi dào là đương nhiên; phần lớn người dân có hơi ấm và chỗ ở quanh năm; tỷ lệ biết chữ, tuổi thọ và bình đẳng giới đều ở mức cao nhất từng có (chú thích của sách dẫn Our World in Data); toàn bộ thành quả hàng nghìn năm học thuật của loài người nằm trong một cú bấm nút. Với phần lớn người ở các nước phát triển, đời sống dễ dàng và sung túc tới mức người xưa khó tin. Thế nhưng dưới bề mặt có một cảm giác dai dẳng rằng có điều gì đó không ổn.
 
-Các xã hội phương Tây đặc biệt chìm trong một nỗi lo âu sâu xa; chúng là "các nhà nước bất an" (nervous states, cụm từ của William Davies theo chú thích của sách), bốc đồng và hay chia rẽ. Nỗi bất an này một phần là hậu quả của các cú sốc đã qua (nhiều cuộc khủng hoảng tài chính, đại dịch, bạo lực từ vụ 11/9 tới chiến tranh Ukraine), một phần là tác động của các sức ép dài hạn và ngày càng lớn (niềm tin của công chúng giảm, bất bình đẳng tăng, khí hậu nóng lên). Bước vào làn sóng sắp tới, nhiều quốc gia bị một loạt thách thức lớn làm suy giảm hiệu quả, khiến chúng yếu hơn, chia rẽ hơn, dễ ra quyết định chậm và sai hơn. Làn sóng sẽ đổ xuống một môi trường dễ cháy, kém năng lực và căng thẳng quá mức, khiến việc khống chế, tức kiểm soát và định hướng công nghệ để nó đem lại lợi ích ròng cho nhân loại, càng khó khăn hơn.
+Các xã hội phương Tây đặc biệt chìm trong một nỗi lo âu sâu xa; chúng là "các nhà nước bất an" (nervous states, cụm từ của William Davies theo chú thích của sách), bốc đồng và hay chia rẽ. Nỗi bất an này một phần là hậu quả của các cú sốc đã qua (nhiều cuộc khủng hoảng tài chính, đại dịch, bạo lực từ vụ 11/9 tới chiến tranh Ukraine), một phần là tác động của các sức ép dài hạn và ngày càng lớn (niềm tin của công chúng giảm, bất bình đẳng tăng, khí hậu nóng lên).
+
+Bước vào làn sóng sắp tới, nhiều quốc gia bị một loạt thách thức lớn làm suy giảm hiệu quả, khiến chúng yếu hơn, chia rẽ hơn, dễ ra quyết định chậm và sai hơn. Làn sóng sẽ đổ xuống một môi trường dễ cháy, kém năng lực và căng thẳng quá mức, khiến việc khống chế, tức kiểm soát và định hướng công nghệ để nó đem lại lợi ích ròng cho nhân loại, càng khó khăn hơn.
 
 #### 4a. Dân chủ được xây trên niềm tin (tên do người tổng hợp đặt, theo câu mở đầu đoạn "Democracies are built on trust", trang PDF 170)
 
@@ -354,7 +374,7 @@ Sự mất niềm tin lan sang cả các thể chế ngoài chính phủ: truy�
 
 | Chỉ số bất bình đẳng và nghèo đói ở Mỹ | Số liệu trong sách |
 |---|---|
-| Tỷ trọng thu nhập quốc gia của nhóm 1% giàu nhất, 1980–2021 | gần như tăng gấp đôi; sách ghi "hiện ở mức ngay dưới 50%" (xem khối Lưu ý: con số này có lẽ là của nhóm 10%) |
+| Tỷ trọng thu nhập quốc gia của nhóm 1% giàu nhất, 1980–2021 | gần như tăng gấp đôi; sách ghi "hiện ở mức ngay dưới 50%" (xem mục Lưu ý cuối chương: con số này có lẽ là của nhóm 10%) |
 | Số người sống trong nghèo đói | 40 triệu người |
 | Số người sống trong "điều kiện thế giới thứ ba" | hơn 5 triệu người, ngay trong nền kinh tế giàu nhất thế giới |
 
@@ -362,7 +382,9 @@ Của cải ngày càng tập trung vào một nhóm rất nhỏ. Các nguyên n
 
 Những xu hướng này đặc biệt đáng lo khi xét mối quan hệ dai dẳng giữa sự bất động xã hội, bất bình đẳng gia tăng và bạo lực chính trị. Dữ liệu từ hơn 100 nước cho thấy dịch chuyển xã hội của một nước càng thấp thì nước đó càng hay gặp biến động như bạo loạn, đình công, ám sát, phong trào cách mạng và nội chiến (chú thích của sách dẫn Christian Houle và cộng sự, "Social Mobility and Political Instability", 2017, và Carles Boix, 2008). Khi người ta thấy mình bị mắc kẹt, và thấy người khác chiếm phần thưởng một cách bất công, họ nổi giận.
 
-**Toàn cầu hóa chùn lại.** Cách đây không lâu, thế giới được cho là sẽ "phẳng": một địa hình không ma sát của thương mại dễ dàng và thịnh vượng tăng dần. Thực tế, khi thế kỷ 21 trôi đi, các cuộc khủng hoảng chuỗi cung ứng và cú sốc tài chính vẫn là đặc điểm không xóa được của nền kinh tế. Các nước nghiêng về chủ nghĩa dân tộc, một phần, đang quay lưng lại với lời hứa sáng sủa của thế kỷ 20 rằng kết nối nhiều hơn sẽ đẩy nhanh việc lan tỏa của cải và dân chủ. Đưa sản xuất về nước, an ninh quốc gia, chuỗi cung ứng bền vững, tự chủ: ngôn ngữ thương mại hôm nay lại là ngôn ngữ của biên giới, rào cản và thuế quan. Cùng lúc, lương thực, năng lượng, nguyên liệu và hàng hóa đủ loại đắt hơn. Về cơ bản, toàn bộ trật tự an ninh và kinh tế sau Thế chiến II đang chịu sức ép chưa từng có.
+**Toàn cầu hóa chùn lại.** Cách đây không lâu, thế giới được cho là sẽ "phẳng": một địa hình không ma sát của thương mại dễ dàng và thịnh vượng tăng dần. Thực tế, khi thế kỷ 21 trôi đi, các cuộc khủng hoảng chuỗi cung ứng và cú sốc tài chính vẫn là đặc điểm không xóa được của nền kinh tế. Các nước nghiêng về chủ nghĩa dân tộc, một phần, đang quay lưng lại với lời hứa sáng sủa của thế kỷ 20 rằng kết nối nhiều hơn sẽ đẩy nhanh việc lan tỏa của cải và dân chủ.
+
+Đưa sản xuất về nước, an ninh quốc gia, chuỗi cung ứng bền vững, tự chủ: ngôn ngữ thương mại hôm nay lại là ngôn ngữ của biên giới, rào cản và thuế quan. Cùng lúc, lương thực, năng lượng, nguyên liệu và hàng hóa đủ loại đắt hơn. Về cơ bản, toàn bộ trật tự an ninh và kinh tế sau Thế chiến II đang chịu sức ép chưa từng có.
 
 Các thách thức toàn cầu đang chạm ngưỡng nguy hiểm: lạm phát phi mã, thiếu năng lượng, thu nhập đình trệ, niềm tin đổ vỡ, các làn sóng dân túy. Không tầm nhìn cũ nào của cả cánh tả lẫn cánh hữu có vẻ đưa ra câu trả lời thuyết phục, nhưng lựa chọn tốt hơn cũng hiếm. Suleyman nói cần một người rất can đảm, hoặc có lẽ ảo tưởng, mới dám nói rằng mọi việc đều ổn, rằng không có các lực dân túy, giận dữ và rối loạn nghiêm trọng đang hoành hành khắp các xã hội, dù mức sống cao nhất mà thế giới từng biết. (Chú thích của sách ghi rằng ý tưởng về sự suy tàn của nhà nước dân tộc không mới, ví dụ bài "The Demise of the Nation State" của Rana Dasgupta trên báo *Guardian* năm 2018.)
 
@@ -374,9 +396,15 @@ Các thách thức toàn cầu đang chạm ngưỡng nguy hiểm: lạm phát p
 
 Mọi làn sóng công nghệ trước đây đều có hệ quả chính trị sâu sắc, và tương lai cũng sẽ như vậy. Làn sóng gần nhất (máy tính lớn, máy tính để bàn và phần mềm, internet, điện thoại thông minh) đã đem lại lợi ích rất lớn cho xã hội: đặt nền công cụ cho nền kinh tế hiện đại, thúc tăng trưởng, thay đổi cách con người tiếp cận tri thức, giải trí và nhau. Giữa lúc mọi người than phiền về tác hại của mạng xã hội, rất dễ bỏ qua vô số mặt tích cực ấy. Nhưng trong thập niên qua ngày càng có đồng thuận rằng các công nghệ này còn làm một việc khác: tạo điều kiện để nuôi dưỡng và khuếch đại sự phân cực chính trị và sự mong manh của thể chế vốn có từ trước.
 
-Ai cũng biết các nền tảng mạng xã hội có thể kích thích phản ứng cảm xúc bản năng, những cú dâng adrenaline mà mối đe dọa (thật hay tưởng tượng) tạo ra rất hiệu quả. Mạng xã hội phát triển nhờ cảm xúc bị đẩy cao, và rất thường là nhờ sự phẫn nộ. Một phân tích tổng hợp xem xét kết quả của gần 500 nghiên cứu (Lorenz-Spreen và cộng sự, *Nature Human Behaviour*, 11/2022, theo chú thích của sách) kết luận có tương quan rõ giữa việc dùng truyền thông số ngày càng nhiều với sự gia tăng mất niềm tin chính trị, các phong trào dân túy, thù ghét và phân cực. Tương quan chưa chắc là nhân quả, nhưng tổng quan có hệ thống này đưa ra "bằng chứng rõ ràng về những mối đe dọa nghiêm trọng đối với dân chủ" từ các công nghệ mới.
+Ai cũng biết các nền tảng mạng xã hội có thể kích thích phản ứng cảm xúc bản năng, những cú dâng adrenaline mà mối đe dọa (thật hay tưởng tượng) tạo ra rất hiệu quả. Mạng xã hội phát triển nhờ cảm xúc bị đẩy cao, và rất thường là nhờ sự phẫn nộ.
 
-Công nghệ đã bào mòn những đường biên giới ổn định và có chủ quyền của các nhà nước dân tộc, tạo ra hoặc nuôi các dòng chảy vốn mang tính toàn cầu: con người, thông tin, ý tưởng, bí quyết, hàng thô, thành phẩm, vốn và của cải. Như Chương 8 đã cho thấy ([C08-nhung-dong-luc-khong-the-can.md](C08-nhung-dong-luc-khong-the-can.md)), công nghệ là một thành phần quan trọng của chiến lược địa chính trị. Nó chạm tới gần như mọi khía cạnh đời sống. Ngay cả trước khi làn sóng sắp tới ập vào, công nghệ đã là một động lực trên sân khấu thế giới, một nhân tố lớn làm sức khỏe của các nhà nước dân tộc xấu đi. Công nghệ hiện đại phát triển quá nhanh, quá toàn cầu, quá biến hóa và hấp dẫn để bất kỳ mô hình khống chế đơn giản nào áp dụng được; nó có tính chiến lược then chốt và hàng tỷ người phụ thuộc vào nó. Vì vậy bản thân công nghệ hiện đại là một chủ thể chính, một lực khổng lồ mà các nhà nước dân tộc vất vả mới quản lý được. AI, sinh học tổng hợp và các công nghệ khác đang được đưa vào những xã hội vốn đã rối loạn, đã bị các làn sóng công nghệ cực mạnh xô tới xô lui. Suleyman kết luận: đây không phải một thế giới sẵn sàng cho làn sóng sắp tới; đây là một thế giới đang oằn mình dưới sức ép hiện có.
+Một phân tích tổng hợp xem xét kết quả của gần 500 nghiên cứu (Lorenz-Spreen và cộng sự, *Nature Human Behaviour*, 11/2022, theo chú thích của sách) kết luận có tương quan rõ giữa việc dùng truyền thông số ngày càng nhiều với sự gia tăng mất niềm tin chính trị, các phong trào dân túy, thù ghét và phân cực. Tương quan chưa chắc là nhân quả, nhưng tổng quan có hệ thống này đưa ra "bằng chứng rõ ràng về những mối đe dọa nghiêm trọng đối với dân chủ" từ các công nghệ mới.
+
+Công nghệ đã bào mòn những đường biên giới ổn định và có chủ quyền của các nhà nước dân tộc, tạo ra hoặc nuôi các dòng chảy vốn mang tính toàn cầu: con người, thông tin, ý tưởng, bí quyết, hàng thô, thành phẩm, vốn và của cải.
+
+Như Chương 8 đã cho thấy ([C08-nhung-dong-luc-khong-the-can.md](C08-nhung-dong-luc-khong-the-can.md)), công nghệ là một thành phần quan trọng của chiến lược địa chính trị. Nó chạm tới gần như mọi khía cạnh đời sống. Ngay cả trước khi làn sóng sắp tới ập vào, công nghệ đã là một động lực trên sân khấu thế giới, một nhân tố lớn làm sức khỏe của các nhà nước dân tộc xấu đi. Công nghệ hiện đại phát triển quá nhanh, quá toàn cầu, quá biến hóa và hấp dẫn để bất kỳ mô hình khống chế đơn giản nào áp dụng được; nó có tính chiến lược then chốt và hàng tỷ người phụ thuộc vào nó.
+
+Vì vậy bản thân công nghệ hiện đại là một chủ thể chính, một lực khổng lồ mà các nhà nước dân tộc vất vả mới quản lý được. AI, sinh học tổng hợp và các công nghệ khác đang được đưa vào những xã hội vốn đã rối loạn, đã bị các làn sóng công nghệ cực mạnh xô tới xô lui. Suleyman kết luận: đây không phải một thế giới sẵn sàng cho làn sóng sắp tới; đây là một thế giới đang oằn mình dưới sức ép hiện có.
 
 #### 5b. Công nghệ không trung lập về giá trị (tên do người tổng hợp đặt, theo câu mở đầu đoạn "I've often heard it said", trang PDF 173–174)
 
@@ -386,7 +414,11 @@ Suleyman nói ông thường nghe người ta bảo công nghệ "trung lập v�
 
 Theo Suleyman, sự thật này bị đánh giá thấp nghiêm trọng, không chỉ bởi các nhà lãnh đạo mà cả bởi chính những người làm ra công nghệ. Đôi khi sự chính trị hóa tinh vi nhưng có mặt khắp nơi này gần như vô hình, dù lẽ ra không nên như vậy. Mạng xã hội chỉ là lời nhắc gần đây nhất rằng công nghệ và tổ chức chính trị không thể tách rời; nhà nước và công nghệ gắn bó mật thiết, và điều này có hệ quả quan trọng cho những gì sắp tới.
 
-Ông giữ khoảng cách với quyết định luận công nghệ thô sơ: công nghệ không đẩy con người theo một hướng định sẵn, nhưng nhận ra rằng nó có xu hướng tạo điều kiện cho một số năng lực, và làm một số kết quả dễ xảy ra hơn những kết quả khác, thì không phải là ngây thơ. Theo nghĩa đó, công nghệ là một trong những yếu tố quyết định lịch sử, nhưng không bao giờ đứng một mình và không bao giờ theo cách máy móc, đoán trước được. Nó không trực tiếp gây ra hành vi hay kết quả nhất định, nhưng những gì nó tạo ra định hướng hoặc giới hạn các khả năng. Theo chú thích của sách, ý này gần với Jenny L. Davis (*How Artifacts Afford*, 2020) và Ursula M. Franklin (*The Real World of Technology*, 1999): công nghệ mang tính "quy định" (prescriptive), tức việc tạo ra hay sử dụng nó đòi hỏi hoặc thúc đẩy những hành vi, cách phân công lao động hay kết quả nhất định. Người nông dân có máy kéo làm việc và sắp xếp nhu cầu khác với người nông dân có hai con bò và một cái cày; sự phân công lao động trong hệ thống nhà máy sinh ra tổ chức xã hội khác với xã hội săn bắt hái lượm, tức một văn hóa của sự tuân thủ và hành chính. Franklin viết: "Các khuôn mẫu đặt ra trong thực hành công nghệ trở thành một phần đời sống của xã hội."
+Ông giữ khoảng cách với quyết định luận công nghệ thô sơ: công nghệ không đẩy con người theo một hướng định sẵn, nhưng nhận ra rằng nó có xu hướng tạo điều kiện cho một số năng lực, và làm một số kết quả dễ xảy ra hơn những kết quả khác, thì không phải là ngây thơ. Theo nghĩa đó, công nghệ là một trong những yếu tố quyết định lịch sử, nhưng không bao giờ đứng một mình và không bao giờ theo cách máy móc, đoán trước được. Nó không trực tiếp gây ra hành vi hay kết quả nhất định, nhưng những gì nó tạo ra định hướng hoặc giới hạn các khả năng.
+
+Theo chú thích của sách, ý này gần với Jenny L. Davis (*How Artifacts Afford*, 2020) và Ursula M. Franklin (*The Real World of Technology*, 1999): công nghệ mang tính "quy định" (prescriptive), tức việc tạo ra hay sử dụng nó đòi hỏi hoặc thúc đẩy những hành vi, cách phân công lao động hay kết quả nhất định.
+
+Người nông dân có máy kéo làm việc và sắp xếp nhu cầu khác với người nông dân có hai con bò và một cái cày; sự phân công lao động trong hệ thống nhà máy sinh ra tổ chức xã hội khác với xã hội săn bắt hái lượm, tức một văn hóa của sự tuân thủ và hành chính. Franklin viết: "Các khuôn mẫu đặt ra trong thực hành công nghệ trở thành một phần đời sống của xã hội."
 
 #### 5c. Công nghệ và nhà nước cùng tiến hóa (tên do người tổng hợp đặt, trang PDF 174–175)
 
@@ -400,7 +432,9 @@ Chiến tranh, hòa bình, thương mại, trật tự chính trị và văn hó
 | Đài phát thanh, truyền hình | Tăng tốc quá trình trên, tạo những khoảnh khắc chung toàn quốc và cả quốc tế được trải nghiệm cùng lúc, như các buổi "nói chuyện bên lò sưởi" của Tổng thống Franklin D. Roosevelt hay World Cup |
 | Vũ khí, thuốc súng | Là công nghệ trung tâm của quyền lực nhà nước; thuốc súng phá vỡ thế phòng thủ của lâu đài Trung Cổ và dồn sức mạnh sát thương về tay nhà nước |
 
-Về vũ khí, các nhà lý thuyết về nhà nước thường cho rằng chính chiến tranh là nền móng tạo ra nhà nước; nhà khoa học chính trị Charles Tilly nói: "Chiến tranh tạo ra nhà nước, và nhà nước tạo ra chiến tranh." Ngược lại, xung đột luôn thúc đẩy công nghệ mới, từ xe ngựa chiến và áo giáp kim loại tới radar và các con chip tiên tiến dẫn đường cho đạn dược chính xác. Thuốc súng vào châu Âu ở thế kỷ 13 và phá vỡ khuôn mẫu cũ của các lâu đài phòng thủ thời Trung Cổ: các khu định cư có tường thành nay thành mục tiêu dễ dàng cho pháo kích. Đến Chiến tranh Trăm năm giữa Anh và Pháp, năng lực tấn công đem lợi thế cho bên nào đủ tiền mua, đúc, bảo dưỡng, di chuyển và triển khai những khẩu đại bác tốn nhiều vốn. Qua năm tháng, nhà nước tập trung ngày càng nhiều sức mạnh sát thương vào tay mình và tuyên bố độc quyền sử dụng vũ lực hợp pháp.
+Về vũ khí, các nhà lý thuyết về nhà nước thường cho rằng chính chiến tranh là nền móng tạo ra nhà nước; nhà khoa học chính trị Charles Tilly nói: "Chiến tranh tạo ra nhà nước, và nhà nước tạo ra chiến tranh." Ngược lại, xung đột luôn thúc đẩy công nghệ mới, từ xe ngựa chiến và áo giáp kim loại tới radar và các con chip tiên tiến dẫn đường cho đạn dược chính xác.
+
+Thuốc súng vào châu Âu ở thế kỷ 13 và phá vỡ khuôn mẫu cũ của các lâu đài phòng thủ thời Trung Cổ: các khu định cư có tường thành nay thành mục tiêu dễ dàng cho pháo kích. Đến Chiến tranh Trăm năm giữa Anh và Pháp, năng lực tấn công đem lợi thế cho bên nào đủ tiền mua, đúc, bảo dưỡng, di chuyển và triển khai những khẩu đại bác tốn nhiều vốn. Qua năm tháng, nhà nước tập trung ngày càng nhiều sức mạnh sát thương vào tay mình và tuyên bố độc quyền sử dụng vũ lực hợp pháp.
 
 Nói đơn giản, công nghệ và trật tự chính trị gắn bó mật thiết, và công nghệ mới có hệ quả chính trị lớn. Như đại bác và máy in đã đảo lộn xã hội, ta nên chờ đợi điều tương tự từ AI, robot và sinh học tổng hợp.
 
@@ -440,7 +474,9 @@ Theo chú thích của sách, nhà khoa học chính trị David Runciman ở Ca
 
 Đi theo hướng nào thì thế cân bằng tinh tế giữ nhà nước lại với nhau cũng bị đẩy vào hỗn loạn. Cả nhà nước thất bại lẫn chế độ độc tài đều là kết cục thảm họa, không chỉ tự thân mà còn đối với việc quản trị công nghệ: không ai muốn bộ máy quan liêu loạng choạng, kẻ cơ hội dân túy hay nhà độc tài toàn năng là người chịu trách nhiệm chính trong việc kiểm soát các công nghệ mới đầy sức mạnh. Không hướng nào có thể hoặc sẽ khống chế được làn sóng sắp tới.
 
-**Điều cần có.** Quản lý làn sóng sắp tới đòi hỏi những nhà nước tự tin, linh hoạt, nhất quán; chịu trách nhiệm trước người dân; giàu chuyên môn; biết cân bằng lợi ích và động lực; phản ứng nhanh và dứt khoát bằng hành động lập pháp; và, quan trọng nhất, phối hợp quốc tế chặt chẽ. Các nhà lãnh đạo sẽ phải có những hành động táo bạo chưa từng có tiền lệ, đánh đổi lợi ích ngắn hạn lấy lợi ích dài hạn. Đáp ứng hiệu quả một trong những sự kiện sâu rộng và có sức biến đổi nhất lịch sử đòi hỏi các chính phủ trưởng thành, ổn định, và trên hết là được tin tưởng, làm việc ở mức tốt nhất của mình: "những nhà nước vận hành thật, thật tốt". Đó là điều cần để làn sóng sắp tới đem lại những lợi ích lớn mà nó hứa hẹn, và Suleyman thừa nhận đây là một đòi hỏi cực kỳ cao.
+**Điều cần có.** Quản lý làn sóng sắp tới đòi hỏi những nhà nước tự tin, linh hoạt, nhất quán; chịu trách nhiệm trước người dân; giàu chuyên môn; biết cân bằng lợi ích và động lực; phản ứng nhanh và dứt khoát bằng hành động lập pháp; và, quan trọng nhất, phối hợp quốc tế chặt chẽ.
+
+Các nhà lãnh đạo sẽ phải có những hành động táo bạo chưa từng có tiền lệ, đánh đổi lợi ích ngắn hạn lấy lợi ích dài hạn. Đáp ứng hiệu quả một trong những sự kiện sâu rộng và có sức biến đổi nhất lịch sử đòi hỏi các chính phủ trưởng thành, ổn định, và trên hết là được tin tưởng, làm việc ở mức tốt nhất của mình: "những nhà nước vận hành thật, thật tốt". Đó là điều cần để làn sóng sắp tới đem lại những lợi ích lớn mà nó hứa hẹn, và Suleyman thừa nhận đây là một đòi hỏi cực kỳ cao.
 
 Chương kết bằng việc nhắc lại: trong vòng 20 năm, robot rẻ và có mặt khắp nơi cùng nhiều công nghệ biến đổi khác là không thể tránh khỏi, nên phải chờ đợi những thay đổi sâu sắc cho nền kinh tế, cho nhà nước dân tộc và mọi thứ gắn với chúng. Thỏa thuận lớn đã gặp rắc rối; khi trận lụt bắt đầu, một loạt tác nhân gây căng thẳng mới sẽ làm rung chuyển nền móng của nó. Đó là chủ đề của Chương 10 ([C10-cac-tac-nhan-khuech-dai-su-mong-manh.md](C10-cac-tac-nhan-khuech-dai-su-mong-manh.md)).
 
@@ -568,7 +604,7 @@ Suleyman chẩn đoán rằng nhà nước đang yếu, chậm, mất niềm tin
 
 ### Một số số liệu cần đọc thận trọng
 
-Con số "gần 50%" thu nhập của nhóm 1% giàu nhất có lẽ là nhầm với nhóm 10% (xem khối Lưu ý). Các số đo niềm tin của Pew đo niềm tin vào chính phủ liên bang chứ không vào cá nhân tổng thống. Lời văn gọi tạp chí là *Nature* trong khi nguồn là *Nature Human Behaviour*, và bản thân Suleyman thừa nhận nghiên cứu ấy chỉ cho thấy tương quan. Những sai sót này không làm đổi kết luận chung (niềm tin giảm, bất bình đẳng tăng), nhưng cho thấy phần số liệu xã hội của chương được viết nhanh hơn phần công nghệ (nhận xét của người tổng hợp).
+Con số "gần 50%" thu nhập của nhóm 1% giàu nhất có lẽ là nhầm với nhóm 10% (xem mục Lưu ý cuối chương). Các số đo niềm tin của Pew đo niềm tin vào chính phủ liên bang chứ không vào cá nhân tổng thống. Lời văn gọi tạp chí là *Nature* trong khi nguồn là *Nature Human Behaviour*, và bản thân Suleyman thừa nhận nghiên cứu ấy chỉ cho thấy tương quan. Những sai sót này không làm đổi kết luận chung (niềm tin giảm, bất bình đẳng tăng), nhưng cho thấy phần số liệu xã hội của chương được viết nhanh hơn phần công nghệ (nhận xét của người tổng hợp).
 
 ### Đối chiếu với thực tế tới năm 2026 (theo hiểu biết của người tổng hợp)
 
@@ -597,3 +633,178 @@ Con số "gần 50%" thu nhập của nhóm 1% giàu nhất có lẽ là nhầm 
 - **Công việc:** nếu làm trong lĩnh vực có quản lý nhà nước chặt (tài chính, y tế, viễn thông, giáo dục), hãy coi việc nhà nước còn chậm và thiếu chuyên môn về AI là một rủi ro vận hành chứ không phải khoảng trống để lợi dụng. Doanh nghiệp tự xây quy trình đánh giá rủi ro AI từ sớm sẽ ít bị động khi quy định đến muộn và đến dồn dập. Bài học Copenhagen cũng áp dụng cho dự án nội bộ: khi quá nhiều bên cùng tham gia mà không có cơ chế quyết định, kết cục là "bất đồng tối đa".
 - **Đầu tư:** chương cho một khung đọc rủi ro chính trị: niềm tin thấp, bất bình đẳng cao và dịch chuyển xã hội thấp đi kèm bất ổn chính trị (bạo loạn, đình công). Khi đánh giá một thị trường hay một ngành, nên xét các chỉ số này cùng với các chỉ số kinh tế. Xu hướng "ngôn ngữ của biên giới" (đưa sản xuất về nước, chuỗi cung ứng bền vững, thuế quan) cũng là một xu hướng đầu tư dài hạn chứ không phải biến động ngắn.
 - **Đời sống:** câu "công nghệ mang tính chính trị" là lời nhắc khi dùng mạng xã hội: các nền tảng sống nhờ cảm xúc mạnh và sự phẫn nộ, nên những gì làm ta giận nhất trên mạng là thứ cần kiểm tra kỹ nhất. Ở tầm công dân, niềm tin vào thể chế không phải điều có sẵn; tham gia bầu cử, góp ý chính sách và ủng hộ báo chí đáng tin là cách giữ cho vế "kiểm soát và cân bằng" của thỏa thuận lớn còn hoạt động.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 9 trên một trang: năm nhánh lớn đi theo các mục 1–5 của phần Nội dung chi tiết (lời hứa của nhà nước và thỏa thuận lớn hai vế, bài học từ Copenhagen và lập trường của Suleyman, những nhà nước mong manh với các số liệu về niềm tin, dân chủ, bất bình đẳng, công nghệ mang tính chính trị qua chữ viết, đồng hồ, máy in, thuốc súng, thí nghiệm robot và hai hướng đổ vỡ), mỗi nhánh ghi định nghĩa, ví dụ và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 9: thỏa thuận lớn giữa nhà nước và công dân đang rạn nứt, và công nghệ là động lực then chốt`"]
+  n1["`Mục 1–2 — Lời hứa của nhà nước: thỏa thuận lớn có hai vế`"]
+  n0 --- n1
+  n2["`Phần III (Chương 9–12) hỏi làn sóng sắp tới làm gì với nhà nước dân tộc`"]
+  n1 --- n2
+  n3["`Vế một: công dân trao độc quyền sử dụng bạo lực, nhà nước giữ hòa bình, trật tự, thịnh vượng`"]
+  n1 --- n3
+  n4["`Năm trăm năm tập trung quyền lực giải phóng tài năng hàng tỷ người để học, làm, phát minh, buôn bán`"]
+  n1 --- n4
+  n5["`Vế hai: chính quyền lực ấy bị khống chế bằng kiểm soát và cân bằng, tái phân phối, thể chế`"]
+  n1 --- n5
+  n6["`Thế cân bằng mong manh: tránh lạm quyền nhưng chấp nhận nhà nước can thiệp thường xuyên`"]
+  n1 --- n6
+  n7["`Bảng thuật ngữ: thỏa thuận gồm cả khai thác công nghệ mới mà giảm tác hại phụ của nó`"]
+  n1 --- n7
+  n8["`Wendy Brown: nhà nước dân tộc là một thứ hư cấu, nhưng là hư cấu cực kỳ hữu ích`"]
+  n1 --- n8
+  n9["`Nếu nhà nước không khống chế được làn sóng thì loài người còn lựa chọn nào trong trung và dài hạn?`"]
+  n1 --- n9
+  n10["`Mục 3 — Bài học từ Copenhagen: vì sao Suleyman làm công nghệ cùng với nhà nước`"]
+  n0 --- n10
+  n11["`Copenhagen 2009: hàng trăm tổ chức phi chính phủ không đồng thuận được, kể cả về khoa học`"]
+  n10 --- n11
+  n12["`Tranh cãi: góp 10 tỷ USD biến Amazon thành công viên, trồng rừng ở Na Uy hay nuôi tảo bẹ`"]
+  n11 --- n12
+  n13["`Kết luận: thể chế giải quyết vấn đề toàn cầu không phù hợp với mục đích, thời hạn quá gấp`"]
+  n10 --- n13
+  n14["`Tòa thị chính London 2005: trách nhiệm pháp lý đã rõ vẫn bị né tránh, trì hoãn, tô vẽ`"]
+  n10 --- n14
+  n15["`Facebook đạt hơn 100 triệu người dùng mỗi tháng trong vài năm khi nhà nước chậm như sông băng`"]
+  n10 --- n15
+  n16["`Chỉ công nghệ giải được vấn đề xã hội là ảo tưởng nguy hiểm, không cần công nghệ cũng sai`"]
+  n10 --- n16
+  n17["`AI và sinh học tổng hợp làm y tế tốt hơn và rẻ hơn, giúp năng lượng tái tạo, hỗ trợ giáo viên`"]
+  n10 --- n17
+  n18["`Nhận trách nhiệm: bức tranh u ám là thất bại của chính người làm công nghệ như ông`"]
+  n10 --- n18
+  n19["`Phải vượt qua né tránh bi quan: công nghệ vừa hỗ trợ vừa đe dọa thật sự thỏa thuận lớn`"]
+  n18 --- n19
+  n20["`Phản đối thiểu số giới công nghệ hoan nghênh nhà nước sụp đổ, vì gia đình gốc Syria của ông`"]
+  n10 --- n20
+  n21["`Không có giải pháp thần kỳ nào khác: trong trung hạn phải củng cố và bảo vệ nhà nước dân tộc`"]
+  n20 --- n21
+  n22["`Mục 4 — Những nhà nước mong manh: yếu sẵn trước khi làn sóng ập tới`"]
+  n0 --- n22
+  n23["`Đời sống tốt nhất lịch sử (biết chữ, tuổi thọ, bình đẳng giới) nhưng phương Tây là các nhà nước bất an`"]
+  n22 --- n23
+  n24["`Cú sốc đã qua (khủng hoảng tài chính, đại dịch, 11/9 tới Ukraine) cộng sức ép dài hạn`"]
+  n22 --- n24
+  n25["`Dân chủ được xây trên niềm tin, và niềm tin vào chính phủ đã sụp đổ`"]
+  n22 --- n25
+  n26["`Pew: người Mỹ tin chính quyền làm điều đúng từ trên 70% thời Eisenhower, Johnson xuống dưới 20%`"]
+  n25 --- n26
+  n27["`1 trên 5 người Mỹ cho rằng quân đội cai trị là ý hay, 85% thấy đất nước đi sai hướng`"]
+  n25 --- n27
+  n28["`27 nước đa số không hài lòng với dân chủ, hai phần ba ở 50 nước nói chính phủ hiếm khi vì lợi ích công`"]
+  n25 --- n28
+  n29["`Anh: 35% tin chính phủ quốc gia, dưới mức trung bình OECD 41%`"]
+  n25 --- n29
+  n30["`Từ 2010 số nước thụt lùi dân chủ nhiều hơn số nước tiến bộ, dân túy từ QAnon tới Brexit`"]
+  n22 --- n30
+  n31["`Mỹ 1980–2021: tỷ trọng thu nhập nhóm 1% gần gấp đôi, 40 triệu người sống trong nghèo đói`"]
+  n22 --- n31
+  n32["`Hơn 100 nước: dịch chuyển xã hội càng thấp thì bạo loạn, đình công, nội chiến càng nhiều`"]
+  n31 --- n32
+  n33["`Toàn cầu hóa chùn lại: ngôn ngữ thương mại quay về biên giới, rào cản, thuế quan`"]
+  n22 --- n33
+  n34["`Làn sóng sẽ đổ xuống một môi trường dễ cháy, kém năng lực, khiến khống chế càng khó`"]
+  n22 --- n34
+  n35["`Mục 5a–5c — Công nghệ mang tính chính trị và cùng tiến hóa với nhà nước`"]
+  n0 --- n35
+  n36["`Làn sóng trước (internet, điện thoại thông minh) nuôi phân cực, mạng xã hội sống nhờ phẫn nộ`"]
+  n35 --- n36
+  n37["`Gần 500 nghiên cứu: truyền thông số tương quan với mất niềm tin, dân túy, phân cực`"]
+  n36 --- n37
+  n38["`Công nghệ bào mòn biên giới chủ quyền và là một chủ thể mà nhà nước khó quản lý`"]
+  n35 --- n38
+  n39["`Đây không phải thế giới sẵn sàng cho làn sóng, mà thế giới đang oằn mình dưới sức ép hiện có`"]
+  n38 --- n39
+  n40["`Langdon Winner: cấu trúc công nghệ đi vào cấu trúc ý thức, xã hội và chính trị`"]
+  n35 --- n40
+  n41["`Không theo quyết định luận thô sơ: công nghệ mở ra hoặc giới hạn các khả năng`"]
+  n35 --- n41
+  n42["`Franklin: nông dân có máy kéo tổ chức công việc khác nông dân có hai con bò và một cái cày`"]
+  n41 --- n42
+  n43["`Chữ viết ra đời để ghi nợ, thừa kế, luật, thuế, hợp đồng`"]
+  n35 --- n43
+  n44["`Đồng hồ tạo giờ giấc chung, từ tu viện tới cả quốc gia`"]
+  n35 --- n44
+  n45["`Máy in chuẩn hóa ngôn ngữ, tạo cộng đồng tưởng tượng của dân tộc (Benedict Anderson)`"]
+  n35 --- n45
+  n46["`Phát thanh, truyền hình tạo khoảnh khắc chung: nói chuyện bên lò sưởi của Roosevelt, World Cup`"]
+  n35 --- n46
+  n47["`Thuốc súng thế kỷ 13 phá thế lâu đài, đại bác tốn vốn dồn sức mạnh sát thương về nhà nước`"]
+  n35 --- n47
+  n48["`Charles Tilly: chiến tranh tạo ra nhà nước, và nhà nước tạo ra chiến tranh`"]
+  n47 --- n48
+  n49["`Mục 5d–5e — Robot rẻ như lò vi sóng và hai hướng đổ vỡ của nhà nước`"]
+  n0 --- n49
+  n50["`Thí nghiệm tưởng tượng: robot khéo như người, ra lệnh bằng tiếng Anh thường, giá ngang lò vi sóng`"]
+  n49 --- n50
+  n51["`Ai chăm mẹ già, ai hái quả, cảnh sát xử lý bắt con tin ra sao, ai sở hữu và kiểm soát robot?`"]
+  n50 --- n51
+  n52["`Suleyman: robot như vậy hoàn toàn không thể tránh khỏi trong vòng 20 năm`"]
+  n50 --- n52
+  n53["`Nhà nước dân chủ tự do công nghiệp hóa lo an ninh, quyền lực có kiểm soát, phúc lợi, khung cho đổi mới`"]
+  n49 --- n53
+  n54["`Hướng 1, chính quyền xác sống: giữ hình thức dân chủ, dịch vụ công mỏng dần, lết đi vì không có gì thay thế`"]
+  n49 --- n54
+  n55["`Runciman: nền dân chủ xác sống, người dân chỉ vỗ tay hoặc không vỗ tay đúng lúc`"]
+  n54 --- n55
+  n56["`Hướng 2, Leviathan tăng lực: kiểm soát mạnh hơn cả các chế độ toàn trị cực đoan nhất lịch sử`"]
+  n49 --- n56
+  n57["`Chế độ độc tài có thể tăng gấp đôi cược, thành độc tài công nghệ hoàn chỉnh`"]
+  n56 --- n57
+  n58["`Cả hai hướng đều là thảm họa và đều không khống chế được làn sóng`"]
+  n49 --- n58
+  n59["`Cần nhà nước tự tin, linh hoạt, chịu trách nhiệm, giàu chuyên môn, phối hợp quốc tế chặt chẽ`"]
+  n49 --- n59
+  n60["`Thông điệp xuyên suốt`"]
+  n0 --- n60
+  n61["`Công nghệ vừa là công cụ hỗ trợ vừa là mối đe dọa thật sự đối với thỏa thuận lớn`"]
+  n60 --- n61
+  n62["`Cần những nhà nước vận hành thật, thật tốt, và đó là một đòi hỏi cực kỳ cao`"]
+  n60 --- n62
+  n63["`Chương 13 sẽ gọi khống chế là việc viết một kiểu thỏa thuận lớn mới`"]
+  n60 --- n63
+  class n0 root
+  class n1,n10,n22,n35,n49,n60 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n33,n34,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n46,n47,n48,n50,n51,n52,n53,n54,n55,n56,n57,n58,n59,n61,n62,n63 leaf
+```
+
+## Nguồn
+
+Mustafa Suleyman với Michael Bhaskar, *The Coming Wave: Technology, Power, and the Twenty-First Century's Greatest Dilemma* (Crown, Penguin Random House, 2023), bản ebook tiếng Anh, trang mở Phần III "States of Failure" (trang PDF 163) và Chương 9 "The Grand Bargain", trang PDF 164–177; chú thích cuối sách của chương ở trang PDF 361–365.
+
+## Tác giả
+
+Mustafa Suleyman là đồng sáng lập DeepMind và Inflection AI, từng làm phó chủ tịch phụ trách quản lý sản phẩm AI và chính sách AI ở Google (theo hiểu biết của người tổng hợp; chi tiết này không có trong phần chữ của sách mà người tổng hợp đối chiếu); Michael Bhaskar là nhà văn, nhà xuất bản ở Anh, cùng viết cuốn sách.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phần I (Chương 2–3: [C02-lan-rong-bat-tan.md](C02-lan-rong-bat-tan.md), [C03-bai-toan-khong-che.md](C03-bai-toan-khong-che.md)) cho thấy công nghệ có xu hướng lan rộng và rất khó khống chế. Phần II (Chương 4–8) mô tả làn sóng sắp tới: AI ([C04-cong-nghe-cua-tri-tue.md](C04-cong-nghe-cua-tri-tue.md)), sinh học tổng hợp ([C05-cong-nghe-cua-su-song.md](C05-cong-nghe-cua-su-song.md)), các công nghệ đi kèm ([C06-lan-song-rong-hon.md](C06-lan-song-rong-hon.md)), bốn đặc điểm của làn sóng ([C07-bon-dac-diem-cua-lan-song.md](C07-bon-dac-diem-cua-lan-song.md)) và các động lực khiến không ai dừng được nó (Chương 8, liền trước: [C08-nhung-dong-luc-khong-the-can.md](C08-nhung-dong-luc-khong-the-can.md)).
+
+Chương 9 mở Phần III và chuyển câu hỏi từ "công nghệ là gì" sang "công nghệ làm gì với nhà nước". Chương này là chương dẫn: nó định nghĩa thỏa thuận lớn giữa nhà nước và công dân, cho thấy các nhà nước đã yếu sẵn trước khi làn sóng ập tới, khẳng định công nghệ mang tính chính trị, và báo trước hai hướng đổ vỡ.
+
+Chương 10 (liền sau: [C10-cac-tac-nhan-khuech-dai-su-mong-manh.md](C10-cac-tac-nhan-khuech-dai-su-mong-manh.md)) liệt kê các tác nhân khuếch đại sự mong manh; Chương 11 ([C11-tuong-lai-cua-cac-quoc-gia.md](C11-tuong-lai-cua-cac-quoc-gia.md)) phân tích hai hướng tập trung quyền lực và phân mảnh quyền lực; Chương 12 ([C12-the-luong-nan.md](C12-the-luong-nan.md)) đưa ra thế lưỡng nan giữa thảm họa và chế độ chuyên chế. Chương 13 ([C13-khong-che-phai-kha-thi.md](C13-khong-che-phai-kha-thi.md)) quay lại khái niệm của chương này và gọi khống chế là việc "viết một kiểu thỏa thuận lớn mới"; bước 6 "Governments" trong Chương 14 ([C14-muoi-buoc-tien-toi-khong-che.md](C14-muoi-buoc-tien-toi-khong-che.md)) là câu trả lời cho việc làm sao để nhà nước đủ mạnh.
+
+## Lưu ý
+
+- **"States of Failure" là chơi chữ (nhận xét của người tổng hợp).** "State" vừa là "trạng thái" vừa là "nhà nước", nên tên Phần III vừa nghĩa là "những trạng thái thất bại" vừa gợi "những nhà nước thất bại". Bản tổng hợp dịch là "Những nhà nước thất bại" vì nội dung của phần này xoay quanh nhà nước.
+- **Con số về thu nhập của nhóm 1% giàu nhất có lẽ bị nhầm.** Sách viết rằng từ 1980 đến 2021, tỷ trọng thu nhập quốc gia của nhóm 1% giàu nhất ở Mỹ "gần như tăng gấp đôi và hiện ở mức ngay dưới 50%". Theo hiểu biết của người tổng hợp về World Inequality Database (nguồn mà chú thích của sách dẫn), tỷ trọng thu nhập trước thuế của nhóm 1% ở Mỹ tăng từ khoảng 10–11% lên khoảng 19–21%, tức đúng là gần gấp đôi; con số "gần 50%" khớp với nhóm 10% giàu nhất chứ không phải nhóm 1%.
+- **Một câu so sánh bị mất khỏi lời văn (lời văn ở trang PDF 171, chú thích ở trang PDF 363).** Chú thích gắn với câu "Wealth is ever more concentrated in a tiny clique" dẫn danh sách tỷ phú của Forbes năm 2023 và viết rằng "dù GDP là dòng chảy chứ không phải trữ lượng như của cải, phép so sánh vẫn gây ấn tượng". Nhưng lời văn không có phép so sánh nào giữa của cải tỷ phú và GDP. Có lẽ câu so sánh đã bị cắt trong khâu biên tập mà chú thích còn giữ lại.
+- **Tên tạp chí (trang PDF 173).** Lời văn nói phân tích tổng hợp "đăng trên tạp chí *Nature*", nhưng chú thích ghi đúng là *Nature Human Behaviour* (Lorenz-Spreen và cộng sự, 11/2022), một tạp chí thuộc nhóm Nature.
+- **Số liệu của Pew đo niềm tin vào chính phủ liên bang, không đo riêng từng tổng thống** (theo hiểu biết của người tổng hợp). Sách viết như thể người Mỹ tin các "chính quyền tổng thống" Eisenhower và Johnson; chuỗi số liệu của Pew (1958–2022) hỏi người dân có tin "chính phủ ở Washington" làm điều đúng hay không. Ý chính của sách (niềm tin sụp từ trên 70% xuống dưới 20%) không đổi.
+- **"Chiến tranh Trăm năm giữa Anh (Britain) và Pháp"** (trang PDF 175): theo hiểu biết của người tổng hợp, chiến tranh này (1337–1453) là giữa Vương quốc England và Pháp; "Britain" như một nhà nước chỉ ra đời năm 1707.
+- **Nguồn của số liệu nghèo đói.** Chú thích dẫn báo cáo của Cục Điều tra dân số Mỹ về năm 2016 và một tài liệu trong thư viện số Liên Hợp Quốc. Theo hiểu biết của người tổng hợp, cụm "điều kiện thế giới thứ ba" và con số hơn 5 triệu người đến từ báo cáo năm 2017–2018 của Báo cáo viên đặc biệt Liên Hợp Quốc về nghèo cùng cực Philip Alston sau chuyến khảo sát nước Mỹ.
+- **Chú thích bổ sung đáng chú ý:**
+  - sách phân biệt "nation-state" (đất nước, người dân và chính phủ) với "state" (bộ máy cai trị và dịch vụ công trong đất nước đó), và dẫn Wendy Brown rằng nhà nước dân tộc là "một thứ hư cấu", nhưng là hư cấu cực kỳ hữu ích
+  - ở Anh chỉ 35% người dân tin chính phủ quốc gia, thấp hơn mức trung bình 41% của các nước OECD, và 49% nói không tin (khảo sát OECD 2021)
+  - khái niệm "chính quyền xác sống" gần với "nền dân chủ xác sống" của David Runciman.
+
+  Các ý này đã được đưa vào Nội dung chi tiết.
+- **Số liệu đã cũ so với năm 2026.** Các số đo niềm tin, dân chủ, bất bình đẳng trong chương là số liệu 2018–2022. Những thay đổi người tổng hợp biết được ghi ở mục "Đánh giá và phát hiện đáng chú ý".

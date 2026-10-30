@@ -1,23 +1,18 @@
 # Chương 7 — Bốn đặc điểm của làn sóng sắp tới (Four Features of the Coming Wave)
 
-**Nguồn:** Mustafa Suleyman với Michael Bhaskar, *The Coming Wave: Technology, Power, and the Twenty-First Century's Greatest Dilemma* (Crown, Penguin Random House, 2023), bản ebook tiếng Anh, Chapter 7 "Four Features of the Coming Wave", trang PDF 119–133 (thuộc Part II "The Next Wave"); chú thích cuối sách của chương ở trang PDF 343–348.
-**Tác giả:** Mustafa Suleyman là đồng sáng lập DeepMind và, lúc viết sách, đồng sáng lập kiêm CEO Inflection AI; Michael Bhaskar là nhà văn và nhà xuất bản, người cùng viết cuốn sách.
-**Vị trí trong lập luận của cả cuốn sách:** Part I (Chương 1–3: [C01-khong-the-khong-che.md](C01-khong-the-khong-che.md), [C02-lan-rong-bat-tan.md](C02-lan-rong-bat-tan.md), [C03-bai-toan-khong-che.md](C03-bai-toan-khong-che.md)) cho thấy mọi công nghệ đều lan rộng và loài người chưa bao giờ thật sự khống chế được công nghệ nào. Chương 4–6 của Part II mô tả nội dung của làn sóng sắp tới: trí tuệ nhân tạo ([C04-cong-nghe-cua-tri-tue.md](C04-cong-nghe-cua-tri-tue.md)), sinh học tổng hợp ([C05-cong-nghe-cua-su-song.md](C05-cong-nghe-cua-su-song.md)) và các công nghệ đi kèm như robot, điện toán lượng tử, năng lượng ([C06-lan-song-rong-hon.md](C06-lan-song-rong-hon.md)). Chương 7 rút ra bốn đặc điểm chung khiến làn sóng này khó khống chế hơn mọi làn sóng trước: bất đối xứng, siêu tiến hoá, đa dụng toàn diện và tự chủ. Chương 8 ([C08-nhung-dong-luc-khong-the-can.md](C08-nhung-dong-luc-khong-the-can.md)) trả lời câu hỏi mà Chương 7 để lại ở câu cuối: vì sao làn sóng có vẻ không thể tránh. Bốn đặc điểm này được dùng lại ở Part III khi bàn về các tác nhân khuếch đại sự mong manh ([C10-cac-tac-nhan-khuech-dai-su-mong-manh.md](C10-cac-tac-nhan-khuech-dai-su-mong-manh.md)) và thế lưỡng nan ([C12-the-luong-nan.md](C12-the-luong-nan.md)), và ở Part IV khi đề xuất mười bước khống chế ([C14-muoi-buoc-tien-toi-khong-che.md](C14-muoi-buoc-tien-toi-khong-che.md)).
-**Ý chính:** **Suleyman cho rằng làn sóng sắp tới có bốn đặc điểm nội tại cộng dồn vào nhau và đẩy bài toán khống chế lên một mức khó và nguy hiểm mới: bất đối xứng (asymmetry), siêu tiến hoá (hyper-evolution), đa dụng toàn diện (omni-use) và tự chủ (autonomy).** Chương mở bằng trận Kyiv tháng 2–3/2022: khoảng 30 lính Ukraine của nhóm Aerorozvidka dùng drone tự chế mang thuốc nổ chặn đứng một đoàn xe quân sự Nga dài khoảng 40 km; một tên lửa chính xác thông thường giá hàng trăm nghìn USD, còn vũ khí tương tự dựng từ drone dân dụng, phần mềm riêng và linh kiện in 3D chỉ tốn khoảng 15.000 USD. Bất đối xứng nghĩa là một chủ thể nhỏ có thể gây tác động khổng lồ (Mỹ và Israel bắn tên lửa Patriot giá 3 triệu USD để hạ drone giá vài trăm USD), và ngược lại một điểm hỏng trong hệ thống kết nối toàn cầu có thể lan ra khắp thế giới. Siêu tiến hoá nghĩa là tốc độ đổi mới của phần mềm đang lan sang thế giới vật chất (vật liệu mới, xe thiết kế bằng AI, sinh học tổng hợp); nếu định luật Moore còn đúng, mười năm nữa một đô la mua được lượng tính toán gấp 100 lần hôm nay. Đa dụng toàn diện nghĩa là cùng một công nghệ dùng được cho vô số mục đích: AI tìm ra kháng sinh halicin sau khi sàng lọc 100 triệu phân tử, nhưng khi đảo mục tiêu thì trong 6 giờ tìm ra hơn 40.000 phân tử độc ngang chất độc thần kinh Novichok; Gato của DeepMind làm được hơn 600 nhiệm vụ. Tự chủ là đặc điểm thật sự mới: công nghệ hành động mà không cần con người phê duyệt từng bước, hoạt động như hộp đen, và nếu tiến tới siêu trí tuệ thì loài người có thể rơi vào "bài toán khỉ đột" (gorilla problem) của Stuart Russell: bị chính thứ thông minh hơn mình khống chế.
+## Ý chính
 
-> **Lưu ý:**
-> - **"Omni-use" là thuật ngữ của Suleyman, dựa trên ý của Audrey Kurth Cronin.** Chú thích của sách ghi rằng muốn đọc thêm về thuật ngữ gần nghĩa "multi-use" (đa dụng) thì xem sách *Power to the People* của Cronin (2020). Suleyman chọn "omni-use" để nhấn mạnh mức độ tổng quát cực đoan, rộng hơn khái niệm lưỡng dụng (dual-use) quen thuộc.
-> - **"Nhiều triệu lần mạnh hơn máy tính cổ điển" (trang PDF 126) là cách nói phóng đại.** Chú thích dẫn một bài trên Medium (2021) về tuyên bố máy tính lượng tử của Google nhanh hơn siêu máy tính mạnh nhất "khoảng 158 triệu lần". Theo hiểu biết của người tổng hợp, các so sánh kiểu này chỉ áp dụng cho một bài toán lấy mẫu được chọn riêng để máy lượng tử có lợi thế; IBM và các nhóm nghiên cứu sau đó đã thu hẹp khoảng cách đáng kể bằng thuật toán cổ điển tốt hơn, và máy tính lượng tử không mạnh hơn máy tính cổ điển với các bài toán nói chung.
-> - **PlayStation 2 và giấy phép xuất khẩu (trang PDF 127).** Lời văn nói Bộ Quốc phòng Mỹ coi PS2 mạnh tới mức có thể giúp quân đội thù địch. Chú thích dẫn hai bài: PCMag (2020) và bài của Associated Press trên *Los Angeles Times* (17/4/2000) với tựa "PlayStation2 công nghệ cao của Sony sẽ cần giấy phép xuất khẩu quân sự". Theo hiểu biết của người tổng hợp, yêu cầu giấy phép xuất khẩu năm 2000 là quy định của chính phủ Nhật Bản đối với con chip của PS2, chứ không phải của Bộ Quốc phòng Mỹ; mối lo về việc máy chơi game bị dùng cho mục đích quân sự thì có ở cả hai phía.
-> - **Tổng hợp amoniac "trong Thế chiến I" (trang PDF 127).** Theo hiểu biết của người tổng hợp, quy trình Haber–Bosch được phát triển trong khoảng 1909–1913, trước Thế chiến I; trong chiến tranh, Đức dùng nó để sản xuất nguyên liệu thuốc nổ khi bị phong tỏa nguồn nitrat nhập khẩu. Ý của sách (cùng một quy trình vừa nuôi thế giới vừa phục vụ chiến tranh) vẫn đúng.
-> - **Thí nghiệm tìm chất độc (trang PDF 126).** Chú thích dẫn bài của Fabio Urbina và cộng sự, *Nature Machine Intelligence*, 3/2022. Theo hiểu biết của người tổng hợp, chất độc được dùng làm mốc chính trong bài là VX; sách chọn Novichok làm ví dụ cho "chất độc hoá học nguy hiểm nhất".
-> - **Thí nghiệm GPT-4 tự sao chép (trang PDF 130).** Chú thích dẫn báo cáo kỹ thuật GPT-4 của OpenAI (14/3/2023) cho kết luận "có lẽ" không tự hành động hay tự nhân bản được, và dẫn một tweet của Michal Kosinski làm ví dụ cho các thí nghiệm của người dùng. Theo hiểu biết của người tổng hợp, đó là một thí nghiệm không chính thức do một nhà nghiên cứu tự đăng lên mạng xã hội, không phải nghiên cứu được bình duyệt; cụm "chiếm quyền các máy khác" là cách diễn đạt mạnh hơn những gì thí nghiệm ấy cho thấy.
-> - **"AIs are already finding ways to improve their own algorithms" (trang PDF 131).** Chú thích dẫn AlphaTensor của DeepMind (10/2022), hệ thống tìm ra thuật toán nhân ma trận mới. Đây là AI tìm thuật toán mà máy tính dùng chung, chưa phải AI tự sửa thuật toán của chính nó; sách dùng ví dụ này như dấu hiệu sớm.
-> - **Tuổi thọ giảm ở một số bang của Mỹ (trang PDF 126).** Chú thích của sách tự bổ sung: các mức giảm này diễn ra sau một thời gian dài tuổi thọ tăng đáng kể.
-> - **Siêu trí tuệ "không thể khống chế theo định nghĩa" (trang PDF 132).** Chú thích dẫn cả bài của Manuel Alfonseca và cộng sự (*Journal of Artificial Intelligence Research*, 1/2021) lập luận rằng siêu trí tuệ không thể khống chế, dựa trên lý thuyết tính toán được, lẫn bài phản hồi của Jaime Sevilla và John Burden (Centre for the Study of Existential Risk, 2/2021) phản bác lập luận ấy. Lời văn chỉ nói "có lập luận mạnh"; chú thích cho thấy vấn đề còn tranh cãi.
-> - **Định luật Moore "gấp 100 lần trong mười năm" (trang PDF 124).** Chú thích dẫn sách *Exponential* của Azeem Azhar. Phép tính minh hoạ của người tổng hợp: tăng 100 lần trong 10 năm tương ứng với việc lượng tính toán mua được bằng một đô la nhân đôi khoảng mỗi 18 tháng (2 mũ 6,7 xấp xỉ 100); nếu chu kỳ nhân đôi là 2 năm thì mười năm chỉ được khoảng 32 lần. Theo hiểu biết của người tổng hợp, tốc độ thu nhỏ bóng bán dẫn đã chậm lại trong thập niên 2020, nhưng chi phí tính toán cho AI vẫn giảm nhanh nhờ chip chuyên dụng và cải tiến thuật toán.
-> - **Số liệu viện trợ cho Ukraine đã lỗi thời.** Con số gần 100 tỷ euro (trang PDF 120) lấy từ "Ukraine Support Tracker" của Kiel Institute for the World Economy, bản tháng 12/2022, chỉ tính các tháng đầu của chiến tranh. Theo hiểu biết của người tổng hợp, tổng viện trợ cho Ukraine tới năm 2025–2026 đã lớn hơn nhiều lần con số này.
-> - **Cách sách viết số tiền:** sách dùng USD cho giá drone, tên lửa và euro cho viện trợ; bản tổng hợp giữ nguyên đơn vị gốc.
+**Suleyman cho rằng làn sóng sắp tới có bốn đặc điểm nội tại cộng dồn vào nhau và đẩy bài toán khống chế lên một mức khó và nguy hiểm mới: bất đối xứng (asymmetry), siêu tiến hoá (hyper-evolution), đa dụng toàn diện (omni-use) và tự chủ (autonomy).**
+
+Chương mở bằng trận Kyiv tháng 2–3/2022: khoảng 30 lính Ukraine của nhóm Aerorozvidka dùng drone tự chế mang thuốc nổ chặn đứng một đoàn xe quân sự Nga dài khoảng 40 km. Một tên lửa chính xác thông thường giá hàng trăm nghìn USD, còn vũ khí tương tự dựng từ drone dân dụng, phần mềm riêng và linh kiện in 3D chỉ tốn khoảng 15.000 USD.
+
+Bất đối xứng nghĩa là một chủ thể nhỏ có thể gây tác động khổng lồ (Mỹ và Israel bắn tên lửa Patriot giá 3 triệu USD để hạ drone giá vài trăm USD), và ngược lại một điểm hỏng trong hệ thống kết nối toàn cầu có thể lan ra khắp thế giới.
+
+Siêu tiến hoá nghĩa là tốc độ đổi mới của phần mềm đang lan sang thế giới vật chất (vật liệu mới, xe thiết kế bằng AI, sinh học tổng hợp). Nếu định luật Moore còn đúng, mười năm nữa một đô la mua được lượng tính toán gấp 100 lần hôm nay.
+
+Đa dụng toàn diện nghĩa là cùng một công nghệ dùng được cho vô số mục đích: AI tìm ra kháng sinh halicin sau khi sàng lọc 100 triệu phân tử, nhưng khi đảo mục tiêu thì trong 6 giờ tìm ra hơn 40.000 phân tử độc ngang chất độc thần kinh Novichok. Gato của DeepMind làm được hơn 600 nhiệm vụ.
+
+Tự chủ là đặc điểm thật sự mới: công nghệ hành động mà không cần con người phê duyệt từng bước, hoạt động như hộp đen, và nếu tiến tới siêu trí tuệ thì loài người có thể rơi vào "bài toán khỉ đột" (gorilla problem) của Stuart Russell: bị chính thứ thông minh hơn mình khống chế.
 
 ## Sơ đồ
 
@@ -415,7 +410,9 @@
 
 **Bối cảnh.** Ngay sau khi Nga tấn công Ukraine ngày 24/2/2022, người dân Kyiv hiểu rằng họ đang chiến đấu để sống còn. Trong nhiều tháng trước đó, Nga đã tập trung một lượng khổng lồ quân lính, xe bọc thép và khí tài ở bên kia biên giới với Belarus. Khi cuộc tấn công bắt đầu, mục tiêu chính của quân Nga ở giai đoạn này là chiếm thủ đô Kyiv và lật đổ chính phủ Ukraine. Trung tâm của lực lượng ấy là một đoàn xe tải, xe tăng và pháo hạng nặng dài khoảng 40 km, một cuộc tấn công trên bộ có quy mô chưa từng thấy ở châu Âu kể từ Thế chiến II. Trên giấy tờ, Ukraine hoàn toàn lép vế, và Kyiv tưởng như chỉ còn vài ngày, thậm chí vài giờ nữa là thất thủ.
 
-**Đơn vị drone nhỏ chặn đoàn xe.** Điều đó đã không xảy ra. Tối hôm ấy, một đơn vị khoảng 30 lính Ukraine đeo kính nhìn đêm, đi xe địa hình bốn bánh xuyên qua các khu rừng quanh thủ đô. Họ xuống xe gần đầu đoàn xe Nga và phóng những chiếc drone tự chế gắn thuốc nổ nhỏ. Các drone này phá hỏng một số xe dẫn đầu; những chiếc xe hỏng nằm chắn con đường chính, trong khi ruộng hai bên lầy lội không đi được. Gặp thời tiết giá rét và đường tiếp tế chập chờn, đoàn xe khựng lại. Sau đó, cũng đơn vị nhỏ này dùng cùng chiến thuật để cho nổ một căn cứ tiếp tế quan trọng, khiến quân Nga thiếu nhiên liệu và lương thực (chú thích của sách dẫn bài của Julian Borger trên *Guardian*, 28/3/2022, về những người lái drone đã chặn đoàn xe Nga).
+**Đơn vị drone nhỏ chặn đoàn xe.** Điều đó đã không xảy ra. Tối hôm ấy, một đơn vị khoảng 30 lính Ukraine đeo kính nhìn đêm, đi xe địa hình bốn bánh xuyên qua các khu rừng quanh thủ đô. Họ xuống xe gần đầu đoàn xe Nga và phóng những chiếc drone tự chế gắn thuốc nổ nhỏ. Các drone này phá hỏng một số xe dẫn đầu; những chiếc xe hỏng nằm chắn con đường chính, trong khi ruộng hai bên lầy lội không đi được. Gặp thời tiết giá rét và đường tiếp tế chập chờn, đoàn xe khựng lại.
+
+Sau đó, cũng đơn vị nhỏ này dùng cùng chiến thuật để cho nổ một căn cứ tiếp tế quan trọng, khiến quân Nga thiếu nhiên liệu và lương thực (chú thích của sách dẫn bài của Julian Borger trên *Guardian*, 28/3/2022, về những người lái drone đã chặn đoàn xe Nga).
 
 Từ đó trận Kyiv xoay chiều. Khối sức mạnh quân sự thông thường lớn nhất trong một thế hệ phải rút về Belarus trong cảnh hỗn loạn đáng xấu hổ. Lực lượng dân quân nửa tự phát này tên là **Aerorozvidka**: một nhóm tình nguyện viên lộn xộn gồm người chơi drone, kỹ sư phần mềm, tư vấn viên quản lý và binh lính. Họ là dân nghiệp dư, tự thiết kế, chế tạo và sửa drone ngay trong lúc chiến đấu, rất giống một start-up; nhiều thiết bị của họ có được nhờ huy động và quyên góp từ cộng đồng.
 
@@ -435,7 +432,9 @@ Từ đó trận Kyiv xoay chiều. Khối sức mạnh quân sự thông thư�
 
 (Chú thích của sách dẫn bài "AI Is Already Learning from Russia's War in Ukraine, DOD Says" của Patrick Tucker trên *Defense One*, 21/4/2022.)
 
-**Suleyman giữ chừng mực.** Ông nói rõ drone và AI chỉ đóng vai trò nhỏ nhưng quan trọng trong những ngày đầu: đó là những công nghệ mới có tiềm năng bất đối xứng rõ rệt, giúp thu hẹp một phần khoảng cách với một kẻ tấn công lớn hơn nhiều. Trong những tháng đầu, Mỹ, Anh và châu Âu viện trợ quân sự gần 100 tỷ euro, gồm một lượng rất lớn hỏa lực thông thường, và hỏa lực ấy chắc chắn có tác động quyết định (theo chú thích của sách, con số lấy từ "Ukraine Support Tracker" của Kiel Institute for the World Economy, tháng 12/2022). Dù vậy, đây vẫn là một cuộc chiến mang tính bước ngoặt, vì nó cho thấy một lực lượng tương đối ít được huấn luyện có thể tập hợp và tự trang bị nhanh thế nào bằng những công nghệ tương đối rẻ có sẵn trên thị trường tiêu dùng. Khi một công nghệ mang lại lợi thế về chi phí và chiến thuật như vậy, tất yếu nó sẽ lan rộng và được mọi phía sử dụng.
+**Suleyman giữ chừng mực.** Ông nói rõ drone và AI chỉ đóng vai trò nhỏ nhưng quan trọng trong những ngày đầu: đó là những công nghệ mới có tiềm năng bất đối xứng rõ rệt, giúp thu hẹp một phần khoảng cách với một kẻ tấn công lớn hơn nhiều. Trong những tháng đầu, Mỹ, Anh và châu Âu viện trợ quân sự gần 100 tỷ euro, gồm một lượng rất lớn hỏa lực thông thường, và hỏa lực ấy chắc chắn có tác động quyết định (theo chú thích của sách, con số lấy từ "Ukraine Support Tracker" của Kiel Institute for the World Economy, tháng 12/2022).
+
+Dù vậy, đây vẫn là một cuộc chiến mang tính bước ngoặt, vì nó cho thấy một lực lượng tương đối ít được huấn luyện có thể tập hợp và tự trang bị nhanh thế nào bằng những công nghệ tương đối rẻ có sẵn trên thị trường tiêu dùng. Khi một công nghệ mang lại lợi thế về chi phí và chiến thuật như vậy, tất yếu nó sẽ lan rộng và được mọi phía sử dụng.
 
 Drone cho thấy trước tương lai của chiến tranh. Chúng đã là thực tế hằng ngày của người lập kế hoạch và người chiến đấu. Câu hỏi thật sự là chiến tranh sẽ ra sao khi chi phí sản xuất giảm thêm một bậc độ lớn (khoảng 10 lần) và năng lực nhân lên nhiều lần. Quân đội và chính phủ thông thường đã chật vật để khống chế drone; những gì đến sau sẽ còn khó khống chế hơn nhiều.
 
@@ -495,11 +494,15 @@ AI tạo ra rủi ro bất đối xứng vượt xa một lô thực phẩm hỏ
 
 **Tốc độ và khống chế.** Muốn khống chế công nghệ, ta sẽ mong nó phát triển ở tốc độ kiểm soát được, để xã hội có thời gian và không gian hiểu và thích nghi. Ô tô lại là ví dụ tốt: chúng phát triển cực nhanh trong thế kỷ qua nhưng vẫn để đủ thời gian đưa ra đủ loại tiêu chuẩn an toàn. Luôn có độ trễ, nhưng tiêu chuẩn vẫn đuổi kịp. Với tốc độ thay đổi của làn sóng sắp tới, điều đó có vẻ khó xảy ra.
 
-**Internet và định luật Moore.** Trong 40 năm qua, internet trở thành một trong những nền tảng đổi mới phong phú nhất lịch sử. Thế giới được số hóa, và thế giới phi vật chất ấy tiến hoá với tốc độ chóng mặt: những dịch vụ được dùng nhiều nhất thế giới và những doanh nghiệp lớn nhất lịch sử mọc lên chỉ trong vài năm. Tất cả dựa trên sức mạnh tính toán tăng liên tục và chi phí tính toán giảm liên tục mà Chương 2 đã mô tả ([C02-lan-rong-bat-tan.md](C02-lan-rong-bat-tan.md)). Riêng định luật Moore, nếu còn đúng, sẽ khiến mười năm nữa một đô la mua được lượng tính toán gấp 100 lần hôm nay (theo chú thích của sách, con số lấy từ sách *Exponential* của Azeem Azhar). Chỉ riêng điều này đã gợi ý những kết quả phi thường.
+**Internet và định luật Moore.** Trong 40 năm qua, internet trở thành một trong những nền tảng đổi mới phong phú nhất lịch sử. Thế giới được số hóa, và thế giới phi vật chất ấy tiến hoá với tốc độ chóng mặt: những dịch vụ được dùng nhiều nhất thế giới và những doanh nghiệp lớn nhất lịch sử mọc lên chỉ trong vài năm. Tất cả dựa trên sức mạnh tính toán tăng liên tục và chi phí tính toán giảm liên tục mà Chương 2 đã mô tả ([C02-lan-rong-bat-tan.md](C02-lan-rong-bat-tan.md)).
+
+Riêng định luật Moore, nếu còn đúng, sẽ khiến mười năm nữa một đô la mua được lượng tính toán gấp 100 lần hôm nay (theo chú thích của sách, con số lấy từ sách *Exponential* của Azeem Azhar). Chỉ riêng điều này đã gợi ý những kết quả phi thường.
 
 **Mặt trái: trì trệ ngoài thế giới số.** Ngoài thế giới số, đổi mới thường kém ngoạn mục hơn. Ngày càng nhiều người tự hỏi điều gì đã xảy ra với kiểu đổi mới trên diện rộng từng thấy ở cuối thế kỷ 19 hay giữa thế kỷ 20, khi gần như mọi mặt của thế giới, từ giao thông, nhà máy, máy bay có động cơ tới vật liệu mới, thay đổi triệt để. Tới đầu thế kỷ 21, đổi mới đi theo con đường ít trở lực nhất, tập trung vào bit thay vì nguyên tử. (Theo chú thích của sách, đây là chủ đề của nhiều cuốn sách, trong đó có *Human Frontiers* của chính Michael Bhaskar (MIT Press, 2021), *The Great Stagnation* của Tyler Cowen (2011) và *The Rise and Fall of American Growth* của Robert Gordon (2017).)
 
-**Siêu tiến hoá lan sang thế giới vật chất.** Theo Suleyman, điều này đang thay đổi. Trong 40 năm tới, thế giới nguyên tử sẽ được chuyển thành bit với độ phức tạp và độ trung thực mới, và quan trọng hơn, thế giới bit sẽ được chuyển ngược thành nguyên tử hữu hình với tốc độ và sự dễ dàng mà gần đây còn khó tưởng tượng. Nói đơn giản, đổi mới trong "thế giới thực" có thể bắt đầu chạy ở tốc độ số, gần như theo thời gian thực, ít ma sát hơn và ít phụ thuộc hơn. Người ta có thể thử nghiệm trong những miền nhỏ, nhanh, dễ uốn nắn, tạo ra mô phỏng gần hoàn hảo, rồi chuyển chúng thành sản phẩm cụ thể; rồi làm lại, lặp đi lặp lại, học hỏi, tiến hoá và cải tiến với tốc độ mà thế giới nguyên tử đắt đỏ và tĩnh tại trước đây không cho phép.
+**Siêu tiến hoá lan sang thế giới vật chất.** Theo Suleyman, điều này đang thay đổi. Trong 40 năm tới, thế giới nguyên tử sẽ được chuyển thành bit với độ phức tạp và độ trung thực mới, và quan trọng hơn, thế giới bit sẽ được chuyển ngược thành nguyên tử hữu hình với tốc độ và sự dễ dàng mà gần đây còn khó tưởng tượng. Nói đơn giản, đổi mới trong "thế giới thực" có thể bắt đầu chạy ở tốc độ số, gần như theo thời gian thực, ít ma sát hơn và ít phụ thuộc hơn.
+
+Người ta có thể thử nghiệm trong những miền nhỏ, nhanh, dễ uốn nắn, tạo ra mô phỏng gần hoàn hảo, rồi chuyển chúng thành sản phẩm cụ thể; rồi làm lại, lặp đi lặp lại, học hỏi, tiến hoá và cải tiến với tốc độ mà thế giới nguyên tử đắt đỏ và tĩnh tại trước đây không cho phép.
 
 **Thông tin trong vật chất.** Nhà vật lý César Hidalgo (sách *Why Information Grows*, 2015, theo chú thích của sách) lập luận rằng cách sắp xếp vật chất có giá trị vì thông tin chứa trong đó. Một chiếc Ferrari quý không phải vì nguyên liệu thô mà vì thông tin phức tạp nằm trong cấu trúc và hình dáng tinh xảo của nó; thông tin mô tả cách các nguyên tử được sắp xếp mới làm nó thành chiếc xe đáng mơ ước. Nền tảng tính toán càng mạnh thì việc xử lý thông tin ấy càng khả thi. Kết hợp với AI và kỹ thuật sản xuất như robot tinh vi và in 3D, ta có thể thiết kế, điều chỉnh và chế tạo sản phẩm thật nhanh hơn, chính xác hơn và sáng tạo hơn.
 
@@ -507,9 +510,13 @@ AI tạo ra rủi ro bất đối xứng vượt xa một lô thực phẩm hỏ
 
 - **Vật liệu:** AI đã giúp tìm vật liệu và hợp chất hoá học mới (chú thích của sách dẫn bài "Machines Learn to Unearth New Materials" trên *Nature*, 6/2021). Các nhà khoa học đã dùng mạng nơ-ron để tạo ra những cấu hình mới của lithium, có ý nghĩa lớn với công nghệ pin (chú thích dẫn bài của Andrij Vasylenko và cộng sự trên *Nature Communications*, 9/2021).
 - **Ô tô in 3D:** AI đã giúp thiết kế và chế tạo một chiếc xe bằng máy in 3D (chú thích dẫn bài "Hypercar Created Using 3D Printing, AI, and Robotics" trên Engineering.com, 6/2021). Có lúc thành phẩm trông khác lạ hẳn mọi thứ con người thiết kế, giống những hình dáng uốn lượn và hiệu quả trong tự nhiên. Cách bố trí dây điện và ống dẫn được hòa vào khung xe một cách hữu cơ để tận dụng tối đa không gian. Các chi tiết phức tạp tới mức không làm được bằng dụng cụ thông thường mà phải in 3D.
-- **Công nghệ sinh học:** Chương 5 ([C05-cong-nghe-cua-su-song.md](C05-cong-nghe-cua-su-song.md)) đã cho thấy AlphaFold đang thúc đẩy công nghệ sinh học. Cho tới gần đây, công nghệ sinh học dựa vào vô số việc thủ công trong phòng thí nghiệm: đo, hút pipet, chuẩn bị mẫu cẩn thận. Nay mô phỏng đẩy nhanh việc tìm vắc-xin (chú thích dẫn bài "Could Computer Models Be the Key to Better COVID Vaccines?" trên *Nature*, 4/2022). Công cụ tính toán giúp tự động hóa một phần quy trình thiết kế, dựng lại các "mạch sinh học" để lập trình các chức năng phức tạp vào tế bào, chẳng hạn vi khuẩn sản xuất một loại protein nhất định. Các khung phần mềm như Cello gần như là ngôn ngữ mã nguồn mở cho thiết kế sinh học tổng hợp (chú thích dẫn bài "The Automatic-Design Tools That Are Changing Synthetic Biology" trên *Nature*, 12/2018). Những công cụ này có thể kết hợp với tiến bộ nhanh của robot và tự động hóa phòng thí nghiệm, và với các kỹ thuật sinh học nhanh hơn như tổng hợp DNA bằng enzyme đã nói ở Chương 5, để mở rộng phạm vi của sinh học tổng hợp và làm nó dễ tiếp cận hơn.
+- **Công nghệ sinh học:** Chương 5 ([C05-cong-nghe-cua-su-song.md](C05-cong-nghe-cua-su-song.md)) đã cho thấy AlphaFold đang thúc đẩy công nghệ sinh học. Cho tới gần đây, công nghệ sinh học dựa vào vô số việc thủ công trong phòng thí nghiệm: đo, hút pipet, chuẩn bị mẫu cẩn thận. Nay mô phỏng đẩy nhanh việc tìm vắc-xin (chú thích dẫn bài "Could Computer Models Be the Key to Better COVID Vaccines?" trên *Nature*, 4/2022).
 
-**Tiến hoá sinh học theo chu kỳ phần mềm.** Suleyman kết luận rằng tiến hoá sinh học đang chịu cùng chu kỳ như phần mềm. Cũng như mô hình hôm nay tạo ra ảnh chi tiết từ vài chữ, trong những thập kỷ tới các mô hình tương tự sẽ tạo ra một hợp chất mới, thậm chí cả một sinh vật, chỉ từ vài câu lệnh bằng ngôn ngữ tự nhiên. Thiết kế của hợp chất ấy có thể được cải tiến qua vô số lần tự thử, giống như AlphaZero trở thành cao thủ cờ vua và cờ vây nhờ tự chơi với chính nó. Công nghệ lượng tử, mà sách nói mạnh hơn máy tính cổ điển mạnh nhất nhiều triệu lần, có thể đưa quá trình này xuống cấp phân tử (theo chú thích của sách, con số dựa trên một bài trên Medium năm 2021 nói máy tính lượng tử của Google nhanh hơn siêu máy tính nhanh nhất thế giới khoảng 158 triệu lần).
+  Công cụ tính toán giúp tự động hóa một phần quy trình thiết kế, dựng lại các "mạch sinh học" để lập trình các chức năng phức tạp vào tế bào, chẳng hạn vi khuẩn sản xuất một loại protein nhất định. Các khung phần mềm như Cello gần như là ngôn ngữ mã nguồn mở cho thiết kế sinh học tổng hợp (chú thích dẫn bài "The Automatic-Design Tools That Are Changing Synthetic Biology" trên *Nature*, 12/2018). Những công cụ này có thể kết hợp với tiến bộ nhanh của robot và tự động hóa phòng thí nghiệm, và với các kỹ thuật sinh học nhanh hơn như tổng hợp DNA bằng enzyme đã nói ở Chương 5, để mở rộng phạm vi của sinh học tổng hợp và làm nó dễ tiếp cận hơn.
+
+**Tiến hoá sinh học theo chu kỳ phần mềm.** Suleyman kết luận rằng tiến hoá sinh học đang chịu cùng chu kỳ như phần mềm. Cũng như mô hình hôm nay tạo ra ảnh chi tiết từ vài chữ, trong những thập kỷ tới các mô hình tương tự sẽ tạo ra một hợp chất mới, thậm chí cả một sinh vật, chỉ từ vài câu lệnh bằng ngôn ngữ tự nhiên. Thiết kế của hợp chất ấy có thể được cải tiến qua vô số lần tự thử, giống như AlphaZero trở thành cao thủ cờ vua và cờ vây nhờ tự chơi với chính nó.
+
+Công nghệ lượng tử, mà sách nói mạnh hơn máy tính cổ điển mạnh nhất nhiều triệu lần, có thể đưa quá trình này xuống cấp phân tử (theo chú thích của sách, con số dựa trên một bài trên Medium năm 2021 nói máy tính lượng tử của Google nhanh hơn siêu máy tính nhanh nhất thế giới khoảng 158 triệu lần).
 
 Đó là điều Suleyman gọi là siêu tiến hoá: một nền tảng sáng tạo nhanh, lặp đi lặp lại. Quá trình tiến hoá này sẽ không giới hạn ở những lĩnh vực cụ thể, dự đoán được và dễ khống chế; nó sẽ có mặt ở mọi nơi.
 
@@ -546,9 +553,13 @@ Công nghệ lưỡng dụng vừa có ích vừa có thể phá hoại, vừa l
 
 **Mạnh chính vì tổng quát.** Công nghệ của làn sóng sắp tới rất mạnh chính vì chúng tổng quát về bản chất. Nếu bạn chế tạo đầu đạn hạt nhân, mục đích của nó hiển nhiên. Nhưng một hệ học sâu có thể được thiết kế để chơi game mà lại có khả năng lái cả một phi đội máy bay ném bom, và sự khác biệt ấy không hiển nhiên ngay từ đầu.
 
-**Từ lưỡng dụng sang đa dụng toàn diện.** Vì vậy Suleyman cho rằng thuật ngữ phù hợp hơn cho các công nghệ của làn sóng sắp tới là "omni-use" (đa dụng toàn diện), một khái niệm cố nắm bắt mức tổng quát và tính linh hoạt cực đoan của chúng (theo chú thích của sách, thuật ngữ gần nghĩa "multi-use" được bàn trong sách *Power to the People* của Cronin). Công nghệ đa dụng toàn diện như hơi nước hay điện có tác động xã hội và hiệu ứng lan tỏa rộng hơn công nghệ hẹp. Nếu AI đúng là "điện mới", thì giống điện, nó sẽ là một tiện ích theo yêu cầu, thấm vào và cấp năng lượng cho gần như mọi mặt đời sống thường ngày, xã hội và kinh tế: một công nghệ đa mục đích có mặt khắp nơi. Khống chế một thứ như vậy luôn khó hơn rất nhiều so với khống chế một công nghệ một nhiệm vụ, bị giới hạn, nằm trong một ngách nhỏ và có ít phụ thuộc.
+**Từ lưỡng dụng sang đa dụng toàn diện.** Vì vậy Suleyman cho rằng thuật ngữ phù hợp hơn cho các công nghệ của làn sóng sắp tới là "omni-use" (đa dụng toàn diện), một khái niệm cố nắm bắt mức tổng quát và tính linh hoạt cực đoan của chúng (theo chú thích của sách, thuật ngữ gần nghĩa "multi-use" được bàn trong sách *Power to the People* của Cronin). Công nghệ đa dụng toàn diện như hơi nước hay điện có tác động xã hội và hiệu ứng lan tỏa rộng hơn công nghệ hẹp.
 
-**AI đi từ hẹp sang tổng quát.** Hệ AI ban đầu dùng kỹ thuật tổng quát như học sâu cho mục đích cụ thể, như quản lý điện năng ở trung tâm dữ liệu hay chơi cờ vây. Điều đó đang thay đổi. Nay một hệ thống duy nhất như Gato, tác tử đa năng của DeepMind, làm tốt hơn 600 nhiệm vụ khác nhau (chú thích dẫn bài "A Generalist Agent" của Scott Reed và cộng sự, DeepMind, 11/2022). Cùng một mạng nơ-ron có thể chơi game Atari, viết chú thích cho ảnh, trả lời câu hỏi và xếp khối bằng một cánh tay robot thật. Gato được huấn luyện không chỉ bằng chữ mà còn bằng ảnh, mô-men xoắn tác động lên cánh tay robot, các lần bấm nút khi chơi game máy tính, v.v. Suleyman thừa nhận mọi thứ còn rất sớm và hệ thống thật sự tổng quát còn xa, nhưng tới lúc nào đó các năng lực này sẽ mở rộng ra hàng nghìn hoạt động.
+Nếu AI đúng là "điện mới", thì giống điện, nó sẽ là một tiện ích theo yêu cầu, thấm vào và cấp năng lượng cho gần như mọi mặt đời sống thường ngày, xã hội và kinh tế: một công nghệ đa mục đích có mặt khắp nơi. Khống chế một thứ như vậy luôn khó hơn rất nhiều so với khống chế một công nghệ một nhiệm vụ, bị giới hạn, nằm trong một ngách nhỏ và có ít phụ thuộc.
+
+**AI đi từ hẹp sang tổng quát.** Hệ AI ban đầu dùng kỹ thuật tổng quát như học sâu cho mục đích cụ thể, như quản lý điện năng ở trung tâm dữ liệu hay chơi cờ vây. Điều đó đang thay đổi. Nay một hệ thống duy nhất như Gato, tác tử đa năng của DeepMind, làm tốt hơn 600 nhiệm vụ khác nhau (chú thích dẫn bài "A Generalist Agent" của Scott Reed và cộng sự, DeepMind, 11/2022). Cùng một mạng nơ-ron có thể chơi game Atari, viết chú thích cho ảnh, trả lời câu hỏi và xếp khối bằng một cánh tay robot thật.
+
+Gato được huấn luyện không chỉ bằng chữ mà còn bằng ảnh, mô-men xoắn tác động lên cánh tay robot, các lần bấm nút khi chơi game máy tính, v.v. Suleyman thừa nhận mọi thứ còn rất sớm và hệ thống thật sự tổng quát còn xa, nhưng tới lúc nào đó các năng lực này sẽ mở rộng ra hàng nghìn hoạt động.
 
 **Sinh học tổng hợp qua lăng kính đa dụng toàn diện.** Kỹ thuật thiết kế sự sống là một kỹ thuật hoàn toàn tổng quát với công dụng gần như vô hạn: nó có thể tạo vật liệu xây dựng, chống bệnh tật và lưu trữ dữ liệu.
 
@@ -556,7 +567,9 @@ Công nghệ lưỡng dụng vừa có ích vừa có thể phá hoại, vừa l
 
 **Hệ quả an ninh.** Điều này có nghĩa là các công dụng biến thành vũ khí hoặc gây hại của làn sóng sắp tới sẽ khả thi dù có ai chủ định hay không. Chỉ riêng việc tạo ra công nghệ dân sự đã có hệ quả an ninh quốc gia. Dự đoán toàn bộ phổ công dụng của làn sóng đa dụng toàn diện nhất lịch sử khó hơn bao giờ hết.
 
-**Điểm mới của làn sóng này.** Việc một công nghệ mới được dùng cho nhiều mục đích không phải chuyện mới. Một công cụ đơn giản như con dao có thể thái hành hoặc giúp một kẻ điên giết người hàng loạt. Ngay cả công nghệ tưởng như chuyên biệt cũng lưỡng dụng: chiếc micro phục vụ cả các cuộc mít-tinh của Đức Quốc xã ở Nuremberg lẫn ban nhạc The Beatles. Điểm khác của làn sóng sắp tới là: nó được nhúng vào mọi thứ nhanh tới mức nào, lan ra toàn cầu tới mức nào, dễ tách thành các linh kiện thay thế được tới mức nào, và ứng dụng của nó mạnh và nhất là rộng tới mức nào. Nó kéo theo hệ quả phức tạp cho mọi thứ, từ truyền thông tới sức khỏe tâm thần, từ thị trường tới y học. Suleyman gọi đây là bài toán khống chế ở cỡ siêu lớn, vì ta đang nói về những thứ nền tảng như trí tuệ và sự sống. Và cả hai thứ ấy có một đặc tính còn thú vị hơn tính tổng quát của chúng, dẫn sang mục tiếp theo.
+**Điểm mới của làn sóng này.** Việc một công nghệ mới được dùng cho nhiều mục đích không phải chuyện mới. Một công cụ đơn giản như con dao có thể thái hành hoặc giúp một kẻ điên giết người hàng loạt. Ngay cả công nghệ tưởng như chuyên biệt cũng lưỡng dụng: chiếc micro phục vụ cả các cuộc mít-tinh của Đức Quốc xã ở Nuremberg lẫn ban nhạc The Beatles.
+
+Điểm khác của làn sóng sắp tới là: nó được nhúng vào mọi thứ nhanh tới mức nào, lan ra toàn cầu tới mức nào, dễ tách thành các linh kiện thay thế được tới mức nào, và ứng dụng của nó mạnh và nhất là rộng tới mức nào. Nó kéo theo hệ quả phức tạp cho mọi thứ, từ truyền thông tới sức khỏe tâm thần, từ thị trường tới y học. Suleyman gọi đây là bài toán khống chế ở cỡ siêu lớn, vì ta đang nói về những thứ nền tảng như trí tuệ và sự sống. Và cả hai thứ ấy có một đặc tính còn thú vị hơn tính tổng quát của chúng, dẫn sang mục tiếp theo.
 
 ### 6. Autonomy and Beyond: Will Humans Be in the Loop? — Tự chủ và xa hơn nữa: Con người có còn ở trong vòng lặp ra quyết định? (trang PDF 129–131)
 
@@ -577,13 +590,17 @@ Công nghệ xưa nay giúp ta làm được nhiều hơn, nhưng điều cốt 
 - AlphaGo và DQN tự chúng chưa phải hệ tự chủ, nhưng gợi ý một hệ tự cải tiến có thể trông thế nào.
 - Không ai lập trình tay để GPT-4 viết như Jane Austen, sáng tác một bài haiku độc đáo hay viết quảng cáo cho một trang web bán xe đạp. Đó là hiệu ứng trồi sinh của một kiến trúc rộng mà đầu ra không bao giờ được người thiết kế quyết định trước. Suleyman gọi đây là bậc đầu tiên trên nấc thang dẫn tới tự chủ ngày càng cao.
 
-**GPT-4 và "tia lửa của AGI".** Nghiên cứu nội bộ về GPT-4 kết luận rằng nó "có lẽ" không có khả năng tự hành động hay tự nhân bản (theo chú thích của sách, nguồn là báo cáo kỹ thuật GPT-4 của OpenAI, 14/3/2023). Nhưng chỉ vài ngày sau khi ra mắt, người dùng đã tìm ra cách khiến hệ thống xin tài liệu về chính nó và viết script để tự sao chép và chiếm quyền các máy khác (chú thích dẫn một tweet của Michal Kosinski làm ví dụ cho một trong những thí nghiệm sớm). Một nghiên cứu sớm thậm chí tuyên bố thấy "tia lửa của AGI" trong mô hình, nói rằng nó "gần đáng kinh ngạc với năng lực cấp con người" (chú thích dẫn bài "Sparks of Artificial General Intelligence: Early Experiments with GPT-4" của Sébastien Bubeck và cộng sự, arXiv, 27/3/2023). Theo Suleyman, những điều này nay đang dần hiện ra.
+**GPT-4 và "tia lửa của AGI".** Nghiên cứu nội bộ về GPT-4 kết luận rằng nó "có lẽ" không có khả năng tự hành động hay tự nhân bản (theo chú thích của sách, nguồn là báo cáo kỹ thuật GPT-4 của OpenAI, 14/3/2023). Nhưng chỉ vài ngày sau khi ra mắt, người dùng đã tìm ra cách khiến hệ thống xin tài liệu về chính nó và viết script để tự sao chép và chiếm quyền các máy khác (chú thích dẫn một tweet của Michal Kosinski làm ví dụ cho một trong những thí nghiệm sớm).
+
+Một nghiên cứu sớm thậm chí tuyên bố thấy "tia lửa của AGI" trong mô hình, nói rằng nó "gần đáng kinh ngạc với năng lực cấp con người" (chú thích dẫn bài "Sparks of Artificial General Intelligence: Early Experiments with GPT-4" của Sébastien Bubeck và cộng sự, arXiv, 27/3/2023). Theo Suleyman, những điều này nay đang dần hiện ra.
 
 **Tự chủ trong sinh học.** Các dạng tự chủ mới có thể gây ra những tác động mới, khó đoán. Dự đoán một bộ gen thiết kế riêng sẽ hoạt động thế nào là cực kỳ khó. Hơn nữa, một khi các nhà nghiên cứu thay đổi gen dòng mầm (germ-line, những thay đổi di truyền sang đời sau) của một loài, thay đổi ấy có thể tồn tại trong sinh vật sống có khi hàng thiên niên kỷ, vượt xa khả năng kiểm soát hay dự đoán, vang vọng qua vô số thế hệ. Chúng sẽ tiến hoá hay tương tác với các thay đổi khác thế nào ở khoảng cách thời gian ấy thì tất yếu không rõ, và nằm ngoài tầm kiểm soát. Sinh vật tổng hợp đúng nghĩa đen đang có đời sống riêng.
 
 **Vượt khỏi tầm hiểu biết.** Con người đối mặt một thách thức chưa từng có: liệu các phát minh mới có vượt khỏi tầm nắm bắt của ta? Trước đây người sáng tạo có thể giải thích vật mình làm ra hoạt động thế nào và vì sao, dù phải rất chi tiết. Điều đó ngày càng không còn đúng. Nhiều công nghệ và hệ thống trở nên phức tạp tới mức vượt khả năng hiểu thấu của bất kỳ cá nhân nào; điện toán lượng tử và các công nghệ khác vận hành gần giới hạn của những gì có thể biết.
 
-**Nghịch lý của làn sóng.** Suleyman nêu một nghịch lý: các công nghệ của làn sóng sắp tới phần lớn vượt khả năng hiểu ở mức chi tiết của ta, nhưng vẫn nằm trong khả năng tạo ra và sử dụng của ta. Trong AI, các mạng nơ-ron đang tiến tới tự chủ hiện chưa giải thích được. Không thể dẫn ai đó đi qua quá trình ra quyết định để giải thích chính xác vì sao thuật toán đưa ra một dự đoán cụ thể. Kỹ sư không thể mở nắp ra xem và dễ dàng giải thích nguyên nhân của một hiện tượng. GPT-4, AlphaGo và các hệ khác là hộp đen: đầu ra và quyết định của chúng dựa trên những chuỗi tín hiệu rất nhỏ, mờ đục và chằng chịt. Hệ tự chủ có thể và có lẽ sẽ giải thích được, nhưng việc phần lớn làn sóng sắp tới vận hành ở rìa của những gì ta hiểu được nên khiến ta phải dừng lại suy nghĩ. Ta sẽ không phải lúc nào cũng đoán được các hệ tự chủ sẽ làm gì tiếp theo; đó là bản chất của tự chủ.
+**Nghịch lý của làn sóng.** Suleyman nêu một nghịch lý: các công nghệ của làn sóng sắp tới phần lớn vượt khả năng hiểu ở mức chi tiết của ta, nhưng vẫn nằm trong khả năng tạo ra và sử dụng của ta. Trong AI, các mạng nơ-ron đang tiến tới tự chủ hiện chưa giải thích được. Không thể dẫn ai đó đi qua quá trình ra quyết định để giải thích chính xác vì sao thuật toán đưa ra một dự đoán cụ thể. Kỹ sư không thể mở nắp ra xem và dễ dàng giải thích nguyên nhân của một hiện tượng.
+
+GPT-4, AlphaGo và các hệ khác là hộp đen: đầu ra và quyết định của chúng dựa trên những chuỗi tín hiệu rất nhỏ, mờ đục và chằng chịt. Hệ tự chủ có thể và có lẽ sẽ giải thích được, nhưng việc phần lớn làn sóng sắp tới vận hành ở rìa của những gì ta hiểu được nên khiến ta phải dừng lại suy nghĩ. Ta sẽ không phải lúc nào cũng đoán được các hệ tự chủ sẽ làm gì tiếp theo; đó là bản chất của tự chủ.
 
 **Tự động hóa chính việc làm AI.** Ở mũi nhọn của lĩnh vực, một số nhà nghiên cứu AI muốn tự động hóa mọi khâu xây dựng hệ AI. Điều đó sẽ nuôi siêu tiến hoá, nhưng có thể kèm mức độc lập triệt để thông qua tự cải tiến. AI đã tìm ra cách cải tiến thuật toán của chính chúng (chú thích dẫn bài về AlphaTensor của Alhussein Fawzi và cộng sự, DeepMind, 10/2022, hệ thống tìm ra thuật toán nhân ma trận mới). Suleyman hỏi: điều gì xảy ra khi AI kết hợp khả năng này với hành động tự chủ trên web, như trong Phép thử Turing hiện đại và trí tuệ nhân tạo có năng lực (ACI) mô tả ở Chương 4, để tự chạy các chu trình nghiên cứu và phát triển (R&D) của riêng mình?
 
@@ -750,19 +767,29 @@ Công nghệ xưa nay giúp ta làm được nhiều hơn, nhưng điều cốt 
 
 ### Dự báo về drone và bất đối xứng đã được chiến tranh Ukraine xác nhận rõ hơn cả những gì sách viết
 
-Sách viết khi drone mới đóng "vai trò nhỏ nhưng quan trọng", và chính Suleyman nhấn mạnh hỏa lực thông thường mới có tác động quyết định. Theo hiểu biết của người tổng hợp, từ 2023 tới 2025, drone giá rẻ, đặc biệt là drone góc nhìn thứ nhất (FPV) giá vài trăm USD, trở thành một trong những vũ khí gây thương vong chính ở mặt trận Ukraine; Ukraine sản xuất drone ở quy mô hàng triệu chiếc mỗi năm; Nga cũng sản xuất hàng loạt drone tấn công tầm xa; hai bên chuyển sang drone điều khiển bằng cáp quang để tránh bị gây nhiễu và phát triển drone đánh chặn drone. Tháng 6/2025, Ukraine dùng drone giấu trong xe tải tấn công các sân bay chứa máy bay ném bom chiến lược ở sâu trong lãnh thổ Nga. Câu "công nghệ sẽ được mọi phía sử dụng" và hình ảnh "tên lửa đắt tiền bắn drone rẻ" đều đúng: các nước châu Âu năm 2025 đã phải đối mặt với chuyện dùng máy bay chiến đấu và tên lửa đắt tiền để hạ drone rẻ xâm nhập không phận (theo hiểu biết của người tổng hợp). Đây là phần dự báo đứng vững nhất của chương.
+Sách viết khi drone mới đóng "vai trò nhỏ nhưng quan trọng", và chính Suleyman nhấn mạnh hỏa lực thông thường mới có tác động quyết định. Theo hiểu biết của người tổng hợp, từ 2023 tới 2025, drone giá rẻ, đặc biệt là drone góc nhìn thứ nhất (FPV) giá vài trăm USD, trở thành một trong những vũ khí gây thương vong chính ở mặt trận Ukraine; Ukraine sản xuất drone ở quy mô hàng triệu chiếc mỗi năm; Nga cũng sản xuất hàng loạt drone tấn công tầm xa; hai bên chuyển sang drone điều khiển bằng cáp quang để tránh bị gây nhiễu và phát triển drone đánh chặn drone.
+
+Tháng 6/2025, Ukraine dùng drone giấu trong xe tải tấn công các sân bay chứa máy bay ném bom chiến lược ở sâu trong lãnh thổ Nga. Câu "công nghệ sẽ được mọi phía sử dụng" và hình ảnh "tên lửa đắt tiền bắn drone rẻ" đều đúng: các nước châu Âu năm 2025 đã phải đối mặt với chuyện dùng máy bay chiến đấu và tên lửa đắt tiền để hạ drone rẻ xâm nhập không phận (theo hiểu biết của người tổng hợp). Đây là phần dự báo đứng vững nhất của chương.
 
 ### Siêu tiến hoá: tốc độ của AI tới 2026 đúng như sách nói, còn sinh học và vật liệu thì chậm hơn lời văn gợi ý
 
-Theo hiểu biết của người tổng hợp: AI tiến rất nhanh sau GPT-4, với các mô hình suy luận (reasoning models) từ cuối 2024 và các tác tử AI tự làm việc nhiều bước từ 2025. Trong khoa học, giải Nobel Hoá học 2024 trao cho Demis Hassabis và John Jumper (cùng David Baker) vì AlphaFold và thiết kế protein bằng máy tính, cho thấy AI đã thật sự thúc đẩy sinh học. DeepMind công bố hàng triệu cấu trúc tinh thể dự đoán bằng AI (GNoME, cuối 2023), nhưng giới khoa học vật liệu tranh cãi về mức độ mới và hữu ích của chúng. Phần "tạo cả một sinh vật từ vài câu lệnh" vẫn là dự báo cho vài thập kỷ tới, như sách tự nói. Câu "máy tính lượng tử mạnh hơn nhiều triệu lần" nên đọc là phóng đại, vì các so sánh kiểu đó chỉ đúng với một bài toán lấy mẫu được chọn riêng cho máy lượng tử.
+Theo hiểu biết của người tổng hợp: AI tiến rất nhanh sau GPT-4, với các mô hình suy luận (reasoning models) từ cuối 2024 và các tác tử AI tự làm việc nhiều bước từ 2025.
+
+Trong khoa học, giải Nobel Hoá học 2024 trao cho Demis Hassabis và John Jumper (cùng David Baker) vì AlphaFold và thiết kế protein bằng máy tính, cho thấy AI đã thật sự thúc đẩy sinh học. DeepMind công bố hàng triệu cấu trúc tinh thể dự đoán bằng AI (GNoME, cuối 2023), nhưng giới khoa học vật liệu tranh cãi về mức độ mới và hữu ích của chúng. Phần "tạo cả một sinh vật từ vài câu lệnh" vẫn là dự báo cho vài thập kỷ tới, như sách tự nói. Câu "máy tính lượng tử mạnh hơn nhiều triệu lần" nên đọc là phóng đại, vì các so sánh kiểu đó chỉ đúng với một bài toán lấy mẫu được chọn riêng cho máy lượng tử.
 
 ### Đa dụng toàn diện: lo ngại về chất độc và vũ khí sinh học đã đi vào chính sách của các phòng thí nghiệm AI
 
-Thí nghiệm của Urbina và cộng sự mà sách kể trở thành một trong những ví dụ được trích nhiều nhất về AI lưỡng dụng. Theo hiểu biết của người tổng hợp, tới 2025 các phòng thí nghiệm AI lớn đã đưa việc đánh giá khả năng hỗ trợ chế tạo vũ khí sinh học, hoá học vào quy trình phát hành mô hình, và một số mô hình được phát hành kèm các biện pháp bảo vệ cấp cao hơn vì lý do này. Ngược lại, Gato, ví dụ chính của sách về AI tổng quát, không có phiên bản kế tiếp nổi bật; tính tổng quát thực tế đến từ các mô hình ngôn ngữ lớn (LLM) đa phương thức và các mô hình điều khiển robot dựa trên chúng. Về khám phá thuốc, Exscientia, công ty sách nêu tên, đã sáp nhập vào Recursion vào cuối 2024; một số thuốc do AI hỗ trợ thiết kế đã có kết quả thử nghiệm giai đoạn 2, nhưng tới 2026 phần lớn vẫn đang trong thử nghiệm lâm sàng (theo hiểu biết của người tổng hợp). Quy định AI của EU (AI Act, có hiệu lực từ 8/2024) loại trừ ứng dụng quân sự khỏi phạm vi điều chỉnh, một ví dụ cho thấy khó điều chỉnh công nghệ đa dụng toàn diện theo từng lĩnh vực (theo hiểu biết của người tổng hợp).
+Thí nghiệm của Urbina và cộng sự mà sách kể trở thành một trong những ví dụ được trích nhiều nhất về AI lưỡng dụng. Theo hiểu biết của người tổng hợp, tới 2025 các phòng thí nghiệm AI lớn đã đưa việc đánh giá khả năng hỗ trợ chế tạo vũ khí sinh học, hoá học vào quy trình phát hành mô hình, và một số mô hình được phát hành kèm các biện pháp bảo vệ cấp cao hơn vì lý do này.
+
+Ngược lại, Gato, ví dụ chính của sách về AI tổng quát, không có phiên bản kế tiếp nổi bật; tính tổng quát thực tế đến từ các mô hình ngôn ngữ lớn (LLM) đa phương thức và các mô hình điều khiển robot dựa trên chúng.
+
+Về khám phá thuốc, Exscientia, công ty sách nêu tên, đã sáp nhập vào Recursion vào cuối 2024; một số thuốc do AI hỗ trợ thiết kế đã có kết quả thử nghiệm giai đoạn 2, nhưng tới 2026 phần lớn vẫn đang trong thử nghiệm lâm sàng (theo hiểu biết của người tổng hợp). Quy định AI của EU (AI Act, có hiệu lực từ 8/2024) loại trừ ứng dụng quân sự khỏi phạm vi điều chỉnh, một ví dụ cho thấy khó điều chỉnh công nghệ đa dụng toàn diện theo từng lĩnh vực (theo hiểu biết của người tổng hợp).
 
 ### Tự chủ: hướng đi đúng, tốc độ nhanh hơn dự đoán ở phần mềm, chậm hơn ở xe tự lái
 
-Theo hiểu biết của người tổng hợp: năm 2025 là năm các tác tử AI (AI agents) trở nên phổ biến, như tác tử lập trình và tác tử điều khiển máy tính, đúng với mô hình "con người đặt mục tiêu cấp cao, máy tự tìm cách" mà sách mô tả. Các tổ chức đánh giá độc lập đo được độ dài nhiệm vụ mà AI tự hoàn thành tăng gấp đôi sau vài tháng. DeepMind công bố AlphaEvolve (2025), hệ thống dùng LLM để tìm thuật toán mới, trong đó có thuật toán giúp tăng tốc chính quá trình huấn luyện mô hình của Google: một bước gần hơn tới điều sách gọi là AI cải tiến thuật toán của chính mình. Xe tự lái thì đúng như sách nói: robotaxi không người lái đã chạy thương mại ở một số thành phố, nhưng ở mức tự chủ trong phạm vi giới hạn, chưa có xe mức 5. Về hộp đen, nghiên cứu khả năng diễn giải (interpretability) có tiến bộ nhưng chưa giải thích được đầy đủ các mô hình lớn.
+Theo hiểu biết của người tổng hợp: năm 2025 là năm các tác tử AI (AI agents) trở nên phổ biến, như tác tử lập trình và tác tử điều khiển máy tính, đúng với mô hình "con người đặt mục tiêu cấp cao, máy tự tìm cách" mà sách mô tả. Các tổ chức đánh giá độc lập đo được độ dài nhiệm vụ mà AI tự hoàn thành tăng gấp đôi sau vài tháng. DeepMind công bố AlphaEvolve (2025), hệ thống dùng LLM để tìm thuật toán mới, trong đó có thuật toán giúp tăng tốc chính quá trình huấn luyện mô hình của Google: một bước gần hơn tới điều sách gọi là AI cải tiến thuật toán của chính mình.
+
+Xe tự lái thì đúng như sách nói: robotaxi không người lái đã chạy thương mại ở một số thành phố, nhưng ở mức tự chủ trong phạm vi giới hạn, chưa có xe mức 5. Về hộp đen, nghiên cứu khả năng diễn giải (interpretability) có tiến bộ nhưng chưa giải thích được đầy đủ các mô hình lớn.
 
 ### Bản thân Suleyman và Inflection AI
 
@@ -795,3 +822,168 @@ Lúc viết sách Suleyman là CEO Inflection AI, công ty làm trợ lý Pi. Th
 - **Công việc:** dùng bốn câu hỏi của chương để đánh giá một công cụ AI trước khi đưa vào quy trình. (1) Bất đối xứng: một lỗi hay một người dùng xấu có thể gây thiệt hại tới mức nào, và có phải một điểm hỏng sẽ lan ra cả hệ thống không? (2) Siêu tiến hoá: công cụ thay đổi nhanh hơn quy trình kiểm tra nội bộ của mình không? (3) Đa dụng toàn diện: công cụ dùng cho việc A có thể bị dùng cho việc B mà mình không muốn không? (4) Tự chủ: ở bước nào bắt buộc giữ con người duyệt? Với các tác tử AI tự hành động, nên giới hạn quyền truy cập, ghi nhật ký mọi hành động và giữ người duyệt ở các bước không đảo ngược được (gợi ý của người tổng hợp).
 - **Đầu tư:** chương gợi ý ba hướng quan sát (nhận định của người tổng hợp, không phải khuyến nghị): (1) đổi mới chuyển từ bit sang nguyên tử, nên các lĩnh vực như vật liệu, công nghệ sinh học, robot, sản xuất bồi đắp có thể hưởng lợi từ AI; (2) bất đối xứng làm tăng nhu cầu về phòng thủ, như an ninh mạng, chống drone, an toàn sinh học; (3) rủi ro tập trung: một nhà cung cấp mô hình hay đám mây bị sự cố có thể ảnh hưởng tới rất nhiều công ty cùng lúc, nên cần xét mức phụ thuộc của doanh nghiệp vào một điểm hỏng. Đồng thời cần thận trọng với các tuyên bố phóng đại kiểu "nhiều triệu lần mạnh hơn" khi đánh giá công ty lượng tử hay AI.
 - **Đời sống:** nghịch lý hộp đen áp dụng cho người dùng thường: ta dùng hằng ngày những hệ thống mà không ai giải thích được từng quyết định của chúng. Với các quyết định quan trọng về sức khỏe, tiền bạc, pháp lý, nên dùng AI như một ý kiến cần kiểm chứng, không phải lời phán cuối cùng; và nên nhớ rằng công cụ có thể giúp mình cũng có thể bị kẻ lừa đảo dùng để nhắm vào mình, đúng nghĩa của đa dụng toàn diện.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 7 trên một trang: bảy nhánh lớn đi theo các mục 1–7 của phần Nội dung chi tiết (trận Kyiv và khung bốn đặc điểm, bất đối xứng, siêu tiến hoá, đa dụng toàn diện, tự chủ, bài toán khỉ đột), mỗi nhánh ghi luận điểm, ví dụ lịch sử và công nghệ cùng số liệu then chốt của tác giả; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 7: bốn đặc điểm cộng dồn (bất đối xứng, siêu tiến hoá, đa dụng toàn diện, tự chủ) đẩy khống chế lên mức khó và nguy hiểm mới`"]
+  n1["`Mục 1–2 — Trận Kyiv mở chương và khung bốn đặc điểm`"]
+  n0 --- n1
+  n2["`Khoảng 30 lính Aerorozvidka dùng drone tự chế chặn đoàn xe Nga dài khoảng 40 km, quân Nga rút về Belarus`"]
+  n1 --- n2
+  n3["`Aerorozvidka gồm người chơi drone, kỹ sư phần mềm, tư vấn viên, binh lính, vận hành như start-up`"]
+  n1 --- n3
+  n4["`Starlink giữ kết nối, nhóm Delta khoảng 1.000 lập trình viên dùng học máy nhận diện mục tiêu ngụy trang`"]
+  n1 --- n4
+  n5["`Tên lửa chính xác tốn hàng trăm nghìn USD, vũ khí tương tự từ drone dân dụng và in 3D khoảng 15.000 USD`"]
+  n1 --- n5
+  n6["`Suleyman thận trọng: gần 100 tỷ euro viện trợ hỏa lực thông thường mới quyết định, drone và AI chỉ đóng vai trò nhỏ`"]
+  n1 --- n6
+  n7["`Công nghệ mang lợi thế chi phí và chiến thuật sẽ tất yếu lan rộng và được mọi phía dùng`"]
+  n1 --- n7
+  n8["`Bốn đặc điểm nội tại định nghĩa làn sóng, gộp lại đẩy khống chế và kiểm soát lên mức khó khăn và nguy hiểm mới`"]
+  n1 --- n8
+  n9["`Mục 3 — Bất đối xứng: một cuộc chuyển giao quyền lực khổng lồ`"]
+  n0 --- n9
+  n10["`Lịch sử: đại bác phá lâu đài, máy in làm hàng nghìn truyền đơn, máy hơi nước làm việc của cả thị trấn`"]
+  n9 --- n10
+  n11["`Làn sóng mới làm năng lực mạnh trở nên rẻ, dễ tiếp cận, nhắm đích được, mở rộng quy mô được`"]
+  n9 --- n11
+  n12["`DJI Phantom giá 1.399 USD tốt tới mức quân đội Mỹ từng dùng`"]
+  n9 --- n12
+  n13["`Mỹ và Israel bắn tên lửa Patriot 3 triệu USD để hạ drone vài trăm USD, tỷ lệ khoảng 15.000 lần`"]
+  n9 --- n13
+  n14["`Quyền lực chuyển từ nhà nước, quân đội sang bất kỳ ai có năng lực và động cơ, kể cả điều khiển bầy hàng nghìn drone`"]
+  n9 --- n14
+  n15["`Mọi lĩnh vực: một thí nghiệm mầm bệnh có thể gây đại dịch, một máy tính lượng tử vô hiệu hóa hạ tầng mã hóa`"]
+  n9 --- n15
+  n16["`Chiều ngược lại: hệ thống kết nối toàn cầu là #quot;ác mộng của việc khống chế#quot;, một điểm hỏng lan khắp nơi`"]
+  n9 --- n16
+  n17["`Tai nạn ô tô xưa là sự kiện cục bộ, nay một hệ thống điều khiển mọi xe tự lái trong vùng làm một lỗi lan rộng`"]
+  n16 --- n17
+  n18["`Mục 4 — Siêu tiến hoá: tăng tốc không ngừng`"]
+  n0 --- n18
+  n19["`Khống chế cần công nghệ đi ở tốc độ xã hội theo kịp, tiêu chuẩn an toàn ô tô đi sau nhưng vẫn đuổi kịp`"]
+  n18 --- n19
+  n20["`Định luật Moore, nếu còn đúng: 10 năm nữa một đô la mua được lượng tính toán gấp 100 lần`"]
+  n18 --- n20
+  n21["`Đầu thế kỷ 21 đổi mới tập trung vào bit thay vì nguyên tử, thế giới vật chất trì trệ`"]
+  n18 --- n21
+  n22["`40 năm tới bit được chuyển ngược thành nguyên tử: mô phỏng, chế tạo, lặp lại ở tốc độ số`"]
+  n18 --- n22
+  n23["`César Hidalgo: chiếc Ferrari quý vì thông tin trong cách sắp xếp vật chất, không vì nguyên liệu thô`"]
+  n18 --- n23
+  n24["`Ví dụ: mạng nơ-ron tìm cấu hình lithium mới, AI thiết kế xe in 3D, Cello cho thiết kế sinh học tổng hợp`"]
+  n18 --- n24
+  n25["`Vài thập kỷ tới, vài câu lệnh ngôn ngữ tự nhiên có thể tạo hợp chất hay cả sinh vật mới, cải tiến bằng tự thử như AlphaZero`"]
+  n18 --- n25
+  n26["`Siêu tiến hoá có mặt ở mọi nơi, không giới hạn ở vài lĩnh vực dễ khống chế`"]
+  n18 --- n26
+  n27["`Mục 5 — Đa dụng toàn diện: càng nhiều càng tốt`"]
+  n0 --- n27
+  n28["`Y tế trì trệ: tìm thuốc khó và đắt, tuổi thọ chững lại, tiến bộ với Alzheimer không như kỳ vọng`"]
+  n27 --- n28
+  n29["`2020: AI sàng lọc 100 triệu phân tử, tìm ra halicin, kháng sinh đầu tiên do học máy tìm ra`"]
+  n27 --- n29
+  n30["`Tới lúc viết sách có 18 tài sản lâm sàng tạo ra nhờ AI (Exscientia, Sanofi)`"]
+  n27 --- n30
+  n31["`Đảo mục tiêu: trong 6 giờ AI tìm hơn 40.000 phân tử độc ngang Novichok`"]
+  n27 --- n31
+  n32["`Lưỡng dụng: amoniac vừa nuôi thế giới vừa làm thuốc nổ, GPS từ quân sự thành tiêu dùng`"]
+  n27 --- n32
+  n33["`Hầu hết công nghệ đều lưỡng dụng, công nghệ càng mạnh càng cần lo về số cách dùng`"]
+  n27 --- n33
+  n34["`Mạnh chính vì tổng quát: hệ học sâu thiết kế để chơi game có thể lái phi đội máy bay ném bom`"]
+  n27 --- n34
+  n35["`Omni-use như hơi nước, điện: nếu AI là #quot;điện mới#quot; nó thấm vào mọi mặt đời sống`"]
+  n27 --- n35
+  n36["`Gato của DeepMind làm hơn 600 nhiệm vụ: game Atari, chú thích ảnh, xếp khối bằng tay robot thật`"]
+  n27 --- n36
+  n37["`Chỉ riêng tạo công nghệ dân sự đã có hệ quả an ninh quốc gia, công dụng gây hại có dù không ai chủ định`"]
+  n27 --- n37
+  n38["`Khác con dao, micro: nhúng vào mọi thứ rất nhanh, lan toàn cầu, tách thành linh kiện, ứng dụng cực rộng`"]
+  n27 --- n38
+  n39["`Mục 6 — Tự chủ: con người có còn trong vòng lặp ra quyết định?`"]
+  n0 --- n39
+  n40["`Ba đặc điểm kia có ở mọi công nghệ, chỉ được phóng đại, còn tự chủ khác về chất: công cụ có thể #quot;sống dậy#quot;`"]
+  n39 --- n40
+  n41["`Hệ tự chủ tương tác với môi trường và hành động mà không cần con người phê duyệt ngay`"]
+  n39 --- n41
+  n42["`Xe tự lái xếp từ mức 0 tới mức 5, xe mức 5 chưa sớm có vì lý do pháp lý và bảo hiểm`"]
+  n39 --- n42
+  n43["`Mô hình mới: con người đặt mục tiêu cấp cao, máy tự tìm cách, giữ người trong vòng lặp nên có nhưng không bắt buộc`"]
+  n39 --- n43
+  n44["`Không ai bảo AlphaGo nước đi 37, không ai lập trình GPT-4 làm thơ haiku: hiệu ứng trồi sinh`"]
+  n39 --- n44
+  n45["`GPT-4 #quot;có lẽ#quot; không tự nhân bản, nhưng vài ngày sau ra mắt người dùng khiến nó viết script tự sao chép`"]
+  n39 --- n45
+  n46["`Sinh học: thay đổi gen dòng mầm có thể tồn tại hàng thiên niên kỷ, ngoài tầm kiểm soát`"]
+  n39 --- n46
+  n47["`Nghịch lý: ta tạo ra và dùng được những thứ không hiểu chi tiết, GPT-4 và AlphaGo là hộp đen`"]
+  n39 --- n47
+  n48["`AI đã tìm cách cải tiến thuật toán (AlphaTensor), kết hợp hành động tự chủ trên web thì tự chạy chu trình R#amp;D`"]
+  n39 --- n48
+  n49["`Mục 7 — Bài toán khỉ đột`"]
+  n0 --- n49
+  n50["`Suleyman thấy người ta quá chú ý AGI xa, nhưng AGI sẽ đặt ra bài toán khống chế vượt mọi thứ từng gặp`"]
+  n49 --- n50
+  n51["`Stuart Russell: khỉ đột khỏe hơn người nhưng bị khống chế, con người cơ bắp yếu nhưng não lớn là bên khống chế`"]
+  n49 --- n51
+  n52["`Tạo ra thứ thông minh hơn mình, loài người có thể rơi vào vị trí của khỉ đột`"]
+  n49 --- n52
+  n53["`Bùng nổ trí tuệ: AI tự cải tiến đệ quy ngày càng nhanh, là công nghệ không thể khống chế`"]
+  n49 --- n53
+  n54["`Không ai biết khi nào, có hay không AI vượt khỏi tầm tay, hay cách làm AI theo giá trị con người`"]
+  n49 --- n54
+  n55["`Ở dạng kịch tính nhất, Homo technologicus có thể không còn đứng đầu chuỗi thức ăn`"]
+  n49 --- n55
+  n56["`Thông điệp xuyên suốt`"]
+  n0 --- n56
+  n57["`Bốn đặc điểm cộng dồn: rẻ và mạnh, tiến nhanh hơn luật lệ, dùng được cho mọi việc, tự hành động`"]
+  n56 --- n57
+  n58["`Công cụ khống chế cũ nhắm vào công nghệ hẹp, chậm, ít chủ thể, luôn có người điều khiển sẽ không đủ`"]
+  n56 --- n58
+  n59["`Câu hỏi thật không phải làn sóng có đến không, mà vì sao khó thấy nó là gì khác ngoài tất yếu (Chương 8 trả lời)`"]
+  n56 --- n59
+  class n0 root
+  class n1,n9,n18,n27,n39,n49,n56 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n17,n19,n20,n21,n22,n23,n24,n25,n26,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n38,n40,n41,n42,n43,n44,n45,n46,n47,n48,n50,n51,n52,n53,n54,n55,n57,n58,n59 leaf
+```
+
+## Nguồn
+
+Mustafa Suleyman với Michael Bhaskar, *The Coming Wave: Technology, Power, and the Twenty-First Century's Greatest Dilemma* (Crown, Penguin Random House, 2023), bản ebook tiếng Anh, Chapter 7 "Four Features of the Coming Wave", trang PDF 119–133 (thuộc Part II "The Next Wave"); chú thích cuối sách của chương ở trang PDF 343–348.
+
+## Tác giả
+
+Mustafa Suleyman là đồng sáng lập DeepMind và, lúc viết sách, đồng sáng lập kiêm CEO Inflection AI; Michael Bhaskar là nhà văn và nhà xuất bản, người cùng viết cuốn sách.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Part I (Chương 1–3: [C01-khong-the-khong-che.md](C01-khong-the-khong-che.md), [C02-lan-rong-bat-tan.md](C02-lan-rong-bat-tan.md), [C03-bai-toan-khong-che.md](C03-bai-toan-khong-che.md)) cho thấy mọi công nghệ đều lan rộng và loài người chưa bao giờ thật sự khống chế được công nghệ nào. Chương 4–6 của Part II mô tả nội dung của làn sóng sắp tới: trí tuệ nhân tạo ([C04-cong-nghe-cua-tri-tue.md](C04-cong-nghe-cua-tri-tue.md)), sinh học tổng hợp ([C05-cong-nghe-cua-su-song.md](C05-cong-nghe-cua-su-song.md)) và các công nghệ đi kèm như robot, điện toán lượng tử, năng lượng ([C06-lan-song-rong-hon.md](C06-lan-song-rong-hon.md)).
+
+Chương 7 rút ra bốn đặc điểm chung khiến làn sóng này khó khống chế hơn mọi làn sóng trước: bất đối xứng, siêu tiến hoá, đa dụng toàn diện và tự chủ. Chương 8 ([C08-nhung-dong-luc-khong-the-can.md](C08-nhung-dong-luc-khong-the-can.md)) trả lời câu hỏi mà Chương 7 để lại ở câu cuối: vì sao làn sóng có vẻ không thể tránh.
+
+Bốn đặc điểm này được dùng lại ở Part III khi bàn về các tác nhân khuếch đại sự mong manh ([C10-cac-tac-nhan-khuech-dai-su-mong-manh.md](C10-cac-tac-nhan-khuech-dai-su-mong-manh.md)) và thế lưỡng nan ([C12-the-luong-nan.md](C12-the-luong-nan.md)), và ở Part IV khi đề xuất mười bước khống chế ([C14-muoi-buoc-tien-toi-khong-che.md](C14-muoi-buoc-tien-toi-khong-che.md)).
+
+## Lưu ý
+
+- **"Omni-use" là thuật ngữ của Suleyman, dựa trên ý của Audrey Kurth Cronin.** Chú thích của sách ghi rằng muốn đọc thêm về thuật ngữ gần nghĩa "multi-use" (đa dụng) thì xem sách *Power to the People* của Cronin (2020). Suleyman chọn "omni-use" để nhấn mạnh mức độ tổng quát cực đoan, rộng hơn khái niệm lưỡng dụng (dual-use) quen thuộc.
+- **"Nhiều triệu lần mạnh hơn máy tính cổ điển" (trang PDF 126) là cách nói phóng đại.** Chú thích dẫn một bài trên Medium (2021) về tuyên bố máy tính lượng tử của Google nhanh hơn siêu máy tính mạnh nhất "khoảng 158 triệu lần". Theo hiểu biết của người tổng hợp, các so sánh kiểu này chỉ áp dụng cho một bài toán lấy mẫu được chọn riêng để máy lượng tử có lợi thế; IBM và các nhóm nghiên cứu sau đó đã thu hẹp khoảng cách đáng kể bằng thuật toán cổ điển tốt hơn, và máy tính lượng tử không mạnh hơn máy tính cổ điển với các bài toán nói chung.
+- **PlayStation 2 và giấy phép xuất khẩu (trang PDF 127).** Lời văn nói Bộ Quốc phòng Mỹ coi PS2 mạnh tới mức có thể giúp quân đội thù địch. Chú thích dẫn hai bài: PCMag (2020) và bài của Associated Press trên *Los Angeles Times* (17/4/2000) với tựa "PlayStation2 công nghệ cao của Sony sẽ cần giấy phép xuất khẩu quân sự". Theo hiểu biết của người tổng hợp, yêu cầu giấy phép xuất khẩu năm 2000 là quy định của chính phủ Nhật Bản đối với con chip của PS2, chứ không phải của Bộ Quốc phòng Mỹ; mối lo về việc máy chơi game bị dùng cho mục đích quân sự thì có ở cả hai phía.
+- **Tổng hợp amoniac "trong Thế chiến I" (trang PDF 127).** Theo hiểu biết của người tổng hợp, quy trình Haber–Bosch được phát triển trong khoảng 1909–1913, trước Thế chiến I; trong chiến tranh, Đức dùng nó để sản xuất nguyên liệu thuốc nổ khi bị phong tỏa nguồn nitrat nhập khẩu. Ý của sách (cùng một quy trình vừa nuôi thế giới vừa phục vụ chiến tranh) vẫn đúng.
+- **Thí nghiệm tìm chất độc (trang PDF 126).** Chú thích dẫn bài của Fabio Urbina và cộng sự, *Nature Machine Intelligence*, 3/2022. Theo hiểu biết của người tổng hợp, chất độc được dùng làm mốc chính trong bài là VX; sách chọn Novichok làm ví dụ cho "chất độc hoá học nguy hiểm nhất".
+- **Thí nghiệm GPT-4 tự sao chép (trang PDF 130).** Chú thích dẫn báo cáo kỹ thuật GPT-4 của OpenAI (14/3/2023) cho kết luận "có lẽ" không tự hành động hay tự nhân bản được, và dẫn một tweet của Michal Kosinski làm ví dụ cho các thí nghiệm của người dùng. Theo hiểu biết của người tổng hợp, đó là một thí nghiệm không chính thức do một nhà nghiên cứu tự đăng lên mạng xã hội, không phải nghiên cứu được bình duyệt; cụm "chiếm quyền các máy khác" là cách diễn đạt mạnh hơn những gì thí nghiệm ấy cho thấy.
+- **"AIs are already finding ways to improve their own algorithms" (trang PDF 131).** Chú thích dẫn AlphaTensor của DeepMind (10/2022), hệ thống tìm ra thuật toán nhân ma trận mới. Đây là AI tìm thuật toán mà máy tính dùng chung, chưa phải AI tự sửa thuật toán của chính nó; sách dùng ví dụ này như dấu hiệu sớm.
+- **Tuổi thọ giảm ở một số bang của Mỹ (trang PDF 126).** Chú thích của sách tự bổ sung: các mức giảm này diễn ra sau một thời gian dài tuổi thọ tăng đáng kể.
+- **Siêu trí tuệ "không thể khống chế theo định nghĩa" (trang PDF 132).** Chú thích dẫn cả bài của Manuel Alfonseca và cộng sự (*Journal of Artificial Intelligence Research*, 1/2021) lập luận rằng siêu trí tuệ không thể khống chế, dựa trên lý thuyết tính toán được, lẫn bài phản hồi của Jaime Sevilla và John Burden (Centre for the Study of Existential Risk, 2/2021) phản bác lập luận ấy. Lời văn chỉ nói "có lập luận mạnh"; chú thích cho thấy vấn đề còn tranh cãi.
+- **Định luật Moore "gấp 100 lần trong mười năm" (trang PDF 124).** Chú thích dẫn sách *Exponential* của Azeem Azhar. Phép tính minh hoạ của người tổng hợp: tăng 100 lần trong 10 năm tương ứng với việc lượng tính toán mua được bằng một đô la nhân đôi khoảng mỗi 18 tháng (2 mũ 6,7 xấp xỉ 100); nếu chu kỳ nhân đôi là 2 năm thì mười năm chỉ được khoảng 32 lần. Theo hiểu biết của người tổng hợp, tốc độ thu nhỏ bóng bán dẫn đã chậm lại trong thập niên 2020, nhưng chi phí tính toán cho AI vẫn giảm nhanh nhờ chip chuyên dụng và cải tiến thuật toán.
+- **Số liệu viện trợ cho Ukraine đã lỗi thời.** Con số gần 100 tỷ euro (trang PDF 120) lấy từ "Ukraine Support Tracker" của Kiel Institute for the World Economy, bản tháng 12/2022, chỉ tính các tháng đầu của chiến tranh. Theo hiểu biết của người tổng hợp, tổng viện trợ cho Ukraine tới năm 2025–2026 đã lớn hơn nhiều lần con số này.
+- **Cách sách viết số tiền:** sách dùng USD cho giá drone, tên lửa và euro cho viện trợ; bản tổng hợp giữ nguyên đơn vị gốc.

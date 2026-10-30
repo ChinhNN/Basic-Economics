@@ -1,20 +1,18 @@
 # Chương 1 — Không thể khống chế (Containment Is Not Possible)
 
-**Nguồn:** Mustafa Suleyman với Michael Bhaskar, *The Coming Wave: Technology, Power, and the Twenty-First Century's Greatest Dilemma* (Crown, Penguin Random House, 2023), bản ebook tiếng Anh, Chapter 1 "Containment Is Not Possible", trang PDF 18–33 (trang PDF 18 chỉ có hai chữ "AI" tách ra từ tiêu đề, phần chữ chính trang PDF 19–33); chú thích cuối sách của chương ở trang PDF 311.
-**Tác giả:** Mustafa Suleyman, người đồng sáng lập DeepMind (2010) và sau đó Inflection AI, viết cùng Michael Bhaskar; ở chương này Suleyman kể bằng ngôi thứ nhất từ trải nghiệm của chính ông.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 1 là chương dẫn nhập, đứng ngay sau Bảng thuật ngữ và Lời mở đầu ([00-thuat-ngu-va-mo-dau.md](00-thuat-ngu-va-mo-dau.md)) và trước Phần I. Nó giới thiệu hình ảnh làn sóng, định nghĩa làn sóng sắp tới (AI và sinh học tổng hợp), nêu thế lưỡng nan, kể hai câu chuyện về bẫy né tránh bi quan, rồi đưa dàn ý bốn phần của sách. Phần I bắt đầu ở Chương 2 ([C02-lan-rong-bat-tan.md](C02-lan-rong-bat-tan.md)) về sự lan rộng của công nghệ qua lịch sử và Chương 3 ([C03-bai-toan-khong-che.md](C03-bai-toan-khong-che.md)) về bài toán khống chế. Phần II gồm AI ([C04-cong-nghe-cua-tri-tue.md](C04-cong-nghe-cua-tri-tue.md)), sinh học tổng hợp ([C05-cong-nghe-cua-su-song.md](C05-cong-nghe-cua-su-song.md)), các công nghệ đi kèm ([C06-lan-song-rong-hon.md](C06-lan-song-rong-hon.md)), bốn đặc điểm ([C07-bon-dac-diem-cua-lan-song.md](C07-bon-dac-diem-cua-lan-song.md)) và các động lực ([C08-nhung-dong-luc-khong-the-can.md](C08-nhung-dong-luc-khong-the-can.md)). Phần III bàn về nhà nước dân tộc ([C09-thoa-thuan-lon.md](C09-thoa-thuan-lon.md), [C10-cac-tac-nhan-khuech-dai-su-mong-manh.md](C10-cac-tac-nhan-khuech-dai-su-mong-manh.md), [C11-tuong-lai-cua-cac-quoc-gia.md](C11-tuong-lai-cua-cac-quoc-gia.md)) và thế lưỡng nan ([C12-the-luong-nan.md](C12-the-luong-nan.md)). Phần IV mở bằng Chương 13 có tên đối xứng với chương này, "Containment Must Be Possible" ([C13-khong-che-phai-kha-thi.md](C13-khong-che-phai-kha-thi.md)), và kết bằng mười bước ([C14-muoi-buoc-tien-toi-khong-che.md](C14-muoi-buoc-tien-toi-khong-che.md)).
-**Ý chính:** **Gần như mọi công nghệ nền tảng đều rẻ dần, dễ dùng dần và cuối cùng lan rộng khắp nơi; làn sóng sắp tới, gồm AI và sinh học tổng hợp, trao cho con người khả năng thiết kế lại chính hai nền móng của thế giới loài người là trí tuệ và sự sống, và từ chỗ ta đứng hôm nay, khống chế nó có vẻ không thể.** Suleyman kể việc ông lập DeepMind năm 2010 với mục tiêu tái tạo trí tuệ con người, và dự đoán AI có vẻ sẽ đạt mức con người ở rất nhiều nhiệm vụ "trong ba năm tới". Rủi ro đuôi (tấn công mạng nhờ AI, chiến tranh tự động, đại dịch do con người thiết kế) có xác suất nhỏ nhưng hậu quả rất lớn; phản ứng bằng giám sát toàn diện dẫn tới phản địa đàng, còn cấm đoán kiểu Luddite thì khó thực hiện và làm xã hội trì trệ, dễ sụp đổ. Đó là thế lưỡng nan, "siêu vấn đề" của thế kỷ 21. Hai câu chuyện (bài thuyết trình trước khoảng mười hai lãnh đạo công nghệ ở Bờ Tây nước Mỹ, và hội thảo ở một trường đại học về máy tổng hợp DNA giá vài chục nghìn USD, theo chú thích của sách khởi điểm 25.000 USD, khiến một người có thể "giết một tỷ người") minh họa bẫy né tránh bi quan. Chương kết bằng dàn ý bốn phần và câu: khống chế nhìn bề ngoài là không thể, nhưng vì tất cả chúng ta, khống chế *phải* khả thi.
+## Ý chính
 
-> **Lưu ý:**
-> - **Tiêu đề chương bị tách trong ebook.** Trang PDF 18 chỉ có hai chữ "AI" in đậm ở góc trên bên phải; trang PDF 19 in tiêu đề "CONT NMENT IS NOT POSSIBLE" với một khoảng trống đúng chỗ hai chữ "AI". Như vậy chữ "AI" trong "CONTAINMENT" đã bị đẩy sang một trang riêng khi chuyển thành PDF. Tiêu đề đúng là "Containment Is Not Possible", khớp với tiêu đề nhóm chú thích ở trang PDF 311. Có thể bản in đã cố ý làm nổi hai chữ "AI" nằm trong chữ "CONTAINMENT" (ví dụ in khác màu), nhưng ebook không cho xác nhận điều đó (nhận xét của người tổng hợp).
-> - **Chữ in hoa nhỏ bị mất trong lớp chữ trích ra** ở câu mở mỗi mục và sau mỗi dấu ngắt; đã đọc lại từ ảnh trang: "ALMOST EVERY CULTURE HAS A flood myth." (trang PDF 19), "LOOK AROUND YOU." (trang PDF 20), "IN 2010 ALMOST NO one was talking seriously about AI." (trang PDF 24), "THIS BOOK IS MY attempt to do that." (trang PDF 28), "THIS IS A BOOK about confronting failure." (trang PDF 33).
-> - **"the daily firehouse chatter around tech"** (trang PDF 28): theo hiểu biết của người tổng hợp, cụm quen dùng là "firehose" (vòi rồng, chỉ dòng thông tin ồ ạt); "firehouse" (trạm cứu hỏa) nhiều khả năng là lỗi chữ.
-> - **Dự đoán "trong ba năm tới" (trang PDF 23)** đã đến hạn vào khoảng 2026. Đánh giá chi tiết ở cuối file; tóm tắt (theo hiểu biết của người tổng hợp): AI đã đạt hoặc vượt mức con người ở nhiều bài kiểm tra kiến thức, lập trình, toán thi đấu, nhưng chưa đáng tin cậy ở mức con người với "rất nhiều" nhiệm vụ thực tế dài, nhiều bước.
-> - **"a founder of two AI companies"** (trang PDF 29): hai công ty là DeepMind và Inflection AI. Theo hiểu biết của người tổng hợp, DeepMind được Google mua năm 2014; tháng 3/2024 Suleyman cùng phần lớn đội ngũ Inflection chuyển sang Microsoft, nơi ông làm CEO của Microsoft AI. Sách viết trước các sự kiện năm 2024.
-> - **Chương chỉ có một chú thích cuối sách:** chú thích cho cụm "Costing a few tens of thousands" nêu ví dụ máy tổng hợp DNA và RNA Kilobaser, bán từ 25.000 USD. Chú thích không nêu năm của mức giá.
-> - **Người thuyết trình ở hội thảo về rủi ro công nghệ không được nêu tên**; sách chỉ nói đó là một giáo sư được kính trọng, hơn hai mươi năm kinh nghiệm, và dùng đại từ "they". Bản tổng hợp không đoán danh tính.
-> - **"the techlash"**: sách đặt chữ này trong ngoặc kép, ghép từ "tech" (công nghệ) và "backlash" (phản ứng dữ dội); dịch là "làn sóng phản đối công nghệ".
-> - **Chữ "dilemma"** ở chương này được dùng cả nghĩa chung ("the core dilemma", "the great dilemma") lẫn làm thuật ngữ; bản tổng hợp dịch thống nhất là "thế lưỡng nan".
+**Gần như mọi công nghệ nền tảng đều rẻ dần, dễ dùng dần và cuối cùng lan rộng khắp nơi; làn sóng sắp tới, gồm AI và sinh học tổng hợp, trao cho con người khả năng thiết kế lại chính hai nền móng của thế giới loài người là trí tuệ và sự sống, và từ chỗ ta đứng hôm nay, khống chế nó có vẻ không thể.**
+
+Suleyman kể việc ông lập DeepMind năm 2010 với mục tiêu tái tạo trí tuệ con người, và dự đoán AI có vẻ sẽ đạt mức con người ở rất nhiều nhiệm vụ "trong ba năm tới".
+
+Rủi ro đuôi (tấn công mạng nhờ AI, chiến tranh tự động, đại dịch do con người thiết kế) có xác suất nhỏ nhưng hậu quả rất lớn.
+
+Phản ứng bằng giám sát toàn diện dẫn tới phản địa đàng, còn cấm đoán kiểu Luddite thì khó thực hiện và làm xã hội trì trệ, dễ sụp đổ. Đó là thế lưỡng nan, "siêu vấn đề" của thế kỷ 21.
+
+Hai câu chuyện (bài thuyết trình trước khoảng mười hai lãnh đạo công nghệ ở Bờ Tây nước Mỹ, và hội thảo ở một trường đại học về máy tổng hợp DNA giá vài chục nghìn USD, theo chú thích của sách khởi điểm 25.000 USD, khiến một người có thể "giết một tỷ người") minh họa bẫy né tránh bi quan.
+
+Chương kết bằng dàn ý bốn phần và câu: khống chế nhìn bề ngoài là không thể, nhưng vì tất cả chúng ta, khống chế *phải* khả thi.
 
 ## Sơ đồ
 
@@ -416,13 +414,17 @@ Trong bản ebook, trang PDF 18 chỉ có hai chữ "AI" in đậm, còn trang P
 
 Làn sóng sắp tới được xác định bởi hai công nghệ lõi: trí tuệ nhân tạo và sinh học tổng hợp. Cùng nhau, chúng sẽ mở ra một bình minh mới cho nhân loại, tạo ra của cải và thặng dư chưa từng thấy. Nhưng sự lan rộng nhanh của chúng cũng đe dọa trao sức mạnh cho đủ loại chủ thể xấu, để họ gây ra rối loạn, bất ổn và thậm chí thảm họa ở quy mô không thể tưởng tượng. Làn sóng này tạo ra một thách thức khổng lồ sẽ định hình thế kỷ 21: tương lai của ta vừa phụ thuộc vào các công nghệ này vừa bị chúng đe dọa.
 
-**Luận đề.** Từ chỗ ta đứng hôm nay, khống chế làn sóng này, tức kiểm soát, kìm hãm, hay thậm chí dừng nó, có vẻ là không thể. Cuốn sách hỏi vì sao điều đó có thể đúng và nếu đúng thì nó có nghĩa là gì; câu trả lời sẽ ảnh hưởng tới mọi người đang sống và mọi thế hệ sau. Suleyman tin làn sóng này đang đưa lịch sử loài người tới một bước ngoặt. Nếu không thể khống chế nó, hậu quả cho loài người sẽ rất lớn, có thể rất tồi tệ; nhưng nếu không có thành quả của nó, ta cũng bị phơi ra và bấp bênh. Ông kể rằng mình đã nhiều lần đưa ra lập luận này trong các cuộc họp kín suốt thập niên qua, và nay khi tác động ngày càng không thể làm ngơ, đã đến lúc trình bày công khai.
+**Luận đề.** Từ chỗ ta đứng hôm nay, khống chế làn sóng này, tức kiểm soát, kìm hãm, hay thậm chí dừng nó, có vẻ là không thể. Cuốn sách hỏi vì sao điều đó có thể đúng và nếu đúng thì nó có nghĩa là gì; câu trả lời sẽ ảnh hưởng tới mọi người đang sống và mọi thế hệ sau.
+
+Suleyman tin làn sóng này đang đưa lịch sử loài người tới một bước ngoặt. Nếu không thể khống chế nó, hậu quả cho loài người sẽ rất lớn, có thể rất tồi tệ; nhưng nếu không có thành quả của nó, ta cũng bị phơi ra và bấp bênh. Ông kể rằng mình đã nhiều lần đưa ra lập luận này trong các cuộc họp kín suốt thập niên qua, và nay khi tác động ngày càng không thể làm ngơ, đã đến lúc trình bày công khai.
 
 ### 4. The Dilemma — Thế lưỡng nan: DeepMind và tốc độ của AI (trang PDF 22–23)
 
 **Câu hỏi ban đầu.** Suy ngẫm về sức mạnh của trí tuệ con người dẫn Suleyman tới một câu hỏi đơn giản mà theo ông đã chiếm trọn đời ông từ đó: nếu ta chưng cất được bản chất của điều khiến con người làm việc hiệu quả và có năng lực vào phần mềm, vào một thuật toán thì sao? Câu trả lời có thể mở ra những công cụ mạnh không tưởng để giải những vấn đề khó nhất, từ biến đổi khí hậu tới dân số già và lương thực bền vững.
 
-**Lập DeepMind.** Mùa hè năm 2010, trong một văn phòng kiểu thời Regency (đầu thế kỷ 19 ở Anh) nhìn ra quảng trường Russell Square ở London, Suleyman cùng hai người bạn là Demis Hassabis và Shane Legg đồng sáng lập DeepMind. Mục tiêu, mà nhìn lại ông vẫn thấy tham vọng, điên rồ và đầy hy vọng như lúc đó, là tái tạo chính thứ khiến loài người độc nhất: trí tuệ. Muốn vậy, họ phải tạo ra một hệ thống bắt chước rồi cuối cùng vượt mọi năng lực nhận thức của con người, từ thị giác và lời nói tới lập kế hoạch và tưởng tượng, rồi đến thấu cảm và sáng tạo. Vì hệ thống ấy sẽ hưởng lợi từ khả năng xử lý song song khổng lồ của siêu máy tính và từ nguồn dữ liệu mới bùng nổ trên web mở, họ biết rằng ngay cả tiến bộ khiêm tốn hướng tới mục tiêu cũng sẽ có tác động xã hội sâu sắc.
+**Lập DeepMind.** Mùa hè năm 2010, trong một văn phòng kiểu thời Regency (đầu thế kỷ 19 ở Anh) nhìn ra quảng trường Russell Square ở London, Suleyman cùng hai người bạn là Demis Hassabis và Shane Legg đồng sáng lập DeepMind. Mục tiêu, mà nhìn lại ông vẫn thấy tham vọng, điên rồ và đầy hy vọng như lúc đó, là tái tạo chính thứ khiến loài người độc nhất: trí tuệ.
+
+Muốn vậy, họ phải tạo ra một hệ thống bắt chước rồi cuối cùng vượt mọi năng lực nhận thức của con người, từ thị giác và lời nói tới lập kế hoạch và tưởng tượng, rồi đến thấu cảm và sáng tạo. Vì hệ thống ấy sẽ hưởng lợi từ khả năng xử lý song song khổng lồ của siêu máy tính và từ nguồn dữ liệu mới bùng nổ trên web mở, họ biết rằng ngay cả tiến bộ khiêm tốn hướng tới mục tiêu cũng sẽ có tác động xã hội sâu sắc.
 
 **Từ mơ mộng tới thực tế.** Thời đó, việc AI được dùng rộng rãi còn là chuyện mơ mộng, của một nhóm nhỏ học giả khép kín và những người mê khoa học viễn tưởng. Nhưng hơn một thập niên sau, tiến bộ của AI là đáng kinh ngạc. DeepMind trở thành một trong những công ty AI hàng đầu thế giới với một loạt đột phá. Tốc độ và sức mạnh của cuộc cách mạng này làm bất ngờ cả những người ở sát mũi nhọn của nó; trong lúc viết sách, mô hình và sản phẩm mới ra hằng tuần, có khi hằng ngày. Làn sóng rõ ràng đang tăng tốc. Suleyman liệt kê những gì AI làm được lúc viết sách:
 
@@ -437,7 +439,9 @@ Làn sóng sắp tới được xác định bởi hai công nghệ lõi: trí t
 
 **Dự đoán ba năm.** AI đã leo thang năng lực nhận thức suốt nhiều thập niên, và nay có vẻ sẽ đạt mức con người ở rất nhiều nhiệm vụ trong vòng ba năm tới. Suleyman thừa nhận đây là tuyên bố lớn, nhưng nếu ông chỉ gần đúng thôi thì hệ quả cũng rất sâu sắc. Điều từng có vẻ viển vông khi lập DeepMind giờ không chỉ hợp lý mà dường như không tránh được.
 
-**Cuộc cách mạng rộng hơn.** Ngay từ đầu, Suleyman thấy AI sẽ là công cụ mạnh cho điều tốt phi thường, nhưng như hầu hết các dạng quyền lực, nó cũng đầy hiểm nguy và tình thế khó xử về đạo đức. Ông lo không chỉ về AI mà về hướng đi của cả hệ sinh thái công nghệ: AI đang nuôi một thế hệ công nghệ di truyền và robot mạnh mẽ đang nổi lên, và tiến bộ ở một lĩnh vực đẩy nhanh các lĩnh vực khác trong một quá trình hỗn loạn, xúc tác chéo, vượt khỏi sự điều khiển trực tiếp của bất kỳ ai. Nếu ông hay người khác tái tạo được trí tuệ con người, đó không phải là kinh doanh có lãi như thường lệ mà là một cơn địa chấn với nhân loại, mở ra kỷ nguyên mà cơ hội chưa từng có đi cùng rủi ro chưa từng có. Theo năm tháng, nỗi lo của ông tăng dần: nếu làn sóng thật ra là một trận sóng thần thì sao?
+**Cuộc cách mạng rộng hơn.** Ngay từ đầu, Suleyman thấy AI sẽ là công cụ mạnh cho điều tốt phi thường, nhưng như hầu hết các dạng quyền lực, nó cũng đầy hiểm nguy và tình thế khó xử về đạo đức. Ông lo không chỉ về AI mà về hướng đi của cả hệ sinh thái công nghệ: AI đang nuôi một thế hệ công nghệ di truyền và robot mạnh mẽ đang nổi lên, và tiến bộ ở một lĩnh vực đẩy nhanh các lĩnh vực khác trong một quá trình hỗn loạn, xúc tác chéo, vượt khỏi sự điều khiển trực tiếp của bất kỳ ai.
+
+Nếu ông hay người khác tái tạo được trí tuệ con người, đó không phải là kinh doanh có lãi như thường lệ mà là một cơn địa chấn với nhân loại, mở ra kỷ nguyên mà cơ hội chưa từng có đi cùng rủi ro chưa từng có. Theo năm tháng, nỗi lo của ông tăng dần: nếu làn sóng thật ra là một trận sóng thần thì sao?
 
 ### 5. "In 2010 almost no one…" — Rủi ro đuôi và hai phản ứng có thể xảy ra (tên do người tổng hợp đặt theo các chữ mở đầu đoạn) (trang PDF 24–25)
 
@@ -460,7 +464,9 @@ Xác suất của mỗi kịch bản có thể nhỏ, nhưng hậu quả có th�
 
 **Thế lưỡng nan.** Từ đây, cả theo đuổi lẫn không theo đuổi công nghệ mới đều đầy rủi ro. Cơ hội "lách qua" một "con đường hẹp" để tránh cả hai kết cục, một bên là phản địa đàng độc đoán dựa trên công nghệ, bên kia là thảm họa do mở cửa, nhỏ dần theo thời gian khi công nghệ rẻ hơn, mạnh hơn, phổ biến hơn và rủi ro tích tụ. Thế nhưng lùi lại cũng không phải là lựa chọn: ngay cả khi lo về rủi ro, ta vẫn cần lợi ích phi thường của các công nghệ này hơn bao giờ hết. Đó là thế lưỡng nan cốt lõi: sớm hay muộn, một thế hệ công nghệ mạnh sẽ dẫn nhân loại tới kết cục thảm họa hoặc phản địa đàng. Suleyman tin đây là "siêu vấn đề" (meta-problem) lớn của thế kỷ 21.
 
-**Thiếu vắng ngôn ngữ khống chế.** Sách đặt mục tiêu giải thích vì sao thế kẹt khủng khiếp này đang trở nên không tránh được, và tìm cách đối diện nó: bằng cách nào đó ta phải lấy được điều tốt nhất từ công nghệ, thứ thiết yếu để đối mặt hàng loạt thách thức toàn cầu, đồng thời thoát khỏi thế lưỡng nan. Theo Suleyman, thảo luận hiện nay về đạo đức và an toàn công nghệ là không đủ. Dù có rất nhiều sách, tranh luận, bài blog và chuỗi tweet về công nghệ, hiếm khi nghe ai nói về khống chế nó. Ông hình dung khống chế là một tập hợp đan cài các cơ chế kỹ thuật, xã hội và pháp lý ràng buộc và kiểm soát công nghệ, hoạt động ở mọi cấp độ có thể, về lý thuyết là một cách để né thế lưỡng nan. Ngay cả những người phê phán công nghệ gay gắt nhất cũng thường tránh ngôn ngữ của khống chế chặt chẽ. Ông muốn điều đó thay đổi.
+**Thiếu vắng ngôn ngữ khống chế.** Sách đặt mục tiêu giải thích vì sao thế kẹt khủng khiếp này đang trở nên không tránh được, và tìm cách đối diện nó: bằng cách nào đó ta phải lấy được điều tốt nhất từ công nghệ, thứ thiết yếu để đối mặt hàng loạt thách thức toàn cầu, đồng thời thoát khỏi thế lưỡng nan.
+
+Theo Suleyman, thảo luận hiện nay về đạo đức và an toàn công nghệ là không đủ. Dù có rất nhiều sách, tranh luận, bài blog và chuỗi tweet về công nghệ, hiếm khi nghe ai nói về khống chế nó. Ông hình dung khống chế là một tập hợp đan cài các cơ chế kỹ thuật, xã hội và pháp lý ràng buộc và kiểm soát công nghệ, hoạt động ở mọi cấp độ có thể, về lý thuyết là một cách để né thế lưỡng nan. Ngay cả những người phê phán công nghệ gay gắt nhất cũng thường tránh ngôn ngữ của khống chế chặt chẽ. Ông muốn điều đó thay đổi.
 
 ### 6. The Trap — Cái bẫy (trang PDF 25–28)
 
@@ -483,11 +489,15 @@ Từ việc công cụ ngày càng dễ có, người thuyết trình vẽ ra m�
 
 Người thuyết trình, một giáo sư được kính trọng với hơn hai mươi năm kinh nghiệm, khẳng định đây không phải khoa học viễn tưởng mà là rủi ro đang hiện hữu. Họ kết thúc bằng một ý đáng sợ: một người duy nhất ngày nay có lẽ "có khả năng giết một tỷ người"; tất cả những gì cần là động cơ.
 
-Khán giả bồn chồn, cựa quậy, ho. Rồi bắt đầu những lời càu nhàu và rào đón. Không ai muốn tin điều này là có thể. Chắc chắn không phải vậy; chắc chắn phải có cơ chế kiểm soát hiệu quả; chắc chắn bệnh rất khó tạo ra; chắc chắn có thể khóa các cơ sở dữ liệu; chắc chắn có thể bảo vệ phần cứng. Phản ứng tập thể không chỉ là gạt đi: người ta đơn giản từ chối chấp nhận viễn cảnh ấy, không ai muốn đối mặt với hệ quả của những dữ kiện cứng và xác suất lạnh lùng vừa nghe. Suleyman im lặng, thực lòng bị chấn động. Tối đó mọi người đi ăn tối và trò chuyện như bình thường: vừa có một ngày bàn về tận thế, nhưng vẫn còn pizza để ăn, chuyện cười để kể, văn phòng để quay về, và dù sao thì rồi sẽ có cách, hoặc một phần lập luận chắc chắn sai. Ông cũng hòa vào.
+Khán giả bồn chồn, cựa quậy, ho. Rồi bắt đầu những lời càu nhàu và rào đón. Không ai muốn tin điều này là có thể. Chắc chắn không phải vậy; chắc chắn phải có cơ chế kiểm soát hiệu quả; chắc chắn bệnh rất khó tạo ra; chắc chắn có thể khóa các cơ sở dữ liệu; chắc chắn có thể bảo vệ phần cứng. Phản ứng tập thể không chỉ là gạt đi: người ta đơn giản từ chối chấp nhận viễn cảnh ấy, không ai muốn đối mặt với hệ quả của những dữ kiện cứng và xác suất lạnh lùng vừa nghe.
+
+Suleyman im lặng, thực lòng bị chấn động. Tối đó mọi người đi ăn tối và trò chuyện như bình thường: vừa có một ngày bàn về tận thế, nhưng vẫn còn pizza để ăn, chuyện cười để kể, văn phòng để quay về, và dù sao thì rồi sẽ có cách, hoặc một phần lập luận chắc chắn sai. Ông cũng hòa vào.
 
 **Tên của cái bẫy.** Nhưng bài thuyết trình day dứt ông nhiều tháng. Vì sao ông, vì sao tất cả mọi người, không coi nó nghiêm túc hơn? Vì sao ta lúng túng né tránh thảo luận thêm? Vì sao có người mỉa mai và buộc tội người nêu câu hỏi là "thảm họa hóa" hoặc "bỏ qua điều tốt tuyệt vời" của công nghệ? Phản ứng cảm xúc lan rộng này được ông gọi là **bẫy né tránh bi quan**: kiểu phân tích sai lầm nảy sinh khi ta bị áp đảo bởi nỗi sợ phải đối mặt với thực tế có thể rất đen tối, cùng xu hướng quay mặt đi.
 
-Gần như ai cũng có một phiên bản của phản ứng này, và hệ quả là ta bỏ qua nhiều xu hướng quan trọng đang diễn ra ngay trước mắt. Nó gần như là một phản ứng sinh lý bẩm sinh: loài người không được "lập trình" để thực sự vật lộn với biến đổi ở quy mô này, càng không phải với khả năng công nghệ làm ta thất bại theo cách ấy. Suleyman nói ông có cảm giác này suốt sự nghiệp và thấy rất nhiều người có cùng phản ứng bản năng. Một mục đích của cuốn sách là đối diện cảm giác ấy, nhìn thẳng vào sự thật dù khó chịu đến đâu. Xử lý đúng làn sóng này, khống chế công nghệ và bảo đảm nó luôn phục vụ con người có nghĩa là phải vượt qua sự né tránh bi quan và đối diện trực tiếp với thực tế sắp tới.
+Gần như ai cũng có một phiên bản của phản ứng này, và hệ quả là ta bỏ qua nhiều xu hướng quan trọng đang diễn ra ngay trước mắt. Nó gần như là một phản ứng sinh lý bẩm sinh: loài người không được "lập trình" để thực sự vật lộn với biến đổi ở quy mô này, càng không phải với khả năng công nghệ làm ta thất bại theo cách ấy.
+
+Suleyman nói ông có cảm giác này suốt sự nghiệp và thấy rất nhiều người có cùng phản ứng bản năng. Một mục đích của cuốn sách là đối diện cảm giác ấy, nhìn thẳng vào sự thật dù khó chịu đến đâu. Xử lý đúng làn sóng này, khống chế công nghệ và bảo đảm nó luôn phục vụ con người có nghĩa là phải vượt qua sự né tránh bi quan và đối diện trực tiếp với thực tế sắp tới.
 
 ### 7. "This book is my attempt…" — Mục đích của sách và các phản bác (tên do người tổng hợp đặt theo các chữ mở đầu đoạn) (trang PDF 28–30)
 
@@ -499,7 +509,11 @@ Gần như ai cũng có một phiên bản của phản ứng này, và hệ qu�
 
 **Các phản bác dự kiến.** Sẽ có người cho rằng tất cả là thổi phồng: thay đổi diễn ra từ từ hơn nhiều; đây chỉ là một vòng nữa của chu kỳ cường điệu; các hệ thống ứng phó khủng hoảng và thay đổi thật ra khá vững; cái nhìn của ông về bản chất con người quá đen tối; thành tích của nhân loại tới giờ vẫn ổn. Lịch sử đầy những nhà tiên tri giả và kẻ báo tận thế bị chứng minh sai; tại sao lần này lại khác?
 
-**Ai mắc bẫy.** Suleyman trả lời bằng cách mô tả kỹ hơn nguồn gốc của né tránh bi quan. Đó là một phản ứng cảm xúc, một sự từ chối từ trong ruột, đã ăn sâu, trước khả năng xảy ra những kết cục gây mất ổn định nghiêm trọng. Nó thường đến từ những người ở vị trí an toàn, quyền lực, có thế giới quan đã cố định: họ đối phó được với thay đổi bề mặt nhưng khó chấp nhận bất kỳ thách thức thật nào với trật tự thế giới của mình. Nhiều người mà ông cho là mắc bẫy vẫn hoàn toàn đồng tình với các phê phán ngày càng nhiều về công nghệ, nhưng họ chỉ gật gù mà không hành động: "ta sẽ xoay xở được, như mọi khi". Trong giới công nghệ và chính sách, "vùi đầu vào cát" là hệ tư tưởng mặc định; tin và hành động khác đi có nguy cơ bị nỗi sợ và phẫn nộ trước những sức mạnh khổng lồ, không cưỡng được làm tê liệt, tới mức mọi thứ có vẻ vô ích. Vì vậy "thế giới nửa vời" kỳ lạ về trí tuệ của né tránh bi quan cứ tiếp diễn. Ông thừa nhận mình đã mắc kẹt trong đó quá lâu.
+**Ai mắc bẫy.** Suleyman trả lời bằng cách mô tả kỹ hơn nguồn gốc của né tránh bi quan. Đó là một phản ứng cảm xúc, một sự từ chối từ trong ruột, đã ăn sâu, trước khả năng xảy ra những kết cục gây mất ổn định nghiêm trọng. Nó thường đến từ những người ở vị trí an toàn, quyền lực, có thế giới quan đã cố định: họ đối phó được với thay đổi bề mặt nhưng khó chấp nhận bất kỳ thách thức thật nào với trật tự thế giới của mình.
+
+Nhiều người mà ông cho là mắc bẫy vẫn hoàn toàn đồng tình với các phê phán ngày càng nhiều về công nghệ, nhưng họ chỉ gật gù mà không hành động: "ta sẽ xoay xở được, như mọi khi".
+
+Trong giới công nghệ và chính sách, "vùi đầu vào cát" là hệ tư tưởng mặc định; tin và hành động khác đi có nguy cơ bị nỗi sợ và phẫn nộ trước những sức mạnh khổng lồ, không cưỡng được làm tê liệt, tới mức mọi thứ có vẻ vô ích. Vì vậy "thế giới nửa vời" kỳ lạ về trí tuệ của né tránh bi quan cứ tiếp diễn. Ông thừa nhận mình đã mắc kẹt trong đó quá lâu.
 
 **Thảo luận đã đổi, nhưng chưa đủ.** Từ khi lập DeepMind và từ các bài thuyết trình ấy, thảo luận đã thay đổi phần nào:
 
@@ -512,9 +526,13 @@ Nhưng trước làn sóng sắp tới và thế lưỡng nan lớn, và trướ
 
 ### 8. The Argument — Lập luận (trang PDF 30–32)
 
-**Đây là thật.** Làn sóng có mặt khắp nơi trong đời sống con người, và làn sóng này chỉ là làn sóng mới nhất. Nhiều người nghĩ nó còn xa, nghe quá viễn tưởng và vô lý, chỉ là chuyện của vài người mê công nghệ và nhà tư tưởng bên lề, thêm một lần cường điệu, thuật ngữ công nghệ rối rắm và quảng bá. Suleyman cho đó là sai lầm: làn sóng này thật như sóng thần nổi lên giữa đại dương. Ông kêu gọi người đọc tiếp tục đọc kể cả khi không đồng ý với cách đặt vấn đề. Ông thừa nhận mình xuất thân từ AI, quen nhìn thế giới qua lăng kính công nghệ, và thiên lệch khi trả lời câu hỏi điều này có quan trọng không. Dù vậy, sau mười lăm năm ở sát cuộc cách mạng đang mở ra, ông tin ta đang ở ngưỡng cửa của biến đổi quan trọng nhất đời mình.
+**Đây là thật.** Làn sóng có mặt khắp nơi trong đời sống con người, và làn sóng này chỉ là làn sóng mới nhất. Nhiều người nghĩ nó còn xa, nghe quá viễn tưởng và vô lý, chỉ là chuyện của vài người mê công nghệ và nhà tư tưởng bên lề, thêm một lần cường điệu, thuật ngữ công nghệ rối rắm và quảng bá. Suleyman cho đó là sai lầm: làn sóng này thật như sóng thần nổi lên giữa đại dương.
 
-**Lợi ích và điều kiện tiên quyết.** Là người xây dựng các công nghệ này, ông tin chúng có thể đem lại rất nhiều điều tốt, thay đổi vô số cuộc đời và giải quyết những thách thức nền tảng, từ mở khóa thế hệ năng lượng sạch tiếp theo tới tạo ra phương pháp điều trị rẻ và hiệu quả cho những bệnh khó chữa nhất. Trong lịch sử, các nhà phát minh và doanh nhân đứng sau công nghệ đã là động lực mạnh của tiến bộ, nâng mức sống cho hàng tỷ người. Nhưng không có khống chế thì mọi khía cạnh khác của công nghệ, mọi thảo luận về khiếm khuyết đạo đức hay lợi ích của nó, đều không còn ý nghĩa. Ta cần gấp những câu trả lời kín kẽ về cách kiểm soát và khống chế làn sóng, cách duy trì các cơ chế bảo vệ và những gì nhà nước dân tộc dân chủ đem lại; nhưng hiện chưa ai có kế hoạch như vậy. Đó là tương lai không ai muốn, nhưng ông sợ nó ngày càng có khả năng xảy ra.
+Ông kêu gọi người đọc tiếp tục đọc kể cả khi không đồng ý với cách đặt vấn đề. Ông thừa nhận mình xuất thân từ AI, quen nhìn thế giới qua lăng kính công nghệ, và thiên lệch khi trả lời câu hỏi điều này có quan trọng không. Dù vậy, sau mười lăm năm ở sát cuộc cách mạng đang mở ra, ông tin ta đang ở ngưỡng cửa của biến đổi quan trọng nhất đời mình.
+
+**Lợi ích và điều kiện tiên quyết.** Là người xây dựng các công nghệ này, ông tin chúng có thể đem lại rất nhiều điều tốt, thay đổi vô số cuộc đời và giải quyết những thách thức nền tảng, từ mở khóa thế hệ năng lượng sạch tiếp theo tới tạo ra phương pháp điều trị rẻ và hiệu quả cho những bệnh khó chữa nhất. Trong lịch sử, các nhà phát minh và doanh nhân đứng sau công nghệ đã là động lực mạnh của tiến bộ, nâng mức sống cho hàng tỷ người.
+
+Nhưng không có khống chế thì mọi khía cạnh khác của công nghệ, mọi thảo luận về khiếm khuyết đạo đức hay lợi ích của nó, đều không còn ý nghĩa. Ta cần gấp những câu trả lời kín kẽ về cách kiểm soát và khống chế làn sóng, cách duy trì các cơ chế bảo vệ và những gì nhà nước dân tộc dân chủ đem lại; nhưng hiện chưa ai có kế hoạch như vậy. Đó là tương lai không ai muốn, nhưng ông sợ nó ngày càng có khả năng xảy ra.
 
 **Dàn ý bốn phần.**
 
@@ -527,11 +545,15 @@ Nhưng trước làn sóng sắp tới và thế lưỡng nan lớn, và trướ
 
 ### 9. "This is a book about confronting failure" — Hai kiểu thất bại của công nghệ (tên do người tổng hợp đặt theo các chữ mở đầu đoạn) (trang PDF 33)
 
-**Hai kiểu thất bại.** Suleyman nói đây là cuốn sách về đối mặt với thất bại. Công nghệ có thể thất bại theo nghĩa thông thường là không hoạt động: động cơ không nổ, cây cầu sập. Nhưng nó cũng có thể thất bại theo nghĩa rộng hơn: nếu công nghệ gây hại cho đời sống con người, tạo ra những xã hội đầy tác hại, hoặc khiến xã hội không thể cai quản vì ta trao sức mạnh cho một "đuôi dài" hỗn loạn những chủ thể xấu (hoặc vô tình nguy hiểm), tức là nếu xét tổng thể công nghệ gây hại, thì nó đã thất bại theo một nghĩa khác, sâu hơn: không đáp ứng được lời hứa của nó. Thất bại theo nghĩa này không nằm trong bản thân công nghệ; nó nằm ở bối cảnh công nghệ vận hành, cơ chế cai quản nó, mạng lưới quyền lực và mục đích sử dụng nó.
+**Hai kiểu thất bại.** Suleyman nói đây là cuốn sách về đối mặt với thất bại. Công nghệ có thể thất bại theo nghĩa thông thường là không hoạt động: động cơ không nổ, cây cầu sập.
+
+Nhưng nó cũng có thể thất bại theo nghĩa rộng hơn: nếu công nghệ gây hại cho đời sống con người, tạo ra những xã hội đầy tác hại, hoặc khiến xã hội không thể cai quản vì ta trao sức mạnh cho một "đuôi dài" hỗn loạn những chủ thể xấu (hoặc vô tình nguy hiểm), tức là nếu xét tổng thể công nghệ gây hại, thì nó đã thất bại theo một nghĩa khác, sâu hơn: không đáp ứng được lời hứa của nó. Thất bại theo nghĩa này không nằm trong bản thân công nghệ; nó nằm ở bối cảnh công nghệ vận hành, cơ chế cai quản nó, mạng lưới quyền lực và mục đích sử dụng nó.
 
 **Ta giỏi tránh kiểu thứ nhất, chưa tính tới kiểu thứ hai.** Sự khéo léo đáng nể đã tạo ra bao thứ nay giúp ta tránh kiểu thất bại thứ nhất tốt hơn: ít máy bay rơi hơn, ô tô sạch và an toàn hơn, máy tính mạnh hơn mà vẫn an toàn hơn. Thách thức lớn là ta vẫn chưa tính đến kiểu thất bại thứ hai.
 
-**Thành tựu và thực tế.** Qua nhiều thế kỷ, công nghệ đã nâng phúc lợi của hàng tỷ người lên đáng kể: ta khỏe mạnh hơn không đo đếm được nhờ y học hiện đại, phần lớn thế giới sống trong dư thừa lương thực, con người chưa bao giờ được giáo dục tốt hơn, hòa bình hơn hay sung túc hơn về vật chất. Đó là những thành tựu định hình thời đại, một phần nhờ động cơ lớn của nhân loại là khoa học và việc tạo ra công nghệ; đó cũng là lý do Suleyman dành đời mình để phát triển các công cụ này một cách an toàn. Nhưng mọi sự lạc quan rút ra từ lịch sử ấy phải đặt trên thực tế trần trụi. Phòng ngừa thất bại nghĩa là hiểu và cuối cùng đối mặt với những gì có thể hỏng. Ta cần theo chuỗi lập luận tới điểm cuối logic của nó, không sợ nó dẫn tới đâu, và khi tới đó thì hành động.
+**Thành tựu và thực tế.** Qua nhiều thế kỷ, công nghệ đã nâng phúc lợi của hàng tỷ người lên đáng kể: ta khỏe mạnh hơn không đo đếm được nhờ y học hiện đại, phần lớn thế giới sống trong dư thừa lương thực, con người chưa bao giờ được giáo dục tốt hơn, hòa bình hơn hay sung túc hơn về vật chất. Đó là những thành tựu định hình thời đại, một phần nhờ động cơ lớn của nhân loại là khoa học và việc tạo ra công nghệ; đó cũng là lý do Suleyman dành đời mình để phát triển các công cụ này một cách an toàn.
+
+Nhưng mọi sự lạc quan rút ra từ lịch sử ấy phải đặt trên thực tế trần trụi. Phòng ngừa thất bại nghĩa là hiểu và cuối cùng đối mặt với những gì có thể hỏng. Ta cần theo chuỗi lập luận tới điểm cuối logic của nó, không sợ nó dẫn tới đâu, và khi tới đó thì hành động.
 
 **Kết.** Làn sóng công nghệ sắp tới có nguy cơ thất bại nhanh hơn và trên phạm vi rộng hơn mọi thứ từng thấy. Tình hình này cần sự chú ý của toàn thế giới, của mọi người, và cần những câu trả lời mà chưa ai có. Chương kết bằng hai câu: nhìn bề ngoài, khống chế là không thể; nhưng vì tất cả chúng ta, khống chế *phải* khả thi.
 
@@ -671,7 +693,9 @@ Nhưng trước làn sóng sắp tới và thế lưỡng nan lớn, và trướ
 
 ### Dự đoán "trong ba năm" tới năm 2026: đúng một phần lớn, nhưng chưa trọn
 
-Theo hiểu biết của người tổng hợp, sách ra mắt tháng 9/2023 và được viết trong 2022–2023, nên hạn "ba năm tới" rơi vào khoảng 2025–2026. Cũng theo hiểu biết của người tổng hợp: các mô hình hàng đầu năm 2025–2026 (các thế hệ GPT, Gemini, Claude mới) đã đạt hoặc vượt mức chuyên gia con người ở nhiều bài kiểm tra kiến thức, lập trình và toán; năm 2025 các hệ thống AI thử nghiệm của Google DeepMind và OpenAI đạt mức huy chương vàng ở Olympic Toán quốc tế. AI tạo ảnh, video, giọng nói đã đạt độ giống thật mà sách mô tả và hơn thế. Tuy vậy, ở nhiều nhiệm vụ thực tế dài, nhiều bước, cần độ tin cậy cao (làm trọn một dự án, tự xử lý lỗi trong môi trường lạ), AI vẫn chưa ngang người một cách ổn định. Vì vậy nhận định "mức con người ở rất nhiều nhiệm vụ" đúng nếu hiểu là nhiều nhiệm vụ rời rạc có thể đo bằng bài kiểm tra, chưa đúng nếu hiểu là thay được con người trong phần lớn công việc trọn vẹn. Cách nói "có vẻ" và "nếu tôi chỉ gần đúng" của Suleyman để lại khoảng an toàn cho cả hai cách hiểu.
+Theo hiểu biết của người tổng hợp, sách ra mắt tháng 9/2023 và được viết trong 2022–2023, nên hạn "ba năm tới" rơi vào khoảng 2025–2026. Cũng theo hiểu biết của người tổng hợp: các mô hình hàng đầu năm 2025–2026 (các thế hệ GPT, Gemini, Claude mới) đã đạt hoặc vượt mức chuyên gia con người ở nhiều bài kiểm tra kiến thức, lập trình và toán; năm 2025 các hệ thống AI thử nghiệm của Google DeepMind và OpenAI đạt mức huy chương vàng ở Olympic Toán quốc tế. AI tạo ảnh, video, giọng nói đã đạt độ giống thật mà sách mô tả và hơn thế.
+
+Tuy vậy, ở nhiều nhiệm vụ thực tế dài, nhiều bước, cần độ tin cậy cao (làm trọn một dự án, tự xử lý lỗi trong môi trường lạ), AI vẫn chưa ngang người một cách ổn định. Vì vậy nhận định "mức con người ở rất nhiều nhiệm vụ" đúng nếu hiểu là nhiều nhiệm vụ rời rạc có thể đo bằng bài kiểm tra, chưa đúng nếu hiểu là thay được con người trong phần lớn công việc trọn vẹn. Cách nói "có vẻ" và "nếu tôi chỉ gần đúng" của Suleyman để lại khoảng an toàn cho cả hai cách hiểu.
 
 ### Các sự kiện sau khi sách ra đời liên quan tới chương này (theo hiểu biết của người tổng hợp)
 
@@ -708,3 +732,165 @@ Theo hiểu biết của người tổng hợp, sách ra mắt tháng 9/2023 và
 - **Công việc:** khi đánh giá một công nghệ mới cho tổ chức, hỏi cả hai câu: nó có hoạt động không (thất bại kiểu một) và nếu nó hoạt động tốt và lan rộng thì tổng tác động có tốt không (thất bại kiểu hai). Khi trình bày rủi ro cho lãnh đạo, lường trước phản ứng né tránh bi quan: đưa kèm số liệu cụ thể và một phương án hành động, đừng chỉ đưa viễn cảnh xấu, vì câu chuyện phòng họp Bờ Tây cho thấy cảnh báo không kèm hành động dễ bị gạt đi.
 - **Đầu tư:** quy luật "rẻ dần và lan rộng" gợi ý rằng lợi thế từ riêng một mô hình AI khó bền; giá trị thường dịch chuyển sang những ai kiểm soát phân phối, dữ liệu hoặc hạ tầng (nhận xét của người tổng hợp). Rủi ro đuôi và thế lưỡng nan cũng là rủi ro quy định: theo dõi các thay đổi ở Washington, Brussels, Bắc Kinh như một biến số của định giá công ty AI và công nghệ sinh học.
 - **Đời sống:** nhận ra bẫy né tránh bi quan trong chính mình, ví dụ khi gạt đi một kết quả khám sức khỏe xấu hay một khoản nợ đang tăng. Cách Suleyman đề xuất áp dụng được cho cá nhân: nhìn thẳng vào dữ kiện, theo chuỗi lập luận tới cùng, rồi làm một việc cụ thể.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 1 trên một trang: sáu nhánh lớn đi theo các mục 1–9 trong phần Nội dung chi tiết (làn sóng và hai nền móng, DeepMind và tốc độ của AI, rủi ro đuôi và thế lưỡng nan, bẫy né tránh bi quan, dàn ý bốn phần của sách, hai kiểu thất bại của công nghệ), mỗi nhánh ghi luận điểm, ví dụ và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 1: công nghệ nền tảng nào cũng rẻ dần và lan rộng, làn sóng AI và sinh học tổng hợp có vẻ không thể khống chế`"]
+  n1["`Mục 1–3 — Làn sóng: quy luật lan rộng và hai nền móng`"]
+  n0 --- n1
+  n2["`Huyền thoại đại hồng thủy có ở hầu hết nền văn hóa: Manu, Gilgamesh, con thuyền Noah, Atlantis`"]
+  n1 --- n2
+  n3["`Tiểu hành tinh diệt khủng long tạo sóng cao khoảng một dặm (1,6 km), đổi hướng tiến hóa`"]
+  n1 --- n3
+  n4["`Quy luật: từ cuốc chim, cày tới điện thoại, máy bay, công nghệ rẻ dần, dễ dùng dần, lan rộng khắp nơi`"]
+  n1 --- n4
+  n5["`Homo technologicus: hệ sinh thái phát minh tự tổ chức, cạnh tranh gay gắt, mặc định mở rộng`"]
+  n1 --- n5
+  n6["`Thế giới loài người dựa trên hai nền móng: trí tuệ con người và sự sống sinh học`"]
+  n1 --- n6
+  n7["`AI thiết kế lại trí tuệ, sinh học tổng hợp thiết kế lại sự sống`"]
+  n1 --- n7
+  n8["`Tương lai của ta vừa phụ thuộc vào các công nghệ này vừa bị chúng đe dọa`"]
+  n1 --- n8
+  n9["`Luận đề: khống chế, tức kiểm soát, kìm hãm hay dừng làn sóng, từ hôm nay nhìn có vẻ không thể`"]
+  n1 --- n9
+  n10["`Mục 4 — DeepMind và tốc độ của AI`"]
+  n0 --- n10
+  n11["`Mùa hè 2010 Suleyman lập DeepMind ở London cùng Demis Hassabis và Shane Legg để tái tạo trí tuệ`"]
+  n10 --- n11
+  n12["`Năm 2010 AI còn là mơ mộng, hơn một thập niên sau mô hình mới ra hằng tuần, có khi hằng ngày`"]
+  n10 --- n12
+  n13["`AI lúc viết sách nhận diện khuôn mặt gần hoàn hảo, dịch tức thì, tự lái trong một số điều kiện, tạo ảnh và văn bản`"]
+  n10 --- n13
+  n14["`Dự đoán: AI có vẻ đạt mức con người ở rất nhiều nhiệm vụ trong ba năm tới`"]
+  n10 --- n14
+  n15["`Người tổng hợp đánh giá tới 2026: đạt ở bài kiểm tra kiến thức, lập trình, toán, chưa ổn định ở nhiệm vụ dài nhiều bước`"]
+  n14 --- n15
+  n16["`AI thúc đẩy công nghệ di truyền và robot, các lĩnh vực xúc tác chéo vượt khỏi điều khiển của bất kỳ ai`"]
+  n10 --- n16
+  n17["`Nỗi lo của Suleyman tăng dần: nếu làn sóng thật ra là sóng thần thì sao`"]
+  n10 --- n17
+  n18["`Mục 5 — Rủi ro đuôi và thế lưỡng nan`"]
+  n0 --- n18
+  n19["`Từ sứ mệnh ngách năm 2010 thành nỗ lực toàn cầu, hàng chục tỷ USD đầu tư vào AI và kỹ thuật di truyền`"]
+  n18 --- n19
+  n20["`Khi chín muồi, công nghệ đem tiến bộ y học, đột phá năng lượng sạch, ngành mới`"]
+  n18 --- n20
+  n21["`Rủi ro đuôi: xác suất nhỏ, hậu quả rất lớn, đe dọa sống còn với nhà nước dân tộc`"]
+  n18 --- n21
+  n22["`Tấn công mạng nhờ AI, chiến tranh tự động, đại dịch do con người thiết kế`"]
+  n21 --- n22
+  n23["`Phản ứng 1: chủ nghĩa độc đoán dựa trên công nghệ trượt tới giám sát toàn cầu kiểu phản địa đàng`"]
+  n18 --- n23
+  n24["`Phản ứng 2 kiểu Luddite: cấm, tẩy chay, tạm hoãn khó xảy ra vì giá trị địa chiến lược và thương mại`"]
+  n18 --- n24
+  n25["`Xã hội trì trệ công nghệ bất ổn, dễ sụp đổ vì mất khả năng giải quyết vấn đề`"]
+  n24 --- n25
+  n26["`Thế lưỡng nan: sớm hay muộn công nghệ mạnh dẫn tới thảm họa hoặc phản địa đàng, siêu vấn đề của thế kỷ 21`"]
+  n18 --- n26
+  n27["`Con đường hẹp giữa hai kết cục hẹp dần khi công nghệ rẻ hơn, mạnh hơn, phổ biến hơn`"]
+  n18 --- n27
+  n28["`Khống chế: tập hợp đan cài cơ chế kỹ thuật, xã hội, pháp lý ở mọi cấp, hiếm ai bàn tới`"]
+  n18 --- n28
+  n29["`Mục 6–7 — Bẫy né tránh bi quan`"]
+  n0 --- n29
+  n30["`Phòng họp Bờ Tây: khoảng 12 lãnh đạo công nghệ nghe cảnh báo về đời tư, thông tin sai lệch, vũ khí mạng`"]
+  n29 --- n30
+  n31["`AI thay lao động chân tay trí óc trong vài thập niên, trước khi robot thay lao động chân tay`"]
+  n30 --- n31
+  n32["`Slide The Simpsons, The pitchforks are coming, gặp ánh mắt trống rỗng và lời gạt đi AI sẽ tạo việc làm mới`"]
+  n30 --- n32
+  n33["`Hội thảo trước COVID-19: máy tổng hợp DNA vài chục nghìn USD, Kilobaser từ 25.000 USD, vừa bàn trong ga-ra`"]
+  n29 --- n33
+  n34["`Có thể tạo mầm bệnh lây và chết người hơn tự nhiên, kháng thuốc: tận thế, đặt hàng qua bưu điện`"]
+  n33 --- n34
+  n35["`Giáo sư thuyết trình: một người có lẽ có khả năng giết một tỷ người, chỉ cần động cơ`"]
+  n33 --- n35
+  n36["`Khán giả rào đón chắc chắn là… rồi đi ăn pizza, Suleyman cũng hòa vào`"]
+  n33 --- n36
+  n37["`Bẫy né tránh bi quan: phân tích sai lệch do sợ đối mặt thực tế đen tối, kèm xu hướng quay mặt đi`"]
+  n29 --- n37
+  n38["`Gần như phản ứng sinh lý bẩm sinh, thường ở người an toàn, quyền lực, gật đầu mà không hành động`"]
+  n29 --- n38
+  n39["`Vùi đầu vào cát là hệ tư tưởng mặc định trong giới công nghệ và chính sách, Suleyman tự nhận từng mắc kẹt`"]
+  n29 --- n39
+  n40["`Tranh luận tự động hóa, đại dịch, techlash ở Washington, Brussels, Bắc Kinh đã đổi thảo luận, nhưng chưa đủ`"]
+  n29 --- n40
+  n41["`Suleyman là người lạc quan mặc định nhưng không mong gì hơn là bị chứng minh sai`"]
+  n29 --- n41
+  n42["`Mục 8 — Lập luận: dàn ý bốn phần của sách`"]
+  n0 --- n42
+  n43["`Làn sóng thật như sóng thần giữa đại dương, không có khống chế thì bàn đạo đức hay lợi ích đều vô nghĩa`"]
+  n42 --- n43
+  n44["`Phần 1: lịch sử lan rộng của công nghệ và bài toán khống chế khi công nghệ rẻ hơn, lan nhanh hơn`"]
+  n42 --- n44
+  n45["`Phần 2: AI và sinh học tổng hợp là hai công nghệ đa mục đích, kèm robot, máy tính lượng tử`"]
+  n42 --- n45
+  n46["`Bốn đặc điểm: đa dụng toàn diện, siêu tiến hoá, bất đối xứng, tự chủ`"]
+  n45 --- n46
+  n47["`Động lực: cạnh tranh địa chính trị, phần thưởng tài chính khổng lồ, văn hóa nghiên cứu mở và phân tán`"]
+  n45 --- n47
+  n48["`Phần 3: nhà nước dân tộc, chủ thể khống chế quan trọng nhất, bị suy yếu, quyền lực vừa tập trung vừa phân tán`"]
+  n42 --- n48
+  n49["`Phần 4: mười bước từ cấp mã và DNA tới hiệp ước quốc tế, tạo thành tập ràng buộc lồng nhau`"]
+  n42 --- n49
+  n50["`Mục 9 — Hai kiểu thất bại của công nghệ`"]
+  n0 --- n50
+  n51["`Kiểu 1: công nghệ không chạy, động cơ không nổ, cầu sập, ta ngày càng giỏi tránh`"]
+  n50 --- n51
+  n52["`Kiểu 2: công nghệ chạy nhưng gây hại, trao sức mạnh cho đuôi dài hỗn loạn các chủ thể xấu`"]
+  n50 --- n52
+  n53["`Thất bại kiểu 2 nằm ở bối cảnh, cơ chế cai quản, mạng lưới quyền lực, và ta chưa tính đến nó`"]
+  n50 --- n53
+  n54["`Công nghệ đã nâng phúc lợi hàng tỷ người, nhưng lạc quan phải đặt trên thực tế trần trụi`"]
+  n50 --- n54
+  n55["`Làn sóng sắp tới có nguy cơ thất bại nhanh hơn và rộng hơn mọi thứ từng thấy`"]
+  n50 --- n55
+  n56["`Thông điệp xuyên suốt`"]
+  n0 --- n56
+  n57["`Nhìn bề ngoài khống chế là không thể, nhưng vì tất cả chúng ta khống chế phải khả thi`"]
+  n56 --- n57
+  n58["`Phải vượt qua né tránh bi quan, theo chuỗi lập luận tới điểm cuối rồi hành động`"]
+  n56 --- n58
+  n59["`Giải pháp phải nằm ở thể chế, không chỉ ở kỹ thuật an toàn`"]
+  n56 --- n59
+  class n0 root
+  class n1,n10,n18,n29,n42,n50,n56 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n16,n17,n19,n20,n21,n22,n23,n24,n25,n26,n27,n28,n30,n31,n32,n33,n34,n35,n36,n37,n38,n39,n40,n41,n43,n44,n45,n46,n47,n48,n49,n51,n52,n53,n54,n55,n57,n58,n59 leaf
+```
+
+## Nguồn
+
+Mustafa Suleyman với Michael Bhaskar, *The Coming Wave: Technology, Power, and the Twenty-First Century's Greatest Dilemma* (Crown, Penguin Random House, 2023), bản ebook tiếng Anh, Chapter 1 "Containment Is Not Possible", trang PDF 18–33 (trang PDF 18 chỉ có hai chữ "AI" tách ra từ tiêu đề, phần chữ chính trang PDF 19–33); chú thích cuối sách của chương ở trang PDF 311.
+
+## Tác giả
+
+Mustafa Suleyman, người đồng sáng lập DeepMind (2010) và sau đó Inflection AI, viết cùng Michael Bhaskar; ở chương này Suleyman kể bằng ngôi thứ nhất từ trải nghiệm của chính ông.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 1 là chương dẫn nhập, đứng ngay sau Bảng thuật ngữ và Lời mở đầu ([00-thuat-ngu-va-mo-dau.md](00-thuat-ngu-va-mo-dau.md)) và trước Phần I. Nó giới thiệu hình ảnh làn sóng, định nghĩa làn sóng sắp tới (AI và sinh học tổng hợp), nêu thế lưỡng nan, kể hai câu chuyện về bẫy né tránh bi quan, rồi đưa dàn ý bốn phần của sách.
+
+Phần I bắt đầu ở Chương 2 ([C02-lan-rong-bat-tan.md](C02-lan-rong-bat-tan.md)) về sự lan rộng của công nghệ qua lịch sử và Chương 3 ([C03-bai-toan-khong-che.md](C03-bai-toan-khong-che.md)) về bài toán khống chế. Phần II gồm AI ([C04-cong-nghe-cua-tri-tue.md](C04-cong-nghe-cua-tri-tue.md)), sinh học tổng hợp ([C05-cong-nghe-cua-su-song.md](C05-cong-nghe-cua-su-song.md)), các công nghệ đi kèm ([C06-lan-song-rong-hon.md](C06-lan-song-rong-hon.md)), bốn đặc điểm ([C07-bon-dac-diem-cua-lan-song.md](C07-bon-dac-diem-cua-lan-song.md)) và các động lực ([C08-nhung-dong-luc-khong-the-can.md](C08-nhung-dong-luc-khong-the-can.md)).
+
+Phần III bàn về nhà nước dân tộc ([C09-thoa-thuan-lon.md](C09-thoa-thuan-lon.md), [C10-cac-tac-nhan-khuech-dai-su-mong-manh.md](C10-cac-tac-nhan-khuech-dai-su-mong-manh.md), [C11-tuong-lai-cua-cac-quoc-gia.md](C11-tuong-lai-cua-cac-quoc-gia.md)) và thế lưỡng nan ([C12-the-luong-nan.md](C12-the-luong-nan.md)). Phần IV mở bằng Chương 13 có tên đối xứng với chương này, "Containment Must Be Possible" ([C13-khong-che-phai-kha-thi.md](C13-khong-che-phai-kha-thi.md)), và kết bằng mười bước ([C14-muoi-buoc-tien-toi-khong-che.md](C14-muoi-buoc-tien-toi-khong-che.md)).
+
+## Lưu ý
+
+- **Tiêu đề chương bị tách trong ebook.** Trang PDF 18 chỉ có hai chữ "AI" in đậm ở góc trên bên phải; trang PDF 19 in tiêu đề "CONT NMENT IS NOT POSSIBLE" với một khoảng trống đúng chỗ hai chữ "AI". Như vậy chữ "AI" trong "CONTAINMENT" đã bị đẩy sang một trang riêng khi chuyển thành PDF. Tiêu đề đúng là "Containment Is Not Possible", khớp với tiêu đề nhóm chú thích ở trang PDF 311. Có thể bản in đã cố ý làm nổi hai chữ "AI" nằm trong chữ "CONTAINMENT" (ví dụ in khác màu), nhưng ebook không cho xác nhận điều đó (nhận xét của người tổng hợp).
+- **Chữ in hoa nhỏ bị mất trong lớp chữ trích ra** ở câu mở mỗi mục và sau mỗi dấu ngắt; đã đọc lại từ ảnh trang: "ALMOST EVERY CULTURE HAS A flood myth." (trang PDF 19), "LOOK AROUND YOU." (trang PDF 20), "IN 2010 ALMOST NO one was talking seriously about AI." (trang PDF 24), "THIS BOOK IS MY attempt to do that." (trang PDF 28), "THIS IS A BOOK about confronting failure." (trang PDF 33).
+- **"the daily firehouse chatter around tech"** (trang PDF 28): theo hiểu biết của người tổng hợp, cụm quen dùng là "firehose" (vòi rồng, chỉ dòng thông tin ồ ạt); "firehouse" (trạm cứu hỏa) nhiều khả năng là lỗi chữ.
+- **Dự đoán "trong ba năm tới" (trang PDF 23)** đã đến hạn vào khoảng 2026. Đánh giá chi tiết ở mục Đánh giá và phát hiện đáng chú ý; tóm tắt (theo hiểu biết của người tổng hợp): AI đã đạt hoặc vượt mức con người ở nhiều bài kiểm tra kiến thức, lập trình, toán thi đấu, nhưng chưa đáng tin cậy ở mức con người với "rất nhiều" nhiệm vụ thực tế dài, nhiều bước.
+- **"a founder of two AI companies"** (trang PDF 29): hai công ty là DeepMind và Inflection AI. Theo hiểu biết của người tổng hợp, DeepMind được Google mua năm 2014; tháng 3/2024 Suleyman cùng phần lớn đội ngũ Inflection chuyển sang Microsoft, nơi ông làm CEO của Microsoft AI. Sách viết trước các sự kiện năm 2024.
+- **Chương chỉ có một chú thích cuối sách:** chú thích cho cụm "Costing a few tens of thousands" nêu ví dụ máy tổng hợp DNA và RNA Kilobaser, bán từ 25.000 USD. Chú thích không nêu năm của mức giá.
+- **Người thuyết trình ở hội thảo về rủi ro công nghệ không được nêu tên**; sách chỉ nói đó là một giáo sư được kính trọng, hơn hai mươi năm kinh nghiệm, và dùng đại từ "they". Bản tổng hợp không đoán danh tính.
+- **"the techlash"**: sách đặt chữ này trong ngoặc kép, ghép từ "tech" (công nghệ) và "backlash" (phản ứng dữ dội); dịch là "làn sóng phản đối công nghệ".
+- **Chữ "dilemma"** ở chương này được dùng cả nghĩa chung ("the core dilemma", "the great dilemma") lẫn làm thuật ngữ; bản tổng hợp dịch thống nhất là "thế lưỡng nan".

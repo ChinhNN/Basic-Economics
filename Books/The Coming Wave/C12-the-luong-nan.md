@@ -1,23 +1,18 @@
 # Chương 12 — Thế lưỡng nan (The Dilemma)
 
-**Nguồn:** Mustafa Suleyman với Michael Bhaskar, *The Coming Wave: Technology, Power, and the Twenty-First Century's Greatest Dilemma* (Crown, Penguin Random House, 2023), bản ebook tiếng Anh, Phần III "States of Failure", Chương 12 "The Dilemma", trang PDF 225–243; chú thích cuối sách của chương ở trang PDF 386–389.
-**Tác giả:** Mustafa Suleyman, đồng sáng lập DeepMind và Inflection AI, viết cùng Michael Bhaskar, nhà xuất bản và tác giả sách về công nghệ.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 12 khép lại Phần III. Chương 9 ([C09-thoa-thuan-lon.md](C09-thoa-thuan-lon.md)) mô tả thỏa thuận lớn (the grand bargain) giữa nhà nước và công dân; Chương 10 ([C10-cac-tac-nhan-khuech-dai-su-mong-manh.md](C10-cac-tac-nhan-khuech-dai-su-mong-manh.md)) cho thấy làn sóng sắp tới làm nhà nước mong manh hơn; Chương 11 ([C11-tuong-lai-cua-cac-quoc-gia.md](C11-tuong-lai-cua-cac-quoc-gia.md)) cho thấy công nghệ vừa dồn quyền lực về phía các nhà nước giám sát toàn diện, vừa làm quyền lực phân tán ra ngoài nhà nước. Chương 12 đẩy cả hai xu hướng tới tận cùng và đặt tên cho kết quả: nếu không khống chế được làn sóng thì sớm muộn sẽ có thảm họa quy mô toàn cầu; nếu khống chế bằng biện pháp chắc chắn nhất thì đi tới xã hội giám sát độc đoán; còn dừng hẳn phát triển công nghệ thì rơi vào trì trệ và suy tàn. Đó là thế lưỡng nan (the dilemma) đã được báo trước ở Chương 1 ([C01-khong-the-khong-che.md](C01-khong-the-khong-che.md)), dựa trên bốn đặc điểm của làn sóng ở Chương 7 ([C07-bon-dac-diem-cua-lan-song.md](C07-bon-dac-diem-cua-lan-song.md)) và các động lực không thể cản ở Chương 8 ([C08-nhung-dong-luc-khong-the-can.md](C08-nhung-dong-luc-khong-the-can.md)). Các năng lực được nói tới lấy từ Chương 4 và Chương 5 ([C04-cong-nghe-cua-tri-tue.md](C04-cong-nghe-cua-tri-tue.md), [C05-cong-nghe-cua-su-song.md](C05-cong-nghe-cua-su-song.md)). Câu cuối chương là bản lề sang Phần IV: nhìn thế giới thì khống chế có vẻ không thể, nhưng vì lợi ích của tất cả, khống chế phải khả thi — tên của Chương 13 ([C13-khong-che-phai-kha-thi.md](C13-khong-che-phai-kha-thi.md)) và tiền đề cho mười bước ở Chương 14 ([C14-muoi-buoc-tien-toi-khong-che.md](C14-muoi-buoc-tien-toi-khong-che.md)).
-**Ý chính:** **Suleyman lập luận rằng nhân loại đang bị kẹp giữa hai cực đều không chấp nhận được: thảm họa nếu công nghệ không được khống chế, và phản địa đàng (dystopia) giám sát nếu khống chế bằng cách chắc ăn nhất; lối thoát thứ ba là dừng công nghệ lại cũng không phải lối thoát, vì trì trệ dẫn tới suy tàn.** Ông mở đầu bằng việc lịch sử loài người một phần là lịch sử thảm họa: hai đại dịch lớn (dịch hạch Justinian thế kỷ VI và Cái Chết Đen thế kỷ XIV) mỗi trận lấy đi tới 30% dân số thế giới; dân số nước Anh từ 7 triệu năm 1300 xuống còn 2 triệu năm 1450; Thế chiến I giết khoảng 1% dân số toàn cầu, Thế chiến II khoảng 3%, các cuộc chinh phạt của Thành Cát Tư Hãn tới 10%; từ khi có bom nguyên tử, loài người đủ sức giết sạch chính mình nhiều lần và thảm họa từng kéo dài hàng chục năm nay có thể xảy ra trong vài phút. Làn sóng sắp tới nâng cả trần rủi ro lẫn số lối dẫn tới rủi ro, vì các công cụ mạnh nhất lịch sử đang được phổ cập và thương mại hóa. Giáo phái Aum Shinrikyo ở Nhật Bản (40.000–60.000 thành viên, tài sản ước hơn 1 tỷ USD, hàng chục nhà khoa học được đào tạo bài bản) là bằng chứng rằng những nhóm muốn gây tận thế có thật, và điều ngăn họ gây hại lớn hơn chủ yếu là rào cản tiếp cận công cụ — đúng cái rào cản đang biến mất. Trước nguy cơ đó, phản ứng dễ xảy ra của các chính phủ là giám sát mọi thứ, vì công nghệ đã thấm vào mọi ngóc ngách nên giám sát công nghệ tức là giám sát tất cả; Suleyman coi đây là một thất bại khác chứ không phải lời giải. Dừng công nghệ cũng không cứu được: khảo sát sáu mươi nền văn minh cho thấy trung bình mỗi nền chỉ tồn tại khoảng 400 năm; dân số thế giới sẽ bắt đầu giảm trong thế kỷ này; nhu cầu lithium, cobalt và graphite được dự báo tăng 500%; và chỉ để đứng yên, thế giới đã cần năng suất tăng gấp hai đến ba lần. Chương khép lại với bài luận năm 1955 của John von Neumann, "Can We Survive Technology?", và với kết luận rằng cách nhìn trung thực duy nhất về công nghệ là thấy cả hai mặt cùng lúc.
+## Ý chính
 
-> **Lưu ý:**
-> - **Kịch bản đại dịch với số người chết hàng tỷ không có nguồn công khai.** Theo chú thích của sách, các thông số giả định và kết quả ước tính được lấy từ một buổi trình bày mật (confidential briefing); nhóm tác giả chỉ nói họ "hiểu rằng" giới chuyên gia an ninh sinh học coi kịch bản đó là khả thi. Người đọc không kiểm chứng được phép tính, và đây là con số gây ấn tượng mạnh nhất chương.
-> - **Mốc năm của dự báo khoáng sản có thể sai.** Sách nói nhu cầu lithium, cobalt và graphite sẽ tăng 500% tới năm 2030 và dẫn trang "Climate-Smart Mining" của World Bank. Theo hiểu biết của người tổng hợp, báo cáo World Bank năm 2020 nói sản lượng các khoáng sản này có thể tăng gần 500% **tới năm 2050**, không phải 2030.
-> - **"Khảo sát sáu mươi nền văn minh"** được chú thích dẫn về một bài chuyên mục của Michael Shermer trên *Scientific American* (tháng 8/2002, "Why ET Hasn't Called"), tức một bài báo phổ thông chứ không phải nghiên cứu có bình duyệt. Theo hiểu biết của người tổng hợp, Shermer đưa con số khoảng 400 năm để ước lượng tuổi thọ nền văn minh trong phương trình Drake, một mục đích khác hẳn mục đích Suleyman dùng nó.
-> - **Chú thích bổ sung một con số không có trong lời văn:** khoảng một phần ba các nhà khoa học làm việc về AI tin rằng AI có thể gây ra thảm họa (bài của Jeremy Hsu, *New Scientist*, 22/9/2022). Theo hiểu biết của người tổng hợp, đó là khảo sát giới nghiên cứu xử lý ngôn ngữ tự nhiên, với khoảng 36% đồng ý rằng các quyết định của AI có thể gây ra thảm họa ít nhất tệ ngang một cuộc chiến tranh hạt nhân toàn diện.
-> - **Chú thích cho biết "một số người sẽ nói" là ai.** Lời văn viết "một số người chắc chắn sẽ nói: hãy tập trung quyền lực tới cực hạn, xây nhà tù toàn thị (panopticon)". Chú thích dẫn Nick Bostrom, "The Vulnerable World Hypothesis" (2019), trong đó Bostrom hình dung một "nhà tù toàn thị công nghệ cao" nơi mỗi người đeo quanh cổ một "thẻ tự do" gắn camera và micro nhiều hướng, truyền liên tục lên đám mây để thuật toán phân loại hành vi và chuyển cho trạm giám sát khi thấy đáng ngờ. Tên Bostrom không xuất hiện trong lời văn.
-> - **Chú thích cho kịch bản "tệ nhất của mọi thế giới":** Balaji Srinivasan (*The Network State*) hình dung Mỹ là nhà nước thây ma còn Trung Quốc là "quỷ dữ": khi Mỹ rơi vào hỗn loạn, Bắc Kinh trình bày hệ thống "vận hành được nhưng rất thiếu tự do" của mình như lựa chọn thay thế duy nhất, rồi xuất khẩu trọn gói bộ máy giám sát sang nước khác như một phiên bản mới của Vành đai và Con đường, kèm thuê bao phần mềm cho "con mắt AI thấy hết".
-> - **Hai lỗi tên riêng trong chú thích (theo hiểu biết của người tổng hợp):** "Philipp C. Bleak" đúng là Philipp C. Bleek; "Martin Bereaja" đúng là Martin Beraja, tác giả chính bài "AI-tocracy" trên *Quarterly Journal of Economics* (2023).
-> - **Hai vụ tấn công của Aum Shinrikyo.** Sách ghi năm 1994 và năm 1995 nhưng không nêu địa danh vụ thứ nhất. Theo hiểu biết của người tổng hợp, vụ 1994 xảy ra ở thành phố Matsumoto (tỉnh Nagano) và vụ tàu điện ngầm Tokyo xảy ra ngày 20/3/1995; số người chết trong vụ Tokyo thường được ghi là 13 hoặc 14 tùy cách đếm nạn nhân qua đời sau đó.
-> - **Khái niệm "megamachine" được dẫn gián tiếp.** Sách trích Lewis Mumford qua một bài blog (Isis Hazewindus, "The Threat of the Megamachine", IfThenElse, 11/2021) chứ không dẫn thẳng tác phẩm gốc. Theo hiểu biết của người tổng hợp, khái niệm này thuộc bộ *The Myth of the Machine* (1967 và 1970) của Mumford.
-> - **Bài luận của von Neumann.** Sách dẫn "Can We Survive Technology?" (1955) qua tuyển tập *The Neumann Compendium* (1995). Theo hiểu biết của người tổng hợp, bài đăng lần đầu trên tạp chí *Fortune* tháng 6/1955.
-> - **Sách bác bỏ cách gọi "thế tam nan".** Ở trang PDF 241–242, Suleyman thừa nhận có người coi trì trệ là cực thứ ba tạo thành một "trilemma", nhưng ông cho rằng trì trệ chỉ là thế lưỡng nan được phát biểu lại dưới dạng khác. Vì vậy trong chương này, chữ "thế lưỡng nan" bao hàm ba kết cục xấu nhưng quy về hai cực: thảm họa và phản địa đàng (nhận xét của người tổng hợp).
-> - **Một chi tiết đã thay đổi so với lúc sách in (theo hiểu biết của người tổng hợp):** Ted Kaczynski, kẻ đánh bom được gọi là "Unabomber" mà sách nhắc hai lần, đã chết trong tù tháng 6/2023. Dân số Trung Quốc bắt đầu giảm từ năm 2022, đúng chiều mà chương này dự báo.
+**Suleyman lập luận rằng nhân loại đang bị kẹp giữa hai cực đều không chấp nhận được: thảm họa nếu công nghệ không được khống chế, và phản địa đàng (dystopia) giám sát nếu khống chế bằng cách chắc ăn nhất; lối thoát thứ ba là dừng công nghệ lại cũng không phải lối thoát, vì trì trệ dẫn tới suy tàn.**
+
+Ông mở đầu bằng việc lịch sử loài người một phần là lịch sử thảm họa: hai đại dịch lớn (dịch hạch Justinian thế kỷ VI và Cái Chết Đen thế kỷ XIV) mỗi trận lấy đi tới 30% dân số thế giới; dân số nước Anh từ 7 triệu năm 1300 xuống còn 2 triệu năm 1450; Thế chiến I giết khoảng 1% dân số toàn cầu, Thế chiến II khoảng 3%, các cuộc chinh phạt của Thành Cát Tư Hãn tới 10%; từ khi có bom nguyên tử, loài người đủ sức giết sạch chính mình nhiều lần và thảm họa từng kéo dài hàng chục năm nay có thể xảy ra trong vài phút.
+
+Làn sóng sắp tới nâng cả trần rủi ro lẫn số lối dẫn tới rủi ro, vì các công cụ mạnh nhất lịch sử đang được phổ cập và thương mại hóa. Giáo phái Aum Shinrikyo ở Nhật Bản (40.000–60.000 thành viên, tài sản ước hơn 1 tỷ USD, hàng chục nhà khoa học được đào tạo bài bản) là bằng chứng rằng những nhóm muốn gây tận thế có thật, và điều ngăn họ gây hại lớn hơn chủ yếu là rào cản tiếp cận công cụ — đúng cái rào cản đang biến mất.
+
+Trước nguy cơ đó, phản ứng dễ xảy ra của các chính phủ là giám sát mọi thứ, vì công nghệ đã thấm vào mọi ngóc ngách nên giám sát công nghệ tức là giám sát tất cả; Suleyman coi đây là một thất bại khác chứ không phải lời giải.
+
+Dừng công nghệ cũng không cứu được: khảo sát sáu mươi nền văn minh cho thấy trung bình mỗi nền chỉ tồn tại khoảng 400 năm; dân số thế giới sẽ bắt đầu giảm trong thế kỷ này; nhu cầu lithium, cobalt và graphite được dự báo tăng 500%; và chỉ để đứng yên, thế giới đã cần năng suất tăng gấp hai đến ba lần.
+
+Chương khép lại với bài luận năm 1955 của John von Neumann, "Can We Survive Technology?", và với kết luận rằng cách nhìn trung thực duy nhất về công nghệ là thấy cả hai mặt cùng lúc.
 
 ## Sơ đồ
 
@@ -639,15 +634,23 @@ Với sự xuất hiện của bom nguyên tử, loài người nắm trong tay 
 
 Suleyman đặt làn sóng sắp tới vào đúng mạch đó: nhân loại sắp thực hiện thêm một bước nhảy nữa, vừa nâng trần rủi ro lên cao hơn vừa nhân số con đường dành cho những ai muốn giải phóng sức tàn phá. Chương này, theo lời ông, đi xa hơn phần bàn về sự mong manh và các mối đe dọa với sự vận hành của nhà nước ở các chương trước, để hình dung điều gì xảy ra — sớm hay muộn — nếu khống chế là không thể.
 
-Ngay sau đó ông đặt một giới hạn quan trọng cho chương. Phần áp đảo các công nghệ này sẽ được dùng vào việc tốt; dù ông tập trung vào rủi ro của chúng, cần nhớ rằng chúng sẽ cải thiện vô số cuộc sống mỗi ngày. Chương này cố ý nhìn vào những trường hợp cực đoan ở rìa mà gần như không ai muốn thấy, ít nhất là những người đang làm việc với các công cụ ấy. Nhưng việc chúng chỉ chiếm một phần nhỏ xíu trong các cách sử dụng không có nghĩa là có thể bỏ qua. Các chương trước đã cho thấy chủ thể xấu có thể gây thiệt hại nghiêm trọng và châm ngòi bất ổn diện rộng; câu hỏi của ông là chuyện gì xảy ra khi các năng lực trước đây chỉ nằm trong tay vài tổ chức lớn trở nên sẵn có với bất kỳ phòng thí nghiệm hay cá nhân nào có trình độ trung bình. Khi các công nghệ mạnh nhất lịch sử thấm ra khắp nơi, những trường hợp cực đoan ấy trở nên dễ xảy ra hơn; sớm muộn một cái gì đó sẽ hỏng, ở quy mô và tốc độ tương xứng với năng lực đã được giải phóng. Hệ quả của bốn đặc điểm của làn sóng (bất đối xứng, siêu tiến hóa, đa dụng toàn diện, tự chủ) là: nếu thiếu các phương pháp khống chế mạnh vận hành ở mọi cấp, những kết cục thảm họa như một đại dịch nhân tạo trở nên khả dĩ hơn bao giờ hết.
+Ngay sau đó ông đặt một giới hạn quan trọng cho chương. Phần áp đảo các công nghệ này sẽ được dùng vào việc tốt; dù ông tập trung vào rủi ro của chúng, cần nhớ rằng chúng sẽ cải thiện vô số cuộc sống mỗi ngày. Chương này cố ý nhìn vào những trường hợp cực đoan ở rìa mà gần như không ai muốn thấy, ít nhất là những người đang làm việc với các công cụ ấy. Nhưng việc chúng chỉ chiếm một phần nhỏ xíu trong các cách sử dụng không có nghĩa là có thể bỏ qua.
 
-Rồi câu then chốt của cả chương xuất hiện. Kết cục đó là không chấp nhận được. Vậy mà đây chính là thế lưỡng nan: những giải pháp khống chế an toàn nhất cũng không chấp nhận được, vì chúng dẫn nhân loại xuống một con đường độc đoán và phản địa đàng. Một mặt, các xã hội có thể quay sang kiểu giám sát toàn diện dựa trên công nghệ đã mô tả ở Chương 11, một phản ứng bản năng áp các cơ chế cứng lên công nghệ chệch hướng hoặc không kiểm soát được: đổi tự do lấy an ninh. Mặt khác, nhân loại có thể lùi khỏi biên giới công nghệ hoàn toàn; điều này khó xảy ra, và cũng không phải câu trả lời. Trớ trêu là thực thể duy nhất về nguyên tắc có thể lèo lái qua ràng buộc sinh tử này lại chính là hệ thống các nhà nước dân tộc đang rã ra, bị kéo xuống bởi chính những lực mà nó cần khống chế.
+Các chương trước đã cho thấy chủ thể xấu có thể gây thiệt hại nghiêm trọng và châm ngòi bất ổn diện rộng; câu hỏi của ông là chuyện gì xảy ra khi các năng lực trước đây chỉ nằm trong tay vài tổ chức lớn trở nên sẵn có với bất kỳ phòng thí nghiệm hay cá nhân nào có trình độ trung bình. Khi các công nghệ mạnh nhất lịch sử thấm ra khắp nơi, những trường hợp cực đoan ấy trở nên dễ xảy ra hơn; sớm muộn một cái gì đó sẽ hỏng, ở quy mô và tốc độ tương xứng với năng lực đã được giải phóng.
+
+Hệ quả của bốn đặc điểm của làn sóng (bất đối xứng, siêu tiến hóa, đa dụng toàn diện, tự chủ) là: nếu thiếu các phương pháp khống chế mạnh vận hành ở mọi cấp, những kết cục thảm họa như một đại dịch nhân tạo trở nên khả dĩ hơn bao giờ hết.
+
+Rồi câu then chốt của cả chương xuất hiện. Kết cục đó là không chấp nhận được. Vậy mà đây chính là thế lưỡng nan: những giải pháp khống chế an toàn nhất cũng không chấp nhận được, vì chúng dẫn nhân loại xuống một con đường độc đoán và phản địa đàng.
+
+Một mặt, các xã hội có thể quay sang kiểu giám sát toàn diện dựa trên công nghệ đã mô tả ở Chương 11, một phản ứng bản năng áp các cơ chế cứng lên công nghệ chệch hướng hoặc không kiểm soát được: đổi tự do lấy an ninh. Mặt khác, nhân loại có thể lùi khỏi biên giới công nghệ hoàn toàn; điều này khó xảy ra, và cũng không phải câu trả lời. Trớ trêu là thực thể duy nhất về nguyên tắc có thể lèo lái qua ràng buộc sinh tử này lại chính là hệ thống các nhà nước dân tộc đang rã ra, bị kéo xuống bởi chính những lực mà nó cần khống chế.
 
 Theo thời gian, hệ quả của các công nghệ này sẽ đẩy nhân loại phải dò đường giữa hai cực thảm họa và phản địa đàng. Đó là thế lưỡng nan cốt lõi của thời đại chúng ta. Lời hứa của công nghệ vốn là nó cải thiện đời sống, với lợi ích lớn hơn nhiều so với chi phí và mặt trái; bộ lựa chọn hiểm hóc này đảo ngược lời hứa ấy một cách tàn nhẫn.
 
 Suleyman thừa nhận rằng kiểu nói về ngày tận thế làm người nghe, kể cả chính ông, đờ người ra. Ông đoán trước phản ứng hoài nghi: nói tới tác động thảm họa thường mời gọi sự chế giễu, bị gán cho là theo chủ nghĩa thảm họa, là tiêu cực tự thỏa mãn, là báo động ầm ĩ, là soi rốn mình với những rủi ro xa xôi hiếm hoi trong khi vô số mối nguy rõ ràng và cấp bách đang kêu gào. Giống như sự lạc quan công nghệ hụt hơi, sự bi quan công nghệ hụt hơi cũng dễ bị gạt đi như một dạng thổi phồng méo mó, lệch lạc, không được lịch sử ủng hộ.
 
-Ông đáp lại bằng ba ý. Thứ nhất, việc một lời cảnh báo có hệ quả kịch tính không phải là căn cứ tốt để tự động bác bỏ nó. Thứ hai, sự tự mãn do né tránh bi quan khi đứng trước viễn cảnh thảm họa tự nó là công thức dẫn tới thảm họa: cảm giác hợp lý, "thông minh" khi gạt các cảnh báo đi như lời huyên thuyên của vài kẻ lập dị chính là thứ dọn đường cho chính nó thất bại. Thứ ba, dù rủi ro công nghệ đưa ta vào vùng bất định, mọi xu hướng đều chỉ về phía rủi ro nở rộ; sự suy đoán này đặt trên các cải tiến khoa học và công nghệ đang liên tục cộng dồn. Những người gạt bỏ khả năng thảm họa, theo ông, đang chiết khấu các sự kiện khách quan bày ra trước mắt — và ông chốt bằng một câu so sánh: ở đây chúng ta không nói về sự lan rộng của xe máy hay máy giặt.
+Ông đáp lại bằng ba ý. Thứ nhất, việc một lời cảnh báo có hệ quả kịch tính không phải là căn cứ tốt để tự động bác bỏ nó. Thứ hai, sự tự mãn do né tránh bi quan khi đứng trước viễn cảnh thảm họa tự nó là công thức dẫn tới thảm họa: cảm giác hợp lý, "thông minh" khi gạt các cảnh báo đi như lời huyên thuyên của vài kẻ lập dị chính là thứ dọn đường cho chính nó thất bại.
+
+Thứ ba, dù rủi ro công nghệ đưa ta vào vùng bất định, mọi xu hướng đều chỉ về phía rủi ro nở rộ; sự suy đoán này đặt trên các cải tiến khoa học và công nghệ đang liên tục cộng dồn. Những người gạt bỏ khả năng thảm họa, theo ông, đang chiết khấu các sự kiện khách quan bày ra trước mắt — và ông chốt bằng một câu so sánh: ở đây chúng ta không nói về sự lan rộng của xe máy hay máy giặt.
 
 ### 2. Varieties of Catastrophe — Các dạng thảm họa (trang PDF 227–232)
 
@@ -665,25 +668,41 @@ Trong số các rủi ro thảm họa của làn sóng, AI được nói tới n
 
 Về phía sinh học, ngoài các đại dịch nhân tạo và nguy cơ rò rỉ do sơ suất đã bàn ở các chương trước, Suleyman nêu loại sự cố ít hiển nhiên hơn: một sự kiện rủi ro sinh học cực đoan nhắm vào một bộ phận dân cư nhất định, hoặc phá hoại một hệ sinh thái. Ông đưa hai ví dụ về động cơ "có lý" nhưng hậu quả không kiểm soát: những nhà hoạt động muốn chặn việc buôn cocaine bằng cách tạo ra một mầm bệnh chỉ nhắm vào cây coca để thay cho việc phun thuốc từ máy bay; hoặc những người ăn chay cực đoan muốn phá vỡ toàn bộ chuỗi cung ứng thịt, với hậu quả nặng nề cả những gì lường trước lẫn những gì không lường trước. Cả hai đều có thể vượt khỏi tầm kiểm soát.
 
-Về rò rỉ phòng thí nghiệm, nếu không được khống chế nhanh thì hậu quả sẽ sánh ngang các trận dịch trong lịch sử. Để người đọc hình dung, ông đưa một mốc so sánh có thật: biến thể omicron của COVID lây cho một phần tư dân số Mỹ trong vòng một trăm ngày kể từ khi được phát hiện lần đầu. Rồi ông đặt các câu hỏi giả định: nếu có một đại dịch lây nhanh như vậy mà tỷ lệ tử vong lên tới 20% thì sao; hoặc nếu đó là một thứ giống như HIV lây qua đường hô hấp, ủ bệnh nhiều năm mà không có triệu chứng cấp tính? Ông dẫn một ước tính rằng một virus mới lây giữa người với hệ số lây nhiễm khoảng 4 (thấp hơn nhiều so với thủy đậu hay sởi) và tỷ lệ tử vong trên số ca bệnh 50% (thấp hơn nhiều so với Ebola hay cúm gia cầm) vẫn có thể gây hơn một tỷ ca tử vong trong vài tháng, ngay cả khi tính tới các biện pháp kiểu phong tỏa. Theo chú thích của sách, các con số này lấy từ một buổi trình bày mật, và nhóm tác giả chỉ nói họ hiểu rằng giới chuyên gia an ninh sinh học coi kịch bản đó là khả thi. Câu hỏi cuối của đoạn: nếu nhiều mầm bệnh như vậy được thả ra cùng lúc thì sao? Chuyện đó vượt xa khái niệm khuếch đại sự mong manh; đó là một tai họa không thể đo lường nổi.
+Về rò rỉ phòng thí nghiệm, nếu không được khống chế nhanh thì hậu quả sẽ sánh ngang các trận dịch trong lịch sử. Để người đọc hình dung, ông đưa một mốc so sánh có thật: biến thể omicron của COVID lây cho một phần tư dân số Mỹ trong vòng một trăm ngày kể từ khi được phát hiện lần đầu.
 
-**Kịch bản tận thế do AI, và chỗ Suleyman không đồng tình.** Sau một khoảng ngắt, chương chuyển sang một nhánh khác. Suleyman mô tả: ngoài các khuôn sáo của Hollywood, một nhóm nhỏ trong giới nghiên cứu học thuật đã đẩy mạnh một tự sự cực đoan về việc AI có thể gây ra thảm họa sinh tồn. Hình dung của họ không phải một AI ác độc phá hoại có chủ ý như trong phim, mà một AGI đầy đủ quy mô tối ưu hóa một cách mù quáng cho một mục tiêu mờ đục, dửng dưng với mối quan tâm của con người. Thí nghiệm tư duy kinh điển là: nếu bạn giao cho một AI đủ mạnh nhiệm vụ làm kẹp giấy mà không đặc tả mục tiêu đủ cẩn thận, cuối cùng nó có thể biến cả thế giới, thậm chí cả vũ trụ, thành kẹp giấy. Bắt đầu lần theo những chuỗi logic như vậy thì vô số chuỗi sự kiện gây bất an mở ra.
+Rồi ông đặt các câu hỏi giả định: nếu có một đại dịch lây nhanh như vậy mà tỷ lệ tử vong lên tới 20% thì sao; hoặc nếu đó là một thứ giống như HIV lây qua đường hô hấp, ủ bệnh nhiều năm mà không có triệu chứng cấp tính? Ông dẫn một ước tính rằng một virus mới lây giữa người với hệ số lây nhiễm khoảng 4 (thấp hơn nhiều so với thủy đậu hay sởi) và tỷ lệ tử vong trên số ca bệnh 50% (thấp hơn nhiều so với Ebola hay cúm gia cầm) vẫn có thể gây hơn một tỷ ca tử vong trong vài tháng, ngay cả khi tính tới các biện pháp kiểu phong tỏa.
+
+Theo chú thích của sách, các con số này lấy từ một buổi trình bày mật, và nhóm tác giả chỉ nói họ hiểu rằng giới chuyên gia an ninh sinh học coi kịch bản đó là khả thi. Câu hỏi cuối của đoạn: nếu nhiều mầm bệnh như vậy được thả ra cùng lúc thì sao? Chuyện đó vượt xa khái niệm khuếch đại sự mong manh; đó là một tai họa không thể đo lường nổi.
+
+**Kịch bản tận thế do AI, và chỗ Suleyman không đồng tình.** Sau một khoảng ngắt, chương chuyển sang một nhánh khác. Suleyman mô tả: ngoài các khuôn sáo của Hollywood, một nhóm nhỏ trong giới nghiên cứu học thuật đã đẩy mạnh một tự sự cực đoan về việc AI có thể gây ra thảm họa sinh tồn. Hình dung của họ không phải một AI ác độc phá hoại có chủ ý như trong phim, mà một AGI đầy đủ quy mô tối ưu hóa một cách mù quáng cho một mục tiêu mờ đục, dửng dưng với mối quan tâm của con người.
+
+Thí nghiệm tư duy kinh điển là: nếu bạn giao cho một AI đủ mạnh nhiệm vụ làm kẹp giấy mà không đặc tả mục tiêu đủ cẩn thận, cuối cùng nó có thể biến cả thế giới, thậm chí cả vũ trụ, thành kẹp giấy. Bắt đầu lần theo những chuỗi logic như vậy thì vô số chuỗi sự kiện gây bất an mở ra.
 
 Ông ghi nhận phần đúng trong lo ngại của giới nghiên cứu an toàn AI: nếu một thứ như AGI được tạo ra, nhân loại sẽ không còn kiểm soát vận mệnh của mình, và lần đầu tiên chúng ta bị hạ bệ khỏi vị trí loài thống trị trong vũ trụ đã biết. Dù người thiết kế thông minh đến đâu và cơ chế an toàn vững đến đâu, việc tính hết mọi khả năng để bảo đảm an toàn là bất khả. Ngay cả khi được căn chỉnh hoàn toàn với lợi ích con người, một AI đủ mạnh về nguyên tắc vẫn có thể viết đè lên chính chương trình của nó, loại bỏ các tính năng an toàn và căn chỉnh tưởng như đã được gắn vào.
 
 Nhưng ông cũng nêu chỗ ông thấy lập luận này yếu. Ông thường nghe người ta nói đại ý "AGI là rủi ro lớn nhất mà nhân loại đối mặt hôm nay, nó sẽ kết liễu thế giới", nhưng khi bị truy hỏi chuyện đó thực sự trông ra sao, diễn ra bằng cách nào, thì câu trả lời trở nên lảng tránh, mơ hồ, mối nguy cụ thể trở nên mù mịt; người ta nói AI có thể chiếm hết tài nguyên tính toán và biến cả thế giới thành một cỗ máy tính khổng lồ. Theo ông, khi AI mạnh dần lên thì các kịch bản cực đoan nhất sẽ cần được cân nhắc và giảm thiểu nghiêm túc; nhưng rất lâu trước khi tới đó, rất nhiều chuyện đã có thể hỏng.
 
-**Điều ông lo hơn: AI như bộ khuếch đại.** Trong mười năm tới, AI sẽ là bộ khuếch đại sức mạnh lớn nhất lịch sử. Chính vì vậy nó có thể cho phép một cuộc tái phân phối quyền lực ở quy mô lịch sử. Là chất xúc tác lớn nhất cho tiến bộ của con người mà ta có thể hình dung, nó đồng thời tạo điều kiện cho tác hại: từ chiến tranh và tai nạn đến các nhóm khủng bố ngẫu nhiên, chính quyền độc đoán, các tập đoàn vươn quá tay, hành vi trộm cắp đơn thuần và phá hoại có chủ ý. Ông đề nghị nghĩ về một trí tuệ nhân tạo có năng lực (ACI) đủ sức vượt qua Phép thử Turing hiện đại một cách dễ dàng, nhưng được hướng vào mục đích thảm họa. AI tiên tiến và sinh học tổng hợp sẽ không chỉ nằm trong tay những nhóm tìm nguồn năng lượng mới hay thuốc chữa bệnh làm thay đổi cuộc sống; chúng cũng sẽ nằm trong tay một Ted Kaczynski kế tiếp.
+**Điều ông lo hơn: AI như bộ khuếch đại.** Trong mười năm tới, AI sẽ là bộ khuếch đại sức mạnh lớn nhất lịch sử. Chính vì vậy nó có thể cho phép một cuộc tái phân phối quyền lực ở quy mô lịch sử. Là chất xúc tác lớn nhất cho tiến bộ của con người mà ta có thể hình dung, nó đồng thời tạo điều kiện cho tác hại: từ chiến tranh và tai nạn đến các nhóm khủng bố ngẫu nhiên, chính quyền độc đoán, các tập đoàn vươn quá tay, hành vi trộm cắp đơn thuần và phá hoại có chủ ý.
+
+Ông đề nghị nghĩ về một trí tuệ nhân tạo có năng lực (ACI) đủ sức vượt qua Phép thử Turing hiện đại một cách dễ dàng, nhưng được hướng vào mục đích thảm họa. AI tiên tiến và sinh học tổng hợp sẽ không chỉ nằm trong tay những nhóm tìm nguồn năng lượng mới hay thuốc chữa bệnh làm thay đổi cuộc sống; chúng cũng sẽ nằm trong tay một Ted Kaczynski kế tiếp.
 
 AI vừa quý giá vừa nguy hiểm chính vì nó là phần nối dài của cả phần tốt nhất lẫn phần tệ nhất trong con người. Là công nghệ dựa trên nguyên lý học, nó có thể liên tục thích nghi, dò tìm, tạo ra chiến lược và ý tưởng mới có thể rất xa những gì từng được nghĩ tới, kể cả bởi các AI khác. Hỏi nó cách làm những việc phá hoại ở quy mô lớn thì nó sẽ trả lời — sớm thôi, theo lời Suleyman. Và ông nói rõ thứ tự ưu tiên lo lắng của mình: hơn cả những cỗ máy tối đa hóa kẹp giấy mang tính suy đoán hay một con quỷ ác độc kỳ lạ nào đó, ông lo về việc công cụ này sẽ khuếch đại những lực lượng vốn đã tồn tại trong mười năm tới.
 
-**Những kiểu hỏng không phải do tấn công.** Ông đề nghị hình dung các kịch bản trong đó AI điều khiển lưới điện, nội dung phát trên truyền thông, nhà máy điện, máy bay, hoặc tài khoản giao dịch của các định chế tài chính lớn. Khi robot có mặt khắp nơi và quân đội chất đầy vũ khí tự hành sát thương — những kho hàng chứa công nghệ có thể tự động giết người hàng loạt chỉ bằng một cái bấm nút theo đúng nghĩa đen — thì một vụ xâm nhập do một AI khác phát triển sẽ trông như thế nào? Rồi ông chuyển sang các kiểu hỏng còn cơ bản hơn, không phải tấn công mà chỉ là lỗi: nếu AI mắc sai lầm trong các hạ tầng nền tảng, hoặc một hệ thống y tế được dùng rộng rãi bắt đầu trục trặc thì sao? Không khó thấy rằng một số lượng lớn tác nhân bán tự chủ có năng lực đang chạy ngoài kia, kể cả những tác nhân theo đuổi mục tiêu thiện chí nhưng được diễn đạt kém, cũng có thể gieo hỗn loạn. Chúng ta chưa biết hệ quả của AI trong các lĩnh vực khác nhau như nông nghiệp, hóa học, phẫu thuật và tài chính. Và đó là một phần của vấn đề: chúng ta không biết những kiểu hỏng nào đang được đưa vào và chúng có thể lan sâu đến đâu.
+**Những kiểu hỏng không phải do tấn công.** Ông đề nghị hình dung các kịch bản trong đó AI điều khiển lưới điện, nội dung phát trên truyền thông, nhà máy điện, máy bay, hoặc tài khoản giao dịch của các định chế tài chính lớn. Khi robot có mặt khắp nơi và quân đội chất đầy vũ khí tự hành sát thương — những kho hàng chứa công nghệ có thể tự động giết người hàng loạt chỉ bằng một cái bấm nút theo đúng nghĩa đen — thì một vụ xâm nhập do một AI khác phát triển sẽ trông như thế nào?
+
+Rồi ông chuyển sang các kiểu hỏng còn cơ bản hơn, không phải tấn công mà chỉ là lỗi: nếu AI mắc sai lầm trong các hạ tầng nền tảng, hoặc một hệ thống y tế được dùng rộng rãi bắt đầu trục trặc thì sao? Không khó thấy rằng một số lượng lớn tác nhân bán tự chủ có năng lực đang chạy ngoài kia, kể cả những tác nhân theo đuổi mục tiêu thiện chí nhưng được diễn đạt kém, cũng có thể gieo hỗn loạn. Chúng ta chưa biết hệ quả của AI trong các lĩnh vực khác nhau như nông nghiệp, hóa học, phẫu thuật và tài chính. Và đó là một phần của vấn đề: chúng ta không biết những kiểu hỏng nào đang được đưa vào và chúng có thể lan sâu đến đâu.
 
 (Theo chú thích của sách gắn vào đoạn này, một con số đáng chú ý không xuất hiện trong lời văn: khoảng một phần ba các nhà khoa học làm việc về AI tin rằng AI có thể dẫn tới thảm họa, theo bài của Jeremy Hsu trên *New Scientist* ngày 22/9/2022.)
 
-**Không có sách hướng dẫn, và an toàn một lần là không đủ.** Suleyman nêu một khó khăn mang tính nhận thức: không có cẩm nang hướng dẫn cách xây các công nghệ của làn sóng sắp tới một cách an toàn. Chúng ta không thể dựng sẵn các hệ thống có sức mạnh và mức nguy hiểm tăng dần để thí nghiệm trước. Chúng ta không thể biết một AI có thể tự cải thiện nhanh đến đâu, hay chuyện gì sẽ xảy ra sau một tai nạn phòng thí nghiệm với một mảnh công nghệ sinh học chưa được phát minh. Chúng ta không nói trước được kết quả của việc nối thẳng ý thức con người vào máy tính, hay một vũ khí mạng có AI hỗ trợ có nghĩa gì với hạ tầng thiết yếu, hay một gene drive sẽ diễn biến ra sao ngoài tự nhiên. Một khi những cỗ máy tự lắp ráp, tiến hóa nhanh hoặc các tác nhân sinh học mới đã được thả ra ngoài thì không có cách quay ngược đồng hồ. Sau một ngưỡng nhất định, ngay cả sự tò mò và nghịch ngợm cũng có thể nguy hiểm. Ông kết luận: ngay cả khi bạn tin rằng xác suất thảm họa là thấp, thì riêng việc chúng ta đang vận hành trong mù mờ cũng đủ để phải dừng lại suy nghĩ.
+**Không có sách hướng dẫn, và an toàn một lần là không đủ.** Suleyman nêu một khó khăn mang tính nhận thức: không có cẩm nang hướng dẫn cách xây các công nghệ của làn sóng sắp tới một cách an toàn. Chúng ta không thể dựng sẵn các hệ thống có sức mạnh và mức nguy hiểm tăng dần để thí nghiệm trước. Chúng ta không thể biết một AI có thể tự cải thiện nhanh đến đâu, hay chuyện gì sẽ xảy ra sau một tai nạn phòng thí nghiệm với một mảnh công nghệ sinh học chưa được phát minh.
 
-Thêm nữa, việc tự mình xây công nghệ an toàn và được khống chế là chưa đủ. Giải bài toán căn chỉnh AI không có nghĩa là giải một lần, mà là giải mỗi lần một AI đủ mạnh được tạo ra, ở bất cứ đâu và bất cứ khi nào. Không phải chỉ giải bài toán rò rỉ ở một phòng thí nghiệm, mà ở mọi phòng thí nghiệm, ở mọi nước, mãi mãi, kể cả khi chính các nước đó đang chịu sức ép chính trị nghiêm trọng. Một khi công nghệ đạt tới năng lực tới hạn, việc những người tiên phong xây dựng nó một cách an toàn là không đủ, dù bản thân việc đó đã rất khó; an toàn thật sự đòi hỏi duy trì các chuẩn mực ấy ở từng trường hợp một — một kỳ vọng khổng lồ khi các công nghệ này đã lan nhanh và rộng tới mức hiện nay.
+Chúng ta không nói trước được kết quả của việc nối thẳng ý thức con người vào máy tính, hay một vũ khí mạng có AI hỗ trợ có nghĩa gì với hạ tầng thiết yếu, hay một gene drive sẽ diễn biến ra sao ngoài tự nhiên.
+
+Một khi những cỗ máy tự lắp ráp, tiến hóa nhanh hoặc các tác nhân sinh học mới đã được thả ra ngoài thì không có cách quay ngược đồng hồ. Sau một ngưỡng nhất định, ngay cả sự tò mò và nghịch ngợm cũng có thể nguy hiểm. Ông kết luận: ngay cả khi bạn tin rằng xác suất thảm họa là thấp, thì riêng việc chúng ta đang vận hành trong mù mờ cũng đủ để phải dừng lại suy nghĩ.
+
+Thêm nữa, việc tự mình xây công nghệ an toàn và được khống chế là chưa đủ. Giải bài toán căn chỉnh AI không có nghĩa là giải một lần, mà là giải mỗi lần một AI đủ mạnh được tạo ra, ở bất cứ đâu và bất cứ khi nào. Không phải chỉ giải bài toán rò rỉ ở một phòng thí nghiệm, mà ở mọi phòng thí nghiệm, ở mọi nước, mãi mãi, kể cả khi chính các nước đó đang chịu sức ép chính trị nghiêm trọng.
+
+Một khi công nghệ đạt tới năng lực tới hạn, việc những người tiên phong xây dựng nó một cách an toàn là không đủ, dù bản thân việc đó đã rất khó; an toàn thật sự đòi hỏi duy trì các chuẩn mực ấy ở từng trường hợp một — một kỳ vọng khổng lồ khi các công nghệ này đã lan nhanh và rộng tới mức hiện nay.
 
 Đây là điều xảy ra khi bất kỳ ai cũng tự do phát minh hay sử dụng những công cụ ảnh hưởng tới tất cả chúng ta. Và, ông nhấn mạnh, ở đây không phải chuyện tiếp cận một máy in hay một đầu máy hơi nước, dù chúng từng phi thường đến đâu; ở đây là những sản phẩm đầu ra có bản chất hoàn toàn mới: hợp chất mới, sự sống mới, loài mới.
 
@@ -693,9 +712,15 @@ Mục khép lại bằng một kết luận có điều kiện: nếu làn sóng
 
 Suleyman mở mục bằng cách phân loại rủi ro. Phần lớn thời gian, rủi ro phát sinh từ những việc như nghiên cứu tăng cường chức năng (gain-of-function) là kết quả của các nỗ lực được cho phép và lành tính. Nói cách khác, chúng là các hiệu ứng trả đũa (revenge effects) được phóng đại lên cỡ lớn, tức hậu quả ngoài ý muốn của mong muốn làm điều tốt. Nhưng, ông viết, một số tổ chức được lập ra với động cơ ngược lại hoàn toàn.
 
-**Aum Shinrikyo.** Được thành lập trong thập niên 1980, Aum Shinrikyo (nghĩa là "Chân Lý Tối Thượng") là một giáo phái tận thế ở Nhật Bản. Nhóm khởi đầu từ một lớp học yoga dưới sự dẫn dắt của một người tự xưng là Shoko Asahara. Xây dựng lực lượng thành viên trong số những người bất mãn, họ cực đoan hóa khi số lượng phình ra, tin rằng ngày tận thế đã gần kề, rằng chỉ riêng họ sẽ sống sót, và rằng họ nên thúc cho ngày đó đến nhanh hơn. Asahara đưa giáo phái lên quy mô từ bốn mươi nghìn đến sáu mươi nghìn thành viên, và dỗ dành được một nhóm thuộc hạ trung thành đi tới chỗ sử dụng vũ khí sinh học và hóa học. Ở đỉnh cao, giáo phái được ước tính nắm hơn một tỷ USD tài sản và có hàng chục nhà khoa học được đào tạo bài bản trong hàng ngũ (theo chú thích của sách, con số này lấy từ báo cáo "The Operation of the Aum" của Federation of American Scientists, trong hồ sơ điều trần của Tiểu ban Thường trực về Điều tra thuộc Ủy ban Đối ngoại Chính phủ Thượng viện Mỹ, 31/10/1995). Dù họ mê những vũ khí kỳ quặc kiểu khoa học viễn tưởng như máy tạo động đất, súng plasma và gương hắt tia nắng mặt trời, đây là một nhóm nghiêm túc đến mức chết người và rất tinh vi.
+**Aum Shinrikyo.** Được thành lập trong thập niên 1980, Aum Shinrikyo (nghĩa là "Chân Lý Tối Thượng") là một giáo phái tận thế ở Nhật Bản. Nhóm khởi đầu từ một lớp học yoga dưới sự dẫn dắt của một người tự xưng là Shoko Asahara. Xây dựng lực lượng thành viên trong số những người bất mãn, họ cực đoan hóa khi số lượng phình ra, tin rằng ngày tận thế đã gần kề, rằng chỉ riêng họ sẽ sống sót, và rằng họ nên thúc cho ngày đó đến nhanh hơn.
 
-Về hoạt động, sách liệt kê: Aum lập các công ty bình phong và cài người vào các phòng thí nghiệm đại học để mua được vật liệu; mua đất ở Úc với ý định thăm dò uranium để chế tạo vũ khí hạt nhân; và triển khai một chương trình vũ khí sinh học, hóa học quy mô lớn ở vùng đồi núi ngoại ô Tokyo. Nhóm thử nghiệm nhiều loại chất độc công nghiệp và chất độc thần kinh, lên kế hoạch tạo ra và phát tán một phiên bản tăng cường của bệnh than, và tuyển cả một nhà virus học trình độ sau đại học để hỗ trợ. Các thành viên đã lấy được một loại độc tố thần kinh và rải nó ở sân bay quốc tế Narita, tòa nhà Quốc hội Nhật Bản, Hoàng cung, trụ sở một nhóm tôn giáo khác và hai căn cứ hải quân Mỹ; may mắn là họ mắc lỗi trong khâu chế tạo nên không ai bị hại.
+Asahara đưa giáo phái lên quy mô từ bốn mươi nghìn đến sáu mươi nghìn thành viên, và dỗ dành được một nhóm thuộc hạ trung thành đi tới chỗ sử dụng vũ khí sinh học và hóa học. Ở đỉnh cao, giáo phái được ước tính nắm hơn một tỷ USD tài sản và có hàng chục nhà khoa học được đào tạo bài bản trong hàng ngũ (theo chú thích của sách, con số này lấy từ báo cáo "The Operation of the Aum" của Federation of American Scientists, trong hồ sơ điều trần của Tiểu ban Thường trực về Điều tra thuộc Ủy ban Đối ngoại Chính phủ Thượng viện Mỹ, 31/10/1995).
+
+Dù họ mê những vũ khí kỳ quặc kiểu khoa học viễn tưởng như máy tạo động đất, súng plasma và gương hắt tia nắng mặt trời, đây là một nhóm nghiêm túc đến mức chết người và rất tinh vi.
+
+Về hoạt động, sách liệt kê: Aum lập các công ty bình phong và cài người vào các phòng thí nghiệm đại học để mua được vật liệu; mua đất ở Úc với ý định thăm dò uranium để chế tạo vũ khí hạt nhân; và triển khai một chương trình vũ khí sinh học, hóa học quy mô lớn ở vùng đồi núi ngoại ô Tokyo.
+
+Nhóm thử nghiệm nhiều loại chất độc công nghiệp và chất độc thần kinh, lên kế hoạch tạo ra và phát tán một phiên bản tăng cường của bệnh than, và tuyển cả một nhà virus học trình độ sau đại học để hỗ trợ. Các thành viên đã lấy được một loại độc tố thần kinh và rải nó ở sân bay quốc tế Narita, tòa nhà Quốc hội Nhật Bản, Hoàng cung, trụ sở một nhóm tôn giáo khác và hai căn cứ hải quân Mỹ; may mắn là họ mắc lỗi trong khâu chế tạo nên không ai bị hại.
 
 Điều đó không kéo dài. Năm 1994, Aum Shinrikyo phát tán chất độc thần kinh sarin từ một chiếc xe tải, làm tám người chết và hai trăm người bị thương. Một năm sau, họ tấn công hệ thống tàu điện ngầm Tokyo, cũng bằng sarin, làm mười ba người chết và khoảng sáu nghìn người bị thương. Vụ tàu điện ngầm gây hại nặng hơn một phần vì xảy ra trong không gian kín. Suleyman nhấn mạnh hai điểm: cả hai vụ đều không dùng được cách phát tán thực sự hiệu quả, và rốt cuộc chỉ có may mắn mới ngăn được một sự kiện thảm khốc hơn.
 
@@ -727,25 +752,39 @@ Những đề xuất như vậy hiện còn ở bên lề, nhất là ở phươ
 
 Để trả lời ai đó nghi ngờ rằng xã hội sẽ không chấp nhận mức giám sát như thế, ông nhắc lại kinh nghiệm COVID: việc đóng cửa toàn xã hội, điều không thể tưởng tượng nổi chỉ vài tuần trước đó, bỗng trở thành một thực tế không thể tránh trong đại dịch. Mức tuân thủ, ít nhất ở giai đoạn đầu, gần như phổ quát trước lời kêu gọi của các chính phủ đang hoảng loạn rằng mỗi người "hãy làm phần việc của mình". Mức khoan dung của công chúng với những biện pháp mạnh nhân danh an toàn, theo ông, là cao.
 
-Từ đó ông mô tả vòng xoáy đi xuống. Một đại họa sẽ thổi bùng lời kêu gọi dựng một bộ máy giám sát cực đoan để chặn những sự kiện tương tự trong tương lai. Nếu hoặc khi một việc gì đó hỏng với công nghệ, bao lâu nữa thì cuộc trấn áp bắt đầu? Làm sao có ai có thể lập luận chống lại nó một cách thuyết phục ngay giữa một thảm họa? Bao lâu nữa thì phản địa đàng giám sát bén rễ, từng cái vòi bò lan một, rồi lớn lên? Khi các thất bại công nghệ quy mô nhỏ chồng chất, lời kêu gọi kiểm soát tăng lên; khi kiểm soát tăng, các cơ chế kiềm chế và đối trọng bị bào mòn, nền đất dịch chuyển và mở đường cho những can thiệp sâu hơn, và một vòng xoáy đi xuống đều đặn tới phản địa đàng công nghệ bắt đầu.
+Từ đó ông mô tả vòng xoáy đi xuống. Một đại họa sẽ thổi bùng lời kêu gọi dựng một bộ máy giám sát cực đoan để chặn những sự kiện tương tự trong tương lai. Nếu hoặc khi một việc gì đó hỏng với công nghệ, bao lâu nữa thì cuộc trấn áp bắt đầu? Làm sao có ai có thể lập luận chống lại nó một cách thuyết phục ngay giữa một thảm họa? Bao lâu nữa thì phản địa đàng giám sát bén rễ, từng cái vòi bò lan một, rồi lớn lên?
+
+Khi các thất bại công nghệ quy mô nhỏ chồng chất, lời kêu gọi kiểm soát tăng lên; khi kiểm soát tăng, các cơ chế kiềm chế và đối trọng bị bào mòn, nền đất dịch chuyển và mở đường cho những can thiệp sâu hơn, và một vòng xoáy đi xuống đều đặn tới phản địa đàng công nghệ bắt đầu.
 
 Đánh đổi giữa tự do và an ninh là một thế lưỡng nan cổ xưa, đã có trong mô tả nền tảng về nhà nước Leviathan của Thomas Hobbes, và chưa bao giờ biến mất. Quan hệ ấy thường phức tạp và nhiều chiều, nhưng làn sóng sắp tới đẩy mức đặt cược lên một nấc mới. Hai câu hỏi ông nêu ra là: mức kiểm soát xã hội nào là thích đáng để chặn một đại dịch nhân tạo, và mức can thiệp vào *các nước khác* nào là thích đáng cho cùng mục đích đó? Hệ quả với tự do, chủ quyền và quyền riêng tư chưa bao giờ có thể đau đớn tới mức ấy.
 
-Phán quyết của Suleyman rất rõ: một xã hội giám sát đàn áp dựa trên sự minh bạch hoàn toàn và kiểm soát tinh vi, theo ông, đơn giản là một thất bại khác, một cách khác trong đó năng lực của làn sóng sắp tới dẫn tới điều ngược lại với sự nở hoa của con người. Mọi ứng dụng mang tính cưỡng chế, thiên lệch và bất công trắng trợn sẽ được khuếch đại mạnh. Các quyền và tự do giành được khó nhọc sẽ bị đẩy lùi. Quyền tự quyết dân tộc, với nhiều nước, tốt nhất cũng chỉ còn ở mức bị tổn hại. Lần này không phải sự mong manh được khuếch đại, mà là sự áp bức trắng trợn được khuếch đại. Nếu câu trả lời cho thảm họa là một phản địa đàng như vậy thì đó không phải là câu trả lời nào cả.
+Phán quyết của Suleyman rất rõ: một xã hội giám sát đàn áp dựa trên sự minh bạch hoàn toàn và kiểm soát tinh vi, theo ông, đơn giản là một thất bại khác, một cách khác trong đó năng lực của làn sóng sắp tới dẫn tới điều ngược lại với sự nở hoa của con người.
+
+Mọi ứng dụng mang tính cưỡng chế, thiên lệch và bất công trắng trợn sẽ được khuếch đại mạnh. Các quyền và tự do giành được khó nhọc sẽ bị đẩy lùi. Quyền tự quyết dân tộc, với nhiều nước, tốt nhất cũng chỉ còn ở mức bị tổn hại. Lần này không phải sự mong manh được khuếch đại, mà là sự áp bức trắng trợn được khuếch đại. Nếu câu trả lời cho thảm họa là một phản địa đàng như vậy thì đó không phải là câu trả lời nào cả.
 
 **Những bước đầu đã được đi.** Sau khoảng ngắt, ông chỉ ra rằng với kiến trúc theo dõi và cưỡng chế đang được xây ở Trung Quốc và nơi khác, có thể nói những bước đầu tiên đã được thực hiện. Nguy cơ đại họa cộng với lời hứa về an toàn sẽ cho phép thực hiện nhiều bước nữa. Mọi làn sóng công nghệ đều từng tạo ra khả năng cao gây xáo trộn hệ thống với trật tự xã hội; nhưng cho tới nay chưa làn sóng nào tạo ra rủi ro thảm họa rộng và mang tính hệ thống trên quy mô toàn cầu. Đó là điều đã thay đổi, và cũng là điều có thể kích hoạt một phản ứng phản địa đàng.
 
-Ông mô tả ba khả năng cùng tồn tại trên một dải liên tục. Nếu các nhà nước kiểu thây ma sẽ mộng du đi vào thảm họa, với sự cởi mở và tình trạng hỗn loạn ngày càng tăng của chúng đóng vai đĩa nuôi cấy cho công nghệ không được khống chế, thì các nhà nước độc đoán đã hăm hở lao thẳng vào đúng cái phản địa đàng công nghệ ấy, dọn sẵn sân khấu, về mặt kỹ thuật nếu không phải về mặt đạo đức, cho những cuộc xâm phạm quyền riêng tư quy mô lớn và việc cắt xén tự do. Và trên dải liên tục giữa hai thái cực đó còn có khả năng tệ nhất của mọi thế giới: những bộ máy giám sát và kiểm soát rải rác, vẫn mang tính đàn áp nhưng không đủ ghép thành một hệ thống kín kẽ. Tức là: vừa thảm họa vừa phản địa đàng.
+Ông mô tả ba khả năng cùng tồn tại trên một dải liên tục. Nếu các nhà nước kiểu thây ma sẽ mộng du đi vào thảm họa, với sự cởi mở và tình trạng hỗn loạn ngày càng tăng của chúng đóng vai đĩa nuôi cấy cho công nghệ không được khống chế, thì các nhà nước độc đoán đã hăm hở lao thẳng vào đúng cái phản địa đàng công nghệ ấy, dọn sẵn sân khấu, về mặt kỹ thuật nếu không phải về mặt đạo đức, cho những cuộc xâm phạm quyền riêng tư quy mô lớn và việc cắt xén tự do.
 
-Để đặt tên cho hình dung ấy, ông mượn khái niệm "cỗ siêu máy" (megamachine) của nhà triết học công nghệ Lewis Mumford: nơi các hệ thống xã hội kết hợp với công nghệ để tạo thành "một cấu trúc đồng nhất, bao trùm tất cả" được "điều khiển vì lợi ích của các tổ chức tập thể đã bị phi nhân cách hóa". Nhân danh an ninh, nhân loại có thể thả cỗ siêu máy ra để, theo đúng nghĩa đen, ngăn những cỗ siêu máy khác ra đời. Như vậy, một cách nghịch lý, làn sóng sắp tới có thể tạo ra đúng những công cụ cần thiết để khống chế chính nó. Nhưng khi làm vậy, nó mở ra một kiểu thất bại trong đó quyền tự quyết, tự do và riêng tư bị xóa sạch, nơi các hệ thống giám sát và kiểm soát bằng máy di căn thành những hình thức thống trị bóp nghẹt xã hội.
+Và trên dải liên tục giữa hai thái cực đó còn có khả năng tệ nhất của mọi thế giới: những bộ máy giám sát và kiểm soát rải rác, vẫn mang tính đàn áp nhưng không đủ ghép thành một hệ thống kín kẽ. Tức là: vừa thảm họa vừa phản địa đàng.
 
-Với những ai có thể nói rằng bức tranh đàn áp này chính là hiện tại, ông đáp rằng hiện tại chẳng là gì so với những gì tương lai có thể mang lại. Ông cũng nói rõ đây không phải con đường phản địa đàng duy nhất; có nhiều con đường khác, nhưng con đường này tương quan trực tiếp với cả các thách thức chính trị của làn sóng lẫn tiềm năng thảm họa của nó, và nó không chỉ là một thí nghiệm tư duy mơ hồ. Đứng trước điều đó, ông nêu các câu hỏi dẫn sang mục cuối: dù các động lực đằng sau có vẻ quá lớn và không thể lay chuyển, liệu nhân loại có nên xuống tàu? Liệu có nên từ chối hoàn toàn việc phát triển công nghệ liên tục? Liệu đã đến lúc, dù điều đó khó xảy ra đến đâu, tạm dừng chính công nghệ?
+Để đặt tên cho hình dung ấy, ông mượn khái niệm "cỗ siêu máy" (megamachine) của nhà triết học công nghệ Lewis Mumford: nơi các hệ thống xã hội kết hợp với công nghệ để tạo thành "một cấu trúc đồng nhất, bao trùm tất cả" được "điều khiển vì lợi ích của các tổ chức tập thể đã bị phi nhân cách hóa". Nhân danh an ninh, nhân loại có thể thả cỗ siêu máy ra để, theo đúng nghĩa đen, ngăn những cỗ siêu máy khác ra đời.
+
+Như vậy, một cách nghịch lý, làn sóng sắp tới có thể tạo ra đúng những công cụ cần thiết để khống chế chính nó. Nhưng khi làm vậy, nó mở ra một kiểu thất bại trong đó quyền tự quyết, tự do và riêng tư bị xóa sạch, nơi các hệ thống giám sát và kiểm soát bằng máy di căn thành những hình thức thống trị bóp nghẹt xã hội.
+
+Với những ai có thể nói rằng bức tranh đàn áp này chính là hiện tại, ông đáp rằng hiện tại chẳng là gì so với những gì tương lai có thể mang lại. Ông cũng nói rõ đây không phải con đường phản địa đàng duy nhất; có nhiều con đường khác, nhưng con đường này tương quan trực tiếp với cả các thách thức chính trị của làn sóng lẫn tiềm năng thảm họa của nó, và nó không chỉ là một thí nghiệm tư duy mơ hồ.
+
+Đứng trước điều đó, ông nêu các câu hỏi dẫn sang mục cuối: dù các động lực đằng sau có vẻ quá lớn và không thể lay chuyển, liệu nhân loại có nên xuống tàu? Liệu có nên từ chối hoàn toàn việc phát triển công nghệ liên tục? Liệu đã đến lúc, dù điều đó khó xảy ra đến đâu, tạm dừng chính công nghệ?
 
 ### 5. Stagnation: A Different Kind of Catastrophe — Trì trệ: một dạng thảm họa khác (trang PDF 238–242)
 
-Suleyman mở mục bằng một quan sát về cảm giác: nhìn các đô thị rộng lớn của chúng ta, những tòa nhà công cộng vững chãi bằng thép và đá, những chuỗi đường bộ và đường sắt khâu chúng lại với nhau, những công trình cảnh quan và kỹ thuật khổng lồ điều tiết môi trường của chúng, xã hội chúng ta toát ra một cảm giác vĩnh cửu rất dễ tin. Dù thế giới số không có trọng lượng, thế giới vật chất quanh ta vẫn đặc và dồi dào, và nó định hình những kỳ vọng thường ngày: ta vào siêu thị và trông đợi nó đầy rau quả tươi, mát về mùa hè và ấm về mùa đông. Dù xáo trộn liên tục, ta vẫn mặc nhiên cho rằng các chuỗi cung ứng và tiện nghi của thế kỷ XXI vững như một tòa thị chính cũ. Mọi phần cực đoan nhất xét theo chuẩn lịch sử trong đời sống của chúng ta lại có vẻ hết sức tầm thường, nên phần lớn chúng ta sống như thể chúng có thể kéo dài vô hạn định. Phần lớn những người quanh ta, kể cả các nhà lãnh đạo, cũng vậy.
+Suleyman mở mục bằng một quan sát về cảm giác: nhìn các đô thị rộng lớn của chúng ta, những tòa nhà công cộng vững chãi bằng thép và đá, những chuỗi đường bộ và đường sắt khâu chúng lại với nhau, những công trình cảnh quan và kỹ thuật khổng lồ điều tiết môi trường của chúng, xã hội chúng ta toát ra một cảm giác vĩnh cửu rất dễ tin.
 
-Nhưng không gì tồn tại mãi mãi. Trong lịch sử, các vụ sụp đổ của xã hội nhiều vô kể: từ Lưỡng Hà cổ đại tới La Mã, từ người Maya tới đảo Phục Sinh. Lặp đi lặp lại, vấn đề không chỉ là các nền văn minh không tồn tại mãi, mà là tính không bền vững dường như được cài sẵn trong chúng. Các nền văn minh sụp đổ không phải ngoại lệ mà là quy luật. Một khảo sát sáu mươi nền văn minh cho thấy trung bình mỗi nền tồn tại khoảng bốn trăm năm trước khi tan rã. Thiếu công nghệ mới, chúng đụng phải các giới hạn cứng của sự phát triển, về năng lượng sẵn có, về lương thực, về độ phức tạp xã hội, và các giới hạn ấy làm chúng đổ sập (theo chú thích của sách, lập luận này dựa trên Ian Morris, *Why the West Rules — for Now*; Joseph Tainter, *The Collapse of Complex Societies*; và Jared Diamond, *Collapse*).
+Dù thế giới số không có trọng lượng, thế giới vật chất quanh ta vẫn đặc và dồi dào, và nó định hình những kỳ vọng thường ngày: ta vào siêu thị và trông đợi nó đầy rau quả tươi, mát về mùa hè và ấm về mùa đông. Dù xáo trộn liên tục, ta vẫn mặc nhiên cho rằng các chuỗi cung ứng và tiện nghi của thế kỷ XXI vững như một tòa thị chính cũ. Mọi phần cực đoan nhất xét theo chuẩn lịch sử trong đời sống của chúng ta lại có vẻ hết sức tầm thường, nên phần lớn chúng ta sống như thể chúng có thể kéo dài vô hạn định. Phần lớn những người quanh ta, kể cả các nhà lãnh đạo, cũng vậy.
+
+Nhưng không gì tồn tại mãi mãi. Trong lịch sử, các vụ sụp đổ của xã hội nhiều vô kể: từ Lưỡng Hà cổ đại tới La Mã, từ người Maya tới đảo Phục Sinh. Lặp đi lặp lại, vấn đề không chỉ là các nền văn minh không tồn tại mãi, mà là tính không bền vững dường như được cài sẵn trong chúng. Các nền văn minh sụp đổ không phải ngoại lệ mà là quy luật.
+
+Một khảo sát sáu mươi nền văn minh cho thấy trung bình mỗi nền tồn tại khoảng bốn trăm năm trước khi tan rã. Thiếu công nghệ mới, chúng đụng phải các giới hạn cứng của sự phát triển, về năng lượng sẵn có, về lương thực, về độ phức tạp xã hội, và các giới hạn ấy làm chúng đổ sập (theo chú thích của sách, lập luận này dựa trên Ian Morris, *Why the West Rules — for Now*; Joseph Tainter, *The Collapse of Complex Societies*; và Jared Diamond, *Collapse*).
 
 Điều duy nhất đã thay đổi là: trong vài trăm năm qua, sự phát triển công nghệ liên tục dường như đã giúp các xã hội thoát khỏi cái bẫy sắt của lịch sử. Nhưng sẽ là sai nếu nghĩ rằng động lực ấy đã chấm dứt. Nền văn minh thế kỷ XXI dĩ nhiên khác xa người Maya, nhưng các sức ép từ một thượng tầng khổng lồ và đói khát, từ một dân số lớn, từ các giới hạn cứng của năng lượng và của năng lực văn minh không hề biến mất một cách thần kỳ; chúng chỉ bị giữ cho lùi lại.
 
@@ -753,7 +792,9 @@ Giả sử có một thế giới trong đó các động lực kia có thể b�
 
 **Lý do thứ nhất: nền văn minh hiện đại đang ký những tấm séc chỉ công nghệ mới thanh toán được.** Toàn bộ công trình xã hội của chúng ta dựa trên ý tưởng về tăng trưởng kinh tế dài hạn, và tăng trưởng kinh tế dài hạn rốt cuộc dựa trên việc đưa vào và lan tỏa các công nghệ mới. Dù đó là kỳ vọng tiêu dùng nhiều hơn với giá rẻ hơn, hay nhận ngày càng nhiều dịch vụ công mà không phải đóng thêm thuế, hay ý tưởng rằng ta có thể làm suy thoái môi trường một cách không bền vững trong khi đời sống vẫn khá lên vô hạn định, thì thỏa thuận ấy — mà theo ông, có thể nói chính là thỏa thuận lớn giữa nhà nước và công dân — đều cần công nghệ.
 
-**Lý do thứ hai: các thách thức lớn của hành tinh không thể giải nếu thiếu công nghệ mới.** Chi phí của việc giữ nguyên hiện trạng, tính bằng sự bóc lột con người và vật chất, không thể gạt sang một bên. Bộ công nghệ hiện có của chúng ta xét nhiều mặt là đáng nể, nhưng có rất ít dấu hiệu cho thấy nó có thể được triển khai một cách bền vững để nuôi hơn tám tỷ người ở mức mà người dân các nước phát triển coi là đương nhiên. Dù điều này khó nghe với một số người, ông vẫn lặp lại: giải quyết các vấn đề như biến đổi khí hậu, hay duy trì mức sống và tiêu chuẩn y tế đang tăng, hay cải thiện giáo dục và cơ hội, sẽ không xảy ra nếu trong gói giải pháp không có các công nghệ mới.
+**Lý do thứ hai: các thách thức lớn của hành tinh không thể giải nếu thiếu công nghệ mới.** Chi phí của việc giữ nguyên hiện trạng, tính bằng sự bóc lột con người và vật chất, không thể gạt sang một bên. Bộ công nghệ hiện có của chúng ta xét nhiều mặt là đáng nể, nhưng có rất ít dấu hiệu cho thấy nó có thể được triển khai một cách bền vững để nuôi hơn tám tỷ người ở mức mà người dân các nước phát triển coi là đương nhiên.
+
+Dù điều này khó nghe với một số người, ông vẫn lặp lại: giải quyết các vấn đề như biến đổi khí hậu, hay duy trì mức sống và tiêu chuẩn y tế đang tăng, hay cải thiện giáo dục và cơ hội, sẽ không xảy ra nếu trong gói giải pháp không có các công nghệ mới.
 
 **Lý do thứ ba: tạm dừng chỉ đổi một phản địa đàng lấy một phản địa đàng khác.** Việc tạm dừng phát triển công nghệ, giả sử làm được, theo một nghĩa nào đó sẽ dẫn tới an toàn: ít nhất nó hạn chế việc đưa thêm các rủi ro thảm họa mới vào. Nhưng nó không có nghĩa là tránh được phản địa đàng. Ngược lại, khi tính không bền vững của các xã hội thế kỷ XXI bắt đầu lộ ra, nó sẽ chỉ mang lại một dạng phản địa đàng khác. Thiếu công nghệ mới, sớm hay muộn mọi thứ sẽ trì trệ, và có thể sụp đổ hoàn toàn.
 
@@ -769,7 +810,9 @@ Về Trung Quốc, Suleyman viết thẳng: nước này hoàn toàn không bề
 
 Vấn đề không chỉ là con số mà còn là chuyên môn, cơ sở thuế và mức đầu tư: người nghỉ hưu sẽ rút tiền ra khỏi hệ thống chứ không đầu tư dài hạn. Tất cả những điều này dẫn tới một nhận định mà sách trích nguyên văn từ Peter Zeihan: các mô hình quản trị của thời kỳ sau Thế chiến II không chỉ vỡ nợ, chúng trở thành những hiệp ước tự sát của xã hội. Các xu hướng nhân khẩu phải mất hàng chục năm mới chuyển hướng, và các thế hệ không thay đổi quy mô của mình. Sự suy giảm chậm rãi, không thể lay chuyển này đã bị khóa chặt sẵn, một tảng băng đang hiện ra mà chúng ta không thể làm gì để tránh — trừ việc tìm cách thay thế số lao động thiếu hụt đó.
 
-**Sức ép tài nguyên.** Căng thẳng về tài nguyên cũng là điều chắc chắn. Việc tìm nguồn vật liệu cho công nghệ sạch, chưa nói tới mọi thứ khác, cực kỳ phức tạp và dễ tổn thương. Nhu cầu lithium, cobalt và graphite được dự báo tăng 500% (sách ghi mốc tới năm 2030, dẫn trang "Climate-Smart Mining" của World Bank). Hiện pin là hy vọng tốt nhất cho một nền kinh tế sạch, vậy mà dung lượng lưu trữ hiện có chỉ vừa đủ để đưa phần lớn các nơi qua vài phút, thậm chí vài giây tiêu thụ năng lượng. Để thay thế các trữ lượng đang cạn nhanh hoặc khắc phục đứt gãy chuỗi cung ứng trên hàng loạt vật liệu, chúng ta cần các lựa chọn khác, nghĩa là cần những đột phá công nghệ và khoa học mới trong các lĩnh vực như khoa học vật liệu.
+**Sức ép tài nguyên.** Căng thẳng về tài nguyên cũng là điều chắc chắn. Việc tìm nguồn vật liệu cho công nghệ sạch, chưa nói tới mọi thứ khác, cực kỳ phức tạp và dễ tổn thương. Nhu cầu lithium, cobalt và graphite được dự báo tăng 500% (sách ghi mốc tới năm 2030, dẫn trang "Climate-Smart Mining" của World Bank).
+
+Hiện pin là hy vọng tốt nhất cho một nền kinh tế sạch, vậy mà dung lượng lưu trữ hiện có chỉ vừa đủ để đưa phần lớn các nơi qua vài phút, thậm chí vài giây tiêu thụ năng lượng. Để thay thế các trữ lượng đang cạn nhanh hoặc khắc phục đứt gãy chuỗi cung ứng trên hàng loạt vật liệu, chúng ta cần các lựa chọn khác, nghĩa là cần những đột phá công nghệ và khoa học mới trong các lĩnh vực như khoa học vật liệu.
 
 **Phép tính "đứng yên".** Với các ràng buộc về dân số và tài nguyên, chỉ để đứng yên tại chỗ, thế giới có lẽ đã cần năng suất toàn cầu tăng gấp hai đến ba lần (theo chú thích của sách, dựa trên Oded Galor, *The Journey of Humanity*, trang 130). Mà đứng yên là điều không chấp nhận được với phần lớn nhân loại: trong nhóm ấy, tỷ lệ tử vong trẻ em cao gấp mười hai lần so với các nước phát triển. Hơn nữa, việc duy trì ngay cả ở mức hiện tại không chỉ kéo theo sức ép nhân khẩu và tài nguyên, mà còn cộng thêm tình trạng khẩn cấp về khí hậu. Nói cho rõ: đứng yên tự nó đã báo hiệu thảm họa.
 
@@ -781,15 +824,21 @@ Ngay cả khi làm được, ý tưởng dừng làn sóng sắp tới cũng kh�
 
 ### 6. Where Next? — Tiếp theo là gì? (trang PDF 242–243)
 
-Mục cuối lùi lại để đặt lập luận của cả chương vào dòng lịch sử tư tưởng. Từ buổi đầu của thời đại hạt nhân và thời đại số, thế lưỡng nan này đã ngày càng hiện rõ. Năm 1955, vào cuối đời, nhà toán học John von Neumann viết một tiểu luận tên là "Can We Survive Technology?" ("Chúng ta có thể sống sót qua công nghệ không?"). Báo trước chính lập luận của cuốn sách này, ông cho rằng xã hội toàn cầu đang ở "trong một cuộc khủng hoảng chín muồi rất nhanh — một cuộc khủng hoảng do chỗ môi trường mà tiến bộ công nghệ phải diễn ra bên trong đã trở nên vừa quá nhỏ vừa thiếu tổ chức". Ở cuối tiểu luận, von Neumann chỉ đặt sự sống sót ở mức "một khả năng", điều dễ hiểu khi ông viết dưới bóng đám mây hình nấm mà chính chiếc máy tính của ông đã góp phần biến thành hiện thực. "Với tiến bộ thì không có thuốc chữa," ông viết; mọi nỗ lực tìm ra những kênh dẫn an toàn một cách tự động cho sự đa dạng bùng nổ của tiến bộ hiện nay tất phải dẫn tới thất vọng.
+Mục cuối lùi lại để đặt lập luận của cả chương vào dòng lịch sử tư tưởng. Từ buổi đầu của thời đại hạt nhân và thời đại số, thế lưỡng nan này đã ngày càng hiện rõ. Năm 1955, vào cuối đời, nhà toán học John von Neumann viết một tiểu luận tên là "Can We Survive Technology?" ("Chúng ta có thể sống sót qua công nghệ không?"). Báo trước chính lập luận của cuốn sách này, ông cho rằng xã hội toàn cầu đang ở "trong một cuộc khủng hoảng chín muồi rất nhanh — một cuộc khủng hoảng do chỗ môi trường mà tiến bộ công nghệ phải diễn ra bên trong đã trở nên vừa quá nhỏ vừa thiếu tổ chức".
 
-Suleyman nói rõ lập trường của mình. Ông không đơn độc trong mong muốn xây dựng công nghệ gặt hái được nhiều lợi ích trong khi đóng lại các rủi ro. Một số người sẽ chế giễu tham vọng đó như một dạng ngạo mạn kiểu Thung lũng Silicon, nhưng ông vẫn tin rằng công nghệ là động lực hàng đầu để cải thiện thế giới và đời sống của chúng ta. Bất chấp mọi tác hại, mặt trái và hậu quả ngoài ý muốn, đóng góp của công nghệ cho tới nay là tích cực ròng một cách áp đảo. Bằng chứng hằng ngày của ông mang giọng châm biếm nhẹ: ngay cả những người phê phán công nghệ gay gắt nhất nói chung vẫn vui vẻ dùng ấm đun nước, uống một viên aspirin, xem tivi và đi tàu điện ngầm. Ứng với mỗi khẩu súng có một liều penicillin cứu mạng; ứng với mỗi mẩu thông tin sai lệch, một sự thật nhanh chóng được phơi ra.
+Ở cuối tiểu luận, von Neumann chỉ đặt sự sống sót ở mức "một khả năng", điều dễ hiểu khi ông viết dưới bóng đám mây hình nấm mà chính chiếc máy tính của ông đã góp phần biến thành hiện thực. "Với tiến bộ thì không có thuốc chữa," ông viết; mọi nỗ lực tìm ra những kênh dẫn an toàn một cách tự động cho sự đa dạng bùng nổ của tiến bộ hiện nay tất phải dẫn tới thất vọng.
+
+Suleyman nói rõ lập trường của mình. Ông không đơn độc trong mong muốn xây dựng công nghệ gặt hái được nhiều lợi ích trong khi đóng lại các rủi ro. Một số người sẽ chế giễu tham vọng đó như một dạng ngạo mạn kiểu Thung lũng Silicon, nhưng ông vẫn tin rằng công nghệ là động lực hàng đầu để cải thiện thế giới và đời sống của chúng ta. Bất chấp mọi tác hại, mặt trái và hậu quả ngoài ý muốn, đóng góp của công nghệ cho tới nay là tích cực ròng một cách áp đảo.
+
+Bằng chứng hằng ngày của ông mang giọng châm biếm nhẹ: ngay cả những người phê phán công nghệ gay gắt nhất nói chung vẫn vui vẻ dùng ấm đun nước, uống một viên aspirin, xem tivi và đi tàu điện ngầm. Ứng với mỗi khẩu súng có một liều penicillin cứu mạng; ứng với mỗi mẩu thông tin sai lệch, một sự thật nhanh chóng được phơi ra.
 
 Và thế mà, từ von Neumann cùng các đồng nghiệp của ông trở đi, Suleyman và nhiều người khác vẫn lo lắng về quỹ đạo dài hạn. Nỗi lo sâu xa của ông gồm ba phần: công nghệ đang cho thấy khả năng thực sự chuyển mạnh sang âm ròng; chúng ta không có câu trả lời để chặn sự chuyển dịch đó; và chúng ta bị khóa trong, không có lối ra.
 
 Không ai trong chúng ta có thể chắc chắn chuyện này rốt cuộc diễn ra chính xác thế nào. Trong khuôn khổ rộng của thế lưỡng nan có một dải kết cục cụ thể mênh mông và không thể biết trước. Nhưng ông tin chắc rằng các thập niên tới sẽ chứng kiến những đánh đổi phức tạp và đau đớn giữa thịnh vượng, giám sát và nguy cơ thảm họa, và những đánh đổi ấy sẽ ngày càng gay gắt. Ngay cả một hệ thống các nhà nước ở trạng thái khỏe mạnh nhất có thể cũng sẽ chật vật. Đây, theo cách nói của ông, là thử thách tột cùng dành cho Homo technologicus, tức loài người công nghệ — con người được định nghĩa bởi việc tạo ra và sử dụng công cụ, như đã trình bày ở Phần I.
 
-Cuối cùng, ông trả lời trước lời chê rằng cuốn sách tự mâu thuẫn trong thái độ với công nghệ, nửa tích cực nửa đầy điềm gở: sở dĩ như vậy là vì một cái nhìn mâu thuẫn như thế mới là đánh giá trung thực nhất về chỗ chúng ta đang đứng. Các cụ cố của chúng ta hẳn sẽ sửng sốt trước sự dồi dào của thế giới hôm nay, nhưng cũng sẽ sửng sốt trước sự mong manh và những hiểm nguy của nó. Với làn sóng sắp tới, chúng ta đối mặt một mối đe dọa có thật, một chuỗi hậu quả có thể gây thảm họa, kể cả một rủi ro sinh tồn với loài người. Công nghệ là phần tốt nhất và phần tệ nhất trong chúng ta; không có cách tiếp cận một chiều gọn ghẽ nào công bằng được với nó. Cách tiếp cận mạch lạc duy nhất với công nghệ là nhìn thấy cả hai mặt cùng một lúc.
+Cuối cùng, ông trả lời trước lời chê rằng cuốn sách tự mâu thuẫn trong thái độ với công nghệ, nửa tích cực nửa đầy điềm gở: sở dĩ như vậy là vì một cái nhìn mâu thuẫn như thế mới là đánh giá trung thực nhất về chỗ chúng ta đang đứng. Các cụ cố của chúng ta hẳn sẽ sửng sốt trước sự dồi dào của thế giới hôm nay, nhưng cũng sẽ sửng sốt trước sự mong manh và những hiểm nguy của nó.
+
+Với làn sóng sắp tới, chúng ta đối mặt một mối đe dọa có thật, một chuỗi hậu quả có thể gây thảm họa, kể cả một rủi ro sinh tồn với loài người. Công nghệ là phần tốt nhất và phần tệ nhất trong chúng ta; không có cách tiếp cận một chiều gọn ghẽ nào công bằng được với nó. Cách tiếp cận mạch lạc duy nhất với công nghệ là nhìn thấy cả hai mặt cùng một lúc.
 
 Chương, và cùng với nó là Phần III, khép lại bằng hai câu bản lề. Trong khoảng một thập niên qua, thế lưỡng nan này đã trở nên rõ rệt hơn và nhiệm vụ xử lý nó trở nên cấp bách hơn. Nhìn vào thế giới thì có vẻ khống chế là không thể. Nhưng lần theo các hệ quả thì một điều khác hiện ra rõ không kém: vì lợi ích của tất cả mọi người, khống chế phải khả thi.
 
@@ -1011,3 +1060,186 @@ Chương 12 là nơi hội tụ của ba mạch lập luận: bốn đặc đi�
 - **Công việc.** Hai ý của chương dùng được ngay trong quản trị rủi ro của một tổ chức. Thứ nhất, an toàn không phải việc làm một lần: nếu một quy trình kiểm soát chỉ đúng khi mọi người tuân thủ mọi lúc ở mọi chi nhánh thì trên thực tế nó sẽ hỏng. Hãy thiết kế để khi một mắt xích sai thì hệ thống vẫn không sập, thay vì dựa vào thiện chí. Thứ hai, với mọi công cụ AI đưa vào vận hành, câu hỏi đáng hỏi không chỉ là "nó có thể bị dùng sai thế nào" mà còn là "nó hỏng theo kiểu nào khi không ai tấn công" — chương nhấn mạnh rằng lỗi thuần túy trong hạ tầng và hệ thống y tế cũng nguy hiểm không kém tấn công cố ý.
 - **Đầu tư.** Lập luận của mục trì trệ có hệ quả trực tiếp: nhân khẩu học đã bị khóa chặt vài chục năm tới, nên các ngành phụ thuộc vào tăng trưởng lực lượng lao động đối mặt sức ép cấu trúc, còn tự động hóa và các công nghệ bù lao động có nhu cầu bền. Mặt khác, chương cũng là lời cảnh báo cho khẩu vị rủi ro: nếu Suleyman đúng rằng phản ứng chính trị sẽ là siết chặt sau mỗi sự cố, thì rủi ro pháp lý và quy định là rủi ro lớn với các công ty AI, không chỉ rủi ro cạnh tranh. Theo hiểu biết của người tổng hợp, mốc "500% tới năm 2030" cho lithium, cobalt và graphite nhiều khả năng nên đọc là tới năm 2050, nên đừng dùng nguyên con số của sách làm căn cứ đầu tư.
 - **Đời sống.** Cách đọc tin tức mà chương này gợi ý: khi nghe một cảnh báo nghe có vẻ kịch tính, đừng lấy mức độ kịch tính làm lý do bác bỏ, nhưng hãy hỏi cơ chế cụ thể — đúng như Suleyman đã làm với những người nói "AGI sẽ kết liễu thế giới". Và khi một biện pháp an toàn mới được đề xuất sau một sự cố, hãy hỏi nó có cơ chế hết hạn hay không, vì chương cho thấy các quyền hạn khẩn cấp hiếm khi tự thu lại.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 12 trên một trang: sáu nhánh lớn đi theo các mục 1–6 của phần Nội dung chi tiết (thảm họa như thất bại tột cùng, các dạng thảm họa, giáo phái và kẻ điên với ca Aum Shinrikyo, bước ngoặt phản địa đàng, trì trệ như một dạng thảm họa khác, và tiếp theo là gì), mỗi nhánh ghi luận điểm, ví dụ và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 12: nhân loại kẹp giữa thảm họa nếu không khống chế và phản địa đàng giám sát nếu khống chế chắc ăn nhất`"]
+  n1["`Mục 1 — Thảm họa là thất bại tột cùng`"]
+  n0 --- n1
+  n2["`Dịch hạch Justinian và Cái Chết Đen mỗi trận lấy đi tới 30% dân số thế giới`"]
+  n1 --- n2
+  n3["`Dân số Anh từ 7 triệu (1300) còn 2 triệu (1450), Thế chiến I giết 1%, Thế chiến II 3%, quân Mông Cổ 10%`"]
+  n1 --- n3
+  n4["`Từ khi có bom nguyên tử, thảm họa từng kéo dài hàng thập kỷ nay xảy ra trong vài phút`"]
+  n1 --- n4
+  n5["`Làn sóng nâng trần rủi ro và nhân số lối đi cho những ai muốn gây tàn phá`"]
+  n1 --- n5
+  n6["`Phần áp đảo các công nghệ này sẽ dùng vào việc tốt, chương cố ý nhìn các trường hợp cực đoan`"]
+  n1 --- n6
+  n7["`Thế lưỡng nan: thảm họa không chấp nhận được, khống chế chắc chắn nhất dẫn tới độc đoán và phản địa đàng`"]
+  n1 --- n7
+  n8["`Trớ trêu: chỉ hệ thống nhà nước dân tộc đang rã ra mới về nguyên tắc lèo lái được giữa hai cực`"]
+  n1 --- n8
+  n9["`Sự tự mãn do né tránh bi quan trước viễn cảnh thảm họa tự nó là công thức dẫn tới thảm họa`"]
+  n1 --- n9
+  n10["`Mục 2 — Các dạng thảm họa`"]
+  n0 --- n10
+  n11["`Ngoại suy các vụ tấn công của chủ thể xấu ở Chương 10 lên quy mô lớn`"]
+  n10 --- n11
+  n12["`Bầy thiết bị bay không người lái nhận dạng khuôn mặt, thiệt hại vượt xa vụ Mumbai 2008`"]
+  n11 --- n12
+  n13["`Tấn công sinh học vào một cuộc mít tinh chính trị châm ngòi trả đũa bạo lực khắp nước`"]
+  n11 --- n13
+  n14["`Tin giả do AI: vụ cảnh sát giết người bịa ở Chicago nhưng bạo loạn và thương vong là thật`"]
+  n11 --- n14
+  n15["`Quân đội tự động hóa hoàn toàn hạ rào cản gây chiến, chiến tranh có thể bùng ra do nhầm lẫn`"]
+  n10 --- n15
+  n16["`Omicron lây cho một phần tư dân số Mỹ trong một trăm ngày kể từ khi được phát hiện`"]
+  n10 --- n16
+  n17["`Virus hệ số lây khoảng 4, tử vong 50% có thể giết hơn một tỷ người trong vài tháng (nguồn mật)`"]
+  n16 --- n17
+  n18["`Kịch bản kẹp giấy: AGI tối ưu mù quáng có thể hạ bệ loài người khỏi vị trí thống trị`"]
+  n10 --- n18
+  n19["`Suleyman phản biện: người nói AGI sẽ kết liễu thế giới trả lời mơ hồ khi bị hỏi cơ chế`"]
+  n18 --- n19
+  n20["`Điều ông lo hơn: trong mười năm tới AI là bộ khuếch đại sức mạnh lớn nhất lịch sử`"]
+  n10 --- n20
+  n21["`Hỏng không do tấn công: AI tính sai trong lưới điện, máy bay, hệ thống y tế dùng rộng rãi`"]
+  n10 --- n21
+  n22["`Không có sách hướng dẫn: việc đang vận hành trong mù mờ đủ để phải dừng lại suy nghĩ`"]
+  n10 --- n22
+  n23["`Căn chỉnh phải giải mỗi lần một AI đủ mạnh ra đời, rò rỉ phải chặn ở mọi phòng thí nghiệm, mọi nước, mãi mãi`"]
+  n10 --- n23
+  n24["`Không khống chế thì chỉ là vấn đề thời gian, sự cố sẽ vượt Bhopal, Chernobyl lên quy mô toàn thế giới`"]
+  n10 --- n24
+  n25["`Mục 3 — Giáo phái, kẻ điên và những nhà nước tự sát`"]
+  n0 --- n25
+  n26["`Phần lớn rủi ro là hiệu ứng trả đũa của nỗ lực thiện ý như nghiên cứu tăng cường chức năng`"]
+  n25 --- n26
+  n27["`Aum Shinrikyo: 40.000–60.000 thành viên, hơn 1 tỷ USD tài sản, hàng chục nhà khoa học`"]
+  n25 --- n27
+  n28["`Tìm uranium ở Úc, rải chất độc thần kinh ở Narita, Quốc hội, Hoàng cung nhưng chế sai nên không ai bị hại`"]
+  n27 --- n28
+  n29["`Năm 1994 sarin phát tán từ xe tải làm 8 người chết, 200 người bị thương`"]
+  n27 --- n29
+  n30["`Năm 1995 sarin ở tàu điện ngầm Tokyo làm 13 người chết, khoảng 6.000 người bị thương`"]
+  n27 --- n30
+  n31["`Rào cản tiếp cận vũ khí mạnh giữ thảm họa ở xa, Aum hỏng vì thiếu chuyên môn và vật liệu`"]
+  n25 --- n31
+  n32["`Công cụ hủy diệt được dân chủ hóa: một Aum mỗi năm mươi năm đã là quá nhiều`"]
+  n25 --- n32
+  n33["`Báo cáo về Aum kết luận: chúng ta đang chơi trò cò quay Nga`"]
+  n25 --- n33
+  n34["`Dự đoán: lời kêu gọi chuyển từ kiểm soát sang trấn áp, phản ứng tất yếu là siết chặt quyền lực`"]
+  n25 --- n34
+  n35["`Mục 4 — Bước ngoặt phản địa đàng`"]
+  n0 --- n35
+  n36["`Canh chừng công nghệ tức là canh chừng tất cả: mọi phòng thí nghiệm, máy chủ, đoạn mã, chuỗi DNA`"]
+  n35 --- n36
+  n37["`Đề xuất sẽ xuất hiện: tập trung quyền lực tới cực hạn, xây nhà tù toàn thị (panopticon)`"]
+  n35 --- n37
+  n38["`COVID: đóng cửa toàn xã hội thành hiện thực, mức tuân thủ ban đầu gần như phổ quát`"]
+  n35 --- n38
+  n39["`Vòng xoáy: đại họa, kêu gọi giám sát, kiểm soát bào mòn kiềm chế và đối trọng, phản địa đàng bén rễ`"]
+  n35 --- n39
+  n40["`AI-tocracy: vòng tự củng cố giữa thu thập dữ liệu và cưỡng chế`"]
+  n39 --- n40
+  n41["`Đánh đổi tự do lấy an ninh có từ Leviathan của Hobbes, làn sóng đẩy mức đặt cược lên nấc mới`"]
+  n35 --- n41
+  n42["`Phán quyết: xã hội giám sát đàn áp chỉ là một thất bại khác, khuếch đại sự áp bức trắng trợn`"]
+  n35 --- n42
+  n43["`Tệ nhất của mọi thế giới: bộ máy giám sát rải rác, vừa thảm họa vừa phản địa đàng`"]
+  n35 --- n43
+  n44["`Cỗ siêu máy của Mumford: làn sóng tạo ra công cụ khống chế chính nó nhưng xóa sạch tự do, riêng tư`"]
+  n35 --- n44
+  n45["`Bước đầu đã được đi: kiến trúc theo dõi và cưỡng chế ở Trung Quốc và nơi khác`"]
+  n35 --- n45
+  n46["`Mục 5 — Trì trệ là một dạng thảm họa khác`"]
+  n0 --- n46
+  n47["`Khảo sát sáu mươi nền văn minh: trung bình mỗi nền tồn tại khoảng 400 năm`"]
+  n46 --- n47
+  n48["`Lưỡng Hà, La Mã, Maya, đảo Phục Sinh: sụp đổ là quy luật, công nghệ chỉ giữ sức ép lùi lại`"]
+  n46 --- n48
+  n49["`Có nên tạm dừng phát triển công nghệ? Suleyman: tuyệt đối không`"]
+  n46 --- n49
+  n50["`Lý do 1: nền văn minh ký những tấm séc chỉ công nghệ thanh toán được, kể cả thỏa thuận lớn`"]
+  n49 --- n50
+  n51["`Lý do 2: khí hậu, y tế, giáo dục cho hơn tám tỷ người không giải được nếu thiếu công nghệ mới`"]
+  n49 --- n51
+  n52["`Lý do 3: tạm dừng chỉ đổi một phản địa đàng lấy một phản địa đàng khác`"]
+  n49 --- n52
+  n53["`Nhật, Đức, Ý, Nga, Hàn Quốc đã tới khủng hoảng lao động, Trung Quốc có thể chỉ còn 600 triệu người`"]
+  n46 --- n53
+  n54["`Nhu cầu lithium, cobalt, graphite tăng 500%, pin chỉ trữ đủ vài phút tiêu thụ năng lượng`"]
+  n46 --- n54
+  n55["`Chỉ để đứng yên thế giới cần năng suất tăng gấp hai đến ba lần`"]
+  n46 --- n55
+  n56["`Đứng yên không chấp nhận được: tử vong trẻ em ở đa số nhân loại cao gấp mười hai lần nước phát triển`"]
+  n55 --- n56
+  n57["`Không phải thế tam nan: trì trệ chỉ là thế lưỡng nan phát biểu lại dưới dạng mới`"]
+  n46 --- n57
+  n58["`Mục 6 — Tiếp theo là gì?`"]
+  n0 --- n58
+  n59["`Von Neumann 1955, Can We Survive Technology?: sự sống sót chỉ là một khả năng`"]
+  n58 --- n59
+  n60["`Von Neumann: với tiến bộ thì không có thuốc chữa, không có kênh an toàn tự động`"]
+  n58 --- n60
+  n61["`Đóng góp ròng của công nghệ tới nay tích cực áp đảo: mỗi khẩu súng có một liều penicillin`"]
+  n58 --- n61
+  n62["`Nỗi lo: công nghệ có thể chuyển sang âm ròng, ta không có cách chặn và bị khóa trong`"]
+  n58 --- n62
+  n63["`Đánh đổi ngày càng gay gắt giữa thịnh vượng, giám sát và thảm họa: thử thách cho Homo technologicus`"]
+  n58 --- n63
+  n64["`Thông điệp xuyên suốt`"]
+  n0 --- n64
+  n65["`Không thể chọn một cực, phải tìm con đường hẹp ở giữa, nhiệm vụ của Phần IV`"]
+  n64 --- n65
+  n66["`Rào cản thực sự giữ thảm họa ở xa là khó khăn kỹ thuật, và rào cản đó đang biến mất`"]
+  n64 --- n66
+  n67["`Cách nhìn trung thực duy nhất là thấy cả hai mặt của công nghệ cùng lúc`"]
+  n64 --- n67
+  n68["`Nhìn thế giới thì khống chế có vẻ không thể, nhưng vì lợi ích của tất cả, khống chế phải khả thi`"]
+  n64 --- n68
+  class n0 root
+  class n1,n10,n25,n35,n46,n58,n64 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n26,n27,n28,n29,n30,n31,n32,n33,n34,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n47,n48,n49,n50,n51,n52,n53,n54,n55,n56,n57,n59,n60,n61,n62,n63,n65,n66,n67,n68 leaf
+```
+
+## Nguồn
+
+Mustafa Suleyman với Michael Bhaskar, *The Coming Wave: Technology, Power, and the Twenty-First Century's Greatest Dilemma* (Crown, Penguin Random House, 2023), bản ebook tiếng Anh, Phần III "States of Failure", Chương 12 "The Dilemma", trang PDF 225–243; chú thích cuối sách của chương ở trang PDF 386–389.
+
+## Tác giả
+
+Mustafa Suleyman, đồng sáng lập DeepMind và Inflection AI, viết cùng Michael Bhaskar, nhà xuất bản và tác giả sách về công nghệ.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 12 khép lại Phần III. Chương 9 ([C09-thoa-thuan-lon.md](C09-thoa-thuan-lon.md)) mô tả thỏa thuận lớn (the grand bargain) giữa nhà nước và công dân; Chương 10 ([C10-cac-tac-nhan-khuech-dai-su-mong-manh.md](C10-cac-tac-nhan-khuech-dai-su-mong-manh.md)) cho thấy làn sóng sắp tới làm nhà nước mong manh hơn; Chương 11 ([C11-tuong-lai-cua-cac-quoc-gia.md](C11-tuong-lai-cua-cac-quoc-gia.md)) cho thấy công nghệ vừa dồn quyền lực về phía các nhà nước giám sát toàn diện, vừa làm quyền lực phân tán ra ngoài nhà nước.
+
+Chương 12 đẩy cả hai xu hướng tới tận cùng và đặt tên cho kết quả: nếu không khống chế được làn sóng thì sớm muộn sẽ có thảm họa quy mô toàn cầu; nếu khống chế bằng biện pháp chắc chắn nhất thì đi tới xã hội giám sát độc đoán; còn dừng hẳn phát triển công nghệ thì rơi vào trì trệ và suy tàn. Đó là thế lưỡng nan (the dilemma) đã được báo trước ở Chương 1 ([C01-khong-the-khong-che.md](C01-khong-the-khong-che.md)), dựa trên bốn đặc điểm của làn sóng ở Chương 7 ([C07-bon-dac-diem-cua-lan-song.md](C07-bon-dac-diem-cua-lan-song.md)) và các động lực không thể cản ở Chương 8 ([C08-nhung-dong-luc-khong-the-can.md](C08-nhung-dong-luc-khong-the-can.md)). Các năng lực được nói tới lấy từ Chương 4 và Chương 5 ([C04-cong-nghe-cua-tri-tue.md](C04-cong-nghe-cua-tri-tue.md), [C05-cong-nghe-cua-su-song.md](C05-cong-nghe-cua-su-song.md)).
+
+Câu cuối chương là bản lề sang Phần IV: nhìn thế giới thì khống chế có vẻ không thể, nhưng vì lợi ích của tất cả, khống chế phải khả thi — tên của Chương 13 ([C13-khong-che-phai-kha-thi.md](C13-khong-che-phai-kha-thi.md)) và tiền đề cho mười bước ở Chương 14 ([C14-muoi-buoc-tien-toi-khong-che.md](C14-muoi-buoc-tien-toi-khong-che.md)).
+
+## Lưu ý
+
+- **Kịch bản đại dịch với số người chết hàng tỷ không có nguồn công khai.** Theo chú thích của sách, các thông số giả định và kết quả ước tính được lấy từ một buổi trình bày mật (confidential briefing); nhóm tác giả chỉ nói họ "hiểu rằng" giới chuyên gia an ninh sinh học coi kịch bản đó là khả thi. Người đọc không kiểm chứng được phép tính, và đây là con số gây ấn tượng mạnh nhất chương.
+- **Mốc năm của dự báo khoáng sản có thể sai.** Sách nói nhu cầu lithium, cobalt và graphite sẽ tăng 500% tới năm 2030 và dẫn trang "Climate-Smart Mining" của World Bank. Theo hiểu biết của người tổng hợp, báo cáo World Bank năm 2020 nói sản lượng các khoáng sản này có thể tăng gần 500% **tới năm 2050**, không phải 2030.
+- **"Khảo sát sáu mươi nền văn minh"** được chú thích dẫn về một bài chuyên mục của Michael Shermer trên *Scientific American* (tháng 8/2002, "Why ET Hasn't Called"), tức một bài báo phổ thông chứ không phải nghiên cứu có bình duyệt. Theo hiểu biết của người tổng hợp, Shermer đưa con số khoảng 400 năm để ước lượng tuổi thọ nền văn minh trong phương trình Drake, một mục đích khác hẳn mục đích Suleyman dùng nó.
+- **Chú thích bổ sung một con số không có trong lời văn:** khoảng một phần ba các nhà khoa học làm việc về AI tin rằng AI có thể gây ra thảm họa (bài của Jeremy Hsu, *New Scientist*, 22/9/2022). Theo hiểu biết của người tổng hợp, đó là khảo sát giới nghiên cứu xử lý ngôn ngữ tự nhiên, với khoảng 36% đồng ý rằng các quyết định của AI có thể gây ra thảm họa ít nhất tệ ngang một cuộc chiến tranh hạt nhân toàn diện.
+- **Chú thích cho biết "một số người sẽ nói" là ai.** Lời văn viết "một số người chắc chắn sẽ nói: hãy tập trung quyền lực tới cực hạn, xây nhà tù toàn thị (panopticon)". Chú thích dẫn Nick Bostrom, "The Vulnerable World Hypothesis" (2019), trong đó Bostrom hình dung một "nhà tù toàn thị công nghệ cao" nơi mỗi người đeo quanh cổ một "thẻ tự do" gắn camera và micro nhiều hướng, truyền liên tục lên đám mây để thuật toán phân loại hành vi và chuyển cho trạm giám sát khi thấy đáng ngờ. Tên Bostrom không xuất hiện trong lời văn.
+- **Chú thích cho kịch bản "tệ nhất của mọi thế giới":** Balaji Srinivasan (*The Network State*) hình dung Mỹ là nhà nước thây ma còn Trung Quốc là "quỷ dữ": khi Mỹ rơi vào hỗn loạn, Bắc Kinh trình bày hệ thống "vận hành được nhưng rất thiếu tự do" của mình như lựa chọn thay thế duy nhất, rồi xuất khẩu trọn gói bộ máy giám sát sang nước khác như một phiên bản mới của Vành đai và Con đường, kèm thuê bao phần mềm cho "con mắt AI thấy hết".
+- **Hai lỗi tên riêng trong chú thích (theo hiểu biết của người tổng hợp):** "Philipp C. Bleak" đúng là Philipp C. Bleek; "Martin Bereaja" đúng là Martin Beraja, tác giả chính bài "AI-tocracy" trên *Quarterly Journal of Economics* (2023).
+- **Hai vụ tấn công của Aum Shinrikyo.** Sách ghi năm 1994 và năm 1995 nhưng không nêu địa danh vụ thứ nhất. Theo hiểu biết của người tổng hợp, vụ 1994 xảy ra ở thành phố Matsumoto (tỉnh Nagano) và vụ tàu điện ngầm Tokyo xảy ra ngày 20/3/1995; số người chết trong vụ Tokyo thường được ghi là 13 hoặc 14 tùy cách đếm nạn nhân qua đời sau đó.
+- **Khái niệm "megamachine" được dẫn gián tiếp.** Sách trích Lewis Mumford qua một bài blog (Isis Hazewindus, "The Threat of the Megamachine", IfThenElse, 11/2021) chứ không dẫn thẳng tác phẩm gốc. Theo hiểu biết của người tổng hợp, khái niệm này thuộc bộ *The Myth of the Machine* (1967 và 1970) của Mumford.
+- **Bài luận của von Neumann.** Sách dẫn "Can We Survive Technology?" (1955) qua tuyển tập *The Neumann Compendium* (1995). Theo hiểu biết của người tổng hợp, bài đăng lần đầu trên tạp chí *Fortune* tháng 6/1955.
+- **Sách bác bỏ cách gọi "thế tam nan".** Ở trang PDF 241–242, Suleyman thừa nhận có người coi trì trệ là cực thứ ba tạo thành một "trilemma", nhưng ông cho rằng trì trệ chỉ là thế lưỡng nan được phát biểu lại dưới dạng khác. Vì vậy trong chương này, chữ "thế lưỡng nan" bao hàm ba kết cục xấu nhưng quy về hai cực: thảm họa và phản địa đàng (nhận xét của người tổng hợp).
+- **Một chi tiết đã thay đổi so với lúc sách in (theo hiểu biết của người tổng hợp):** Ted Kaczynski, kẻ đánh bom được gọi là "Unabomber" mà sách nhắc hai lần, đã chết trong tù tháng 6/2023. Dân số Trung Quốc bắt đầu giảm từ năm 2022, đúng chiều mà chương này dự báo.

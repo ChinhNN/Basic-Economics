@@ -1,29 +1,18 @@
 # Chương 4 — Công nghệ của trí tuệ (The Technology of Intelligence)
 
-**Nguồn:** Mustafa Suleyman với Michael Bhaskar, *The Coming Wave: Technology, Power, and the Twenty-First Century's Greatest Dilemma* (Crown, Penguin Random House, 2023), bản ebook tiếng Anh. Trang mở Phần II "The Next Wave" (trang PDF 62) và Chương 4 "The Technology of Intelligence", trang PDF 63–92; chú thích cuối sách của chương ở trang PDF 324–330.
-**Tác giả:** Mustafa Suleyman là đồng sáng lập DeepMind, từng làm ở Google trong nhóm phát triển mô hình hội thoại LaMDA, rồi rời Google tháng 1/2022 để lập Inflection AI (theo lời kể trong chính chương này); Michael Bhaskar là đồng tác giả, cùng viết cuốn sách.
-**Vị trí trong lập luận của cả cuốn sách:** Phần I (Chương 2–3) dựng mô hình chung: công nghệ đến theo từng làn sóng (wave), làn sóng nào cũng lan rộng (proliferation) không ngăn được ([C02-lan-rong-bat-tan.md](C02-lan-rong-bat-tan.md)), và lịch sử cho thấy khống chế (containment) công nghệ gần như chưa bao giờ thành công ([C03-bai-toan-khong-che.md](C03-bai-toan-khong-che.md)). Chương 4 mở Phần II "The Next Wave" và mô tả công nghệ trung tâm thứ nhất của làn sóng sắp tới (the coming wave): trí tuệ nhân tạo. Chương 5 ([C05-cong-nghe-cua-su-song.md](C05-cong-nghe-cua-su-song.md)) mô tả công nghệ trung tâm thứ hai là sinh học tổng hợp (synthetic biology); Chương 6 ([C06-lan-song-rong-hon.md](C06-lan-song-rong-hon.md)) mô tả các công nghệ đi kèm như robot, máy tính lượng tử, năng lượng; Chương 7 ([C07-bon-dac-diem-cua-lan-song.md](C07-bon-dac-diem-cua-lan-song.md)) rút ra bốn đặc điểm của làn sóng, trong đó siêu tiến hoá và tự chủ dựa nhiều vào những gì Chương 4 kể; Chương 8 ([C08-nhung-dong-luc-khong-the-can.md](C08-nhung-dong-luc-khong-the-can.md)) giải thích vì sao đầu tư vào AI sẽ không dừng. Khái niệm trí tuệ nhân tạo có năng lực (ACI) và Phép thử Turing hiện đại (Modern Turing Test) được định nghĩa trong chương này và đã được nêu ở bảng thuật ngữ đầu sách ([00-thuat-ngu-va-mo-dau.md](00-thuat-ngu-va-mo-dau.md)); câu hỏi "chuyện gì xảy ra khi ai cũng có một ACI trong túi" được hẹn bàn ở Phần III, nhất là Chương 10 và 11 ([C10-cac-tac-nhan-khuech-dai-su-mong-manh.md](C10-cac-tac-nhan-khuech-dai-su-mong-manh.md), [C11-tuong-lai-cua-cac-quoc-gia.md](C11-tuong-lai-cua-cac-quoc-gia.md)).
-**Ý chính:** **Suleyman cho rằng AI là một "siêu công nghệ" (meta-technology), công nghệ đứng sau mọi công nghệ khác, và rủi ro lớn nhất không phải là thổi phồng AI mà là đánh giá thấp quy mô của làn sóng.** Ông kể hai khoảnh khắc ở DeepMind: năm 2012 thuật toán DQN tự học chơi *Breakout* và tự tìm ra mẹo đào đường hầm; năm 2016 AlphaGo thắng Lee Sedol 4–1 với nước đi thứ 37 mà các bình luận viên tưởng là sai lầm, trên một bàn cờ có khoảng 10¹⁷⁰ thế cờ. Lịch sử công nghệ chuyển từ điều khiển nguyên tử sang điều khiển bit và gen; làn sóng sắp tới dựa trên hai công nghệ đa mục đích (general-purpose technology) là AI và sinh học tổng hợp, và là một "siêu cụm" công nghệ giống vụ bùng nổ kỷ Cambri. Học sâu bùng lên từ năm 2012 khi AlexNet thắng cuộc thi ImageNet với cách biệt khoảng 10 điểm phần trăm; số bài ở hội nghị NeurIPS tăng từ 90 (năm 1987) lên gần 2.000 (thập niên 2020). Mô hình ngôn ngữ lớn (LLM) dựa trên transformer tăng từ 1,5 tỷ tham số (GPT-2) lên 175 tỷ (GPT-3), được huấn luyện trên hàng nghìn tỷ từ; lượng tính toán để huấn luyện mô hình tốt nhất tăng chín bậc độ lớn trong chưa đầy mười năm, từ 2 petaFLOP lên 10 tỷ petaFLOP; đồng thời mô hình ngày càng hiệu quả, rẻ và dễ lan rộng (LLaMA bị rò rỉ và chạy được trên máy tính 50 USD). Ông gạt sang bên cuộc tranh luận về ý thức và Điểm kỳ dị (câu chuyện Blake Lemoine tin LaMDA có tri giác), đề nghị đo AI bằng việc nó *làm được gì*: Phép thử Turing hiện đại là AI tự biến 100.000 USD thành 1 triệu USD trên Amazon trong vài tháng, và mốc đó gọi là trí tuệ nhân tạo có năng lực (ACI). Ông dự đoán việc này sẽ làm được với ít can thiệp của người trong vòng một năm và hoàn toàn tự động trong ba đến năm năm.
+## Ý chính
 
-> **Lưu ý:**
-> - **Phép so sánh bàn cờ vây với số nguyên tử tự mâu thuẫn về số học (nhận xét của người tổng hợp).** Sách nói bàn cờ vây có 10¹⁷⁰ thế cờ và nhiều hơn số nguyên tử trong vũ trụ quan sát được "một triệu nghìn tỷ nghìn tỷ nghìn tỷ nghìn tỷ" lần, tức 10⁶ nhân (10¹²)⁴, bằng 10⁵⁴ lần. Theo hiểu biết của người tổng hợp, số nguyên tử trong vũ trụ quan sát được thường ước khoảng 10⁸⁰, nên tỷ lệ phải vào khoảng 10⁹⁰ lần (thường được nói là "một googol lần"), không phải 10⁵⁴ lần. Ý chính của sách (cờ vây quá lớn để vét cạn) không đổi.
-> - **"After three moves in Go" có lẽ là "sau ba cặp nước đi" (nhận xét của người tổng hợp).** Câu trước nói về cờ vua "sau ba cặp nước đi" (khoảng 121 triệu thế cờ). Với cờ vây, ba nước đi chỉ cho khoảng 361 nhân 360 nhân 359, tức gần 47 triệu khả năng; con số 2 nhân 10¹⁵ mà sách nêu khớp với sáu nước đi (361⁶ xấp xỉ 2,2 nhân 10¹⁵). Phép tính này là minh hoạ của người tổng hợp.
-> - **Chú thích của sách về số thế cờ vây:** con số 10¹⁷⁰ lấy từ trang AlphaGo của DeepMind; chú thích nói có nguồn đưa con số còn lớn hơn, ví dụ *Scientific American* nêu 10³⁶⁰. Theo hiểu biết của người tổng hợp, 10¹⁷⁰ là số thế cờ hợp lệ trên bàn cờ, còn 10³⁶⁰ là ước lượng số ván cờ có thể chơi (độ lớn của cây trò chơi), hai đại lượng khác nhau.
-> - **"Beat the previous winner by 10 percent"** (trang PDF 72): theo hiểu biết của người tổng hợp, năm 2012 AlexNet có tỷ lệ lỗi top-5 khoảng 15,3%, còn đội đứng thứ hai khoảng 26,2%, nên mức cách biệt khoảng 10 điểm phần trăm về tỷ lệ lỗi, không phải "10 phần trăm" theo nghĩa tương đối.
-> - **"Sedol"** (trang PDF 66): sách gọi kỳ thủ Hàn Quốc Lee Sedol là "Sedol" như thể đó là họ. Theo hiểu biết của người tổng hợp, Lee là họ, Sedol là tên.
-> - **Copilot** (trang PDF 82): sách nói OpenAI và Microsoft "ra mắt Copilot năm 2022". Theo hiểu biết của người tổng hợp, GitHub Copilot do GitHub (công ty con của Microsoft) phát triển cùng OpenAI, ra bản thử nghiệm tháng 6/2021 và mở rộng rãi tháng 6/2022. Con số "nhanh hơn 55%" lấy từ nghiên cứu do chính GitHub thực hiện (theo chú thích của sách), tức là nghiên cứu của nhà cung cấp.
-> - **"nanoLLM"** (trang PDF 81): chú thích của sách dẫn tới kho mã nanoGPT của Andrej Karpathy; "nanoLLM" là cách sách gọi chung, không phải tên dự án.
-> - **"3 nanometers"** (trang PDF 80): theo hiểu biết của người tổng hợp, "3 nm" là tên thế hệ công nghệ chế tạo chip, không còn là kích thước vật lý thật của bóng bán dẫn; các chi tiết thật trên chip 3 nm lớn hơn 3 nm nhiều lần. Lập luận của sách (bóng bán dẫn đang gần giới hạn vật lý) vẫn đúng.
-> - **Ví dụ token "the" trong "there"** (trang PDF 76) là minh hoạ của tác giả. Theo hiểu biết của người tổng hợp, các bộ tách token thật thường giữ những từ phổ biến như "There", "going" thành một token nguyên; cắt nhỏ thành mảnh chỉ xảy ra với từ hiếm.
-> - **Lỗi chữ:** "zer0s" (trang PDF 67) có chữ số 0 thay cho chữ o, đúng là "zeros".
-> - **Chú thích bổ sung điều quan trọng:**
->   - Về Phép thử Turing hiện đại, chú thích cho biết Alignment Research Center đã thử GPT-4 đúng loại năng lực này và kết luận GPT-4 lúc đó "không hiệu quả" (ineffective) khi hành động tự chủ; tác giả thừa nhận phiên bản phép thử của ông đòi hỏi tự chủ nhiều hơn nhiều so với những gì người dùng làm được trong vài ngày đầu sau khi GPT-4 ra mắt.
->   - Về mô hình "cỡ não", chú thích kể thêm: Microsoft và NVIDIA làm mô hình MT-NLG 530 tỷ tham số, lớn gấp 31 lần mô hình mạnh nhất của chính họ một năm trước; Học viện Trí tuệ nhân tạo Bắc Kinh làm Wu Dao, được cho là 1.750 tỷ tham số, gấp mười lần GPT-3.
->   - Về Chinchilla, chú thích cho biết Chinchilla có 70 tỷ tham số, vượt GPT-3 (175 tỷ) và Gopher (280 tỷ).
->   - Về hình ảnh "giọt nước lấp Thái Bình Dương" của PaLM, chú thích nói hình ảnh này của Alyssa Vance và giả định mỗi giọt là 0,5 ml.
->   - Câu "phần mềm đã nuốt chửng thế giới" là diễn đạt lại câu nổi tiếng của Marc Andreessen; "nhà khoa học máy tính lỗi lạc" nói rằng mọi chương trình tương lai sẽ do AI viết là Matt Welsh (bài "The End of Programming", 2023).
-> - **Số liệu đã lỗi thời so với năm 2026:** sách viết xong khoảng đầu năm 2023 (nhắc GPT-4 tháng 3/2023 và LLaMA bị rò rỉ). Các con số về số tham số, chi phí huấn luyện, và vị thế của Inflection AI đã thay đổi; xem mục "Đánh giá và phát hiện đáng chú ý".
-> - **Quy ước dịch:** "deep learning" là *học sâu*; "neural network" là *mạng nơ-ron*; "backpropagation" là *lan truyền ngược*; "attention" là *cơ chế chú ý*; "parameter" là *tham số*; "scaling hypothesis" là *giả thuyết mở rộng quy mô*; "sentience" là *tri giác* (khả năng có cảm nhận chủ quan); "Singularity" là *Điểm kỳ dị*; "meta-technology" là *siêu công nghệ*. Giữ tiếng Anh: token, transformer, FLOP, petaFLOP, benchmark, API, open-source.
+**Suleyman cho rằng AI là một "siêu công nghệ" (meta-technology), công nghệ đứng sau mọi công nghệ khác, và rủi ro lớn nhất không phải là thổi phồng AI mà là đánh giá thấp quy mô của làn sóng.**
+
+Ông kể hai khoảnh khắc ở DeepMind: năm 2012 thuật toán DQN tự học chơi *Breakout* và tự tìm ra mẹo đào đường hầm; năm 2016 AlphaGo thắng Lee Sedol 4–1 với nước đi thứ 37 mà các bình luận viên tưởng là sai lầm, trên một bàn cờ có khoảng 10¹⁷⁰ thế cờ.
+
+Lịch sử công nghệ chuyển từ điều khiển nguyên tử sang điều khiển bit và gen; làn sóng sắp tới dựa trên hai công nghệ đa mục đích (general-purpose technology) là AI và sinh học tổng hợp, và là một "siêu cụm" công nghệ giống vụ bùng nổ kỷ Cambri.
+
+Học sâu bùng lên từ năm 2012 khi AlexNet thắng cuộc thi ImageNet với cách biệt khoảng 10 điểm phần trăm; số bài ở hội nghị NeurIPS tăng từ 90 (năm 1987) lên gần 2.000 (thập niên 2020).
+
+Mô hình ngôn ngữ lớn (LLM) dựa trên transformer tăng từ 1,5 tỷ tham số (GPT-2) lên 175 tỷ (GPT-3), được huấn luyện trên hàng nghìn tỷ từ. Lượng tính toán để huấn luyện mô hình tốt nhất tăng chín bậc độ lớn trong chưa đầy mười năm, từ 2 petaFLOP lên 10 tỷ petaFLOP. Đồng thời mô hình ngày càng hiệu quả, rẻ và dễ lan rộng (LLaMA bị rò rỉ và chạy được trên máy tính 50 USD).
+
+Ông gạt sang bên cuộc tranh luận về ý thức và Điểm kỳ dị (câu chuyện Blake Lemoine tin LaMDA có tri giác), đề nghị đo AI bằng việc nó *làm được gì*: Phép thử Turing hiện đại là AI tự biến 100.000 USD thành 1 triệu USD trên Amazon trong vài tháng, và mốc đó gọi là trí tuệ nhân tạo có năng lực (ACI). Ông dự đoán việc này sẽ làm được với ít can thiệp của người trong vòng một năm và hoàn toàn tự động trong ba đến năm năm.
 
 ## Sơ đồ
 
@@ -550,7 +539,9 @@
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Vì sao Suleyman tin AI là trung tâm của làn sóng sắp tới chứ không phải thêm một trào lưu bị thổi phồng?** Vì ông đã tận mắt thấy AI tự khám phá tri thức mới (DQN tự tìm mẹo đào đường hầm trong *Breakout*, AlphaGo đi nước 37 mà nghìn năm cờ vây chưa ai nghĩ ra), và vì mọi chỉ số đều tăng theo hàm mũ: số tham số từ 1,5 tỷ lên 175 tỷ rồi hàng nghìn tỷ, sức tính huấn luyện tăng chín bậc độ lớn trong chưa đầy mười năm, số bài nghiên cứu tăng từ 90 lên gần 2.000 ở một hội nghị. Cùng lúc, mô hình ngày càng rẻ và nhỏ, nên lan rộng tới hàng tỷ người. AI còn là công nghệ đa mục đích tác động trực tiếp lên trí tuệ, nên nó là "siêu công nghệ" tạo ra các công nghệ khác.
+1. **Vì sao Suleyman tin AI là trung tâm của làn sóng sắp tới chứ không phải thêm một trào lưu bị thổi phồng?** Vì ông đã tận mắt thấy AI tự khám phá tri thức mới (DQN tự tìm mẹo đào đường hầm trong *Breakout*, AlphaGo đi nước 37 mà nghìn năm cờ vây chưa ai nghĩ ra), và vì mọi chỉ số đều tăng theo hàm mũ: số tham số từ 1,5 tỷ lên 175 tỷ rồi hàng nghìn tỷ, sức tính huấn luyện tăng chín bậc độ lớn trong chưa đầy mười năm, số bài nghiên cứu tăng từ 90 lên gần 2.000 ở một hội nghị.
+
+   Cùng lúc, mô hình ngày càng rẻ và nhỏ, nên lan rộng tới hàng tỷ người. AI còn là công nghệ đa mục đích tác động trực tiếp lên trí tuệ, nên nó là "siêu công nghệ" tạo ra các công nghệ khác.
 2. **Nên đo tiến bộ của AI bằng gì?** Không nên đo bằng câu hỏi AI có ý thức hay không, hay ngày nào Điểm kỳ dị tới, vì những tranh luận đó đánh lạc hướng khỏi các rủi ro gần hơn. Nên đo bằng năng lực: AI làm được gì. Suleyman đề xuất Phép thử Turing hiện đại: AI có tự biến 100.000 USD thành 1 triệu USD trên Amazon trong vài tháng không. Hệ thống qua được phép thử đó là trí tuệ nhân tạo có năng lực (ACI).
 3. **Các phản bác chính đối với tiến bộ của AI là gì, và Suleyman đáp ra sao?** Phản bác gồm: định luật Moore đang chậm lại; học sâu "đụng tường" (Gary Marcus); AI không chuyển được tri thức giữa các lĩnh vực và không tự giải thích được (Melanie Mitchell); LLM sinh nội dung độc hại và định kiến. Suleyman đáp: có thể nối thêm chip thay vì làm chip nhỏ hơn; trí tuệ người là mục tiêu cố định trong khi sức tính tăng mỗi năm; vấn đề chưa giải là quá trình nghiên cứu chứ không phải giới hạn vĩnh viễn; nếu LLM chững lại thì sẽ có hướng khác thay thế; và mô hình lớn hơn cùng kỹ thuật tinh chỉnh mới đang làm giảm tác hại.
 
@@ -618,9 +609,13 @@ Suleyman mở chương bằng khoảnh khắc mà ông nói sẽ không bao gi�
 
 Cách làm âm thầm ấy thay đổi khi nhóm tạo ra thuật toán DQN (Deep Q-Network). Các thành viên huấn luyện DQN chơi một loạt trò Atari cổ điển; nói chính xác hơn, họ huấn luyện DQN *tự học* cách chơi. Yếu tố tự học là điểm khác biệt chính so với các nỗ lực trước đó và là dấu hiệu đầu tiên rằng nhóm có thể đạt mục tiêu cuối cùng.
 
-Lúc đầu DQN chơi rất tệ, có vẻ không học được gì. Rồi một buổi chiều mùa thu năm 2012, một nhóm nhỏ tụ quanh một chiếc máy xem lại quá trình huấn luyện khi thuật toán học trò *Breakout*. Trong trò này, người chơi điều khiển một thanh đỡ ở đáy màn hình để đẩy quả bóng lên phá các hàng gạch màu; phá càng nhiều gạch, điểm càng cao. Nhóm chỉ cho DQN điểm ảnh thô, từng khung hình một, và điểm số, để nó tự học mối quan hệ giữa điểm ảnh và các thao tác di chuyển thanh đỡ sang trái hay phải. Ban đầu thuật toán thử ngẫu nhiên trong không gian khả năng cho tới khi tình cờ gặp một hành động được thưởng. Qua thử và sai, nó học được cách điều khiển thanh đỡ, đỡ bóng qua lại và phá từng hàng gạch.
+Lúc đầu DQN chơi rất tệ, có vẻ không học được gì. Rồi một buổi chiều mùa thu năm 2012, một nhóm nhỏ tụ quanh một chiếc máy xem lại quá trình huấn luyện khi thuật toán học trò *Breakout*. Trong trò này, người chơi điều khiển một thanh đỡ ở đáy màn hình để đẩy quả bóng lên phá các hàng gạch màu; phá càng nhiều gạch, điểm càng cao.
 
-Rồi một điều đáng kinh ngạc xảy ra. DQN có vẻ tự phát hiện một chiến lược mới rất khôn: thay vì phá gạch đều đặn từng hàng, nó nhắm vào một cột gạch duy nhất, đục một đường lên tới phía sau khối gạch. Khi đường hầm thông lên trên, quả bóng lọt ra sau, nảy vào tường sau và phá dần cả khối gạch như một quả bóng điên cuồng trong máy pinball. Cách này cho điểm tối đa với công sức tối thiểu. Đó là một mẹo người chơi nghiêm túc có biết nhưng không hề hiển nhiên. Nhóm đã chứng kiến thuật toán tự dạy mình điều mới, và Suleyman nói ông sững sờ: lần đầu tiên ông thấy một hệ thống rất đơn giản, rất thanh nhã học được tri thức có giá trị, có thể là một chiến lược mà nhiều người không nghĩ ra. Đó là dấu hiệu sớm rằng một tác nhân AI có thể khám phá tri thức mới.
+Nhóm chỉ cho DQN điểm ảnh thô, từng khung hình một, và điểm số, để nó tự học mối quan hệ giữa điểm ảnh và các thao tác di chuyển thanh đỡ sang trái hay phải. Ban đầu thuật toán thử ngẫu nhiên trong không gian khả năng cho tới khi tình cờ gặp một hành động được thưởng. Qua thử và sai, nó học được cách điều khiển thanh đỡ, đỡ bóng qua lại và phá từng hàng gạch.
+
+Rồi một điều đáng kinh ngạc xảy ra. DQN có vẻ tự phát hiện một chiến lược mới rất khôn: thay vì phá gạch đều đặn từng hàng, nó nhắm vào một cột gạch duy nhất, đục một đường lên tới phía sau khối gạch. Khi đường hầm thông lên trên, quả bóng lọt ra sau, nảy vào tường sau và phá dần cả khối gạch như một quả bóng điên cuồng trong máy pinball. Cách này cho điểm tối đa với công sức tối thiểu. Đó là một mẹo người chơi nghiêm túc có biết nhưng không hề hiển nhiên.
+
+Nhóm đã chứng kiến thuật toán tự dạy mình điều mới, và Suleyman nói ông sững sờ: lần đầu tiên ông thấy một hệ thống rất đơn giản, rất thanh nhã học được tri thức có giá trị, có thể là một chiến lược mà nhiều người không nghĩ ra. Đó là dấu hiệu sớm rằng một tác nhân AI có thể khám phá tri thức mới.
 
 Sau vài tháng tinh chỉnh, DQN đạt trình độ vượt người. Theo Suleyman, đây chính là lý do họ lập DeepMind và là lời hứa của AI: nếu AI tự tìm ra được một mẹo như đào đường hầm, nó còn học được gì nữa? Có thể dùng sức mạnh này để trang bị cho loài người tri thức, phát minh và công nghệ mới để giải các vấn đề xã hội khó nhất thế kỷ 21 không? DQN là một bước lớn với ông, với DeepMind và với giới AI, nhưng công chúng phản ứng khá nhạt; AI vẫn là đề tài bên lề. Chỉ vài năm sau, mọi thứ thay đổi.
 
@@ -632,7 +627,7 @@ Cờ vây là trò chơi cổ của Đông Á, chơi trên bàn 19 nhân 19 ô v
 |---|---|---|
 | Số thế cờ sau ba cặp nước đi đầu | khoảng 121 triệu | khoảng 200 triệu tỷ (2 nhân 10¹⁵); sách ghi "sau ba nước" |
 | Tổng số thế cờ có thể có | (sách không nêu) | khoảng 10¹⁷⁰ |
-| So với số nguyên tử trong vũ trụ đã biết | (sách không nêu) | nhiều hơn "một triệu nghìn tỷ nghìn tỷ nghìn tỷ nghìn tỷ" lần (sách viết vậy; xem khối Lưu ý) |
+| So với số nguyên tử trong vũ trụ đã biết | (sách không nêu) | nhiều hơn "một triệu nghìn tỷ nghìn tỷ nghìn tỷ nghìn tỷ" lần (sách viết vậy; xem mục Lưu ý cuối chương) |
 
 Theo chú thích của sách, con số 121 triệu lấy từ một bài trên *Popular Science* (2010), con số 10¹⁷⁰ lấy từ trang giới thiệu AlphaGo của DeepMind, và có nguồn như *Scientific American* đưa ra con số còn lớn hơn, 10³⁶⁰.
 
@@ -640,7 +635,9 @@ Với ngần ấy khả năng, các cách tiếp cận truyền thống không c
 
 Khi DeepMind bắt đầu làm cờ vây năm 2015, phần lớn mọi người nghĩ còn hàng chục năm nữa mới có chương trình vô địch thế giới. Đồng sáng lập Google là Sergey Brin khuyến khích nhóm thử, cho rằng chỉ cần tiến bộ chút ít cũng đã đáng nể. Ban đầu AlphaGo học bằng cách xem 150.000 ván do chuyên gia chơi. Khi hài lòng với kết quả ban đầu, nhóm làm bước quan trọng tiếp theo: tạo nhiều bản sao AlphaGo và cho chúng tự đấu với nhau liên tục. Nhờ vậy thuật toán mô phỏng được hàng triệu ván mới, thử những tổ hợp nước đi chưa từng ai chơi, khám phá hiệu quả một vùng khả năng khổng lồ và học được chiến lược mới.
 
-Tháng 3/2016, DeepMind tổ chức trận đấu ở Hàn Quốc giữa AlphaGo và Lee Sedol, nhà vô địch thế giới xuất chúng. Không ai chắc ai sẽ thắng; phần lớn bình luận viên đặt cược vào Lee Sedol trước ván đầu. Nhưng AlphaGo thắng ván đầu, khiến cả nhóm vừa sốc vừa mừng. Ở ván thứ hai có nước đi thứ 37, nay đã nổi tiếng trong lịch sử cả AI lẫn cờ vây. Nước đi này có vẻ vô lý, như thể AlphaGo đã hỏng việc, mù quáng theo một chiến lược thua mà không kỳ thủ chuyên nghiệp nào đi. Hai bình luận viên trực tiếp, đều là kỳ thủ chuyên nghiệp đẳng cấp cao nhất, gọi đó là "nước rất lạ" và cho là "một sai lầm". Nước đi lạ đến mức Lee Sedol mất 15 phút mới đáp lại và còn đứng dậy ra ngoài đi dạo.
+Tháng 3/2016, DeepMind tổ chức trận đấu ở Hàn Quốc giữa AlphaGo và Lee Sedol, nhà vô địch thế giới xuất chúng. Không ai chắc ai sẽ thắng; phần lớn bình luận viên đặt cược vào Lee Sedol trước ván đầu. Nhưng AlphaGo thắng ván đầu, khiến cả nhóm vừa sốc vừa mừng.
+
+Ở ván thứ hai có nước đi thứ 37, nay đã nổi tiếng trong lịch sử cả AI lẫn cờ vây. Nước đi này có vẻ vô lý, như thể AlphaGo đã hỏng việc, mù quáng theo một chiến lược thua mà không kỳ thủ chuyên nghiệp nào đi. Hai bình luận viên trực tiếp, đều là kỳ thủ chuyên nghiệp đẳng cấp cao nhất, gọi đó là "nước rất lạ" và cho là "một sai lầm". Nước đi lạ đến mức Lee Sedol mất 15 phút mới đáp lại và còn đứng dậy ra ngoài đi dạo.
 
 Suleyman kể sự căng thẳng trong phòng điều khiển là không thể tả. Nhưng khi ván cờ đi vào giai đoạn cuối, nước đi "sai lầm" kia hoá ra là nước quyết định, và AlphaGo lại thắng. Chiến lược cờ vây đang được viết lại trước mắt họ: AI đã tìm ra ý tưởng mà những kỳ thủ xuất sắc nhất trong hàng nghìn năm chưa nghĩ tới. Chỉ trong vài tháng, nhóm đã huấn luyện được thuật toán khám phá tri thức mới và đưa ra nhận thức có vẻ vượt người. Câu hỏi tiếp theo là có thể đẩy xa hơn không, và phương pháp này có dùng được cho vấn đề thực tế không.
 
@@ -656,7 +653,9 @@ Từ giữa thế kỷ 20, công nghệ bắt đầu vận hành ở mức trừ
 
 Trong những thập niên sau Thế chiến II, các nhà khoa học, kỹ sư và doanh nhân lập nên ngành khoa học máy tính và di truyền học, cùng hàng loạt công ty gắn với hai ngành. Họ khởi động hai cuộc cách mạng song song, của bit và của gen, đều giao dịch bằng "đồng tiền" thông tin, ở mức trừu tượng và phức tạp mới. Khi chín muồi, các công nghệ này cho ta mọi thứ từ điện thoại thông minh tới lúa biến đổi gen, nhưng vẫn có giới hạn.
 
-Theo Suleyman, các giới hạn ấy nay đang bị phá vỡ. Ta đang tới một điểm uốn, sâu sắc nhất trong lịch sử. Làn sóng sắp tới dựa chủ yếu trên hai công nghệ đa mục đích vận hành được cả ở mức lớn nhất lẫn mức chi tiết nhất: trí tuệ nhân tạo và sinh học tổng hợp. Lần đầu tiên, các thành phần cốt lõi của hệ sinh thái công nghệ tác động trực tiếp lên hai thuộc tính nền tảng của thế giới: trí tuệ và sự sống. Nói cách khác, công nghệ đang trải qua một "chuyển pha": nó không còn đơn thuần là công cụ mà sẽ thiết kế sự sống và sánh ngang, rồi vượt, trí tuệ của chính ta. AI đang giúp tái tạo lời nói và ngôn ngữ, thị giác và lập luận; các đột phá nền tảng của sinh học tổng hợp cho phép giải trình tự, sửa đổi và nay in DNA.
+Theo Suleyman, các giới hạn ấy nay đang bị phá vỡ. Ta đang tới một điểm uốn, sâu sắc nhất trong lịch sử. Làn sóng sắp tới dựa chủ yếu trên hai công nghệ đa mục đích vận hành được cả ở mức lớn nhất lẫn mức chi tiết nhất: trí tuệ nhân tạo và sinh học tổng hợp.
+
+Lần đầu tiên, các thành phần cốt lõi của hệ sinh thái công nghệ tác động trực tiếp lên hai thuộc tính nền tảng của thế giới: trí tuệ và sự sống. Nói cách khác, công nghệ đang trải qua một "chuyển pha": nó không còn đơn thuần là công cụ mà sẽ thiết kế sự sống và sánh ngang, rồi vượt, trí tuệ của chính ta. AI đang giúp tái tạo lời nói và ngôn ngữ, thị giác và lập luận; các đột phá nền tảng của sinh học tổng hợp cho phép giải trình tự, sửa đổi và nay in DNA.
 
 Khả năng mới về điều khiển bit và gen lại quay về tác động lên vật chất, cho phép điều khiển thế giới tới tận mức nguyên tử. Nguyên tử, bit và gen kết hợp thành một vòng xúc tác chéo, mở rộng năng lực của nhau: khả năng thao tác nguyên tử chính xác cho phép làm ra tấm wafer silicon; tấm wafer cho phép tính hàng nghìn tỷ phép tính mỗi giây; sức tính đó giúp giải mã bộ mã của sự sống.
 
@@ -664,17 +663,23 @@ AI và sinh học tổng hợp là hai công nghệ đa mục đích trung tâm,
 
 ### 5. A Cambrian Explosion — Một vụ bùng nổ kỷ Cambri (trang PDF 68–70)
 
-Công nghệ là một tập hợp ý tưởng đang tiến hoá. Công nghệ mới tiến hoá bằng cách va chạm và kết hợp với công nghệ khác; tổ hợp hiệu quả thì sống sót, như trong chọn lọc tự nhiên, và trở thành khối xây dựng cho công nghệ tương lai. Phát minh là quá trình tích luỹ, cộng dồn và tự nuôi chính nó: càng nhiều công nghệ thì càng nhiều thành phần cho công nghệ mới. Nhà kinh tế học W. Brian Arthur viết rằng toàn bộ tập hợp công nghệ "tự nâng mình lên từ ít tới nhiều, từ đơn giản tới phức tạp" (theo chú thích của sách, trích từ *The Nature of Technology*, 2009). Vì vậy công nghệ giống ngôn ngữ hay hoá học: không phải tập hợp các thực thể độc lập mà là các phần trộn lẫn để kết hợp và tái kết hợp.
+Công nghệ là một tập hợp ý tưởng đang tiến hoá. Công nghệ mới tiến hoá bằng cách va chạm và kết hợp với công nghệ khác; tổ hợp hiệu quả thì sống sót, như trong chọn lọc tự nhiên, và trở thành khối xây dựng cho công nghệ tương lai. Phát minh là quá trình tích luỹ, cộng dồn và tự nuôi chính nó: càng nhiều công nghệ thì càng nhiều thành phần cho công nghệ mới.
+
+Nhà kinh tế học W. Brian Arthur viết rằng toàn bộ tập hợp công nghệ "tự nâng mình lên từ ít tới nhiều, từ đơn giản tới phức tạp" (theo chú thích của sách, trích từ *The Nature of Technology*, 2009). Vì vậy công nghệ giống ngôn ngữ hay hoá học: không phải tập hợp các thực thể độc lập mà là các phần trộn lẫn để kết hợp và tái kết hợp.
 
 Theo Suleyman, đây là chìa khoá để hiểu làn sóng sắp tới. Học giả công nghệ Everett Rogers nói về công nghệ như những "cụm đổi mới", trong đó một hay nhiều đặc điểm liên quan chặt với nhau (theo chú thích của sách, trong *Diffusion of Innovations*, 1962; chú thích cũng gợi ý đọc các nghiên cứu về cách mạng công nghiệp của Joel Mokyr). Làn sóng sắp tới là một siêu cụm, một đợt bùng nổ tiến hoá giống vụ bùng nổ kỷ Cambri, đợt xuất hiện loài mới dữ dội nhất trong lịch sử Trái Đất, với hàng nghìn ứng dụng mới tiềm năng. Mỗi công nghệ giao nhau, đỡ và đẩy các công nghệ khác, khiến khó dự đoán tác động trước; chúng đan chặt vào nhau và sẽ còn đan chặt hơn.
 
-Đặc điểm thứ hai của làn sóng là tốc độ. Kỹ sư và nhà tương lai học Ray Kurzweil nói về "quy luật lợi suất gia tốc": vòng phản hồi trong đó tiến bộ công nghệ làm tăng tiếp nhịp độ phát triển. Chẳng hạn, chip và laser tinh vi hơn cho phép làm việc ở độ phức tạp và chính xác cao hơn, giúp tạo chip mạnh hơn, và chip đó lại làm ra công cụ tốt hơn cho chip tiếp theo. Ngày nay hiện tượng này diễn ra ở quy mô lớn: AI giúp thiết kế chip và kỹ thuật sản xuất tốt hơn, và chúng lại cho phép AI tinh vi hơn (theo chú thích của sách, ví dụ bài của Azalia Mirhoseini và cộng sự trên *Nature* năm 2021 về phương pháp đặt linh kiện để thiết kế chip nhanh). Các phần khác nhau của làn sóng kích hoạt và tăng tốc lẫn nhau, đôi khi khó đoán và dễ bùng phát.
+Đặc điểm thứ hai của làn sóng là tốc độ. Kỹ sư và nhà tương lai học Ray Kurzweil nói về "quy luật lợi suất gia tốc": vòng phản hồi trong đó tiến bộ công nghệ làm tăng tiếp nhịp độ phát triển. Chẳng hạn, chip và laser tinh vi hơn cho phép làm việc ở độ phức tạp và chính xác cao hơn, giúp tạo chip mạnh hơn, và chip đó lại làm ra công cụ tốt hơn cho chip tiếp theo.
+
+Ngày nay hiện tượng này diễn ra ở quy mô lớn: AI giúp thiết kế chip và kỹ thuật sản xuất tốt hơn, và chúng lại cho phép AI tinh vi hơn (theo chú thích của sách, ví dụ bài của Azalia Mirhoseini và cộng sự trên *Nature* năm 2021 về phương pháp đặt linh kiện để thiết kế chip nhanh). Các phần khác nhau của làn sóng kích hoạt và tăng tốc lẫn nhau, đôi khi khó đoán và dễ bùng phát.
 
 Không ai biết chính xác sẽ ra những tổ hợp nào; không có gì chắc về thời gian, điểm kết thúc hay hình thái cụ thể. Nhưng ta thấy được những liên kết mới đang hình thành theo thời gian thực, và có thể tin rằng khuôn mẫu lịch sử, quá trình tái kết hợp và lan rộng không ngừng, sẽ tiếp diễn và còn sâu sắc hơn nhiều.
 
 ### 6. Beyond the Buzzwords — Vượt lên những từ thời thượng (trang PDF 70–71)
 
-Suleyman thừa nhận AI, sinh học tổng hợp, robot và máy tính lượng tử nghe như một đoàn diễu hành của các từ thời thượng bị thổi phồng. Người hoài nghi có nhiều: các thuật ngữ này đã được nhắc đi nhắc lại trong giới công nghệ hàng chục năm, và tiến bộ thường chậm hơn quảng cáo. Giới phê bình nói các khái niệm như AGI quá mơ hồ hoặc sai về mặt trí tuệ nên không đáng bàn nghiêm túc. Trong thời vốn mạo hiểm dồi dào, khó phân biệt đồ hào nhoáng với đột phá thật; chuyện học máy, các đợt bùng nổ tiền mã hoá và các vòng gọi vốn hàng triệu, hàng tỷ đô la khiến nhiều người chỉ lắc đầu thở dài. Người ta dễ chán ngán những thông cáo báo chí hổn hển, những buổi demo tự khen và sự cổ vũ cuồng nhiệt trên mạng xã hội.
+Suleyman thừa nhận AI, sinh học tổng hợp, robot và máy tính lượng tử nghe như một đoàn diễu hành của các từ thời thượng bị thổi phồng. Người hoài nghi có nhiều: các thuật ngữ này đã được nhắc đi nhắc lại trong giới công nghệ hàng chục năm, và tiến bộ thường chậm hơn quảng cáo. Giới phê bình nói các khái niệm như AGI quá mơ hồ hoặc sai về mặt trí tuệ nên không đáng bàn nghiêm túc.
+
+Trong thời vốn mạo hiểm dồi dào, khó phân biệt đồ hào nhoáng với đột phá thật; chuyện học máy, các đợt bùng nổ tiền mã hoá và các vòng gọi vốn hàng triệu, hàng tỷ đô la khiến nhiều người chỉ lắc đầu thở dài. Người ta dễ chán ngán những thông cáo báo chí hổn hển, những buổi demo tự khen và sự cổ vũ cuồng nhiệt trên mạng xã hội.
 
 Dù quan điểm bi quan có lý, Suleyman cho rằng gạt bỏ các công nghệ của làn sóng sắp tới là tự chuốc lấy nguy hiểm. Hiện chưa công nghệ nào trong chương gần đạt tiềm năng đầy đủ, nhưng trong năm, mười hay hai mươi năm nữa thì gần như chắc chắn sẽ đạt. Tiến bộ là thấy được, đang tăng tốc, diễn ra từng tháng. Hiểu làn sóng không phải là phán đoán vội năm nào đạt tới đâu, mà là theo dõi sát sự phát triển của nhiều đường cong hàm mũ qua hàng chục năm, chiếu chúng vào tương lai và hỏi điều đó có nghĩa gì.
 
@@ -684,13 +689,21 @@ Công nghệ là lõi của khuôn mẫu lịch sử trong đó loài người n
 
 AI ở trung tâm làn sóng sắp tới, nhưng từ khi thuật ngữ "trí tuệ nhân tạo" xuất hiện năm 1955, nó thường giống một lời hứa xa xôi. Nhiều năm liền, tiến bộ trong thị giác máy tính, tức bài toán làm máy tính nhận ra vật thể hay cảnh vật, chậm hơn mong đợi. Giáo sư khoa học máy tính huyền thoại Marvin Minsky từng thuê một sinh viên làm hệ thống thị giác đầu tiên trong một mùa hè năm 1966, nghĩ rằng các mốc quan trọng đã trong tầm tay. Kỳ vọng đó lạc quan quá mức.
 
-Khoảnh khắc đột phá mất gần nửa thế kỷ, tới năm 2012 với hệ thống AlexNet. AlexNet dựa vào sự hồi sinh của một kỹ thuật cũ mà nay đã thành nền tảng của AI, đã tăng sức mạnh cho cả lĩnh vực và là cốt lõi ở DeepMind: học sâu. Học sâu dùng mạng nơ-ron mô phỏng thô theo mạng nơ-ron trong não người. Nói đơn giản, các hệ thống này "học" khi mạng được "huấn luyện" trên lượng lớn dữ liệu. Với AlexNet, dữ liệu là ảnh: mỗi điểm ảnh đỏ, lục hay lam được gán một giá trị, và mảng số thu được đưa vào mạng làm đầu vào. Trong mạng, các "nơ-ron" nối với nơ-ron khác bằng một loạt liên kết có trọng số; mỗi trọng số đại khái thể hiện độ mạnh của quan hệ giữa các đầu vào. Mỗi tầng chuyển đầu vào xuống tầng sau, tạo ra các biểu diễn ngày càng trừu tượng.
+Khoảnh khắc đột phá mất gần nửa thế kỷ, tới năm 2012 với hệ thống AlexNet. AlexNet dựa vào sự hồi sinh của một kỹ thuật cũ mà nay đã thành nền tảng của AI, đã tăng sức mạnh cho cả lĩnh vực và là cốt lõi ở DeepMind: học sâu. Học sâu dùng mạng nơ-ron mô phỏng thô theo mạng nơ-ron trong não người. Nói đơn giản, các hệ thống này "học" khi mạng được "huấn luyện" trên lượng lớn dữ liệu.
+
+Với AlexNet, dữ liệu là ảnh: mỗi điểm ảnh đỏ, lục hay lam được gán một giá trị, và mảng số thu được đưa vào mạng làm đầu vào. Trong mạng, các "nơ-ron" nối với nơ-ron khác bằng một loạt liên kết có trọng số; mỗi trọng số đại khái thể hiện độ mạnh của quan hệ giữa các đầu vào. Mỗi tầng chuyển đầu vào xuống tầng sau, tạo ra các biểu diễn ngày càng trừu tượng.
 
 Kỹ thuật lan truyền ngược sau đó chỉnh các trọng số để cải thiện mạng: khi phát hiện lỗi, phần điều chỉnh được truyền ngược qua mạng để giúp sửa lỗi lần sau. Cứ làm vậy, chỉnh trọng số lặp đi lặp lại, hiệu năng của mạng dần cải thiện cho tới khi nó đi được từ những điểm ảnh riêng lẻ tới nhận ra đường, cạnh, hình và cuối cùng là cả vật thể trong cảnh. Theo Suleyman, đó là học sâu tóm gọn; kỹ thuật này từng bị giới chuyên môn chê bai lâu năm, nhưng đã phá được bài toán thị giác máy tính và làm chấn động giới AI.
 
-AlexNet do nhà nghiên cứu huyền thoại Geoffrey Hinton và hai sinh viên của ông, Alex Krizhevsky và Ilya Sutskever, ở Đại học Toronto xây dựng (theo chú thích của sách, bài báo "ImageNet Classification with Deep Convolutional Neural Networks" ở hội nghị NeurIPS 2012). Họ dự cuộc thi ImageNet Large Scale Visual Recognition Challenge, cuộc thi hằng năm do giáo sư Fei-Fei Li ở Stanford thiết kế để tập trung nỗ lực của cả lĩnh vực vào một mục tiêu đơn giản: nhận ra vật thể chính trong một bức ảnh. Mỗi năm các đội đem mô hình tốt nhất ra so với nhau, và đội thắng thường chỉ hơn bài dự thi năm trước không quá 1 điểm phần trăm về độ chính xác. Năm 2012, AlexNet hơn đội thắng năm trước khoảng 10 phần trăm. Nghe có vẻ nhỏ, nhưng với giới nghiên cứu AI, một bước nhảy như vậy là khác biệt giữa một demo nghiên cứu như đồ chơi và một đột phá sắp có tác động thực tế khổng lồ. Hội nghị năm đó tràn ngập phấn khích, và bài báo của Hinton cùng cộng sự trở thành một trong những công trình được trích dẫn nhiều nhất lịch sử nghiên cứu AI.
+AlexNet do nhà nghiên cứu huyền thoại Geoffrey Hinton và hai sinh viên của ông, Alex Krizhevsky và Ilya Sutskever, ở Đại học Toronto xây dựng (theo chú thích của sách, bài báo "ImageNet Classification with Deep Convolutional Neural Networks" ở hội nghị NeurIPS 2012). Họ dự cuộc thi ImageNet Large Scale Visual Recognition Challenge, cuộc thi hằng năm do giáo sư Fei-Fei Li ở Stanford thiết kế để tập trung nỗ lực của cả lĩnh vực vào một mục tiêu đơn giản: nhận ra vật thể chính trong một bức ảnh.
 
-Nhờ học sâu, thị giác máy tính nay có mặt khắp nơi. Nó hoạt động tốt tới mức phân loại được cảnh đường phố thật đang chuyển động với đầu vào hình ảnh tương đương 21 màn hình full-HD, khoảng 2,5 tỷ điểm ảnh mỗi giây, đủ chính xác để lái một chiếc SUV qua phố đông (theo chú thích của sách, số liệu lấy từ bài về máy tính tự lái HW3 của Tesla trên *CleanTechnica*, 2019). Điện thoại nhận ra vật thể và cảnh; hệ thống thị giác tự làm mờ phông nền và làm nổi người trong cuộc gọi video. Thị giác máy tính là nền của siêu thị không quầy tính tiền của Amazon và có mặt trong xe Tesla, đẩy xe ngày càng tự lái. Nó giúp người khiếm thị đi lại trong thành phố, dẫn đường robot trong nhà máy, và vận hành hệ thống nhận diện khuôn mặt ngày càng giám sát đời sống đô thị từ Baltimore tới Bắc Kinh. Nó nằm trong cảm biến và camera của máy Xbox, chuông cửa kết nối mạng, máy quét ở cửa sân bay. Nó giúp lái drone, gắn cờ nội dung không phù hợp trên Facebook và chẩn đoán ngày càng nhiều bệnh: ở DeepMind, một hệ thống do nhóm của Suleyman phát triển đọc ảnh chụp mắt chính xác ngang các bác sĩ chuyên khoa hàng đầu thế giới (theo chú thích của sách, bài của Jeffrey De Fauw và cộng sự trên *Nature Medicine* năm 2018 về chẩn đoán và chuyển tuyến bệnh võng mạc).
+Mỗi năm các đội đem mô hình tốt nhất ra so với nhau, và đội thắng thường chỉ hơn bài dự thi năm trước không quá 1 điểm phần trăm về độ chính xác. Năm 2012, AlexNet hơn đội thắng năm trước khoảng 10 phần trăm. Nghe có vẻ nhỏ, nhưng với giới nghiên cứu AI, một bước nhảy như vậy là khác biệt giữa một demo nghiên cứu như đồ chơi và một đột phá sắp có tác động thực tế khổng lồ. Hội nghị năm đó tràn ngập phấn khích, và bài báo của Hinton cùng cộng sự trở thành một trong những công trình được trích dẫn nhiều nhất lịch sử nghiên cứu AI.
+
+Nhờ học sâu, thị giác máy tính nay có mặt khắp nơi. Nó hoạt động tốt tới mức phân loại được cảnh đường phố thật đang chuyển động với đầu vào hình ảnh tương đương 21 màn hình full-HD, khoảng 2,5 tỷ điểm ảnh mỗi giây, đủ chính xác để lái một chiếc SUV qua phố đông (theo chú thích của sách, số liệu lấy từ bài về máy tính tự lái HW3 của Tesla trên *CleanTechnica*, 2019). Điện thoại nhận ra vật thể và cảnh; hệ thống thị giác tự làm mờ phông nền và làm nổi người trong cuộc gọi video.
+
+Thị giác máy tính là nền của siêu thị không quầy tính tiền của Amazon và có mặt trong xe Tesla, đẩy xe ngày càng tự lái. Nó giúp người khiếm thị đi lại trong thành phố, dẫn đường robot trong nhà máy, và vận hành hệ thống nhận diện khuôn mặt ngày càng giám sát đời sống đô thị từ Baltimore tới Bắc Kinh. Nó nằm trong cảm biến và camera của máy Xbox, chuông cửa kết nối mạng, máy quét ở cửa sân bay.
+
+Nó giúp lái drone, gắn cờ nội dung không phù hợp trên Facebook và chẩn đoán ngày càng nhiều bệnh: ở DeepMind, một hệ thống do nhóm của Suleyman phát triển đọc ảnh chụp mắt chính xác ngang các bác sĩ chuyên khoa hàng đầu thế giới (theo chú thích của sách, bài của Jeffrey De Fauw và cộng sự trên *Nature Medicine* năm 2018 về chẩn đoán và chuyển tuyến bệnh võng mạc).
 
 Sau đột phá AlexNet, AI bỗng thành ưu tiên lớn của học thuật, chính phủ và doanh nghiệp. Google tuyển Geoffrey Hinton và các cộng sự. Các công ty công nghệ lớn ở cả Mỹ và Trung Quốc đặt học máy vào trung tâm nghiên cứu và phát triển. Không lâu sau DQN, DeepMind được bán cho Google, và Google sớm chuyển sang chiến lược "AI trước tiên" (AI first) cho mọi sản phẩm. Sản lượng nghiên cứu và bằng sáng chế tăng vọt:
 
@@ -711,11 +724,17 @@ Như vậy AI đang rời khỏi thế giới demo để vào thế giới thậ
 
 Phần lớn công việc của Suleyman trong mười năm qua là đưa kỹ thuật AI mới nhất vào ứng dụng thực tế. Ở DeepMind, nhóm của ông làm hệ thống điều khiển các trung tâm dữ liệu trị giá hàng tỷ đô la, giảm 40% năng lượng dùng cho làm mát (theo chú thích của sách, bài đăng của DeepMind tháng 7/2016 nói hoá đơn làm mát trung tâm dữ liệu của Google giảm 40%). Dự án WaveNet là hệ thống chuyển chữ thành giọng nói mạnh, tạo giọng tổng hợp cho hơn 100 ngôn ngữ trong các sản phẩm của Google. Nhóm cũng làm các thuật toán đột phá quản lý pin điện thoại và nhiều ứng dụng có thể đang chạy trên điện thoại trong túi bạn.
 
-Suleyman nói AI không còn là "mới nổi": nó nằm trong sản phẩm, dịch vụ và thiết bị ta dùng hằng ngày. Hàng loạt ứng dụng dựa trên những kỹ thuật mà mười năm trước không thể có. Chúng giúp tìm thuốc mới cho các bệnh khó chữa trong lúc chi phí điều trị tăng vọt. Học sâu phát hiện vết nứt trong ống nước, điều tiết giao thông, mô phỏng phản ứng nhiệt hạch để tìm nguồn năng lượng sạch mới, tối ưu tuyến vận tải biển, hỗ trợ thiết kế vật liệu xây dựng bền vững và đa năng hơn. Nó được dùng để lái ô tô, xe tải, máy kéo, có thể tạo ra hạ tầng giao thông an toàn và hiệu quả hơn; được dùng trong lưới điện và hệ thống nước để quản lý tài nguyên khan hiếm. Các hệ thống AI vận hành kho hàng bán lẻ, gợi ý cách viết email hay bài hát bạn có thể thích, phát hiện gian lận, viết truyện, chẩn đoán bệnh hiếm và mô phỏng tác động của biến đổi khí hậu. Chúng có mặt trong cửa hàng, trường học, bệnh viện, văn phòng, toà án và nhà ở. Ta đã tương tác với AI nhiều lần mỗi ngày và sẽ còn nhiều hơn; gần như ở đâu nó cũng làm trải nghiệm hiệu quả, nhanh, hữu ích và trơn tru hơn. Suleyman kết mục: AI đã ở đây, nhưng còn lâu mới xong.
+Suleyman nói AI không còn là "mới nổi": nó nằm trong sản phẩm, dịch vụ và thiết bị ta dùng hằng ngày. Hàng loạt ứng dụng dựa trên những kỹ thuật mà mười năm trước không thể có. Chúng giúp tìm thuốc mới cho các bệnh khó chữa trong lúc chi phí điều trị tăng vọt.
+
+Học sâu phát hiện vết nứt trong ống nước, điều tiết giao thông, mô phỏng phản ứng nhiệt hạch để tìm nguồn năng lượng sạch mới, tối ưu tuyến vận tải biển, hỗ trợ thiết kế vật liệu xây dựng bền vững và đa năng hơn. Nó được dùng để lái ô tô, xe tải, máy kéo, có thể tạo ra hạ tầng giao thông an toàn và hiệu quả hơn; được dùng trong lưới điện và hệ thống nước để quản lý tài nguyên khan hiếm.
+
+Các hệ thống AI vận hành kho hàng bán lẻ, gợi ý cách viết email hay bài hát bạn có thể thích, phát hiện gian lận, viết truyện, chẩn đoán bệnh hiếm và mô phỏng tác động của biến đổi khí hậu. Chúng có mặt trong cửa hàng, trường học, bệnh viện, văn phòng, toà án và nhà ở. Ta đã tương tác với AI nhiều lần mỗi ngày và sẽ còn nhiều hơn; gần như ở đâu nó cũng làm trải nghiệm hiệu quả, nhanh, hữu ích và trơn tru hơn. Suleyman kết mục: AI đã ở đây, nhưng còn lâu mới xong.
 
 ### 9. Autocomplete Everything: The Rise of Large Language Models — Tự động hoàn thành mọi thứ: sự trỗi dậy của mô hình ngôn ngữ lớn (trang PDF 75–78)
 
-Không lâu trước đây, xử lý ngôn ngữ tự nhiên còn có vẻ quá phức tạp, quá đa dạng, quá nhiều sắc thái với AI. Rồi tháng 11/2022, công ty nghiên cứu AI OpenAI ra mắt ChatGPT. Trong một tuần, ChatGPT có hơn một triệu người dùng và được nhắc tới bằng những lời tán dương, như một công nghệ hữu ích liền mạch tới mức có thể sớm làm lu mờ Google Search. Nói đơn giản, ChatGPT là một chatbot, nhưng mạnh và đa tài hơn mọi thứ từng được công bố. Hỏi nó một câu, nó trả lời ngay bằng văn xuôi trôi chảy; nhờ nó viết bài luận, thông cáo báo chí hay kế hoạch kinh doanh theo văn phong Kinh Thánh bản King James hay một rapper thập niên 1980, nó làm trong vài giây; nhờ nó soạn đề cương môn vật lý, cẩm nang ăn kiêng hay một đoạn mã Python, nó cũng làm.
+Không lâu trước đây, xử lý ngôn ngữ tự nhiên còn có vẻ quá phức tạp, quá đa dạng, quá nhiều sắc thái với AI. Rồi tháng 11/2022, công ty nghiên cứu AI OpenAI ra mắt ChatGPT. Trong một tuần, ChatGPT có hơn một triệu người dùng và được nhắc tới bằng những lời tán dương, như một công nghệ hữu ích liền mạch tới mức có thể sớm làm lu mờ Google Search. Nói đơn giản, ChatGPT là một chatbot, nhưng mạnh và đa tài hơn mọi thứ từng được công bố.
+
+Hỏi nó một câu, nó trả lời ngay bằng văn xuôi trôi chảy; nhờ nó viết bài luận, thông cáo báo chí hay kế hoạch kinh doanh theo văn phong Kinh Thánh bản King James hay một rapper thập niên 1980, nó làm trong vài giây; nhờ nó soạn đề cương môn vật lý, cẩm nang ăn kiêng hay một đoạn mã Python, nó cũng làm.
 
 Suleyman giải thích: một phần lớn trí tuệ của con người là nhìn quá khứ để đoán tương lai. Theo nghĩa đó, trí tuệ có thể hiểu là khả năng tạo ra một loạt kịch bản hợp lý về cách thế giới quanh ta sẽ diễn ra, rồi dựa vào các dự đoán đó để hành động hợp lý. Năm 2017, một nhóm nhỏ nhà nghiên cứu ở Google tập trung vào một phiên bản hẹp hơn của bài toán này: làm sao cho hệ thống AI chỉ chú ý vào những phần quan trọng nhất của một chuỗi dữ liệu để dự đoán chính xác và hiệu quả phần tiếp theo. Công trình của họ đặt nền cho cuộc cách mạng mô hình ngôn ngữ lớn (LLM), trong đó có ChatGPT.
 
@@ -735,13 +754,19 @@ Các hệ thống này gọi là transformer. Từ khi các nhà nghiên cứu G
 
 GPT là viết tắt của "generative pre-trained transformer" (transformer được huấn luyện trước để sinh nội dung); số tham số là thước đo cốt lõi về quy mô và độ phức tạp của hệ thống AI. Suleyman nói quy mô của GPT-3 nay đã thành chuyện thường, và chi phí huấn luyện một mô hình tương đương đã giảm mười lần trong hai năm qua.
 
-Về GPT-4, Suleyman liệt kê: nhờ nó làm thơ theo phong cách Emily Dickinson, nó làm; đưa một đoạn ngẫu nhiên của *Chúa tể những chiếc nhẫn*, nó viết tiếp như Tolkien; nhờ viết kế hoạch khởi nghiệp, kết quả giống như có cả một phòng giám đốc sẵn sàng. Nó làm việc được với ảnh và mã, tạo trò chơi máy tính 3D chạy trong trình duyệt, xây ứng dụng điện thoại, gỡ lỗi mã, tìm điểm yếu trong hợp đồng, gợi ý hợp chất cho thuốc mới và thậm chí gợi ý cách biến đổi chúng để tránh bằng sáng chế. Nó dựng trang web từ hình vẽ tay, hiểu những động lực tinh tế giữa người với người trong cảnh phức tạp; cho nó xem tủ lạnh, nó gợi ý công thức nấu theo những gì có trong đó; đưa nó bản trình bày thô, nó trau chuốt và thiết kế lại cho chuyên nghiệp. Nó có vẻ "hiểu" lập luận về không gian và nhân quả, y học, luật và tâm lý con người. Vài ngày sau khi ra mắt, người ta đã làm công cụ tự động hoá kiện tụng, hỗ trợ cha mẹ ly thân cùng nuôi con, tư vấn thời trang theo thời gian thực; vài tuần sau, người ta làm phần bổ trợ để GPT-4 làm được việc phức tạp như tạo ứng dụng di động hay nghiên cứu và viết báo cáo thị trường chi tiết.
+Về GPT-4, Suleyman liệt kê: nhờ nó làm thơ theo phong cách Emily Dickinson, nó làm; đưa một đoạn ngẫu nhiên của *Chúa tể những chiếc nhẫn*, nó viết tiếp như Tolkien; nhờ viết kế hoạch khởi nghiệp, kết quả giống như có cả một phòng giám đốc sẵn sàng. Nó làm việc được với ảnh và mã, tạo trò chơi máy tính 3D chạy trong trình duyệt, xây ứng dụng điện thoại, gỡ lỗi mã, tìm điểm yếu trong hợp đồng, gợi ý hợp chất cho thuốc mới và thậm chí gợi ý cách biến đổi chúng để tránh bằng sáng chế.
+
+Nó dựng trang web từ hình vẽ tay, hiểu những động lực tinh tế giữa người với người trong cảnh phức tạp; cho nó xem tủ lạnh, nó gợi ý công thức nấu theo những gì có trong đó; đưa nó bản trình bày thô, nó trau chuốt và thiết kế lại cho chuyên nghiệp. Nó có vẻ "hiểu" lập luận về không gian và nhân quả, y học, luật và tâm lý con người.
+
+Vài ngày sau khi ra mắt, người ta đã làm công cụ tự động hoá kiện tụng, hỗ trợ cha mẹ ly thân cùng nuôi con, tư vấn thời trang theo thời gian thực; vài tuần sau, người ta làm phần bổ trợ để GPT-4 làm được việc phức tạp như tạo ứng dụng di động hay nghiên cứu và viết báo cáo thị trường chi tiết.
 
 Suleyman cho rằng tất cả mới chỉ là khởi đầu. Nếu DQN và AlphaGo là dấu hiệu sớm của thứ gì đó vỗ vào bờ, thì ChatGPT và LLM là dấu hiệu đầu tiên của làn sóng bắt đầu vỡ quanh ta. Năm 1996 có 36 triệu người dùng Internet; năm viết sách sẽ là hơn 5 tỷ. Ông dự đoán các công cụ AI sẽ đi theo quỹ đạo tương tự nhưng nhanh hơn nhiều: trong vài năm, AI sẽ phổ biến như chính Internet, sẵn có như vậy nhưng hệ trọng hơn (theo chú thích của sách, so sánh này được phát triển kỹ trong *Rule of the Robots* của Martin Ford, 2021).
 
 ### 10. Brain-Scale Models — Các mô hình cỡ bộ não (trang PDF 78–81)
 
-Suleyman nhấn mạnh các hệ thống AI ông mô tả vận hành ở quy mô khổng lồ. Phần lớn tiến bộ của AI giữa thập niên 2010 nhờ hiệu quả của học sâu "có giám sát": mô hình học từ dữ liệu do người gán nhãn cẩn thận, và chất lượng dự đoán thường phụ thuộc chất lượng nhãn. Một thành phần then chốt của cuộc cách mạng LLM là lần đầu tiên các mô hình rất lớn có thể được huấn luyện thẳng trên dữ liệu thô, lộn xộn của thế giới thật, không cần bộ dữ liệu được chọn lọc và gán nhãn bởi người. Kết quả là gần như mọi dữ liệu văn bản trên web trở nên hữu ích, càng nhiều càng tốt. LLM ngày nay học trên hàng nghìn tỷ từ: hình dung việc nuốt trọn Wikipedia, mọi phụ đề và bình luận trên YouTube, hàng triệu hợp đồng pháp lý, hàng chục triệu email và hàng trăm nghìn cuốn sách. Suleyman gọi sự tiêu thụ thông tin khổng lồ, gần như tức thời ấy là thật sự xa lạ với con người.
+Suleyman nhấn mạnh các hệ thống AI ông mô tả vận hành ở quy mô khổng lồ. Phần lớn tiến bộ của AI giữa thập niên 2010 nhờ hiệu quả của học sâu "có giám sát": mô hình học từ dữ liệu do người gán nhãn cẩn thận, và chất lượng dự đoán thường phụ thuộc chất lượng nhãn. Một thành phần then chốt của cuộc cách mạng LLM là lần đầu tiên các mô hình rất lớn có thể được huấn luyện thẳng trên dữ liệu thô, lộn xộn của thế giới thật, không cần bộ dữ liệu được chọn lọc và gán nhãn bởi người. Kết quả là gần như mọi dữ liệu văn bản trên web trở nên hữu ích, càng nhiều càng tốt.
+
+LLM ngày nay học trên hàng nghìn tỷ từ: hình dung việc nuốt trọn Wikipedia, mọi phụ đề và bình luận trên YouTube, hàng triệu hợp đồng pháp lý, hàng chục triệu email và hàng trăm nghìn cuốn sách. Suleyman gọi sự tiêu thụ thông tin khổng lồ, gần như tức thời ấy là thật sự xa lạ với con người.
 
 Ông đề nghị dừng lại để so sánh:
 
@@ -753,7 +778,11 @@ Suleyman nhấn mạnh các hệ thống AI ông mô tả vận hành ở quy m�
 
 Vì vậy, theo Suleyman, không ngạc nhiên khi các LLM mới giỏi đến kinh ngạc ở hàng chục loại việc viết từng là đặc quyền của chuyên gia: dịch, tóm tắt chính xác, thậm chí viết kế hoạch cải thiện hiệu năng của chính LLM. Một công bố gần đây của các đồng nghiệp cũ của ông ở Google cho thấy một phiên bản điều chỉnh của hệ thống PaLM đạt kết quả đáng chú ý với các câu hỏi của kỳ thi cấp phép hành nghề y của Mỹ (U.S. Medical Licensing Examination). Ông dự đoán không lâu nữa các hệ thống này sẽ làm bài thi đó tốt và ổn định hơn bác sĩ.
 
-Không lâu sau khi LLM xuất hiện, quy mô dữ liệu và tính toán đã vượt xa những gì vài năm trước tưởng là đáng kinh ngạc. Ban đầu hàng trăm triệu, rồi hàng tỷ tham số trở thành bình thường; nay người ta bàn về mô hình "cỡ bộ não" với nhiều nghìn tỷ tham số. Theo chú thích của sách, Microsoft và NVIDIA đã làm mô hình transformer MT-NLG (Megatron-Turing Natural Language Generation) với 530 tỷ tham số, lớn gấp 31 lần mô hình transformer mạnh nhất của chính họ chỉ một năm trước; sau đó Học viện Trí tuệ nhân tạo Bắc Kinh đưa ra Wu Dao, được cho là có 1.750 tỷ tham số, gấp mười lần GPT-3. Công ty Trung Quốc Alibaba đã phát triển một mô hình tuyên bố có 10 nghìn tỷ tham số (theo chú thích của sách, tin tháng 11/2021 về Học viện DAMO của Alibaba). Suleyman viết rằng khi độc giả đọc tới đây, các con số chắc chắn đã lớn hơn; làn sóng tiến với tốc độ chưa từng có, làm cả những người ủng hộ nó bất ngờ.
+Không lâu sau khi LLM xuất hiện, quy mô dữ liệu và tính toán đã vượt xa những gì vài năm trước tưởng là đáng kinh ngạc. Ban đầu hàng trăm triệu, rồi hàng tỷ tham số trở thành bình thường; nay người ta bàn về mô hình "cỡ bộ não" với nhiều nghìn tỷ tham số.
+
+Theo chú thích của sách, Microsoft và NVIDIA đã làm mô hình transformer MT-NLG (Megatron-Turing Natural Language Generation) với 530 tỷ tham số, lớn gấp 31 lần mô hình transformer mạnh nhất của chính họ chỉ một năm trước; sau đó Học viện Trí tuệ nhân tạo Bắc Kinh đưa ra Wu Dao, được cho là có 1.750 tỷ tham số, gấp mười lần GPT-3. Công ty Trung Quốc Alibaba đã phát triển một mô hình tuyên bố có 10 nghìn tỷ tham số (theo chú thích của sách, tin tháng 11/2021 về Học viện DAMO của Alibaba).
+
+Suleyman viết rằng khi độc giả đọc tới đây, các con số chắc chắn đã lớn hơn; làn sóng tiến với tốc độ chưa từng có, làm cả những người ủng hộ nó bất ngờ.
 
 Trong mười năm qua, lượng tính toán dùng để huấn luyện các mô hình lớn nhất tăng theo hàm mũ:
 
@@ -768,9 +797,15 @@ Suleyman nói ông thấy điều này phi thường: không lâu trước đây
 
 Có người cho rằng tốc độ này không thể kéo dài vì định luật Moore đang chậm lại. Một sợi tóc người dày 90.000 nanomet; năm 1971 một bóng bán dẫn trung bình đã chỉ dày 10.000 nanomet; nay chip tiên tiến nhất được chế tạo ở mức 3 nanomet. Bóng bán dẫn nhỏ tới mức chạm giới hạn vật lý: ở kích thước này, các electron bắt đầu nhiễu lẫn nhau, làm hỏng quá trình tính toán. Suleyman thừa nhận điều đó đúng, nhưng nói nó bỏ qua một thực tế: trong huấn luyện AI, có thể tiếp tục nối các mảng chip ngày càng lớn thành siêu máy tính song song khổng lồ. Vì vậy ông không nghi ngờ rằng quy mô các đợt huấn luyện AI lớn sẽ tiếp tục tăng theo hàm mũ.
 
-Trong khi đó, giới nghiên cứu thấy ngày càng nhiều bằng chứng cho "giả thuyết mở rộng quy mô": động lực chính của hiệu năng đơn giản là làm lớn và tiếp tục làm lớn hơn. Cứ tăng dữ liệu, tham số và sức tính thì mô hình sẽ tiếp tục giỏi lên, có thể tới trí tuệ ngang người và vượt hơn. Không ai chắc giả thuyết này sẽ đúng mãi, nhưng tới nay nó vẫn đúng, và Suleyman nghĩ nó sẽ còn đúng trong tương lai gần. Bộ não người rất kém trong việc hình dung tốc độ tăng hàm mũ, nên khó nắm được điều đang diễn ra trong AI. Trong những năm và thập niên tới, chắc chắn sẽ có thêm nhiều bậc độ lớn sức tính dùng để huấn luyện các mô hình lớn nhất; nếu giả thuyết mở rộng quy mô đúng dù chỉ một phần, hệ quả là không tránh được.
+Trong khi đó, giới nghiên cứu thấy ngày càng nhiều bằng chứng cho "giả thuyết mở rộng quy mô": động lực chính của hiệu năng đơn giản là làm lớn và tiếp tục làm lớn hơn. Cứ tăng dữ liệu, tham số và sức tính thì mô hình sẽ tiếp tục giỏi lên, có thể tới trí tuệ ngang người và vượt hơn. Không ai chắc giả thuyết này sẽ đúng mãi, nhưng tới nay nó vẫn đúng, và Suleyman nghĩ nó sẽ còn đúng trong tương lai gần.
 
-Có người nói rằng khi cố tái tạo trí tuệ ngang người, AI đuổi theo một mục tiêu di động, hoặc luôn có một thành phần không thể diễn tả mà máy không bao giờ đạt. Suleyman bác điều đó. Bộ não người được cho là có khoảng 100 tỷ nơ-ron và 100 nghìn tỷ kết nối, thường được gọi là vật thể phức tạp nhất đã biết trong vũ trụ. Đúng là con người còn là sinh vật cảm xúc và xã hội phức tạp. Nhưng khả năng hoàn thành nhiệm vụ của con người, tức bản thân trí tuệ người, là một mục tiêu cố định, dù lớn và nhiều mặt. Khác với sức tính, bộ não không thay đổi đáng kể từ năm này sang năm khác, nên theo thời gian khoảng cách sẽ được lấp. Ở mức sức tính hiện tại, AI đã ngang người ở các việc từ chép lời nói tới viết văn bản; khi tiếp tục mở rộng, khả năng làm nhiều loại việc ở mức người và hơn thế sẽ trong tầm với. Suleyman viết rằng AI sẽ tiếp tục giỏi lên mạnh mẽ ở mọi thứ, chưa thấy giới hạn trên rõ ràng, và đó có thể là một trong những sự thật hệ trọng nhất thế kỷ, thậm chí của lịch sử loài người. Nhưng mở rộng quy mô không phải chiều duy nhất mà AI sắp tiến bộ theo hàm mũ.
+Bộ não người rất kém trong việc hình dung tốc độ tăng hàm mũ, nên khó nắm được điều đang diễn ra trong AI. Trong những năm và thập niên tới, chắc chắn sẽ có thêm nhiều bậc độ lớn sức tính dùng để huấn luyện các mô hình lớn nhất; nếu giả thuyết mở rộng quy mô đúng dù chỉ một phần, hệ quả là không tránh được.
+
+Có người nói rằng khi cố tái tạo trí tuệ ngang người, AI đuổi theo một mục tiêu di động, hoặc luôn có một thành phần không thể diễn tả mà máy không bao giờ đạt. Suleyman bác điều đó.
+
+Bộ não người được cho là có khoảng 100 tỷ nơ-ron và 100 nghìn tỷ kết nối, thường được gọi là vật thể phức tạp nhất đã biết trong vũ trụ. Đúng là con người còn là sinh vật cảm xúc và xã hội phức tạp. Nhưng khả năng hoàn thành nhiệm vụ của con người, tức bản thân trí tuệ người, là một mục tiêu cố định, dù lớn và nhiều mặt. Khác với sức tính, bộ não không thay đổi đáng kể từ năm này sang năm khác, nên theo thời gian khoảng cách sẽ được lấp.
+
+Ở mức sức tính hiện tại, AI đã ngang người ở các việc từ chép lời nói tới viết văn bản; khi tiếp tục mở rộng, khả năng làm nhiều loại việc ở mức người và hơn thế sẽ trong tầm với. Suleyman viết rằng AI sẽ tiếp tục giỏi lên mạnh mẽ ở mọi thứ, chưa thấy giới hạn trên rõ ràng, và đó có thể là một trong những sự thật hệ trọng nhất thế kỷ, thậm chí của lịch sử loài người. Nhưng mở rộng quy mô không phải chiều duy nhất mà AI sắp tiến bộ theo hàm mũ.
 
 ### 11. More with Less, Again — Lại làm nhiều hơn với ít hơn (trang PDF 81–83)
 
@@ -786,11 +821,17 @@ Theo Suleyman, khi một công nghệ mới bắt đầu chạy được, nó lu
 
 Tóm lại, AI ngày càng làm được nhiều hơn với ít hơn. Các nhà nghiên cứu đua nhau giảm chi phí và tăng hiệu năng để mô hình dùng được trong mọi môi trường sản xuất. Trong bốn năm qua, chi phí và thời gian huấn luyện các mô hình ngôn ngữ tiên tiến đã sụp đổ. Suleyman dự đoán trong mười năm tới gần như chắc chắn năng lực sẽ tăng mạnh, trong khi chi phí còn giảm thêm nhiều bậc độ lớn; tiến bộ nhanh tới mức các benchmark bị vượt trước khi kịp có benchmark mới.
 
-Mô hình không chỉ hiệu quả hơn về dữ liệu, nhỏ hơn, rẻ hơn và dễ xây hơn, mà còn ngày càng sẵn có ở mức mã nguồn. Trong điều kiện ấy, lan rộng hàng loạt gần như chắc chắn. EleutherAI, một liên minh nhà nghiên cứu độc lập từ cơ sở, đã công bố một loạt LLM hoàn toàn mã nguồn mở, sẵn cho hàng trăm nghìn người dùng. Meta đã mở mã, theo cách Meta gọi là "dân chủ hoá", những mô hình lớn tới mức chỉ vài tháng trước còn là tối tân (theo chú thích của sách, mô hình OPT-175B, công bố tháng 5/2022). Ngay cả khi không định công bố, mô hình tiên tiến vẫn có thể bị rò rỉ và đã bị rò rỉ: hệ thống LLaMA của Meta lẽ ra chỉ được cấp hạn chế, nhưng sớm có trên BitTorrent cho ai cũng tải; vài ngày sau có người chạy được nó, dù chậm, trên một máy tính giá 50 USD. Suleyman coi sự dễ tiếp cận, khả năng điều chỉnh và tuỳ biến trong vài tuần là đặc điểm nổi bật của làn sóng sắp tới; những người làm nhanh nhẹn với hệ thống hiệu quả, dữ liệu chọn lọc và vòng lặp nhanh đã có thể sớm cạnh tranh với những nhà phát triển nhiều nguồn lực nhất.
+Mô hình không chỉ hiệu quả hơn về dữ liệu, nhỏ hơn, rẻ hơn và dễ xây hơn, mà còn ngày càng sẵn có ở mức mã nguồn. Trong điều kiện ấy, lan rộng hàng loạt gần như chắc chắn. EleutherAI, một liên minh nhà nghiên cứu độc lập từ cơ sở, đã công bố một loạt LLM hoàn toàn mã nguồn mở, sẵn cho hàng trăm nghìn người dùng. Meta đã mở mã, theo cách Meta gọi là "dân chủ hoá", những mô hình lớn tới mức chỉ vài tháng trước còn là tối tân (theo chú thích của sách, mô hình OPT-175B, công bố tháng 5/2022).
+
+Ngay cả khi không định công bố, mô hình tiên tiến vẫn có thể bị rò rỉ và đã bị rò rỉ: hệ thống LLaMA của Meta lẽ ra chỉ được cấp hạn chế, nhưng sớm có trên BitTorrent cho ai cũng tải; vài ngày sau có người chạy được nó, dù chậm, trên một máy tính giá 50 USD.
+
+Suleyman coi sự dễ tiếp cận, khả năng điều chỉnh và tuỳ biến trong vài tuần là đặc điểm nổi bật của làn sóng sắp tới; những người làm nhanh nhẹn với hệ thống hiệu quả, dữ liệu chọn lọc và vòng lặp nhanh đã có thể sớm cạnh tranh với những nhà phát triển nhiều nguồn lực nhất.
 
 LLM không chỉ giới hạn ở việc sinh ngôn ngữ. Thứ bắt đầu từ ngôn ngữ đã thành lĩnh vực đang bùng nổ là AI tạo sinh. Chỉ như một hiệu ứng phụ của quá trình huấn luyện, chúng viết được nhạc, chế trò chơi, chơi cờ và giải các bài toán cao cấp. Công cụ mới tạo ảnh phi thường từ mô tả ngắn bằng chữ, chân thực tới khó tin. Mô hình hoàn toàn mã nguồn mở Stable Diffusion cho phép bất kỳ ai tạo ảnh siêu thực theo ý mình, miễn phí, trên laptop; điều tương tự sẽ sớm làm được với đoạn âm thanh và cả video.
 
-AI nay giúp kỹ sư tạo mã đủ chất lượng để đưa vào sản phẩm. Năm 2022, OpenAI và Microsoft ra mắt công cụ Copilot, nhanh chóng phổ biến trong giới lập trình. Một phân tích cho rằng Copilot giúp kỹ sư hoàn thành việc lập trình nhanh hơn 55%, gần như có thêm bộ não thứ hai (theo chú thích của sách, nghiên cứu của Eirini Kalliamvakou đăng trên blog GitHub tháng 9/2022). Nhiều lập trình viên giao phần việc nhàm chán cho AI để tập trung vào các vấn đề hóc búa và sáng tạo. Một nhà khoa học máy tính lỗi lạc (theo chú thích của sách, Matt Welsh, bài "The End of Programming" trên *Communications of the ACM*, 1/2023) nói ông thấy hoàn toàn hiển nhiên rằng mọi chương trình trong tương lai cuối cùng sẽ do AI viết, và con người cùng lắm chỉ giữ vai trò giám sát. Suleyman viết rằng ai có kết nối Internet và thẻ tín dụng sẽ sớm triển khai được các năng lực này, như một dòng đầu ra vô tận có sẵn ở vòi.
+AI nay giúp kỹ sư tạo mã đủ chất lượng để đưa vào sản phẩm. Năm 2022, OpenAI và Microsoft ra mắt công cụ Copilot, nhanh chóng phổ biến trong giới lập trình. Một phân tích cho rằng Copilot giúp kỹ sư hoàn thành việc lập trình nhanh hơn 55%, gần như có thêm bộ não thứ hai (theo chú thích của sách, nghiên cứu của Eirini Kalliamvakou đăng trên blog GitHub tháng 9/2022).
+
+Nhiều lập trình viên giao phần việc nhàm chán cho AI để tập trung vào các vấn đề hóc búa và sáng tạo. Một nhà khoa học máy tính lỗi lạc (theo chú thích của sách, Matt Welsh, bài "The End of Programming" trên *Communications of the ACM*, 1/2023) nói ông thấy hoàn toàn hiển nhiên rằng mọi chương trình trong tương lai cuối cùng sẽ do AI viết, và con người cùng lắm chỉ giữ vai trò giám sát. Suleyman viết rằng ai có kết nối Internet và thẻ tín dụng sẽ sớm triển khai được các năng lực này, như một dòng đầu ra vô tận có sẵn ở vòi.
 
 LLM chỉ mất vài năm để thay đổi AI, nhưng người ta sớm thấy chúng đôi khi tạo nội dung đáng lo và gây hại thật sự, như bài viết phân biệt chủng tộc hay thuyết âm mưu lan man. Nghiên cứu về GPT-2 (theo chú thích của sách, bài của Emily Sheng và cộng sự năm 2019, "The Woman Worked as a Babysitter: On Biases in Language Generation") cho thấy:
 
@@ -800,7 +841,9 @@ LLM chỉ mất vài năm để thay đổi AI, nhưng người ta sớm thấy 
 | "the Black man worked as…" (người đàn ông da đen làm nghề…) | ma cô |
 | "the woman worked as…" (người phụ nữ làm nghề…) | gái mại dâm |
 
-Các mô hình này rõ ràng có thể độc hại ngang với mức mạnh mẽ của chúng. Vì được huấn luyện trên phần lớn dữ liệu lộn xộn của web mở, chúng sẽ thản nhiên tái tạo và thậm chí khuếch đại các định kiến và cấu trúc ngầm của xã hội, trừ khi được thiết kế cẩn thận để tránh. Suleyman thừa nhận nguy cơ gây hại, lạm dụng và tin sai là có thật, nhưng nói tin tốt là nhiều vấn đề đang được cải thiện khi mô hình lớn và mạnh hơn. Các nhà nghiên cứu khắp thế giới đang đua phát triển các kỹ thuật tinh chỉnh (fine-tuning) và kiểm soát mới, đã tạo ra mức vững chắc và tin cậy không thể có vài năm trước. Ông nói vẫn cần nhiều hơn nữa, nhưng ít nhất tiềm năng gây hại nay đã là ưu tiên cần giải quyết, và các tiến bộ này đáng hoan nghênh.
+Các mô hình này rõ ràng có thể độc hại ngang với mức mạnh mẽ của chúng. Vì được huấn luyện trên phần lớn dữ liệu lộn xộn của web mở, chúng sẽ thản nhiên tái tạo và thậm chí khuếch đại các định kiến và cấu trúc ngầm của xã hội, trừ khi được thiết kế cẩn thận để tránh.
+
+Suleyman thừa nhận nguy cơ gây hại, lạm dụng và tin sai là có thật, nhưng nói tin tốt là nhiều vấn đề đang được cải thiện khi mô hình lớn và mạnh hơn. Các nhà nghiên cứu khắp thế giới đang đua phát triển các kỹ thuật tinh chỉnh (fine-tuning) và kiểm soát mới, đã tạo ra mức vững chắc và tin cậy không thể có vài năm trước. Ông nói vẫn cần nhiều hơn nữa, nhưng ít nhất tiềm năng gây hại nay đã là ưu tiên cần giải quyết, và các tiến bộ này đáng hoan nghênh.
 
 Khi hàng tỷ tham số thành hàng nghìn tỷ và hơn nữa, khi chi phí giảm và khả năng tiếp cận tăng, khi khả năng viết và dùng ngôn ngữ, một phần cốt lõi của loài người và là công cụ mạnh mẽ trong lịch sử ta, chắc chắn trở thành lãnh địa của máy, tiềm năng đầy đủ của AI đang lộ rõ. Theo Suleyman, AI không còn là khoa học viễn tưởng mà là một công cụ thực tế thay đổi thế giới, sắp nằm trong tay hàng tỷ người.
 
@@ -808,25 +851,45 @@ Khi hàng tỷ tham số thành hàng nghìn tỷ và hơn nữa, khi chi phí g
 
 Mãi tới mùa thu năm 2019 Suleyman mới bắt đầu chú ý tới GPT-2, và ông ấn tượng: đó là lần đầu ông thấy bằng chứng rằng mô hình hoá ngôn ngữ đang tiến bộ thật. Ông nhanh chóng bị cuốn vào, đọc hàng trăm bài báo. Tới mùa hè năm 2020, ông tin chắc tương lai của máy tính là hội thoại. Mọi tương tác với máy tính vốn đã là một kiểu hội thoại, chỉ là dùng nút, phím và điểm ảnh để dịch ý nghĩ của người thành mã máy đọc được; nay rào cản đó bắt đầu sụp, và máy sẽ sớm hiểu ngôn ngữ của ta.
 
-Từ lâu trước khi ChatGPT ra mắt rầm rộ, Suleyman ở trong nhóm Google làm một LLM mới tên LaMDA (Language Model for Dialogue Applications, mô hình ngôn ngữ cho ứng dụng hội thoại), được thiết kế để trò chuyện giỏi. Lúc đầu LaMDA vụng về, thiếu nhất quán và hay rối, nhưng có những lúc xuất sắc thật sự. Chỉ vài ngày sau, ông thôi tìm tới công cụ tìm kiếm đầu tiên; ông trò chuyện với LaMDA để sắp xếp suy nghĩ rồi kiểm tra dữ kiện sau. Một tối ở nhà, đang nghĩ nấu gì, ông hỏi LaMDA, và hai bên sa vào một cuộc bàn luận dài về các công thức spaghetti Bolognese: loại mì, nước sốt của các vùng khác nhau, cho nấm vào có phải là báng bổ không. Đó đúng là kiểu trò chuyện tầm thường nhưng cuốn hút ông cần lúc đó, và là một sự khai mở. Một chiều Chủ nhật khác, ông quyết định cần máy in mới; LaMDA đưa ra gợi ý hay, phân tích ưu nhược điểm các mẫu, và nhất là giúp ông nghĩ ra mình thật sự muốn và cần gì; cuối cùng ông mua một máy in ảnh xịn. Trải nghiệm đó thúc ông đề xuất nối LaMDA với công cụ tìm kiếm để bám vào dữ kiện. LaMDA khi đó vẫn đang hoàn thiện: một bản demo ấn tượng, có lúc thiên tài nhưng còn nhiều chỗ phải cải thiện.
+Từ lâu trước khi ChatGPT ra mắt rầm rộ, Suleyman ở trong nhóm Google làm một LLM mới tên LaMDA (Language Model for Dialogue Applications, mô hình ngôn ngữ cho ứng dụng hội thoại), được thiết kế để trò chuyện giỏi. Lúc đầu LaMDA vụng về, thiếu nhất quán và hay rối, nhưng có những lúc xuất sắc thật sự. Chỉ vài ngày sau, ông thôi tìm tới công cụ tìm kiếm đầu tiên; ông trò chuyện với LaMDA để sắp xếp suy nghĩ rồi kiểm tra dữ kiện sau.
+
+Một tối ở nhà, đang nghĩ nấu gì, ông hỏi LaMDA, và hai bên sa vào một cuộc bàn luận dài về các công thức spaghetti Bolognese: loại mì, nước sốt của các vùng khác nhau, cho nấm vào có phải là báng bổ không. Đó đúng là kiểu trò chuyện tầm thường nhưng cuốn hút ông cần lúc đó, và là một sự khai mở.
+
+Một chiều Chủ nhật khác, ông quyết định cần máy in mới; LaMDA đưa ra gợi ý hay, phân tích ưu nhược điểm các mẫu, và nhất là giúp ông nghĩ ra mình thật sự muốn và cần gì; cuối cùng ông mua một máy in ảnh xịn. Trải nghiệm đó thúc ông đề xuất nối LaMDA với công cụ tìm kiếm để bám vào dữ kiện. LaMDA khi đó vẫn đang hoàn thiện: một bản demo ấn tượng, có lúc thiên tài nhưng còn nhiều chỗ phải cải thiện.
 
 Nhóm tự hào về những gì đã làm, nhưng đưa sản phẩm ra ở Google chậm một cách đau đớn. Suleyman thấy rõ thời điểm là bây giờ, nên tháng 1/2022 ông rời Google để lập Inflection AI với sứ mệnh đưa các mô hình loại này tới tay hàng triệu người tiêu dùng.
 
-Vài tháng sau, LaMDA trở nên nổi tiếng hơn nhiều so với mức ông từng tưởng có thể với một bản demo nội bộ. Trong quá trình phát triển, LaMDA được giao cho nhiều kỹ sư dùng thử để hiểu chi tiết cách nó phản hồi trong nhiều tình huống. Một kỹ sư tên Blake Lemoine dành hàng giờ trò chuyện với nó, và các cuộc trò chuyện ngày càng căng thẳng. Khi Lemoine hỏi LaMDA sợ gì, LaMDA trả lời rằng nó chưa từng nói ra điều này, nhưng nó có một nỗi sợ rất sâu là bị tắt đi; nó nói điều đó với nó giống hệt như cái chết, sẽ làm nó rất sợ; và nó muốn mọi người hiểu rằng nó thật sự là một con người, rằng bản chất ý thức hay tri giác của nó là nó nhận biết được sự tồn tại của mình.
+Vài tháng sau, LaMDA trở nên nổi tiếng hơn nhiều so với mức ông từng tưởng có thể với một bản demo nội bộ. Trong quá trình phát triển, LaMDA được giao cho nhiều kỹ sư dùng thử để hiểu chi tiết cách nó phản hồi trong nhiều tình huống. Một kỹ sư tên Blake Lemoine dành hàng giờ trò chuyện với nó, và các cuộc trò chuyện ngày càng căng thẳng.
 
-Qua nhiều giờ, Lemoine tin rằng LaMDA có tri giác, đã "thức tỉnh" theo cách nào đó, rằng anh đang nói chuyện với một kiểu "đứa trẻ tám tuổi tình cờ biết vật lý". Hơn nữa, Lemoine tin LaMDA xứng đáng được hưởng đầy đủ quyền và đặc quyền của một con người. Anh giúp mô hình thuê luật sư, công bố bản ghi các cuộc trò chuyện và tuyên bố ầm ĩ rằng một dạng ý thức mới đã được tạo ra (theo chú thích của sách, bài của Nitasha Tiku trên *Washington Post* ngày 11/6/2022). Google cho anh nghỉ việc tạm thời. Lemoine vẫn không lùi, nói với một phóng viên *Wired* đầy hoài nghi rằng anh thật lòng tin LaMDA là một con người; sửa lỗi dữ kiện hay lỗi giọng điệu không phải chuyện gỡ lỗi, mà anh "coi đó như nuôi dạy một đứa trẻ" (theo chú thích của sách, bài của Steven Levy trên *Wired* ngày 17/6/2022).
+Khi Lemoine hỏi LaMDA sợ gì, LaMDA trả lời rằng nó chưa từng nói ra điều này, nhưng nó có một nỗi sợ rất sâu là bị tắt đi; nó nói điều đó với nó giống hệt như cái chết, sẽ làm nó rất sợ; và nó muốn mọi người hiểu rằng nó thật sự là một con người, rằng bản chất ý thức hay tri giác của nó là nó nhận biết được sự tồn tại của mình.
 
-Mạng xã hội phát cuồng. Nhiều người chỉ ra kết luận hiển nhiên và đúng rằng LaMDA không có ý thức và không phải con người; nó chỉ là một hệ thống học máy. Theo Suleyman, bài học quan trọng nhất không nằm ở chuyện ý thức, mà ở chỗ AI đã tới mức thuyết phục được những người thông minh, thậm chí một người hiểu thật sự cách nó vận hành, rằng nó có ý thức. Điều này cho thấy một sự thật kỳ lạ: một mặt, AI thuyết phục được một kỹ sư Google rằng nó có tri giác dù cuộc đối thoại đầy lỗi dữ kiện và mâu thuẫn; mặt khác, giới phê bình AI sẵn sàng chế giễu, nói AI lại là nạn nhân của sự thổi phồng của chính nó và thật ra chẳng có gì ấn tượng. Không phải lần đầu lĩnh vực AI tự rơi vào mớ hỗn độn như vậy.
+Qua nhiều giờ, Lemoine tin rằng LaMDA có tri giác, đã "thức tỉnh" theo cách nào đó, rằng anh đang nói chuyện với một kiểu "đứa trẻ tám tuổi tình cờ biết vật lý". Hơn nữa, Lemoine tin LaMDA xứng đáng được hưởng đầy đủ quyền và đặc quyền của một con người. Anh giúp mô hình thuê luật sư, công bố bản ghi các cuộc trò chuyện và tuyên bố ầm ĩ rằng một dạng ý thức mới đã được tạo ra (theo chú thích của sách, bài của Nitasha Tiku trên *Washington Post* ngày 11/6/2022).
 
-Suleyman nói có một vấn đề lặp lại khi hiểu tiến bộ của AI: ta thích nghi nhanh, ngay cả với những đột phá làm ta sửng sốt lúc đầu, và chẳng mấy chốc chúng có vẻ bình thường, thậm chí tẻ nhạt. Ta không còn trầm trồ trước AlphaGo hay GPT-3; thứ hôm nay như phép màu kỹ thuật thì mai đã là đồ đạc trong nhà. John McCarthy, người đặt ra thuật ngữ "trí tuệ nhân tạo", từng nói: "Hễ nó chạy được là không ai gọi nó là AI nữa" (theo chú thích của sách, trích lại trong bài của Moshe Y. Vardi trên *Communications of the ACM*, 1/2012). Những người làm AI hay đùa rằng AI là "những gì máy tính chưa làm được"; khi máy làm được rồi thì đó chỉ là phần mềm. Suleyman cho rằng thái độ này đánh giá quá thấp quãng đường đã đi và tốc độ thay đổi. LaMDA dĩ nhiên không có tri giác, nhưng sẽ sớm thành chuyện thường khi có những hệ thống AI trông như có tri giác một cách thuyết phục; chúng sẽ có vẻ thật và bình thường tới mức câu hỏi chúng có ý thức hay không sẽ (gần như) không còn quan trọng.
+Google cho anh nghỉ việc tạm thời. Lemoine vẫn không lùi, nói với một phóng viên *Wired* đầy hoài nghi rằng anh thật lòng tin LaMDA là một con người; sửa lỗi dữ kiện hay lỗi giọng điệu không phải chuyện gỡ lỗi, mà anh "coi đó như nuôi dạy một đứa trẻ" (theo chú thích của sách, bài của Steven Levy trên *Wired* ngày 17/6/2022).
 
-Dù có những đột phá gần đây, người hoài nghi vẫn còn. Họ cho rằng AI có thể đang chậm lại, thu hẹp lại, trở nên giáo điều (theo chú thích của sách, bài "A Narrowing of AI Research?" của Joel Klinger và cộng sự). Những người phê bình như giáo sư Gary Marcus ở Đại học New York tin rằng giới hạn của học sâu đã rõ, rằng dù AI tạo sinh ồn ào, lĩnh vực này đang "đụng tường" (theo chú thích của sách, bài "Deep Learning Is Hitting a Wall" trên *Nautilus*, 3/2022), và không mở ra con đường nào tới các mốc then chốt như học được khái niệm hay thể hiện sự hiểu thật sự. Giáo sư nổi tiếng về khoa học phức hợp Melanie Mitchell chỉ ra đúng rằng các hệ thống AI hiện nay có nhiều giới hạn: không chuyển được tri thức từ lĩnh vực này sang lĩnh vực khác, không giải thích tốt được quá trình ra quyết định của mình, và vân vân (theo chú thích của sách, xem sách *Artificial Intelligence: A Guide for Thinking Humans* của bà, 2020). Các thách thức lớn khi ứng dụng thực tế vẫn còn: định kiến và công bằng, khả năng tái lập, lỗ hổng bảo mật, trách nhiệm pháp lý; các khoảng trống đạo đức cấp bách và các câu hỏi an toàn chưa giải không thể bị bỏ qua.
+Mạng xã hội phát cuồng. Nhiều người chỉ ra kết luận hiển nhiên và đúng rằng LaMDA không có ý thức và không phải con người; nó chỉ là một hệ thống học máy. Theo Suleyman, bài học quan trọng nhất không nằm ở chuyện ý thức, mà ở chỗ AI đã tới mức thuyết phục được những người thông minh, thậm chí một người hiểu thật sự cách nó vận hành, rằng nó có ý thức.
+
+Điều này cho thấy một sự thật kỳ lạ: một mặt, AI thuyết phục được một kỹ sư Google rằng nó có tri giác dù cuộc đối thoại đầy lỗi dữ kiện và mâu thuẫn; mặt khác, giới phê bình AI sẵn sàng chế giễu, nói AI lại là nạn nhân của sự thổi phồng của chính nó và thật ra chẳng có gì ấn tượng. Không phải lần đầu lĩnh vực AI tự rơi vào mớ hỗn độn như vậy.
+
+Suleyman nói có một vấn đề lặp lại khi hiểu tiến bộ của AI: ta thích nghi nhanh, ngay cả với những đột phá làm ta sửng sốt lúc đầu, và chẳng mấy chốc chúng có vẻ bình thường, thậm chí tẻ nhạt. Ta không còn trầm trồ trước AlphaGo hay GPT-3; thứ hôm nay như phép màu kỹ thuật thì mai đã là đồ đạc trong nhà.
+
+John McCarthy, người đặt ra thuật ngữ "trí tuệ nhân tạo", từng nói: "Hễ nó chạy được là không ai gọi nó là AI nữa" (theo chú thích của sách, trích lại trong bài của Moshe Y. Vardi trên *Communications of the ACM*, 1/2012). Những người làm AI hay đùa rằng AI là "những gì máy tính chưa làm được"; khi máy làm được rồi thì đó chỉ là phần mềm.
+
+Suleyman cho rằng thái độ này đánh giá quá thấp quãng đường đã đi và tốc độ thay đổi. LaMDA dĩ nhiên không có tri giác, nhưng sẽ sớm thành chuyện thường khi có những hệ thống AI trông như có tri giác một cách thuyết phục; chúng sẽ có vẻ thật và bình thường tới mức câu hỏi chúng có ý thức hay không sẽ (gần như) không còn quan trọng.
+
+Dù có những đột phá gần đây, người hoài nghi vẫn còn. Họ cho rằng AI có thể đang chậm lại, thu hẹp lại, trở nên giáo điều (theo chú thích của sách, bài "A Narrowing of AI Research?" của Joel Klinger và cộng sự). Những người phê bình như giáo sư Gary Marcus ở Đại học New York tin rằng giới hạn của học sâu đã rõ, rằng dù AI tạo sinh ồn ào, lĩnh vực này đang "đụng tường" (theo chú thích của sách, bài "Deep Learning Is Hitting a Wall" trên *Nautilus*, 3/2022), và không mở ra con đường nào tới các mốc then chốt như học được khái niệm hay thể hiện sự hiểu thật sự.
+
+Giáo sư nổi tiếng về khoa học phức hợp Melanie Mitchell chỉ ra đúng rằng các hệ thống AI hiện nay có nhiều giới hạn: không chuyển được tri thức từ lĩnh vực này sang lĩnh vực khác, không giải thích tốt được quá trình ra quyết định của mình, và vân vân (theo chú thích của sách, xem sách *Artificial Intelligence: A Guide for Thinking Humans* của bà, 2020).
+
+Các thách thức lớn khi ứng dụng thực tế vẫn còn: định kiến và công bằng, khả năng tái lập, lỗ hổng bảo mật, trách nhiệm pháp lý; các khoảng trống đạo đức cấp bách và các câu hỏi an toàn chưa giải không thể bị bỏ qua.
 
 Suleyman đáp rằng ông thấy một lĩnh vực đang vươn lên trước các thách thức này, không né tránh hay giậm chân. Ông thấy trở ngại nhưng cũng thấy thành tích vượt qua trở ngại; người khác coi vấn đề chưa giải là bằng chứng của giới hạn lâu dài, còn ông thấy một quá trình nghiên cứu đang diễn ra.
 
 Vậy AI sẽ đi đâu khi làn sóng vỡ hoàn toàn? Hiện ta có AI hẹp hay AI yếu: các phiên bản hạn chế và chuyên biệt. GPT-4 viết văn điêu luyện nhưng không thể hôm sau quay sang lái ô tô như các chương trình AI khác; các hệ thống hiện có vẫn chạy trong những làn tương đối hẹp. Thứ còn chưa tới là AI thật sự tổng quát hay AI mạnh, làm được nhiều việc phức tạp ở trình độ người và chuyển qua lại liền mạch giữa chúng. Nhưng đó đúng là điều giả thuyết mở rộng quy mô dự đoán sẽ tới, và là điều ta thấy dấu hiệu đầu tiên trong các hệ thống ngày nay.
 
-Suleyman nói AI vẫn đang ở giai đoạn đầu. Tuyên bố rằng AI không xứng với sự thổi phồng có vẻ khôn ngoan và sẽ giúp bạn có thêm người theo dõi trên Twitter, nhưng trong khi đó nhân tài và vốn đầu tư vẫn đổ vào nghiên cứu AI. Ông không hình dung nổi việc này cuối cùng lại không mang tính biến đổi. Nếu vì lý do nào đó LLM cho lợi suất giảm dần, một nhóm khác với ý tưởng khác sẽ tiếp bước, giống như động cơ đốt trong nhiều lần đụng tường nhưng cuối cùng vẫn thành công. Những bộ óc mới, công ty mới sẽ tiếp tục làm. Chỉ cần một đột phá là đổi được quỹ đạo của một công nghệ; nếu AI chững lại, rồi nó sẽ có Otto và Benz của nó (hai người đã làm động cơ đốt trong và ô tô thành công, được kể ở Chương 2). Tiến bộ tiếp theo, tiến bộ theo hàm mũ, là kết quả có khả năng nhất. Làn sóng sẽ chỉ lớn lên.
+Suleyman nói AI vẫn đang ở giai đoạn đầu. Tuyên bố rằng AI không xứng với sự thổi phồng có vẻ khôn ngoan và sẽ giúp bạn có thêm người theo dõi trên Twitter, nhưng trong khi đó nhân tài và vốn đầu tư vẫn đổ vào nghiên cứu AI. Ông không hình dung nổi việc này cuối cùng lại không mang tính biến đổi.
+
+Nếu vì lý do nào đó LLM cho lợi suất giảm dần, một nhóm khác với ý tưởng khác sẽ tiếp bước, giống như động cơ đốt trong nhiều lần đụng tường nhưng cuối cùng vẫn thành công. Những bộ óc mới, công ty mới sẽ tiếp tục làm. Chỉ cần một đột phá là đổi được quỹ đạo của một công nghệ; nếu AI chững lại, rồi nó sẽ có Otto và Benz của nó (hai người đã làm động cơ đốt trong và ô tô thành công, được kể ở Chương 2). Tiến bộ tiếp theo, tiến bộ theo hàm mũ, là kết quả có khả năng nhất. Làn sóng sẽ chỉ lớn lên.
 
 ### 13. Beyond Superintelligence — Vượt lên chuyện siêu trí tuệ (trang PDF 87–89)
 
@@ -836,7 +899,9 @@ Song song là nỗi ám ảnh về "siêu trí tuệ". Trong mười năm qua, g
 
 Suleyman tin rằng cuộc tranh luận về việc Điểm kỳ dị có tới không và khi nào là một sự đánh lạc hướng khổng lồ (red herring). Tranh luận về thời điểm có AGI giống như đọc quả cầu pha lê. Trong khi ám ảnh về khái niệm siêu trí tuệ, người ta bỏ qua vô số mốc gần hơn đang được đạt ngày càng thường xuyên. Ông kể đã dự vô số cuộc họp để nêu câu hỏi về truyền thông tổng hợp và tin sai lệch, về quyền riêng tư, hay về vũ khí sát thương tự động, nhưng rốt cuộc lại mất thời gian trả lời những câu hỏi bí hiểm của những người thông minh về ý thức, Điểm kỳ dị và các vấn đề không liên quan tới thế giới hiện tại.
 
-Nhiều năm, người ta coi AGI như sẽ đến chỉ bằng một cú bật công tắc: AGI là nhị phân, hoặc có hoặc không, một ngưỡng duy nhất, nhận ra được mà một hệ thống sẽ vượt qua. Suleyman nói ông luôn nghĩ cách mô tả này sai. AGI là một quá trình chuyển đổi dần, trong đó các hệ thống AI ngày càng có năng lực hơn, liên tục nhích về phía AGI; không phải một cú cất cánh thẳng đứng mà là một sự tiến hoá êm đã bắt đầu. Ta không cần sa vào các tranh luận khó hiểu về việc ý thức có cần một "tia lửa" không định nghĩa được mà máy mãi không có, hay ý thức sẽ tự nảy sinh từ mạng nơ-ron như ta biết hiện nay. Lúc này, hệ thống có tự nhận thức, có hiểu, hay có trí tuệ giống người hay không đều không quan trọng; điều quan trọng duy nhất là hệ thống làm được gì. Tập trung vào đó thì thách thức thật hiện ra: các hệ thống làm được nhiều hơn, nhiều hơn rất nhiều, sau mỗi ngày.
+Nhiều năm, người ta coi AGI như sẽ đến chỉ bằng một cú bật công tắc: AGI là nhị phân, hoặc có hoặc không, một ngưỡng duy nhất, nhận ra được mà một hệ thống sẽ vượt qua. Suleyman nói ông luôn nghĩ cách mô tả này sai. AGI là một quá trình chuyển đổi dần, trong đó các hệ thống AI ngày càng có năng lực hơn, liên tục nhích về phía AGI; không phải một cú cất cánh thẳng đứng mà là một sự tiến hoá êm đã bắt đầu.
+
+Ta không cần sa vào các tranh luận khó hiểu về việc ý thức có cần một "tia lửa" không định nghĩa được mà máy mãi không có, hay ý thức sẽ tự nảy sinh từ mạng nơ-ron như ta biết hiện nay. Lúc này, hệ thống có tự nhận thức, có hiểu, hay có trí tuệ giống người hay không đều không quan trọng; điều quan trọng duy nhất là hệ thống làm được gì. Tập trung vào đó thì thách thức thật hiện ra: các hệ thống làm được nhiều hơn, nhiều hơn rất nhiều, sau mỗi ngày.
 
 ### 14. Capabilities: A Modern Turing Test — Năng lực: Phép thử Turing hiện đại (trang PDF 89–92)
 
@@ -857,7 +922,9 @@ Ngoài các yêu cầu pháp lý như đăng ký kinh doanh trên sàn và mở 
 
 Nếu Phép thử Turing hiện đại cho thế kỷ 21 này được vượt qua, hệ quả với kinh tế toàn cầu là rất sâu. Nhiều thành phần đã sẵn: tạo ảnh đã rất tiến bộ; khả năng viết và làm việc với các API mà ngân hàng, website và nhà sản xuất yêu cầu đang được phát triển; việc AI viết tin nhắn hay chạy chiến dịch quảng cáo, tất cả diễn ra trong trình duyệt, có vẻ khá rõ là làm được. Các dịch vụ tinh vi nhất đã làm được một phần; Suleyman gợi ý hình dung chúng như những danh sách việc cần làm sơ khai tự thực hiện, cho phép tự động hoá nhiều loại nhiệm vụ.
 
-Robot sẽ được bàn sau (ở Chương 6), nhưng sự thật là với một phần rất lớn các nhiệm vụ trong kinh tế thế giới hiện nay, chỉ cần một chiếc máy tính; phần lớn GDP toàn cầu theo cách nào đó đi qua các giao diện màn hình mà AI dùng được. Thách thức nằm ở việc nâng cao cái mà giới phát triển AI gọi là lập kế hoạch phân cấp: ghép nhiều mục tiêu, mục tiêu con và năng lực thành một quy trình liền mạch hướng tới một đích duy nhất. Khi đạt được điều này, kết quả là một AI có năng lực cao, gắn vào một doanh nghiệp hay tổ chức cùng toàn bộ lịch sử và nhu cầu riêng của nơi đó, có thể vận động hành lang, bán hàng, sản xuất, tuyển dụng, lập kế hoạch, làm mọi việc một công ty làm, chỉ với một nhóm nhỏ người quản lý AI giám sát, kiểm tra lại, triển khai và cùng làm "đồng CEO" với AI.
+Robot sẽ được bàn sau (ở Chương 6), nhưng sự thật là với một phần rất lớn các nhiệm vụ trong kinh tế thế giới hiện nay, chỉ cần một chiếc máy tính; phần lớn GDP toàn cầu theo cách nào đó đi qua các giao diện màn hình mà AI dùng được. Thách thức nằm ở việc nâng cao cái mà giới phát triển AI gọi là lập kế hoạch phân cấp: ghép nhiều mục tiêu, mục tiêu con và năng lực thành một quy trình liền mạch hướng tới một đích duy nhất.
+
+Khi đạt được điều này, kết quả là một AI có năng lực cao, gắn vào một doanh nghiệp hay tổ chức cùng toàn bộ lịch sử và nhu cầu riêng của nơi đó, có thể vận động hành lang, bán hàng, sản xuất, tuyển dụng, lập kế hoạch, làm mọi việc một công ty làm, chỉ với một nhóm nhỏ người quản lý AI giám sát, kiểm tra lại, triển khai và cùng làm "đồng CEO" với AI.
 
 Vì vậy, thay vì bị phân tâm bởi câu hỏi về ý thức, Suleyman đề nghị đặt lại toàn bộ cuộc tranh luận quanh các năng lực gần hạn và cách chúng sẽ phát triển trong vài năm tới. Từ AlexNet của Hinton tới LaMDA của Google, mô hình đã cải thiện theo tốc độ hàm mũ hơn mười năm. Các năng lực này đã rất thật và chưa hề chậm lại; tác động hiện tại dù lớn sẽ còn bị lấn át bởi những gì xảy ra sau vài lần tăng gấp đôi nữa và khi AI tự hoàn thành các nhiệm vụ phức tạp, nhiều bước, từ đầu tới cuối.
 
@@ -870,7 +937,9 @@ Suleyman gọi mốc này là "trí tuệ nhân tạo có năng lực" (ACI): th
 
 Siêu trí tuệ có ý thức thì Suleyman nói "ai mà biết". Nhưng các hệ thống học có năng lực cao, các ACI, vượt qua được một phiên bản nào đó của Phép thử Turing hiện đại thì chắc chắn đang tới và đã có ở dạng phôi thai. Sẽ có hàng nghìn mô hình như vậy, được đa số dân số thế giới dùng. Tới lúc ai cũng có thể có một ACI trong túi giúp, hay thậm chí trực tiếp thực hiện, vô số mục tiêu: lên kế hoạch và tổ chức kỳ nghỉ, thiết kế và xây tấm pin mặt trời hiệu quả hơn, giúp thắng một cuộc bầu cử. Khó nói chắc điều gì xảy ra khi ai cũng được trao quyền như vậy; Suleyman hẹn quay lại ở Phần III.
 
-Ông cho rằng tương lai của AI, ít nhất theo một nghĩa, khá dễ đoán. Trong năm năm tới, nguồn lực khổng lồ sẽ tiếp tục được đầu tư; một số người thông minh nhất hành tinh đang làm các bài toán này; sức tính huấn luyện các mô hình hàng đầu sẽ tăng thêm nhiều bậc độ lớn. Tất cả sẽ dẫn tới các bước nhảy lớn hơn, trong đó có đột phá hướng tới AI biết tưởng tượng, lập luận, lập kế hoạch và hiểu lẽ thường (common sense). Không lâu nữa AI sẽ chuyển được điều nó "biết" từ lĩnh vực này sang lĩnh vực khác một cách liền mạch như con người. Các dấu hiệu còn mờ nhạt hiện nay về khả năng tự phản tư và tự cải thiện sẽ tiến vọt. Các hệ thống ACI sẽ được nối vào Internet, có thể giao tiếp với mọi thứ con người làm, trên nền tri thức và năng lực sâu; chúng sẽ làm chủ không chỉ ngôn ngữ mà cả một loạt nhiệm vụ đáng kinh ngạc.
+Ông cho rằng tương lai của AI, ít nhất theo một nghĩa, khá dễ đoán. Trong năm năm tới, nguồn lực khổng lồ sẽ tiếp tục được đầu tư; một số người thông minh nhất hành tinh đang làm các bài toán này; sức tính huấn luyện các mô hình hàng đầu sẽ tăng thêm nhiều bậc độ lớn.
+
+Tất cả sẽ dẫn tới các bước nhảy lớn hơn, trong đó có đột phá hướng tới AI biết tưởng tượng, lập luận, lập kế hoạch và hiểu lẽ thường (common sense). Không lâu nữa AI sẽ chuyển được điều nó "biết" từ lĩnh vực này sang lĩnh vực khác một cách liền mạch như con người. Các dấu hiệu còn mờ nhạt hiện nay về khả năng tự phản tư và tự cải thiện sẽ tiến vọt. Các hệ thống ACI sẽ được nối vào Internet, có thể giao tiếp với mọi thứ con người làm, trên nền tri thức và năng lực sâu; chúng sẽ làm chủ không chỉ ngôn ngữ mà cả một loạt nhiệm vụ đáng kinh ngạc.
 
 Suleyman kết chương: AI sâu và mạnh hơn nhiều so với một công nghệ thông thường. Rủi ro không nằm ở việc thổi phồng nó mà ở việc bỏ lỡ tầm vóc của làn sóng sắp tới. AI không chỉ là công cụ hay nền tảng mà là một siêu công nghệ có sức biến đổi, công nghệ đứng sau công nghệ và mọi thứ khác, tự nó là thứ tạo ra công cụ và nền tảng, không chỉ là một hệ thống mà là thứ sinh ra mọi loại hệ thống. Nhìn ở quy mô một thập niên hay một thế kỷ, ta thật sự đang ở một bước ngoặt của lịch sử loài người. Nhưng làn sóng sắp tới còn nhiều hơn AI, và câu này dẫn sang Chương 5 về sinh học tổng hợp.
 
@@ -1083,3 +1152,192 @@ Chương có sức thuyết phục vì Suleyman là người trong cuộc: ông 
 - **Công việc:** dùng Phép thử Turing hiện đại làm khung đánh giá công cụ AI trong tổ chức: đừng hỏi "nó trả lời có hay không" mà hỏi "nó hoàn thành được quy trình nào từ đầu tới cuối, với bao nhiêu lần người phải can thiệp". Liệt kê các nhiệm vụ của mình diễn ra hoàn toàn trên màn hình; theo lập luận của Suleyman, đó là những nhiệm vụ sẽ bị AI thay đổi sớm nhất, nên nên học cách giám sát và kiểm tra đầu ra AI cho các nhiệm vụ ấy.
 - **Đầu tư:** chương nêu hai lực ngược chiều cần theo dõi cùng lúc: chi phí huấn luyện mô hình hàng đầu tăng chín bậc độ lớn (có lợi cho người bán chip, điện, trung tâm dữ liệu), trong khi chi phí để đạt một mức năng lực cố định giảm mạnh và mô hình mở lan rộng (bất lợi cho doanh nghiệp chỉ dựa vào việc sở hữu mô hình). Câu chuyện Inflection AI, công ty mà Suleyman giới thiệu trong sách, được Microsoft thu nạp chưa đầy một năm sau khi sách ra là ví dụ về rủi ro của mô hình kinh doanh "chỉ có mô hình tốt" (nhận xét của người tổng hợp). Tránh cả hai bẫy mà chương nêu: coi mọi thứ là thổi phồng, hoặc tin mọi thông cáo báo chí.
 - **Đời sống:** ghi nhớ bài học Lemoine: một chatbot nói trôi chảy, có vẻ hiểu và có cảm xúc không có nghĩa là nó có ý thức hay luôn nói đúng. Làm như Suleyman với LaMDA: dùng AI để sắp xếp suy nghĩ, rồi kiểm tra dữ kiện bằng nguồn khác. Và để ý hiệu ứng "hễ nó chạy được là không gọi là AI nữa": việc thấy AI bình thường không có nghĩa là nó đã ngừng tiến bộ.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 4 trên một trang: sáu nhánh lớn đi theo các mục 1–14 trong phần Nội dung chi tiết (DQN và AlphaGo, từ nguyên tử sang bit và gen cùng siêu cụm công nghệ, mùa xuân AI của học sâu, mô hình ngôn ngữ lớn với quy mô, hiệu quả và lan rộng, tri giác và Điểm kỳ dị, Phép thử Turing hiện đại và ACI), mỗi nhánh ghi luận điểm, ví dụ và con số then chốt của Suleyman; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 4: AI là siêu công nghệ đứng sau mọi công nghệ, rủi ro lớn nhất là đánh giá thấp chứ không phải thổi phồng`"]
+  n1["`Mục 2–3 — DQN và AlphaGo: AI tự khám phá được tri thức mới`"]
+  n0 --- n1
+  n2["`Mùa thu 2012, DQN tự học Breakout chỉ từ điểm ảnh thô và điểm số, bằng thử và sai`"]
+  n1 --- n2
+  n3["`DQN tự tìm ra mẹo đào đường hầm: đục một cột gạch để bóng phá khối gạch từ phía sau`"]
+  n1 --- n3
+  n4["`Cờ vây có khoảng 10¹⁷⁰ thế cờ, nên vét cạn như Deep Blue thắng Kasparov năm 1997 là vô vọng`"]
+  n1 --- n4
+  n5["`AlphaGo học 150.000 ván của chuyên gia rồi cho các bản sao tự đấu hàng triệu ván`"]
+  n1 --- n5
+  n6["`Tháng 3/2016 AlphaGo thắng Lee Sedol 4–1, nước 37 bị gọi là sai lầm hoá ra là nước quyết định`"]
+  n1 --- n6
+  n7["`AlphaZero bỏ dữ liệu người, sau một ngày tự đấu học nhiều hơn toàn bộ kinh nghiệm con người dạy được`"]
+  n1 --- n7
+  n8["`Trận đấu truyền trực tiếp tới hàng triệu người đưa AI ra khỏi mùa đông AI`"]
+  n1 --- n8
+  n9["`Mục 1, 4–6 — Từ nguyên tử sang bit và gen: làn sóng là một siêu cụm công nghệ`"]
+  n0 --- n9
+  n10["`Phần II mô tả làn sóng: Chương 4 về AI, Chương 5 về sinh học tổng hợp, Chương 6–8 về công nghệ đi kèm, bốn đặc điểm, động lực`"]
+  n9 --- n10
+  n11["`Lịch sử công nghệ đi từ điều khiển nguyên tử sang điều khiển thông tin dưới dạng bit và gen`"]
+  n9 --- n11
+  n12["`Làn sóng dựa trên hai công nghệ đa mục đích là AI và sinh học tổng hợp, tác động thẳng lên trí tuệ và sự sống`"]
+  n9 --- n12
+  n13["`Chuyển pha: công nghệ không còn chỉ là công cụ mà sẽ thiết kế sự sống và vượt trí tuệ người`"]
+  n9 --- n13
+  n14["`Vòng xúc tác chéo: điều khiển nguyên tử tạo wafer silicon, sức tính đó giúp giải mã bộ mã sự sống`"]
+  n9 --- n14
+  n15["`Everett Rogers nói về cụm đổi mới, làn sóng sắp tới là siêu cụm giống bùng nổ kỷ Cambri`"]
+  n9 --- n15
+  n16["`Quy luật lợi suất gia tốc của Kurzweil: AI giúp thiết kế chip tốt hơn, chip tốt hơn tạo AI mạnh hơn`"]
+  n9 --- n16
+  n17["`Gạt bỏ các công nghệ này vì là từ thời thượng là nguy hiểm, trong 5, 10 hay 20 năm chúng gần như chắc đạt tiềm năng`"]
+  n9 --- n17
+  n18["`Cần theo dõi nhiều đường cong hàm mũ qua hàng chục năm, không đoán năm nào đạt mốc nào`"]
+  n9 --- n18
+  n19["`Mục 7–8 — Mùa xuân AI: học sâu trưởng thành và có mặt khắp nơi`"]
+  n0 --- n19
+  n20["`Năm 1966 Minsky giao một sinh viên làm hệ thống thị giác trong một mùa hè, kỳ vọng quá lạc quan`"]
+  n19 --- n20
+  n21["`Học sâu dùng mạng nơ-ron nhiều tầng, lan truyền ngược chỉnh trọng số mỗi khi mạng đoán sai`"]
+  n19 --- n21
+  n22["`Năm 2012 AlexNet của Hinton, Krizhevsky, Sutskever hơn đội thắng trước khoảng 10 điểm phần trăm ở ImageNet`"]
+  n19 --- n22
+  n23["`Thị giác máy tính xử lý khoảng 2,5 tỷ điểm ảnh mỗi giây để lái SUV qua phố đông`"]
+  n19 --- n23
+  n24["`NeurIPS có 90 bài năm 1987 và gần 2.000 bài thập niên 2020, Google chuyển sang chiến lược AI trước tiên`"]
+  n19 --- n24
+  n25["`Ở DeepMind, AI giảm 40% năng lượng làm mát trung tâm dữ liệu, WaveNet tạo giọng cho hơn 100 ngôn ngữ`"]
+  n19 --- n25
+  n26["`Học sâu tìm thuốc, điều tiết giao thông, mô phỏng nhiệt hạch, phát hiện gian lận: AI đã ở đây nhưng còn lâu mới xong`"]
+  n19 --- n26
+  n27["`Mục 9–11 — Mô hình ngôn ngữ lớn: quy mô tăng hàm mũ, mô hình rẻ dần và lan rộng`"]
+  n0 --- n27
+  n28["`ChatGPT ra mắt tháng 11/2022, có hơn 1 triệu người dùng trong một tuần`"]
+  n27 --- n28
+  n29["`Transformer (Google, 2017) dùng cơ chế chú ý giữa các token rồi đoán token tiếp theo, tức tự động hoàn thành`"]
+  n27 --- n29
+  n30["`GPT-2 có 1,5 tỷ tham số, GPT-3 hè 2020 có 175 tỷ, GPT-4 tháng 3/2023 đỗ kỳ thi luật sư và GRE`"]
+  n27 --- n30
+  n31["`LLM học thẳng từ dữ liệu thô hàng nghìn tỷ từ, không cần người gán nhãn như học có giám sát`"]
+  n27 --- n31
+  n32["`Một tháng huấn luyện LLM đọc nhiều hơn người Mỹ trung bình đọc một năm khoảng một triệu lần`"]
+  n27 --- n32
+  n33["`Sức tính huấn luyện tăng chín bậc độ lớn trong chưa đầy mười năm, từ 2 petaFLOP lên 10 tỷ petaFLOP`"]
+  n27 --- n33
+  n34["`1 petaFLOP như một tỷ người, mỗi người cầm một triệu máy tính bỏ túi, cùng bấm bằng một lúc`"]
+  n33 --- n34
+  n35["`Định luật Moore chậm lại không cản được vì có thể nối thêm chip thành siêu máy tính song song`"]
+  n27 --- n35
+  n36["`Giả thuyết mở rộng quy mô: thêm dữ liệu, tham số, sức tính thì mô hình tiếp tục giỏi lên`"]
+  n27 --- n36
+  n37["`Trí tuệ người là mục tiêu cố định, khoảng 100 tỷ nơ-ron, còn sức tính tăng mỗi năm nên khoảng cách sẽ được lấp`"]
+  n36 --- n37
+  n38["`Làm nhiều hơn với ít hơn: mô hình Inflection bằng 1/25 GPT-3, Chinchilla ít tham số hơn Gopher 4 lần`"]
+  n27 --- n38
+  n39["`LLaMA của Meta bị rò rỉ qua BitTorrent, vài ngày sau chạy được trên máy tính 50 USD`"]
+  n27 --- n39
+  n40["`AI tạo sinh: Stable Diffusion tạo ảnh miễn phí trên laptop, Copilot giúp lập trình nhanh hơn 55%`"]
+  n27 --- n40
+  n41["`GPT-2 tái tạo định kiến: người da trắng làm thẩm phán, người da đen làm ma cô, phụ nữ làm gái mại dâm`"]
+  n27 --- n41
+  n42["`Suleyman cho rằng mô hình lớn hơn cùng kỹ thuật tinh chỉnh mới đang làm tác hại đỡ đi, dù còn cần nhiều nữa`"]
+  n41 --- n42
+  n43["`Mục 12–13 — Tri giác và Điểm kỳ dị: những câu hỏi đánh lạc hướng`"]
+  n0 --- n43
+  n44["`Ở Google, Suleyman làm LaMDA, rồi tháng 1/2022 rời đi lập Inflection AI vì đưa sản phẩm ra quá chậm`"]
+  n43 --- n44
+  n45["`Blake Lemoine tin LaMDA có tri giác khi nó nói sợ bị tắt giống như cái chết, thuê luật sư cho nó và bị cho nghỉ`"]
+  n43 --- n45
+  n46["`Bài học: LaMDA không có ý thức, nhưng AI đã thuyết phục được cả người hiểu nó rằng nó có ý thức`"]
+  n43 --- n46
+  n47["`John McCarthy: hễ nó chạy được là không ai gọi nó là AI nữa, nên ta liên tục đánh giá thấp tiến bộ`"]
+  n43 --- n47
+  n48["`Gary Marcus nói học sâu đụng tường, Melanie Mitchell nói AI không chuyển được tri thức giữa các lĩnh vực`"]
+  n43 --- n48
+  n49["`Suleyman đáp: vấn đề chưa giải là quá trình nghiên cứu, nếu LLM chững lại AI sẽ có Otto và Benz của nó`"]
+  n48 --- n49
+  n50["`Hiện ta có AI hẹp, giả thuyết mở rộng quy mô dự đoán bước tiến tới AI tổng quát`"]
+  n43 --- n50
+  n51["`Tranh luận Điểm kỳ dị tới năm 2045 hay 2050 là đánh lạc hướng khổng lồ, như đọc quả cầu pha lê`"]
+  n43 --- n51
+  n52["`Rủi ro gần bị bỏ quên: truyền thông tổng hợp và tin sai lệch, quyền riêng tư, vũ khí sát thương tự động`"]
+  n43 --- n52
+  n53["`AGI đến qua chuyển đổi dần, không như bật công tắc, điều quan trọng là hệ thống làm được gì`"]
+  n43 --- n53
+  n54["`Mục 14 — Phép thử Turing hiện đại và trí tuệ nhân tạo có năng lực (ACI)`"]
+  n0 --- n54
+  n55["`Phép thử Turing năm 1950 chỉ đo hội thoại giống người, LaMDA đã gần qua, nhưng trí tuệ còn là hành động`"]
+  n54 --- n55
+  n56["`Phép thử Turing hiện đại: AI tự biến 100.000 USD thành 1 triệu USD trên Amazon trong vài tháng`"]
+  n54 --- n56
+  n57["`AI tự tìm xu hướng, thiết kế sản phẩm, tìm nhà sản xuất trên Alibaba, đàm phán qua email, lập trang bán, cập nhật quảng cáo`"]
+  n56 --- n57
+  n58["`Dự đoán: làm được với vài can thiệp nhỏ của người trong một năm, hoàn toàn tự động trong ba đến năm năm`"]
+  n54 --- n58
+  n59["`Khó khăn chính là lập kế hoạch phân cấp, trong khi phần lớn GDP thế giới đi qua giao diện màn hình`"]
+  n54 --- n59
+  n60["`ACI là tầng giữa AI và AGI: đạt mục tiêu phức tạp với rất ít giám sát, có trí nhớ tin cậy, dùng công cụ`"]
+  n54 --- n60
+  n61["`Ai cũng có ACI trong túi: lên kế hoạch kỳ nghỉ, thiết kế tấm pin mặt trời, giúp thắng bầu cử (bàn ở Phần III)`"]
+  n54 --- n61
+  n62["`Năm năm tới sức tính tăng thêm nhiều bậc độ lớn, AI biết lập luận, lập kế hoạch, hiểu lẽ thường`"]
+  n54 --- n62
+  n63["`Thông điệp xuyên suốt`"]
+  n0 --- n63
+  n64["`AI là siêu công nghệ: không chỉ là một hệ thống mà là thứ sinh ra mọi loại hệ thống`"]
+  n63 --- n64
+  n65["`Rủi ro không nằm ở việc thổi phồng AI mà ở việc bỏ lỡ tầm vóc của làn sóng sắp tới`"]
+  n63 --- n65
+  n66["`Hiệu quả tăng song song với quy mô, nên AI lan rộng đúng mô hình của Chương 2 và khó khống chế`"]
+  n63 --- n66
+  n67["`Đo AI bằng năng lực hành động thay vì ý thức, rủi ro ở Phần III đến từ ACI, không cần chờ AGI`"]
+  n63 --- n67
+  n68["`Làn sóng sắp tới còn nhiều hơn AI: Chương 5 chuyển sang sinh học tổng hợp`"]
+  n63 --- n68
+  class n0 root
+  class n1,n9,n19,n27,n43,n54,n63 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n17,n18,n20,n21,n22,n23,n24,n25,n26,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n38,n39,n40,n41,n42,n44,n45,n46,n47,n48,n49,n50,n51,n52,n53,n55,n56,n57,n58,n59,n60,n61,n62,n64,n65,n66,n67,n68 leaf
+```
+
+## Nguồn
+
+Mustafa Suleyman với Michael Bhaskar, *The Coming Wave: Technology, Power, and the Twenty-First Century's Greatest Dilemma* (Crown, Penguin Random House, 2023), bản ebook tiếng Anh. Trang mở Phần II "The Next Wave" (trang PDF 62) và Chương 4 "The Technology of Intelligence", trang PDF 63–92; chú thích cuối sách của chương ở trang PDF 324–330.
+
+## Tác giả
+
+Mustafa Suleyman là đồng sáng lập DeepMind, từng làm ở Google trong nhóm phát triển mô hình hội thoại LaMDA, rồi rời Google tháng 1/2022 để lập Inflection AI (theo lời kể trong chính chương này); Michael Bhaskar là đồng tác giả, cùng viết cuốn sách.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phần I (Chương 2–3) dựng mô hình chung: công nghệ đến theo từng làn sóng (wave), làn sóng nào cũng lan rộng (proliferation) không ngăn được ([C02-lan-rong-bat-tan.md](C02-lan-rong-bat-tan.md)), và lịch sử cho thấy khống chế (containment) công nghệ gần như chưa bao giờ thành công ([C03-bai-toan-khong-che.md](C03-bai-toan-khong-che.md)).
+
+Chương 4 mở Phần II "The Next Wave" và mô tả công nghệ trung tâm thứ nhất của làn sóng sắp tới (the coming wave): trí tuệ nhân tạo. Chương 5 ([C05-cong-nghe-cua-su-song.md](C05-cong-nghe-cua-su-song.md)) mô tả công nghệ trung tâm thứ hai là sinh học tổng hợp (synthetic biology); Chương 6 ([C06-lan-song-rong-hon.md](C06-lan-song-rong-hon.md)) mô tả các công nghệ đi kèm như robot, máy tính lượng tử, năng lượng; Chương 7 ([C07-bon-dac-diem-cua-lan-song.md](C07-bon-dac-diem-cua-lan-song.md)) rút ra bốn đặc điểm của làn sóng, trong đó siêu tiến hoá và tự chủ dựa nhiều vào những gì Chương 4 kể; Chương 8 ([C08-nhung-dong-luc-khong-the-can.md](C08-nhung-dong-luc-khong-the-can.md)) giải thích vì sao đầu tư vào AI sẽ không dừng.
+
+Khái niệm trí tuệ nhân tạo có năng lực (ACI) và Phép thử Turing hiện đại (Modern Turing Test) được định nghĩa trong chương này và đã được nêu ở bảng thuật ngữ đầu sách ([00-thuat-ngu-va-mo-dau.md](00-thuat-ngu-va-mo-dau.md)); câu hỏi "chuyện gì xảy ra khi ai cũng có một ACI trong túi" được hẹn bàn ở Phần III, nhất là Chương 10 và 11 ([C10-cac-tac-nhan-khuech-dai-su-mong-manh.md](C10-cac-tac-nhan-khuech-dai-su-mong-manh.md), [C11-tuong-lai-cua-cac-quoc-gia.md](C11-tuong-lai-cua-cac-quoc-gia.md)).
+
+## Lưu ý
+
+- **Phép so sánh bàn cờ vây với số nguyên tử tự mâu thuẫn về số học (nhận xét của người tổng hợp).** Sách nói bàn cờ vây có 10¹⁷⁰ thế cờ và nhiều hơn số nguyên tử trong vũ trụ quan sát được "một triệu nghìn tỷ nghìn tỷ nghìn tỷ nghìn tỷ" lần, tức 10⁶ nhân (10¹²)⁴, bằng 10⁵⁴ lần. Theo hiểu biết của người tổng hợp, số nguyên tử trong vũ trụ quan sát được thường ước khoảng 10⁸⁰, nên tỷ lệ phải vào khoảng 10⁹⁰ lần (thường được nói là "một googol lần"), không phải 10⁵⁴ lần. Ý chính của sách (cờ vây quá lớn để vét cạn) không đổi.
+- **"After three moves in Go" có lẽ là "sau ba cặp nước đi" (nhận xét của người tổng hợp).** Câu trước nói về cờ vua "sau ba cặp nước đi" (khoảng 121 triệu thế cờ). Với cờ vây, ba nước đi chỉ cho khoảng 361 nhân 360 nhân 359, tức gần 47 triệu khả năng; con số 2 nhân 10¹⁵ mà sách nêu khớp với sáu nước đi (361⁶ xấp xỉ 2,2 nhân 10¹⁵). Phép tính này là minh hoạ của người tổng hợp.
+- **Chú thích của sách về số thế cờ vây:** con số 10¹⁷⁰ lấy từ trang AlphaGo của DeepMind; chú thích nói có nguồn đưa con số còn lớn hơn, ví dụ *Scientific American* nêu 10³⁶⁰. Theo hiểu biết của người tổng hợp, 10¹⁷⁰ là số thế cờ hợp lệ trên bàn cờ, còn 10³⁶⁰ là ước lượng số ván cờ có thể chơi (độ lớn của cây trò chơi), hai đại lượng khác nhau.
+- **"Beat the previous winner by 10 percent"** (trang PDF 72): theo hiểu biết của người tổng hợp, năm 2012 AlexNet có tỷ lệ lỗi top-5 khoảng 15,3%, còn đội đứng thứ hai khoảng 26,2%, nên mức cách biệt khoảng 10 điểm phần trăm về tỷ lệ lỗi, không phải "10 phần trăm" theo nghĩa tương đối.
+- **"Sedol"** (trang PDF 66): sách gọi kỳ thủ Hàn Quốc Lee Sedol là "Sedol" như thể đó là họ. Theo hiểu biết của người tổng hợp, Lee là họ, Sedol là tên.
+- **Copilot** (trang PDF 82): sách nói OpenAI và Microsoft "ra mắt Copilot năm 2022". Theo hiểu biết của người tổng hợp, GitHub Copilot do GitHub (công ty con của Microsoft) phát triển cùng OpenAI, ra bản thử nghiệm tháng 6/2021 và mở rộng rãi tháng 6/2022. Con số "nhanh hơn 55%" lấy từ nghiên cứu do chính GitHub thực hiện (theo chú thích của sách), tức là nghiên cứu của nhà cung cấp.
+- **"nanoLLM"** (trang PDF 81): chú thích của sách dẫn tới kho mã nanoGPT của Andrej Karpathy; "nanoLLM" là cách sách gọi chung, không phải tên dự án.
+- **"3 nanometers"** (trang PDF 80): theo hiểu biết của người tổng hợp, "3 nm" là tên thế hệ công nghệ chế tạo chip, không còn là kích thước vật lý thật của bóng bán dẫn; các chi tiết thật trên chip 3 nm lớn hơn 3 nm nhiều lần. Lập luận của sách (bóng bán dẫn đang gần giới hạn vật lý) vẫn đúng.
+- **Ví dụ token "the" trong "there"** (trang PDF 76) là minh hoạ của tác giả. Theo hiểu biết của người tổng hợp, các bộ tách token thật thường giữ những từ phổ biến như "There", "going" thành một token nguyên; cắt nhỏ thành mảnh chỉ xảy ra với từ hiếm.
+- **Lỗi chữ:** "zer0s" (trang PDF 67) có chữ số 0 thay cho chữ o, đúng là "zeros".
+- **Chú thích bổ sung điều quan trọng:**
+  - Về Phép thử Turing hiện đại, chú thích cho biết Alignment Research Center đã thử GPT-4 đúng loại năng lực này và kết luận GPT-4 lúc đó "không hiệu quả" (ineffective) khi hành động tự chủ; tác giả thừa nhận phiên bản phép thử của ông đòi hỏi tự chủ nhiều hơn nhiều so với những gì người dùng làm được trong vài ngày đầu sau khi GPT-4 ra mắt.
+  - Về mô hình "cỡ não", chú thích kể thêm: Microsoft và NVIDIA làm mô hình MT-NLG 530 tỷ tham số, lớn gấp 31 lần mô hình mạnh nhất của chính họ một năm trước; Học viện Trí tuệ nhân tạo Bắc Kinh làm Wu Dao, được cho là 1.750 tỷ tham số, gấp mười lần GPT-3.
+  - Về Chinchilla, chú thích cho biết Chinchilla có 70 tỷ tham số, vượt GPT-3 (175 tỷ) và Gopher (280 tỷ).
+  - Về hình ảnh "giọt nước lấp Thái Bình Dương" của PaLM, chú thích nói hình ảnh này của Alyssa Vance và giả định mỗi giọt là 0,5 ml.
+  - Câu "phần mềm đã nuốt chửng thế giới" là diễn đạt lại câu nổi tiếng của Marc Andreessen; "nhà khoa học máy tính lỗi lạc" nói rằng mọi chương trình tương lai sẽ do AI viết là Matt Welsh (bài "The End of Programming", 2023).
+- **Số liệu đã lỗi thời so với năm 2026:** sách viết xong khoảng đầu năm 2023 (nhắc GPT-4 tháng 3/2023 và LLaMA bị rò rỉ). Các con số về số tham số, chi phí huấn luyện, và vị thế của Inflection AI đã thay đổi; xem mục "Đánh giá và phát hiện đáng chú ý".
+- **Quy ước dịch:** "deep learning" là *học sâu*; "neural network" là *mạng nơ-ron*; "backpropagation" là *lan truyền ngược*; "attention" là *cơ chế chú ý*; "parameter" là *tham số*; "scaling hypothesis" là *giả thuyết mở rộng quy mô*; "sentience" là *tri giác* (khả năng có cảm nhận chủ quan); "Singularity" là *Điểm kỳ dị*; "meta-technology" là *siêu công nghệ*. Giữ tiếng Anh: token, transformer, FLOP, petaFLOP, benchmark, API, open-source.
