@@ -1,17 +1,24 @@
 # Bài 6 — Cách đầu tư của các quỹ từ thiện hàng đầu (Investment Practices of Leading Charitable Foundations)
 
-**Nguồn:** *Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger*, biên tập Peter D. Kaufman, The Donning Company Publishers, ấn bản mở rộng thứ ba (Expanded Third Edition, bản in lần thứ sáu, 2011), Chương 4 "Eleven Talks", Bài 6 ("Talk Six"), trang in 322–339. Gồm: lời dẫn của người biên tập (322), bài nói (323–334), trang tranh minh hoạ (335), phần Munger viết thêm năm 2006 "Talk Six Revisited" (336), hộp bên lề về cá cược đua ngựa (337), hai bức thư liên quan tới bài nói (338) và mục "Nothing to Add" số 5 (339). Bài nói được đọc trong bữa trưa ngày thứ Tư 14 tháng 10 năm 1998 tại khách sạn Miramar Sheraton, Santa Monica, bang California, trước **Foundation Financial Officers Group** (Nhóm giám đốc tài chính của các quỹ), tức các giám đốc đầu tư và giám đốc tài chính của phần lớn các quỹ tư nhân lớn ở Mỹ (cùng tổng cộng khoảng 130 tỷ USD tài sản đầu tư) và một số đại diện quỹ lớn ở châu Âu. Bốn đơn vị tài trợ: Conrad Hilton Foundation, Amateur Athletic Foundation, J. Paul Getty Trust và Rio Hondo Memorial Foundation.
-**Tác giả:** Charles T. Munger (1924–2023), phó chủ tịch Berkshire Hathaway, người lập quỹ từ thiện Munger Foundation; ông nhận lời nói theo đề nghị của luật sư John C. Argue. Lời dẫn, các hộp bên lề và chú thích ảnh là của người biên tập Peter D. Kaufman và nhóm biên soạn.
-**Vị trí trong lập luận của cả cuốn sách:** Bài 6 là bài đầu tiên trong Chương 4 nói thẳng về **nghề quản lý tiền của các tổ chức lớn**. Các bài trước đặt nền móng về cách nghĩ: Bài 2 và Bài 3 trình bày "trí tuệ thế gian" (*worldly wisdom*) và "mạng lưới mô hình tư duy" (*latticework of mental models*), trong đó có hình ảnh thị trường chứng khoán như hệ thống cá cược tổng góp ở trường đua ngựa; Bài 4 và Bài 5 bàn về tư duy thực tiễn và cách tránh sai lầm. Bài 6 đem các công cụ đó (phép tính số học đơn giản, tâm lý tự tin quá mức, thiên lệch do động cơ khuyến khích, chi phí cơ hội) áp vào một câu hỏi cụ thể: các quỹ từ thiện nên đầu tư tài sản ra sao. Bài 7 ("Philanthropy Roundtable") tiếp tục chủ đề quỹ từ thiện, nhưng chuyển sang câu hỏi nên **cho tiền** thế nào; Bài 8 ("The Great Financial Scandal of 2003") lại quay về sự tha hoá của giới tài chính. Lời phàn nàn ở cuối bài, rằng quá nhiều người trẻ giỏi bị hút vào nghề quản lý tiền, được Munger nhắc lại nhiều lần ở các phần sau của sách.
-**Ý chính:** Munger muốn các giám đốc tài chính của quỹ thấy rằng **tổng chi phí của bộ máy đầu tư ngày càng phức tạp (nhiều tầng tư vấn, nhiều nhà quản lý quỹ, mua bán liên tục) là một khoản hao hụt chắc chắn, trong khi phần lợi suất vượt trội mà bộ máy đó hứa hẹn thì không chắc chắn**. Ông gọi những người ăn phí là "người hồ lì sòng bạc" (*croupiers*), tức người thu phần của nhà cái trên mỗi ván. Ví dụ trung tâm là một phép tính: phần nhà cái có thể dễ dàng lên tới 3% tài sản ròng mỗi năm; khi cổ phiếu đem lại lợi suất thực 17% mỗi năm (như những năm gần đó) thì không ai thấy đau, nhưng nếu lợi suất thực về lại khoảng 5%, thì 5% lợi suất trừ 3% chi phí trừ 5% tiền quỹ phải chi cho từ thiện sẽ khiến quỹ teo lại 3% mỗi năm. Vì tâm lý tự tin quá mức (90% người lái xe Thuỵ Điển cho mình giỏi hơn trung bình; General Motors bỏ cửa thứ tư trên xe tải; Long-Term Capital Management sụp đổ dù những người điều hành có chỉ số IQ trung bình khoảng 160), quỹ nào cũng nghĩ mình sẽ hơn trung bình. Munger đưa ra ba lựa chọn: (1) bỏ tư vấn, chuyển sang đầu tư theo chỉ số; (2) làm như Berkshire Hathaway, nắm lâu dài, gần như bất động, một số rất ít công ty Mỹ đáng ngưỡng mộ, với tổng chi phí dưới 0,1% mỗi năm; (3) bỏ thêm tiền vào các quỹ hợp danh như quỹ mua lại bằng vốn vay (LBO). Ông khuyên quỹ trung bình chọn (1), chỉ ra rủi ro ẩn của (3), và bảo vệ (2): ông cho rằng quan điểm chính thống "phải đa dạng hoá thật rộng" là sai nặng; chỉ cần nắm lâu dài ba công ty Mỹ tốt là đủ giàu một cách chắc chắn, và đôi khi tập trung 90% vào một cổ phiếu (như các quỹ Woodruff với Coca-Cola) là hợp lý. Ông kết bằng một lập luận đạo đức: nghề quản lý tiền chi phí cao hút người trẻ giỏi ra khỏi những công việc đóng góp nhiều hơn cho xã hội; "Munger thời trẻ" là một hình mẫu nghề nghiệp tồi. Quỹ nên chọn hình mẫu Ben Franklin thay vì hình mẫu Bernie Cornfeld.
+## Ý chính
 
-> **Lưu ý:**
-> - **Bối cảnh thời điểm.** Bài nói năm 1998, sau gần hai thập niên thị trường cổ phiếu Mỹ tăng mạnh (con số "lợi suất thực 17% mỗi năm" là kết quả của những năm đó), vài tuần sau khi Long-Term Capital Management sụp đổ (tháng 9/1998) và trước khi bong bóng cổ phiếu công nghệ vỡ (2000–2002). Phần "Talk Six Revisited" Munger viết năm 2006 cho ấn bản sách. Bản PDF là lần in năm 2011.
-> - **Lỗi OCR đã sửa khi đối chiếu ảnh trang.** Ngày thư mời của John Argue là 31/7/**1998** (OCR đọc thành "1993"); tổng tài sản của nhóm là khoảng **130 tỷ USD** (OCR đọc "5130 billion"); trong hộp bên lề về Cornfeld, "105 raised $2.5 billion" là "**IOS** raised $2.5 billion"; "Al-Sar-Ben" là trường đua **Ak-Sar-Ben** ở Omaha; "one-renth" là "one-tenth" (một phần mười); thư mời viết người cùng diễn thuyết là Barry Munitz, "tân lãnh đạo của Getty" (OCR bỏ mất mấy chữ cuối); thư của John Bogle xin "một bản bài nói" (dòng này bị OCR làm mất).
-> - **Các hộp bên lề và tranh ảnh của người biên tập** được đưa vào đúng vị trí và ghi rõ là của người biên tập: tiểu sử John C. Argue (trang in 323), Bernie Cornfeld và IOS (324), Carl Braun (325), Long-Term Capital Management (329), Robert W. Woodruff (331), Peter F. Drucker (332), chú thích ảnh đội đua "Gillette Young Guns" (333), hộp "Handicapping Is Investing, Investing Is Handicapping" (337), hai bức thư (338), "Nothing to Add" số 5 (339). Các câu trích Munger in chữ lớn bên lề chỉ lặp lại câu trong bài nên không tách riêng. Ảnh minh hoạ không có chữ (bàn roulette ở trang 326, logo Volvo và Saab ở 327, con báo nằm trên cành cây ở 328 minh hoạ câu "sinh vật thích giảm thiểu công sức", xấp tiền ở 330, ngựa đua ở 336) được nhắc ngắn. Tranh ở trang 322 vẽ Munger đứng dưới hai chân dung Franklin và Cornfeld với dấu hỏi; tranh ở trang 335 vẽ Munger giơ ngón cái lên phía Franklin và chỉ ngón cái xuống phía Cornfeld (chân dung Cornfeld bị gạch chéo bằng biển cấm).
-> - **Hộp bên lề trỏ sang trang khác của sách.** Hộp về Carl Braun ghi "xem trang 170" (thuộc Bài 2); hộp về cá cược đua ngựa ghi "xem trang 196 và 197" (thuộc Bài 2) và "trang 64" (thuộc Chương 2). Bản tổng hợp chép thẳng nội dung cần thiết và dẫn link sang các file tương ứng.
-> - **Chỗ sách hoặc Munger có thể không chính xác (theo hiểu biết của người tổng hợp, không tra cứu).** (1) Khảo sát người lái xe hay được dẫn là nghiên cứu của Ola Svenson (1981): khoảng 93% người lái xe Mỹ và khoảng 69% người lái xe Thuỵ Điển trong mẫu tự xếp mình giỏi hơn trung bình; con số "90% ở Thuỵ Điển" của Munger có lẽ là nhớ gộp. (2) Hộp về LTCM ghi quỹ "mất gần 2 tỷ USD vốn trong vài tháng"; theo hiểu biết phổ biến, LTCM mất khoảng 4,6 tỷ USD trong chưa đầy bốn tháng năm 1998, và "khoản nợ khoảng 125 tỷ USD" thường được mô tả là tổng tài sản vay mượn trên khoảng 4–5 tỷ USD vốn chủ. Hộp cũng ghi Cục Dự trữ Liên bang "tổ chức cứu trợ": đúng là Fed New York đứng ra điều phối, nhưng tiền (khoảng 3,6 tỷ USD) do khoảng 14 ngân hàng và công ty chứng khoán tư nhân góp, không phải tiền của Fed. (3) Chuyện General Motors bỏ cửa thứ tư: theo hiểu biết của người tổng hợp, đây là dòng xe bán tải cabin mở rộng cuối thập niên 1990, khi GM ra mẫu ba cửa trong lúc đối thủ (Ford, Dodge) đã có bốn cửa; sách không nêu tên mẫu xe. (4) Hộp về Peter Drucker viết ở thì hiện tại ("sự nghiệp học thuật của ông bao gồm...") dù đề năm mất 2005, cho thấy hộp được viết khi Drucker còn sống. (5) Gillette, công ty Munger nêu làm ví dụ, đã được Procter & Gamble mua năm 2005; Berkshire khi đó đổi cổ phần Gillette thành cổ phần P&G.
-> - **Từ ngữ.** Munger dùng chữ "lollapalooza" về sai lầm của GM theo nghĩa "một sai lầm cực lớn", không hẳn theo nghĩa kỹ thuật "hiệu ứng Lollapalooza" (nhiều khuynh hướng cùng hướng gây kết quả cực đoan). Cụm "the full punctilio of honor" (sự chuẩn mực trọn vẹn của danh dự) có lẽ gợi lại câu nổi tiếng của thẩm phán Benjamin Cardozo trong vụ Meinhard kiện Salmon (1928) về nghĩa vụ trung thành của người được uỷ thác; đây là suy đoán của người tổng hợp.
+Munger muốn các giám đốc tài chính của quỹ thấy rằng **tổng chi phí của bộ máy đầu tư ngày càng phức tạp (nhiều tầng tư vấn, nhiều nhà quản lý quỹ, mua bán liên tục) là một khoản hao hụt chắc chắn, trong khi phần lợi suất vượt trội mà bộ máy đó hứa hẹn thì không chắc chắn**.
+
+Ông gọi những người ăn phí là "người hồ lì sòng bạc" (*croupiers*), tức người thu phần của nhà cái trên mỗi ván.
+
+Ví dụ trung tâm là một phép tính: phần nhà cái có thể dễ dàng lên tới 3% tài sản ròng mỗi năm; khi cổ phiếu đem lại lợi suất thực 17% mỗi năm (như những năm gần đó) thì không ai thấy đau, nhưng nếu lợi suất thực về lại khoảng 5%, thì 5% lợi suất trừ 3% chi phí trừ 5% tiền quỹ phải chi cho từ thiện sẽ khiến quỹ teo lại 3% mỗi năm.
+
+Vì tâm lý tự tin quá mức (90% người lái xe Thuỵ Điển cho mình giỏi hơn trung bình; General Motors bỏ cửa thứ tư trên xe tải; Long-Term Capital Management sụp đổ dù những người điều hành có chỉ số IQ trung bình khoảng 160), quỹ nào cũng nghĩ mình sẽ hơn trung bình.
+
+Munger đưa ra ba lựa chọn:
+
+- (1) bỏ tư vấn, chuyển sang đầu tư theo chỉ số;
+- (2) làm như Berkshire Hathaway, nắm lâu dài, gần như bất động, một số rất ít công ty Mỹ đáng ngưỡng mộ, với tổng chi phí dưới 0,1% mỗi năm;
+- (3) bỏ thêm tiền vào các quỹ hợp danh như quỹ mua lại bằng vốn vay (LBO).
+
+Ông khuyên quỹ trung bình chọn (1), chỉ ra rủi ro ẩn của (3), và bảo vệ (2): ông cho rằng quan điểm chính thống "phải đa dạng hoá thật rộng" là sai nặng. Chỉ cần nắm lâu dài ba công ty Mỹ tốt là đủ giàu một cách chắc chắn, và đôi khi tập trung 90% vào một cổ phiếu (như các quỹ Woodruff với Coca-Cola) là hợp lý.
+
+Ông kết bằng một lập luận đạo đức: nghề quản lý tiền chi phí cao hút người trẻ giỏi ra khỏi những công việc đóng góp nhiều hơn cho xã hội; "Munger thời trẻ" là một hình mẫu nghề nghiệp tồi. Quỹ nên chọn hình mẫu Ben Franklin thay vì hình mẫu Bernie Cornfeld.
 
 ## Sơ đồ
 
@@ -611,9 +618,19 @@
 
 ## Ba câu hỏi bài này trả lời
 
-1. **Vì sao bộ máy đầu tư nhiều tầng của các quỹ từ thiện lại có hại, khi trên giấy nó trông rất chuyên nghiệp?** Vì nó tạo ra một khoản chi phí chắc chắn để đổi lấy một lợi ích không chắc chắn. Quỹ thuê nhiều công ty tư vấn đầu tư; các công ty này được một tầng tư vấn khác chọn và giám sát; còn khi chọn cổ phiếu, họ dựa vào chuyên viên phân tích của ngân hàng đầu tư, những người nhận lương hàng triệu USD và được trả bằng hoa hồng môi giới, chênh lệch mua bán và phí ngân hàng đầu tư. Cộng phí quản lý của mọi tầng với chi phí ma sát của việc mua bán thường xuyên, tổng có thể dễ dàng lên tới 3% tài sản ròng mỗi năm mà kế toán thông thường không cho thấy. Khi cổ phiếu đem lại lợi suất thực 17% mỗi năm thì khoản này không đau, nhưng nếu lợi suất về khoảng 5%, quỹ phải chi 5% cho từ thiện thì sẽ teo lại 3% mỗi năm. Xét tổng thể, mọi nhà đầu tư cổ phiếu cộng lại chịu thiệt đúng bằng tổng phí họ trả, và một nửa sẽ dưới mức trung vị sau phí. Quy trình càng cẩn thận càng dễ sinh tự tin quá mức, như General Motors với cửa xe tải hay LTCM với đòn bẩy.
-2. **Một quỹ tỉnh táo nên làm gì thay thế?** Munger nêu ba lựa chọn. Lựa chọn 1 là bỏ tư vấn, giảm mua bán và chuyển sang đầu tư cổ phiếu theo chỉ số; ông cho đây là lựa chọn khôn hơn cho quỹ trung bình, nhất là quỹ đang tốn hơn 1% mỗi năm, và nó sẽ hiệu quả lâu dài, dù không thể hiệu quả mãi nếu ai cũng làm. Lựa chọn 2 là làm như Berkshire Hathaway: nắm gần như bất động một số rất ít công ty Mỹ đáng ngưỡng mộ, tổng chi phí dưới 0,1% mỗi năm, và nếu dùng tư vấn thì phải kiểm soát để họ phục vụ chủ chứ không phục vụ mình. Lựa chọn 3 là thêm các quỹ hợp danh (đầu tư mạo hiểm, mua lại bằng vốn vay, các giao dịch có vay); Munger Foundation không làm, và với quỹ LBO, ông cảnh báo rằng đó thực chất là mua cổ phiếu bằng tiền vay, có tương quan ẩn với thị trường cổ phiếu khi kinh tế xấu, và cạnh tranh mua doanh nghiệp đã cực độ (GE Capital mua hơn 10 tỷ USD mỗi năm với nợ 100% gần mức lãi suất chính phủ).
-3. **Quỹ nên đa dạng hoá bao nhiêu, và vì sao chuyện đầu tư của quỹ lại là chuyện đạo đức?** Munger cho quan điểm chính thống "phải đa dạng hoá thật rộng" là sai nặng với những ai đủ khôn để không cần chỉ số: ở Mỹ, nắm lâu dài ba công ty tốt là giàu chắc chắn; đôi khi tập trung 90% vào một cổ phiếu là hợp lý, như các quỹ Woodruff với Coca-Cola. Tổ chức giàu nên tự bảo hiểm thay vì trả giá cho sự đa dạng; mất bớt ảnh hưởng tương đối không phải là thảm hoạ. Quỹ có thể tập trung vào công ty nó ngưỡng mộ (Franklin đã quy định như vậy cho quỹ trong di chúc), vì phần lớn điều tốt trên đời do hoạt động kinh doanh của các công ty tốt tạo ra. Ông ưa tham gia kinh tế nước ngoài qua Coca-Cola và Gillette hơn đầu tư trực tiếp, vì luật lệ và văn hoá Mỹ bảo vệ cổ đông tốt hơn. Về đạo đức, kể cả khi cách đầu tư phức tạp có lãi, nó vẫn hút người trẻ giỏi vào nghề quản lý tiền, nơi họ lấy từ xã hội nhiều hơn những gì họ đóng góp; quỹ từ thiện, vốn phải làm gương, nên chọn hình mẫu Franklin chứ không phải Cornfeld. Năm 2006, Munger ghi nhận xu hướng xấu còn mạnh hơn, chỉ có đầu tư chỉ số chi phí thấp là điểm sáng đang lớn dần.
+1. **Vì sao bộ máy đầu tư nhiều tầng của các quỹ từ thiện lại có hại, khi trên giấy nó trông rất chuyên nghiệp?** Vì nó tạo ra một khoản chi phí chắc chắn để đổi lấy một lợi ích không chắc chắn. Quỹ thuê nhiều công ty tư vấn đầu tư; các công ty này được một tầng tư vấn khác chọn và giám sát; còn khi chọn cổ phiếu, họ dựa vào chuyên viên phân tích của ngân hàng đầu tư, những người nhận lương hàng triệu USD và được trả bằng hoa hồng môi giới, chênh lệch mua bán và phí ngân hàng đầu tư. Cộng phí quản lý của mọi tầng với chi phí ma sát của việc mua bán thường xuyên, tổng có thể dễ dàng lên tới 3% tài sản ròng mỗi năm mà kế toán thông thường không cho thấy.
+
+   Khi cổ phiếu đem lại lợi suất thực 17% mỗi năm thì khoản này không đau, nhưng nếu lợi suất về khoảng 5%, quỹ phải chi 5% cho từ thiện thì sẽ teo lại 3% mỗi năm. Xét tổng thể, mọi nhà đầu tư cổ phiếu cộng lại chịu thiệt đúng bằng tổng phí họ trả, và một nửa sẽ dưới mức trung vị sau phí. Quy trình càng cẩn thận càng dễ sinh tự tin quá mức, như General Motors với cửa xe tải hay LTCM với đòn bẩy.
+2. **Một quỹ tỉnh táo nên làm gì thay thế?** Munger nêu ba lựa chọn. Lựa chọn 1 là bỏ tư vấn, giảm mua bán và chuyển sang đầu tư cổ phiếu theo chỉ số; ông cho đây là lựa chọn khôn hơn cho quỹ trung bình, nhất là quỹ đang tốn hơn 1% mỗi năm, và nó sẽ hiệu quả lâu dài, dù không thể hiệu quả mãi nếu ai cũng làm.
+
+   Lựa chọn 2 là làm như Berkshire Hathaway: nắm gần như bất động một số rất ít công ty Mỹ đáng ngưỡng mộ, tổng chi phí dưới 0,1% mỗi năm, và nếu dùng tư vấn thì phải kiểm soát để họ phục vụ chủ chứ không phục vụ mình.
+
+   Lựa chọn 3 là thêm các quỹ hợp danh (đầu tư mạo hiểm, mua lại bằng vốn vay, các giao dịch có vay); Munger Foundation không làm, và với quỹ LBO, ông cảnh báo rằng đó thực chất là mua cổ phiếu bằng tiền vay, có tương quan ẩn với thị trường cổ phiếu khi kinh tế xấu, và cạnh tranh mua doanh nghiệp đã cực độ (GE Capital mua hơn 10 tỷ USD mỗi năm với nợ 100% gần mức lãi suất chính phủ).
+3. **Quỹ nên đa dạng hoá bao nhiêu, và vì sao chuyện đầu tư của quỹ lại là chuyện đạo đức?** Munger cho quan điểm chính thống "phải đa dạng hoá thật rộng" là sai nặng với những ai đủ khôn để không cần chỉ số: ở Mỹ, nắm lâu dài ba công ty tốt là giàu chắc chắn; đôi khi tập trung 90% vào một cổ phiếu là hợp lý, như các quỹ Woodruff với Coca-Cola. Tổ chức giàu nên tự bảo hiểm thay vì trả giá cho sự đa dạng; mất bớt ảnh hưởng tương đối không phải là thảm hoạ.
+
+   Quỹ có thể tập trung vào công ty nó ngưỡng mộ (Franklin đã quy định như vậy cho quỹ trong di chúc), vì phần lớn điều tốt trên đời do hoạt động kinh doanh của các công ty tốt tạo ra. Ông ưa tham gia kinh tế nước ngoài qua Coca-Cola và Gillette hơn đầu tư trực tiếp, vì luật lệ và văn hoá Mỹ bảo vệ cổ đông tốt hơn.
+
+   Về đạo đức, kể cả khi cách đầu tư phức tạp có lãi, nó vẫn hút người trẻ giỏi vào nghề quản lý tiền, nơi họ lấy từ xã hội nhiều hơn những gì họ đóng góp; quỹ từ thiện, vốn phải làm gương, nên chọn hình mẫu Franklin chứ không phải Cornfeld. Năm 2006, Munger ghi nhận xu hướng xấu còn mạnh hơn, chỉ có đầu tư chỉ số chi phí thấp là điểm sáng đang lớn dần.
 
 ## Khái niệm cần biết
 
@@ -655,7 +672,9 @@
 
 Người biên tập mở bài bằng nhận xét rằng bài nói tháng 10 năm 1998 trước Nhóm giám đốc tài chính của các quỹ ở Santa Monica giúp hiểu một câu Munger hay nói: "Buồn nhưng đúng: không phải ai cũng yêu quý tôi." Trong bài, Munger công kích cách làm chính thống, được chấp nhận rộng rãi và đang được chính người nghe thực hành, bằng giọng hài hước sắc sảo nhưng không bao giờ ác ý.
 
-Munger tin sâu sắc và bền bỉ vào hoạt động từ thiện, điều thể hiện qua việc chính ông cho tiền rất hào phóng; ở đây, ông muốn cứu giới từ thiện khỏi chính các thói quen của họ. Ông cho rằng các quỹ phải làm gương cho xã hội, nghĩa là phải tránh những cách làm lãng phí, không tạo ra giá trị. Ông đặt người nghe trước một lựa chọn: theo hình mẫu chính khách thiên tài Ben Franklin, hay hình mẫu nhà quản lý quỹ thân bại danh liệt Bernie Cornfeld. Nhắc tới thời mình quản lý quỹ hợp danh, Munger, như thường lệ, tự giễu và tự xét mình: "Munger thời trẻ là một hình mẫu nghề nghiệp tồi cho người trẻ." Theo người biên tập, ý ngầm của ông là: nếu Munger thoát ra được khỏi trạng thái đó, thì các nhà quản lý quỹ đang lạc lối trong số người nghe cũng có thể. Tranh minh hoạ vẽ Munger đứng dưới hai chân dung Franklin và Cornfeld, giữa hai chân dung là một dấu hỏi lớn.
+Munger tin sâu sắc và bền bỉ vào hoạt động từ thiện, điều thể hiện qua việc chính ông cho tiền rất hào phóng; ở đây, ông muốn cứu giới từ thiện khỏi chính các thói quen của họ. Ông cho rằng các quỹ phải làm gương cho xã hội, nghĩa là phải tránh những cách làm lãng phí, không tạo ra giá trị.
+
+Ông đặt người nghe trước một lựa chọn: theo hình mẫu chính khách thiên tài Ben Franklin, hay hình mẫu nhà quản lý quỹ thân bại danh liệt Bernie Cornfeld. Nhắc tới thời mình quản lý quỹ hợp danh, Munger, như thường lệ, tự giễu và tự xét mình: "Munger thời trẻ là một hình mẫu nghề nghiệp tồi cho người trẻ." Theo người biên tập, ý ngầm của ông là: nếu Munger thoát ra được khỏi trạng thái đó, thì các nhà quản lý quỹ đang lạc lối trong số người nghe cũng có thể. Tranh minh hoạ vẽ Munger đứng dưới hai chân dung Franklin và Cornfeld, giữa hai chân dung là một dấu hỏi lớn.
 
 ### 2. Tiêu đề bài nói và hộp bên lề về John C. Argue (trang in 323)
 
@@ -699,7 +718,9 @@ Munger nói có một điều chắc chắn về toàn bộ sự phức tạp n�
 
 ### 5. Một chút số học: phần thu của nhà cái khi lợi suất 17% và khi lợi suất 5% (trang in 325–326)
 
-Munger nói tới lúc làm một chút số học. Trả cho "người hồ lì" 3% tài sản đầu kỳ mỗi năm là một chuyện khi quỹ trung bình đang hưởng lợi suất thực khoảng 17% trước khi trừ phần của nhà cái. Nhưng không có gì "viết trên các vì sao" rằng các quỹ sẽ luôn đạt 17% gộp, dù đó là kết quả thường thấy những năm gần đây. Nếu lợi suất thực gộp trung bình hằng năm của đầu tư cổ phiếu theo chỉ số về lại, chẳng hạn, 5% trong một thời kỳ dài sắp tới, và phần nhà cái vẫn là khoản lãng phí như xưa nay, kể cả với người chơi thông minh trung bình, thì quỹ thông minh trung bình sẽ rơi vào trạng thái co lại kéo dài và khó chịu. Rốt cuộc, 5% trừ 3% trừ 5% tiền tặng cho từ thiện là co lại 3% mỗi năm.
+Munger nói tới lúc làm một chút số học. Trả cho "người hồ lì" 3% tài sản đầu kỳ mỗi năm là một chuyện khi quỹ trung bình đang hưởng lợi suất thực khoảng 17% trước khi trừ phần của nhà cái. Nhưng không có gì "viết trên các vì sao" rằng các quỹ sẽ luôn đạt 17% gộp, dù đó là kết quả thường thấy những năm gần đây.
+
+Nếu lợi suất thực gộp trung bình hằng năm của đầu tư cổ phiếu theo chỉ số về lại, chẳng hạn, 5% trong một thời kỳ dài sắp tới, và phần nhà cái vẫn là khoản lãng phí như xưa nay, kể cả với người chơi thông minh trung bình, thì quỹ thông minh trung bình sẽ rơi vào trạng thái co lại kéo dài và khó chịu. Rốt cuộc, 5% trừ 3% trừ 5% tiền tặng cho từ thiện là co lại 3% mỗi năm.
 
 | Kịch bản | Lợi suất thực gộp mỗi năm | Phần của nhà cái | Chi cho từ thiện | Thay đổi tài sản thực mỗi năm |
 |---|---|---|---|---|
@@ -713,11 +734,15 @@ Munger nêu thêm hai sự thật không tránh được. Thứ nhất, tổng t
 
 ### 6. Ai cũng nghĩ mình hơn trung bình: Demosthenes, người lái xe Thuỵ Điển, General Motors, LTCM (trang in 326–328)
 
-Bản tính con người khiến phần đông gạt bỏ những lo ngại như Munger vừa nêu. Nhiều thế kỷ trước Công nguyên, Demosthenes đã nhận xét: "Điều người ta mong muốn, người ta sẽ tin." Và khi tự đánh giá triển vọng và tài năng của mình, như Demosthenes đã đoán, người ta thường lạc quan tới mức lố bịch. Một khảo sát cẩn thận ở Thuỵ Điển cho thấy 90% người lái ô tô cho rằng mình lái giỏi hơn trung bình. Còn những người đang bán được một thứ gì đó, như các công ty tư vấn đầu tư, thì tự tin tới mức khiến người lái xe Thuỵ Điển nghe như người trầm cảm. Hầu như chuyên gia đầu tư nào cũng công khai đánh giá mình hơn trung bình, bất kể bằng chứng ngược lại ra sao. (Ảnh minh hoạ: logo hai hãng xe Thuỵ Điển Volvo và Saab.)
+Bản tính con người khiến phần đông gạt bỏ những lo ngại như Munger vừa nêu. Nhiều thế kỷ trước Công nguyên, Demosthenes đã nhận xét: "Điều người ta mong muốn, người ta sẽ tin." Và khi tự đánh giá triển vọng và tài năng của mình, như Demosthenes đã đoán, người ta thường lạc quan tới mức lố bịch.
+
+Một khảo sát cẩn thận ở Thuỵ Điển cho thấy 90% người lái ô tô cho rằng mình lái giỏi hơn trung bình. Còn những người đang bán được một thứ gì đó, như các công ty tư vấn đầu tư, thì tự tin tới mức khiến người lái xe Thuỵ Điển nghe như người trầm cảm. Hầu như chuyên gia đầu tư nào cũng công khai đánh giá mình hơn trung bình, bất kể bằng chứng ngược lại ra sao. (Ảnh minh hoạ: logo hai hãng xe Thuỵ Điển Volvo và Saab.)
 
 Munger đoán trước phản bác của người nghe: quỹ của tôi, ít ra, sẽ hơn trung bình, vì quỹ có nhiều tiền, thuê người giỏi nhất, và xem xét mọi vấn đề đầu tư lâu, kỹ, với tính chuyên nghiệp khách quan. Ông đáp: sự thừa những gì trông như tính chuyên nghiệp thường gây hại khủng khiếp, chính vì những quy trình cẩn thận thường khiến người ta quá tự tin vào kết quả của chúng.
 
-General Motors vừa mắc đúng loại sai lầm đó, và đó là một sai lầm cực lớn. Dùng các khảo sát người tiêu dùng tinh vi, tức chính sự thừa chuyên nghiệp của mình, GM kết luận không làm cửa thứ tư cho một mẫu xe tải được thiết kế để dùng như một chiếc xe năm chỗ thoải mái. Các đối thủ, với cách nghĩ cơ bản hơn, đã thực sự quan sát năm người lên và xuống xe. Họ còn nhận ra rằng người ta đã quen với bốn cửa trên một chiếc xe năm chỗ thoải mái, và rằng các sinh vật thường thích giảm thiểu công sức trong việc làm hằng ngày và không thích bị lấy đi những tiện ích đã quen hưởng lâu. (Ảnh minh hoạ của người biên tập: một con báo nằm dài nghỉ trên cành cây.) Khi xem lại quyết định tồi tệ này của GM, thứ đã đốt nhiều trăm triệu USD, chỉ có hai chữ hiện ra ngay trong đầu, và một trong hai chữ đó là "úi" (*oops*).
+General Motors vừa mắc đúng loại sai lầm đó, và đó là một sai lầm cực lớn. Dùng các khảo sát người tiêu dùng tinh vi, tức chính sự thừa chuyên nghiệp của mình, GM kết luận không làm cửa thứ tư cho một mẫu xe tải được thiết kế để dùng như một chiếc xe năm chỗ thoải mái.
+
+Các đối thủ, với cách nghĩ cơ bản hơn, đã thực sự quan sát năm người lên và xuống xe. Họ còn nhận ra rằng người ta đã quen với bốn cửa trên một chiếc xe năm chỗ thoải mái, và rằng các sinh vật thường thích giảm thiểu công sức trong việc làm hằng ngày và không thích bị lấy đi những tiện ích đã quen hưởng lâu. (Ảnh minh hoạ của người biên tập: một con báo nằm dài nghỉ trên cành cây.) Khi xem lại quyết định tồi tệ này của GM, thứ đã đốt nhiều trăm triệu USD, chỉ có hai chữ hiện ra ngay trong đầu, và một trong hai chữ đó là "úi" (*oops*).
 
 Tương tự, quỹ phòng hộ Long-Term Capital Management vừa sụp đổ vì quá tự tin vào các phương pháp dùng đòn bẩy rất cao, dù chỉ số IQ trung bình của những người điều hành chắc phải vào khoảng 160. Người thông minh, chăm chỉ không được miễn trừ khỏi các thảm hoạ nghề nghiệp do tự tin quá mức. Thường thì họ mắc cạn chính trong những chuyến đi khó hơn mà họ tự chọn, vì dựa vào tự đánh giá rằng mình có tài năng và phương pháp vượt trội.
 
@@ -741,7 +766,11 @@ So sánh với mức chi phí mà Munger nói về các quỹ đang làm:
 | Quỹ trung bình đang đầu tư cổ phiếu không vay (mức Munger dùng để khuyên chuyển sang chỉ số) | Vượt 1% vốn gốc |
 | Cách của Berkshire Hathaway | Dưới 0,1% vốn gốc |
 
-**Hộp bên lề của người biên tập về Long-Term Capital Management.** LTCM là công ty quỹ phòng hộ lập năm 1994 bởi một nhà giao dịch trái phiếu Phố Wall được kính trọng và hai người đoạt giải Nobel kinh tế (theo hiểu biết của người tổng hợp: John Meriwether, Myron Scholes và Robert Merton). Quỹ xây các mô hình toán học phức tạp để kiếm lời từ giao dịch chênh lệch giá. Dùng nợ rất cao, khoảng 125 tỷ USD vào năm 1998, quỹ ở thế bất lợi khi gặp cùng lúc hai tháng liền lợi suất âm, việc Salomon Brothers rút khỏi mảng giao dịch chênh lệch giá, và các cơn hoảng loạn tài chính ở nước ngoài. Trong vài tháng, quỹ mất gần 2 tỷ USD vốn. Cục Dự trữ Liên bang phải tổ chức cứu quỹ để tránh một chuỗi phản ứng đòi rút thanh khoản lan khắp nền kinh tế. Vụ đổ vỡ nhắc giới tài chính về mức nghiêm trọng tiềm ẩn của rủi ro thanh khoản. Cuốn sách kinh điển về vụ này, *When Genius Failed* (Khi thiên tài thất bại, của Roger Lowenstein), được dịch ra nhiều thứ tiếng; ảnh đi kèm là bìa bản tiếng Nhật.
+**Hộp bên lề của người biên tập về Long-Term Capital Management.** LTCM là công ty quỹ phòng hộ lập năm 1994 bởi một nhà giao dịch trái phiếu Phố Wall được kính trọng và hai người đoạt giải Nobel kinh tế (theo hiểu biết của người tổng hợp: John Meriwether, Myron Scholes và Robert Merton). Quỹ xây các mô hình toán học phức tạp để kiếm lời từ giao dịch chênh lệch giá.
+
+Dùng nợ rất cao, khoảng 125 tỷ USD vào năm 1998, quỹ ở thế bất lợi khi gặp cùng lúc hai tháng liền lợi suất âm, việc Salomon Brothers rút khỏi mảng giao dịch chênh lệch giá, và các cơn hoảng loạn tài chính ở nước ngoài. Trong vài tháng, quỹ mất gần 2 tỷ USD vốn. Cục Dự trữ Liên bang phải tổ chức cứu quỹ để tránh một chuỗi phản ứng đòi rút thanh khoản lan khắp nền kinh tế.
+
+Vụ đổ vỡ nhắc giới tài chính về mức nghiêm trọng tiềm ẩn của rủi ro thanh khoản. Cuốn sách kinh điển về vụ này, *When Genius Failed* (Khi thiên tài thất bại, của Roger Lowenstein), được dịch ra nhiều thứ tiếng; ảnh đi kèm là bìa bản tiếng Nhật.
 
 ### 8. Đánh giá lựa chọn 1 (chỉ số) và lựa chọn 3 (quỹ hợp danh, quỹ LBO) (trang in 330–331)
 
@@ -759,7 +788,9 @@ Tóm lại, trong lĩnh vực LBO có một mối tương quan ẩn với cổ p
 
 Phần còn lại để bàn kỹ chỉ là lựa chọn 2: bắt chước nhiều hơn cách đầu tư của Berkshire Hathaway, tức giữ danh mục cổ phiếu niêm yết với vòng quay gần bằng 0 và chỉ rất ít cổ phiếu được chọn. Điều này dẫn tới câu hỏi: các quỹ nên đa dạng hoá đến mức nào?
 
-Munger nói ông còn hơn cả hoài nghi đối với quan điểm chính thống rằng đa dạng hoá thật rộng là bắt buộc với những ai đủ khôn để đầu tư chỉ số không phải là cách hợp lý của họ. Ông cho quan điểm chính thống đó sai nặng. Ở Mỹ, một người hay tổ chức đặt gần hết tài sản dài hạn vào chỉ ba công ty tốt trong nước là giàu một cách chắc chắn. Vì sao người chủ đó phải bận tâm nếu, vào lúc nào đó, phần đông nhà đầu tư khác làm tốt hơn hay kém hơn một chút? Nhất là khi người đó, như Berkshire, có lý do hợp lý để tin kết quả dài hạn của mình sẽ vượt trội nhờ ba điều: chi phí thấp hơn, việc buộc phải chú trọng vào hiệu quả dài hạn, và sự tập trung vào những lựa chọn mình ưa thích nhất.
+Munger nói ông còn hơn cả hoài nghi đối với quan điểm chính thống rằng đa dạng hoá thật rộng là bắt buộc với những ai đủ khôn để đầu tư chỉ số không phải là cách hợp lý của họ. Ông cho quan điểm chính thống đó sai nặng.
+
+Ở Mỹ, một người hay tổ chức đặt gần hết tài sản dài hạn vào chỉ ba công ty tốt trong nước là giàu một cách chắc chắn. Vì sao người chủ đó phải bận tâm nếu, vào lúc nào đó, phần đông nhà đầu tư khác làm tốt hơn hay kém hơn một chút? Nhất là khi người đó, như Berkshire, có lý do hợp lý để tin kết quả dài hạn của mình sẽ vượt trội nhờ ba điều: chi phí thấp hơn, việc buộc phải chú trọng vào hiệu quả dài hạn, và sự tập trung vào những lựa chọn mình ưa thích nhất.
 
 Ông đi xa hơn: trong một số tình huống, một gia đình hay một quỹ giữ 90% tài sản tập trung trong một cổ phiếu có thể là một lựa chọn hợp lý. Ông mong gia đình Munger đại để đi theo hướng này. Ông lưu ý rằng các quỹ Woodruff, tới nay, đã tỏ ra cực kỳ khôn ngoan khi giữ khoảng 90% tài sản trong cổ phiếu Coca-Cola của người sáng lập. Theo ông, sẽ thú vị nếu tính xem toàn bộ các quỹ từ thiện Mỹ sẽ ra sao nếu chưa bao giờ bán một cổ phiếu nào của người sáng lập; ông nghĩ rất nhiều quỹ khi đó sẽ khá hơn hiện nay.
 
@@ -771,15 +802,25 @@ Munger nói ông còn hơn cả hoài nghi đối với quan điểm chính th�
 
 Người nghe có thể nói: những quỹ đa dạng hoá chỉ đơn giản là đã mua bảo hiểm cho một thảm hoạ không xảy ra. Munger đáp: có những điều tệ hơn việc một quỹ nào đó mất bớt ảnh hưởng tương đối trên đời, và các tổ chức giàu, như các cá nhân giàu, nên tự bảo hiểm nhiều nếu muốn tối đa hoá kết quả dài hạn.
 
-**Hộp bên lề của người biên tập về Robert W. Woodruff (1889–1985).** Woodruff sinh ở Georgia, cha ông là chủ tịch một công ty tín thác lớn. Ông học hành không có gì nổi bật, nhưng khi đi làm thì thành công nhanh. Khởi đầu bằng nghề bán ô tô, tới 33 tuổi ông đã nắm quyền điều hành Coca-Cola Company. Ông biến một hãng sản xuất và đóng chai nước ngọt khá nhỏ thành một tập đoàn khổng lồ được biết đến khắp thế giới. Suốt phần đời còn lại, ông làm từ thiện rất nhiều và lập một quỹ lớn nay mang tên ông. Châm ngôn cá nhân của ông cho thấy vì sao ông làm được nhiều việc như vậy trong đời: "Một người có thể làm được bao nhiêu và đi được bao xa là không có giới hạn, nếu anh ta không bận tâm ai được ghi công."
+**Hộp bên lề của người biên tập về Robert W. Woodruff (1889–1985).** Woodruff sinh ở Georgia, cha ông là chủ tịch một công ty tín thác lớn. Ông học hành không có gì nổi bật, nhưng khi đi làm thì thành công nhanh. Khởi đầu bằng nghề bán ô tô, tới 33 tuổi ông đã nắm quyền điều hành Coca-Cola Company. Ông biến một hãng sản xuất và đóng chai nước ngọt khá nhỏ thành một tập đoàn khổng lồ được biết đến khắp thế giới.
+
+Suốt phần đời còn lại, ông làm từ thiện rất nhiều và lập một quỹ lớn nay mang tên ông. Châm ngôn cá nhân của ông cho thấy vì sao ông làm được nhiều việc như vậy trong đời: "Một người có thể làm được bao nhiêu và đi được bao xa là không có giới hạn, nếu anh ta không bận tâm ai được ghi công."
 
 ### 10. Doanh nghiệp làm điều tốt, Franklin tập trung, và đầu tư nước ngoài; hộp bên lề về Drucker và đội đua Gillette (trang in 332–333)
 
-Munger nói thêm: không phải mọi điều tốt trên đời đều do tiền tặng của các quỹ tạo ra. Phần lớn hơn nhiều được tạo ra qua hoạt động kinh doanh thường ngày của các công ty mà các quỹ đầu tư vào. Có những công ty làm nhiều điều tốt hơn hẳn các công ty khác, theo cách cũng đem lại cho nhà đầu tư vào chúng triển vọng dài hạn tốt hơn trung bình. Ông không cho là dại dột, ngu ngốc, xấu xa hay phạm luật khi một quỹ tập trung đầu tư mạnh vào thứ nó ngưỡng mộ, thậm chí yêu quý. Thật vậy, Ben Franklin đã quy định đúng cách đầu tư như vậy cho quỹ từ thiện lập theo di chúc của ông. (Theo hiểu biết của người tổng hợp, Franklin để lại cho Boston và Philadelphia mỗi nơi 1.000 bảng Anh, với điều kiện cho thợ thủ công trẻ đã có gia đình vay với lãi suất 5% và để quỹ tích luỹ trong 200 năm; tức là quỹ chỉ đầu tư vào đúng một loại đối tượng mà Franklin tin tưởng.)
+Munger nói thêm: không phải mọi điều tốt trên đời đều do tiền tặng của các quỹ tạo ra. Phần lớn hơn nhiều được tạo ra qua hoạt động kinh doanh thường ngày của các công ty mà các quỹ đầu tư vào. Có những công ty làm nhiều điều tốt hơn hẳn các công ty khác, theo cách cũng đem lại cho nhà đầu tư vào chúng triển vọng dài hạn tốt hơn trung bình.
 
-Một khía cạnh khác trong cách đầu tư cổ phiếu của Berkshire đáng được so sánh: tới nay Berkshire gần như không đầu tư trực tiếp ra nước ngoài, trong khi các quỹ đầu tư ra nước ngoài nhiều. Về khác biệt này, Munger nói ông đồng ý với Peter Drucker rằng văn hoá và hệ thống pháp luật của Mỹ đặc biệt thuận lợi cho quyền lợi cổ đông, so với quyền lợi của các nhóm khác và so với phần lớn các nước khác. Thật vậy, có nhiều nước mà mọi lợi ích dành cho cổ đông đại chúng đều được xếp ưu tiên rất thấp, và gần như mọi nhóm khác đều đứng trước họ. Ông nghĩ nhiều tổ chức đầu tư coi nhẹ yếu tố này, có lẽ vì nó không dễ dẫn tới tư duy định lượng bằng kỹ thuật tài chính hiện đại. Nhưng một yếu tố quan trọng không mất bớt sức nặng chỉ vì một "chuyên gia" nào đó đo được các loại sức nặng khác dễ hơn. Nói chung, so với đầu tư trực tiếp ra nước ngoài, ông ưa cách của Berkshire hơn: tham gia vào các nền kinh tế nước ngoài thông qua những công ty như Coca-Cola và Gillette.
+Ông không cho là dại dột, ngu ngốc, xấu xa hay phạm luật khi một quỹ tập trung đầu tư mạnh vào thứ nó ngưỡng mộ, thậm chí yêu quý. Thật vậy, Ben Franklin đã quy định đúng cách đầu tư như vậy cho quỹ từ thiện lập theo di chúc của ông. (Theo hiểu biết của người tổng hợp, Franklin để lại cho Boston và Philadelphia mỗi nơi 1.000 bảng Anh, với điều kiện cho thợ thủ công trẻ đã có gia đình vay với lãi suất 5% và để quỹ tích luỹ trong 200 năm; tức là quỹ chỉ đầu tư vào đúng một loại đối tượng mà Franklin tin tưởng.)
 
-**Hộp bên lề của người biên tập về Peter F. Drucker (1909–2005).** Drucker sinh ở Áo, học ở Áo và Anh. Ông lấy bằng tiến sĩ luật công và luật quốc tế trong khi làm phóng viên báo ở Đức. Sau đó ông làm nhà kinh tế ở một ngân hàng tại London và sang Mỹ năm 1937. Sự nghiệp học thuật của ông gồm các vị trí giáo sư ở Bennington College, Đại học New York, và từ năm 1971 ở Claremont Graduate University, nơi trường quản trị sau đại học mang tên ông. Nhiều thập niên, ông làm tư vấn cho doanh nghiệp và tổ chức phi lợi nhuận. Là tác giả khoảng ba mươi cuốn sách về quản trị, triết học và các chủ đề khác, Drucker được coi là nhà tư tưởng, nhà văn và diễn giả nền tảng về tổ chức hiện đại. Năm 2002, ông nhận Huân chương Tự do của Tổng thống Mỹ. Ảnh đi kèm là bìa một cuốn sách về Drucker của John E. Flaherty.
+Một khía cạnh khác trong cách đầu tư cổ phiếu của Berkshire đáng được so sánh: tới nay Berkshire gần như không đầu tư trực tiếp ra nước ngoài, trong khi các quỹ đầu tư ra nước ngoài nhiều.
+
+Về khác biệt này, Munger nói ông đồng ý với Peter Drucker rằng văn hoá và hệ thống pháp luật của Mỹ đặc biệt thuận lợi cho quyền lợi cổ đông, so với quyền lợi của các nhóm khác và so với phần lớn các nước khác. Thật vậy, có nhiều nước mà mọi lợi ích dành cho cổ đông đại chúng đều được xếp ưu tiên rất thấp, và gần như mọi nhóm khác đều đứng trước họ.
+
+Ông nghĩ nhiều tổ chức đầu tư coi nhẹ yếu tố này, có lẽ vì nó không dễ dẫn tới tư duy định lượng bằng kỹ thuật tài chính hiện đại. Nhưng một yếu tố quan trọng không mất bớt sức nặng chỉ vì một "chuyên gia" nào đó đo được các loại sức nặng khác dễ hơn. Nói chung, so với đầu tư trực tiếp ra nước ngoài, ông ưa cách của Berkshire hơn: tham gia vào các nền kinh tế nước ngoài thông qua những công ty như Coca-Cola và Gillette.
+
+**Hộp bên lề của người biên tập về Peter F. Drucker (1909–2005).** Drucker sinh ở Áo, học ở Áo và Anh. Ông lấy bằng tiến sĩ luật công và luật quốc tế trong khi làm phóng viên báo ở Đức. Sau đó ông làm nhà kinh tế ở một ngân hàng tại London và sang Mỹ năm 1937.
+
+Sự nghiệp học thuật của ông gồm các vị trí giáo sư ở Bennington College, Đại học New York, và từ năm 1971 ở Claremont Graduate University, nơi trường quản trị sau đại học mang tên ông. Nhiều thập niên, ông làm tư vấn cho doanh nghiệp và tổ chức phi lợi nhuận. Là tác giả khoảng ba mươi cuốn sách về quản trị, triết học và các chủ đề khác, Drucker được coi là nhà tư tưởng, nhà văn và diễn giả nền tảng về tổ chức hiện đại. Năm 2002, ông nhận Huân chương Tự do của Tổng thống Mỹ. Ảnh đi kèm là bìa một cuốn sách về Drucker của John E. Flaherty.
 
 **Chú thích ảnh của người biên tập về đội đua "Gillette Young Guns".** Nhóm tay đua mang tên Gillette (từ trái sang phải: Kurt Busch, Jimmie Johnson, Kevin Harvick, Matt Kenseth, Ryan Newman và Dale Earnhardt Jr.) thống trị mùa đầu tiên của nhóm năm 2004, thắng hơn 50% trong 36 chặng đua NASCAR Cup. Đua xe NASCAR ngày càng được ưa chuộng trên toàn thế giới. Ảnh minh hoạ ý của Munger rằng Gillette là một kênh đưa thương hiệu Mỹ ra thế giới.
 
@@ -789,7 +830,9 @@ Một khía cạnh khác trong cách đầu tư cổ phiếu của Berkshire đ�
 
 Dự đoán là: nếu một số người nghe chuyển phong cách đầu tư của mình giống Berkshire Hathaway hơn, thì nhìn lại về lâu dài, họ khó có lý do để hối tiếc, kể cả khi họ không thuê được Warren Buffett làm việc không công. Ngược lại, Berkshire mới có lý do để hối tiếc, vì sẽ đối mặt với đối thủ đầu tư thông minh hơn. Nhưng Berkshire sẽ không thật sự tiếc bất cứ bất lợi nào do người nghe trở nên sáng suốt: Berkshire chỉ muốn đạt được thành công mà mình đạt được dù đã khuyến khích người khác chia sẻ cách nhìn chung của mình về thực tại.
 
-Lập luận là một lý do bổ sung chống lại các cách đầu tư phức tạp, chi phí cao đang ngày càng phổ biến ở các quỹ. Kể cả khi, trái với nghi ngờ của Munger, các cách đó tỏ ra hiệu quả khá tốt, phần lớn hoạt động kiếm tiền trong đó vẫn có tác động phản xã hội sâu sắc. Lý do: hoạt động ấy làm trầm trọng thêm xu hướng có hại hiện nay, trong đó ngày càng nhiều chất xám trẻ có đạo đức của đất nước bị hút vào nghề quản lý tiền béo bở và các ma sát hiện đại đi kèm, thay vì vào những công việc tạo ra nhiều giá trị hơn cho người khác. Nghề quản lý tiền không tạo ra những tấm gương đúng. "Munger thời trẻ" là một hình mẫu nghề nghiệp tồi cho người trẻ, vì những gì ông trao lại cho nền văn minh chưa đủ so với những gì ông giành được từ chủ nghĩa tư bản; và các hình mẫu nghề nghiệp tương tự khác còn tệ hơn.
+Lập luận là một lý do bổ sung chống lại các cách đầu tư phức tạp, chi phí cao đang ngày càng phổ biến ở các quỹ. Kể cả khi, trái với nghi ngờ của Munger, các cách đó tỏ ra hiệu quả khá tốt, phần lớn hoạt động kiếm tiền trong đó vẫn có tác động phản xã hội sâu sắc. Lý do: hoạt động ấy làm trầm trọng thêm xu hướng có hại hiện nay, trong đó ngày càng nhiều chất xám trẻ có đạo đức của đất nước bị hút vào nghề quản lý tiền béo bở và các ma sát hiện đại đi kèm, thay vì vào những công việc tạo ra nhiều giá trị hơn cho người khác.
+
+Nghề quản lý tiền không tạo ra những tấm gương đúng. "Munger thời trẻ" là một hình mẫu nghề nghiệp tồi cho người trẻ, vì những gì ông trao lại cho nền văn minh chưa đủ so với những gì ông giành được từ chủ nghĩa tư bản; và các hình mẫu nghề nghiệp tương tự khác còn tệ hơn.
 
 Thay vì khuyến khích những hình mẫu đó, lựa chọn xây dựng hơn cho các quỹ là đầu tư tập trung, dài hạn vào một số ít công ty trong nước được ngưỡng mộ một cách sáng suốt. Sao không bắt chước Ben Franklin như vậy? Rốt cuộc, ông già Ben làm việc công rất hiệu quả, và ông cũng là một nhà đầu tư khá giỏi. Munger nghĩ hình mẫu của Franklin tốt hơn hình mẫu của Bernie Cornfeld, và lựa chọn rõ ràng thuộc về người nghe.
 
@@ -824,15 +867,33 @@ Người biên tập trích tờ *Innisfree Farms Rice's Derby Journal*, ấn b�
 
 ### 14. Hộp bên lề của người biên tập: thư mời của John C. Argue và thư của John C. Bogle (trang in 338)
 
-**Thư mời của John C. Argue**, viết trên giấy của hãng luật Argue Pearson Harbison & Myers, ngày 31 tháng 7 năm 1998, gửi Munger ở Cass Lake, Minnesota. Argue viết tiếp sau cuộc gặp ngắn lúc ăn sáng trong tuần: ông được nhờ mời Munger nói trong bữa trưa ngày thứ Tư 14 tháng 10 tại cuộc họp của Foundation Financial Officers Group, khi đó họp ở Los Angeles. Nhóm gồm các giám đốc đầu tư và giám đốc tài chính của phần lớn các quỹ tư nhân lớn ở Mỹ, cùng đại diện khoảng 130 tỷ USD tài sản đầu tư; ngoài ra còn có đại diện một số quỹ nổi tiếng ở châu Âu. Mục đích của nhóm là chia sẻ kiến thức và kinh nghiệm đầu tư, và xây một mạng lưới vững để giúp nhau "tách lúa khỏi trấu" trong vô số quyết định đầu tư phải đưa ra. Cuộc họp diễn ra ở khách sạn Miramar Sheraton, Santa Monica, do Amateur Athletic Foundation, Conrad Hilton Foundation, J. Paul Getty Trust và Rio Hondo Foundation tổ chức. Chủ đề hội nghị là mức giá cao ngất hiện nay của thị trường cổ phiếu vốn hoá lớn ở Mỹ và tìm các phương án thay thế thị trường này. Argue viết Munger được tự do chọn đề tài; ông nghĩ người nghe sẵn lòng bị thách thức bằng những quan điểm mạnh hình thành từ kinh nghiệm đầu tư phong phú của Munger. Cùng chương trình có Barry Munitz, tân lãnh đạo của Getty. Argue khẩn khoản đề nghị Munger nhận lời: ông có rất nhiều điều để trao cho các giám đốc này, và họ cần lời khuyên của ông; Munger cũng sẽ ở trong nhóm diễn giả và đơn vị tài trợ rất xứng tầm.
+**Thư mời của John C. Argue**, viết trên giấy của hãng luật Argue Pearson Harbison & Myers, ngày 31 tháng 7 năm 1998, gửi Munger ở Cass Lake, Minnesota. Argue viết tiếp sau cuộc gặp ngắn lúc ăn sáng trong tuần: ông được nhờ mời Munger nói trong bữa trưa ngày thứ Tư 14 tháng 10 tại cuộc họp của Foundation Financial Officers Group, khi đó họp ở Los Angeles.
 
-**Thư của John C. Bogle**, chủ tịch cấp cao của Vanguard Group, ngày 9 tháng 12 năm 1998, gửi Munger ở hãng luật Munger, Tolles & Olson, Los Angeles. Bogle viết ông rất vui khi đọc bản báo cáo khen ngợi của Barton Biggs về bài nói ngày 14 tháng 10. Ông gần như ngại khi tự đặt mình cạnh Munger, nhưng ông chia sẻ gần như mọi ý của Munger, và sẽ rất biết ơn nếu Munger gửi cho ông một bản bài nói. Ông đã quen Warren Buffett nhiều năm, và gần đây quen Bob Denham, người cùng ông làm thành viên Independence Standards Board; ông rất ấn tượng với tài năng Denham đem tới nhóm đó, và mong một ngày được gặp Munger. Người biên tập đặt ảnh của Argue và Bogle cạnh hai bức thư. (Theo hiểu biết của người tổng hợp, Bogle là người sáng lập Vanguard và người tiên phong đưa quỹ chỉ số tới nhà đầu tư cá nhân, nên sự đồng tình của ông với lựa chọn 1 là tự nhiên; Barton Biggs là chiến lược gia nổi tiếng của Morgan Stanley; Robert Denham là luật sư cùng hãng Munger, Tolles & Olson và từng làm tổng giám đốc Salomon.)
+Nhóm gồm các giám đốc đầu tư và giám đốc tài chính của phần lớn các quỹ tư nhân lớn ở Mỹ, cùng đại diện khoảng 130 tỷ USD tài sản đầu tư; ngoài ra còn có đại diện một số quỹ nổi tiếng ở châu Âu. Mục đích của nhóm là chia sẻ kiến thức và kinh nghiệm đầu tư, và xây một mạng lưới vững để giúp nhau "tách lúa khỏi trấu" trong vô số quyết định đầu tư phải đưa ra.
+
+Cuộc họp diễn ra ở khách sạn Miramar Sheraton, Santa Monica, do Amateur Athletic Foundation, Conrad Hilton Foundation, J. Paul Getty Trust và Rio Hondo Foundation tổ chức. Chủ đề hội nghị là mức giá cao ngất hiện nay của thị trường cổ phiếu vốn hoá lớn ở Mỹ và tìm các phương án thay thế thị trường này.
+
+Argue viết Munger được tự do chọn đề tài; ông nghĩ người nghe sẵn lòng bị thách thức bằng những quan điểm mạnh hình thành từ kinh nghiệm đầu tư phong phú của Munger. Cùng chương trình có Barry Munitz, tân lãnh đạo của Getty. Argue khẩn khoản đề nghị Munger nhận lời: ông có rất nhiều điều để trao cho các giám đốc này, và họ cần lời khuyên của ông; Munger cũng sẽ ở trong nhóm diễn giả và đơn vị tài trợ rất xứng tầm.
+
+**Thư của John C. Bogle**, chủ tịch cấp cao của Vanguard Group, ngày 9 tháng 12 năm 1998, gửi Munger ở hãng luật Munger, Tolles & Olson, Los Angeles. Bogle viết ông rất vui khi đọc bản báo cáo khen ngợi của Barton Biggs về bài nói ngày 14 tháng 10. Ông gần như ngại khi tự đặt mình cạnh Munger, nhưng ông chia sẻ gần như mọi ý của Munger, và sẽ rất biết ơn nếu Munger gửi cho ông một bản bài nói.
+
+Ông đã quen Warren Buffett nhiều năm, và gần đây quen Bob Denham, người cùng ông làm thành viên Independence Standards Board; ông rất ấn tượng với tài năng Denham đem tới nhóm đó, và mong một ngày được gặp Munger. Người biên tập đặt ảnh của Argue và Bogle cạnh hai bức thư. (Theo hiểu biết của người tổng hợp, Bogle là người sáng lập Vanguard và người tiên phong đưa quỹ chỉ số tới nhà đầu tư cá nhân, nên sự đồng tình của ông với lựa chọn 1 là tự nhiên; Barton Biggs là chiến lược gia nổi tiếng của Morgan Stanley; Robert Denham là luật sư cùng hãng Munger, Tolles & Olson và từng làm tổng giám đốc Salomon.)
 
 ### 15. Hộp bên lề của người biên tập: "Nothing to Add" Number Five (trang in 339)
 
 Sách có một loạt mục ngắn mang tên "Nothing to Add" ("Không có gì để bổ sung", câu Munger hay nói ở đại hội cổ đông khi Buffett vừa trả lời xong). Mục số 5 tiếp tục với một câu hỏi về nghệ thuật biểu diễn. Hỏi: "Ông có chơi piano không?" Đáp: "Tôi không biết. Tôi chưa bao giờ thử."
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Một quỹ học bổng có 1.000 tỷ đồng, mỗi năm phải chi 5% (50 tỷ đồng) cho học bổng. Ban đầu tư của quỹ được các công ty tư vấn chào hai phương án. Phương án A: thuê một đơn vị tư vấn chọn năm quỹ đầu tư khác nhau (một quỹ cổ phiếu tăng trưởng, một quỹ cổ phiếu giá trị, một quỹ trái phiếu, một quỹ nước ngoài, một quỹ đầu tư tư nhân), mỗi quỹ thu phí quản lý 1,5–2% mỗi năm, cộng phí tư vấn 0,3% và chi phí giao dịch do các quỹ mua bán nhiều; tổng **phần thu của nhà cái** khoảng 2,5% mỗi năm, tức 25 tỷ đồng, một khoản không nằm thành một dòng nào trên báo cáo của quỹ vì phí đã trừ thẳng vào giá chứng chỉ quỹ. Phương án B: mua một quỹ chỉ số với chi phí 0,5% và nắm lâu dài. Ban đầu tư làm **phép số học** của Munger: nếu cổ phiếu đem lại lợi suất thực 6% mỗi năm, phương án A còn 6 − 2,5 − 5 = −1,5% mỗi năm, tức sau 20 năm quỹ còn khoảng 74% sức mua; phương án B còn 6 − 0,5 − 5 = +0,5% mỗi năm, tức sau 20 năm quỹ có khoảng 110% sức mua. Để phương án A tốt hơn, các nhà quản lý phải thắng thị trường 2% mỗi năm trong 20 năm, sau phí; ban đầu tư nhớ rằng **tổng thể nhà đầu tư thua thị trường đúng bằng tổng phí**, và rằng công ty tư vấn nào cũng nói mình hơn trung bình (**tự tin quá mức**, **thiên lệch do động cơ khuyến khích**). Quỹ đầu tư tư nhân trong phương án A dùng nhiều nợ để mua doanh nghiệp; ban đầu tư nhận ra nó sẽ giảm mạnh đúng lúc cổ phiếu niêm yết giảm (**tương quan ẩn**). Một thành viên ban đề xuất phương án C theo **cách của Berkshire**: giữ lâu dài bốn cổ phiếu của các doanh nghiệp lớn trong nước mà ban hiểu rõ và ngưỡng mộ, chi phí gần như bằng 0; ban chấp nhận rằng có năm quỹ sẽ kém chỉ số (**tự bảo hiểm** thay vì trả phí đa dạng hoá), nhưng đặt điều kiện: chỉ chọn doanh nghiệp có quản trị tôn trọng cổ đông nhỏ, vì Munger nhấn mạnh luật lệ và văn hoá bảo vệ cổ đông là yếu tố không đo bằng công thức được mà vẫn quan trọng.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Một quỹ học bổng có 1.000 tỷ đồng, mỗi năm phải chi 5% (50 tỷ đồng) cho học bổng. Ban đầu tư của quỹ được các công ty tư vấn chào hai phương án.
+
+Phương án A: thuê một đơn vị tư vấn chọn năm quỹ đầu tư khác nhau (một quỹ cổ phiếu tăng trưởng, một quỹ cổ phiếu giá trị, một quỹ trái phiếu, một quỹ nước ngoài, một quỹ đầu tư tư nhân), mỗi quỹ thu phí quản lý 1,5–2% mỗi năm, cộng phí tư vấn 0,3% và chi phí giao dịch do các quỹ mua bán nhiều; tổng **phần thu của nhà cái** khoảng 2,5% mỗi năm, tức 25 tỷ đồng, một khoản không nằm thành một dòng nào trên báo cáo của quỹ vì phí đã trừ thẳng vào giá chứng chỉ quỹ. Phương án B: mua một quỹ chỉ số với chi phí 0,5% và nắm lâu dài.
+
+Ban đầu tư làm **phép số học** của Munger: nếu cổ phiếu đem lại lợi suất thực 6% mỗi năm, phương án A còn 6 − 2,5 − 5 = −1,5% mỗi năm, tức sau 20 năm quỹ còn khoảng 74% sức mua; phương án B còn 6 − 0,5 − 5 = +0,5% mỗi năm, tức sau 20 năm quỹ có khoảng 110% sức mua.
+
+Để phương án A tốt hơn, các nhà quản lý phải thắng thị trường 2% mỗi năm trong 20 năm, sau phí; ban đầu tư nhớ rằng **tổng thể nhà đầu tư thua thị trường đúng bằng tổng phí**, và rằng công ty tư vấn nào cũng nói mình hơn trung bình (**tự tin quá mức**, **thiên lệch do động cơ khuyến khích**).
+
+Quỹ đầu tư tư nhân trong phương án A dùng nhiều nợ để mua doanh nghiệp; ban đầu tư nhận ra nó sẽ giảm mạnh đúng lúc cổ phiếu niêm yết giảm (**tương quan ẩn**).
+
+Một thành viên ban đề xuất phương án C theo **cách của Berkshire**: giữ lâu dài bốn cổ phiếu của các doanh nghiệp lớn trong nước mà ban hiểu rõ và ngưỡng mộ, chi phí gần như bằng 0; ban chấp nhận rằng có năm quỹ sẽ kém chỉ số (**tự bảo hiểm** thay vì trả phí đa dạng hoá), nhưng đặt điều kiện: chỉ chọn doanh nghiệp có quản trị tôn trọng cổ đông nhỏ, vì Munger nhấn mạnh luật lệ và văn hoá bảo vệ cổ đông là yếu tố không đo bằng công thức được mà vẫn quan trọng.
 
 ## Luận điểm cốt lõi
 
@@ -989,19 +1050,31 @@ Với một quỹ từ thiện, chi phí đầu tư là khoản hao hụt chắc
 
 ### Sức mạnh của bài là một phép trừ đơn giản mà người nghe không thể cãi
 
-Bài nói không cần mô hình hay số liệu thống kê; nó dựa vào phép tính 5 − 3 − 5 = −3 và vào một đẳng thức kế toán: tổng thể nhà đầu tư là thị trường, nên sau phí họ thua thị trường đúng bằng phí. Cả hai đều đúng theo định nghĩa, nên người nghe chỉ có thể phản bác bằng cách nói "quỹ của tôi sẽ hơn trung bình", và Munger đã chặn trước lối đó bằng tâm lý tự tin quá mức (người lái xe Thuỵ Điển, GM, LTCM). Đây là cách áp dụng đúng điều ông dạy ở Bài 2: dùng những ý tưởng lớn, đơn giản của nhiều ngành (số học, tâm lý học) thay vì đi vào chi tiết kỹ thuật mà người nghe giỏi hơn ông. Về sau, các nghiên cứu về hiệu quả của các quỹ chủ động sau phí đã ủng hộ phần lớn lập luận về chi phí.
+Bài nói không cần mô hình hay số liệu thống kê; nó dựa vào phép tính 5 − 3 − 5 = −3 và vào một đẳng thức kế toán: tổng thể nhà đầu tư là thị trường, nên sau phí họ thua thị trường đúng bằng phí. Cả hai đều đúng theo định nghĩa, nên người nghe chỉ có thể phản bác bằng cách nói "quỹ của tôi sẽ hơn trung bình", và Munger đã chặn trước lối đó bằng tâm lý tự tin quá mức (người lái xe Thuỵ Điển, GM, LTCM).
+
+Đây là cách áp dụng đúng điều ông dạy ở Bài 2: dùng những ý tưởng lớn, đơn giản của nhiều ngành (số học, tâm lý học) thay vì đi vào chi tiết kỹ thuật mà người nghe giỏi hơn ông. Về sau, các nghiên cứu về hiệu quả của các quỹ chủ động sau phí đã ủng hộ phần lớn lập luận về chi phí.
 
 ### Lời khuyên tập trung khó áp dụng hơn nhiều so với lời khuyên đầu tư theo chỉ số
 
-Munger nói rõ lựa chọn 2 chỉ dành cho người "đủ khôn để chỉ số không phải là cách hợp lý"; nhưng chính lập luận về tự tin quá mức của ông cho thấy hầu như quỹ nào cũng tin mình thuộc nhóm đó. Ví dụ các quỹ Woodruff với Coca-Cola là ví dụ của người sống sót: có nhiều quỹ khác giữ cổ phiếu người sáng lập rồi mất phần lớn tài sản khi công ty suy tàn (theo hiểu biết của người tổng hợp, chính Coca-Cola đã có hơn một thập niên giá cổ phiếu đi ngang sau 1998, và nhiều cổ phiếu "đáng ngưỡng mộ" của thập niên 1990 đã giảm mạnh). Câu "ba công ty Mỹ tốt là giàu chắc chắn" cũng mặc định khả năng chọn đúng ba công ty và chịu được những năm giảm sâu. Bài nói không cho người nghe một tiêu chí để tự kiểm tra mình có thật đủ năng lực hay không; vì vậy, với phần đông người nghe, lời khuyên khả thi nhất thật ra là lựa chọn 1.
+Munger nói rõ lựa chọn 2 chỉ dành cho người "đủ khôn để chỉ số không phải là cách hợp lý"; nhưng chính lập luận về tự tin quá mức của ông cho thấy hầu như quỹ nào cũng tin mình thuộc nhóm đó. Ví dụ các quỹ Woodruff với Coca-Cola là ví dụ của người sống sót: có nhiều quỹ khác giữ cổ phiếu người sáng lập rồi mất phần lớn tài sản khi công ty suy tàn (theo hiểu biết của người tổng hợp, chính Coca-Cola đã có hơn một thập niên giá cổ phiếu đi ngang sau 1998, và nhiều cổ phiếu "đáng ngưỡng mộ" của thập niên 1990 đã giảm mạnh).
+
+Câu "ba công ty Mỹ tốt là giàu chắc chắn" cũng mặc định khả năng chọn đúng ba công ty và chịu được những năm giảm sâu. Bài nói không cho người nghe một tiêu chí để tự kiểm tra mình có thật đủ năng lực hay không; vì vậy, với phần đông người nghe, lời khuyên khả thi nhất thật ra là lựa chọn 1.
 
 ### Những gì đã thay đổi từ 1998: chỉ số thắng thế, còn "mô hình Yale" và tài sản thay thế cũng lớn lên
 
-Theo hiểu biết của người tổng hợp, sau 1998 có hai xu hướng song song đúng như Munger mô tả năm 2006. Đầu tư theo chỉ số và quỹ ETF chi phí thấp lớn lên rất mạnh, tới mức đầu tư thụ động chiếm tỷ trọng ngày càng lớn trong quỹ cổ phiếu ở Mỹ, và người ta bắt đầu bàn đúng câu hỏi Munger nêu: điều gì xảy ra nếu gần như ai cũng đầu tư chỉ số. Đồng thời, "mô hình Yale" (nhiều tài sản thay thế: quỹ đầu tư tư nhân, quỹ phòng hộ, quỹ mạo hiểm), do David Swensen xây dựng, được nhiều quỹ đại học và quỹ từ thiện bắt chước; quy mô ngành quỹ đầu tư tư nhân và LBO tăng gấp nhiều lần. Cảnh báo về tương quan ẩn của LBO được kiểm chứng phần nào trong khủng hoảng 2008, khi nhiều quỹ đại học gặp khó thanh khoản. Mặt khác, chi phí giao dịch trực tiếp (hoa hồng, chênh lệch giá) giảm mạnh nhờ giao dịch điện tử, nên khoản 3% hôm nay chủ yếu nằm ở phí quản lý và phần chia lãi, không còn ở hoa hồng. Hai ví dụ của bài cũng đã đổi: Gillette thuộc P&G từ 2005, và Berkshire về sau có đầu tư trực tiếp ra nước ngoài (theo hiểu biết của người tổng hợp, như cổ phiếu PetroChina, BYD, và các công ty thương mại Nhật Bản).
+Theo hiểu biết của người tổng hợp, sau 1998 có hai xu hướng song song đúng như Munger mô tả năm 2006. Đầu tư theo chỉ số và quỹ ETF chi phí thấp lớn lên rất mạnh, tới mức đầu tư thụ động chiếm tỷ trọng ngày càng lớn trong quỹ cổ phiếu ở Mỹ, và người ta bắt đầu bàn đúng câu hỏi Munger nêu: điều gì xảy ra nếu gần như ai cũng đầu tư chỉ số.
+
+Đồng thời, "mô hình Yale" (nhiều tài sản thay thế: quỹ đầu tư tư nhân, quỹ phòng hộ, quỹ mạo hiểm), do David Swensen xây dựng, được nhiều quỹ đại học và quỹ từ thiện bắt chước; quy mô ngành quỹ đầu tư tư nhân và LBO tăng gấp nhiều lần. Cảnh báo về tương quan ẩn của LBO được kiểm chứng phần nào trong khủng hoảng 2008, khi nhiều quỹ đại học gặp khó thanh khoản.
+
+Mặt khác, chi phí giao dịch trực tiếp (hoa hồng, chênh lệch giá) giảm mạnh nhờ giao dịch điện tử, nên khoản 3% hôm nay chủ yếu nằm ở phí quản lý và phần chia lãi, không còn ở hoa hồng. Hai ví dụ của bài cũng đã đổi: Gillette thuộc P&G từ 2005, và Berkshire về sau có đầu tư trực tiếp ra nước ngoài (theo hiểu biết của người tổng hợp, như cổ phiếu PetroChina, BYD, và các công ty thương mại Nhật Bản).
 
 ### Quan điểm trái chiều: đa dạng hoá và đầu tư nước ngoài có lý do riêng của chúng
 
-Những người bênh vực cách làm chính thống sẽ nói: quỹ từ thiện tồn tại vô thời hạn và phải chi tiền đều đặn mỗi năm, nên một cú giảm 50% của danh mục tập trung có thể buộc quỹ cắt chương trình đúng lúc xã hội cần nhất; với họ, đa dạng hoá là cách giữ dòng chi ổn định, không chỉ là bảo hiểm cho "ảnh hưởng tương đối". Thiên lệch về nước Mỹ của Munger cũng đã được kiểm chứng tốt trong thời của ông, nhưng một nhà đầu tư Nhật năm 1989 dùng cùng lập luận "nước tôi bảo vệ cổ đông tốt" cho thị trường của mình sẽ có kết quả rất tệ trong vài thập niên sau. Ngoài ra, một số quỹ đại học dẫn đầu (như Yale) đã đạt kết quả dài hạn tốt với mô hình nhiều tầng, nhờ quy mô và khả năng chọn quỹ thật sự giỏi; Munger đúng với quỹ trung bình, nhưng nhóm dẫn đầu có thể là ngoại lệ thật. Cuối cùng, lập luận đạo đức về "chất xám trẻ" khó chứng minh bằng số, và những người làm quản lý tiền có thể đáp rằng việc phân bổ vốn và định giá tài sản cũng là đóng góp cho xã hội.
+Những người bênh vực cách làm chính thống sẽ nói: quỹ từ thiện tồn tại vô thời hạn và phải chi tiền đều đặn mỗi năm, nên một cú giảm 50% của danh mục tập trung có thể buộc quỹ cắt chương trình đúng lúc xã hội cần nhất; với họ, đa dạng hoá là cách giữ dòng chi ổn định, không chỉ là bảo hiểm cho "ảnh hưởng tương đối".
+
+Thiên lệch về nước Mỹ của Munger cũng đã được kiểm chứng tốt trong thời của ông, nhưng một nhà đầu tư Nhật năm 1989 dùng cùng lập luận "nước tôi bảo vệ cổ đông tốt" cho thị trường của mình sẽ có kết quả rất tệ trong vài thập niên sau.
+
+Ngoài ra, một số quỹ đại học dẫn đầu (như Yale) đã đạt kết quả dài hạn tốt với mô hình nhiều tầng, nhờ quy mô và khả năng chọn quỹ thật sự giỏi; Munger đúng với quỹ trung bình, nhưng nhóm dẫn đầu có thể là ngoại lệ thật. Cuối cùng, lập luận đạo đức về "chất xám trẻ" khó chứng minh bằng số, và những người làm quản lý tiền có thể đáp rằng việc phân bổ vốn và định giá tài sản cũng là đóng góp cho xã hội.
 
 ### Lập luận đạo đức ở cuối bài là điều hiếm thấy và là điểm nối với phần còn lại của cuốn sách
 
@@ -1012,4 +1085,190 @@ Những người bênh vực cách làm chính thống sẽ nói: quỹ từ thi
 - **Trong đầu tư.** Cộng mọi lớp chi phí (phí quản lý, phí tư vấn, phí giao dịch, phí của quỹ trong quỹ, phần chia lãi) thành một con số phần trăm mỗi năm, rồi trừ nó khỏi một mức lợi suất kỳ vọng thực tế, không phải mức của những năm tốt nhất. Nếu không có lý do mạnh để tin mình hay người mình thuê sẽ thắng thị trường sau phí, hãy dùng quỹ chỉ số chi phí thấp. Nếu chọn tập trung, chỉ chọn số ít doanh nghiệp mình thật hiểu, nắm lâu, mua bán ít, và chuẩn bị tinh thần cho những năm kém chỉ số. Coi quỹ dùng nhiều nợ là một dạng cổ phiếu có đòn bẩy, không phải tài sản "đa dạng hoá".
 - **Trong doanh nghiệp và nghề nghiệp.** Với mọi tầng tư vấn, đại lý, môi giới, hãy hỏi họ được trả bằng gì và có động cơ làm gì (thêm giao dịch, thêm sản phẩm); thiết kế cách trả phí để người phục vụ phục vụ chủ. Khi một quy trình ra quyết định rất công phu (khảo sát, mô hình), hãy cố ý tìm lỗi của nó và đi quan sát trực tiếp, như các đối thủ của GM đã nhìn người ta lên xuống xe. Khi chọn nghề, có thể tự hỏi câu Munger hỏi chính mình: mình trao lại cho xã hội tương xứng với những gì mình nhận không.
 - **Trong ra quyết định cá nhân.** Nhớ rằng ai cũng tin mình hơn trung bình; nguyên tắc của Feynman ("đừng tự lừa mình") là công cụ chống lại điều đó. Đánh giá các rủi ro khó đo (luật lệ, văn hoá, đạo đức của người điều hành) dù chúng không có trong bảng tính. Với rủi ro mình chịu được, cân nhắc tự bảo hiểm thay vì trả giá cao để tránh nó.
-- **Ở Việt Nam.** Các quỹ mở, quỹ ETF, sản phẩm đầu tư của ngân hàng và công ty bảo hiểm (như bảo hiểm liên kết đầu tư) thường có nhiều lớp phí khó thấy; người đầu tư nên đọc kỹ biểu phí và cộng đủ trước khi so với lợi suất. Lời cảnh báo về môi giới khuyến khích giao dịch nhiều và về khuyến nghị của bên có lợi ích (công ty phát hành, đơn vị bảo lãnh) áp dụng trực tiếp. Lập luận của Munger về luật lệ và văn hoá bảo vệ cổ đông nhỏ là câu hỏi đáng đặt ra trước khi tập trung vốn vào bất kỳ doanh nghiệp nào: quản trị công ty, minh bạch thông tin và cách đối xử với cổ đông thiểu số. Các quỹ từ thiện, quỹ khuyến học, quỹ của trường học có thể dùng phép tính "lợi suất trừ chi phí trừ phần chi" để kiểm tra quỹ có giữ được sức mua về lâu dài hay không.
+- **Ở Việt Nam.** Các quỹ mở, quỹ ETF, sản phẩm đầu tư của ngân hàng và công ty bảo hiểm (như bảo hiểm liên kết đầu tư) thường có nhiều lớp phí khó thấy; người đầu tư nên đọc kỹ biểu phí và cộng đủ trước khi so với lợi suất. Lời cảnh báo về môi giới khuyến khích giao dịch nhiều và về khuyến nghị của bên có lợi ích (công ty phát hành, đơn vị bảo lãnh) áp dụng trực tiếp.
+
+  Lập luận của Munger về luật lệ và văn hoá bảo vệ cổ đông nhỏ là câu hỏi đáng đặt ra trước khi tập trung vốn vào bất kỳ doanh nghiệp nào: quản trị công ty, minh bạch thông tin và cách đối xử với cổ đông thiểu số. Các quỹ từ thiện, quỹ khuyến học, quỹ của trường học có thể dùng phép tính "lợi suất trừ chi phí trừ phần chi" để kiểm tra quỹ có giữ được sức mua về lâu dài hay không.
+
+## Bản đồ tư duy
+
+Toàn cảnh Bài 6 trên một trang: sáu nhánh lớn đi theo các mục 1–15 của phần Nội dung chi tiết (bộ máy quỹ của các quỹ và chi phí ẩn, phép số học của phần thu nhà cái, tự tin quá mức và cách phòng vệ của Feynman, ba lựa chọn hiện đại cùng đánh giá chỉ số và quỹ LBO, mức đa dạng hoá đủ dùng, lập luận đạo đức và phần nhìn lại năm 2006), mỗi nhánh ghi luận điểm, ví dụ và con số then chốt của Munger; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Bài 6: tổng phí của bộ máy đầu tư nhiều tầng là hao hụt chắc chắn, lợi suất vượt trội nó hứa thì không chắc`"]
+  n1["`Mục 1–4 — Các quỹ trôi sang mô hình quỹ của các quỹ, chi phí đầy đủ không hiện trên sổ`"]
+  n0 --- n1
+  n2["`Trước đây quỹ lớn mua cổ phiếu trong nước, không vay, do một hoặc rất ít công ty tư vấn chọn`"]
+  n1 --- n2
+  n3["`Theo chân Yale, nhiều quỹ thành phiên bản tốt hơn của quỹ của các quỹ của Bernie Cornfeld`"]
+  n1 --- n3
+  n4["`Cornfeld lập IOS ở Thuỵ Sĩ, huy động 2,5 tỷ USD, tiêu xài xa hoa rồi thân bại danh liệt`"]
+  n3 --- n4
+  n5["`Tầng tư vấn thứ hai: chọn tư vấn, chia nhóm tài sản, đa dạng hoá thêm theo độ biến động và beta`"]
+  n1 --- n5
+  n6["`Tầng thứ ba: chuyên viên phân tích của ngân hàng đầu tư, lương có khi tới bảy chữ số`"]
+  n1 --- n6
+  n7["`Lương trả bằng hoa hồng, chênh lệch giá, đô la mềm và phí ngân hàng đầu tư của công ty phát hành`"]
+  n6 --- n7
+  n8["`Phí mọi tầng cộng chi phí ma sát của mua bán thường xuyên dễ dàng lên tới 3% tài sản ròng mỗi năm`"]
+  n1 --- n8
+  n9["`Kế toán không cho thấy chi phí đầy đủ vì kế toán có giới hạn, không phải vì chi phí không có`"]
+  n1 --- n9
+  n10["`Carl Braun: người kế toán lấy thứ dễ bày trước mặt, không vươn tới thứ thực sự quan trọng`"]
+  n9 --- n10
+  n11["`Mục 5 — Một chút số học: phần thu của nhà cái`"]
+  n0 --- n11
+  n12["`Trả người hồ lì 3% mỗi năm không đau khi lợi suất thực gộp khoảng 17% như những năm gần 1998`"]
+  n11 --- n12
+  n13["`17% − 3% − 5% chi cho từ thiện: tài sản thực của quỹ tăng khoảng 9% mỗi năm`"]
+  n11 --- n13
+  n14["`Nếu lợi suất thực về khoảng 5%: 5 − 3 − 5 nghĩa là quỹ co lại 3% mỗi năm`"]
+  n11 --- n14
+  n15["`Co 3% mỗi năm thì sau 20 năm quỹ chỉ còn khoảng 54% sức mua ban đầu`"]
+  n14 --- n15
+  n16["`Với chi phí kiểu Berkshire dưới 0,1%, quỹ chỉ co khoảng 0,1% mỗi năm`"]
+  n14 --- n16
+  n17["`Tổng thể nhà đầu tư cổ phiếu thua thị trường đúng bằng tổng phí nhà cái họ cùng gánh`"]
+  n11 --- n17
+  n18["`Đúng một nửa dưới mức trung vị sau phí, và trung vị nằm giữa nhạt nhẽo và tệ hại`"]
+  n11 --- n18
+  n19["`Mức chi 5% ứng với luật thuế Mỹ buộc quỹ tư nhân chi tối thiểu khoảng 5% tài sản mỗi năm`"]
+  n11 --- n19
+  n20["`Mục 6–7 — Ai cũng nghĩ mình hơn trung bình, và cách phòng vệ của Feynman`"]
+  n0 --- n20
+  n21["`Demosthenes: điều người ta mong muốn, người ta sẽ tin`"]
+  n20 --- n21
+  n22["`90% người lái xe Thuỵ Điển cho rằng mình lái giỏi hơn trung bình`"]
+  n20 --- n22
+  n23["`Người bán dịch vụ đầu tư còn tự tin tới mức người lái xe Thuỵ Điển trông như người trầm cảm`"]
+  n22 --- n23
+  n24["`Sự thừa tính chuyên nghiệp gây hại vì chính quy trình cẩn thận làm người ta quá tự tin`"]
+  n20 --- n24
+  n25["`GM tin khảo sát tinh vi, không làm cửa thứ tư cho xe tải năm chỗ, đốt nhiều trăm triệu USD`"]
+  n20 --- n25
+  n26["`Đối thủ quan sát năm người lên xuống xe: sinh vật ghét bị lấy đi tiện ích đã quen`"]
+  n25 --- n26
+  n27["`LTCM sụp đổ vì đòn bẩy rất cao dù IQ trung bình của người điều hành khoảng 160`"]
+  n20 --- n27
+  n28["`Lập năm 1994, nợ khoảng 125 tỷ USD, Fed tổ chức cứu quỹ: bài học về rủi ro thanh khoản`"]
+  n27 --- n28
+  n29["`Feynman: nguyên tắc đầu tiên là không tự lừa mình, và bạn là người dễ bị lừa nhất`"]
+  n20 --- n29
+  n30["`Mục 7–8 — Ba lựa chọn hiện đại, đánh giá chỉ số và quỹ LBO`"]
+  n0 --- n30
+  n31["`Lựa chọn 1: bỏ tư vấn, giảm vòng quay danh mục, đầu tư cổ phiếu theo chỉ số`"]
+  n30 --- n31
+  n32["`Khôn hơn cho quỹ trung bình, nhất là khi chi phí hiện tại vượt 1% vốn gốc mỗi năm`"]
+  n31 --- n32
+  n33["`Chỉ số không thể hiệu quả mãi nếu ai cũng làm, nhưng sẽ hiệu quả trong thời gian dài`"]
+  n31 --- n33
+  n34["`Lựa chọn 2: như Berkshire, nắm gần như bất động rất ít công ty Mỹ đáng ngưỡng mộ, phí dưới 0,1%`"]
+  n30 --- n34
+  n35["`Dùng tư vấn được nếu kiểm soát để họ phục vụ chủ, không tự phục vụ như Tiệc trà của Gã Thợ Mũ Điên`"]
+  n34 --- n35
+  n36["`Lựa chọn 3: thêm quỹ hợp danh mạo hiểm, LBO, giao dịch hội tụ có vay, Munger Foundation không làm`"]
+  n30 --- n36
+  n37["`Quỹ LBO thực chất là mua thứ tương đương cổ phiếu bằng tiền vay ký quỹ, kèm hai lớp chia lãi`"]
+  n36 --- n37
+  n38["`Tương quan ẩn: LBO và cổ phiếu niêm yết cùng đi tới thảm hoạ khi kinh tế xấu`"]
+  n36 --- n38
+  n39["`Siêu cạnh tranh: GE Capital mua hơn 10 tỷ USD mỗi năm, vay 100%, lãi gần lãi suất chính phủ`"]
+  n36 --- n39
+  n40["`Mục 9–10 — Lựa chọn 2: đa dạng hoá bao nhiêu là đủ`"]
+  n0 --- n40
+  n41["`Quan điểm chính thống phải đa dạng hoá thật rộng là sai nặng với người đủ khôn để không cần chỉ số`"]
+  n40 --- n41
+  n42["`Ở Mỹ, đặt gần hết tài sản lâu dài vào chỉ ba công ty tốt là giàu một cách chắc chắn`"]
+  n40 --- n42
+  n43["`Berkshire vượt trội nhờ chi phí thấp, buộc phải nhìn dài hạn, tập trung vào lựa chọn ưa nhất`"]
+  n42 --- n43
+  n44["`Đôi khi 90% vào một cổ phiếu là hợp lý: các quỹ Woodruff giữ khoảng 90% cổ phiếu Coca-Cola`"]
+  n40 --- n44
+  n45["`Nhiều quỹ Mỹ sẽ khá hơn nếu chưa bao giờ bán cổ phiếu của người sáng lập`"]
+  n44 --- n45
+  n46["`Tổ chức giàu nên tự bảo hiểm nhiều, mất bớt ảnh hưởng tương đối không phải thảm hoạ`"]
+  n40 --- n46
+  n47["`Phần lớn điều tốt do kinh doanh của công ty tốt tạo ra, Franklin buộc quỹ di chúc đầu tư tập trung`"]
+  n40 --- n47
+  n48["`Đồng ý với Drucker: luật và văn hoá Mỹ ưu ái cổ đông hơn phần lớn các nước khác`"]
+  n40 --- n48
+  n49["`Yếu tố quan trọng không mất sức nặng chỉ vì chuyên gia đo yếu tố khác dễ hơn`"]
+  n48 --- n49
+  n50["`Berkshire ra nước ngoài qua Coca-Cola và Gillette thay vì đầu tư trực tiếp`"]
+  n48 --- n50
+  n51["`Mục 11–15 — Lập luận đạo đức, Franklin hay Cornfeld, nhìn lại năm 2006`"]
+  n0 --- n51
+  n52["`Dự đoán: quỹ nào đầu tư giống Berkshire hơn sẽ khó có lý do hối tiếc về lâu dài`"]
+  n51 --- n52
+  n53["`Kể cả khi có lãi, nghề quản lý tiền phí cao hút chất xám trẻ khỏi việc tạo nhiều giá trị hơn`"]
+  n51 --- n53
+  n54["`Munger thời trẻ là hình mẫu tồi: trao lại cho văn minh chưa đủ so với giành từ chủ nghĩa tư bản`"]
+  n53 --- n54
+  n55["`Lựa chọn xây dựng hơn: tập trung, dài hạn vào ít công ty trong nước được ngưỡng mộ sáng suốt`"]
+  n51 --- n55
+  n56["`Chọn hình mẫu Ben Franklin, nhà đầu tư khá giỏi, không chọn hình mẫu Bernie Cornfeld`"]
+  n51 --- n56
+  n57["`Năm 2006: chi phí ma sát và chất xám làm kẻ mách nước đều tăng, đầu tư chỉ số chi phí thấp cũng tăng`"]
+  n51 --- n57
+  n58["`Buffett đùa: người cược ngựa sẽ luôn mang theo một kẻ mách nước riêng lương cao`"]
+  n57 --- n58
+  n59["`Thị trường như cá cược tổng góp: tìm cửa cược 50-50 mà trả 3 ăn 1`"]
+  n51 --- n59
+  n60["`Buffett tự nhận là người đánh giá cược theo trường phái hành trình, không theo tốc độ`"]
+  n59 --- n60
+  n61["`John Bogle của Vanguard viết thư nói chia sẻ gần như mọi ý của bài`"]
+  n51 --- n61
+  n62["`Thông điệp xuyên suốt`"]
+  n0 --- n62
+  n63["`Chi phí chắc chắn, lợi suất vượt trội không chắc: hãy tính đủ mọi lớp phí`"]
+  n62 --- n63
+  n64["`Hỏi ai được lợi từ lời khuyên: thiên lệch do động cơ khuyến khích nuôi bộ máy phức tạp`"]
+  n62 --- n64
+  n65["`Quỹ trung bình nên dùng chỉ số, chỉ quỹ thật đủ năng lực mới nên tập trung kiểu Berkshire`"]
+  n62 --- n65
+  n66["`Quỹ từ thiện phải làm gương, nên nghĩ tới hình mẫu nghề nghiệp mình đang nuôi trong xã hội`"]
+  n62 --- n66
+  class n0 root
+  class n1,n11,n20,n30,n40,n51,n62 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n12,n13,n14,n15,n16,n17,n18,n19,n21,n22,n23,n24,n25,n26,n27,n28,n29,n31,n32,n33,n34,n35,n36,n37,n38,n39,n41,n42,n43,n44,n45,n46,n47,n48,n49,n50,n52,n53,n54,n55,n56,n57,n58,n59,n60,n61,n63,n64,n65,n66 leaf
+```
+
+## Nguồn
+
+*Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger*, biên tập Peter D. Kaufman, The Donning Company Publishers, ấn bản mở rộng thứ ba (Expanded Third Edition, bản in lần thứ sáu, 2011), Chương 4 "Eleven Talks", Bài 6 ("Talk Six"), trang in 322–339. Gồm: lời dẫn của người biên tập (322), bài nói (323–334), trang tranh minh hoạ (335), phần Munger viết thêm năm 2006 "Talk Six Revisited" (336), hộp bên lề về cá cược đua ngựa (337), hai bức thư liên quan tới bài nói (338) và mục "Nothing to Add" số 5 (339).
+
+Bài nói được đọc trong bữa trưa ngày thứ Tư 14 tháng 10 năm 1998 tại khách sạn Miramar Sheraton, Santa Monica, bang California, trước **Foundation Financial Officers Group** (Nhóm giám đốc tài chính của các quỹ), tức các giám đốc đầu tư và giám đốc tài chính của phần lớn các quỹ tư nhân lớn ở Mỹ (cùng tổng cộng khoảng 130 tỷ USD tài sản đầu tư) và một số đại diện quỹ lớn ở châu Âu. Bốn đơn vị tài trợ: Conrad Hilton Foundation, Amateur Athletic Foundation, J. Paul Getty Trust và Rio Hondo Memorial Foundation.
+
+## Tác giả
+
+Charles T. Munger (1924–2023), phó chủ tịch Berkshire Hathaway, người lập quỹ từ thiện Munger Foundation; ông nhận lời nói theo đề nghị của luật sư John C. Argue. Lời dẫn, các hộp bên lề và chú thích ảnh là của người biên tập Peter D. Kaufman và nhóm biên soạn.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Bài 6 là bài đầu tiên trong Chương 4 nói thẳng về **nghề quản lý tiền của các tổ chức lớn**. Các bài trước đặt nền móng về cách nghĩ: Bài 2 và Bài 3 trình bày "trí tuệ thế gian" (*worldly wisdom*) và "mạng lưới mô hình tư duy" (*latticework of mental models*), trong đó có hình ảnh thị trường chứng khoán như hệ thống cá cược tổng góp ở trường đua ngựa; Bài 4 và Bài 5 bàn về tư duy thực tiễn và cách tránh sai lầm.
+
+Bài 6 đem các công cụ đó (phép tính số học đơn giản, tâm lý tự tin quá mức, thiên lệch do động cơ khuyến khích, chi phí cơ hội) áp vào một câu hỏi cụ thể: các quỹ từ thiện nên đầu tư tài sản ra sao.
+
+Bài 7 ("Philanthropy Roundtable") tiếp tục chủ đề quỹ từ thiện, nhưng chuyển sang câu hỏi nên **cho tiền** thế nào; Bài 8 ("The Great Financial Scandal of 2003") lại quay về sự tha hoá của giới tài chính. Lời phàn nàn ở cuối bài, rằng quá nhiều người trẻ giỏi bị hút vào nghề quản lý tiền, được Munger nhắc lại nhiều lần ở các phần sau của sách.
+
+## Lưu ý
+
+- **Bối cảnh thời điểm.** Bài nói năm 1998, sau gần hai thập niên thị trường cổ phiếu Mỹ tăng mạnh (con số "lợi suất thực 17% mỗi năm" là kết quả của những năm đó), vài tuần sau khi Long-Term Capital Management sụp đổ (tháng 9/1998) và trước khi bong bóng cổ phiếu công nghệ vỡ (2000–2002). Phần "Talk Six Revisited" Munger viết năm 2006 cho ấn bản sách. Bản PDF là lần in năm 2011.
+- **Lỗi OCR đã sửa khi đối chiếu ảnh trang.** Ngày thư mời của John Argue là 31/7/**1998** (OCR đọc thành "1993"); tổng tài sản của nhóm là khoảng **130 tỷ USD** (OCR đọc "5130 billion"); trong hộp bên lề về Cornfeld, "105 raised $2.5 billion" là "**IOS** raised $2.5 billion"; "Al-Sar-Ben" là trường đua **Ak-Sar-Ben** ở Omaha; "one-renth" là "one-tenth" (một phần mười); thư mời viết người cùng diễn thuyết là Barry Munitz, "tân lãnh đạo của Getty" (OCR bỏ mất mấy chữ cuối); thư của John Bogle xin "một bản bài nói" (dòng này bị OCR làm mất).
+- **Các hộp bên lề và tranh ảnh của người biên tập** được đưa vào đúng vị trí và ghi rõ là của người biên tập: tiểu sử John C. Argue (trang in 323), Bernie Cornfeld và IOS (324), Carl Braun (325), Long-Term Capital Management (329), Robert W. Woodruff (331), Peter F. Drucker (332), chú thích ảnh đội đua "Gillette Young Guns" (333), hộp "Handicapping Is Investing, Investing Is Handicapping" (337), hai bức thư (338), "Nothing to Add" số 5 (339).
+
+  Các câu trích Munger in chữ lớn bên lề chỉ lặp lại câu trong bài nên không tách riêng. Ảnh minh hoạ không có chữ (bàn roulette ở trang 326, logo Volvo và Saab ở 327, con báo nằm trên cành cây ở 328 minh hoạ câu "sinh vật thích giảm thiểu công sức", xấp tiền ở 330, ngựa đua ở 336) được nhắc ngắn.
+
+  Tranh ở trang 322 vẽ Munger đứng dưới hai chân dung Franklin và Cornfeld với dấu hỏi; tranh ở trang 335 vẽ Munger giơ ngón cái lên phía Franklin và chỉ ngón cái xuống phía Cornfeld (chân dung Cornfeld bị gạch chéo bằng biển cấm).
+- **Hộp bên lề trỏ sang trang khác của sách.** Hộp về Carl Braun ghi "xem trang 170" (thuộc Bài 2); hộp về cá cược đua ngựa ghi "xem trang 196 và 197" (thuộc Bài 2) và "trang 64" (thuộc Chương 2). Bản tổng hợp chép thẳng nội dung cần thiết và dẫn link sang các file tương ứng.
+- **Chỗ sách hoặc Munger có thể không chính xác (theo hiểu biết của người tổng hợp, không tra cứu).**
+  - Khảo sát người lái xe hay được dẫn là nghiên cứu của Ola Svenson (1981): khoảng 93% người lái xe Mỹ và khoảng 69% người lái xe Thuỵ Điển trong mẫu tự xếp mình giỏi hơn trung bình; con số "90% ở Thuỵ Điển" của Munger có lẽ là nhớ gộp.
+  - Hộp về LTCM ghi quỹ "mất gần 2 tỷ USD vốn trong vài tháng"; theo hiểu biết phổ biến, LTCM mất khoảng 4,6 tỷ USD trong chưa đầy bốn tháng năm 1998, và "khoản nợ khoảng 125 tỷ USD" thường được mô tả là tổng tài sản vay mượn trên khoảng 4–5 tỷ USD vốn chủ. Hộp cũng ghi Cục Dự trữ Liên bang "tổ chức cứu trợ": đúng là Fed New York đứng ra điều phối, nhưng tiền (khoảng 3,6 tỷ USD) do khoảng 14 ngân hàng và công ty chứng khoán tư nhân góp, không phải tiền của Fed.
+  - Chuyện General Motors bỏ cửa thứ tư: theo hiểu biết của người tổng hợp, đây là dòng xe bán tải cabin mở rộng cuối thập niên 1990, khi GM ra mẫu ba cửa trong lúc đối thủ (Ford, Dodge) đã có bốn cửa; sách không nêu tên mẫu xe.
+  - Hộp về Peter Drucker viết ở thì hiện tại ("sự nghiệp học thuật của ông bao gồm...") dù đề năm mất 2005, cho thấy hộp được viết khi Drucker còn sống.
+  - Gillette, công ty Munger nêu làm ví dụ, đã được Procter & Gamble mua năm 2005; Berkshire khi đó đổi cổ phần Gillette thành cổ phần P&G.
+- **Từ ngữ.** Munger dùng chữ "lollapalooza" về sai lầm của GM theo nghĩa "một sai lầm cực lớn", không hẳn theo nghĩa kỹ thuật "hiệu ứng Lollapalooza" (nhiều khuynh hướng cùng hướng gây kết quả cực đoan). Cụm "the full punctilio of honor" (sự chuẩn mực trọn vẹn của danh dự) có lẽ gợi lại câu nổi tiếng của thẩm phán Benjamin Cardozo trong vụ Meinhard kiện Salmon (1928) về nghĩa vụ trung thành của người được uỷ thác; đây là suy đoán của người tổng hợp.

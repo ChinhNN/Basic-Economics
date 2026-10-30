@@ -1,20 +1,33 @@
 # Bài 1 — Diễn văn tốt nghiệp trường Harvard School (Harvard School Commencement Speech)
 
-**Nguồn:** *Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger*, biên tập Peter D. Kaufman, The Donning Company Publishers, ấn bản mở rộng thứ ba (Expanded Third Edition), Chương 4 "Eleven Talks", Bài 1 "Talk One: Harvard School Commencement Speech", trang in 150–163. Bài nói được đọc ngày 13 tháng 6 năm 1986 tại lễ tốt nghiệp của Harvard School, một trường trung học tư thục dự bị đại học (prep school) dành cho nam sinh ở Los Angeles (sau này sáp nhập thành trường hỗn hợp nam nữ Harvard-Westlake). Người nghe là khoá tốt nghiệp năm 1986, trong đó có Philip Munger, người con trai thứ năm và cuối cùng trong gia đình Munger học ở trường này, cùng phụ huynh, giáo viên và hội đồng trường. Munger nói với tư cách một trong những thành viên hội đồng quản trị (trustee) lâu năm nhất của trường. Kèm theo bài có lời dẫn và lời bình của người biên tập, thư mời của hiệu trưởng, thư Munger gửi Johnny Carson và thư trả lời của Carson, phần "Talk One Revisited" do Munger viết năm 2006, và nhiều hộp bên lề.
-**Tác giả:** Charles T. Munger (1924–2023), luật sư, nhà đầu tư, phó chủ tịch Berkshire Hathaway; năm 1986 ông 62 tuổi. Lời dẫn, các hộp bên lề và chú thích ảnh là của người biên tập Peter D. Kaufman và nhóm biên tập.
-**Vị trí trong lập luận của cả cuốn sách:** Đây là bài mở đầu của Chương 4 "Eleven Talks" (Mười một bài nói), phần dài nhất của sách, nơi người đọc nghe chính giọng Munger sau khi Chương 1 kể về con người ông, Chương 2 tóm tắt cách ông sống, học và ra quyết định, và Chương 3 gom các câu nói ngẫu hứng của ông ở các đại hội cổ đông. Bài này ngắn, vui, gần như không nói về đầu tư, nhưng lần đầu tiên trình bày công khai công cụ tư duy mà Munger dùng suốt đời: **tư duy đảo ngược (inversion)**, tức là muốn biết cách đạt được một điều thì hãy nghiên cứu cách chắc chắn thất bại rồi tránh nó. Bài cũng nêu những giá trị cá nhân mà các bài sau nhắc lại nhiều lần: sự đáng tin cậy, học từ kinh nghiệm của người khác, kiên cường trước nghịch cảnh, khách quan và sẵn sàng phá bỏ ý tưởng của chính mình. Bài 2 "A Lesson on Elementary, Worldly Wisdom" (1994) mở rộng các ý này thành học thuyết về **trí tuệ thế gian (worldly wisdom)** và **mạng lưới mô hình tư duy (latticework of mental models)**; Bài 11 "The Psychology of Human Misjudgment" hệ thống hoá các khuynh hướng tâm lý mà bài này mới chạm tới (ghen tị, oán giận, xu hướng giữ nguyên kết luận cũ).
-**Ý chính:** Thay vì khuyên học sinh tốt nghiệp cách sống hạnh phúc như phần lớn diễn giả, Munger **đảo ngược câu hỏi**: ông liệt kê những cách bảo đảm một đời khổ sở, để người nghe tự rút ra điều phải tránh. Ông mượn khung từ một bài diễn văn tốt nghiệp của danh hài Johnny Carson ở cùng trường, gồm ba "toa thuốc bảo đảm khổ sở": (1) dùng hoá chất để thay đổi tâm trạng hay nhận thức, (2) ghen tị, (3) oán giận. Munger thêm bốn toa của riêng ông: thứ nhất, hãy là người không đáng tin cậy; thứ hai, chỉ học từ kinh nghiệm của chính mình, không học từ thành công và thất bại của người khác, và không học từ những công trình tốt nhất của người đi trước; thứ ba, gục ngã thì nằm luôn, không đứng dậy sau những cú vấp lớn; và cuối cùng, hãy coi thường phương pháp đảo ngược của anh nông dân muốn biết mình sẽ chết ở đâu để không bao giờ đến đó, đồng thời giảm thiểu sự khách quan. Các ví dụ trung tâm: bốn người bạn thân thời trẻ của Munger, hai người đã chết mà rượu là một nguyên nhân; người bạn cùng phòng mắc chứng khó đọc nặng nhưng cực kỳ đáng tin cậy và trở thành tổng giám đốc một tập đoàn hàng tỷ USD; Isaac Newton "đứng trên vai những người khổng lồ"; Epictetus, nô lệ tàn tật mà tự cho mình được thần linh ưu ái; nhà toán học Jacobi với câu "Đảo ngược, luôn đảo ngược"; Einstein sửa luật Newton cho khớp với Maxwell; và Darwin, người luôn ưu tiên tìm bằng chứng bác bỏ lý thuyết của mình. Hai mươi năm sau (2006), Munger viết rằng ông không sửa ý nào và càng tin rằng sự đáng tin cậy là điều kiện cốt yếu để tiến lên trong đời, và gần như ai cũng học được.
+## Ý chính
 
-> **Lưu ý:**
-> - Văn bản OCR khá sạch; các lỗi nhỏ không ảnh hưởng nghĩa ("secking" là seeking, "Tivo" là Two, "jeins" là joins, "cook pleasure" là took pleasure, "medioere" là mediocre, "suceeed" là succeed, "Lalso/Lam" là I also/I am). Thư mời của hiệu trưởng bị OCR đọc thiếu nhiều chữ; bản tổng hợp đã đối chiếu với ảnh trang (trang in 160) để chép đủ nội dung, ví dụ "add a little luster to the proceedings", "the politicians were as evasive as you might suppose", "with as much persuasion as I can muster". Tên "Charles T. Hunger" ở chữ ký thư gửi Carson là lỗi OCR của "Munger".
-> - Câu trích Cicero và Demosthenes, câu của Samuel Johnson về *Paradise Lost* (nguyên văn của Johnson trong *Lives of the Poets* là "None ever wished it longer than it is"), câu của Solon với Croesus, văn bia Epictetus đều là các giai thoại cổ được Munger kể theo trí nhớ. Theo hiểu biết của người tổng hợp: Solon là nhà lập pháp và nhà thơ Athens, không phải "sử gia" như Munger gọi (câu chuyện được sử gia Herodotus ghi lại); văn bia "nô lệ, tàn tật, nghèo khó, được thần linh ưu ái" được giới nghiên cứu coi là một bài thơ khuyết danh trong Tuyển tập thơ Hy Lạp (Greek Anthology), không chắc do chính Epictetus viết.
-> - Hộp bên lề về Croesus ghi năm "about 546 BC" dưới tên ông như một năm duy nhất, và nói Croesus "được cho là đã tự lao lên giàn hoả". Theo Herodotus, chính vua Ba Tư Cyrus đặt Croesus lên giàn hoả rồi tha cho ông; truyền thuyết có nhiều dị bản. Bản tổng hợp chép đúng như hộp bên lề và ghi rõ điều này.
-> - Hộp bên lề về Milton nói *Paradise Lost* gồm "mười hai quyển", trong khi ảnh trang bìa in cạnh đó ghi "Ten Books". Hai thông tin không mâu thuẫn: theo hiểu biết của người tổng hợp, bản in đầu năm 1667 có mười quyển, bản in năm 1674 chia lại thành mười hai quyển.
-> - Hộp bên lề về Elihu Root gọi ông là "đại sứ tại Nga"; theo hiểu biết của người tổng hợp, năm 1917 Root dẫn một phái đoàn đặc biệt của Mỹ sang Nga (Root Mission) chứ không giữ chức đại sứ thường trú. Giải Nobel Hoà bình của Root là giải năm 1912 (trao năm 1913).
-> - Thư Munger gửi Carson đề ngày 7 tháng 7 năm 1986 nói gửi kèm "báo cáo thường niên năm 1986 của Berkshire Hathaway". Vào tháng 7 năm 1986, báo cáo mới nhất có lẽ là báo cáo năm 1985 (phát hành đầu năm 1986); có thể thư viết nhầm. "Khoản mua cổ phần lớn trong mạng truyền hình ABC" theo hiểu biết của người tổng hợp là việc Berkshire mua khoảng 18% cổ phần Capital Cities để tài trợ cho thương vụ Capital Cities mua ABC (hoàn tất đầu năm 1986); Thomas S. Murphy, người nhận bản sao thư, là tổng giám đốc Capital Cities/ABC. Carson làm việc cho NBC, đối thủ của ABC, nên câu "tiếc là ABC không có ai sánh được với Johnny Carson" là lời đùa.
-> - Hộp bên lề về Epictetus bị cắt ở cuối dòng "exiled from Rome by Domitian in 89"; bản tổng hợp hiểu là năm 89 sau Công nguyên.
-> - Các hộp bên lề của người biên tập (tiểu sử Cicero, Samuel Johnson, Milton, Croesus, Newton, Epictetus, Darwin, Elihu Root, Johnny Carson; hộp "Franklin on Vicarious Learning"; hộp trích bài thơ "If" của Kipling), các câu trích in nổi (pull quote) lặp lại lời Munger, ba lá thư và các ảnh minh hoạ được đưa vào bản tổng hợp, mỗi chỗ đều ghi rõ là của người biên tập. Câu in nổi chỉ lặp lại câu trong bài nên không tách riêng.
-> - Bối cảnh: bài nói năm 1986, khi Munger 62 tuổi và Berkshire Hathaway còn chưa nổi tiếng rộng rãi; sách in lần đầu năm 2005, phần "Talk One Revisited" viết năm 2006. Lời chúc rượu cuối bài mở đầu bằng "Gentlemen" (Các quý ông) vì năm 1986 Harvard School là trường nam sinh.
+Thay vì khuyên học sinh tốt nghiệp cách sống hạnh phúc như phần lớn diễn giả, Munger **đảo ngược câu hỏi**: ông liệt kê những cách bảo đảm một đời khổ sở, để người nghe tự rút ra điều phải tránh.
+
+Ông mượn khung từ một bài diễn văn tốt nghiệp của danh hài Johnny Carson ở cùng trường, gồm ba "toa thuốc bảo đảm khổ sở":
+
+- Dùng hoá chất để thay đổi tâm trạng hay nhận thức
+- Ghen tị
+- Oán giận
+
+Munger thêm bốn toa của riêng ông:
+
+- Thứ nhất, hãy là người không đáng tin cậy
+- Thứ hai, chỉ học từ kinh nghiệm của chính mình, không học từ thành công và thất bại của người khác, và không học từ những công trình tốt nhất của người đi trước
+- Thứ ba, gục ngã thì nằm luôn, không đứng dậy sau những cú vấp lớn
+- Và cuối cùng, hãy coi thường phương pháp đảo ngược của anh nông dân muốn biết mình sẽ chết ở đâu để không bao giờ đến đó, đồng thời giảm thiểu sự khách quan
+
+Các ví dụ trung tâm:
+
+- Bốn người bạn thân thời trẻ của Munger, hai người đã chết mà rượu là một nguyên nhân
+- Người bạn cùng phòng mắc chứng khó đọc nặng nhưng cực kỳ đáng tin cậy và trở thành tổng giám đốc một tập đoàn hàng tỷ USD
+- Isaac Newton "đứng trên vai những người khổng lồ"
+- Epictetus, nô lệ tàn tật mà tự cho mình được thần linh ưu ái
+- Nhà toán học Jacobi với câu "Đảo ngược, luôn đảo ngược"
+- Einstein sửa luật Newton cho khớp với Maxwell
+- Và Darwin, người luôn ưu tiên tìm bằng chứng bác bỏ lý thuyết của mình
+
+Hai mươi năm sau (2006), Munger viết rằng ông không sửa ý nào và càng tin rằng sự đáng tin cậy là điều kiện cốt yếu để tiến lên trong đời, và gần như ai cũng học được.
 
 ## Sơ đồ
 
@@ -526,8 +539,16 @@
 
 ## Ba câu hỏi bài này trả lời
 
-1. **Làm sao để có một đời tốt đẹp, nếu không ai đưa được công thức hạnh phúc?** Munger trả lời bằng cách đảo câu hỏi: không ai chỉ chắc được cách hạnh phúc, nhưng có thể chỉ chắc cách khổ sở, và tránh các cách đó đã là phần lớn con đường. Ông liệt kê bảy toa thuốc bảo đảm khổ sở. Ba toa của Johnny Carson: dùng hoá chất (rượu, ma tuý) để thay đổi tâm trạng; ghen tị; oán giận. Bốn toa của Munger: thứ nhất, không đáng tin cậy, không làm điều mình đã hứa; thứ hai, chỉ học từ kinh nghiệm bản thân, không học từ sai lầm của người khác và từ những công trình tốt nhất của người đi trước; thứ ba, gục ngã thì nằm luôn sau những cú vấp lớn; cuối cùng, coi thường tư duy đảo ngược và giảm thiểu sự khách quan. Làm ngược lại bảy điều đó (tránh chất gây nghiện, vượt qua ghen tị và oán giận, giữ lời, học rộng từ người khác, đứng dậy sau thất bại, đảo ngược vấn đề và tìm bằng chứng chống lại chính mình) là bản đồ sống mà Munger muốn trao.
-2. **Tư duy đảo ngược là gì và vì sao nó hiệu quả?** Tư duy đảo ngược là nghiên cứu cách tạo ra "không X" khi muốn tạo ra X: muốn sống hạnh phúc thì nghiên cứu cách khổ sở; muốn biết nên đi đâu thì hỏi mình sẽ chết ở đâu để đừng tới đó, như anh nông dân trong câu chuyện. Nhà toán học Jacobi lặp mãi câu "Đảo ngược, luôn đảo ngược" vì nhiều bài toán khó chỉ giải được khi tiếp cận ngược chiều. Ví dụ lớn nhất Munger đưa ra là Einstein: trong khi mọi người cố sửa định luật điện từ của Maxwell cho khớp với cơ học Newton, Einstein sửa cơ học Newton cho khớp với Maxwell và tìm ra thuyết tương đối hẹp. Darwin dùng một dạng đảo ngược khác: thay vì tìm bằng chứng ủng hộ lý thuyết của mình, ông ưu tiên tìm bằng chứng bác bỏ nó. Đảo ngược hiệu quả vì những điều cần tránh thường rõ ràng và dễ liệt kê hơn những điều cần đạt, và vì nó chống lại xu hướng tự nhiên của con người là bảo vệ kết luận ban đầu.
+1. **Làm sao để có một đời tốt đẹp, nếu không ai đưa được công thức hạnh phúc?** Munger trả lời bằng cách đảo câu hỏi: không ai chỉ chắc được cách hạnh phúc, nhưng có thể chỉ chắc cách khổ sở, và tránh các cách đó đã là phần lớn con đường.
+
+   Ông liệt kê bảy toa thuốc bảo đảm khổ sở. Ba toa của Johnny Carson: dùng hoá chất (rượu, ma tuý) để thay đổi tâm trạng; ghen tị; oán giận. Bốn toa của Munger: thứ nhất, không đáng tin cậy, không làm điều mình đã hứa; thứ hai, chỉ học từ kinh nghiệm bản thân, không học từ sai lầm của người khác và từ những công trình tốt nhất của người đi trước; thứ ba, gục ngã thì nằm luôn sau những cú vấp lớn; cuối cùng, coi thường tư duy đảo ngược và giảm thiểu sự khách quan.
+
+   Làm ngược lại bảy điều đó (tránh chất gây nghiện, vượt qua ghen tị và oán giận, giữ lời, học rộng từ người khác, đứng dậy sau thất bại, đảo ngược vấn đề và tìm bằng chứng chống lại chính mình) là bản đồ sống mà Munger muốn trao.
+2. **Tư duy đảo ngược là gì và vì sao nó hiệu quả?** Tư duy đảo ngược là nghiên cứu cách tạo ra "không X" khi muốn tạo ra X: muốn sống hạnh phúc thì nghiên cứu cách khổ sở; muốn biết nên đi đâu thì hỏi mình sẽ chết ở đâu để đừng tới đó, như anh nông dân trong câu chuyện.
+
+   Nhà toán học Jacobi lặp mãi câu "Đảo ngược, luôn đảo ngược" vì nhiều bài toán khó chỉ giải được khi tiếp cận ngược chiều. Ví dụ lớn nhất Munger đưa ra là Einstein: trong khi mọi người cố sửa định luật điện từ của Maxwell cho khớp với cơ học Newton, Einstein sửa cơ học Newton cho khớp với Maxwell và tìm ra thuyết tương đối hẹp. Darwin dùng một dạng đảo ngược khác: thay vì tìm bằng chứng ủng hộ lý thuyết của mình, ông ưu tiên tìm bằng chứng bác bỏ nó.
+
+   Đảo ngược hiệu quả vì những điều cần tránh thường rõ ràng và dễ liệt kê hơn những điều cần đạt, và vì nó chống lại xu hướng tự nhiên của con người là bảo vệ kết luận ban đầu.
 3. **Đức tính nào Munger coi là quan trọng nhất, và vì sao?** Sự đáng tin cậy. Trong bài nói, ông nói thói quen không giữ lời đủ triệt tiêu mọi đức tính khác cộng lại, và người không đáng tin sẽ thua cả "đàn đàn rùa tầm thường chống nạng". Ví dụ ngược lại là người bạn cùng phòng mắc chứng khó đọc nặng nhưng cực kỳ đáng tin, trở thành tổng giám đốc một tập đoàn hàng tỷ USD với gia đình tốt đẹp. Hai mươi năm sau, Munger viết rằng ông càng tin sự đáng tin cậy là cốt yếu, và khác với cơ học lượng tử, gần như ai cũng học được nó; vì thế ông khen McDonald's là thể chế đáng ngưỡng mộ vì đã dạy hàng triệu thiếu niên bài học đi làm đều đặn, đúng giờ, có trách nhiệm.
 
 ## Khái niệm cần biết
@@ -568,7 +589,9 @@ Câu thứ hai, về độ dài, ông không trả lời trước, vì làm th�
 
 Tuy vậy, ông kể việc cân nhắc độ dài đã sinh ra chính đề tài bài nói. Được mời, ông "phổng mũi". Không có kinh nghiệm diễn thuyết đáng kể, nhưng ông có "đai đen về sự trơ tráo" (*chutzpah*, chữ Yiddish chỉ sự táo bạo không biết ngượng), nên lập tức nghĩ tới Demosthenes và Cicero làm hình mẫu, và mong được một lời khen như lời Cicero dành cho Demosthenes: khi được hỏi thích bài diễn văn nào nhất của Demosthenes, Cicero đáp: "Bài dài nhất."
 
-May cho khán giả, ông cũng nghĩ tới câu nổi tiếng của Samuel Johnson về trường ca *Paradise Lost* của Milton: "Chưa ai từng mong nó dài hơn", và Munger cho rằng Johnson nói đúng. Câu đó khiến ông tự hỏi: trong hai mươi bài diễn văn tốt nghiệp ông đã nghe ở Harvard School, có bài nào ông từng mong dài hơn không? Chỉ có một: bài của Johnny Carson, nêu các toa thuốc của Carson để bảo đảm khổ sở trong đời. Vì vậy Munger quyết định nhắc lại bài của Carson nhưng ở dạng mở rộng, có thêm vài toa thuốc của riêng ông. Ông đùa rằng mình già hơn Carson lúc ấy nhiều, và đã thất bại, khổ sở nhiều lần hơn và theo nhiều cách hơn mức có thể có ở một danh hài duyên dáng còn trẻ; nên rõ ràng ông đủ tư cách để mở rộng đề tài của Carson.
+May cho khán giả, ông cũng nghĩ tới câu nổi tiếng của Samuel Johnson về trường ca *Paradise Lost* của Milton: "Chưa ai từng mong nó dài hơn", và Munger cho rằng Johnson nói đúng.
+
+Câu đó khiến ông tự hỏi: trong hai mươi bài diễn văn tốt nghiệp ông đã nghe ở Harvard School, có bài nào ông từng mong dài hơn không? Chỉ có một: bài của Johnny Carson, nêu các toa thuốc của Carson để bảo đảm khổ sở trong đời. Vì vậy Munger quyết định nhắc lại bài của Carson nhưng ở dạng mở rộng, có thêm vài toa thuốc của riêng ông. Ông đùa rằng mình già hơn Carson lúc ấy nhiều, và đã thất bại, khổ sở nhiều lần hơn và theo nhiều cách hơn mức có thể có ở một danh hài duyên dáng còn trẻ; nên rõ ràng ông đủ tư cách để mở rộng đề tài của Carson.
 
 ### 3. Ba toa thuốc của Johnny Carson (trang in 152–154)
 
@@ -586,7 +609,9 @@ Munger nhớ rõ vẻ tin chắc tuyệt đối của Carson khi kể ông đã 
 
 **Toa 2: ghen tị.** Ghen tị cùng với hoá chất giành giải về số lượng nỗi khổ gây ra. Nó đã tàn phá con người từ rất lâu trước khi bị "mang tiếng xấu" trong luật Moses (điều răn thứ mười: không được thèm muốn những gì của người khác). Munger "khuyên" ngược: nếu muốn giữ phần đóng góp của ghen tị vào nỗi khổ, đừng bao giờ đọc bất cứ cuốn tiểu sử nào về Samuel Johnson, "người tín đồ Cơ đốc tốt" ấy, vì đời ông cho thấy một cách lôi cuốn rằng vượt qua ghen tị là điều làm được và có lợi.
 
-**Toa 3: oán giận.** Oán giận luôn hiệu nghiệm với Munger đúng như với Carson; ông không thể khuyên nó đủ mạnh cho ai mong muốn khổ sở. Johnson đã nói hay rằng đời vốn đủ khó nuốt mà không cần vắt thêm vào lớp vỏ đắng của oán giận. Với ai muốn khổ sở, Munger cũng khuyên đừng thực hành "cách thoả hiệp của Disraeli", dành cho những người không thể bỏ oán giận ngay lập tức. Disraeli, trên đường trở thành một trong những thủ tướng vĩ đại nhất của Anh, đã học cách từ bỏ báo thù làm động cơ hành động, nhưng vẫn giữ một lối thoát cho oán giận: ông ghi tên những người đã đối xử tệ với mình lên những mẩu giấy và cất trong ngăn kéo. Thỉnh thoảng ông xem lại các tên đó và thích thú ghi nhận rằng cuộc đời đã tự hạ gục kẻ thù của ông mà ông chẳng cần giúp tay.
+**Toa 3: oán giận.** Oán giận luôn hiệu nghiệm với Munger đúng như với Carson; ông không thể khuyên nó đủ mạnh cho ai mong muốn khổ sở. Johnson đã nói hay rằng đời vốn đủ khó nuốt mà không cần vắt thêm vào lớp vỏ đắng của oán giận. Với ai muốn khổ sở, Munger cũng khuyên đừng thực hành "cách thoả hiệp của Disraeli", dành cho những người không thể bỏ oán giận ngay lập tức.
+
+Disraeli, trên đường trở thành một trong những thủ tướng vĩ đại nhất của Anh, đã học cách từ bỏ báo thù làm động cơ hành động, nhưng vẫn giữ một lối thoát cho oán giận: ông ghi tên những người đã đối xử tệ với mình lên những mẩu giấy và cất trong ngăn kéo. Thỉnh thoảng ông xem lại các tên đó và thích thú ghi nhận rằng cuộc đời đã tự hạ gục kẻ thù của ông mà ông chẳng cần giúp tay.
 
 ### 4. Toa thuốc thứ nhất của Munger: "First, be unreliable" (trang in 154–155)
 
@@ -602,7 +627,9 @@ Nhắc tới một đời "tuyệt vời cho tới nay", Munger không thể b�
 
 Toa thứ hai: học mọi thứ có thể từ chính kinh nghiệm của mình, và giảm tối đa những gì học gián tiếp từ kinh nghiệm tốt và xấu của người khác, người còn sống lẫn người đã chết. Theo Munger, toa này chắc chắn sinh ra khổ sở và thành tựu hạng hai.
 
-Kết quả của việc không học từ sai lầm của người khác hiện ra khi chỉ cần nhìn quanh. Các tai hoạ chung của loài người ít có gì độc đáo: chết vì lái xe khi say, tàn tật vì lái xe liều lĩnh, bệnh hoa liễu không chữa được, sinh viên đại học sáng dạ bị biến thành những "xác sống" bị tẩy não trong các giáo phái huỷ hoại, doanh nghiệp thất bại vì lặp lại những sai lầm hiển nhiên mà người đi trước đã mắc, đủ dạng điên rồ của đám đông, và còn nữa. Làm mẹo nhớ cho con đường dẫn tới rắc rối thật sự từ những sai lầm vô ý, không độc đáo, Munger đề nghị câu nói hiện đại: "Nếu lần đầu không thành công thì... thôi, khỏi chơi tàu lượn." (Câu này đảo lời khuyên quen thuộc "lần đầu không thành thì hãy thử lại": với những việc như tàu lượn, một lần thất bại là chết, nên không có lần thử thứ hai; muốn sống thì phải học từ thất bại của người khác.)
+Kết quả của việc không học từ sai lầm của người khác hiện ra khi chỉ cần nhìn quanh. Các tai hoạ chung của loài người ít có gì độc đáo: chết vì lái xe khi say, tàn tật vì lái xe liều lĩnh, bệnh hoa liễu không chữa được, sinh viên đại học sáng dạ bị biến thành những "xác sống" bị tẩy não trong các giáo phái huỷ hoại, doanh nghiệp thất bại vì lặp lại những sai lầm hiển nhiên mà người đi trước đã mắc, đủ dạng điên rồ của đám đông, và còn nữa.
+
+Làm mẹo nhớ cho con đường dẫn tới rắc rối thật sự từ những sai lầm vô ý, không độc đáo, Munger đề nghị câu nói hiện đại: "Nếu lần đầu không thành công thì... thôi, khỏi chơi tàu lượn." (Câu này đảo lời khuyên quen thuộc "lần đầu không thành thì hãy thử lại": với những việc như tàu lượn, một lần thất bại là chết, nên không có lần thử thứ hai; muốn sống thì phải học từ thất bại của người khác.)
 
 **Hộp bên lề của người biên tập "Franklin on Vicarious Learning".** Ba câu của Benjamin Franklin về việc học qua kinh nghiệm người khác:
 
@@ -674,7 +701,9 @@ Người biên tập in lại ba lá thư, kèm một bức chân dung sơn dầ
 
 Ở cuối thư, Munger viết tay: "Chris — 16/9/85 — Will do. Charlie" (Chris, sẽ làm. Charlie).
 
-**Thư Munger gửi Johnny Carson, ngày 7 tháng 7 năm 1986,** trên giấy tiêu đề Berkshire Hathaway, Munger ký với chức phó chủ tịch hội đồng quản trị, gửi Carson ở công ty NBC (National Broadcasting Company), Burbank, California. Munger viết: năm nay, ở lễ tốt nghiệp của con trai ông tại Harvard School, ông đã nhắc lại bài diễn văn Carson đọc khi con trai Carson tốt nghiệp, có thêm vài phần của riêng ông, và tất nhiên ông đã ghi công cho bản gốc của Carson. Ông nghĩ Carson có thể thấy vui về ảnh hưởng giáo dục mà Carson đã có, lên ông và qua ông, nên gửi kèm bản mở rộng của bài nói. Ông cũng gửi kèm báo cáo thường niên của Berkshire Hathaway, vì Carson có thể quan tâm tới việc Berkshire vừa mua một lượng lớn cổ phần trong mạng truyền hình ABC, "mà tiếc thay không có ai tương đương Johnny Carson". Bản sao kín gửi Warren E. Buffett và Thomas S. Murphy.
+**Thư Munger gửi Johnny Carson, ngày 7 tháng 7 năm 1986,** trên giấy tiêu đề Berkshire Hathaway, Munger ký với chức phó chủ tịch hội đồng quản trị, gửi Carson ở công ty NBC (National Broadcasting Company), Burbank, California. Munger viết: năm nay, ở lễ tốt nghiệp của con trai ông tại Harvard School, ông đã nhắc lại bài diễn văn Carson đọc khi con trai Carson tốt nghiệp, có thêm vài phần của riêng ông, và tất nhiên ông đã ghi công cho bản gốc của Carson. Ông nghĩ Carson có thể thấy vui về ảnh hưởng giáo dục mà Carson đã có, lên ông và qua ông, nên gửi kèm bản mở rộng của bài nói.
+
+Ông cũng gửi kèm báo cáo thường niên của Berkshire Hathaway, vì Carson có thể quan tâm tới việc Berkshire vừa mua một lượng lớn cổ phần trong mạng truyền hình ABC, "mà tiếc thay không có ai tương đương Johnny Carson". Bản sao kín gửi Warren E. Buffett và Thomas S. Murphy.
 
 **Thư trả lời của Carson, ngày 6 tháng 8 năm 1986:** "Gửi Charles: cảm ơn lá thư tử tế và bản sao bài nói của ông với học sinh tốt nghiệp Harvard School. Tôi vui vì đã cung cấp được một khung nhỏ để ông mở rộng. Chúc mọi điều tốt đẹp."
 
@@ -703,7 +732,13 @@ Người biên tập khép bài bằng đoạn trích bài thơ "If" (Nếu) c�
 
 Đặt cạnh bài nói, bài thơ nêu ở dạng thuận những đức tính mà các toa thuốc của Munger nêu ở dạng ngược: không oán giận và thù ghét (toa 3 của Carson), không gian dối và đáng tin (toa thứ nhất của Munger), giữ vững khi bị đổ lỗi và gặp khó (toa thứ ba), và tự tin mà vẫn chấp nhận người khác nghi ngờ mình (tinh thần khách quan của toa cuối cùng).
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Minh, 22 tuổi, vừa tốt nghiệp, muốn biết làm sao để mười năm tới đi làm "thành công". Thay vì đọc các bí quyết thành công, anh áp tư duy đảo ngược và viết danh sách "cách chắc chắn để mười năm nữa mình thất bại và khổ sở": (1) nhậu nhiều, thức khuya, dần phụ thuộc vào rượu bia; (2) suốt ngày so lương với bạn cùng lớp trên mạng xã hội; (3) để bụng mọi lần bị sếp chê; (4) hứa nộp việc thứ Sáu rồi nộp thứ Ba tuần sau; (5) chỉ học khi chính mình vấp, không đọc sách, không hỏi người đi trước; (6) bị từ chối ba lần xin việc thì bỏ nghề; (7) đã chọn một quan điểm là bảo vệ tới cùng. Rồi anh lật ngược từng dòng thành quy tắc. Anh tính thử: nếu mỗi năm anh giữ đúng 95 trên 100 cam kết thay vì 70, thì sau 10 năm số lần thất hứa là 50 thay vì 300; đồng nghiệp và sếp nhớ những con số như thế, giống đàn rùa tầm thường vượt con thỏ trong bài của Munger. Anh dành mỗi tuần 3 giờ đọc tiểu sử và các bài phân tích thất bại của doanh nghiệp trong ngành, tức khoảng 1.500 giờ "kinh nghiệm gián tiếp" trong 10 năm, rẻ hơn nhiều so với tự mắc từng sai lầm. Mỗi khi kết luận một nhận định quan trọng (ví dụ "sản phẩm này sẽ thắng"), anh ép mình viết ra ba bằng chứng có thể bác bỏ nó trước khi bảo vệ nó, theo cách của Darwin. Và anh không đặt mục tiêu "làm giám đốc trong 5 năm", mà "mỗi ngày làm xong việc đã hứa và học thêm một điều", như lời chúc "nhắm thấp mỗi ngày của một đời dài".
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Minh, 22 tuổi, vừa tốt nghiệp, muốn biết làm sao để mười năm tới đi làm "thành công".
+
+Thay vì đọc các bí quyết thành công, anh áp tư duy đảo ngược và viết danh sách "cách chắc chắn để mười năm nữa mình thất bại và khổ sở": (1) nhậu nhiều, thức khuya, dần phụ thuộc vào rượu bia; (2) suốt ngày so lương với bạn cùng lớp trên mạng xã hội; (3) để bụng mọi lần bị sếp chê; (4) hứa nộp việc thứ Sáu rồi nộp thứ Ba tuần sau; (5) chỉ học khi chính mình vấp, không đọc sách, không hỏi người đi trước; (6) bị từ chối ba lần xin việc thì bỏ nghề; (7) đã chọn một quan điểm là bảo vệ tới cùng. Rồi anh lật ngược từng dòng thành quy tắc.
+
+Anh tính thử: nếu mỗi năm anh giữ đúng 95 trên 100 cam kết thay vì 70, thì sau 10 năm số lần thất hứa là 50 thay vì 300; đồng nghiệp và sếp nhớ những con số như thế, giống đàn rùa tầm thường vượt con thỏ trong bài của Munger. Anh dành mỗi tuần 3 giờ đọc tiểu sử và các bài phân tích thất bại của doanh nghiệp trong ngành, tức khoảng 1.500 giờ "kinh nghiệm gián tiếp" trong 10 năm, rẻ hơn nhiều so với tự mắc từng sai lầm.
+
+Mỗi khi kết luận một nhận định quan trọng (ví dụ "sản phẩm này sẽ thắng"), anh ép mình viết ra ba bằng chứng có thể bác bỏ nó trước khi bảo vệ nó, theo cách của Darwin. Và anh không đặt mục tiêu "làm giám đốc trong 5 năm", mà "mỗi ngày làm xong việc đã hứa và học thêm một điều", như lời chúc "nhắm thấp mỗi ngày của một đời dài".
 
 ## Luận điểm cốt lõi
 
@@ -838,11 +873,15 @@ Một đời tốt đẹp đến phần lớn từ việc tránh những sai l�
 
 ### Hình thức đảo ngược của bài vừa là cách trình bày vừa là chính bài học
 
-Điểm mạnh nhất của bài là sự nhất quán giữa hình thức và nội dung. Munger không chỉ khuyên dùng tư duy đảo ngược; cả bài nói là một bài tập đảo ngược, từ lời tự giễu về con ngựa biết đếm, các toa thuốc "khuyên" khổ sở, tới lời chúc "nhắm thấp" ở cuối. Người nghe phải tự lật ngược từng câu để có lời khuyên thật, nên họ vừa nhớ nội dung vừa tập luôn thao tác tư duy. Lối nói mỉa này cũng tránh được giọng giảng đạo đức thường làm các diễn văn tốt nghiệp nhàm chán: thay vì nói "hãy giữ lời", Munger nói người không giữ lời sẽ thua "rùa tầm thường chống nạng", một hình ảnh khó quên. Việc ông thật thà ghi công cho Carson, rồi gửi thư cho Carson, cũng là một minh hoạ nhỏ cho chính đức tính đáng tin cậy mà ông đề cao.
+Điểm mạnh nhất của bài là sự nhất quán giữa hình thức và nội dung. Munger không chỉ khuyên dùng tư duy đảo ngược; cả bài nói là một bài tập đảo ngược, từ lời tự giễu về con ngựa biết đếm, các toa thuốc "khuyên" khổ sở, tới lời chúc "nhắm thấp" ở cuối. Người nghe phải tự lật ngược từng câu để có lời khuyên thật, nên họ vừa nhớ nội dung vừa tập luôn thao tác tư duy.
+
+Lối nói mỉa này cũng tránh được giọng giảng đạo đức thường làm các diễn văn tốt nghiệp nhàm chán: thay vì nói "hãy giữ lời", Munger nói người không giữ lời sẽ thua "rùa tầm thường chống nạng", một hình ảnh khó quên. Việc ông thật thà ghi công cho Carson, rồi gửi thư cho Carson, cũng là một minh hoạ nhỏ cho chính đức tính đáng tin cậy mà ông đề cao.
 
 ### Bằng chứng chủ yếu là giai thoại, và một số giai thoại không chính xác về lịch sử
 
-Bài nói không có dữ liệu; nó dựa vào trải nghiệm cá nhân và các giai thoại kể theo trí nhớ. Một số chi tiết lịch sử bị đơn giản hoá: Solon không phải sử gia; văn bia của Epictetus có lẽ không do ông tự viết; câu chuyện Einstein "quay 180 độ" là một cách kể gọn của một quá trình phức tạp hơn nhiều (nhiều nhà vật lý như Lorentz và Poincaré đã đi gần tới cùng hướng). Người bạn cùng phòng khó đọc trở thành tổng giám đốc là một trường hợp, có thể có thiên lệch người sống sót: ta không nghe về những người đáng tin cậy mà vẫn không thành công. Tuy vậy, đây là diễn văn tốt nghiệp cho học sinh trung học, không phải luận văn; các giai thoại đóng vai trò gợi nhớ, và các ý chính (tránh chất gây nghiện, giữ lời, học từ người khác, tìm bằng chứng bác bỏ) đều được tâm lý học và kinh nghiệm phổ biến ủng hộ.
+Bài nói không có dữ liệu; nó dựa vào trải nghiệm cá nhân và các giai thoại kể theo trí nhớ. Một số chi tiết lịch sử bị đơn giản hoá: Solon không phải sử gia; văn bia của Epictetus có lẽ không do ông tự viết; câu chuyện Einstein "quay 180 độ" là một cách kể gọn của một quá trình phức tạp hơn nhiều (nhiều nhà vật lý như Lorentz và Poincaré đã đi gần tới cùng hướng).
+
+Người bạn cùng phòng khó đọc trở thành tổng giám đốc là một trường hợp, có thể có thiên lệch người sống sót: ta không nghe về những người đáng tin cậy mà vẫn không thành công. Tuy vậy, đây là diễn văn tốt nghiệp cho học sinh trung học, không phải luận văn; các giai thoại đóng vai trò gợi nhớ, và các ý chính (tránh chất gây nghiện, giữ lời, học từ người khác, tìm bằng chứng bác bỏ) đều được tâm lý học và kinh nghiệm phổ biến ủng hộ.
 
 ### Bài nói chứa sẵn hạt giống của gần như mọi ý tưởng lớn về sau của Munger
 
@@ -850,11 +889,15 @@ Dù năm 1986 Munger chưa nói về "mạng lưới mô hình tư duy", bài n�
 
 ### Hai mươi năm sau, Munger không đổi ý; nhưng bối cảnh của một số ví dụ đã thay đổi
 
-Munger năm 2006 khẳng định không sửa ý nào, và các ý chính vẫn đứng vững. Nhưng một số chi tiết đã đổi: Harvard School đã thành trường hỗn hợp, nên lời chúc "thưa các quý ông" mang dấu ấn thời đó. Ví dụ McDonald's dạy thiếu niên tính đáng tin là quan sát của nước Mỹ cuối thế kỷ 20; ngày nay việc làm đầu tiên của người trẻ đa dạng hơn (làm theo nền tảng, làm tự do), nơi kỷ luật đúng giờ ít được áp từ bên ngoài, nên bài học tự rèn tính đáng tin có lẽ còn quan trọng hơn. Danh sách "chất gây nghiện" cũng có thể mở rộng, theo tinh thần của Munger, sang các thứ không phải hoá chất nhưng tác động tương tự (cờ bạc trực tuyến, mạng xã hội), cũng theo cơ chế "sợi xích quá nhẹ để cảm thấy". Đó là suy luận của người tổng hợp, không phải lời Munger.
+Munger năm 2006 khẳng định không sửa ý nào, và các ý chính vẫn đứng vững. Nhưng một số chi tiết đã đổi: Harvard School đã thành trường hỗn hợp, nên lời chúc "thưa các quý ông" mang dấu ấn thời đó.
+
+Ví dụ McDonald's dạy thiếu niên tính đáng tin là quan sát của nước Mỹ cuối thế kỷ 20; ngày nay việc làm đầu tiên của người trẻ đa dạng hơn (làm theo nền tảng, làm tự do), nơi kỷ luật đúng giờ ít được áp từ bên ngoài, nên bài học tự rèn tính đáng tin có lẽ còn quan trọng hơn. Danh sách "chất gây nghiện" cũng có thể mở rộng, theo tinh thần của Munger, sang các thứ không phải hoá chất nhưng tác động tương tự (cờ bạc trực tuyến, mạng xã hội), cũng theo cơ chế "sợi xích quá nhẹ để cảm thấy". Đó là suy luận của người tổng hợp, không phải lời Munger.
 
 ### Quan điểm trái chiều: "nhắm thấp" và "tránh sai lầm" có thể bị hiểu thành thiếu tham vọng
 
-Có thể phản biện rằng chiến lược chủ yếu "tránh khổ sở" làm người ta quá thận trọng, bỏ lỡ những cơ hội lớn đòi hỏi chấp nhận rủi ro và thất bại; nhiều nhà khởi nghiệp và nhà khoa học thành công nhờ dám "nhắm cao". Cũng có thể nói rằng học quá nhiều từ người đi trước làm giảm tính độc đáo. Nhưng đọc kỹ thì Munger không phản đối tham vọng: Newton và Einstein là ví dụ về thành tựu đỉnh cao; điều ông chống là những sai lầm có thể tránh và không cho làm lại (nghiện, mất uy tín, buông xuôi). Lời chúc "nhắm thấp" là câu đảo cho hợp với một bài nói ngược, hiểu đúng là tiến bằng những bước vừa sức, đều đặn. Toa thứ ba (đứng dậy sau thất bại) còn cho thấy Munger chấp nhận thất bại là một phần của cuộc chơi; ông chỉ muốn người ta không mắc những thất bại "không độc đáo" mà người khác đã trả giá thay.
+Có thể phản biện rằng chiến lược chủ yếu "tránh khổ sở" làm người ta quá thận trọng, bỏ lỡ những cơ hội lớn đòi hỏi chấp nhận rủi ro và thất bại; nhiều nhà khởi nghiệp và nhà khoa học thành công nhờ dám "nhắm cao". Cũng có thể nói rằng học quá nhiều từ người đi trước làm giảm tính độc đáo.
+
+Nhưng đọc kỹ thì Munger không phản đối tham vọng: Newton và Einstein là ví dụ về thành tựu đỉnh cao; điều ông chống là những sai lầm có thể tránh và không cho làm lại (nghiện, mất uy tín, buông xuôi). Lời chúc "nhắm thấp" là câu đảo cho hợp với một bài nói ngược, hiểu đúng là tiến bằng những bước vừa sức, đều đặn. Toa thứ ba (đứng dậy sau thất bại) còn cho thấy Munger chấp nhận thất bại là một phần của cuộc chơi; ông chỉ muốn người ta không mắc những thất bại "không độc đáo" mà người khác đã trả giá thay.
 
 ### Vận dụng: trước một quyết định lớn, hãy hỏi "điều gì chắc chắn làm việc này thất bại?" và tránh nó trước
 
@@ -862,3 +905,155 @@ Có thể phản biện rằng chiến lược chủ yếu "tránh khổ sở" l
 - **Trong doanh nghiệp/nghề nghiệp.** Coi sự đáng tin cậy là lợi thế cạnh tranh: hứa ít, làm đúng hạn, nói rõ khi không làm được. Khi tuyển người, đánh giá độ tin cậy ngang với năng lực chuyên môn. Trước một dự án, tổ chức buổi "tiền khám nghiệm": giả sử dự án đã thất bại, hỏi vì sao. Tìm hiểu vì sao các công ty đi trước trong ngành thất bại để không lặp lại sai lầm hiển nhiên của họ.
 - **Trong ra quyết định cá nhân.** Viết danh sách "cách chắc chắn để khổ sở" của riêng mình và lật ngược nó thành quy tắc sống. Tránh hẳn những thứ gây nghiện từ đầu thay vì tin rằng mình sẽ dừng kịp. Khi thấy ghen tị hay oán giận, nhắc mình rằng chúng chỉ gây hại cho người mang chúng; nếu chưa buông được, dùng "cách của Disraeli": viết ra rồi để đời tự xử. Gặp thất bại lớn thì cho phép mình buồn, nhưng đặt hạn để đứng dậy. Đọc tiểu sử như một cách mua kinh nghiệm rẻ.
 - **Ở Việt Nam.** Văn hoá nhậu và việc lái xe sau khi uống rượu bia là đúng loại "tai hoạ không độc đáo" mà Munger nhắc; lời khuyên tránh từ đầu rất sát thực tế. Trong môi trường kinh doanh mà quan hệ và uy tín cá nhân có vai trò lớn, giữ lời là tài sản tích luỹ theo thời gian, như con rùa của Munger. Với người trẻ dễ chịu áp lực so sánh trên mạng xã hội, toa thuốc về ghen tị là lời nhắc đáng giá. Và trong học tập, thói quen đọc rộng, học từ thành công và thất bại của người đi trước, thay vì chỉ học để thi, chính là điều Munger gọi là "đứng trên vai những người khổng lồ".
+
+## Bản đồ tư duy
+
+Toàn cảnh Bài 1 trên một trang: sáu nhánh lớn đi theo các mục 1–12 của phần Nội dung chi tiết (lời dẫn và đoạn mở đầu, ba toa thuốc của Johnny Carson, toa thứ nhất của Munger về sự đáng tin cậy, toa thứ hai và thứ ba về học từ người khác và đứng dậy sau nghịch cảnh, toa cuối cùng về tư duy đảo ngược và sự khách quan, lời chúc ngược cùng thư từ, phần nhìn lại năm 2006 và bài thơ If), mỗi nhánh ghi lập luận, giai thoại và câu nói then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Bài 1: muốn sống tốt thì đảo ngược câu hỏi, liệt kê cách chắc chắn khổ sở rồi tránh chúng`"]
+  n1["`Mục 1–2 — Lời dẫn và đoạn mở đầu: vì sao đề tài là toa thuốc khổ sở`"]
+  n0 --- n1
+  n2["`Năm 1986, lễ tốt nghiệp của Philip Munger ở Harvard School, bài diễn văn tốt nghiệp đầu tiên và duy nhất của Munger`"]
+  n1 --- n2
+  n3["`Người biên tập: diễn giả thường đưa toa thuốc hạnh phúc, Munger dùng chính nguyên tắc đảo ngược để nói cách đi tới khổ sở`"]
+  n1 --- n3
+  n4["`Tự giễu: như con ngựa biết đếm tới bảy, đáng khen vì người làm được là một con ngựa`"]
+  n1 --- n4
+  n5["`Cicero thích bài dài nhất của Demosthenes, còn Johnson nói chưa ai mong Paradise Lost dài hơn`"]
+  n1 --- n5
+  n6["`Trong hai mươi bài diễn văn tốt nghiệp đã nghe, Munger chỉ mong bài của Johnny Carson dài hơn, nên mở rộng bài đó`"]
+  n1 --- n6
+  n7["`Mục 3 — Ba toa thuốc của Johnny Carson: hoá chất, ghen tị, oán giận`"]
+  n0 --- n7
+  n8["`Carson không chỉ được cách sống hạnh phúc, nhưng chỉ được từ kinh nghiệm bản thân cách bảo đảm khổ sở`"]
+  n7 --- n8
+  n9["`Hoá chất: hai trong bốn bạn thân thời trẻ của Munger đã chết, rượu là một nguyên nhân, người thứ ba nghiện rượu`"]
+  n7 --- n9
+  n10["`Nghiện qua quá trình tinh vi: sợi xích sa đoạ quá nhẹ để cảm thấy cho tới khi quá chắc để bẻ gãy`"]
+  n7 --- n10
+  n11["`Hơn sáu mươi năm, Munger chưa gặp ai đời tệ đi vì sợ và tránh con đường huỷ hoại này`"]
+  n7 --- n11
+  n12["`Ghen tị cùng hoá chất giành giải về số lượng khổ sở, đời Samuel Johnson cho thấy vượt qua ghen tị là làm được và có lợi`"]
+  n7 --- n12
+  n13["`Oán giận: đời đã đủ khó nuốt, đừng vắt thêm lớp vỏ đắng của oán giận (Johnson)`"]
+  n7 --- n13
+  n14["`Cách thoả hiệp của Disraeli: bỏ báo thù, ghi tên kẻ thù cất ngăn kéo, xem đời tự hạ họ`"]
+  n7 --- n14
+  n15["`Mục 4 — Toa thứ nhất của Munger: hãy là người không đáng tin cậy`"]
+  n0 --- n15
+  n16["`Không làm điều đã cam kết: một thói quen này đủ triệt tiêu tác dụng cộng lại của mọi đức tính khác`"]
+  n15 --- n16
+  n17["`Người không đáng tin là con thỏ bị cả đàn rùa tầm thường, kể cả rùa chống nạng, vượt qua`"]
+  n15 --- n17
+  n18["`Bạn cùng phòng mắc chứng khó đọc nặng nhưng đáng tin nhất, thành tổng giám đốc tập đoàn hàng tỷ USD`"]
+  n15 --- n18
+  n19["`Croesus nhớ lời Solon: không đời người nào được coi là hạnh phúc cho tới khi nó kết thúc`"]
+  n15 --- n19
+  n20["`Mục 5–6 — Toa thứ hai và thứ ba: chỉ học từ kinh nghiệm bản thân, gục ngã thì nằm luôn`"]
+  n0 --- n20
+  n21["`Chỉ học từ kinh nghiệm của chính mình là cách chắc chắn để khổ sở và chỉ đạt thành tựu hạng hai`"]
+  n20 --- n21
+  n22["`Tai hoạ không độc đáo: lái xe khi say, bệnh hoa liễu, giáo phái huỷ hoại, doanh nghiệp lặp sai lầm của người đi trước`"]
+  n20 --- n22
+  n23["`Nếu lần đầu không thành công thì thôi khỏi chơi tàu lượn: một lần thất bại là hết, phải học từ người khác`"]
+  n20 --- n23
+  n24["`Franklin: kinh nghiệm là trường học đắt đỏ, nhưng kẻ ngốc chỉ học ở đó`"]
+  n20 --- n24
+  n25["`Newton chật vật với hình học giải tích, nắm vững người giỏi nhất đi trước, đứng trên vai những người khổng lồ`"]
+  n20 --- n25
+  n26["`Nghịch cảnh đến cả với người may mắn và khôn ngoan, ai gục rồi nằm luôn sẽ sa lầy vĩnh viễn trong khổ sở`"]
+  n20 --- n26
+  n27["`Văn bia Epictetus: một nô lệ, thân thể tàn tật, nghèo khó tột cùng, và được thần linh ưu ái`"]
+  n20 --- n27
+  n28["`Mục 7–8 — Toa cuối cùng: coi thường tư duy đảo ngược và giảm thiểu khách quan`"]
+  n0 --- n28
+  n29["`Anh nông dân: ước gì biết mình sẽ chết ở đâu để không bao giờ đến đó`"]
+  n28 --- n29
+  n30["`Muốn nghiên cứu cách tạo ra X thì lật ngược, nghiên cứu cách tạo ra không X, như Carson đã làm`"]
+  n28 --- n30
+  n31["`Jacobi: Đảo ngược, luôn đảo ngược, nhiều bài toán khó chỉ giải tốt nhất khi tiếp cận ngược chiều`"]
+  n28 --- n31
+  n32["`Einstein sửa luật Newton cho khớp Maxwell thay vì ngược lại, khám phá ra thuyết tương đối hẹp`"]
+  n28 --- n32
+  n33["`Darwin chỉ khoảng giữa lớp nhưng luôn ưu tiên bằng chứng bác bỏ lý thuyết mình yêu quý`"]
+  n28 --- n33
+  n34["`Phần lớn người ta xử lý thông tin mới sao cho kết luận ban đầu giữ nguyên, như lời tả của Philip Wylie`"]
+  n28 --- n34
+  n35["`Người khách quan như người chơi duy nhất không bị bịt mắt trong trò gắn đuôi cho con lừa`"]
+  n28 --- n35
+  n36["`Einstein: thành công đến từ tò mò, tập trung, kiên trì và tự phê bình, tức phá ý tưởng mình yêu thích`"]
+  n28 --- n36
+  n37["`Hiểu sống thật với chính mình là giữ mọi quan niệm thời trẻ thì đang trên đường tối đa hoá sự dốt nát`"]
+  n28 --- n37
+  n38["`Mục 9–12 — Lời chúc ngược, thư từ, nhìn lại năm 2006 và bài thơ If`"]
+  n0 --- n38
+  n39["`Lời chúc: mỗi người vươn lên bằng cách dành mỗi ngày của một đời dài để nhắm thấp`"]
+  n38 --- n39
+  n40["`Con chó của Elihu Root tới Dover bằng leg over leg, tức từng bước nhỏ, vừa sức, đều đặn`"]
+  n38 --- n40
+  n41["`Thư mời của hiệu trưởng Berrisford: diễn giả hiểu trường đóng góp hơn chính khách nói sáo rỗng, Munger đáp Will do`"]
+  n38 --- n41
+  n42["`Munger ghi công Carson và gửi Carson bản mở rộng, Carson vui vì đã cung cấp một khung nhỏ`"]
+  n38 --- n42
+  n43["`Năm 2006 Munger không sửa ý nào, càng tin sự đáng tin cậy là cốt yếu để tiến lên trong đời`"]
+  n38 --- n43
+  n44["`Cơ học lượng tử đa số không học nổi, còn sự đáng tin cậy thì gần như ai cũng học được`"]
+  n38 --- n44
+  n45["`McDonald's đáng ngưỡng mộ vì dạy hàng triệu thiếu niên đi làm đều đặn, đúng giờ cho việc có trách nhiệm`"]
+  n38 --- n45
+  n46["`Bài thơ If của Kipling nêu ở dạng thuận: không thù ghét, không dối trá, giữ vững khi bị đổ lỗi`"]
+  n38 --- n46
+  n47["`Thông điệp xuyên suốt`"]
+  n0 --- n47
+  n48["`Một đời tốt đẹp đến phần lớn từ tránh sai lầm lớn, dễ thấy, đã được người khác chứng minh`"]
+  n47 --- n48
+  n49["`Sự đáng tin cậy là đức tính nền tảng: thiếu thì triệt tiêu tài năng, có thì bù được nhiều khuyết tật`"]
+  n47 --- n49
+  n50["`Học gián tiếp từ người sống lẫn người đã chết là cách rẻ nhất để có kinh nghiệm`"]
+  n47 --- n50
+  n51["`Hình thức đảo ngược của bài vừa là cách trình bày vừa là chính bài học`"]
+  n47 --- n51
+  n52["`Triết lý đầu tư của Munger bắt nguồn từ triết lý sống: tránh sai lầm lớn quan trọng hơn tìm nước đi thiên tài`"]
+  n47 --- n52
+  class n0 root
+  class n1,n7,n15,n20,n28,n38,n47 branch
+  class n2,n3,n4,n5,n6,n8,n9,n10,n11,n12,n13,n14,n16,n17,n18,n19,n21,n22,n23,n24,n25,n26,n27,n29,n30,n31,n32,n33,n34,n35,n36,n37,n39,n40,n41,n42,n43,n44,n45,n46,n48,n49,n50,n51,n52 leaf
+```
+
+## Nguồn
+
+*Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger*, biên tập Peter D. Kaufman, The Donning Company Publishers, ấn bản mở rộng thứ ba (Expanded Third Edition), Chương 4 "Eleven Talks", Bài 1 "Talk One: Harvard School Commencement Speech", trang in 150–163.
+
+Bài nói được đọc ngày 13 tháng 6 năm 1986 tại lễ tốt nghiệp của Harvard School, một trường trung học tư thục dự bị đại học (prep school) dành cho nam sinh ở Los Angeles (sau này sáp nhập thành trường hỗn hợp nam nữ Harvard-Westlake). Người nghe là khoá tốt nghiệp năm 1986, trong đó có Philip Munger, người con trai thứ năm và cuối cùng trong gia đình Munger học ở trường này, cùng phụ huynh, giáo viên và hội đồng trường. Munger nói với tư cách một trong những thành viên hội đồng quản trị (trustee) lâu năm nhất của trường.
+
+Kèm theo bài có lời dẫn và lời bình của người biên tập, thư mời của hiệu trưởng, thư Munger gửi Johnny Carson và thư trả lời của Carson, phần "Talk One Revisited" do Munger viết năm 2006, và nhiều hộp bên lề.
+
+## Tác giả
+
+Charles T. Munger (1924–2023), luật sư, nhà đầu tư, phó chủ tịch Berkshire Hathaway; năm 1986 ông 62 tuổi. Lời dẫn, các hộp bên lề và chú thích ảnh là của người biên tập Peter D. Kaufman và nhóm biên tập.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Đây là bài mở đầu của Chương 4 "Eleven Talks" (Mười một bài nói), phần dài nhất của sách, nơi người đọc nghe chính giọng Munger sau khi Chương 1 kể về con người ông, Chương 2 tóm tắt cách ông sống, học và ra quyết định, và Chương 3 gom các câu nói ngẫu hứng của ông ở các đại hội cổ đông.
+
+Bài này ngắn, vui, gần như không nói về đầu tư, nhưng lần đầu tiên trình bày công khai công cụ tư duy mà Munger dùng suốt đời: **tư duy đảo ngược (inversion)**, tức là muốn biết cách đạt được một điều thì hãy nghiên cứu cách chắc chắn thất bại rồi tránh nó. Bài cũng nêu những giá trị cá nhân mà các bài sau nhắc lại nhiều lần: sự đáng tin cậy, học từ kinh nghiệm của người khác, kiên cường trước nghịch cảnh, khách quan và sẵn sàng phá bỏ ý tưởng của chính mình.
+
+Bài 2 "A Lesson on Elementary, Worldly Wisdom" (1994) mở rộng các ý này thành học thuyết về **trí tuệ thế gian (worldly wisdom)** và **mạng lưới mô hình tư duy (latticework of mental models)**; Bài 11 "The Psychology of Human Misjudgment" hệ thống hoá các khuynh hướng tâm lý mà bài này mới chạm tới (ghen tị, oán giận, xu hướng giữ nguyên kết luận cũ).
+
+## Lưu ý
+
+- Văn bản OCR khá sạch; các lỗi nhỏ không ảnh hưởng nghĩa ("secking" là seeking, "Tivo" là Two, "jeins" là joins, "cook pleasure" là took pleasure, "medioere" là mediocre, "suceeed" là succeed, "Lalso/Lam" là I also/I am). Thư mời của hiệu trưởng bị OCR đọc thiếu nhiều chữ; bản tổng hợp đã đối chiếu với ảnh trang (trang in 160) để chép đủ nội dung, ví dụ "add a little luster to the proceedings", "the politicians were as evasive as you might suppose", "with as much persuasion as I can muster". Tên "Charles T. Hunger" ở chữ ký thư gửi Carson là lỗi OCR của "Munger".
+- Câu trích Cicero và Demosthenes, câu của Samuel Johnson về *Paradise Lost* (nguyên văn của Johnson trong *Lives of the Poets* là "None ever wished it longer than it is"), câu của Solon với Croesus, văn bia Epictetus đều là các giai thoại cổ được Munger kể theo trí nhớ. Theo hiểu biết của người tổng hợp: Solon là nhà lập pháp và nhà thơ Athens, không phải "sử gia" như Munger gọi (câu chuyện được sử gia Herodotus ghi lại); văn bia "nô lệ, tàn tật, nghèo khó, được thần linh ưu ái" được giới nghiên cứu coi là một bài thơ khuyết danh trong Tuyển tập thơ Hy Lạp (Greek Anthology), không chắc do chính Epictetus viết.
+- Hộp bên lề về Croesus ghi năm "about 546 BC" dưới tên ông như một năm duy nhất, và nói Croesus "được cho là đã tự lao lên giàn hoả". Theo Herodotus, chính vua Ba Tư Cyrus đặt Croesus lên giàn hoả rồi tha cho ông; truyền thuyết có nhiều dị bản. Bản tổng hợp chép đúng như hộp bên lề và ghi rõ điều này.
+- Hộp bên lề về Milton nói *Paradise Lost* gồm "mười hai quyển", trong khi ảnh trang bìa in cạnh đó ghi "Ten Books". Hai thông tin không mâu thuẫn: theo hiểu biết của người tổng hợp, bản in đầu năm 1667 có mười quyển, bản in năm 1674 chia lại thành mười hai quyển.
+- Hộp bên lề về Elihu Root gọi ông là "đại sứ tại Nga"; theo hiểu biết của người tổng hợp, năm 1917 Root dẫn một phái đoàn đặc biệt của Mỹ sang Nga (Root Mission) chứ không giữ chức đại sứ thường trú. Giải Nobel Hoà bình của Root là giải năm 1912 (trao năm 1913).
+- Thư Munger gửi Carson đề ngày 7 tháng 7 năm 1986 nói gửi kèm "báo cáo thường niên năm 1986 của Berkshire Hathaway". Vào tháng 7 năm 1986, báo cáo mới nhất có lẽ là báo cáo năm 1985 (phát hành đầu năm 1986); có thể thư viết nhầm. "Khoản mua cổ phần lớn trong mạng truyền hình ABC" theo hiểu biết của người tổng hợp là việc Berkshire mua khoảng 18% cổ phần Capital Cities để tài trợ cho thương vụ Capital Cities mua ABC (hoàn tất đầu năm 1986); Thomas S. Murphy, người nhận bản sao thư, là tổng giám đốc Capital Cities/ABC. Carson làm việc cho NBC, đối thủ của ABC, nên câu "tiếc là ABC không có ai sánh được với Johnny Carson" là lời đùa.
+- Hộp bên lề về Epictetus bị cắt ở cuối dòng "exiled from Rome by Domitian in 89"; bản tổng hợp hiểu là năm 89 sau Công nguyên.
+- Các hộp bên lề của người biên tập (tiểu sử Cicero, Samuel Johnson, Milton, Croesus, Newton, Epictetus, Darwin, Elihu Root, Johnny Carson; hộp "Franklin on Vicarious Learning"; hộp trích bài thơ "If" của Kipling), các câu trích in nổi (pull quote) lặp lại lời Munger, ba lá thư và các ảnh minh hoạ được đưa vào bản tổng hợp, mỗi chỗ đều ghi rõ là của người biên tập. Câu in nổi chỉ lặp lại câu trong bài nên không tách riêng.
+- Bối cảnh: bài nói năm 1986, khi Munger 62 tuổi và Berkshire Hathaway còn chưa nổi tiếng rộng rãi; sách in lần đầu năm 2005, phần "Talk One Revisited" viết năm 2006. Lời chúc rượu cuối bài mở đầu bằng "Gentlemen" (Các quý ông) vì năm 1986 Harvard School là trường nam sinh.

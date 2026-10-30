@@ -1,17 +1,23 @@
 # Chương 1 (phần 1) — Chân dung Charles T. Munger (A Portrait of Charles T. Munger)
 
-**Nguồn:** *Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger*, biên tập Peter D. Kaufman, The Donning Company Publishers, ấn bản mở rộng thứ ba (Expanded Third Edition, 2005/2006/2008; bản PDF là lần in thứ sáu, 2011). Chương 1 "A Portrait of Charles T. Munger", trang in 2–26, gồm bài tiểu sử chính và các hộp bên lề, chú thích ảnh, câu trích in nổi, hai bài phỏng vấn ngắn ("Q and A with Warren Buffett", "Q and A with Susie Buffett"), bảng kết quả quỹ hợp danh của Munger trích từ bài "The Superinvestors of Graham-and-Doddsville" của Buffett, và bài "Charlie Munger's Lesson in Philanthropy" của giám đốc Thư viện Huntington.
-**Tác giả:** Michael Broggie viết bài tiểu sử chính. Các hộp bên lề do nhóm biên tập (Peter Kaufman và cộng sự) thêm vào; một số hộp có người viết riêng: Warren Buffett và Susan (Susie) Buffett (phỏng vấn do Wendy Munger, con gái Munger, thực hiện tháng 11/1998), Warren Buffett và Rick Guerin (chuyện chiếc thuyền buồm hai thân), Ronald L. Olson (luật sư, đối tác hãng Munger, Tolles & Olson), David S. Zeidberg (giám đốc Thư viện Huntington).
-**Vị trí trong lập luận của cả cuốn sách:** Đây là phần mở đầu của chương 1, ngay sau lời tựa của Buffett ("Buffett on Munger"), lời đáp của Munger ("Rebuttal: Munger on Buffett") và lời giới thiệu của Kaufman. Lời giới thiệu đã nói vì sao nên học cách Munger suy nghĩ; phần này cho người đọc biết Munger là ai: xuất thân ở Omaha, gia đình, học vấn, nghề luật, con đường đi tới độc lập tài chính, quan hệ đối tác với Buffett, thành tích đầu tư và hoạt động từ thiện. Hai phần tiếp theo của chương 1 bổ sung chân dung này từ góc nhìn khác: Munger tự bàn về tuổi già ("Praising Old Age", trang in 27–38) và các con kể về cha ("Remembering: The Children on Charlie", trang in 39–51). Từ chương 2 trở đi, sách chuyển từ con người sang tư tưởng: cách tiếp cận cuộc sống và ra quyết định (chương 2), các câu nói tại đại hội cổ đông (chương 3) và mười một bài nói (chương 4). Nhiều chi tiết trong tiểu sử này (thói quen đọc, sự ngưỡng mộ Benjamin Franklin, "hội chứng người cầm búa", vật lý học như khuôn mẫu giải quyết vấn đề, tính hợp lý) là hạt giống của các ý sẽ được phát triển ở những chương sau.
-**Ý chính:** Broggie muốn người đọc thấy rằng thành công của Munger không đến từ may mắn hay một mẹo đầu tư, mà từ một tính cách được hun đúc rất sớm: ham đọc (nhất là tiểu sử, và các câu cách ngôn của Benjamin Franklin), tò mò khoa học (thư viện y học của bác sĩ Ed Davis, vật lý ở Đại học Michigan), kỷ luật lao động và tiết kiệm (cửa hàng tạp hoá của ông nội Buffett, Đại khủng hoảng, lời dạy của ông nội Munger: tập trung vào việc ngay trước mặt và kiểm soát chi tiêu), và chữ tín (mối quan hệ với Buffett chỉ bằng cái bắt tay). Câu chuyện trung tâm là hành trình từ một luật sư lương không như ý ở Los Angeles tới độc lập tài chính: đầu tư bất động sản (lãi 300.000 USD trên 100.000 USD vốn năm 1961; có 1,4 triệu USD khi dừng năm 1964), lập hãng luật Munger, Tolles & Hills (sau là Munger, Tolles & Olson) năm 1962, gặp Buffett năm 1959, rồi điều hành quỹ hợp danh Wheeler, Munger & Co. từ 1962 đến 1975 với lợi suất kép 19,8%/năm trước phí (13,7% sau phí) so với 5,0% của chỉ số Dow, rồi trở thành phó chủ tịch Berkshire Hathaway, nơi giá trị thị trường tăng khoảng 13.500 lần (từ 10 triệu USD lên khoảng 135 tỷ USD). Phần kết nhấn mạnh rằng, như Franklin, Munger dùng tài sản tự tạo để phục vụ xã hội (Thư viện Huntington, Trường Harvard-Westlake, Bệnh viện Good Samaritan, Đại học Stanford, Planned Parenthood), và rằng "giá trị nhận được cho đồng tiền bỏ ra" quan trọng trong từ thiện không kém gì trong đầu tư.
+## Ý chính
 
-> **Lưu ý:**
-> - Bài tiểu sử không có tiểu mục; bản tổng hợp chia theo đoạn nội dung và ghi trang in. Các hộp bên lề, chú thích ảnh và câu trích in nổi (phần lớn là lời Munger) được tách thành khối riêng, ghi rõ "hộp bên lề của người biên tập" hoặc "chú thích ảnh". Một số câu in nổi chỉ lặp lại câu trong bài chính (ví dụ "Charlie learned that, by supporting each other...", "As it turned out, Charlie had little trouble...", "The dinner party included...", "There was no formal partnership...", "To this day, Charlie continues to influence..."); bản tổng hợp không lặp lại chúng.
-> - Lỗi OCR đáng chú ý, đã sửa theo ảnh trang hoặc theo ngữ cảnh: "T've" là "I've"; "celectic" là "eclectic"; "MungerP" là "Munger?"; "Seripps" là "Scripps"; "Scemann" có thể là "Seemann" (giữ theo OCR là Lee Scemann vì không đối chiếu được ảnh trang); bảng kết quả quỹ hợp danh (trang in 21) bị OCR làm rối thứ tự và đọc sai nhiều số ("B.1" là 8,1; "-176" là -17,6; "394" là 39,4; "1122" là 112,2; "27.6" thiếu dấu trừ, đúng là -27,6). Bảng trong file này chép lại theo ảnh trang và đã được kiểm tra bằng phép nhân lãi kép. Hộp "Charlie Munger's Lesson in Philanthropy" (trang in 24–25) bị OCR trộn hai cột; thứ tự câu đã được dựng lại theo ảnh trang. Câu trích "Charlie Munger has spent a professional lifetime..." ở trang in 18 là của Ronald Olson; hai dòng tên Robert E. Denham và Ronald L. Olson bên dưới là chú thích hai bức ảnh chân dung.
-> - Chỗ lệch giữa các nguồn trong cùng chương: bài chính nói Munger gặp Buffett năm 1959, còn đoạn trích bài "The Superinvestors of Graham-and-Doddsville" (Buffett viết; theo hiểu biết của người tổng hợp là bài nói năm 1984 tại Đại học Columbia) nói "khoảng năm 1960". Bài chính nói danh mục của hai người dần có những khoản trùng nhau (Blue Chip Stamps), còn Buffett nói danh mục của quỹ Munger "gần như hoàn toàn khác" của ông; hai câu nói về những giai đoạn khác nhau nên không hẳn mâu thuẫn. Bài chính nói Buffett "và vài năm sau là Charlie" nắm quyền quản lý Berkshire "từ năm 1964"; theo hiểu biết của người tổng hợp, Buffett giành quyền kiểm soát Berkshire năm 1965 (bắt đầu mua cổ phần từ 1962), còn hộp Forbes cho biết Munger làm phó chủ tịch từ 1978.
-> - Bài chính nói 11 năm đầu của quỹ (1962–1972) "không có một năm nào giảm", nhưng chính bảng kết quả ghi năm 1970 là −0,1% (cả quỹ lẫn người góp vốn). Mức giảm rất nhỏ, gần như hoà vốn, nên câu của Broggie đúng về tinh thần nhưng không chính xác tuyệt đối.
-> - Bối cảnh thời điểm: bài viết cho ấn bản đầu (2005), nên các chữ "hiện nay", "ngày nay" chỉ khoảng năm 2004–2005: giá trị Berkshire khoảng 135 tỷ USD, mỗi cổ phiếu hơn 85.000 USD, hãng Munger, Tolles & Olson có 175 luật sư, Munger 80 tuổi với tài sản 1,6 tỷ USD theo Forbes (10/2004), 16 cháu. Theo hiểu biết của người tổng hợp (không tra cứu): con trai Teddy mất năm 1955, lúc khoảng chín tuổi (sách chỉ nói cậu bé mắc bệnh bạch cầu không chữa được); bà Nancy Munger mất năm 2010; Wesco Financial được Berkshire mua lại toàn bộ năm 2011; Gillette đã sáp nhập vào Procter & Gamble năm 2005; Munger mất tháng 11/2023, ít tuần trước sinh nhật thứ 100. Những sự kiện này nằm ngoài sách và chỉ được ghi ở đây.
-> - Bài viết mang tính ca ngợi (sách do bạn bè và cộng sự của Munger biên soạn, tiền bán sách dành cho Trung tâm Nghiên cứu Munger của Thư viện Huntington), nên ít nói về sai lầm hay đầu tư thất bại của ông, trừ giai đoạn 1973–1974.
+Broggie muốn người đọc thấy rằng thành công của Munger không đến từ may mắn hay một mẹo đầu tư, mà từ một tính cách được hun đúc rất sớm:
+
+- ham đọc (nhất là tiểu sử, và các câu cách ngôn của Benjamin Franklin),
+- tò mò khoa học (thư viện y học của bác sĩ Ed Davis, vật lý ở Đại học Michigan),
+- kỷ luật lao động và tiết kiệm (cửa hàng tạp hoá của ông nội Buffett, Đại khủng hoảng, lời dạy của ông nội Munger: tập trung vào việc ngay trước mặt và kiểm soát chi tiêu),
+- và chữ tín (mối quan hệ với Buffett chỉ bằng cái bắt tay).
+
+Câu chuyện trung tâm là hành trình từ một luật sư lương không như ý ở Los Angeles tới độc lập tài chính:
+
+- đầu tư bất động sản (lãi 300.000 USD trên 100.000 USD vốn năm 1961; có 1,4 triệu USD khi dừng năm 1964),
+- lập hãng luật Munger, Tolles & Hills (sau là Munger, Tolles & Olson) năm 1962,
+- gặp Buffett năm 1959,
+- rồi điều hành quỹ hợp danh Wheeler, Munger & Co. từ 1962 đến 1975 với lợi suất kép 19,8%/năm trước phí (13,7% sau phí) so với 5,0% của chỉ số Dow,
+- rồi trở thành phó chủ tịch Berkshire Hathaway, nơi giá trị thị trường tăng khoảng 13.500 lần (từ 10 triệu USD lên khoảng 135 tỷ USD).
+
+Phần kết nhấn mạnh rằng, như Franklin, Munger dùng tài sản tự tạo để phục vụ xã hội (Thư viện Huntington, Trường Harvard-Westlake, Bệnh viện Good Samaritan, Đại học Stanford, Planned Parenthood), và rằng "giá trị nhận được cho đồng tiền bỏ ra" quan trọng trong từ thiện không kém gì trong đầu tư.
 
 ## Sơ đồ
 
@@ -759,9 +765,21 @@
 
 ## Ba câu hỏi phần này trả lời
 
-1. **Những gì trong tuổi thơ và tuổi trẻ đã tạo nên con người Munger?** Broggie chỉ ra nhiều nguồn cùng lúc. Gia đình thuộc tầng lớp luật gia khá giả ở Omaha (ông nội là thẩm phán liên bang, cha là luật sư) dạy ông chữ tín, sự tương trợ (ông nội liều gần nửa tài sản, đổi 35.000 USD nợ tốt lấy nợ xấu để cứu ngân hàng của chú Tom) và hai nguyên tắc: tập trung vào việc ngay trước mặt và kiểm soát chi tiêu. Cha mẹ khuyến khích đọc; ông say mê sách tiểu sử và cách ngôn của Benjamin Franklin. Bác sĩ Ed Davis cho ông tiếp xúc với y học và thống kê kết quả phẫu thuật, từ đó ông quan tâm khoa học suốt đời. Cửa hàng của Ernest Buffett (ca 12 giờ, lương 2 USD mỗi ngày) và Đại khủng hoảng dạy ông giá trị của lao động và của độc lập tài chính. Ở đại học và trong quân ngũ, toán và vật lý cho ông khuôn mẫu giải quyết vấn đề và thêm nhiều mô hình tư duy, để ông bớt giống "người cầm búa". Trí tuệ vượt trội (IQ ở đỉnh thang đo của quân đội, tốt nghiệp magna cum laude ở Luật Harvard) đi kèm một tính cách thẳng tới mức cộc lốc.
-2. **Munger đi từ một luật sư không hài lòng với thu nhập tới độc lập tài chính và vị trí cộng sự của Buffett bằng cách nào?** Ông thấy nghề luật trả công theo giờ và thâm niên, nên muốn giống các khách hàng là nhà tư bản. Ông nhận cổ phần ở công ty khách hàng, đầu tư cổ phiếu, rồi làm bất động sản từ năm 1961 (lãi 300.000 USD trên 100.000 USD vốn), tái đầu tư toàn bộ lợi nhuận cho tới khi có 1,4 triệu USD năm 1964. Năm 1962 ông vừa lập hãng luật Munger, Tolles & Hills, vừa lập quỹ Wheeler, Munger & Co.; ông rời hãng luật năm 1965. Bữa tối năm 1959 ở Omaha với Buffett, cùng lời Buffett rằng luật kém hứa hẹn hơn đầu tư, giúp ông quyết định. Quỹ tập trung vào ít cổ phiếu, mua với giá thấp hơn giá trị, chi phí gần bằng không; nó đạt 28,3%/năm trước phí trong 11 năm đầu, lỗ 31,9% và 31,5% trong hai năm 1973–1974, rồi tăng 73,2% năm 1975, cả 14 năm đạt 19,8%/năm trước phí so với 5,0% của Dow. Sau đó ông theo Buffett, không quản lý tiền cho người khác nữa mà giữ tài sản qua cổ phần công ty mẹ (Blue Chip Stamps, Diversified Retailing, rồi Berkshire Hathaway, cổ phiếu từ 38 USD cuối 1975 lên hơn 85.000 USD).
-3. **Munger dùng tài sản và ảnh hưởng của mình ra sao, và điều đó nói gì về giá trị của ông?** Ông không lấy phần vốn của mình khi rời hãng luật mà chuyển cho gia đình người đối tác Fred Warder vừa mất vì ung thư; hãng mang tên ông làm việc miễn phí cho người nghèo và theo các châm ngôn "không cần lấy đồng đô la cuối cùng", "chọn khách hàng như chọn bạn". Ông tự nhận "Munger thời đầu" là hình mẫu tồi vì lấy từ chủ nghĩa tư bản nhiều hơn trao lại cho xã hội; "Munger thời sau" cùng vợ tài trợ các toà nhà ở Trường Harvard-Westlake, Thư viện Huntington (90.000 foot vuông, xong đúng hạn, dưới ngân sách, kèm bốn năm chi phí vận hành) và Trường Luật Stanford, làm chủ tịch hội đồng Bệnh viện Good Samaritan và Harvard-Westlake, ủng hộ Planned Parenthood, môi trường và giáo dục. Ông đòi hỏi kết quả đo được trong từ thiện như trong đầu tư. Theo Broggie, đó là cách ông noi theo Franklin: dùng tài sản tự tạo để được tự do, rồi phục vụ xã hội.
+1. **Những gì trong tuổi thơ và tuổi trẻ đã tạo nên con người Munger?** Broggie chỉ ra nhiều nguồn cùng lúc. Gia đình thuộc tầng lớp luật gia khá giả ở Omaha (ông nội là thẩm phán liên bang, cha là luật sư) dạy ông chữ tín, sự tương trợ (ông nội liều gần nửa tài sản, đổi 35.000 USD nợ tốt lấy nợ xấu để cứu ngân hàng của chú Tom) và hai nguyên tắc: tập trung vào việc ngay trước mặt và kiểm soát chi tiêu.
+
+   Cha mẹ khuyến khích đọc; ông say mê sách tiểu sử và cách ngôn của Benjamin Franklin. Bác sĩ Ed Davis cho ông tiếp xúc với y học và thống kê kết quả phẫu thuật, từ đó ông quan tâm khoa học suốt đời. Cửa hàng của Ernest Buffett (ca 12 giờ, lương 2 USD mỗi ngày) và Đại khủng hoảng dạy ông giá trị của lao động và của độc lập tài chính.
+
+   Ở đại học và trong quân ngũ, toán và vật lý cho ông khuôn mẫu giải quyết vấn đề và thêm nhiều mô hình tư duy, để ông bớt giống "người cầm búa". Trí tuệ vượt trội (IQ ở đỉnh thang đo của quân đội, tốt nghiệp magna cum laude ở Luật Harvard) đi kèm một tính cách thẳng tới mức cộc lốc.
+2. **Munger đi từ một luật sư không hài lòng với thu nhập tới độc lập tài chính và vị trí cộng sự của Buffett bằng cách nào?** Ông thấy nghề luật trả công theo giờ và thâm niên, nên muốn giống các khách hàng là nhà tư bản. Ông nhận cổ phần ở công ty khách hàng, đầu tư cổ phiếu, rồi làm bất động sản từ năm 1961 (lãi 300.000 USD trên 100.000 USD vốn), tái đầu tư toàn bộ lợi nhuận cho tới khi có 1,4 triệu USD năm 1964.
+
+   Năm 1962 ông vừa lập hãng luật Munger, Tolles & Hills, vừa lập quỹ Wheeler, Munger & Co.; ông rời hãng luật năm 1965. Bữa tối năm 1959 ở Omaha với Buffett, cùng lời Buffett rằng luật kém hứa hẹn hơn đầu tư, giúp ông quyết định.
+
+   Quỹ tập trung vào ít cổ phiếu, mua với giá thấp hơn giá trị, chi phí gần bằng không; nó đạt 28,3%/năm trước phí trong 11 năm đầu, lỗ 31,9% và 31,5% trong hai năm 1973–1974, rồi tăng 73,2% năm 1975, cả 14 năm đạt 19,8%/năm trước phí so với 5,0% của Dow. Sau đó ông theo Buffett, không quản lý tiền cho người khác nữa mà giữ tài sản qua cổ phần công ty mẹ (Blue Chip Stamps, Diversified Retailing, rồi Berkshire Hathaway, cổ phiếu từ 38 USD cuối 1975 lên hơn 85.000 USD).
+3. **Munger dùng tài sản và ảnh hưởng của mình ra sao, và điều đó nói gì về giá trị của ông?** Ông không lấy phần vốn của mình khi rời hãng luật mà chuyển cho gia đình người đối tác Fred Warder vừa mất vì ung thư; hãng mang tên ông làm việc miễn phí cho người nghèo và theo các châm ngôn "không cần lấy đồng đô la cuối cùng", "chọn khách hàng như chọn bạn".
+
+   Ông tự nhận "Munger thời đầu" là hình mẫu tồi vì lấy từ chủ nghĩa tư bản nhiều hơn trao lại cho xã hội; "Munger thời sau" cùng vợ tài trợ các toà nhà ở Trường Harvard-Westlake, Thư viện Huntington (90.000 foot vuông, xong đúng hạn, dưới ngân sách, kèm bốn năm chi phí vận hành) và Trường Luật Stanford, làm chủ tịch hội đồng Bệnh viện Good Samaritan và Harvard-Westlake, ủng hộ Planned Parenthood, môi trường và giáo dục.
+
+   Ông đòi hỏi kết quả đo được trong từ thiện như trong đầu tư. Theo Broggie, đó là cách ông noi theo Franklin: dùng tài sản tự tạo để được tự do, rồi phục vụ xã hội.
 
 ## Khái niệm cần biết
 
@@ -847,17 +865,23 @@ Omaha thập niên 1920 là một "nồi hầm" đúng nghĩa: các chủng tộ
 
 Thập niên 1930 mang tới thời khó khăn; Omaha chịu đủ sự khắc nghiệt của Đại khủng hoảng. Những gì Munger chứng kiến về cảnh ngộ của người kém may mắn để lại ấn tượng lâu dài: ông thấy người vô gia cư lang thang trên phố xin ăn, và những người sẵn sàng quét lối đi hay hiên nhà để đổi một chiếc bánh mì kẹp. Nhờ quan hệ gia đình, ông có một việc nhàm chán là đếm người qua đường, lương 40 xu một giờ; ông thích việc này hơn khuân những thùng hàng tạp hoá nặng. Chú thích ảnh ở trang này nói Omaha không thoát khỏi Đại khủng hoảng; gia đình ruột của Munger không bị ảnh hưởng nặng, nhưng một số họ hàng thì có.
 
-Ông nội Munger là một thẩm phán liên bang được kính trọng; cha ông theo bước ông nội và trở thành một luật sư khá giả. Thời kỳ này cho cậu bé Munger những bài học thật. Ông chứng kiến sự hào phóng và đầu óc kinh doanh của ông nội khi ông nội giúp cứu một ngân hàng nhỏ ở Stromsburg, Nebraska, của chú Tom. Vì kinh tế tồi tệ và mùa màng bị hạn hán phá hoại, khách hàng nông dân của ngân hàng không trả được nợ. Chú Tom đã tích tụ 35.000 USD các khoản cho vay không đòi được khi tìm tới ông nội. Vị thẩm phán liều gần một nửa tài sản của mình: ông đổi 35.000 USD các khoản cho vay thế chấp hạng nhất lành mạnh của mình lấy các khoản nợ yếu của ngân hàng, nhờ đó chú Tom mở cửa lại được sau "kỳ nghỉ ngân hàng" (bank holiday) của Tổng thống Roosevelt. Cuối cùng ông lấy lại được phần lớn số tiền, nhưng phải sau rất nhiều năm.
+Ông nội Munger là một thẩm phán liên bang được kính trọng; cha ông theo bước ông nội và trở thành một luật sư khá giả. Thời kỳ này cho cậu bé Munger những bài học thật.
+
+Ông chứng kiến sự hào phóng và đầu óc kinh doanh của ông nội khi ông nội giúp cứu một ngân hàng nhỏ ở Stromsburg, Nebraska, của chú Tom. Vì kinh tế tồi tệ và mùa màng bị hạn hán phá hoại, khách hàng nông dân của ngân hàng không trả được nợ. Chú Tom đã tích tụ 35.000 USD các khoản cho vay không đòi được khi tìm tới ông nội. Vị thẩm phán liều gần một nửa tài sản của mình: ông đổi 35.000 USD các khoản cho vay thế chấp hạng nhất lành mạnh của mình lấy các khoản nợ yếu của ngân hàng, nhờ đó chú Tom mở cửa lại được sau "kỳ nghỉ ngân hàng" (bank holiday) của Tổng thống Roosevelt. Cuối cùng ông lấy lại được phần lớn số tiền, nhưng phải sau rất nhiều năm.
 
 Thẩm phán Munger còn cho chồng của con gái mình, một nhạc công, đi học trường dược, rồi giúp anh mua một hiệu thuốc ở vị trí tốt đã đóng cửa vì khủng hoảng. Hiệu thuốc làm ăn phát đạt và bảo đảm tương lai cho người cô của Munger. Munger học được rằng nhờ hỗ trợ lẫn nhau, nhà Munger đã vượt qua cuộc sụp đổ kinh tế tồi tệ nhất trong lịch sử nước Mỹ.
 
-May mắn là hãng luật của Al Munger phát đạt trong khủng hoảng, và còn được tiếp sức khi Tối cao Pháp viện Hoa Kỳ đồng ý xem xét một vụ thuế liên quan tới một công ty làm xà phòng nhỏ mà ông đại diện. Tình cờ, tập đoàn khổng lồ Colgate-Palmolive cũng chịu ảnh hưởng của phán quyết. Lo rằng ông luật sư Trung Tây không đủ kinh nghiệm để thắng trước toà án cao nhất, Colgate đề nghị trả cho Al một khoản hậu hĩnh để ông nhường chỗ cho một luật sư nổi tiếng ở New York. Luật sư thành phố lớn thua kiện, còn Al bỏ túi một khoản phí lớn. Về sau ông đùa rằng ông cũng có thể thua vụ đó y như vậy với mức phí rẻ hơn nhiều. Số tiền chưa bao giờ được tiết lộ, nhưng cộng với thu nhập từ các khách hàng khác, nó đủ giúp nhà Munger sống thoải mái trong khủng hoảng. Munger cũng góp phần bằng cách tự đi làm kiếm tiền tiêu vặt, và nhờ đó học trực tiếp giá trị của độc lập tài chính.
+May mắn là hãng luật của Al Munger phát đạt trong khủng hoảng, và còn được tiếp sức khi Tối cao Pháp viện Hoa Kỳ đồng ý xem xét một vụ thuế liên quan tới một công ty làm xà phòng nhỏ mà ông đại diện. Tình cờ, tập đoàn khổng lồ Colgate-Palmolive cũng chịu ảnh hưởng của phán quyết. Lo rằng ông luật sư Trung Tây không đủ kinh nghiệm để thắng trước toà án cao nhất, Colgate đề nghị trả cho Al một khoản hậu hĩnh để ông nhường chỗ cho một luật sư nổi tiếng ở New York.
+
+Luật sư thành phố lớn thua kiện, còn Al bỏ túi một khoản phí lớn. Về sau ông đùa rằng ông cũng có thể thua vụ đó y như vậy với mức phí rẻ hơn nhiều. Số tiền chưa bao giờ được tiết lộ, nhưng cộng với thu nhập từ các khách hàng khác, nó đủ giúp nhà Munger sống thoải mái trong khủng hoảng. Munger cũng góp phần bằng cách tự đi làm kiếm tiền tiêu vặt, và nhờ đó học trực tiếp giá trị của độc lập tài chính.
 
 ### 5. Đại học, quân ngũ và Trường Luật Harvard (trang in 9–11)
 
 Một câu trích in nổi của Munger mở đoạn này: ông có một đợt ngâm mình ngắn trong vật lý sơ cấp, hoàn toàn do những động cơ khuyến khích bất thường của Thế chiến II; đợt đó cải thiện rất nhiều sự khôn ngoan của ông, vì ông được cho thêm nhiều mô hình, nên bớt giống "người cầm búa".
 
-Năm 1941, khi chiến tranh đang lan khắp bên kia Đại Tây Dương, Munger tốt nghiệp Central High và rời Omaha tới Đại học Michigan. Ông chọn chuyên ngành toán vì sức hút của logic và lý lẽ bằng con số. Ông cũng khám phá ra vật lý khi học một môn cơ bản để đủ yêu cầu về khoa học. Ông bị cuốn hút bởi sức mạnh và tầm với vô hạn của vật lý, đặc biệt là quy trình mà các nhà vật lý như Albert Einstein dùng để tiếp cận điều chưa biết. Cách giải quyết vấn đề kiểu vật lý trở thành đam mê của Munger, và ông coi đó là kỹ năng giúp đóng khung các vấn đề của cuộc sống. Ông thường nói ai muốn thành công cũng nên học vật lý, vì khái niệm và công thức của nó cho thấy rất đẹp sức mạnh của một lý thuyết đúng đắn.
+Năm 1941, khi chiến tranh đang lan khắp bên kia Đại Tây Dương, Munger tốt nghiệp Central High và rời Omaha tới Đại học Michigan. Ông chọn chuyên ngành toán vì sức hút của logic và lý lẽ bằng con số. Ông cũng khám phá ra vật lý khi học một môn cơ bản để đủ yêu cầu về khoa học. Ông bị cuốn hút bởi sức mạnh và tầm với vô hạn của vật lý, đặc biệt là quy trình mà các nhà vật lý như Albert Einstein dùng để tiếp cận điều chưa biết.
+
+Cách giải quyết vấn đề kiểu vật lý trở thành đam mê của Munger, và ông coi đó là kỹ năng giúp đóng khung các vấn đề của cuộc sống. Ông thường nói ai muốn thành công cũng nên học vật lý, vì khái niệm và công thức của nó cho thấy rất đẹp sức mạnh của một lý thuyết đúng đắn.
 
 Đàn ông tuổi đại học lúc đó rất được quân đội cần. Vài ngày sau sinh nhật 19 tuổi, khi vừa học xong năm thứ hai ở Michigan, Munger nhập ngũ Không lực Lục quân Hoa Kỳ (Army Air Corps), trong một chương trình sẽ đưa ông lên quân hàm thiếu uý. Ông được gửi tới cơ sở Albuquerque của Đại học New Mexico học khoa học đại cương và kỹ thuật, rồi chuyển tới Viện Công nghệ California (Caltech) danh tiếng ở Pasadena. Ở đó ông học nhiệt động học và khí tượng học (môn thiết yếu với phi công lúc bấy giờ) và được đào tạo thành nhân viên khí tượng. Học xong ở Caltech, ông được điều tới đơn vị đóng quân lâu dài ở Nome, Alaska.
 
@@ -985,13 +1009,17 @@ Munger xây dựng quỹ Wheeler, Munger từ 1962 tới 1975:
 
 Quỹ bị đánh mạnh trong thị trường giá xuống tàn khốc 1973–1974, khi hai khoản nắm giữ lớn nhất là Blue Chip Stamps và New America Fund giảm giá mạnh. Theo lời Munger, sự sụt giảm này xảy ra dù các khoản đầu tư chính của quỹ "gần như chắc chắn cuối cùng sẽ bán được với giá cao hơn giá thị trường đang niêm yết". Năm 1975 quỹ phục hồi mạnh, tăng 73,2%.
 
-Sau trải nghiệm khó khăn đó, Munger đi theo kết luận của Buffett (người đã đóng các quỹ hợp danh của mình năm 1969): ông không muốn quản lý tiền trực tiếp cho nhà đầu tư nữa. Thay vào đó, hai người quyết định tích luỹ tài sản bằng cách sở hữu cổ phần trong một công ty mẹ nắm giữ. Khi Wheeler, Munger được thanh lý, những người góp vốn nhận cổ phiếu Blue Chip Stamps và Diversified Retailing. Về sau, số cổ phiếu này được đổi thành cổ phiếu Berkshire Hathaway, có giá 38 USD vào cuối năm 1975. Khi sách được viết, mỗi cổ phiếu đáng hơn 85.000 USD (người tổng hợp tính: khoảng 2.200 lần trong khoảng 30 năm, tức khoảng 29% mỗi năm), đưa Munger vào danh sách 400 người giàu nhất của *Forbes*. Ông không ngại sự giàu có, nhưng tiếc vì tên mình có trong một danh sách như vậy. Dù có lòng tự tin lành mạnh, ông vẫn muốn được vô danh.
+Sau trải nghiệm khó khăn đó, Munger đi theo kết luận của Buffett (người đã đóng các quỹ hợp danh của mình năm 1969): ông không muốn quản lý tiền trực tiếp cho nhà đầu tư nữa. Thay vào đó, hai người quyết định tích luỹ tài sản bằng cách sở hữu cổ phần trong một công ty mẹ nắm giữ. Khi Wheeler, Munger được thanh lý, những người góp vốn nhận cổ phiếu Blue Chip Stamps và Diversified Retailing.
+
+Về sau, số cổ phiếu này được đổi thành cổ phiếu Berkshire Hathaway, có giá 38 USD vào cuối năm 1975. Khi sách được viết, mỗi cổ phiếu đáng hơn 85.000 USD (người tổng hợp tính: khoảng 2.200 lần trong khoảng 30 năm, tức khoảng 29% mỗi năm), đưa Munger vào danh sách 400 người giàu nhất của *Forbes*. Ông không ngại sự giàu có, nhưng tiếc vì tên mình có trong một danh sách như vậy. Dù có lòng tự tin lành mạnh, ông vẫn muốn được vô danh.
 
 **Hộp bên lề của người biên tập "The Answer Man" (Người trả lời mọi câu hỏi).** Hai mươi nghìn người dự đại hội cổ đông Berkshire, và gần năm trăm người tụ họp ở đại hội Wesco Financial. Trong khoảng sáu giờ ở đại hội Berkshire và ba giờ ở Wesco, không cần cả bút chì lẫn giấy, không tập trước và không sàng lọc câu hỏi, Munger trả lời mọi câu hỏi. Ví dụ ở đại hội Wesco năm 2004: một người hỏi rằng tối thứ Sáu tới ông ta sẽ dự giải câu cá Wall-Eye Opener ở hồ Eagle, Minnesota, Munger có gợi ý gì về mồi giả hay mồi thật không. Munger đáp: ông đã thôi câu cá walleye, về già ông thành người câu cá vược; nhưng ở hồ của ông, người ta câu walleye tốt hơn vào ban đêm.
 
 ### 11. Bảng kết quả quỹ hợp danh của Munger (trang in 21)
 
-**Hộp bên lề của người biên tập "Charlie Munger Investment Partnership Results"** trích bài "The Superinvestors of Graham-and-Doddsville" của Warren E. Buffett. Buffett viết: Bảng 5 là thành tích của một người bạn của ông tốt nghiệp Luật Harvard và đã lập một hãng luật lớn. Khoảng năm 1960, Buffett gặp ông và nói rằng luật là sở thích tốt nhưng ông có thể làm tốt hơn. Người bạn lập một quỹ hợp danh ngược hẳn với quỹ của Walter J. Schloss (một "siêu nhà đầu tư" khác được giới thiệu trong bài). Danh mục của ông tập trung vào rất ít chứng khoán, nên kết quả biến động hơn nhiều, nhưng dựa trên cùng phương pháp mua với giá chiết khấu so với giá trị. Ông sẵn sàng chấp nhận những đỉnh và đáy hiệu suất lớn hơn, và tình cờ cả tâm tính ông đều hướng về sự tập trung, với kết quả như bảng cho thấy. Buffett tiết lộ người đó là Charlie Munger, cộng sự lâu năm của ông trong việc điều hành Berkshire Hathaway; nhưng khi Munger điều hành quỹ, danh mục của ông gần như hoàn toàn khác danh mục của Buffett và của những người được nhắc trước đó trong bài.
+**Hộp bên lề của người biên tập "Charlie Munger Investment Partnership Results"** trích bài "The Superinvestors of Graham-and-Doddsville" của Warren E. Buffett. Buffett viết: Bảng 5 là thành tích của một người bạn của ông tốt nghiệp Luật Harvard và đã lập một hãng luật lớn. Khoảng năm 1960, Buffett gặp ông và nói rằng luật là sở thích tốt nhưng ông có thể làm tốt hơn.
+
+Người bạn lập một quỹ hợp danh ngược hẳn với quỹ của Walter J. Schloss (một "siêu nhà đầu tư" khác được giới thiệu trong bài). Danh mục của ông tập trung vào rất ít chứng khoán, nên kết quả biến động hơn nhiều, nhưng dựa trên cùng phương pháp mua với giá chiết khấu so với giá trị. Ông sẵn sàng chấp nhận những đỉnh và đáy hiệu suất lớn hơn, và tình cờ cả tâm tính ông đều hướng về sự tập trung, với kết quả như bảng cho thấy. Buffett tiết lộ người đó là Charlie Munger, cộng sự lâu năm của ông trong việc điều hành Berkshire Hathaway; nhưng khi Munger điều hành quỹ, danh mục của ông gần như hoàn toàn khác danh mục của Buffett và của những người được nhắc trước đó trong bài.
 
 Bảng 5 — Charles Munger. Ba cột "Over-all Partnership", "Limited Partners" và "Dow" là quỹ của Munger trước phí, phần của người góp vốn sau phí, và chỉ số Dow; bốn cột đầu là các quỹ đầu tư lớn được dùng làm đối chứng (Massachusetts Investors Trust, Investors Stock Fund, Lehman Corporation, Tri-Continental Corporation). Đơn vị: phần trăm.
 
@@ -1057,7 +1085,9 @@ Broggie viết rằng chuyện thành công phi thường của Berkshire Hathaw
 
 Phần lớn các khoản đầu tư chính được giữ dài hạn; thực tế họ vẫn sở hữu gần như mọi doanh nghiệp từng mua đứt.
 
-Sự gắn bó của Munger với sự nghiệp rộng lớn của Benjamin Franklin trong chính quyền, kinh doanh, tài chính và công nghiệp hiện ra trong nhiều bài nói của ông và bất cứ khi nào ông có người nghe, dù đông hay ít. Ở lễ kỷ niệm 75 năm của See's Candy, Munger nói ông là "người nghiện tiểu sử". Ông cho rằng khi muốn dạy những khái niệm lớn có hiệu quả, nên gắn chúng với cuộc đời và tính cách của những người đã phát triển chúng; người ta học kinh tế tốt hơn nếu biến Adam Smith thành bạn mình. Ông thừa nhận "kết bạn với những người vĩ đại đã khuất" nghe buồn cười, nhưng nếu cả đời kết bạn với những người vĩ đại đã khuất có ý tưởng đúng, nó sẽ có ích hơn cho cuộc sống và cho việc học, tốt hơn nhiều so với chỉ đưa ra các khái niệm cơ bản. (Câu này cũng được in nổi ở trang.)
+Sự gắn bó của Munger với sự nghiệp rộng lớn của Benjamin Franklin trong chính quyền, kinh doanh, tài chính và công nghiệp hiện ra trong nhiều bài nói của ông và bất cứ khi nào ông có người nghe, dù đông hay ít. Ở lễ kỷ niệm 75 năm của See's Candy, Munger nói ông là "người nghiện tiểu sử". Ông cho rằng khi muốn dạy những khái niệm lớn có hiệu quả, nên gắn chúng với cuộc đời và tính cách của những người đã phát triển chúng; người ta học kinh tế tốt hơn nếu biến Adam Smith thành bạn mình.
+
+Ông thừa nhận "kết bạn với những người vĩ đại đã khuất" nghe buồn cười, nhưng nếu cả đời kết bạn với những người vĩ đại đã khuất có ý tưởng đúng, nó sẽ có ích hơn cho cuộc sống và cho việc học, tốt hơn nhiều so với chỉ đưa ra các khái niệm cơ bản. (Câu này cũng được in nổi ở trang.)
 
 **Hộp bên lề của người biên tập "Charlie on Being a Partner"** (Munger nói về làm cộng sự). Theo Munger, một người cộng sự lý tưởng là người có khả năng làm việc một mình. Có thể làm cộng sự chính, cộng sự phụ, hoặc cộng sự ngang hàng luôn hợp tác; ông đã làm cả ba vai. Người ta không tin nổi chuyện ông bỗng tự biến mình thành cộng sự phụ của Buffett, nhưng có những người mà làm cộng sự phụ cho họ là hoàn toàn ổn, và ông không có cái tôi kiểu ngăn cản điều đó. Luôn có người giỏi hơn mình ở một việc nào đó. Phải học làm người đi theo trước khi làm người dẫn đầu. Người ta nên học đóng mọi vai.
 
@@ -1135,7 +1165,15 @@ Broggie kết: với trí tuệ sắc sảo và óc hài hước, Charlie Munger
 | 2004 | Tháng 7: Susan Buffett mất; đại hội Wesco (câu hỏi về câu cá walleye); tháng 9 khánh thành, giữa tháng 11 mở cửa đầy đủ Trung tâm Nghiên cứu Munger ở Thư viện Huntington; 11/10: *Forbes* xếp Munger vào Forbes 400 với 1,6 tỷ USD, 80 tuổi |
 | 2005 | Phỏng vấn *Kiplinger's Personal Finance* ("Too Much Alike?"); khi sách được viết: Berkshire khoảng 135 tỷ USD, cổ phiếu hơn 85.000 USD, MTO có 175 luật sư, Munger có 16 cháu |
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Anh Minh, 32 tuổi, là kỹ sư phần mềm lương khá nhưng giống Munger thời làm luật, thu nhập của anh bị giới hạn bởi số giờ làm. Anh áp các bài học trong tiểu sử. Thứ nhất, **kiểm soát chi tiêu và tái đầu tư toàn bộ lợi nhuận**: anh sống bằng 60% lương, để dành 40% (giả sử 15 triệu đồng mỗi tháng) và không rút lãi ra tiêu. Thứ hai, **tìm cơ hội ngay trong công việc trước mặt** như Munger nhận cổ phần ở công ty khách hàng: anh nhận một phần trả công bằng cổ phần khi làm cho một công ty khởi nghiệp mà anh hiểu rõ. Thứ ba, **đầu tư tập trung vào thứ mình hiểu và mua dưới giá trị**: anh chỉ giữ ba đến năm cổ phiếu mà anh đã đọc kỹ báo cáo nhiều năm. Thứ tư, **chuẩn bị cho những năm như 1973–1974**: anh biết danh mục tập trung có thể giảm 30% hai năm liền, nên không vay để đầu tư và giữ quỹ dự phòng sáu tháng chi tiêu, để không phải bán khi giá thấp hơn giá trị. Nếu anh đạt được 15%/năm trong 20 năm, mỗi 100 triệu đồng sẽ thành khoảng 1,64 tỷ đồng; nếu chỉ đạt 5%/năm như chỉ số chuẩn trong bảng Munger, nó chỉ thành khoảng 265 triệu đồng. Thứ năm, **đọc liên tục và học nhiều ngành** để có thêm mô hình tư duy, không làm "người cầm búa" chỉ nhìn mọi thứ qua lăng kính công nghệ. Thứ sáu, **tìm một người cộng sự** mà anh tôn trọng trí tuệ và sự chính trực, nhưng ý thức rằng hai người quá giống nhau thì dễ cùng bỏ sót một lỗi, nên anh mời thêm một người bạn làm kế toán phản biện các quyết định lớn. Cuối cùng, khi đã đủ độc lập tài chính, anh đặt mục tiêu cho đi theo kiểu Munger: tài trợ một phòng thí nghiệm máy tính cho trường cũ, nhưng đòi hỏi kết quả đo được (đúng hạn, trong ngân sách, kèm kinh phí vận hành vài năm).
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Anh Minh, 32 tuổi, là kỹ sư phần mềm lương khá nhưng giống Munger thời làm luật, thu nhập của anh bị giới hạn bởi số giờ làm. Anh áp các bài học trong tiểu sử. Thứ nhất, **kiểm soát chi tiêu và tái đầu tư toàn bộ lợi nhuận**: anh sống bằng 60% lương, để dành 40% (giả sử 15 triệu đồng mỗi tháng) và không rút lãi ra tiêu.
+
+Thứ hai, **tìm cơ hội ngay trong công việc trước mặt** như Munger nhận cổ phần ở công ty khách hàng: anh nhận một phần trả công bằng cổ phần khi làm cho một công ty khởi nghiệp mà anh hiểu rõ. Thứ ba, **đầu tư tập trung vào thứ mình hiểu và mua dưới giá trị**: anh chỉ giữ ba đến năm cổ phiếu mà anh đã đọc kỹ báo cáo nhiều năm.
+
+Thứ tư, **chuẩn bị cho những năm như 1973–1974**: anh biết danh mục tập trung có thể giảm 30% hai năm liền, nên không vay để đầu tư và giữ quỹ dự phòng sáu tháng chi tiêu, để không phải bán khi giá thấp hơn giá trị. Nếu anh đạt được 15%/năm trong 20 năm, mỗi 100 triệu đồng sẽ thành khoảng 1,64 tỷ đồng; nếu chỉ đạt 5%/năm như chỉ số chuẩn trong bảng Munger, nó chỉ thành khoảng 265 triệu đồng.
+
+Thứ năm, **đọc liên tục và học nhiều ngành** để có thêm mô hình tư duy, không làm "người cầm búa" chỉ nhìn mọi thứ qua lăng kính công nghệ. Thứ sáu, **tìm một người cộng sự** mà anh tôn trọng trí tuệ và sự chính trực, nhưng ý thức rằng hai người quá giống nhau thì dễ cùng bỏ sót một lỗi, nên anh mời thêm một người bạn làm kế toán phản biện các quyết định lớn.
+
+Cuối cùng, khi đã đủ độc lập tài chính, anh đặt mục tiêu cho đi theo kiểu Munger: tài trợ một phòng thí nghiệm máy tính cho trường cũ, nhưng đòi hỏi kết quả đo được (đúng hạn, trong ngân sách, kèm kinh phí vận hành vài năm).
 
 ## Luận điểm cốt lõi
 
@@ -1286,11 +1324,15 @@ Theo Broggie, Charlie Munger trở thành một trong những nhà đầu tư th
 
 ### Sức mạnh của bài là cho thấy tư tưởng của Munger có gốc rễ trong đời sống cụ thể của ông
 
-Nhiều ý mà người đọc sẽ gặp ở các chương sau đã có mặt ở đây dưới dạng chuyện đời: thói quen đọc (hộp "Knowledge Wins"), học nhiều ngành để tránh "hội chứng người cầm búa" (vật lý, khí tượng), sức mạnh của động cơ khuyến khích (học vật lý vì chiến tranh), thống kê kết quả (phim phẫu thuật của bác sĩ Davis), lãi kép (tái đầu tư lợi nhuận bất động sản), chi phí cơ hội (lời Buffett về nghề luật), và "kết bạn với những người vĩ đại đã khuất" (Franklin, Adam Smith). Nhờ vậy, tiểu sử không chỉ là phần giới thiệu trang trọng mà là chìa khoá để hiểu vì sao Munger nghĩ như ông nghĩ. Các hộp bên lề (phỏng vấn, chuyện chiếc thuyền, "The Answer Man") làm chân dung sống động và cho thấy óc hài hước, một nét quan trọng mà văn phong tiểu sử chính thức dễ làm mất.
+Nhiều ý mà người đọc sẽ gặp ở các chương sau đã có mặt ở đây dưới dạng chuyện đời: thói quen đọc (hộp "Knowledge Wins"), học nhiều ngành để tránh "hội chứng người cầm búa" (vật lý, khí tượng), sức mạnh của động cơ khuyến khích (học vật lý vì chiến tranh), thống kê kết quả (phim phẫu thuật của bác sĩ Davis), lãi kép (tái đầu tư lợi nhuận bất động sản), chi phí cơ hội (lời Buffett về nghề luật), và "kết bạn với những người vĩ đại đã khuất" (Franklin, Adam Smith).
+
+Nhờ vậy, tiểu sử không chỉ là phần giới thiệu trang trọng mà là chìa khoá để hiểu vì sao Munger nghĩ như ông nghĩ. Các hộp bên lề (phỏng vấn, chuyện chiếc thuyền, "The Answer Man") làm chân dung sống động và cho thấy óc hài hước, một nét quan trọng mà văn phong tiểu sử chính thức dễ làm mất.
 
 ### Bảng 5 là bằng chứng mạnh nhất và cũng là chỗ đáng đọc kỹ nhất
 
-Bảng kết quả quỹ hợp danh là phần duy nhất có số liệu kiểm chứng được, và nó cho thấy cả hai mặt của phương pháp tập trung. Quỹ vượt Dow hơn 14 điểm phần trăm mỗi năm trước phí trong cả giai đoạn, nhưng chỉ khoảng 8,7 điểm sau phí, và chịu hai năm lỗ trên 30% liên tiếp; từ đỉnh cuối 1972 tới đáy cuối 1974, phần của người góp vốn giảm khoảng 53% (từ 742,7 xuống 346,5 trên mỗi 100 USD ban đầu, theo cột tích luỹ). Ít nhà đầu tư cá nhân chịu nổi mức sụt giảm đó mà không bán. Bài viết nói thoáng qua chuyện này và nhấn mạnh sự phục hồi năm 1975; người đọc nên rút ra bài học rằng lợi suất cao của chiến lược tập trung đi kèm cái giá tâm lý rất lớn, và chính Munger, sau trải nghiệm này, đã thôi quản lý tiền cho người khác.
+Bảng kết quả quỹ hợp danh là phần duy nhất có số liệu kiểm chứng được, và nó cho thấy cả hai mặt của phương pháp tập trung. Quỹ vượt Dow hơn 14 điểm phần trăm mỗi năm trước phí trong cả giai đoạn, nhưng chỉ khoảng 8,7 điểm sau phí, và chịu hai năm lỗ trên 30% liên tiếp; từ đỉnh cuối 1972 tới đáy cuối 1974, phần của người góp vốn giảm khoảng 53% (từ 742,7 xuống 346,5 trên mỗi 100 USD ban đầu, theo cột tích luỹ).
+
+Ít nhà đầu tư cá nhân chịu nổi mức sụt giảm đó mà không bán. Bài viết nói thoáng qua chuyện này và nhấn mạnh sự phục hồi năm 1975; người đọc nên rút ra bài học rằng lợi suất cao của chiến lược tập trung đi kèm cái giá tâm lý rất lớn, và chính Munger, sau trải nghiệm này, đã thôi quản lý tiền cho người khác.
 
 ### Bài mang tính ca ngợi và thiếu góc nhìn phê bình
 
@@ -1302,7 +1344,9 @@ Các số liệu như giá trị Berkshire khoảng 135 tỷ USD, cổ phiếu h
 
 ### Quan điểm trái chiều: không phải ai đi theo con đường của Munger cũng có kết quả như ông
 
-Bài ngầm gợi ý rằng tính cách và nguyên tắc của Munger dẫn tới thành công, nhưng nhiều yếu tố khác cũng góp phần: xuất thân trong một gia đình luật gia có quan hệ (ông nội thẩm phán liên bang, cha luật sư, Roscoe Pound can thiệp để ông vào Harvard dù không có bằng cử nhân), thời điểm lịch sử (sau Thế chiến II, nước Mỹ tăng trưởng mạnh, thị trường chứng khoán có nhiều cổ phiếu rẻ), và cuộc gặp tình cờ với Buffett. Nhìn từ góc độ thống kê (điều mà chính Munger hay nhắc), một tiểu sử thành công là một mẫu đã được chọn lọc: những người cũng đầu tư tập trung mà thất bại ít khi được viết tiểu sử. Điều này không làm mất giá trị của bài học, nhưng nhắc người đọc tránh suy luận rằng chỉ cần chép các thói quen là sẽ có kết quả tương tự.
+Bài ngầm gợi ý rằng tính cách và nguyên tắc của Munger dẫn tới thành công, nhưng nhiều yếu tố khác cũng góp phần: xuất thân trong một gia đình luật gia có quan hệ (ông nội thẩm phán liên bang, cha luật sư, Roscoe Pound can thiệp để ông vào Harvard dù không có bằng cử nhân), thời điểm lịch sử (sau Thế chiến II, nước Mỹ tăng trưởng mạnh, thị trường chứng khoán có nhiều cổ phiếu rẻ), và cuộc gặp tình cờ với Buffett.
+
+Nhìn từ góc độ thống kê (điều mà chính Munger hay nhắc), một tiểu sử thành công là một mẫu đã được chọn lọc: những người cũng đầu tư tập trung mà thất bại ít khi được viết tiểu sử. Điều này không làm mất giá trị của bài học, nhưng nhắc người đọc tránh suy luận rằng chỉ cần chép các thói quen là sẽ có kết quả tương tự.
 
 ### Vận dụng: học từ tiểu sử một người như học một bộ mô hình tư duy
 
@@ -1310,3 +1354,154 @@ Bài ngầm gợi ý rằng tính cách và nguyên tắc của Munger dẫn t�
 - **Trong doanh nghiệp và nghề nghiệp.** Nếu thu nhập bị giới hạn bởi giờ làm, tìm cách chuyển dần sang sở hữu (cổ phần, tài sản, doanh nghiệp); tái đầu tư lợi nhuận thay vì tiêu; làm tốt việc trên bàn thay vì tốn công tiếp thị; chọn khách hàng và đối tác như chọn bạn; không cần lấy đồng đô la cuối cùng trong mỗi giao dịch; tìm một cộng sự giỏi và chính trực, sẵn lòng đóng vai phụ khi người kia giỏi hơn, nhưng thêm một người có cách nhìn khác để tránh điểm mù chung.
 - **Trong ra quyết định cá nhân.** Đọc liên tục và đọc nhiều ngành, nhất là tiểu sử; trước mỗi quyết định lớn, hỏi mình đang dùng những mô hình nào và có đang là "người cầm búa" không; giữ chi tiêu dưới thu nhập để đạt độc lập tài chính, rồi dùng sự độc lập đó cho việc có giá trị với người khác; khi cho đi, cũng đòi hỏi kết quả đo được.
 - **Ở Việt Nam.** Bài học về tích luỹ, tái đầu tư và tránh vay để đầu tư hợp với một thị trường chứng khoán còn non trẻ, biến động mạnh và hay có những đợt giảm sâu; nhà đầu tư cá nhân muốn tập trung vào ít cổ phiếu cần chuẩn bị tâm lý và tài chính cho những năm như 1973–1974 của Munger. Mô hình quan hệ làm ăn dựa trên chữ tín có sẵn trong văn hoá kinh doanh gia đình, nhưng nên kết hợp với minh bạch và phản biện để tránh hai người cùng sai. Hoạt động từ thiện cho giáo dục và nghiên cứu có thể học cách đặt yêu cầu về tiến độ, ngân sách và kinh phí vận hành lâu dài, như Munger làm với Thư viện Huntington.
+
+## Bản đồ tư duy
+
+Toàn cảnh phần 1 của Chương 1 trên một trang: sáu nhánh lớn đi theo các mục 1–15 trong phần Nội dung chi tiết (tuổi thơ ở Omaha, học hành và quân ngũ, con đường từ luật sư sang nhà tư bản, quan hệ cộng sự với Buffett, quỹ Wheeler, Munger và Berkshire, Franklin và hoạt động từ thiện), mỗi nhánh ghi nguyên tắc, giai thoại, con số và câu nói then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 1 (phần 1): thành công của Munger đến từ một tính cách hun đúc rất sớm, không từ may mắn hay một mẹo đầu tư`"]
+  n1["`Mục 1–4 — Tuổi thơ ở Omaha hun đúc thói đọc, óc khoa học, kỷ luật và tương trợ`"]
+  n0 --- n1
+  n2["`Cửa hàng Buffett and Son của Ernest Buffett: ca 12 giờ, lương 2 USD mỗi ngày, nộp 2 xu cho An sinh Xã hội`"]
+  n1 --- n2
+  n3["`Munger chưa gặp người khôn ngoan nào mà không đọc liên tục#59; các con gọi ông là cuốn sách thò ra hai cái chân`"]
+  n1 --- n3
+  n4["`Từ tiểu học đã mê sách tiểu sử và cách ngôn của Benjamin Franklin`"]
+  n1 --- n4
+  n5["`Tạp chí y khoa và thống kê kết quả phẫu thuật của bác sĩ Ed Davis nuôi mối quan tâm khoa học suốt đời`"]
+  n1 --- n5
+  n6["`Ông nội liều gần nửa tài sản, đổi 35.000 USD nợ tốt lấy nợ xấu để cứu ngân hàng của chú Tom`"]
+  n1 --- n6
+  n7["`Hai nguyên tắc của ông nội: tập trung vào việc ngay trước mặt và kiểm soát chi tiêu`"]
+  n1 --- n7
+  n8["`Đại khủng hoảng và việc tự đi làm kiếm tiền tiêu dạy giá trị của độc lập tài chính`"]
+  n1 --- n8
+  n9["`Mục 5–6 — Toán, vật lý và Luật Harvard cho thêm mô hình tư duy`"]
+  n0 --- n9
+  n10["`Học toán ở Đại học Michigan#59; vật lý cho thấy sức mạnh của lý thuyết đúng đắn, ai muốn thành công nên học`"]
+  n9 --- n10
+  n11["`Học vật lý, khí tượng thời chiến do động cơ khuyến khích, có thêm mô hình nên bớt giống người cầm búa`"]
+  n9 --- n11
+  n12["`Hội chứng người cầm búa: dùng một công cụ cho mọi vấn đề#59; cách tránh là học nhiều ngành`"]
+  n9 --- n12
+  n13["`Dự báo thời tiết thời đó giống dùng số liệu đua ngựa để đoán kết quả đua ngựa`"]
+  n9 --- n13
+  n14["`Vào Luật Harvard không có bằng cử nhân nhờ Roscoe Pound#59; 1948 magna cum laude, 1 trong 12 trên 335`"]
+  n9 --- n14
+  n15["`IQ ở đỉnh thang đo của quân đội#59; nói năng cộc lốc vì vội, không vì coi thường`"]
+  n9 --- n15
+  n16["`1953 ly hôn, con trai Teddy mắc bệnh bạch cầu#59; 1956 cưới Nancy Barry Borthwick, tổng cộng tám con`"]
+  n9 --- n16
+  n17["`Mục 7, 9 — Từ luật sư tính phí theo giờ sang nhà tư bản`"]
+  n0 --- n17
+  n18["`Thu nhập luật sư bị giới hạn bởi giờ tính phí và thâm niên, nên muốn giống các khách hàng nhà tư bản`"]
+  n17 --- n18
+  n19["`Bất động sản 1961 cùng Otis Booth: lãi 300.000 USD trên 100.000 USD vốn`"]
+  n17 --- n19
+  n20["`Giữ lại toàn bộ lợi nhuận trong dự án, dừng năm 1964 với 1,4 triệu USD`"]
+  n17 --- n20
+  n21["`1962 lập Munger, Tolles #amp; Hills, nay là Munger, Tolles #amp; Olson#59; rời hãng năm 1965`"]
+  n17 --- n21
+  n22["`Nguồn việc mới tốt nhất là công việc trên bàn: làm tốt việc đang có, việc mới sẽ tới`"]
+  n17 --- n22
+  n23["`Châm ngôn cho luật sư: không cần lấy đồng đô la cuối cùng, chọn khách hàng như chọn bạn bè`"]
+  n17 --- n23
+  n24["`Không lấy phần vốn trong hãng, chuyển cho gia đình đối tác Fred Warder mất vì ung thư`"]
+  n17 --- n24
+  n25["`Mục 8, 12–13 — Cộng tác với Buffett dựa trên tính hợp lý và chữ tín`"]
+  n0 --- n25
+  n26["`Bữa tối 1959 ở Omaha: Buffett 29 tuổi, Munger 35 tuổi#59; bác sĩ Davis từng giao Buffett 100.000 USD vì Buffett giống Munger`"]
+  n25 --- n26
+  n27["`Buffett: luật là sở thích tốt nhưng là ngành kinh doanh kém hứa hẹn hơn đầu tư, nên Munger bỏ luật`"]
+  n25 --- n27
+  n28["`Không hợp đồng, chỉ một cái bắt tay giữa hai người Trung Tây tôn trọng lời hứa`"]
+  n25 --- n28
+  n29["`Bí quyết thành công trong một từ: #quot;rational#quot;, hợp lý, ông áp dụng nó trong kinh doanh`"]
+  n25 --- n29
+  n30["`40 năm chưa từng đoán lại quyết định của Buffett, chưa từng cãi nhau: người cộng sự hoàn hảo`"]
+  n25 --- n30
+  n31["`Too Much Alike: hai người quá giống nhau nên điều lọt qua người này dễ lọt qua cả hai`"]
+  n25 --- n31
+  n32["`Cộng sự lý tưởng làm được một mình#59; phải học làm người theo trước khi làm người dẫn`"]
+  n25 --- n32
+  n33["`Thuyền Channel Cat bị gọi là Munger's Folly#59; Munger đáp: đóng thuyền rất vui thì phi lý chỗ nào`"]
+  n25 --- n33
+  n34["`Mục 10–11, 13 — Quỹ Wheeler, Munger và Berkshire: tập trung, mua dưới giá trị, giữ dài hạn`"]
+  n0 --- n34
+  n35["`Danh mục tập trung vào rất ít chứng khoán, mua với giá chiết khấu so với giá trị`"]
+  n34 --- n35
+  n36["`Hai ghế ở sàn Pacific Coast giúp phí giao dịch thấp, chi phí quản lý gần bằng không`"]
+  n34 --- n36
+  n37["`1962–1972: 28,3%/năm trước phí, 20,0% sau phí, so với 6,7% của Dow`"]
+  n34 --- n37
+  n38["`1973–1974 lỗ 31,9% và 31,5% do Blue Chip Stamps và New America Fund#59; 1975 tăng 73,2%`"]
+  n34 --- n38
+  n39["`Cả 14 năm: 19,8%/năm trước phí, 13,7% sau phí so với 5,0% của Dow#59; tích luỹ +1.156,7%`"]
+  n34 --- n39
+  n40["`Sau đó thôi quản lý tiền cho người khác, tích luỹ tài sản qua công ty mẹ nắm giữ`"]
+  n34 --- n40
+  n41["`Cổ phiếu Berkshire từ 38 USD cuối 1975 lên hơn 85.000 USD#59; Forbes 400 năm 2004 với 1,6 tỷ USD`"]
+  n34 --- n41
+  n42["`Berkshire từ 10 triệu USD lên khoảng 135 tỷ USD, khoảng 13.500 lần, số cổ phiếu hầu như không tăng`"]
+  n34 --- n42
+  n43["`Mua đứt GEICO, NetJets, Dairy Queen…, giữ cổ phần lớn Coca-Cola, The Washington Post, gần như không bán`"]
+  n34 --- n43
+  n44["`Mục 13–15 — Kết bạn với người vĩ đại đã khuất và trao lại cho xã hội`"]
+  n0 --- n44
+  n45["`Kết bạn với những người vĩ đại đã khuất: học khái niệm lớn qua cuộc đời người nghĩ ra, như kết bạn với Adam Smith`"]
+  n44 --- n45
+  n46["`Munger thời đầu là hình mẫu tồi vì trao lại cho nền văn minh chưa đủ so với những gì giành từ chủ nghĩa tư bản`"]
+  n44 --- n46
+  n47["`Trung tâm Nghiên cứu Munger ở Thư viện Huntington: 90.000 foot vuông, đúng hạn, hơi dưới ngân sách, kèm bốn năm chi phí vận hành`"]
+  n44 --- n47
+  n48["`Giá trị nhận được cho đồng tiền bỏ ra quan trọng trong từ thiện như trong đầu tư`"]
+  n44 --- n48
+  n49["`Ủng hộ Harvard-Westlake, Stanford, Good Samaritan#59; ưu tiên hàng đầu là Planned Parenthood`"]
+  n44 --- n49
+  n50["`Franklin: không thể vĩ đại mà không tốt#59; dùng tài sản tự tạo để độc lập rồi phục vụ xã hội`"]
+  n44 --- n50
+  n51["`Thông điệp xuyên suốt`"]
+  n0 --- n51
+  n52["`Học cách Munger đầu tư phải học cả cách ông sống: đọc liên tục, học nhiều ngành, kiểm soát chi tiêu, giữ chữ tín`"]
+  n51 --- n52
+  n53["`Chiến lược tập trung vượt xa thị trường nhưng phải chịu được năm lỗ nặng và chọn cấu trúc vốn không bị ép bán`"]
+  n51 --- n53
+  n54["`Độc lập tài chính là phương tiện để được tự do làm điều có giá trị, không phải đích cuối`"]
+  n51 --- n54
+  class n0 root
+  class n1,n9,n17,n25,n34,n44,n51 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n18,n19,n20,n21,n22,n23,n24,n26,n27,n28,n29,n30,n31,n32,n33,n35,n36,n37,n38,n39,n40,n41,n42,n43,n45,n46,n47,n48,n49,n50,n52,n53,n54 leaf
+```
+
+## Nguồn
+
+*Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger*, biên tập Peter D. Kaufman, The Donning Company Publishers, ấn bản mở rộng thứ ba (Expanded Third Edition, 2005/2006/2008; bản PDF là lần in thứ sáu, 2011). Chương 1 "A Portrait of Charles T. Munger", trang in 2–26, gồm bài tiểu sử chính và các hộp bên lề, chú thích ảnh, câu trích in nổi, hai bài phỏng vấn ngắn ("Q and A with Warren Buffett", "Q and A with Susie Buffett"), bảng kết quả quỹ hợp danh của Munger trích từ bài "The Superinvestors of Graham-and-Doddsville" của Buffett, và bài "Charlie Munger's Lesson in Philanthropy" của giám đốc Thư viện Huntington.
+
+## Tác giả
+
+Michael Broggie viết bài tiểu sử chính. Các hộp bên lề do nhóm biên tập (Peter Kaufman và cộng sự) thêm vào; một số hộp có người viết riêng: Warren Buffett và Susan (Susie) Buffett (phỏng vấn do Wendy Munger, con gái Munger, thực hiện tháng 11/1998), Warren Buffett và Rick Guerin (chuyện chiếc thuyền buồm hai thân), Ronald L. Olson (luật sư, đối tác hãng Munger, Tolles & Olson), David S. Zeidberg (giám đốc Thư viện Huntington).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Đây là phần mở đầu của chương 1, ngay sau lời tựa của Buffett ("Buffett on Munger"), lời đáp của Munger ("Rebuttal: Munger on Buffett") và lời giới thiệu của Kaufman.
+
+Lời giới thiệu đã nói vì sao nên học cách Munger suy nghĩ; phần này cho người đọc biết Munger là ai: xuất thân ở Omaha, gia đình, học vấn, nghề luật, con đường đi tới độc lập tài chính, quan hệ đối tác với Buffett, thành tích đầu tư và hoạt động từ thiện. Hai phần tiếp theo của chương 1 bổ sung chân dung này từ góc nhìn khác: Munger tự bàn về tuổi già ("Praising Old Age", trang in 27–38) và các con kể về cha ("Remembering: The Children on Charlie", trang in 39–51).
+
+Từ chương 2 trở đi, sách chuyển từ con người sang tư tưởng: cách tiếp cận cuộc sống và ra quyết định (chương 2), các câu nói tại đại hội cổ đông (chương 3) và mười một bài nói (chương 4). Nhiều chi tiết trong tiểu sử này (thói quen đọc, sự ngưỡng mộ Benjamin Franklin, "hội chứng người cầm búa", vật lý học như khuôn mẫu giải quyết vấn đề, tính hợp lý) là hạt giống của các ý sẽ được phát triển ở những chương sau.
+
+## Lưu ý
+
+- Bài tiểu sử không có tiểu mục; bản tổng hợp chia theo đoạn nội dung và ghi trang in. Các hộp bên lề, chú thích ảnh và câu trích in nổi (phần lớn là lời Munger) được tách thành khối riêng, ghi rõ "hộp bên lề của người biên tập" hoặc "chú thích ảnh". Một số câu in nổi chỉ lặp lại câu trong bài chính (ví dụ "Charlie learned that, by supporting each other...", "As it turned out, Charlie had little trouble...", "The dinner party included...", "There was no formal partnership...", "To this day, Charlie continues to influence..."); bản tổng hợp không lặp lại chúng.
+- Lỗi OCR đáng chú ý, đã sửa theo ảnh trang hoặc theo ngữ cảnh: "T've" là "I've"; "celectic" là "eclectic"; "MungerP" là "Munger?"; "Seripps" là "Scripps"; "Scemann" có thể là "Seemann" (giữ theo OCR là Lee Scemann vì không đối chiếu được ảnh trang); bảng kết quả quỹ hợp danh (trang in 21) bị OCR làm rối thứ tự và đọc sai nhiều số ("B.1" là 8,1; "-176" là -17,6; "394" là 39,4; "1122" là 112,2; "27.6" thiếu dấu trừ, đúng là -27,6). Bảng trong file này chép lại theo ảnh trang và đã được kiểm tra bằng phép nhân lãi kép.
+
+  Hộp "Charlie Munger's Lesson in Philanthropy" (trang in 24–25) bị OCR trộn hai cột; thứ tự câu đã được dựng lại theo ảnh trang. Câu trích "Charlie Munger has spent a professional lifetime..." ở trang in 18 là của Ronald Olson; hai dòng tên Robert E. Denham và Ronald L. Olson bên dưới là chú thích hai bức ảnh chân dung.
+- Chỗ lệch giữa các nguồn trong cùng chương: bài chính nói Munger gặp Buffett năm 1959, còn đoạn trích bài "The Superinvestors of Graham-and-Doddsville" (Buffett viết; theo hiểu biết của người tổng hợp là bài nói năm 1984 tại Đại học Columbia) nói "khoảng năm 1960". Bài chính nói danh mục của hai người dần có những khoản trùng nhau (Blue Chip Stamps), còn Buffett nói danh mục của quỹ Munger "gần như hoàn toàn khác" của ông; hai câu nói về những giai đoạn khác nhau nên không hẳn mâu thuẫn. Bài chính nói Buffett "và vài năm sau là Charlie" nắm quyền quản lý Berkshire "từ năm 1964"; theo hiểu biết của người tổng hợp, Buffett giành quyền kiểm soát Berkshire năm 1965 (bắt đầu mua cổ phần từ 1962), còn hộp Forbes cho biết Munger làm phó chủ tịch từ 1978.
+- Bài chính nói 11 năm đầu của quỹ (1962–1972) "không có một năm nào giảm", nhưng chính bảng kết quả ghi năm 1970 là −0,1% (cả quỹ lẫn người góp vốn). Mức giảm rất nhỏ, gần như hoà vốn, nên câu của Broggie đúng về tinh thần nhưng không chính xác tuyệt đối.
+- Bối cảnh thời điểm: bài viết cho ấn bản đầu (2005), nên các chữ "hiện nay", "ngày nay" chỉ khoảng năm 2004–2005: giá trị Berkshire khoảng 135 tỷ USD, mỗi cổ phiếu hơn 85.000 USD, hãng Munger, Tolles & Olson có 175 luật sư, Munger 80 tuổi với tài sản 1,6 tỷ USD theo Forbes (10/2004), 16 cháu. Theo hiểu biết của người tổng hợp (không tra cứu): con trai Teddy mất năm 1955, lúc khoảng chín tuổi (sách chỉ nói cậu bé mắc bệnh bạch cầu không chữa được); bà Nancy Munger mất năm 2010; Wesco Financial được Berkshire mua lại toàn bộ năm 2011; Gillette đã sáp nhập vào Procter & Gamble năm 2005; Munger mất tháng 11/2023, ít tuần trước sinh nhật thứ 100. Những sự kiện này nằm ngoài sách và chỉ được ghi ở đây.
+- Bài viết mang tính ca ngợi (sách do bạn bè và cộng sự của Munger biên soạn, tiền bán sách dành cho Trung tâm Nghiên cứu Munger của Thư viện Huntington), nên ít nói về sai lầm hay đầu tư thất bại của ông, trừ giai đoạn 1973–1974.

@@ -1,17 +1,24 @@
 # Chương 1 (phần 3) — Các con nhớ về cha (Remembering: The Children on Charlie)
 
-**Nguồn:** Peter D. Kaufman (biên tập), *Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger*, The Donning Company Publishers, ấn bản mở rộng thứ ba (Expanded Third Edition; bản PDF là lần in thứ sáu, 2011). Chương 1 "A Portrait of Charles T. Munger", phần "Remembering: The Children on Charlie", trang in 39–51 (PDF trang 53–65). Phần này gồm tám đoạn hồi ức ngắn của tám người con, rồi hai trang ý kiến của bạn bè, đối tác ("Friends Have Their Say", trang in 48–50) và một trang của Bill Gates ("And Bill Gates Has His Say", trang in 51).
-**Tác giả:** Tám người con của Charles T. Munger (Charlie Munger, 1924–2023, phó chủ tịch Berkshire Hathaway, chủ tịch Wesco Financial và Daily Journal Corporation), mỗi người viết một đoạn: Charles T. Munger, Jr.; Wendy Munger; William H. (Hal) Borthwick; David Borthwick; Molly Munger; Emilie Ogden (nhũ danh Munger); Barry Munger; Philip Munger. Hal và David Borthwick là con riêng của bà Nancy Barry Borthwick, vợ thứ hai của Munger (cưới năm 1956), được Munger nuôi từ nhỏ; Molly và Wendy là con của Munger với người vợ đầu; Charles Jr., Emilie, Barry và Philip là con chung của Munger và bà Nancy. Hai trang cuối là lời của các bạn lâu năm và đối tác: Roy Tolles, Glen Mitchel, Bob Bird, Warren Buffett, Dick Esbenshade, Howard Buffett, và cuối cùng là Bill Gates.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 1 dựng chân dung con người Munger trước khi cuốn sách đi vào tư tưởng của ông. Phần 1 là tiểu sử do Michael Broggie viết (trang in 2–26), phần 2 nói về cách Munger nhìn tuổi già (27–38). Phần 3 này đổi góc nhìn: thay vì người viết tiểu sử, chính những người sống cùng nhà và làm việc cạnh Munger kể lại những cảnh nhỏ hằng ngày. Các cảnh đó cho thấy những nguyên tắc mà các chương sau trình bày dưới dạng lý thuyết đã được Munger sống thật trong đời riêng: sự công bằng và chu đáo, nhận lỗi ngay, làm đúng ngay lần đầu, chịu trách nhiệm, tập trung tuyệt đối, đọc không ngừng, hoài nghi đám đông, giữ thăng bằng, coi trọng sự bền bỉ và các thói quen lâu dài, và học từ hệ quả xấu của lựa chọn sai. Chương 2 ("The Munger Approach to Life, Learning, and Decision Making") sẽ hệ thống hoá các nguyên tắc ấy thành phương pháp sống, học và ra quyết định; Chương 3 ("Mungerisms") cho thấy chúng trong lời nói ứng khẩu ở các đại hội cổ đông; Chương 4 là mười một bài nói chính thức.
-**Ý chính:** Qua tám hồi ức, các con cho thấy Munger dạy con chủ yếu bằng **hành động làm gương, mệnh lệnh ngắn gọn khi con phạm lỗi, và những câu chuyện kể quanh bàn ăn**, chứ không bằng những cuộc trò chuyện tâm tình. Ví dụ trung tâm là chuyện Charles Jr. kể: trên đường ra sân bay, dù đang vội, Munger vẫn vòng đi mười phút để đổ đầy bình xăng chiếc xe jeep mượn của bạn, dù bình còn một nửa và người bạn (Rick Guerin) chắc chắn không để ý. Lời dặn "mượn xe của ai thì luôn trả lại với bình xăng đầy" về sau giúp chính người con có được một người bạn thân. Quanh ví dụ đó là các bài học khác: Wendy kể về "chuyện đạo đức" (Morality Tale) và "chuyện vòng xoáy đi xuống" (Downward Spiral Tale) ở bàn ăn, trong đó có chuyện một giám đốc tài chính được giữ lại vì nhận lỗi ngay; Hal kể hai lần bị sai quay lại (vượt bão lấy tờ báo, lặn hai giờ tìm chùm chìa khoá); David kể chuyện cha luyện cú vô-lê sát lưới bằng máy bắn bóng để có lợi thế mà người khác lười tập, và khả năng "dựng tường ngăn" mọi thứ làm phân tâm; Molly kể cha dạy con hoài nghi đám đông và giữ thăng bằng bằng tấm ván kéo sau thuyền; Emilie tả đôi bàn tay cha; Barry kể cách cha gửi "thông điệp" gián tiếp; Philip kể chuyện mua quần áo bền ở Brooks Brothers và lòng yêu sự bền vững của cha. Bạn bè và Bill Gates bổ sung: Munger cực kỳ tò mò, tập trung đến mức đãng trí, và có tài gói kiến thức vào những câu mô tả đơn giản.
+## Ý chính
 
-> **Lưu ý:**
-> - **Thời điểm.** Các hồi ức được viết cho ấn bản đầu của sách (khoảng 2005): Hal Borthwick viết "gần năm mươi năm" kể từ khi Munger cưới mẹ ông (năm 1956); Wendy viết "những người con lớn nhất đang tiến dần tới tuổi sáu mươi". Ghi chú của người biên tập về Roy Tolles ("mất ngày 1 tháng 2 năm 2008") được thêm ở ấn bản thứ ba. Munger mất năm 2023, bà Nancy mất năm 2010 (theo hiểu biết của người tổng hợp), nên những câu ở thì hiện tại ("ông vẫn kể chuyện ở đầu bàn ăn", "mỗi Giáng sinh cha tặng thẻ quà") là hiện tại của lúc viết.
-> - **Ảnh và chú thích của người biên tập** (trang in 39–47, 48–51): ảnh tám người con thuở nhỏ trên ghế sofa cùng một chú chó (trang 39), ảnh xe jeep đỏ, bàn ăn, bến thuyền "Blue Viking" ở hồ Minnesota, Molly bé đứng trên tấm "aquaplane", đôi bàn tay, chiếc ghế bành, cửa hàng Brooks Brothers, ảnh cả đại gia đình (trang 47) với chú thích "Kỷ niệm 45 năm ngày cưới cùng gia đình, tháng 8 năm 2001, ở Kent, nước Anh", ảnh chân dung các bạn của Munger và tranh biếm hoạ Bill Gates. Các chú thích có chữ đã được đưa vào mục "Hình ảnh và chú thích của người biên tập" trong bản tổng hợp.
-> - **Phạm vi.** Mục lục của sách ghi "Remembering: The Children on Charlie" kéo dài tới trang in 51, nên hai mục "Friends Have Their Say" (trang 48–50) và "And Bill Gates Has His Say" (trang 51) được tổng hợp ở đây, dù người viết không phải các con. Hai mục này mang dáng dấp hộp nội dung do người biên tập sắp xếp (tiêu đề riêng, ảnh chân dung, câu trích in nổi của Munger).
-> - **Lỗi OCR ảnh hưởng tới nghĩa (đã đối chiếu với ảnh trang):** "1 offered Charlie" là "I offered Charlie" (Hal tự nhận mình đã "tạo nhiều cơ hội" để Munger giáo dục); "T also see them" là "I also see them"; câu trích Franklin của Bill Gates bị OCR làm hỏng ("Y cannot conceive atherine than that Hes"), nguyên văn là "Ben Franklin once said, 'I cannot conceive otherwise than that He, the Infinite Father, expects or requires no worship or praise from us, but that He is even infinitely above it.'"; "al of his brains" là "all of his brains"; dấu hai chấm sau "send copies to the whole family" là dấu chấm. Chữ "Brand Prichar" lẫn vào trang 46 thực ra là chữ "Brooks Brothers" trên biển hiệu trong ảnh.
-> - **Chi tiết cần hiểu theo bối cảnh.** "Chinese wall" (trong đoạn của David) là thuật ngữ của giới tài chính, luật chỉ "bức tường thông tin" ngăn cách các bộ phận; David dùng nó như động từ, nghĩa là Munger cách ly hoàn toàn mọi thứ gây xao nhãng. Khi Molly vào đại học năm 1966, Munger "chỉ sở hữu một công ty nhỏ, bẩn thỉu làm phụ gia động cơ" và làm việc ở "một khu tồi tàn trên phố Spring" (Los Angeles): đó là giai đoạn trước khi ông giàu lên nhờ quỹ đầu tư riêng và Berkshire. Molly có lẽ học ở Radcliffe/Harvard (Lamont Library là thư viện của Harvard), theo hiểu biết của người tổng hợp. Việc Munger mất thị lực một mắt (Buffett nhắc trong đoạn của mình) xảy ra khoảng năm 1980, theo hiểu biết của người tổng hợp. Núi Rushmore được Barry tả là "khối đá granit cao 5.700 feet" (khoảng 1.740 m); con số đó là độ cao so với mực nước biển của đỉnh núi.
-> - **Một điểm nhỏ có thể gây thắc mắc:** Molly viết khi bà vào đại học năm 1966, Munger "có bảy người con khác phải nuôi". Bảy người con đó là bảy người còn lại trong phần này. Theo hiểu biết của người tổng hợp, người con trai đầu của Munger là Teddy đã mất vì bệnh bạch cầu năm 1955 (khi Teddy khoảng chín tuổi), nên không có mặt ở đây.
+Qua tám hồi ức, các con cho thấy Munger dạy con chủ yếu bằng **hành động làm gương, mệnh lệnh ngắn gọn khi con phạm lỗi, và những câu chuyện kể quanh bàn ăn**, chứ không bằng những cuộc trò chuyện tâm tình.
+
+Ví dụ trung tâm là chuyện Charles Jr. kể: trên đường ra sân bay, dù đang vội, Munger vẫn vòng đi mười phút để đổ đầy bình xăng chiếc xe jeep mượn của bạn, dù bình còn một nửa và người bạn (Rick Guerin) chắc chắn không để ý.
+
+Lời dặn "mượn xe của ai thì luôn trả lại với bình xăng đầy" về sau giúp chính người con có được một người bạn thân.
+
+Quanh ví dụ đó là các bài học khác:
+
+- Wendy kể về "chuyện đạo đức" (Morality Tale) và "chuyện vòng xoáy đi xuống" (Downward Spiral Tale) ở bàn ăn, trong đó có chuyện một giám đốc tài chính được giữ lại vì nhận lỗi ngay.
+- Hal kể hai lần bị sai quay lại (vượt bão lấy tờ báo, lặn hai giờ tìm chùm chìa khoá).
+- David kể chuyện cha luyện cú vô-lê sát lưới bằng máy bắn bóng để có lợi thế mà người khác lười tập, và khả năng "dựng tường ngăn" mọi thứ làm phân tâm.
+- Molly kể cha dạy con hoài nghi đám đông và giữ thăng bằng bằng tấm ván kéo sau thuyền.
+- Emilie tả đôi bàn tay cha.
+- Barry kể cách cha gửi "thông điệp" gián tiếp.
+- Philip kể chuyện mua quần áo bền ở Brooks Brothers và lòng yêu sự bền vững của cha.
+
+Bạn bè và Bill Gates bổ sung: Munger cực kỳ tò mò, tập trung đến mức đãng trí, và có tài gói kiến thức vào những câu mô tả đơn giản.
 
 ## Sơ đồ
 
@@ -523,9 +530,17 @@
 
 ## Ba câu hỏi phần này trả lời
 
-1. **Munger dạy con bằng cách nào?** Ông dạy ít bằng lời giảng, nhiều bằng ba cách. Cách thứ nhất là làm gương, kể cả khi không ai nhìn thấy: ông vòng xe mười phút trong tuyết để đổ đầy bình xăng chiếc jeep mượn của Rick Guerin dù đang vội và bình còn một nửa, rồi giải thích bằng một câu duy nhất. Cách thứ hai là mệnh lệnh cực ngắn khi con phạm lỗi, buộc con tự sửa hậu quả: Hal quên tờ báo thì phải vượt bão quay lại lấy; Hal làm rơi chùm chìa khoá duy nhất xuống hồ thì phải lặn tới khi tìm thấy, mất khoảng hai giờ. Cách thứ ba là kể chuyện, chủ yếu ở bàn ăn và trước cả nhóm, để không ai bị chỉ mặt: "chuyện đạo đức" (một người gặp vấn đề đạo đức và chọn đúng, như viên giám đốc tài chính làm mất hàng trăm nghìn USD nhưng được giữ lại vì báo ngay) và "chuyện vòng xoáy đi xuống" (một người chọn sai rồi mất hết, được ông kể cực đoan tới mức các con vừa rên vừa cười). Ông cũng dạy qua trải nghiệm thân thể (tấm ván aquaplane buộc con giữ thăng bằng khi thuyền bẻ lái gắt), qua đồ vật bền (bộ com-lê, đôi giày, áo khoác) và qua những tài liệu, bài báo gửi kèm mảnh giấy ngắn. Ông không làm những cuộc trò chuyện tâm tình; Barry so ông với người cha "gửi thông điệp bằng mật mã" trong hồi ký của Calvin Trillin.
-2. **Những nguyên tắc sống nào hiện ra qua các hồi ức?** Công bằng và chu đáo với người khác vượt mức họ đòi hỏi, vì đó là cách giữ bạn; nhận lỗi ngay, vì lỗi thì tha được còn che giấu thì không; làm đúng ngay lần đầu và chịu trách nhiệm sửa hậu quả của mình; hoài nghi đám đông nhưng cũng tránh phản ứng theo phản xạ, và luôn giữ thăng bằng khi mọi thứ lệch về một phía; tập trung trọn vẹn vào việc đang nghĩ, cách ly mọi xao nhãng; đọc không ngừng (tiểu sử Franklin, di truyền học, Keynes, bảng giá thị trường); chọn luyện những kỹ năng người khác bỏ qua để có lợi thế công bằng; quý sự bền vững của đồ vật, thể chế, thói quen và truyền thống; ăn mặc, cư xử theo chuẩn mực để bù cho những quan điểm khác người; và tìm ra việc mình giỏi nhất rồi dồn sức vào đó (thông điệp bài nói về Simon Marks mà Dick Esbenshade nhớ).
-3. **Bạn bè và đối tác thấy Munger là người thế nào?** Họ thấy bốn nét: thông minh, tò mò (Roy Tolles: muốn hiểu tới tận gốc điều gì làm sự việc xảy ra), tập trung tuyệt đối (Glen Mitchel: dùng 100% trí tuệ vào một vấn đề tới mức không nhận ra người vỗ vai), và đãng trí như hệ quả của sự tập trung đó (Bob Bird kể Munger bước vào thang máy mà không chào CEO đối tác; Warren Buffett kể Munger lên taxi ra sân bay khi Buffett đang nói, và nhấn mạnh "không phải do mắt, mà do đầu"). Howard Buffett coi Munger là người thông minh nhất ông biết. Bill Gates coi Munger là nhà tư duy rộng nhất ông từng gặp, từ kinh doanh, kinh tế tới thiết kế ký túc xá và thuyền hai thân, và nhấn mạnh tài gói kiến thức vào những cụm từ đơn giản như "xổ số di truyền" hay "đến con la cũng biết đi chậm lại".
+1. **Munger dạy con bằng cách nào?** Ông dạy ít bằng lời giảng, nhiều bằng ba cách. Cách thứ nhất là làm gương, kể cả khi không ai nhìn thấy: ông vòng xe mười phút trong tuyết để đổ đầy bình xăng chiếc jeep mượn của Rick Guerin dù đang vội và bình còn một nửa, rồi giải thích bằng một câu duy nhất. Cách thứ hai là mệnh lệnh cực ngắn khi con phạm lỗi, buộc con tự sửa hậu quả: Hal quên tờ báo thì phải vượt bão quay lại lấy; Hal làm rơi chùm chìa khoá duy nhất xuống hồ thì phải lặn tới khi tìm thấy, mất khoảng hai giờ.
+
+   Cách thứ ba là kể chuyện, chủ yếu ở bàn ăn và trước cả nhóm, để không ai bị chỉ mặt: "chuyện đạo đức" (một người gặp vấn đề đạo đức và chọn đúng, như viên giám đốc tài chính làm mất hàng trăm nghìn USD nhưng được giữ lại vì báo ngay) và "chuyện vòng xoáy đi xuống" (một người chọn sai rồi mất hết, được ông kể cực đoan tới mức các con vừa rên vừa cười).
+
+   Ông cũng dạy qua trải nghiệm thân thể (tấm ván aquaplane buộc con giữ thăng bằng khi thuyền bẻ lái gắt), qua đồ vật bền (bộ com-lê, đôi giày, áo khoác) và qua những tài liệu, bài báo gửi kèm mảnh giấy ngắn. Ông không làm những cuộc trò chuyện tâm tình; Barry so ông với người cha "gửi thông điệp bằng mật mã" trong hồi ký của Calvin Trillin.
+2. **Những nguyên tắc sống nào hiện ra qua các hồi ức?** Công bằng và chu đáo với người khác vượt mức họ đòi hỏi, vì đó là cách giữ bạn; nhận lỗi ngay, vì lỗi thì tha được còn che giấu thì không; làm đúng ngay lần đầu và chịu trách nhiệm sửa hậu quả của mình.
+
+   Hoài nghi đám đông nhưng cũng tránh phản ứng theo phản xạ, và luôn giữ thăng bằng khi mọi thứ lệch về một phía; tập trung trọn vẹn vào việc đang nghĩ, cách ly mọi xao nhãng; đọc không ngừng (tiểu sử Franklin, di truyền học, Keynes, bảng giá thị trường); chọn luyện những kỹ năng người khác bỏ qua để có lợi thế công bằng; quý sự bền vững của đồ vật, thể chế, thói quen và truyền thống; ăn mặc, cư xử theo chuẩn mực để bù cho những quan điểm khác người; và tìm ra việc mình giỏi nhất rồi dồn sức vào đó (thông điệp bài nói về Simon Marks mà Dick Esbenshade nhớ).
+3. **Bạn bè và đối tác thấy Munger là người thế nào?** Họ thấy bốn nét: thông minh, tò mò (Roy Tolles: muốn hiểu tới tận gốc điều gì làm sự việc xảy ra), tập trung tuyệt đối (Glen Mitchel: dùng 100% trí tuệ vào một vấn đề tới mức không nhận ra người vỗ vai), và đãng trí như hệ quả của sự tập trung đó (Bob Bird kể Munger bước vào thang máy mà không chào CEO đối tác; Warren Buffett kể Munger lên taxi ra sân bay khi Buffett đang nói, và nhấn mạnh "không phải do mắt, mà do đầu").
+
+   Howard Buffett coi Munger là người thông minh nhất ông biết. Bill Gates coi Munger là nhà tư duy rộng nhất ông từng gặp, từ kinh doanh, kinh tế tới thiết kế ký túc xá và thuyền hai thân, và nhấn mạnh tài gói kiến thức vào những cụm từ đơn giản như "xổ số di truyền" hay "đến con la cũng biết đi chậm lại".
 
 ## Khái niệm cần biết
 
@@ -576,7 +591,9 @@ Wendy kể rằng cha bà thường dùng bàn ăn gia đình làm diễn đàn 
 
 Wendy nhận xét rằng trong việc mô tả các kết cục xấu và bài học rút ra từ chúng, cha bà ở một đẳng cấp riêng.
 
-Một chuyện đạo đức bà nhớ, được kể khi các con trong nhà từ năm đến hai mươi lăm tuổi: ở một công ty của Munger, một giám đốc tài chính mắc lỗi làm công ty mất hàng trăm nghìn đô la. Ngay khi nhận ra, ông ta đến gặp chủ tịch công ty để báo. Theo lời Munger kể, chủ tịch nói: "Đây là một lỗi khủng khiếp, và chúng tôi không muốn anh mắc lỗi như vậy lần nào nữa. Nhưng con người ai cũng mắc lỗi, và chúng tôi có thể tha thứ điều đó. Anh đã làm đúng, là thừa nhận lỗi. Nếu anh tìm cách giấu lỗi, hay che đậy nó dù chỉ trong thời gian ngắn, anh đã phải rời công ty. Còn như bây giờ, chúng tôi muốn anh ở lại." Wendy nghĩ lại câu chuyện này mỗi lần nghe tin thêm một quan chức chính phủ chọn che đậy thay vì thú nhận thật lòng sau khi mắc lỗi.
+Một chuyện đạo đức bà nhớ, được kể khi các con trong nhà từ năm đến hai mươi lăm tuổi: ở một công ty của Munger, một giám đốc tài chính mắc lỗi làm công ty mất hàng trăm nghìn đô la. Ngay khi nhận ra, ông ta đến gặp chủ tịch công ty để báo.
+
+Theo lời Munger kể, chủ tịch nói: "Đây là một lỗi khủng khiếp, và chúng tôi không muốn anh mắc lỗi như vậy lần nào nữa. Nhưng con người ai cũng mắc lỗi, và chúng tôi có thể tha thứ điều đó. Anh đã làm đúng, là thừa nhận lỗi. Nếu anh tìm cách giấu lỗi, hay che đậy nó dù chỉ trong thời gian ngắn, anh đã phải rời công ty. Còn như bây giờ, chúng tôi muốn anh ở lại." Wendy nghĩ lại câu chuyện này mỗi lần nghe tin thêm một quan chức chính phủ chọn che đậy thay vì thú nhận thật lòng sau khi mắc lỗi.
 
 Bà kết rằng không hiểu sao mình lại dùng thì quá khứ: những người con lớn nhất đã sắp sáu mươi, bàn ăn giờ chật cháu, và Munger vẫn dùng lối kể chuyện riêng của ông để giữ cả nhà "ở phía các thiên thần", tức đứng về phía điều đúng. Cả nhà rất may mắn có ông ngồi ở đầu bàn.
 
@@ -584,15 +601,21 @@ Bà kết rằng không hiểu sao mình lại dùng thì quá khứ: những ng
 
 Hal, con riêng của bà Nancy, viết rằng gần năm mươi năm kể từ khi Munger cưới mẹ ông là những năm thú vị và tuyệt vời. Ông đùa rằng mình đã "cho Charlie nhiều cơ hội để giáo dục", và kể hai chuyện, đánh số như hai bài học.
 
-**Bài 1: Làm đúng ngay lần đầu (Do the job right the first time).** Chuyện thời ở Minnesota, nơi gia đình có nhà nghỉ hè bên hồ. Khi vừa tới tuổi lái xe, Hal có nhiệm vụ đón và đưa người giúp việc từ thị trấn Cass Lake. Việc này không đơn giản: phải lái thuyền qua hồ tới bến, lên ô tô lái vào thị trấn, rồi làm ngược lại. Buổi sáng, Hal còn phải mua một tờ báo khi ở thị trấn. Một hôm, một cơn bão lớn ập tới, mưa, sóng, gió dữ dội. Giữa mọi thứ hỗn loạn và khó khăn, Hal vẫn vào được thị trấn và đưa người giúp việc về, nhưng quên tờ báo. Munger hỏi "Báo của cha đâu?", Hal đáp là không có, và cuộc "thảo luận" giữa hai người kéo dài chừng một giây: "Quay lại lấy báo và đừng bao giờ quên nữa!" Hal lại vượt bão, thuyền nảy trên sóng, nước mưa xối khỏi thân thuyền, và ông tự nhủ sẽ không bao giờ để chuyện tương tự xảy ra nữa.
+**Bài 1: Làm đúng ngay lần đầu (Do the job right the first time).** Chuyện thời ở Minnesota, nơi gia đình có nhà nghỉ hè bên hồ. Khi vừa tới tuổi lái xe, Hal có nhiệm vụ đón và đưa người giúp việc từ thị trấn Cass Lake. Việc này không đơn giản: phải lái thuyền qua hồ tới bến, lên ô tô lái vào thị trấn, rồi làm ngược lại. Buổi sáng, Hal còn phải mua một tờ báo khi ở thị trấn. Một hôm, một cơn bão lớn ập tới, mưa, sóng, gió dữ dội. Giữa mọi thứ hỗn loạn và khó khăn, Hal vẫn vào được thị trấn và đưa người giúp việc về, nhưng quên tờ báo.
 
-**Bài 2: Hãy có trách nhiệm (Be responsible).** Mẹ của Munger mỗi hè tự lái xe từ Omaha lên Minnesota. Khi bà ở đó, cả nhà dùng xe của bà để đi việc vặt. Chiếc xe chỉ có một chùm chìa khoá. Một lần Hal chơi thuyền buồm với bạn trên hồ, chùm chìa khoá rơi khỏi túi xuống làn nước đục sâu khoảng năm feet (khoảng 1,5 m). Hal về nhà thú nhận. Vùng rừng phương bắc không có mấy thợ khoá, và Munger không có kiên nhẫn với sự ngớ ngẩn như vậy. Lời giải, lại chỉ trong khoảng một giây: "Đi ra cùng các bạn và cứ lặn cho tới khi tìm được chùm chìa khoá, không có chìa thì đừng về." Sau khoảng hai giờ lặn, khi mặt trời đang lặn nhanh, Hal thấy như phép màu một ánh kim loại lấp lánh trong đám rong, và được về nhà.
+Munger hỏi "Báo của cha đâu?", Hal đáp là không có, và cuộc "thảo luận" giữa hai người kéo dài chừng một giây: "Quay lại lấy báo và đừng bao giờ quên nữa!" Hal lại vượt bão, thuyền nảy trên sóng, nước mưa xối khỏi thân thuyền, và ông tự nhủ sẽ không bao giờ để chuyện tương tự xảy ra nữa.
+
+**Bài 2: Hãy có trách nhiệm (Be responsible).** Mẹ của Munger mỗi hè tự lái xe từ Omaha lên Minnesota. Khi bà ở đó, cả nhà dùng xe của bà để đi việc vặt. Chiếc xe chỉ có một chùm chìa khoá. Một lần Hal chơi thuyền buồm với bạn trên hồ, chùm chìa khoá rơi khỏi túi xuống làn nước đục sâu khoảng năm feet (khoảng 1,5 m).
+
+Hal về nhà thú nhận. Vùng rừng phương bắc không có mấy thợ khoá, và Munger không có kiên nhẫn với sự ngớ ngẩn như vậy. Lời giải, lại chỉ trong khoảng một giây: "Đi ra cùng các bạn và cứ lặn cho tới khi tìm được chùm chìa khoá, không có chìa thì đừng về." Sau khoảng hai giờ lặn, khi mặt trời đang lặn nhanh, Hal thấy như phép màu một ánh kim loại lấp lánh trong đám rong, và được về nhà.
 
 Hal giải thích vì sao có nhiều "viên ngọc" như vậy từ Minnesota: thời đó Munger làm việc rất vất vả và rất nhiều giờ, nên kỳ hè ở hồ là khoảng thời gian ý nghĩa duy nhất các con được ở bên ông. Trong tuần làm việc, ông đi trước bình minh, về khoảng giờ ăn tối, rồi nghiên cứu tài liệu của Standard & Poor's (hãng xếp hạng và dữ liệu chứng khoán), và về sau dành vài giờ nói chuyện điện thoại với Warren Buffett.
 
 ### 4. David Borthwick: luyện kỹ năng người khác bỏ qua, và khả năng cách ly mọi xao nhãng ("From David Borthwick", trang in 41–42)
 
-Nhiều năm trước, Munger quyết định căn nhà gỗ bên hồ ở Minnesota "nhất định phải có" một máy bắn bóng tennis cho sân đã xây vài năm trước đó. Ông muốn các con luyện các cú đánh cuối sân thật đều tay, nhưng còn hơn thế: chính ông là người ra sân nhiều nhất, đặt máy để luyện vô-lê sát lưới không biết chán. Chẳng bao lâu, ông thành thạo những cú vô-lê kết thúc nhẹ nhàng, đặt bóng khéo, loại bóng mà người khác theo bản năng cố đập thật mạnh nhưng thường đánh vào lưới hoặc ra ngoài cả ba mét. Bằng việc luyện phiên bản tennis của "lối chơi ngắn" (short game) trong golf, thứ mà ít ai chịu bỏ công luyện, Munger, như ông đã làm suốt đời, tự tạo cho mình một lợi thế cạnh tranh công bằng nhưng khiến đối thủ phát điên. David rất ngại đấu với cha, nhất là trong đánh đôi, nơi chơi lưới là quyết định. Ông viết: "Tạ ơn Chúa đó là tennis, không phải kinh doanh."
+Nhiều năm trước, Munger quyết định căn nhà gỗ bên hồ ở Minnesota "nhất định phải có" một máy bắn bóng tennis cho sân đã xây vài năm trước đó. Ông muốn các con luyện các cú đánh cuối sân thật đều tay, nhưng còn hơn thế: chính ông là người ra sân nhiều nhất, đặt máy để luyện vô-lê sát lưới không biết chán. Chẳng bao lâu, ông thành thạo những cú vô-lê kết thúc nhẹ nhàng, đặt bóng khéo, loại bóng mà người khác theo bản năng cố đập thật mạnh nhưng thường đánh vào lưới hoặc ra ngoài cả ba mét.
+
+Bằng việc luyện phiên bản tennis của "lối chơi ngắn" (short game) trong golf, thứ mà ít ai chịu bỏ công luyện, Munger, như ông đã làm suốt đời, tự tạo cho mình một lợi thế cạnh tranh công bằng nhưng khiến đối thủ phát điên. David rất ngại đấu với cha, nhất là trong đánh đôi, nơi chơi lưới là quyết định. Ông viết: "Tạ ơn Chúa đó là tennis, không phải kinh doanh."
 
 Nghĩ về cha, David nhớ một quảng cáo bia hài trên truyền hình ngày xưa: một người đàn ông ăn mặc lịch sự ngồi ở bàn, mải mê với cốc bia tới mức không hề hay biết một con bò tót đang lao vào người đấu bò ngay trước mặt; ông ta không chớp mắt kể cả khi con bò đập chiếc bàn vỡ vụn. Câu chốt của người dẫn là kiểu "Hãy thử bia... để có một trải nghiệm có một không hai." Bỏ cốc bia, thay bằng bảng giá thị trường tài chính, bản vẽ kiến trúc, hay một cuốn tiểu sử học thuật về Keynes, thì đó đúng là bức tranh hài về Munger đêm này qua đêm khác ngồi ở chiếc ghế quen, chăm chú đọc, gần như điếc trước lũ trẻ nhỏ nô đùa, tiếng TV ầm ĩ và tiếng vợ gọi ăn tối.
 
@@ -612,7 +635,9 @@ Molly viết bà còn có thể kể nhiều nữa, nhưng chỉ cần nói rằ
 
 ### 6. Emilie Ogden: đôi bàn tay của cha ("From Emilie Ogden", trang in 43–44)
 
-Một tối, khi hai vợ chồng đang uống rượu vang, chồng Emilie bất chợt nói: "Em có đôi tay của bố em." Bà sững lại, không phải vì sự so sánh, mà vì chồng như đọc được ý nghĩ: bà đang nghĩ cách viết một bài ngắn về cha. Bà đã để ý rằng con trai lớn của mình có bàn tay giống ông ngoại, đầu ngón hơi vuông, móng hình tách trà chứ không bầu dục. Nhưng điều gợi sự so sánh trước tiên là tư thế của bàn tay: Munger, Emilie và con trai bà đều chắp tay sau lưng theo cùng một kiểu khi đi bộ, đầu óc để ở nơi khác, tay trái nắm cổ tay phải. Khi bà hỏi chính xác điều gì ở tay mình làm chồng nhớ tới tay cha bà, ông chỉ vào chỗ hình chữ "U" nơi ngón trỏ cong vào ngón cái và nói: "Là cách em cầm đồ vật ở đó."
+Một tối, khi hai vợ chồng đang uống rượu vang, chồng Emilie bất chợt nói: "Em có đôi tay của bố em." Bà sững lại, không phải vì sự so sánh, mà vì chồng như đọc được ý nghĩ: bà đang nghĩ cách viết một bài ngắn về cha. Bà đã để ý rằng con trai lớn của mình có bàn tay giống ông ngoại, đầu ngón hơi vuông, móng hình tách trà chứ không bầu dục.
+
+Nhưng điều gợi sự so sánh trước tiên là tư thế của bàn tay: Munger, Emilie và con trai bà đều chắp tay sau lưng theo cùng một kiểu khi đi bộ, đầu óc để ở nơi khác, tay trái nắm cổ tay phải. Khi bà hỏi chính xác điều gì ở tay mình làm chồng nhớ tới tay cha bà, ông chỉ vào chỗ hình chữ "U" nơi ngón trỏ cong vào ngón cái và nói: "Là cách em cầm đồ vật ở đó."
 
 Rồi Emilie kể các cảnh nhớ lại, mỗi cảnh xoay quanh đôi tay cha:
 
@@ -645,7 +670,9 @@ Barry viết: ai biết Munger đều biết cách ông nói không phải lúc 
 
 Trong cả hai trường hợp, ông trông thẳng thừng và có vẻ ông chú hiền lành (đúng "chất Charlie" không lẫn vào đâu), nhưng Barry cho rằng ông tinh tế hơn vẻ bề ngoài.
 
-Một người bạn của Barry gần đây mở đầu một giai thoại về Munger bằng câu: "Bố cậu đang ngồi trên ghế, như núi Rushmore..." Barry hiểu ngay. Không mấy ai chỉ cần ngồi vào một chiếc ghế bành bọc nệm mà gợi được hình ảnh khối núi granit cao 5.700 feet với khuôn mặt bốn vị tổng thống, nhưng Munger thì làm được. Mọi người con nhà Munger, lúc này hay lúc khác, đều từng tới gần "Rushmore" để xin điều gì đó và thấy mình như Dorothy tiến tới gặp phù thuỷ xứ Oz, chỉ khác là Oz nói nhiều hơn. "Rushmore" không phải lúc nào cũng đáp. Đôi khi ông phát ra một tiếng trầm đều từ đâu đó quanh thanh quản, như thể núi Rushmore đã thành núi lửa, nhưng tiếng đó không dễ giải nghĩa. Barry hỏi: có cách nào tinh tế hơn im lặng không?
+Một người bạn của Barry gần đây mở đầu một giai thoại về Munger bằng câu: "Bố cậu đang ngồi trên ghế, như núi Rushmore..." Barry hiểu ngay. Không mấy ai chỉ cần ngồi vào một chiếc ghế bành bọc nệm mà gợi được hình ảnh khối núi granit cao 5.700 feet với khuôn mặt bốn vị tổng thống, nhưng Munger thì làm được. Mọi người con nhà Munger, lúc này hay lúc khác, đều từng tới gần "Rushmore" để xin điều gì đó và thấy mình như Dorothy tiến tới gặp phù thuỷ xứ Oz, chỉ khác là Oz nói nhiều hơn.
+
+"Rushmore" không phải lúc nào cũng đáp. Đôi khi ông phát ra một tiếng trầm đều từ đâu đó quanh thanh quản, như thể núi Rushmore đã thành núi lửa, nhưng tiếng đó không dễ giải nghĩa. Barry hỏi: có cách nào tinh tế hơn im lặng không?
 
 Khác với Abe Trillin, Munger thực sự gửi "thông điệp": những bài nói ông viết, những bức thư ông nhận và gửi, những bài báo từ nhiều nguồn về chính sách xã hội, tâm lý học, đạo đức kinh doanh, luật và các chủ đề khác. Nhiều thứ trong số đó được in trong chính cuốn sách này. Thứ không được in là mảnh giấy ông nguệch ngoạc kèm theo. Mảnh giấy thường rất ngắn, hay chỉ là danh sách "gửi cho", nhưng thỉnh thoảng có một câu dí dỏm, như mảnh giấy năm 1996 đính kèm bức thư dài bày tỏ lòng biết ơn của một cổ đông Berkshire Hathaway ở Thuỵ Điển: "Hy vọng các con thấy chuyện này vui. Giá mà bố có được ảnh hưởng với vợ và các con như bố có ở một số nơi khác!"
 
@@ -657,7 +684,9 @@ Khoảng một tuần sau, cuốn sách quay về trong phong bì có lót đệ
 
 Một số kỷ niệm trìu mến nhất của Philip với cha là những lần đi mua quần áo ở Brooks Brothers và Marks and Spencer. Ai cũng biết Munger không mê thời trang. Ông từng nói rằng ông đã đủ khác người trong hành vi và quan điểm, nên việc đi một đường thật thẳng trong ăn mặc là hợp lý. Theo ông, chính việc tuân theo các phong tục xã hội bình thường và óc hài hước đã giúp tính khí đôi khi gai góc của ông hoà hợp được với người khác.
 
-Philip nhớ rõ lần cùng cha tới Brooks Brothers, khi cửa hàng còn ở toà nhà cũ ốp gỗ tuyệt đẹp ở trung tâm Los Angeles, để mua bộ com-lê nghiêm túc đầu tiên. Khi đó ông khoảng mười một hay mười hai tuổi. Ông vẫn thấy những cánh cửa thang máy bằng đồng bóng loáng mở ra. Hai cha con xem các giá treo, và Munger chọn một bộ màu xám than kẻ sọc nhỏ. Năm mười sáu tuổi, họ mua một bộ nữa, lần này ba mảnh, bộ mà Philip mặc như một nghi lễ suốt những năm thi tranh biện; trong một giải đấu ở Đại học Northwestern, bộ đồ chắn được cơn gió buốt thổi từ hồ vào. Cùng lúc, họ mua một đôi giày mũi chạm cho kỳ làm việc mùa hè ở tờ *Daily Journal* (công ty báo chí do Munger làm chủ tịch); kỳ làm việc ấy là nghi thức trưởng thành Munger đặt ra cho mỗi con trai. Đôi giày còn dùng tới tận lúc Philip viết.
+Philip nhớ rõ lần cùng cha tới Brooks Brothers, khi cửa hàng còn ở toà nhà cũ ốp gỗ tuyệt đẹp ở trung tâm Los Angeles, để mua bộ com-lê nghiêm túc đầu tiên. Khi đó ông khoảng mười một hay mười hai tuổi. Ông vẫn thấy những cánh cửa thang máy bằng đồng bóng loáng mở ra. Hai cha con xem các giá treo, và Munger chọn một bộ màu xám than kẻ sọc nhỏ.
+
+Năm mười sáu tuổi, họ mua một bộ nữa, lần này ba mảnh, bộ mà Philip mặc như một nghi lễ suốt những năm thi tranh biện; trong một giải đấu ở Đại học Northwestern, bộ đồ chắn được cơn gió buốt thổi từ hồ vào. Cùng lúc, họ mua một đôi giày mũi chạm cho kỳ làm việc mùa hè ở tờ *Daily Journal* (công ty báo chí do Munger làm chủ tịch); kỳ làm việc ấy là nghi thức trưởng thành Munger đặt ra cho mỗi con trai. Đôi giày còn dùng tới tận lúc Philip viết.
 
 Philip chỉ ra một chủ đề nằm bên dưới. Khi hai cha con mua một chiếc áo khoác vải tweed nâu ở Marks and Spencer ở London, Munger nói: "Cái này sẽ luôn giữ nếp." Ông quý cả hai cửa hàng vì chúng là những thể chế bền vững, và vì hàng hoá của chúng cũng bền, với giá công bằng. Trong mắt Munger, sự bền vững luôn là một đức tính hạng nhất, cùng với nghi thức và truyền thống. Như Benjamin Franklin, một khi đã có những thói quen chính, về ăn mặc hay việc khác, ông không bao giờ muốn đổi chúng.
 
@@ -667,7 +696,9 @@ Mùa đông năm 1988, khi Philip sang học ở Oxford, Munger cho ông một c
 
 ### 9. Hình ảnh và chú thích của người biên tập (trang in 39–47)
 
-Người biên tập đặt cạnh mỗi hồi ức một ảnh minh hoạ: đầu phần là ảnh tám người con thuở nhỏ ngồi trên ghế sofa cùng một chú chó; rồi chiếc xe jeep đỏ (chuyện của Charles Jr.), chiếc bàn ăn (chuyện của Wendy), bến thuyền trên hồ với chú thích "The 'Blue Viking'" (tên chiếc thuyền trong chuyện của Hal), ảnh Molly lúc bé đứng trên tấm ván với chú thích "The Aquaplane", đôi bàn tay chắp vào nhau (chuyện của Emilie), chiếc ghế bành bọc vải cạnh chồng sách (chuyện "núi Rushmore" của Barry) và mặt tiền cửa hàng Brooks Brothers (chuyện của Philip). Sau tám hồi ức là một trang ảnh lớn chụp cả đại gia đình, khoảng ba mươi người thuộc nhiều thế hệ, trước một ngôi nhà nông trại cổ, với chú thích: "Kỷ niệm 45 năm ngày cưới cùng gia đình, tháng 8 năm 2001, ở Kent, nước Anh."
+Người biên tập đặt cạnh mỗi hồi ức một ảnh minh hoạ: đầu phần là ảnh tám người con thuở nhỏ ngồi trên ghế sofa cùng một chú chó; rồi chiếc xe jeep đỏ (chuyện của Charles Jr.), chiếc bàn ăn (chuyện của Wendy), bến thuyền trên hồ với chú thích "The 'Blue Viking'" (tên chiếc thuyền trong chuyện của Hal), ảnh Molly lúc bé đứng trên tấm ván với chú thích "The Aquaplane", đôi bàn tay chắp vào nhau (chuyện của Emilie), chiếc ghế bành bọc vải cạnh chồng sách (chuyện "núi Rushmore" của Barry) và mặt tiền cửa hàng Brooks Brothers (chuyện của Philip).
+
+Sau tám hồi ức là một trang ảnh lớn chụp cả đại gia đình, khoảng ba mươi người thuộc nhiều thế hệ, trước một ngôi nhà nông trại cổ, với chú thích: "Kỷ niệm 45 năm ngày cưới cùng gia đình, tháng 8 năm 2001, ở Kent, nước Anh."
 
 ### 10. Bạn bè kể: Munger thông minh, tò mò, tập trung và hơi đãng trí ("Friends Have Their Say: 'Charlie's Smart, Curious, Focused...and a Little Absentminded.'", trang in 48–50)
 
@@ -700,7 +731,13 @@ Gates nhấn mạnh Munger có tài nắm bắt kiến thức bằng những mô
 
 Ông kết: "Cuốn sách ghi lại trí tuệ của Charlie lẽ ra đã phải có từ lâu."
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp; mọi con số là giả định). Chị Lan là trưởng phòng ở một công ty phân phối, có hai con tuổi mười và mười lăm. Chị áp dụng các bài học trong phần này như sau. Ở nhà: khi đứa lớn mượn xe máy của hàng xóm, chị dặn trả lại với bình xăng đầy, dù bình còn hơn nửa và hàng xóm chẳng để ý; chi phí chỉ khoảng 40.000 đồng. Khi đứa nhỏ quên mang bài tập của em gái tới lớp, chị không mang hộ mà bảo cháu tự quay lại lấy, như Munger bắt Hal quay lại vượt bão lấy tờ báo. Ở bữa tối, chị kể "chuyện vòng xoáy đi xuống" về một người quen vay nặng lãi 50 triệu đồng để chơi chứng khoán theo hội nhóm, rồi phải bán nhà, thay vì giảng lý thuyết về rủi ro. Ở công ty: một nhân viên nhập sai đơn giá làm công ty thiệt 300 triệu đồng nhưng báo ngay trong buổi sáng; chị giữ người đó lại và nói rõ trước cả phòng rằng lỗi thì tha được, còn che giấu thì không, như câu chuyện viên giám đốc tài chính. Trong đầu tư cá nhân: khi cả nhóm bạn đổ xô vào một mã cổ phiếu đang "nóng", chị tự hỏi mình đang theo đám đông mù quáng hay đang phản ứng theo phản xạ, và chỉ mua khi đã tự đọc báo cáo tài chính. Khi chọn mua đồ dùng, chị chọn đôi giày 1,5 triệu đồng đi được năm năm thay vì đôi 400.000 đồng đi được một năm, theo ý của Munger về sự bền vững. Và mỗi ngày chị dành 60 phút tắt điện thoại để đọc, như cách Munger dựng "bức tường" quanh việc đang nghĩ.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp; mọi con số là giả định). Chị Lan là trưởng phòng ở một công ty phân phối, có hai con tuổi mười và mười lăm. Chị áp dụng các bài học trong phần này như sau.
+
+Ở nhà: khi đứa lớn mượn xe máy của hàng xóm, chị dặn trả lại với bình xăng đầy, dù bình còn hơn nửa và hàng xóm chẳng để ý; chi phí chỉ khoảng 40.000 đồng. Khi đứa nhỏ quên mang bài tập của em gái tới lớp, chị không mang hộ mà bảo cháu tự quay lại lấy, như Munger bắt Hal quay lại vượt bão lấy tờ báo. Ở bữa tối, chị kể "chuyện vòng xoáy đi xuống" về một người quen vay nặng lãi 50 triệu đồng để chơi chứng khoán theo hội nhóm, rồi phải bán nhà, thay vì giảng lý thuyết về rủi ro.
+
+Ở công ty: một nhân viên nhập sai đơn giá làm công ty thiệt 300 triệu đồng nhưng báo ngay trong buổi sáng; chị giữ người đó lại và nói rõ trước cả phòng rằng lỗi thì tha được, còn che giấu thì không, như câu chuyện viên giám đốc tài chính.
+
+Trong đầu tư cá nhân: khi cả nhóm bạn đổ xô vào một mã cổ phiếu đang "nóng", chị tự hỏi mình đang theo đám đông mù quáng hay đang phản ứng theo phản xạ, và chỉ mua khi đã tự đọc báo cáo tài chính. Khi chọn mua đồ dùng, chị chọn đôi giày 1,5 triệu đồng đi được năm năm thay vì đôi 400.000 đồng đi được một năm, theo ý của Munger về sự bền vững. Và mỗi ngày chị dành 60 phút tắt điện thoại để đọc, như cách Munger dựng "bức tường" quanh việc đang nghĩ.
 
 ## Luận điểm cốt lõi
 
@@ -861,7 +898,9 @@ David cho rằng khả năng cách ly xao nhãng giải thích thành công củ
 
 ### Các câu của Bill Gates báo trước những chủ đề lớn của cuốn sách
 
-Trang của Gates tưởng là lời khen xã giao, nhưng ba điều ông chọn nhắc là ba chủ đề trung tâm của các chương sau: quyền chọn cổ phiếu làm méo kết quả kinh doanh (Bài 8 về vụ bê bối tài chính năm 2003 và nhiều đoạn trong Chương 3), động cơ khuyến khích (hợp đồng chi phí cộng lãi, "con la cũng biết đi chậm lại"; được phân tích trong Bài 11), và cách tư duy đa ngành, rộng từ sinh học (chuột chũi trụi lông, "xổ số di truyền") tới thiết kế (ký túc xá, thuyền hai thân), tức mạng lưới mô hình tư duy (latticework of mental models) của Bài 2. Theo hiểu biết của người tổng hợp, việc ghi nhận quyền chọn cổ phiếu là chi phí đã trở thành quy định kế toán bắt buộc ở Mỹ từ giữa thập niên 2000, một phần nhờ những người phê phán như Buffett và Munger.
+Trang của Gates tưởng là lời khen xã giao, nhưng ba điều ông chọn nhắc là ba chủ đề trung tâm của các chương sau: quyền chọn cổ phiếu làm méo kết quả kinh doanh (Bài 8 về vụ bê bối tài chính năm 2003 và nhiều đoạn trong Chương 3), động cơ khuyến khích (hợp đồng chi phí cộng lãi, "con la cũng biết đi chậm lại"; được phân tích trong Bài 11), và cách tư duy đa ngành, rộng từ sinh học (chuột chũi trụi lông, "xổ số di truyền") tới thiết kế (ký túc xá, thuyền hai thân), tức mạng lưới mô hình tư duy (latticework of mental models) của Bài 2.
+
+Theo hiểu biết của người tổng hợp, việc ghi nhận quyền chọn cổ phiếu là chi phí đã trở thành quy định kế toán bắt buộc ở Mỹ từ giữa thập niên 2000, một phần nhờ những người phê phán như Buffett và Munger.
 
 ### Vận dụng: làm gương trong việc nhỏ, để hậu quả dạy bài học, và bảo vệ sự chú ý
 
@@ -869,3 +908,166 @@ Trang của Gates tưởng là lời khen xã giao, nhưng ba điều ông chọ
 - **Trong doanh nghiệp và nghề nghiệp.** Xây văn hoá báo lỗi sớm: tha thứ sai lầm trung thực, không tha thứ che giấu, và nói rõ luật này trước cả nhóm như chuyện viên giám đốc tài chính. Khi phê bình nghiêm túc, cân nhắc kể một câu chuyện trước tập thể thay vì chỉ mặt một người. Làm đúng ngay lần đầu thay vì để người khác sửa hộ. Tìm việc mình giỏi nhất và dồn sức vào đó; luyện kỹ năng mà đồng nghiệp bỏ qua. Nếu là người tập trung cao, cần có người giúp giữ các phép lịch sự và quan hệ.
 - **Trong ra quyết định cá nhân và nuôi dạy con.** Đối xử với người khác hơn mức họ đòi hỏi trong những việc nhỏ (trả đồ mượn tốt hơn lúc nhận). Khi con sai, để con tự sửa hậu quả tương xứng với độ tuổi và an toàn, thay vì sửa hộ hay mắng dài. Dùng câu chuyện về kết cục của lựa chọn sai để dạy, kể cả với giọng hài hước. Tạo trải nghiệm để con cảm được bài học. Chọn đồ dùng bền, giữ thói quen ổn định để dành năng lượng cho quyết định lớn. Đọc mỗi ngày.
 - **Ở Việt Nam.** Văn hoá "giữ thể diện" và nói gián tiếp vốn phổ biến, nên cách Munger khuyên con qua câu chuyện kể trước cả nhà rất dễ áp dụng; nhưng bài học ngược lại cũng đáng học: trong tổ chức, việc che giấu sai sót để "giữ thể diện" có thể gây hại lớn hơn, nên cần nói rõ rằng báo lỗi sớm sẽ được tha thứ. Phong trào đầu tư theo hội nhóm, theo tin đồn trên mạng xã hội là bối cảnh điển hình cho bài học hoài nghi đám đông và giữ thăng bằng. Thói quen "mượn thì trả đủ, trả hơn" vốn gần với lời dạy truyền thống về chữ tín; câu chuyện bình xăng cho thấy chữ tín được xây chính trong những việc nhỏ không ai kiểm tra.
+
+## Bản đồ tư duy
+
+Toàn cảnh phần 3 của Chương 1 trên một trang: sáu nhánh lớn đi theo các mục 1–8, 10 và 11 trong phần Nội dung chi tiết (Charles Jr. và Wendy, Hal và David, Molly và Emilie, Barry và Philip, bạn bè, Bill Gates), mỗi nhánh ghi bài học, giai thoại và câu nói then chốt về cách Munger sống và dạy con; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 1 (phần 3): Munger dạy con bằng làm gương, mệnh lệnh ngắn và câu chuyện, không bằng tâm sự`"]
+  n1["`Mục 1–2 — Charles Jr. và Wendy: công bằng, nhận lỗi, chuyện kể ở bàn ăn`"]
+  n0 --- n1
+  n2["`Đang vội ra sân bay, Munger vẫn vòng mười phút trong tuyết đổ đầy bình xăng jeep còn nửa bình`"]
+  n1 --- n2
+  n3["`Lời dặn: mượn xe của ai thì luôn trả lại với bình xăng đầy`"]
+  n1 --- n3
+  n4["`Chủ xe Rick Guerin chắc chắn không để ý, Munger vẫn không bỏ qua chút công bằng và chu đáo nào`"]
+  n1 --- n4
+  n5["`Ở Stanford, Charles Jr. đổ đầy bình chiếc Audi Fox mượn, người cho mượn thành bạn thân, làm phù rể`"]
+  n1 --- n5
+  n6["`Bài học: không chỉ cách có được một người bạn tốt mà cả cách giữ người bạn ấy`"]
+  n1 --- n6
+  n7["`Chuyện đạo đức: một người gặp vấn đề đạo đức và chọn con đường đúng`"]
+  n1 --- n7
+  n8["`Chuyện vòng xoáy đi xuống: chọn sai rồi chịu chuỗi mất mát thảm khốc, sở trường của Munger`"]
+  n1 --- n8
+  n9["`Giám đốc tài chính làm mất hàng trăm nghìn USD, báo ngay cho chủ tịch nên được giữ lại`"]
+  n1 --- n9
+  n10["`Lỗi thì tha được, che giấu dù chỉ thời gian ngắn thì phải rời công ty`"]
+  n9 --- n10
+  n11["`Mục 3–4 — Hal và David: trách nhiệm, lợi thế cạnh tranh, tập trung`"]
+  n0 --- n11
+  n12["`Hal quên tờ báo giữa bão, mệnh lệnh một giây: quay lại lấy báo và đừng bao giờ quên nữa`"]
+  n11 --- n12
+  n13["`Chùm chìa khoá duy nhất rơi xuống nước sâu khoảng 1,5 m: lặn khoảng hai giờ tới khi tìm được`"]
+  n11 --- n13
+  n14["`Munger không sửa hộ, không mắng dài, để con tự gánh chi phí của sai sót`"]
+  n11 --- n14
+  n15["`Ngày thường Munger đi trước bình minh, tối đọc tài liệu Standard #amp; Poor's, hè ở hồ là lúc duy nhất bên con`"]
+  n11 --- n15
+  n16["`Máy bắn bóng: Munger tự luyện vô-lê sát lưới, thứ ít ai chịu luyện như lối chơi ngắn trong golf`"]
+  n11 --- n16
+  n17["`Như suốt đời, ông tạo lợi thế cạnh tranh công bằng nhưng khiến đối thủ phát điên`"]
+  n16 --- n17
+  n18["`David: tạ ơn Chúa đó là tennis, không phải kinh doanh`"]
+  n16 --- n18
+  n19["`Đọc bảng giá thị trường, tiểu sử Keynes, gần như điếc trước trẻ con, TV và tiếng vợ gọi ăn tối`"]
+  n11 --- n19
+  n20["`Bức tường ngăn xao nhãng giải thích thành công của Munger không kém yếu tố nào khác`"]
+  n19 --- n20
+  n21["`Mục 5–6 — Molly và Emilie: hoài nghi đám đông, giữ thăng bằng, đôi tay luôn cầm sách`"]
+  n0 --- n21
+  n22["`Năm 1966 giữa phong trào sinh viên, Molly đọc Wall Street Journal, Fortune, học đọc bảng cân đối kế toán`"]
+  n21 --- n22
+  n23["`Munger nuôi con để hoài nghi, thậm chí đi ngược số đông`"]
+  n21 --- n23
+  n24["`Tránh cả kiểu theo đám đông quá mù quáng lẫn kiểu phản ứng quá theo phản xạ`"]
+  n23 --- n24
+  n25["`Tấm aquaplane: thuyền bẻ lái gắt, chỉ dồn trọng lượng bù góc nghiêng mới khỏi ngã`"]
+  n21 --- n25
+  n26["`Từ đó Molly sợ tận ruột gan mỗi khi một ý nghĩ hay hoạt động lệch quá về một phía`"]
+  n25 --- n26
+  n27["`Chỉ sở hữu một công ty nhỏ làm phụ gia động cơ, ông vẫn gửi tiền tiêu rộng rãi giúp con giữ thăng bằng từ xa 3.000 dặm`"]
+  n21 --- n27
+  n28["`Trò ngón cái, trò bánh kẹp, cúp tung trứng: người cha có mặt trọn vẹn`"]
+  n21 --- n28
+  n29["`Đoán chữ #quot;bàn tay Charlie Munger#quot;: ai cũng đáp sách, như tiểu sử Ben Franklin, di truyền học`"]
+  n21 --- n29
+  n30["`Đại hội Berkshire ở Omaha: Diet Coke, kẹo See's, câu #quot;Tôi không có gì để thêm#quot;`"]
+  n21 --- n30
+  n31["`Mục 7–8 — Barry và Philip: thông điệp gián tiếp, sự bền vững`"]
+  n0 --- n31
+  n32["`Như Abe Trillin trong hồi ký Messages from My Father, Munger kín đáo, không tâm sự`"]
+  n31 --- n32
+  n33["`Bàn bridge nói thẳng để trêu: anh đánh ván đó như thợ sửa ống nước`"]
+  n31 --- n33
+  n34["`Bàn ăn gói lời khuyên trong chuyện kể trước cả nhóm để không ai bị chỉ mặt`"]
+  n31 --- n34
+  n35["`Ngồi im như núi Rushmore, nhưng gửi bài nói, bài báo kèm mảnh giấy chỉ ghi danh sách gửi cho`"]
+  n31 --- n35
+  n36["`Cuốn sách Barry gửi bị trả lại không một chữ, nhưng Munger đã bảo thư ký mua gửi cả gia đình`"]
+  n31 --- n36
+  n37["`Đã đủ khác người trong hành vi và quan điểm nên ăn mặc thật chuẩn mực là hợp lý`"]
+  n31 --- n37
+  n38["`Bền vững là đức tính hạng nhất cùng nghi thức và truyền thống`"]
+  n31 --- n38
+  n39["`Quý Brooks Brothers, Marks and Spencer vì là thể chế bền, hàng bền, giá công bằng`"]
+  n38 --- n39
+  n40["`Đôi giày mũi chạm mua năm 16 tuổi còn dùng, áo khoác thập niên 1940 vẫn ấm ở Oxford năm 1988`"]
+  n38 --- n40
+  n41["`Mùa hè làm ở Daily Journal là nghi thức trưởng thành cho mỗi con trai`"]
+  n38 --- n41
+  n42["`Mục 10 — Bạn bè: thông minh, tò mò, tập trung và hơi đãng trí`"]
+  n0 --- n42
+  n43["`Roy Tolles: Munger muốn đào tới tận gốc điều gì làm sự việc xảy ra`"]
+  n42 --- n43
+  n44["`Glen Mitchel: dùng 100% trí tuệ vào một vấn đề, không nhận ra người vỗ vai`"]
+  n42 --- n44
+  n45["`Bob Bird: đàm phán xong để CenFed tiếp quản mảng tiết kiệm–cho vay của Wesco, bước vào thang máy không chào`"]
+  n42 --- n45
+  n46["`Buffett: Munger lên taxi khi Buffett còn đang nói, không phải do mắt, mà do đầu`"]
+  n42 --- n46
+  n47["`Dick Esbenshade: tìm ra việc mình giỏi nhất và dồn sức vào nó, thông điệp bài nói về Simon Marks`"]
+  n42 --- n47
+  n48["`Howard Buffett bị trích là coi Munger thông minh nhất, cha mình thứ nhì`"]
+  n42 --- n48
+  n49["`Mục 11 — Bill Gates: nhà tư duy rộng nhất`"]
+  n0 --- n49
+  n50["`Buffett dặn Gates: đối tác kinh doanh tuyệt vời nhất, nhưng đừng mong chen được lời`"]
+  n49 --- n50
+  n51["`Từ nguyên lý kinh doanh, kinh tế tới thiết kế ký túc xá, thuyền hai thân, Munger không có đối thủ`"]
+  n49 --- n51
+  n52["`Thư từ đáng nhớ nhất: quyền chọn cổ phiếu làm méo kết quả kinh doanh`"]
+  n49 --- n52
+  n53["`Tài gói kiến thức vào mô tả đơn giản`"]
+  n49 --- n53
+  n54["`Trí thông minh của con cái là xổ số di truyền`"]
+  n53 --- n54
+  n55["`Hợp đồng chi phí cộng lãi: đến con la cũng biết đi chậm lại, động cơ khuyến khích quyết định hành vi`"]
+  n53 --- n55
+  n56["`Thông điệp xuyên suốt`"]
+  n0 --- n56
+  n57["`Nguyên tắc Munger nổi tiếng trong đầu tư là cách ông sống hằng ngày và truyền lại cho con`"]
+  n56 --- n57
+  n58["`Tám người con viết riêng rẽ vẫn hội tụ: công bằng, trách nhiệm, tập trung, đọc, hoài nghi, thăng bằng, bền vững`"]
+  n56 --- n58
+  n59["`Chân dung do người thân và người ngưỡng mộ viết, chỉ có một chiều, không có tiếng nói phê phán`"]
+  n56 --- n59
+  n60["`Cách dạy nghiêm khắc và thuộc về một thời: giữ phần cốt lõi, điều chỉnh mức độ theo hoàn cảnh`"]
+  n56 --- n60
+  class n0 root
+  class n1,n11,n21,n31,n42,n49,n56 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n12,n13,n14,n15,n16,n17,n18,n19,n20,n22,n23,n24,n25,n26,n27,n28,n29,n30,n32,n33,n34,n35,n36,n37,n38,n39,n40,n41,n43,n44,n45,n46,n47,n48,n50,n51,n52,n53,n54,n55,n57,n58,n59,n60 leaf
+```
+
+## Nguồn
+
+Peter D. Kaufman (biên tập), *Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger*, The Donning Company Publishers, ấn bản mở rộng thứ ba (Expanded Third Edition; bản PDF là lần in thứ sáu, 2011). Chương 1 "A Portrait of Charles T. Munger", phần "Remembering: The Children on Charlie", trang in 39–51 (PDF trang 53–65). Phần này gồm tám đoạn hồi ức ngắn của tám người con, rồi hai trang ý kiến của bạn bè, đối tác ("Friends Have Their Say", trang in 48–50) và một trang của Bill Gates ("And Bill Gates Has His Say", trang in 51).
+
+## Tác giả
+
+Tám người con của Charles T. Munger (Charlie Munger, 1924–2023, phó chủ tịch Berkshire Hathaway, chủ tịch Wesco Financial và Daily Journal Corporation), mỗi người viết một đoạn: Charles T. Munger, Jr.; Wendy Munger; William H. (Hal) Borthwick; David Borthwick; Molly Munger; Emilie Ogden (nhũ danh Munger); Barry Munger; Philip Munger. Hal và David Borthwick là con riêng của bà Nancy Barry Borthwick, vợ thứ hai của Munger (cưới năm 1956), được Munger nuôi từ nhỏ; Molly và Wendy là con của Munger với người vợ đầu; Charles Jr., Emilie, Barry và Philip là con chung của Munger và bà Nancy. Hai trang cuối là lời của các bạn lâu năm và đối tác: Roy Tolles, Glen Mitchel, Bob Bird, Warren Buffett, Dick Esbenshade, Howard Buffett, và cuối cùng là Bill Gates.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 1 dựng chân dung con người Munger trước khi cuốn sách đi vào tư tưởng của ông. Phần 1 là tiểu sử do Michael Broggie viết (trang in 2–26), phần 2 nói về cách Munger nhìn tuổi già (27–38). Phần 3 này đổi góc nhìn: thay vì người viết tiểu sử, chính những người sống cùng nhà và làm việc cạnh Munger kể lại những cảnh nhỏ hằng ngày.
+
+Các cảnh đó cho thấy những nguyên tắc mà các chương sau trình bày dưới dạng lý thuyết đã được Munger sống thật trong đời riêng: sự công bằng và chu đáo, nhận lỗi ngay, làm đúng ngay lần đầu, chịu trách nhiệm, tập trung tuyệt đối, đọc không ngừng, hoài nghi đám đông, giữ thăng bằng, coi trọng sự bền bỉ và các thói quen lâu dài, và học từ hệ quả xấu của lựa chọn sai.
+
+Chương 2 ("The Munger Approach to Life, Learning, and Decision Making") sẽ hệ thống hoá các nguyên tắc ấy thành phương pháp sống, học và ra quyết định; Chương 3 ("Mungerisms") cho thấy chúng trong lời nói ứng khẩu ở các đại hội cổ đông; Chương 4 là mười một bài nói chính thức.
+
+## Lưu ý
+
+- **Thời điểm.** Các hồi ức được viết cho ấn bản đầu của sách (khoảng 2005): Hal Borthwick viết "gần năm mươi năm" kể từ khi Munger cưới mẹ ông (năm 1956); Wendy viết "những người con lớn nhất đang tiến dần tới tuổi sáu mươi". Ghi chú của người biên tập về Roy Tolles ("mất ngày 1 tháng 2 năm 2008") được thêm ở ấn bản thứ ba. Munger mất năm 2023, bà Nancy mất năm 2010 (theo hiểu biết của người tổng hợp), nên những câu ở thì hiện tại ("ông vẫn kể chuyện ở đầu bàn ăn", "mỗi Giáng sinh cha tặng thẻ quà") là hiện tại của lúc viết.
+- **Ảnh và chú thích của người biên tập** (trang in 39–47, 48–51): ảnh tám người con thuở nhỏ trên ghế sofa cùng một chú chó (trang 39), ảnh xe jeep đỏ, bàn ăn, bến thuyền "Blue Viking" ở hồ Minnesota, Molly bé đứng trên tấm "aquaplane", đôi bàn tay, chiếc ghế bành, cửa hàng Brooks Brothers, ảnh cả đại gia đình (trang 47) với chú thích "Kỷ niệm 45 năm ngày cưới cùng gia đình, tháng 8 năm 2001, ở Kent, nước Anh", ảnh chân dung các bạn của Munger và tranh biếm hoạ Bill Gates. Các chú thích có chữ đã được đưa vào mục "Hình ảnh và chú thích của người biên tập" trong bản tổng hợp.
+- **Phạm vi.** Mục lục của sách ghi "Remembering: The Children on Charlie" kéo dài tới trang in 51, nên hai mục "Friends Have Their Say" (trang 48–50) và "And Bill Gates Has His Say" (trang 51) được tổng hợp ở đây, dù người viết không phải các con. Hai mục này mang dáng dấp hộp nội dung do người biên tập sắp xếp (tiêu đề riêng, ảnh chân dung, câu trích in nổi của Munger).
+- **Lỗi OCR ảnh hưởng tới nghĩa (đã đối chiếu với ảnh trang):** "1 offered Charlie" là "I offered Charlie" (Hal tự nhận mình đã "tạo nhiều cơ hội" để Munger giáo dục); "T also see them" là "I also see them"; câu trích Franklin của Bill Gates bị OCR làm hỏng ("Y cannot conceive atherine than that Hes"), nguyên văn là "Ben Franklin once said, 'I cannot conceive otherwise than that He, the Infinite Father, expects or requires no worship or praise from us, but that He is even infinitely above it.'"; "al of his brains" là "all of his brains"; dấu hai chấm sau "send copies to the whole family" là dấu chấm. Chữ "Brand Prichar" lẫn vào trang 46 thực ra là chữ "Brooks Brothers" trên biển hiệu trong ảnh.
+- **Chi tiết cần hiểu theo bối cảnh.** "Chinese wall" (trong đoạn của David) là thuật ngữ của giới tài chính, luật chỉ "bức tường thông tin" ngăn cách các bộ phận; David dùng nó như động từ, nghĩa là Munger cách ly hoàn toàn mọi thứ gây xao nhãng.
+
+  Khi Molly vào đại học năm 1966, Munger "chỉ sở hữu một công ty nhỏ, bẩn thỉu làm phụ gia động cơ" và làm việc ở "một khu tồi tàn trên phố Spring" (Los Angeles): đó là giai đoạn trước khi ông giàu lên nhờ quỹ đầu tư riêng và Berkshire. Molly có lẽ học ở Radcliffe/Harvard (Lamont Library là thư viện của Harvard), theo hiểu biết của người tổng hợp. Việc Munger mất thị lực một mắt (Buffett nhắc trong đoạn của mình) xảy ra khoảng năm 1980, theo hiểu biết của người tổng hợp. Núi Rushmore được Barry tả là "khối đá granit cao 5.700 feet" (khoảng 1.740 m); con số đó là độ cao so với mực nước biển của đỉnh núi.
+- **Một điểm nhỏ có thể gây thắc mắc:** Molly viết khi bà vào đại học năm 1966, Munger "có bảy người con khác phải nuôi". Bảy người con đó là bảy người còn lại trong phần này. Theo hiểu biết của người tổng hợp, người con trai đầu của Munger là Teddy đã mất vì bệnh bạch cầu năm 1955 (khi Teddy khoảng chín tuổi), nên không có mặt ở đây.

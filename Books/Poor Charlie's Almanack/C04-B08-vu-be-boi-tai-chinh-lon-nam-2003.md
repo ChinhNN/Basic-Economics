@@ -1,17 +1,18 @@
 # Bài 8 — Vụ bê bối tài chính lớn năm 2003 (The Great Financial Scandal of 2003)
 
-**Nguồn:** *Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger*, biên tập Peter D. Kaufman, The Donning Company Publishers, ấn bản mở rộng thứ ba (bản PDF là lần in thứ sáu, 2011), Chương 4 "Eleven Talks", Bài 8 "The Great Financial Scandal of 2003", trang in 356–373. Gồm: lời dẫn của người biên tập (trang in 356), bài viết "The Great Financial Scandal of 2003 — An Account by Charles T. Munger, Summer 2000" (trang in 357–370), ảnh trang bản thảo viết tay (trang in 371), lời bình viết thêm "Talk Eight Revisited" (trang in 372–373), cùng các hộp bên lề và chú thích ảnh của người biên tập. Đây không phải bài nói trước một cử toạ cụ thể: theo lời dẫn, Munger viết tay câu chuyện này khi đi nghỉ hè ở bang Minnesota năm 2000; bản thảo ghi ngày 15/8/2000.
-**Tác giả:** Charles T. Munger (1924–2023), phó chủ tịch Berkshire Hathaway, luật sư được đào tạo ở Harvard, người viết câu chuyện ngụ ngôn và lời bình; lời dẫn, các hộp bên lề và chú thích ảnh là của Peter D. Kaufman và nhóm biên tập.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 4 tập hợp mười một bài nói và bài viết của Munger. Bài 6 (1998, về cách đầu tư của các quỹ từ thiện) và Bài 7 (2000, Philanthropy Roundtable) đã cho thấy Munger sẵn sàng chê thẳng những thông lệ được cả giới tài chính chấp nhận. Bài 8 đi xa hơn: thay vì phân tích, ông kể một truyện ngụ ngôn hư cấu để cho thấy một quy ước kế toán hợp pháp (không tính quyền chọn cổ phiếu cấp cho nhân viên vào chi phí) có thể dẫn tới đúng kết quả của một vụ lừa đảo. Bài này nối với Bài 9 "Academic Economics" (2003), nơi Munger tiếp tục chê giới kinh tế học hàn lâm, những người trong truyện bị công chúng trách vì đã không cảnh báo về kế toán sai. Nó cũng là một ứng dụng cụ thể của các khuynh hướng tâm lý được hệ thống hoá ở Bài 11 "The Psychology of Human Misjudgment": thiên lệch do động cơ khuyến khích (*incentive-caused bias*), phản xạ liên tưởng kiểu Pavlov, và việc người ta tin rằng thứ mình hưởng lợi thì không thể là sai.
-**Ý chính:** Munger muốn người đọc hiểu rằng **cách hạch toán quyền chọn cổ phiếu cho nhân viên ở Mỹ vào năm 2000 (phần lợi nhân viên nhận khi thực hiện quyền chọn không bị tính là chi phí) về bản chất tương đương với những thủ đoạn lừa đảo thổi phồng đơn giản hơn**, và người có lỗi nặng nhất là giới kế toán, những người có vị trí vững vàng, đủ hiểu biết và đủ sức ngăn chặn, nhưng đã chiều theo ý các giám đốc doanh nghiệp. Ví dụ trung tâm là công ty giả tưởng Quant Tech: năm 1982, dưới thời người sáng lập, công ty có doanh thu 1 tỷ USD, lợi nhuận 100 triệu USD, trả toàn bộ lương thưởng bằng tiền mặt (trong đó 400 triệu USD là tiền thưởng khuyến khích). Ban điều hành mới nhận ra rằng chỉ cần đổi khoản thưởng tiền mặt đó thành lãi từ quyền chọn và dùng tiền tiết kiệm được để mua lại số cổ phiếu phát hành thêm, lợi nhuận báo cáo sẽ tăng từ 100 lên 500 triệu USD mà số cổ phiếu không đổi và thực chất kinh tế không đổi. Họ làm việc đó "từng muỗng một" trong hai mươi năm để lợi nhuận báo cáo tăng đều 28% mỗi năm thay vì 20% thật; tới đầu năm 2003 công ty báo lãi 16 tỷ USD và được thị trường định giá 1.400 tỷ USD. Khi tăng trưởng thật chậm lại còn 4% mỗi năm, mọi thứ sụp đổ: giá trị thị trường mất 90% trong sáu tháng, kéo theo suy thoái và làn sóng căm ghét các nghề chuyên môn. Trong đoạn kết, Thượng đế xử những kẻ đáng trách nhất, và đó không phải giới phân tích, chính trị gia hay ban điều hành, mà là các cựu thành viên hợp danh của những hãng kế toán lớn đã chấp nhận quy ước sai. Lời bình năm 2005 ghi nhận chuẩn mực kế toán đã bắt đầu buộc tính một phần chi phí quyền chọn, nhưng Munger vẫn cho rằng phần được tính thấp hơn nhiều so với chi phí thật.
+## Ý chính
 
-> **Lưu ý:**
-> - **Thời điểm.** Câu chuyện viết mùa hè năm 2000, đúng lúc bong bóng cổ phiếu công nghệ ở Mỹ vừa đạt đỉnh (chỉ số Nasdaq đạt đỉnh tháng 3/2000), trước các vụ Enron (cuối 2001), WorldCom (2002) và sự sụp đổ của hãng kiểm toán Arthur Andersen (2002). Lời dẫn của người biên tập và phần "Talk Eight Revisited" được viết cho ấn bản 2005, sau khi Ban Chuẩn mực Kế toán Tài chính Mỹ (FASB) ban hành chuẩn mực FAS 123R (tháng 12/2004) buộc ghi nhận chi phí quyền chọn; câu "giới kế toán nay buộc tính một phần chi phí quyền chọn" của Munger phản ánh thay đổi đó (theo hiểu biết của người tổng hợp).
-> - **Lỗi OCR đã sửa khi đọc:** "ecrie" là *eerie* (kỳ lạ đến rợn người); "Aet One" là *Act One*; "classie" là *classic*; "superelean" là *superclean*; "earings", "carnings" là *earnings*; "wenty" là *twenty*; "optien" là *option*; "falschood" là *falsehood*; "byadding" là *by adding*; "Amigone" là *Antigone*; "Talk Bight", "Talk Eighe" là *Talk Eight*; "Carl E. Braun" là Carl F. Braun (theo ảnh trang); "36" ở cuối trang in 361 là số trang 361. Chữ trên ảnh tờ cổ phiếu (trang in 362), ảnh mẫu tờ khai thuế (trang in 365) và ảnh bản thảo viết tay (trang in 371) bị OCR đọc thành chuỗi vô nghĩa; bản tổng hợp mô tả lại theo ảnh trang.
-> - **Chỗ sách viết chưa chính xác hoặc đã lỗi thời (theo hiểu biết của người tổng hợp):** (1) Lời dẫn viết "vua Henry VI của Shakespeare nói 'Việc đầu tiên ta làm là giết hết bọn luật sư'"; thực ra câu này do nhân vật Dick the Butcher (gã đồ tể Dick) nói trong vở *Henry VI, Phần 2*, không phải nhà vua. (2) Hộp bên lề về FASB ghi năm 1991 FASB đề xuất tính chi phí quyền chọn; theo hiểu biết của người tổng hợp, bản dự thảo chính thức được đưa ra năm 1993 và năm 1995 FASB ban hành FAS 123, chỉ "khuyến khích" ghi chi phí và cho phép chỉ công bố ở thuyết minh. (3) Hộp tiểu sử Galbraith ghi "(b. 1908)"; John Kenneth Galbraith mất năm 2006, sau khi ấn bản này ra đời. (4) Hộp về Ponzi ghi lời hứa "lãi 50% trong chín mươi ngày"; các tài liệu phổ biến thường ghi 50% trong 45 ngày (hoặc gấp đôi trong 90 ngày). (5) Câu của Upton Sinclair được in cạnh bìa tiểu thuyết *The Jungle* (1906), nhưng câu này xuất phát từ một cuốn sách khác của ông viết năm 1935 về chiến dịch tranh cử thống đốc California. (6) Trong truyện, Munger nói lợi ích từ thực hiện quyền chọn được trừ khi tính thuế; điều này đúng với loại quyền chọn thông thường (*non-qualified stock options*), còn loại quyền chọn ưu đãi thuế (*incentive stock options*) thường không cho công ty khoản khấu trừ đó.
-> - **Con số trong truyện.** Truyện nói chi phí của Quant Tech năm 1982 "gần như toàn bộ" là lương thưởng (70% doanh thu) và lợi nhuận là 10% doanh thu, nhưng không nói 20% doanh thu còn lại là gì; người tổng hợp đoán đó là thuế thu nhập và các chi phí khác. Các phép tính kiểm tra (doanh thu 2002 theo tốc độ 20% mỗi năm, lợi nhuận theo tốc độ 28% mỗi năm) do người tổng hợp làm và được ghi rõ.
-> - **Hộp bên lề và chú thích ảnh của người biên tập** được đưa vào đúng đoạn nội dung mà chúng đứng cạnh, ghi rõ là của người biên tập: hộp giới thiệu Quant Tech (trang in 357); chú thích ảnh cầu Tacoma Narrows (358); tiểu sử Sophocles (359); ảnh tờ chứng chỉ cổ phiếu Quant Tech (360, không có chú thích); câu nói của Upton Sinclair (361); ảnh tờ cổ phiếu Missouri, Kansas and Texas Railway Company đứng tên Jay Gould (362, không có chú thích) và hộp "The Right Way to Behave is to Never Let Improper Accounting Start" về FASB (362); câu in nổi và hộp điếu văn cho Arthur Andersen (363); hộp "The Ponzi Scheme" (364); hộp "Trust, But Verify" cạnh ảnh mẫu tờ khai thuế doanh nghiệp Form 1120 năm 2003 (365); hộp "Geometric Progressions: Highly Counter-Intuitive" (366); hộp các câu nói của Galbraith (367); chú thích ảnh bánh kếp (368); chú thích tranh của William Blake (369); trang bản thảo viết tay kèm ảnh Munger (371); chú thích ảnh động đất Chi-Chi ở Đài Loan (372); câu của Plato (373). Ảnh minh hoạ trang in 356 (hai bàn tay vắt chiếc khăn đỏ in chữ "Quant Tech" vào chiếc xô ghi "Executive Stock Options", tức quyền chọn cổ phiếu cho lãnh đạo) không có chú thích, được mô tả ở đoạn lời dẫn.
-> - Bản thân truyện có câu kết của Munger: đây là truyện hư cấu, không phải lời dự đoán về năm 2003; mọi sự giống nhau với người hay công ty có thật là ngẫu nhiên, trừ trường hợp giáo sư Galbraith.
+Munger muốn người đọc hiểu rằng **cách hạch toán quyền chọn cổ phiếu cho nhân viên ở Mỹ vào năm 2000 (phần lợi nhân viên nhận khi thực hiện quyền chọn không bị tính là chi phí) về bản chất tương đương với những thủ đoạn lừa đảo thổi phồng đơn giản hơn**, và người có lỗi nặng nhất là giới kế toán, những người có vị trí vững vàng, đủ hiểu biết và đủ sức ngăn chặn, nhưng đã chiều theo ý các giám đốc doanh nghiệp.
+
+Ví dụ trung tâm là công ty giả tưởng Quant Tech: năm 1982, dưới thời người sáng lập, công ty có doanh thu 1 tỷ USD, lợi nhuận 100 triệu USD, trả toàn bộ lương thưởng bằng tiền mặt (trong đó 400 triệu USD là tiền thưởng khuyến khích).
+
+Ban điều hành mới nhận ra rằng chỉ cần đổi khoản thưởng tiền mặt đó thành lãi từ quyền chọn và dùng tiền tiết kiệm được để mua lại số cổ phiếu phát hành thêm, lợi nhuận báo cáo sẽ tăng từ 100 lên 500 triệu USD mà số cổ phiếu không đổi và thực chất kinh tế không đổi. Họ làm việc đó "từng muỗng một" trong hai mươi năm để lợi nhuận báo cáo tăng đều 28% mỗi năm thay vì 20% thật; tới đầu năm 2003 công ty báo lãi 16 tỷ USD và được thị trường định giá 1.400 tỷ USD.
+
+Khi tăng trưởng thật chậm lại còn 4% mỗi năm, mọi thứ sụp đổ: giá trị thị trường mất 90% trong sáu tháng, kéo theo suy thoái và làn sóng căm ghét các nghề chuyên môn.
+
+Trong đoạn kết, Thượng đế xử những kẻ đáng trách nhất, và đó không phải giới phân tích, chính trị gia hay ban điều hành, mà là các cựu thành viên hợp danh của những hãng kế toán lớn đã chấp nhận quy ước sai.
+
+Lời bình năm 2005 ghi nhận chuẩn mực kế toán đã bắt đầu buộc tính một phần chi phí quyền chọn, nhưng Munger vẫn cho rằng phần được tính thấp hơn nhiều so với chi phí thật.
 
 ## Sơ đồ
 
@@ -580,9 +581,15 @@
 
 ## Ba câu hỏi bài này trả lời
 
-1. **Vì sao một quy ước kế toán hoàn toàn hợp pháp lại có thể gây ra hậu quả giống một vụ lừa đảo?** Vì nó cho phép công ty trả lương thưởng bằng một thứ gần như tương đương tiền mặt (phần chênh lệch giữa giá thị trường và giá thực hiện quyền chọn) mà không phải ghi khoản đó vào chi phí. Trong truyện, Quant Tech năm 1982 có 400 triệu USD thưởng tiền mặt; chỉ cần trả khoản đó dưới dạng lãi quyền chọn và dùng chính số tiền tiết kiệm được để mua lại số cổ phiếu phát hành thêm, công ty vẫn bỏ ra đúng số tiền thật như cũ, số cổ phiếu không đổi, nhưng lợi nhuận báo cáo tăng từ 100 lên 500 triệu USD. Phần tăng thêm là lợi nhuận giả: không có lợi ích kinh tế nào đứng sau nó. Thị trường định giá cổ phiếu theo lợi nhuận báo cáo, nên lợi nhuận giả biến thành giá cổ phiếu cao thật, và người mua sau cùng chịu thiệt khi sự thật lộ ra. Munger gọi đó là "tương đương về chức năng với các trò lừa đảo thổi phồng đơn giản hơn"; ông so với việc đếm thừa hàng tồn kho cuối kỳ và với mô hình Ponzi.
-2. **Vì sao trò gian lận kéo dài được hai mươi năm mà không ai chặn?** Vì ban điều hành làm "từng muỗng một": mỗi năm chỉ thêm một phần nhỏ lợi nhuận giả, đủ để lợi nhuận báo cáo tăng đều 28% thay vì 20%, không bao giờ vượt 40% doanh thu. Phần nhỏ thì khó thấy; phần cộng dồn bị che bởi tăng trưởng thật; kiểm toán viên đã ký năm trước thì ngại từ chối năm sau; và vì mọi công ty khác cũng dùng quyền chọn, lời giải thích "cần quyền chọn để giữ người" nghe hợp lý. Thêm vào đó, công ty không trả cổ tức và có núi tiền mặt, khiến nhà đầu tư liên tưởng "nhiều tiền thì lãi là thật". Khi tỷ lệ thuế trên lợi nhuận báo cáo thấp bất thường, ban điều hành dàn xếp với một số chính phủ nước ngoài để nộp thêm thuế cho bằng. Khi cổ phiếu đắt, họ còn cho thực hiện thêm quyền chọn mà không mua lại, đưa thêm tiền của người mua mới vào công ty (hiệu ứng Ponzi). Chỉ khi tăng trưởng thật chậm lại còn 4% vào năm 2003, khoảng cách giữa con số và thực tế mới không che được nữa.
-3. **Ai chịu trách nhiệm lớn nhất, và vì sao Munger chọn giới kế toán?** Trong phiên xét xử tưởng tượng, Thượng đế lần lượt gạt đi nhà phân tích chứng khoán (lỗi nhận thức cấp thấp, do hệ thống khuyến khích gây ra trong vô thức), uỷ viên SEC và chính trị gia (sống giữa vòng xoáy các lực đáng tiếc), và cho rằng ban điều hành Quant Tech đáng bị phạt nặng nhưng chưa phải kẻ tệ nhất. Kẻ bị đưa xuống vòng thấp nhất của Địa ngục, nơi dành cho kẻ phản bội, là các cựu thành viên hợp danh của những hãng kế toán lớn đã chấp nhận quy ước sai. Lý do của Munger: họ giàu có, vị trí vững chắc, không bị ép như người yếu thế; họ thuộc một nghề có nhiệm vụ đặt ra luật đúng để xã hội vận hành; họ biết rõ quy ước đó sai và dự đoán được hậu quả dối trá; và họ là người dễ ngăn chặn nhất. Trách nhiệm, theo cách nhìn này, tỷ lệ với hiểu biết, sự độc lập và khả năng ngăn chặn, chứ không chỉ với việc ai trực tiếp hưởng lợi. Lời bình năm 2005 thêm rằng chuẩn mực mới vẫn chưa sửa xong, vì người ta khó thấy điều ác trong thứ mình đang hưởng lợi.
+1. **Vì sao một quy ước kế toán hoàn toàn hợp pháp lại có thể gây ra hậu quả giống một vụ lừa đảo?** Vì nó cho phép công ty trả lương thưởng bằng một thứ gần như tương đương tiền mặt (phần chênh lệch giữa giá thị trường và giá thực hiện quyền chọn) mà không phải ghi khoản đó vào chi phí. Trong truyện, Quant Tech năm 1982 có 400 triệu USD thưởng tiền mặt; chỉ cần trả khoản đó dưới dạng lãi quyền chọn và dùng chính số tiền tiết kiệm được để mua lại số cổ phiếu phát hành thêm, công ty vẫn bỏ ra đúng số tiền thật như cũ, số cổ phiếu không đổi, nhưng lợi nhuận báo cáo tăng từ 100 lên 500 triệu USD.
+
+   Phần tăng thêm là lợi nhuận giả: không có lợi ích kinh tế nào đứng sau nó. Thị trường định giá cổ phiếu theo lợi nhuận báo cáo, nên lợi nhuận giả biến thành giá cổ phiếu cao thật, và người mua sau cùng chịu thiệt khi sự thật lộ ra. Munger gọi đó là "tương đương về chức năng với các trò lừa đảo thổi phồng đơn giản hơn"; ông so với việc đếm thừa hàng tồn kho cuối kỳ và với mô hình Ponzi.
+2. **Vì sao trò gian lận kéo dài được hai mươi năm mà không ai chặn?** Vì ban điều hành làm "từng muỗng một": mỗi năm chỉ thêm một phần nhỏ lợi nhuận giả, đủ để lợi nhuận báo cáo tăng đều 28% thay vì 20%, không bao giờ vượt 40% doanh thu. Phần nhỏ thì khó thấy; phần cộng dồn bị che bởi tăng trưởng thật; kiểm toán viên đã ký năm trước thì ngại từ chối năm sau; và vì mọi công ty khác cũng dùng quyền chọn, lời giải thích "cần quyền chọn để giữ người" nghe hợp lý.
+
+   Thêm vào đó, công ty không trả cổ tức và có núi tiền mặt, khiến nhà đầu tư liên tưởng "nhiều tiền thì lãi là thật". Khi tỷ lệ thuế trên lợi nhuận báo cáo thấp bất thường, ban điều hành dàn xếp với một số chính phủ nước ngoài để nộp thêm thuế cho bằng. Khi cổ phiếu đắt, họ còn cho thực hiện thêm quyền chọn mà không mua lại, đưa thêm tiền của người mua mới vào công ty (hiệu ứng Ponzi). Chỉ khi tăng trưởng thật chậm lại còn 4% vào năm 2003, khoảng cách giữa con số và thực tế mới không che được nữa.
+3. **Ai chịu trách nhiệm lớn nhất, và vì sao Munger chọn giới kế toán?** Trong phiên xét xử tưởng tượng, Thượng đế lần lượt gạt đi nhà phân tích chứng khoán (lỗi nhận thức cấp thấp, do hệ thống khuyến khích gây ra trong vô thức), uỷ viên SEC và chính trị gia (sống giữa vòng xoáy các lực đáng tiếc), và cho rằng ban điều hành Quant Tech đáng bị phạt nặng nhưng chưa phải kẻ tệ nhất. Kẻ bị đưa xuống vòng thấp nhất của Địa ngục, nơi dành cho kẻ phản bội, là các cựu thành viên hợp danh của những hãng kế toán lớn đã chấp nhận quy ước sai.
+
+   Lý do của Munger: họ giàu có, vị trí vững chắc, không bị ép như người yếu thế; họ thuộc một nghề có nhiệm vụ đặt ra luật đúng để xã hội vận hành; họ biết rõ quy ước đó sai và dự đoán được hậu quả dối trá; và họ là người dễ ngăn chặn nhất. Trách nhiệm, theo cách nhìn này, tỷ lệ với hiểu biết, sự độc lập và khả năng ngăn chặn, chứ không chỉ với việc ai trực tiếp hưởng lợi. Lời bình năm 2005 thêm rằng chuẩn mực mới vẫn chưa sửa xong, vì người ta khó thấy điều ác trong thứ mình đang hưởng lợi.
 
 ## Khái niệm cần biết
 
@@ -592,7 +599,9 @@
 
 **Hạch toán quyền chọn vào chi phí (expensing stock options).** Ghi giá trị quyền chọn cấp cho nhân viên vào chi phí trên báo cáo kết quả kinh doanh, giống như tiền lương. Munger đòi hỏi điều này từ lâu; người sáng lập Quant Tech từ chối dùng quyền chọn chính vì chuẩn mực không đòi hỏi điều này. Theo hiểu biết của người tổng hợp, Mỹ chỉ bắt buộc từ chuẩn mực FAS 123R (ban hành tháng 12/2004), đo theo giá trị hợp lý tại ngày cấp. Quan trọng vì đây là chỗ Munger vẫn chưa hài lòng: phần chi phí ghi theo giá trị ngày cấp thường thấp hơn nhiều so với phần lợi nhân viên thật sự nhận khi thực hiện.
 
-**Lợi nhuận báo cáo, lợi nhuận thật và lợi nhuận giả (reported earnings, real earnings, phony earnings).** Lợi nhuận báo cáo là con số trên báo cáo tài chính đã kiểm toán; lợi nhuận thật là phần kinh tế công ty thực sự tạo ra; lợi nhuận giả là phần chênh lệch không có lợi ích kinh tế thật đứng sau. Ví dụ trong sách: lợi nhuận thật của Quant Tech tăng 20% mỗi năm, lợi nhuận báo cáo tăng 28% mỗi năm; năm 2002 công ty báo 16 tỷ USD, trong khi theo cách tính của người sáng lập (10% doanh thu thật khoảng 38 tỷ USD, phép tính của người tổng hợp) lợi nhuận hoạt động chỉ khoảng 3,8 tỷ USD. Quan trọng vì giá cổ phiếu được tính bằng bội số của lợi nhuận báo cáo, nên lợi nhuận giả bị nhân lên thành giá trị thị trường giả.
+**Lợi nhuận báo cáo, lợi nhuận thật và lợi nhuận giả (reported earnings, real earnings, phony earnings).** Lợi nhuận báo cáo là con số trên báo cáo tài chính đã kiểm toán; lợi nhuận thật là phần kinh tế công ty thực sự tạo ra; lợi nhuận giả là phần chênh lệch không có lợi ích kinh tế thật đứng sau.
+
+Ví dụ trong sách: lợi nhuận thật của Quant Tech tăng 20% mỗi năm, lợi nhuận báo cáo tăng 28% mỗi năm; năm 2002 công ty báo 16 tỷ USD, trong khi theo cách tính của người sáng lập (10% doanh thu thật khoảng 38 tỷ USD, phép tính của người tổng hợp) lợi nhuận hoạt động chỉ khoảng 3,8 tỷ USD. Quan trọng vì giá cổ phiếu được tính bằng bội số của lợi nhuận báo cáo, nên lợi nhuận giả bị nhân lên thành giá trị thị trường giả.
 
 **Kỹ thuật tài chính hiện đại (modern financial engineering).** Tên mà ban điều hành mới của Quant Tech đặt cho việc dùng mọi cách "có thể biện hộ là hợp pháp" để đẩy lợi nhuận báo cáo lên, làm những thay đổi lớn và đơn giản trước. Ví dụ trong sách: thay thưởng tiền mặt bằng quyền chọn. Người biên tập còn mỉa rằng mô hình Ponzi là "một trong những ví dụ nổi tiếng nhất của kỹ thuật tài chính hiện đại". Quan trọng vì cụm từ nghe chuyên môn này che giấu bản chất là làm đẹp con số chứ không tạo thêm giá trị.
 
@@ -718,11 +727,15 @@ Munger cho thấy phép tính "dễ như trò trẻ con". Giả sử ngay năm 1
 
 Vì thế, ban điều hành thấy nước đi rõ ràng là bắt đầu thay thưởng khuyến khích bằng lãi quyền chọn. Tại sao một nhóm kỹ sư giỏi tính toán lại quan tâm tiền thưởng của mình là tiền mặt hay một thứ gần như hoàn toàn tương đương tiền mặt? Sắp xếp những sự thay thế đó theo bất kỳ lịch nào mong muốn có vẻ không khó.
 
-Nhưng cũng "dễ như trò trẻ con" để thấy cần thận trọng và kiềm chế khi đẩy mưu kế này. Nếu đẩy quá mạnh trong một năm, kế toán viên của Quant Tech có thể nổi loạn, hoặc các nguồn khác có thể trở nên thù địch, và như thế là liều giết con ngỗng có khả năng đẻ ra vô số trứng vàng, ít nhất là cho ban điều hành. Rõ ràng mưu kế chỉ làm tăng lợi nhuận báo cáo bằng cách cộng thêm vào lợi nhuận thật một phần lợi nhuận giả. Giả theo nghĩa Quant Tech không được hưởng tác động kinh tế có lợi thật nào từ phần lợi nhuận tăng thêm nhờ mưu kế, ngoài một tác động tạm thời kiểu gian lận, giống như tác động của việc đếm thừa hàng tồn kho cuối kỳ. CEO mới gọi riêng cách làm thận trọng đáng mong muốn này là "sự dối trá được kiềm chế một cách khôn ngoan".
+Nhưng cũng "dễ như trò trẻ con" để thấy cần thận trọng và kiềm chế khi đẩy mưu kế này. Nếu đẩy quá mạnh trong một năm, kế toán viên của Quant Tech có thể nổi loạn, hoặc các nguồn khác có thể trở nên thù địch, và như thế là liều giết con ngỗng có khả năng đẻ ra vô số trứng vàng, ít nhất là cho ban điều hành.
+
+Rõ ràng mưu kế chỉ làm tăng lợi nhuận báo cáo bằng cách cộng thêm vào lợi nhuận thật một phần lợi nhuận giả. Giả theo nghĩa Quant Tech không được hưởng tác động kinh tế có lợi thật nào từ phần lợi nhuận tăng thêm nhờ mưu kế, ngoài một tác động tạm thời kiểu gian lận, giống như tác động của việc đếm thừa hàng tồn kho cuối kỳ. CEO mới gọi riêng cách làm thận trọng đáng mong muốn này là "sự dối trá được kiềm chế một cách khôn ngoan".
 
 **Ảnh của người biên tập (không có chú thích).** Một tờ cổ phiếu cổ của Missouri, Kansas and Texas Railway Company, mệnh giá 100 USD mỗi cổ phần, đứng tên Jay Gould. Theo hiểu biết của người tổng hợp, Jay Gould là nhà tài phiệt đường sắt Mỹ thế kỷ 19, khét tiếng về thao túng chứng khoán; ảnh gợi mối liên hệ giữa "kỹ thuật tài chính hiện đại" và những trò cũ.
 
-**Hộp bên lề của người biên tập: "The Right Way to Behave is to Never Let Improper Accounting Start" (cách cư xử đúng là đừng bao giờ để kế toán sai bắt đầu).** Năm 1991, Ban Chuẩn mực Kế toán Tài chính Mỹ (Financial Accounting Standards Board, FASB) đề xuất ghi nhận một phần chi phí thật của quyền chọn cấp cho nhân viên vào chi phí. Do sự phản đối gay gắt của cả giới doanh nghiệp lẫn Quốc hội, đề xuất bị pha loãng nhiều, chỉ còn yêu cầu công bố một số thông tin trong thuyết minh. Ngày nay, chuẩn mực kế toán được chấp nhận chung ở Mỹ (GAAP) buộc ghi một phần chi phí thật của quyền chọn vào báo cáo kết quả kinh doanh. Munger vẫn hoài nghi: "Tới lúc quyền chọn được thực hiện, tổng chi phí đã ghi thường thấp hơn nhiều so với tổng chi phí thật phát sinh. Hơn nữa, phần chi phí được ghi vào lợi nhuận thường bị kéo xuống bằng các kỹ thuật đáng ngờ. Loại việc này luôn khó dẹp bỏ. Cách cư xử đúng là đừng bao giờ để kế toán sai bắt đầu."
+**Hộp bên lề của người biên tập: "The Right Way to Behave is to Never Let Improper Accounting Start" (cách cư xử đúng là đừng bao giờ để kế toán sai bắt đầu).** Năm 1991, Ban Chuẩn mực Kế toán Tài chính Mỹ (Financial Accounting Standards Board, FASB) đề xuất ghi nhận một phần chi phí thật của quyền chọn cấp cho nhân viên vào chi phí. Do sự phản đối gay gắt của cả giới doanh nghiệp lẫn Quốc hội, đề xuất bị pha loãng nhiều, chỉ còn yêu cầu công bố một số thông tin trong thuyết minh.
+
+Ngày nay, chuẩn mực kế toán được chấp nhận chung ở Mỹ (GAAP) buộc ghi một phần chi phí thật của quyền chọn vào báo cáo kết quả kinh doanh. Munger vẫn hoài nghi: "Tới lúc quyền chọn được thực hiện, tổng chi phí đã ghi thường thấp hơn nhiều so với tổng chi phí thật phát sinh. Hơn nữa, phần chi phí được ghi vào lợi nhuận thường bị kéo xuống bằng các kỹ thuật đáng ngờ. Loại việc này luôn khó dẹp bỏ. Cách cư xử đúng là đừng bao giờ để kế toán sai bắt đầu."
 
 ### 7. Hệ thống "từng muỗng một" (trang in 363–364)
 
@@ -755,17 +768,25 @@ Và thế là kế hoạch lớn của "kỹ thuật tài chính hiện đại" 
 
 **Câu in nổi của người biên tập.** "Các kiểm toán viên độc lập... có lẽ sẽ thấy xấu hổ không chịu nổi nếu không chấp thuận những báo cáo tài chính mới chỉ chứa cùng tỷ lệ lợi nhuận tăng giả."
 
-**Hộp bên lề của người biên tập (điếu văn cho Arthur Andersen).** Ảnh chân dung Arthur Andersen, người sáng lập hãng kiểm toán mang tên ông, kèm lời kết bài điếu văn của mục sư Duncan E. Littlefair ngày 13/1/1947: "Những nguyên tắc mà doanh nghiệp của ông được xây dựng trên đó, và gắn liền với tên tuổi doanh nghiệp, phải được giữ gìn. Tên ông không bao giờ được gắn với bất kỳ chương trình hay hành động nào không phải là cao nhất và tốt nhất. Tôi chắc rằng ông thà để cửa hãng đóng lại còn hơn để nó tiếp tục tồn tại trên những nguyên tắc khác với những nguyên tắc ông đã lập. Ông để lại cho các vị một cái tên lớn. Cơ hội của các vị là to lớn, trách nhiệm của các vị là nặng nề." Người biên tập không bình thêm; theo hiểu biết của người tổng hợp, hãng Arthur Andersen sụp đổ năm 2002 sau vụ kiểm toán Enron, nên hộp này là một lời mỉa sâu cay về việc nghề kiểm toán đánh mất nguyên tắc của chính người sáng lập.
+**Hộp bên lề của người biên tập (điếu văn cho Arthur Andersen).** Ảnh chân dung Arthur Andersen, người sáng lập hãng kiểm toán mang tên ông, kèm lời kết bài điếu văn của mục sư Duncan E. Littlefair ngày 13/1/1947: "Những nguyên tắc mà doanh nghiệp của ông được xây dựng trên đó, và gắn liền với tên tuổi doanh nghiệp, phải được giữ gìn. Tên ông không bao giờ được gắn với bất kỳ chương trình hay hành động nào không phải là cao nhất và tốt nhất. Tôi chắc rằng ông thà để cửa hãng đóng lại còn hơn để nó tiếp tục tồn tại trên những nguyên tắc khác với những nguyên tắc ông đã lập. Ông để lại cho các vị một cái tên lớn. Cơ hội của các vị là to lớn, trách nhiệm của các vị là nặng nề."
 
-**Hộp bên lề của người biên tập: "The Ponzi Scheme" (mô hình Ponzi).** Kèm ảnh Carlo "Charles" Ponzi (1882–1949). Một trong những ví dụ nổi tiếng nhất của "kỹ thuật tài chính hiện đại" là mô hình Ponzi, bắt đầu ở Boston năm 1919. Ponzi tuyên bố có khả năng khai thác một cơ hội kinh doanh chênh lệch giá chưa ai thấy ở phiếu trả trước bưu chính quốc tế (international postal coupons), và thu hút hàng nghìn nhà đầu tư bằng lời hứa lãi 50% trong chín mươi ngày. Để tạo lòng tin, ông dùng tiền của nhà đầu tư mới để trả lợi nhuận cho người tham gia trước, một thủ thuật điển hình của mô hình kim tự tháp. Chẳng bao lâu Ponzi đã thu hàng triệu USD. Năm 1920, báo *Boston Post* đăng bài đặt nghi vấn về cách làm của Ponzi, dẫn tới một cuộc kiểm toán độc lập. Kiểm toán làm lộ gian lận, và nhà đầu tư đòi tiền lại. Cuối cùng, người tham gia trung bình chỉ nhận lại 37% số tiền đã bỏ ra, và Ponzi ngồi tù vài năm. Không hề hối cải, cuối thập niên 1920 Ponzi lại xuất hiện, bán đất vô giá trị ở Florida.
+Người biên tập không bình thêm; theo hiểu biết của người tổng hợp, hãng Arthur Andersen sụp đổ năm 2002 sau vụ kiểm toán Enron, nên hộp này là một lời mỉa sâu cay về việc nghề kiểm toán đánh mất nguyên tắc của chính người sáng lập.
+
+**Hộp bên lề của người biên tập: "The Ponzi Scheme" (mô hình Ponzi).** Kèm ảnh Carlo "Charles" Ponzi (1882–1949). Một trong những ví dụ nổi tiếng nhất của "kỹ thuật tài chính hiện đại" là mô hình Ponzi, bắt đầu ở Boston năm 1919. Ponzi tuyên bố có khả năng khai thác một cơ hội kinh doanh chênh lệch giá chưa ai thấy ở phiếu trả trước bưu chính quốc tế (international postal coupons), và thu hút hàng nghìn nhà đầu tư bằng lời hứa lãi 50% trong chín mươi ngày. Để tạo lòng tin, ông dùng tiền của nhà đầu tư mới để trả lợi nhuận cho người tham gia trước, một thủ thuật điển hình của mô hình kim tự tháp.
+
+Chẳng bao lâu Ponzi đã thu hàng triệu USD. Năm 1920, báo *Boston Post* đăng bài đặt nghi vấn về cách làm của Ponzi, dẫn tới một cuộc kiểm toán độc lập. Kiểm toán làm lộ gian lận, và nhà đầu tư đòi tiền lại. Cuối cùng, người tham gia trung bình chỉ nhận lại 37% số tiền đã bỏ ra, và Ponzi ngồi tù vài năm. Không hề hối cải, cuối thập niên 1920 Ponzi lại xuất hiện, bán đất vô giá trị ở Florida.
 
 ### 8. Mưu kế thành công và được "hoàn thiện" thêm (trang in 364–366)
 
 Munger viết rằng hiếm có mưu đồ bất chính nào của con người đạt được điều nó nhắm tới tốt như vậy. Lợi nhuận báo cáo của Quant Tech, có kiểm toán viên xác nhận, tăng đều 28% mỗi năm. Không ai chê cách báo cáo tài chính của Quant Tech, trừ vài người bị coi rộng rãi là thiếu thực tế, quá lý thuyết, những kẻ lập dị ghét đời. Chính sách không bao giờ trả cổ tức của người sáng lập, vẫn được giữ, hoá ra giúp rất nhiều trong việc giữ uy tín cho báo cáo rằng lợi nhuận tăng đều 28% mỗi năm. Với lượng tiền mặt cao đáng kinh ngạc như vậy, các phản xạ liên tưởng kiểu Pavlov, vốn rất hay làm suy yếu khả năng nhận ra thực tế, đã giúp ngăn người ta phát hiện phần giả trong lợi nhuận báo cáo.
 
-**Sửa đổi thứ nhất: phát hành thêm cổ phiếu mà không mua lại.** Sau vài năm vận hành hệ thống, ban điều hành tự nhiên muốn lợi nhuận mỗi cổ phần báo cáo tiếp tục tăng 28% mỗi năm trong khi tiền mặt tăng nhanh hơn nhiều so với tốc độ lúc đó. Việc này hoá ra rất dễ. Lúc này cổ phiếu Quant Tech được bán ở bội số rất cao so với lợi nhuận báo cáo, và ban điều hành chỉ việc bắt đầu cho thực hiện thêm một số quyền chọn không đi kèm việc cắt giảm thưởng tiền mặt, cũng không đi kèm việc mua lại cổ phiếu. Ban điều hành dễ dàng nhận ra đây là một sửa đổi rất hữu ích cho kế hoạch ban đầu. Không chỉ việc phát hiện phần giả trong lợi nhuận báo cáo trở nên khó hơn nhiều khi tiền mặt tích luỹ nhanh hơn, mà một lượng đáng kể hiệu ứng mô hình Ponzi, hiệu ứng thư dây chuyền, đã được đưa vào Quant Tech, mang lại lợi ích thật cho cổ đông hiện hữu, kể cả ban điều hành.
+**Sửa đổi thứ nhất: phát hành thêm cổ phiếu mà không mua lại.** Sau vài năm vận hành hệ thống, ban điều hành tự nhiên muốn lợi nhuận mỗi cổ phần báo cáo tiếp tục tăng 28% mỗi năm trong khi tiền mặt tăng nhanh hơn nhiều so với tốc độ lúc đó. Việc này hoá ra rất dễ. Lúc này cổ phiếu Quant Tech được bán ở bội số rất cao so với lợi nhuận báo cáo, và ban điều hành chỉ việc bắt đầu cho thực hiện thêm một số quyền chọn không đi kèm việc cắt giảm thưởng tiền mặt, cũng không đi kèm việc mua lại cổ phiếu.
 
-**Sửa đổi thứ hai: che tỷ lệ thuế thấp bất thường.** Ban điều hành cũng sửa một khiếm khuyết khác. Họ thấy khi lợi nhuận báo cáo, chứa phần giả ngày càng lớn, tiếp tục tăng 28%, thì thuế thu nhập tính theo phần trăm lợi nhuận trước thuế báo cáo cứ thấp dần. (Giải thích của người tổng hợp: vì phần lợi nhuận giả thực chất là khoản lương thưởng đã được trừ khi tính thuế, nó không tạo ra thuế phải nộp.) Điều này rõ ràng làm tăng nguy cơ bị đặt câu hỏi và bị phê phán. Vấn đề được giải quyết nhanh chóng. Nhiều nhà máy điện ở nước ngoài do chính phủ xây và sở hữu, và hoá ra dễ thuyết phục một số chính phủ nước ngoài nâng phí thiết kế trả cho Quant Tech, với điều kiện trong mỗi trường hợp, Quant Tech trả lại cho chính phủ đó một khoản thuế thu nhập tăng thêm lớn hơn một chút so với phần phí tăng. Kết quả là doanh thu và thuế báo cáo cùng tăng, tỷ lệ thuế trông bình thường, còn công ty thực chất mất một ít tiền.
+Ban điều hành dễ dàng nhận ra đây là một sửa đổi rất hữu ích cho kế hoạch ban đầu. Không chỉ việc phát hiện phần giả trong lợi nhuận báo cáo trở nên khó hơn nhiều khi tiền mặt tích luỹ nhanh hơn, mà một lượng đáng kể hiệu ứng mô hình Ponzi, hiệu ứng thư dây chuyền, đã được đưa vào Quant Tech, mang lại lợi ích thật cho cổ đông hiện hữu, kể cả ban điều hành.
+
+**Sửa đổi thứ hai: che tỷ lệ thuế thấp bất thường.** Ban điều hành cũng sửa một khiếm khuyết khác. Họ thấy khi lợi nhuận báo cáo, chứa phần giả ngày càng lớn, tiếp tục tăng 28%, thì thuế thu nhập tính theo phần trăm lợi nhuận trước thuế báo cáo cứ thấp dần. (Giải thích của người tổng hợp: vì phần lợi nhuận giả thực chất là khoản lương thưởng đã được trừ khi tính thuế, nó không tạo ra thuế phải nộp.)
+
+Điều này rõ ràng làm tăng nguy cơ bị đặt câu hỏi và bị phê phán. Vấn đề được giải quyết nhanh chóng. Nhiều nhà máy điện ở nước ngoài do chính phủ xây và sở hữu, và hoá ra dễ thuyết phục một số chính phủ nước ngoài nâng phí thiết kế trả cho Quant Tech, với điều kiện trong mỗi trường hợp, Quant Tech trả lại cho chính phủ đó một khoản thuế thu nhập tăng thêm lớn hơn một chút so với phần phí tăng. Kết quả là doanh thu và thuế báo cáo cùng tăng, tỷ lệ thuế trông bình thường, còn công ty thực chất mất một ít tiền.
 
 **Kết quả năm 2002.** Cuối cùng, năm 2002 Quant Tech báo lợi nhuận 16 tỷ USD trên doanh thu 47 tỷ USD. Doanh thu này bao gồm rất nhiều tiền lãi trên tiền gửi, nhiều hơn hẳn mức lẽ ra có được nếu công ty không phát hành thêm ròng cổ phiếu qua các năm. Tiền và tương đương tiền lên tới con số kinh ngạc 85 tỷ USD, và bằng cách nào đó, phần lớn nhà đầu tư thấy không phải là không thể việc một công ty gần như "chết đuối trong tiền mặt" kiếm được 16 tỷ USD như nó báo. Vốn hoá thị trường của Quant Tech ở đỉnh điểm đầu năm 2003 lên tới 1.400 tỷ USD, khoảng 90 lần lợi nhuận báo cáo năm 2002.
 
@@ -780,7 +801,9 @@ Munger viết rằng hiếm có mưu đồ bất chính nào của con người 
 
 **Hộp bên lề của người biên tập: "Trust, But Verify" (tin, nhưng phải kiểm chứng).** Đặt cạnh ảnh mẫu tờ khai thuế thu nhập doanh nghiệp Mỹ (U.S. Corporation Income Tax Return, Form 1120) năm 2003. Một kỹ thuật hữu ích để đánh giá độ xác thực của lợi nhuận báo cáo là so tin tốt trong báo cáo thường niên với thực tế trần trụi của số thuế thu nhập công ty thật sự nộp. Vì giám đốc ít khi hăng hái làm đẹp kết quả trước Sở Thuế Mỹ (IRS) như trước cổ đông, dòng thuyết minh "thuế thu nhập đã nộp bằng tiền" (cash income taxes paid) trong báo cáo năm 10-K của doanh nghiệp thường là chỉ báo chính xác và trung thực hơn về lợi nhuận thật.
 
-**Hộp bên lề của người biên tập: "Geometric Progressions: Highly Counter-Intuitive" (cấp số nhân: rất ngược trực giác).** Muốn dạy học trò bài học về sức mạnh của lãi kép, một thầy giáo đưa ra lời đề nghị: "Thầy sẽ cho em một trong hai thứ sau, nhưng em không được đổi ý, nên hãy nghĩ kỹ. Thầy cho em 1.000 USD mỗi ngày trong ba mươi ngày, em tiêu ngay được. Hoặc thầy cho em một xu ngày thứ nhất, gấp đôi vào ngày thứ hai, lại gấp đôi số đó vào ngày thứ ba, và cứ gấp đôi mỗi ngày trong ba mươi ngày, nhưng em không được tiêu một xu nào cho tới khi hết ngày thứ ba mươi." Cậu học trò, bị hấp dẫn bởi viễn cảnh tiêu 1.000 USD mỗi ngày trong một tháng thay vì vài đồng xu lẻng xẻng trong túi một tháng sau, chọn cách thứ nhất. Cậu có chọn khôn không? Cách thứ nhất cho tổng cộng 30.000 USD. Cách thứ hai, nhờ sức mạnh của lãi kép, cho tổng cộng 5.368.709,12 USD.
+**Hộp bên lề của người biên tập: "Geometric Progressions: Highly Counter-Intuitive" (cấp số nhân: rất ngược trực giác).** Muốn dạy học trò bài học về sức mạnh của lãi kép, một thầy giáo đưa ra lời đề nghị: "Thầy sẽ cho em một trong hai thứ sau, nhưng em không được đổi ý, nên hãy nghĩ kỹ. Thầy cho em 1.000 USD mỗi ngày trong ba mươi ngày, em tiêu ngay được. Hoặc thầy cho em một xu ngày thứ nhất, gấp đôi vào ngày thứ hai, lại gấp đôi số đó vào ngày thứ ba, và cứ gấp đôi mỗi ngày trong ba mươi ngày, nhưng em không được tiêu một xu nào cho tới khi hết ngày thứ ba mươi."
+
+Cậu học trò, bị hấp dẫn bởi viễn cảnh tiêu 1.000 USD mỗi ngày trong một tháng thay vì vài đồng xu lẻng xẻng trong túi một tháng sau, chọn cách thứ nhất. Cậu có chọn khôn không? Cách thứ nhất cho tổng cộng 30.000 USD. Cách thứ hai, nhờ sức mạnh của lãi kép, cho tổng cộng 5.368.709,12 USD.
 
 ### 9. Sụp đổ năm 2003 (trang in 366–367)
 
@@ -799,7 +822,9 @@ Tới năm 2003, sức sinh lời thật của Quant Tech chỉ còn tăng 4% m�
 
 Sau vụ bê bối, công chúng ác cảm rất lớn với các nghề chuyên môn. Nghề kế toán, tất nhiên, bị trách nhiều nhất. Cơ quan đặt chuẩn mực kế toán từ lâu mang tên viết tắt "F.A.S.B." (Financial Accounting Standards Board), và giờ gần như ai cũng nói đó là viết tắt của "Financial Accounts Still Bogus" (báo cáo tài chính vẫn là đồ giả).
 
-Các giáo sư kinh tế học cũng bị chê nhiều vì đã không thổi còi về kế toán sai và không cảnh báo đủ về các tác động vĩ mô xấu sau cùng của kế toán sai lan rộng. Thất vọng với các nhà kinh tế học chính thống lớn tới mức John Kenneth Galbraith của Harvard được trao giải Nobel kinh tế. Xét cho cùng, ông từng dự đoán rằng việc biển thủ quy mô lớn trong doanh nghiệp mà chưa bị phát hiện sẽ có tác dụng kích thích kinh tế "tuyệt vời". Và giờ người ta thấy một điều rất gần với dự đoán của Galbraith đã thật sự xảy ra trong những năm trước 2003, rồi sau đó góp phần tạo ra một cuộc suy thoái lớn mang tính phản ứng. (Ghi chú của người tổng hợp: theo hiểu biết của người tổng hợp, ý này lấy từ khái niệm "the bezzle" trong sách *The Great Crash, 1929* của Galbraith: trong thời gian một vụ biển thủ chưa bị phát hiện, cả người biển thủ lẫn nạn nhân đều thấy mình giàu, nên chi tiêu tăng; khi bị phát hiện, cảm giác giàu biến mất và chi tiêu sụt.)
+Các giáo sư kinh tế học cũng bị chê nhiều vì đã không thổi còi về kế toán sai và không cảnh báo đủ về các tác động vĩ mô xấu sau cùng của kế toán sai lan rộng. Thất vọng với các nhà kinh tế học chính thống lớn tới mức John Kenneth Galbraith của Harvard được trao giải Nobel kinh tế.
+
+Xét cho cùng, ông từng dự đoán rằng việc biển thủ quy mô lớn trong doanh nghiệp mà chưa bị phát hiện sẽ có tác dụng kích thích kinh tế "tuyệt vời". Và giờ người ta thấy một điều rất gần với dự đoán của Galbraith đã thật sự xảy ra trong những năm trước 2003, rồi sau đó góp phần tạo ra một cuộc suy thoái lớn mang tính phản ứng. (Ghi chú của người tổng hợp: theo hiểu biết của người tổng hợp, ý này lấy từ khái niệm "the bezzle" trong sách *The Great Crash, 1929* của Galbraith: trong thời gian một vụ biển thủ chưa bị phát hiện, cả người biển thủ lẫn nạn nhân đều thấy mình giàu, nên chi tiêu tăng; khi bị phát hiện, cảm giác giàu biến mất và chi tiêu sụt.)
 
 **Hộp bên lề của người biên tập (John Kenneth Galbraith, sinh 1908).** Kèm ảnh nhà kinh tế học nổi tiếng và mười một câu nói của ông:
 
@@ -834,7 +859,9 @@ Tới đây, hành động đến từ cõi cao hơn. Chính Thượng đế, Đ
 | 3 | Ban điều hành đã thực hành "kỹ thuật tài chính hiện đại" ở Quant Tech (thám tử trưởng tưởng đã hiểu ý) | "Ngươi đã tới gần, nhưng ta bảo ngươi đưa đến kẻ đồi bại nhất. Những người này tất nhiên sẽ bị phạt nặng vì gian lận lớn và cách quản lý ghê tởm di sản của người kỹ sư vĩ đại. Nhưng ta muốn ngươi đưa đến những kẻ sắp ở vòng thấp nhất của Địa ngục, những kẻ lẽ ra đã có thể dễ dàng ngăn chặn toàn bộ tai hoạ này." |
 | 4 | Từ Luyện ngục, một nhóm người cao tuổi, khi còn sống là thành viên hợp danh nổi tiếng của các hãng kế toán lớn | Sau khi nghe lời buộc tội, Ngài ngừng lại, rồi khẽ nói: "Làm tốt lắm, hỡi đầy tớ tốt lành và trung tín của ta." |
 
-Cuối cùng thám tử trưởng thật sự hiểu. Ông nhớ ra vòng thấp nhất của Địa ngục được dành cho những kẻ phản bội. Vì thế ông đưa từ Luyện ngục đến nhóm cựu thành viên hợp danh của các hãng kế toán lớn và nói: "Đây là những kẻ phản bội của Ngài. Họ đã chấp nhận quy ước kế toán sai cho quyền chọn cổ phiếu của nhân viên. Họ giữ vị trí cao trong một trong những nghề cao quý nhất, một nghề, cũng như nghề của Ngài, giúp xã hội vận hành đúng bằng cách đặt ra những luật đúng. Họ rất thông minh và có vị trí vững chắc, và không thể tha thứ việc họ cố ý gây ra tất cả sự dối trá, gian lận mà ai cũng thấy trước được này. Họ biết rõ việc họ làm là sai lầm tai hại, nhưng họ vẫn làm. Vì công việc trong Hệ thống Tư pháp của Ngài quá bận rộn, lúc đầu Ngài đã nhầm khi phạt họ quá nhẹ. Nhưng giờ Ngài có thể đưa họ xuống vòng thấp nhất của Địa ngục."
+Cuối cùng thám tử trưởng thật sự hiểu. Ông nhớ ra vòng thấp nhất của Địa ngục được dành cho những kẻ phản bội. Vì thế ông đưa từ Luyện ngục đến nhóm cựu thành viên hợp danh của các hãng kế toán lớn và nói: "Đây là những kẻ phản bội của Ngài. Họ đã chấp nhận quy ước kế toán sai cho quyền chọn cổ phiếu của nhân viên. Họ giữ vị trí cao trong một trong những nghề cao quý nhất, một nghề, cũng như nghề của Ngài, giúp xã hội vận hành đúng bằng cách đặt ra những luật đúng.
+
+"Họ rất thông minh và có vị trí vững chắc, và không thể tha thứ việc họ cố ý gây ra tất cả sự dối trá, gian lận mà ai cũng thấy trước được này. Họ biết rõ việc họ làm là sai lầm tai hại, nhưng họ vẫn làm. Vì công việc trong Hệ thống Tư pháp của Ngài quá bận rộn, lúc đầu Ngài đã nhầm khi phạt họ quá nhẹ. Nhưng giờ Ngài có thể đưa họ xuống vòng thấp nhất của Địa ngục."
 
 Giật mình trước sự quyết liệt và táo bạo đó, Đấng Phán xử ngừng lại, rồi khẽ nói: "Làm tốt lắm, hỡi đầy tớ tốt lành và trung tín của ta." (Ghi chú của người tổng hợp: hình ảnh vòng thấp nhất của Địa ngục dành cho kẻ phản bội lấy từ *Thần khúc* của Dante; câu "đầy tớ tốt lành và trung tín" lấy từ dụ ngôn những nén bạc trong Phúc âm Matthew.)
 
@@ -846,7 +873,9 @@ Giật mình trước sự quyết liệt và táo bạo đó, Đấng Phán x�
 
 Người biên tập in ảnh trang bản thảo đầu tiên của "The Great Financial Scandal of 2003", mà Munger viết khi đi nghỉ ở Minnesota năm 2000, kèm một ảnh nhỏ Munger đội mũ lưỡi trai, đeo kính, ngồi ghế mây cầm bút viết.
 
-Bản thảo cho thấy truyện đã thay đổi khi hoàn thiện. Góc trên ghi ngày "8/15/00" (15/8/2000) và "from CTM" (từ Charles T. Munger). Trong bản nháp, công ty mang tên "Old Values Technical Corporation" ("OVTC"), nghĩa là "công ty kỹ thuật của những giá trị cũ". Đoạn mở đầu bản nháp viết rằng phần lớn mọi người nghĩ mầm mống của vụ bê bối được gieo vào lúc ảm đạm nhất năm 1982, khi người kỹ sư lớn, nhà sáng lập kiêm chủ tịch OVTC, qua đời, kéo theo việc CFO lâu năm của OVTC nghỉ hưu. Bản nháp còn nói ông già mất sớm hai mươi năm so với dự định nghỉ hưu ở tuổi 90. Các đoạn sau (thị phần chi phối, lợi nhuận 100 triệu USD trên doanh thu 1 tỷ USD, lương thưởng 70% doanh thu gồm 30% lương và 40% thưởng, quyền chọn "yếu kém, đồi bại và đáng khinh", nhân viên tự mua cổ phiếu) gần như giống bản in, có nhiều chỗ gạch xoá, sửa chữ.
+Bản thảo cho thấy truyện đã thay đổi khi hoàn thiện. Góc trên ghi ngày "8/15/00" (15/8/2000) và "from CTM" (từ Charles T. Munger). Trong bản nháp, công ty mang tên "Old Values Technical Corporation" ("OVTC"), nghĩa là "công ty kỹ thuật của những giá trị cũ".
+
+Đoạn mở đầu bản nháp viết rằng phần lớn mọi người nghĩ mầm mống của vụ bê bối được gieo vào lúc ảm đạm nhất năm 1982, khi người kỹ sư lớn, nhà sáng lập kiêm chủ tịch OVTC, qua đời, kéo theo việc CFO lâu năm của OVTC nghỉ hưu. Bản nháp còn nói ông già mất sớm hai mươi năm so với dự định nghỉ hưu ở tuổi 90. Các đoạn sau (thị phần chi phối, lợi nhuận 100 triệu USD trên doanh thu 1 tỷ USD, lương thưởng 70% doanh thu gồm 30% lương và 40% thưởng, quyền chọn "yếu kém, đồi bại và đáng khinh", nhân viên tự mua cổ phiếu) gần như giống bản in, có nhiều chỗ gạch xoá, sửa chữ.
 
 ### 12. "Talk Eight Revisited" (trang in 372–373) — Lời bình của Munger viết thêm
 
@@ -869,7 +898,11 @@ Theo Munger, câu chuyện kế toán này là thêm một ví dụ đáng buồ
 
 **Câu trích của người biên tập.** Kèm tranh khắc gỗ cổ in chân dung Plato: "Khoái lạc là mồi nhử lớn nhất dẫn tới điều ác." Câu này nối với kết luận của Munger: con người khó thấy cái ác trong thứ đem lại lợi cho mình.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Công ty niêm yết X có lợi nhuận sau thuế 300 tỷ đồng. Thay vì chi 100 tỷ đồng tiền thưởng cho ban lãnh đạo và nhân viên chủ chốt, hội đồng quản trị phát hành 5 triệu cổ phiếu ưu đãi cho người lao động với giá 10.000 đồng mỗi cổ phiếu, trong khi giá thị trường là 30.000 đồng. Phần chênh lệch có lợi là 20.000 đồng nhân 5 triệu cổ phiếu, tức 100 tỷ đồng, đúng bằng khoản thưởng cũ. Nếu công ty ghi khoản này vào chi phí, lợi nhuận không đổi. Nếu không ghi, lợi nhuận báo cáo tăng lên khoảng 400 tỷ đồng (bỏ qua ảnh hưởng thuế), tức tăng một phần ba, trong khi cổ đông cũ thật ra đã bị pha loãng 100 tỷ đồng giá trị. Nhà đầu tư định giá X ở 15 lần lợi nhuận sẽ cộng thêm 1.500 tỷ đồng vào vốn hoá chỉ vì phần **lợi nhuận giả** này. Nếu năm nào ban lãnh đạo cũng làm thêm một đợt cỡ vừa phải (**hệ thống "từng muỗng một"**), lợi nhuận báo cáo sẽ tăng đều hơn lợi nhuận thật, và người ngoài khó thấy. Người đọc báo cáo theo cách Munger sẽ: (1) cộng mọi khoản lương thưởng bằng cổ phiếu vào chi phí, tính theo giá thị trường lúc phát hành; (2) theo dõi số cổ phiếu lưu hành qua các năm; (3) so lợi nhuận báo cáo với thuế thu nhập thực nộp bằng tiền (**kiểm chứng bằng thuế thực nộp**); (4) tự hỏi người lập và người kiểm báo cáo đang "ăn bánh của ai" (**thiên lệch do động cơ khuyến khích**); và (5) nghi ngờ mọi đường lợi nhuận tăng quá đều trong nhiều năm.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Công ty niêm yết X có lợi nhuận sau thuế 300 tỷ đồng. Thay vì chi 100 tỷ đồng tiền thưởng cho ban lãnh đạo và nhân viên chủ chốt, hội đồng quản trị phát hành 5 triệu cổ phiếu ưu đãi cho người lao động với giá 10.000 đồng mỗi cổ phiếu, trong khi giá thị trường là 30.000 đồng. Phần chênh lệch có lợi là 20.000 đồng nhân 5 triệu cổ phiếu, tức 100 tỷ đồng, đúng bằng khoản thưởng cũ.
+
+Nếu công ty ghi khoản này vào chi phí, lợi nhuận không đổi. Nếu không ghi, lợi nhuận báo cáo tăng lên khoảng 400 tỷ đồng (bỏ qua ảnh hưởng thuế), tức tăng một phần ba, trong khi cổ đông cũ thật ra đã bị pha loãng 100 tỷ đồng giá trị. Nhà đầu tư định giá X ở 15 lần lợi nhuận sẽ cộng thêm 1.500 tỷ đồng vào vốn hoá chỉ vì phần **lợi nhuận giả** này. Nếu năm nào ban lãnh đạo cũng làm thêm một đợt cỡ vừa phải (**hệ thống "từng muỗng một"**), lợi nhuận báo cáo sẽ tăng đều hơn lợi nhuận thật, và người ngoài khó thấy.
+
+Người đọc báo cáo theo cách Munger sẽ: (1) cộng mọi khoản lương thưởng bằng cổ phiếu vào chi phí, tính theo giá thị trường lúc phát hành; (2) theo dõi số cổ phiếu lưu hành qua các năm; (3) so lợi nhuận báo cáo với thuế thu nhập thực nộp bằng tiền (**kiểm chứng bằng thuế thực nộp**); (4) tự hỏi người lập và người kiểm báo cáo đang "ăn bánh của ai" (**thiên lệch do động cơ khuyến khích**); và (5) nghi ngờ mọi đường lợi nhuận tăng quá đều trong nhiều năm.
 
 ## Luận điểm cốt lõi
 
@@ -1011,27 +1044,236 @@ Cách hạch toán không ghi quyền chọn cổ phiếu của nhân viên vào
 
 ### Câu chuyện viết năm 2000 đã đoán đúng hướng đi của các vụ bê bối thật, dù cơ chế cụ thể của chúng khác
 
-Chỉ hơn một năm sau khi Munger viết, Enron sụp đổ (cuối 2001), rồi WorldCom (2002), và hãng kiểm toán Arthur Andersen, hãng mà người biên tập in điếu văn cho người sáng lập, tan rã vì vụ Enron. Theo hiểu biết của người tổng hợp, các thủ đoạn chính ở đó không phải là quyền chọn: Enron giấu nợ và thổi phồng lợi nhuận qua các pháp nhân đặc biệt ngoài bảng cân đối và cách ghi nhận theo giá thị trường tự định; WorldCom ghi hàng tỷ USD chi phí thuê đường truyền thành tài sản đầu tư để giảm chi phí. Nhưng điểm chung với Quant Tech rất rõ: ban lãnh đạo có quyền chọn khổng lồ nên có động cơ cực lớn đẩy lợi nhuận báo cáo và giá cổ phiếu lên; kiểm toán viên chiều khách hàng; nhà phân tích tung hô tới phút cuối; lợi nhuận tăng đều một cách đáng ngờ. Bong bóng công nghệ 2000–2002 còn giống Quant Tech hơn: nhiều công ty công nghệ được định giá hàng chục, hàng trăm lần lợi nhuận, trả lương phần lớn bằng quyền chọn không ghi chi phí, rồi mất 80–90% giá trị khi tăng trưởng chậm lại. Phản ứng xã hội cũng đúng như truyện: Đạo luật Sarbanes-Oxley (2002) siết kiểm toán và trách nhiệm ban lãnh đạo, và uy tín của giới kế toán, phân tích sụt mạnh. Truyện không đoán đúng chi tiết, nhưng đoán đúng cơ chế động cơ.
+Chỉ hơn một năm sau khi Munger viết, Enron sụp đổ (cuối 2001), rồi WorldCom (2002), và hãng kiểm toán Arthur Andersen, hãng mà người biên tập in điếu văn cho người sáng lập, tan rã vì vụ Enron. Theo hiểu biết của người tổng hợp, các thủ đoạn chính ở đó không phải là quyền chọn: Enron giấu nợ và thổi phồng lợi nhuận qua các pháp nhân đặc biệt ngoài bảng cân đối và cách ghi nhận theo giá thị trường tự định; WorldCom ghi hàng tỷ USD chi phí thuê đường truyền thành tài sản đầu tư để giảm chi phí.
+
+Nhưng điểm chung với Quant Tech rất rõ: ban lãnh đạo có quyền chọn khổng lồ nên có động cơ cực lớn đẩy lợi nhuận báo cáo và giá cổ phiếu lên; kiểm toán viên chiều khách hàng; nhà phân tích tung hô tới phút cuối; lợi nhuận tăng đều một cách đáng ngờ.
+
+Bong bóng công nghệ 2000–2002 còn giống Quant Tech hơn: nhiều công ty công nghệ được định giá hàng chục, hàng trăm lần lợi nhuận, trả lương phần lớn bằng quyền chọn không ghi chi phí, rồi mất 80–90% giá trị khi tăng trưởng chậm lại. Phản ứng xã hội cũng đúng như truyện: Đạo luật Sarbanes-Oxley (2002) siết kiểm toán và trách nhiệm ban lãnh đạo, và uy tín của giới kế toán, phân tích sụt mạnh. Truyện không đoán đúng chi tiết, nhưng đoán đúng cơ chế động cơ.
 
 ### Sức mạnh lớn nhất của bài là chỉ ra rằng một việc hoàn toàn hợp pháp có thể gây hậu quả y như gian lận
 
-Phần lớn các bài phê phán gian lận nhắm vào người vi phạm luật. Munger làm khó hơn: ông cho thấy ban điều hành Quant Tech không vi phạm quy tắc nào ở bước đầu, mà chỉ khai thác một quy tắc sai, và chính vì quy tắc đó hợp pháp nên gian lận lan rộng, dễ được biện hộ và khó bị chặn. Phép tính 100 lên 500 triệu USD rất đơn giản nên ai cũng kiểm tra được, và nó làm lộ bản chất: dòng tiền không đổi, chỉ con số thay đổi. Phép so sánh với việc bớt thép trong bê tông còn sắc hơn: kế toán sai độc hại hơn chính vì nó dễ biện hộ hơn. Bài cũng là một ví dụ mẫu về cách Munger phân tích trách nhiệm bằng động cơ khuyến khích: ông tha cho người yếu thế làm theo động cơ trong vô thức, và nghiêm khắc nhất với người có vị thế vững mà vẫn bán mình.
+Phần lớn các bài phê phán gian lận nhắm vào người vi phạm luật. Munger làm khó hơn: ông cho thấy ban điều hành Quant Tech không vi phạm quy tắc nào ở bước đầu, mà chỉ khai thác một quy tắc sai, và chính vì quy tắc đó hợp pháp nên gian lận lan rộng, dễ được biện hộ và khó bị chặn. Phép tính 100 lên 500 triệu USD rất đơn giản nên ai cũng kiểm tra được, và nó làm lộ bản chất: dòng tiền không đổi, chỉ con số thay đổi.
+
+Phép so sánh với việc bớt thép trong bê tông còn sắc hơn: kế toán sai độc hại hơn chính vì nó dễ biện hộ hơn. Bài cũng là một ví dụ mẫu về cách Munger phân tích trách nhiệm bằng động cơ khuyến khích: ông tha cho người yếu thế làm theo động cơ trong vô thức, và nghiêm khắc nhất với người có vị thế vững mà vẫn bán mình.
 
 ### Truyện đơn giản hoá thị trường và cố ý dồn trách nhiệm về một phía
 
-Trong truyện, chỉ "vài kẻ lập dị" chê Quant Tech; thực tế, kể cả trước 2000, thông tin về quyền chọn đã được công bố trong thuyết minh (sau FAS 123 năm 1995), và các khoản chi mua lại cổ phiếu hiện rõ trên báo cáo lưu chuyển tiền tệ. Một nhà phân tích chịu khó đọc thuyết minh có thể tính ra phần lợi nhuận giả; vấn đề là ít người chịu khó, và thị trường lúc đó không quan tâm. Truyện cũng giả định tăng trưởng thật biết trước và lợi nhuận thật đo được chính xác, trong khi ở ngoài đời khó tách bạch hơn nhiều. Phiên xét xử dồn tội nặng nhất cho giới kế toán; có thể phản biện rằng chính các giám đốc doanh nghiệp và Quốc hội (đã gây áp lực khiến FASB rút đề xuất, như hộp bên lề kể) mới là lực đẩy chính. Munger biết điều này, nhưng ông chọn đặt tiêu chuẩn cao nhất cho người có khả năng và trách nhiệm đặt luật. Đây là lựa chọn đạo đức có chủ ý, không phải phân tích nhân quả trung lập.
+Trong truyện, chỉ "vài kẻ lập dị" chê Quant Tech; thực tế, kể cả trước 2000, thông tin về quyền chọn đã được công bố trong thuyết minh (sau FAS 123 năm 1995), và các khoản chi mua lại cổ phiếu hiện rõ trên báo cáo lưu chuyển tiền tệ. Một nhà phân tích chịu khó đọc thuyết minh có thể tính ra phần lợi nhuận giả; vấn đề là ít người chịu khó, và thị trường lúc đó không quan tâm.
+
+Truyện cũng giả định tăng trưởng thật biết trước và lợi nhuận thật đo được chính xác, trong khi ở ngoài đời khó tách bạch hơn nhiều. Phiên xét xử dồn tội nặng nhất cho giới kế toán; có thể phản biện rằng chính các giám đốc doanh nghiệp và Quốc hội (đã gây áp lực khiến FASB rút đề xuất, như hộp bên lề kể) mới là lực đẩy chính. Munger biết điều này, nhưng ông chọn đặt tiêu chuẩn cao nhất cho người có khả năng và trách nhiệm đặt luật. Đây là lựa chọn đạo đức có chủ ý, không phải phân tích nhân quả trung lập.
 
 ### Từ năm 2004, chuẩn mực đã đổi, nhưng tranh luận chuyển sang chỗ khác
 
-Theo hiểu biết của người tổng hợp, FASB ban hành FAS 123R tháng 12/2004 (nay là ASC 718), bắt buộc ghi chi phí quyền chọn theo giá trị hợp lý tại ngày cấp từ khoảng năm 2005–2006; chuẩn mực quốc tế IFRS 2 (2004) cũng yêu cầu tương tự. Trước đó, sau vụ Enron, một số công ty lớn như Coca-Cola và Washington Post (đều liên quan tới Berkshire) đã tự nguyện ghi chi phí. Phần lời bình năm 2005 của Munger phản ánh đúng giới hạn của chuẩn mực mới: chi phí đo một lần ở ngày cấp, bằng mô hình định giá với giả định do công ty chọn, không điều chỉnh lại khi cổ phiếu tăng vọt, nên với các công ty tăng trưởng mạnh, chi phí ghi nhận thấp hơn nhiều so với giá trị nhân viên thật sự nhận. Hai mươi năm sau, tranh luận đã chuyển sang chỗ "lợi nhuận điều chỉnh" (non-GAAP, adjusted EBITDA): nhiều công ty công nghệ tự loại chi phí lương thưởng bằng cổ phiếu ra khỏi con số họ nhấn mạnh với nhà đầu tư, đồng thời chi rất nhiều tiền mua lại cổ phiếu để bù pha loãng. Đó gần như đúng bước đầu tiên của ban điều hành Quant Tech, chỉ khác là bây giờ diễn ra ở phần "số liệu bổ sung" thay vì trong báo cáo chính.
+Theo hiểu biết của người tổng hợp, FASB ban hành FAS 123R tháng 12/2004 (nay là ASC 718), bắt buộc ghi chi phí quyền chọn theo giá trị hợp lý tại ngày cấp từ khoảng năm 2005–2006; chuẩn mực quốc tế IFRS 2 (2004) cũng yêu cầu tương tự. Trước đó, sau vụ Enron, một số công ty lớn như Coca-Cola và Washington Post (đều liên quan tới Berkshire) đã tự nguyện ghi chi phí.
+
+Phần lời bình năm 2005 của Munger phản ánh đúng giới hạn của chuẩn mực mới: chi phí đo một lần ở ngày cấp, bằng mô hình định giá với giả định do công ty chọn, không điều chỉnh lại khi cổ phiếu tăng vọt, nên với các công ty tăng trưởng mạnh, chi phí ghi nhận thấp hơn nhiều so với giá trị nhân viên thật sự nhận.
+
+Hai mươi năm sau, tranh luận đã chuyển sang chỗ "lợi nhuận điều chỉnh" (non-GAAP, adjusted EBITDA): nhiều công ty công nghệ tự loại chi phí lương thưởng bằng cổ phiếu ra khỏi con số họ nhấn mạnh với nhà đầu tư, đồng thời chi rất nhiều tiền mua lại cổ phiếu để bù pha loãng. Đó gần như đúng bước đầu tiên của ban điều hành Quant Tech, chỉ khác là bây giờ diễn ra ở phần "số liệu bổ sung" thay vì trong báo cáo chính.
 
 ### Quan điểm trái chiều: quyền chọn có lợi ích thật, và việc định giá chúng không hề dễ
 
-Những người phản đối việc ghi chi phí quyền chọn (đặc biệt giới công nghệ ở Thung lũng Silicon trong các thập niên 1990) lập luận rằng quyền chọn giúp công ty khởi nghiệp thiếu tiền mặt thu hút nhân tài, gắn lợi ích nhân viên với cổ đông, và việc ghi chi phí sẽ làm báo cáo của công ty trẻ trông xấu, cản trở đổi mới. Họ cũng nói quyền chọn không làm công ty mất tiền mặt, và giá trị của quyền chọn lúc cấp rất khó đo. Munger trả lời gián tiếp trong truyện: nếu không tốn gì, sao cơ quan thuế lại cho trừ như chi phí; và việc khó đo không phải lý do để ghi bằng không. Một phản biện khác hợp lý hơn: thị trường không ngây thơ như trong truyện, và nhiều nghiên cứu cho thấy nhà đầu tư có điều chỉnh phần nào theo thông tin trong thuyết minh. Dù vậy, việc giới doanh nghiệp vận động quyết liệt để không phải ghi chi phí cho thấy họ tin rằng con số trên báo cáo chính có ảnh hưởng tới giá cổ phiếu, đúng như giả định của Munger. Người sáng lập Quant Tech cũng cho thấy một lựa chọn thứ ba: thưởng tiền mặt lớn gắn chặt với thành tích cá nhân, còn ai muốn làm chủ thì tự bỏ tiền mua cổ phiếu.
+Những người phản đối việc ghi chi phí quyền chọn (đặc biệt giới công nghệ ở Thung lũng Silicon trong các thập niên 1990) lập luận rằng quyền chọn giúp công ty khởi nghiệp thiếu tiền mặt thu hút nhân tài, gắn lợi ích nhân viên với cổ đông, và việc ghi chi phí sẽ làm báo cáo của công ty trẻ trông xấu, cản trở đổi mới. Họ cũng nói quyền chọn không làm công ty mất tiền mặt, và giá trị của quyền chọn lúc cấp rất khó đo.
+
+Munger trả lời gián tiếp trong truyện: nếu không tốn gì, sao cơ quan thuế lại cho trừ như chi phí; và việc khó đo không phải lý do để ghi bằng không. Một phản biện khác hợp lý hơn: thị trường không ngây thơ như trong truyện, và nhiều nghiên cứu cho thấy nhà đầu tư có điều chỉnh phần nào theo thông tin trong thuyết minh.
+
+Dù vậy, việc giới doanh nghiệp vận động quyết liệt để không phải ghi chi phí cho thấy họ tin rằng con số trên báo cáo chính có ảnh hưởng tới giá cổ phiếu, đúng như giả định của Munger. Người sáng lập Quant Tech cũng cho thấy một lựa chọn thứ ba: thưởng tiền mặt lớn gắn chặt với thành tích cá nhân, còn ai muốn làm chủ thì tự bỏ tiền mua cổ phiếu.
 
 ### Vận dụng: đọc lợi nhuận như người kiểm tra không ăn bánh của ai
 
 - **Trong đầu tư.** Coi mọi khoản lương thưởng bằng cổ phiếu là chi phí thật, dù công ty có loại nó ra khỏi "lợi nhuận điều chỉnh"; theo dõi số cổ phiếu lưu hành và số tiền chi mua lại cổ phiếu qua nhiều năm; so lợi nhuận báo cáo với dòng tiền hoạt động và thuế thu nhập thực nộp; nghi ngờ lợi nhuận tăng quá đều trong thời gian dài; nhớ rằng bội số định giá rất cao giả định tăng trưởng cao kéo dài, và khi tăng trưởng chậm lại, giá có thể giảm rất mạnh.
 - **Trong doanh nghiệp và nghề nghiệp.** Khi thiết kế chế độ thưởng, hãy học người sáng lập Quant Tech: gắn thưởng với thành tích đo được của người hay nhóm nhỏ, và hạch toán trung thực mọi khoản trả cho người lao động; trong vai kiểm toán viên, kế toán trưởng, luật sư hay chuyên viên phân tích, hãy tự hỏi mình đang "hát bài của người cho bánh" tới mức nào, và nhớ rằng đã chấp thuận một điều sai năm ngoái không phải lý do để chấp thuận nó năm nay; khi hội đồng quản trị đòi "nâng giá cổ phiếu sớm", hãy coi đó là tín hiệu nguy hiểm.
 - **Trong ra quyết định cá nhân.** Dùng câu hỏi của Upton Sinclair cho chính mình: có điều gì mình không chịu hiểu vì thu nhập của mình phụ thuộc vào việc không hiểu không; đề phòng hệ thống "từng muỗng một" trong thói quen cá nhân, những lần nhân nhượng nhỏ cộng dồn thành sai lầm lớn; và tôn trọng sức mạnh của cấp số nhân theo cả hai chiều, trong tiết kiệm lẫn trong những lời hứa tăng trưởng không tưởng.
-- **Ở Việt Nam.** Việc phát hành cổ phiếu ưu đãi cho người lao động (ESOP) với giá thấp hơn nhiều so với giá thị trường, thường ở mệnh giá, khá phổ biến ở các công ty niêm yết. Theo hiểu biết của người tổng hợp, chuẩn mực kế toán Việt Nam (VAS) chưa có chuẩn mực riêng tương đương IFRS 2 về thanh toán bằng cổ phiếu, nên phần chênh lệch có lợi cho người nhận thường không đi qua chi phí; lộ trình áp dụng IFRS có thể thay đổi điều này. Nhà đầu tư nên tự tính giá trị các đợt ESOP như một khoản chi phí lương thưởng và một mức pha loãng, đặc biệt khi các đợt phát hành lặp lại mỗi năm. Bài học về áp lực "làm đẹp" con số khi niêm yết, về trách nhiệm của kiểm toán độc lập và về phép thử bằng thuế thực nộp và dòng tiền cũng áp dụng trực tiếp cho thị trường Việt Nam.
+- **Ở Việt Nam.** Việc phát hành cổ phiếu ưu đãi cho người lao động (ESOP) với giá thấp hơn nhiều so với giá thị trường, thường ở mệnh giá, khá phổ biến ở các công ty niêm yết. Theo hiểu biết của người tổng hợp, chuẩn mực kế toán Việt Nam (VAS) chưa có chuẩn mực riêng tương đương IFRS 2 về thanh toán bằng cổ phiếu, nên phần chênh lệch có lợi cho người nhận thường không đi qua chi phí; lộ trình áp dụng IFRS có thể thay đổi điều này.
+
+  Nhà đầu tư nên tự tính giá trị các đợt ESOP như một khoản chi phí lương thưởng và một mức pha loãng, đặc biệt khi các đợt phát hành lặp lại mỗi năm. Bài học về áp lực "làm đẹp" con số khi niêm yết, về trách nhiệm của kiểm toán độc lập và về phép thử bằng thuế thực nộp và dòng tiền cũng áp dụng trực tiếp cho thị trường Việt Nam.
+
+## Bản đồ tư duy
+
+Toàn cảnh Bài 8 trên một trang: năm nhánh lớn đi theo các mục 1–12 của phần Nội dung chi tiết (Quant Tech năm 1982 dưới thời người sáng lập; quy ước kế toán không tính quyền chọn vào chi phí và mưu kế đổi thưởng tiền mặt thành lãi quyền chọn; hệ thống "từng muỗng một" cùng hai sửa đổi đưa lợi nhuận báo cáo lên 16 tỷ USD; sụp đổ năm 2003; phiên xét xử của Thượng đế và lời bình "Talk Eight Revisited"), mỗi nhánh ghi số liệu, cơ chế và câu nói then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Bài 8 (Chương 4): không tính quyền chọn cổ phiếu vào chi phí, dù hợp pháp, tương đương lừa đảo thổi phồng, và giới kế toán có lỗi nặng nhất`"]
+  n1["`Mục 1–3 — Quant Tech năm 1982: công ty mẫu mực dưới thời người sáng lập`"]
+  n0 --- n1
+  n2["`Truyện ngụ ngôn Munger viết tay mùa hè 2000, kể như sử gia nhìn lại vụ bê bối năm 2003`"]
+  n1 --- n2
+  n3["`Quant Tech thời đầu phỏng lỏng lẻo theo C. F. Braun Engineering của Carl F. Braun`"]
+  n1 --- n3
+  n4["`Cái xấu không bắt đầu khi người sáng lập mất năm 1982, mà có sẵn trong văn hoá tài chính cả nước`"]
+  n1 --- n4
+  n5["`Năm 1982: doanh thu 1 tỷ USD, lợi nhuận 100 triệu USD, tiền mặt 500 triệu USD, không nợ, không cổ tức`"]
+  n1 --- n5
+  n6["`Lương thưởng 70% doanh thu: 30% lương cơ bản, 40% thưởng khuyến khích, toàn bộ trả bằng tiền mặt`"]
+  n1 --- n6
+  n7["`Người sáng lập không dùng quyền chọn: không muốn kế toán tồi, cũng như không muốn kỹ thuật tồi`"]
+  n1 --- n7
+  n8["`Thưởng gắn với tiêu chuẩn thành tích của từng người hay nhóm nhỏ, nhân viên tự mua cổ phiếu trên thị trường`"]
+  n1 --- n8
+  n9["`Bao rỗng thì khó đứng thẳng (Ben Franklin): luôn giữ nhiều tiền để vượt nghịch cảnh, chớp cơ hội`"]
+  n1 --- n9
+  n10["`Triển vọng định sẵn: doanh thu tăng 20%/năm tới 2002, từ 2003 chỉ còn 4%/năm, biên lợi nhuận giữ 10%`"]
+  n1 --- n10
+  n11["`Giá chỉ 15 lần lợi nhuận, vốn hoá 1,5 tỷ USD, vì lãi suất cao và cổ phiếu nhiều năm sinh lời kém`"]
+  n1 --- n11
+  n12["`Mục 4–6 — Ban điều hành mới khai thác quy ước kế toán kỳ quặc`"]
+  n0 --- n12
+  n13["`Hội đồng khôn ngoan lẽ ra đã mua lại cổ phiếu thật mạnh tay, dùng hết tiền mặt và vay thêm`"]
+  n12 --- n13
+  n14["`Hội đồng thuê CEO và CFO từ một công ty dùng quyền chọn, giao việc nâng vốn hoá càng sớm càng tốt`"]
+  n12 --- n14
+  n15["`Không nâng được tăng trưởng hay biên lợi nhuận, họ chọn kỹ thuật tài chính hiện đại để đẩy lợi nhuận báo cáo`"]
+  n12 --- n15
+  n16["`Quy ước Mỹ: phần chênh lệch khi thực hiện quyền chọn, gần như tiền mặt, không tính là chi phí lương thưởng`"]
+  n12 --- n16
+  n17["`Cơ quan thuế giữ lẽ thường: khoản chênh lệch đó là chi phí lương thưởng, được trừ khi tính thuế`"]
+  n16 --- n17
+  n18["`Giới kế toán giàu, vững vị trí vẫn làm theo câu ăn bánh của ai thì hát bài của người đó`"]
+  n16 --- n18
+  n19["`Upton Sinclair: khó làm một người hiểu điều mà lương của anh ta phụ thuộc vào việc không hiểu`"]
+  n16 --- n19
+  n20["`Đổi 400 triệu USD thưởng thành lãi quyền chọn rồi mua lại cổ phiếu: lợi nhuận báo cáo từ 100 lên 500 triệu USD`"]
+  n12 --- n20
+  n21["`Tiền thật bỏ ra và số cổ phiếu không đổi, chỉ khoản chi mua lại không đi qua báo cáo kết quả kinh doanh`"]
+  n20 --- n21
+  n22["`Phần tăng thêm là lợi nhuận giả, tác dụng kinh tế không hơn đếm thừa hàng tồn kho cuối kỳ`"]
+  n20 --- n22
+  n23["`CEO gọi cách làm vừa phải là sự dối trá được kiềm chế một cách khôn ngoan`"]
+  n20 --- n23
+  n24["`Mục 7–8 — Hệ thống từng muỗng một: lợi nhuận báo cáo tăng 28%/năm thay vì 20% thật`"]
+  n0 --- n24
+  n25["`Mỗi năm chỉ chuyển một phần vừa phải tiền thưởng sang quyền chọn, kéo dài hai mươi năm`"]
+  n24 --- n25
+  n26["`Bốn lợi thế: muỗng nhỏ khó thấy, phần cộng dồn bị che, kiểm toán viên ngại từ chối, luôn có lời biện hộ`"]
+  n24 --- n26
+  n27["`CFO: mỗi năm trộn một phần thiểu số phân vào nho khô thì không ai nhận ra đống phân lớn cuối cùng`"]
+  n26 --- n27
+  n28["`Kiểm toán viên đã ký báo cáo năm trước sẽ xấu hổ nếu từ chối báo cáo mới có cùng tỷ lệ lợi nhuận giả`"]
+  n26 --- n28
+  n29["`Ba điều kiện: 20 năm không đứt quãng, tăng đều một tỷ lệ, không bao giờ báo lãi vượt 40% doanh thu`"]
+  n24 --- n29
+  n30["`Núi tiền mặt và chính sách không trả cổ tức tạo phản xạ liên tưởng kiểu Pavlov: nhiều tiền thì lãi chắc thật`"]
+  n24 --- n30
+  n31["`Sửa đổi 1: khi cổ phiếu đắt, phát hành thêm mà không mua lại, đưa hiệu ứng Ponzi, thư dây chuyền vào`"]
+  n24 --- n31
+  n32["`Ponzi, Boston 1919: hứa lãi 50% trong 90 ngày, người tham gia trung bình chỉ lấy lại 37%`"]
+  n31 --- n32
+  n33["`Sửa đổi 2: chính phủ nước ngoài tăng phí thiết kế, Quant Tech nộp lại thuế nhiều hơn để tỷ lệ thuế trông bình thường`"]
+  n24 --- n33
+  n34["`Tin nhưng phải kiểm chứng: so lợi nhuận báo cáo với thuế thu nhập thực nộp bằng tiền trong báo cáo 10-K`"]
+  n33 --- n34
+  n35["`Năm 2002: lãi báo cáo 16 tỷ USD trên doanh thu 47 tỷ USD, tiền mặt 85 tỷ USD`"]
+  n24 --- n35
+  n36["`Đầu năm 2003 vốn hoá đỉnh 1.400 tỷ USD, khoảng 90 lần lợi nhuận báo cáo`"]
+  n35 --- n36
+  n37["`Mục 9 — Sụp đổ năm 2003: cấp số nhân và gian lận đều kết thúc trong tai hoạ`"]
+  n0 --- n37
+  n38["`Mọi cấp số nhân con người mong muốn, nếu chọn tốc độ tăng cao, cuối cùng gặp tai hoạ trên trái đất hữu hạn`"]
+  n37 --- n38
+  n39["`1 xu gấp đôi mỗi ngày trong 30 ngày thành 5.368.709,12 USD, so với 30.000 USD nếu nhận 1.000 USD mỗi ngày`"]
+  n38 --- n39
+  n40["`Hệ thống xã hội về lâu dài đủ công bằng để gần như mọi vụ gian lận lớn kết thúc trong ô nhục`"]
+  n37 --- n40
+  n41["`Tăng trưởng thật về 4%/năm, cổ phiếu đột ngột giảm 50%, người ta soi kỹ báo cáo và thấy lợi nhuận giả`"]
+  n37 --- n41
+  n42["`Giữa năm 2003 vốn hoá còn 140 tỷ USD, giảm 90% trong sáu tháng, 1.300 tỷ USD biến mất`"]
+  n37 --- n42
+  n43["`Căm ghét lan sang công ty khác và thành suy thoái nặng như Nhật Bản thập niên 1990`"]
+  n37 --- n43
+  n44["`FASB bị gọi đùa là Financial Accounts Still Bogus: báo cáo tài chính vẫn là đồ giả`"]
+  n37 --- n44
+  n45["`Galbraith được Nobel vì từng nói biển thủ chưa bị phát hiện kích thích kinh tế tuyệt vời`"]
+  n37 --- n45
+  n46["`Mục 10–12 — Phiên xét xử của Thượng đế và lời bình: giới kế toán là kẻ phản bội`"]
+  n0 --- n46
+  n47["`Kỹ sư vẫn làm tốt cũng bị vạ lây, nhiều điều tốt của đất nước bị căm ghét thiếu khôn ngoan`"]
+  n46 --- n47
+  n48["`Nhà phân tích tung hô được tha phạt nặng nhất: lỗi nhận thức cấp thấp do hệ thống khuyến khích gây ra trong vô thức`"]
+  n46 --- n48
+  n49["`Uỷ viên SEC và chính trị gia: sống giữa vòng xoáy các lực đáng tiếc, không thể đòi chuẩn mực đó`"]
+  n46 --- n49
+  n50["`Ban điều hành bị phạt nặng vì gian lận lớn, nhưng chưa phải kẻ tệ nhất`"]
+  n46 --- n50
+  n51["`Cựu thành viên hợp danh các hãng kế toán lớn xuống vòng thấp nhất Địa ngục, dành cho kẻ phản bội`"]
+  n46 --- n51
+  n52["`Họ giỏi, vững vị trí, thuộc nghề đặt luật đúng, biết quy ước sai mà vẫn chấp nhận, lẽ ra dễ ngăn chặn nhất`"]
+  n51 --- n52
+  n53["`Lời bình: kế toán sai cùng hướng đạo đức với bớt thép khỏi bê tông nhà cao tầng, nhưng độc hại hơn`"]
+  n46 --- n53
+  n54["`Độc hại hơn vì dễ tự biện hộ nên dễ lan rộng: kế toán sai cho quyền chọn đã thành phổ biến`"]
+  n53 --- n54
+  n55["`Chuẩn mực mới buộc tính một phần chi phí quyền chọn, nhưng phần ghi vẫn thấp hơn nhiều chi phí thật`"]
+  n46 --- n55
+  n56["`Bản nháp ngày 15/8/2000 đặt tên công ty là Old Values Technical Corporation`"]
+  n46 --- n56
+  n57["`Thông điệp xuyên suốt`"]
+  n0 --- n57
+  n58["`Cách cư xử đúng là đừng bao giờ để kế toán sai bắt đầu, vì đã bắt đầu thì rất khó dẹp`"]
+  n57 --- n58
+  n59["`Cái ác được tưởng thưởng chết rất chậm, vì người ta cho rằng thứ mình hưởng lợi không thể là ác`"]
+  n57 --- n59
+  n60["`Trách nhiệm tỷ lệ với hiểu biết, sự độc lập và khả năng ngăn chặn, không chỉ với việc ai hưởng lợi`"]
+  n57 --- n60
+  n61["`Thiên lệch do động cơ, nhất quán, bằng chứng xã hội, liên tưởng Pavlov cùng một hướng: hiệu ứng Lollapalooza`"]
+  n57 --- n61
+  n62["`Nhà đầu tư: tự cộng lương thưởng bằng cổ phiếu vào chi phí, theo dõi số cổ phiếu, nghi lợi nhuận tăng quá đều`"]
+  n57 --- n62
+  class n0 root
+  class n1,n12,n24,n37,n46,n57 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n25,n26,n27,n28,n29,n30,n31,n32,n33,n34,n35,n36,n38,n39,n40,n41,n42,n43,n44,n45,n47,n48,n49,n50,n51,n52,n53,n54,n55,n56,n58,n59,n60,n61,n62 leaf
+```
+
+## Nguồn
+
+*Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger*, biên tập Peter D. Kaufman, The Donning Company Publishers, ấn bản mở rộng thứ ba (bản PDF là lần in thứ sáu, 2011), Chương 4 "Eleven Talks", Bài 8 "The Great Financial Scandal of 2003", trang in 356–373. Gồm: lời dẫn của người biên tập (trang in 356), bài viết "The Great Financial Scandal of 2003 — An Account by Charles T. Munger, Summer 2000" (trang in 357–370), ảnh trang bản thảo viết tay (trang in 371), lời bình viết thêm "Talk Eight Revisited" (trang in 372–373), cùng các hộp bên lề và chú thích ảnh của người biên tập.
+
+Đây không phải bài nói trước một cử toạ cụ thể: theo lời dẫn, Munger viết tay câu chuyện này khi đi nghỉ hè ở bang Minnesota năm 2000; bản thảo ghi ngày 15/8/2000.
+
+## Tác giả
+
+Charles T. Munger (1924–2023), phó chủ tịch Berkshire Hathaway, luật sư được đào tạo ở Harvard, người viết câu chuyện ngụ ngôn và lời bình; lời dẫn, các hộp bên lề và chú thích ảnh là của Peter D. Kaufman và nhóm biên tập.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 4 tập hợp mười một bài nói và bài viết của Munger. Bài 6 (1998, về cách đầu tư của các quỹ từ thiện) và Bài 7 (2000, Philanthropy Roundtable) đã cho thấy Munger sẵn sàng chê thẳng những thông lệ được cả giới tài chính chấp nhận.
+
+Bài 8 đi xa hơn: thay vì phân tích, ông kể một truyện ngụ ngôn hư cấu để cho thấy một quy ước kế toán hợp pháp (không tính quyền chọn cổ phiếu cấp cho nhân viên vào chi phí) có thể dẫn tới đúng kết quả của một vụ lừa đảo.
+
+Bài này nối với Bài 9 "Academic Economics" (2003), nơi Munger tiếp tục chê giới kinh tế học hàn lâm, những người trong truyện bị công chúng trách vì đã không cảnh báo về kế toán sai. Nó cũng là một ứng dụng cụ thể của các khuynh hướng tâm lý được hệ thống hoá ở Bài 11 "The Psychology of Human Misjudgment": thiên lệch do động cơ khuyến khích (*incentive-caused bias*), phản xạ liên tưởng kiểu Pavlov, và việc người ta tin rằng thứ mình hưởng lợi thì không thể là sai.
+
+## Lưu ý
+
+- **Thời điểm.** Câu chuyện viết mùa hè năm 2000, đúng lúc bong bóng cổ phiếu công nghệ ở Mỹ vừa đạt đỉnh (chỉ số Nasdaq đạt đỉnh tháng 3/2000), trước các vụ Enron (cuối 2001), WorldCom (2002) và sự sụp đổ của hãng kiểm toán Arthur Andersen (2002). Lời dẫn của người biên tập và phần "Talk Eight Revisited" được viết cho ấn bản 2005, sau khi Ban Chuẩn mực Kế toán Tài chính Mỹ (FASB) ban hành chuẩn mực FAS 123R (tháng 12/2004) buộc ghi nhận chi phí quyền chọn; câu "giới kế toán nay buộc tính một phần chi phí quyền chọn" của Munger phản ánh thay đổi đó (theo hiểu biết của người tổng hợp).
+- **Lỗi OCR đã sửa khi đọc:** "ecrie" là *eerie* (kỳ lạ đến rợn người); "Aet One" là *Act One*; "classie" là *classic*; "superelean" là *superclean*; "earings", "carnings" là *earnings*; "wenty" là *twenty*; "optien" là *option*; "falschood" là *falsehood*; "byadding" là *by adding*; "Amigone" là *Antigone*; "Talk Bight", "Talk Eighe" là *Talk Eight*; "Carl E. Braun" là Carl F. Braun (theo ảnh trang); "36" ở cuối trang in 361 là số trang 361. Chữ trên ảnh tờ cổ phiếu (trang in 362), ảnh mẫu tờ khai thuế (trang in 365) và ảnh bản thảo viết tay (trang in 371) bị OCR đọc thành chuỗi vô nghĩa; bản tổng hợp mô tả lại theo ảnh trang.
+- **Chỗ sách viết chưa chính xác hoặc đã lỗi thời (theo hiểu biết của người tổng hợp):**
+  - Lời dẫn viết "vua Henry VI của Shakespeare nói 'Việc đầu tiên ta làm là giết hết bọn luật sư'"; thực ra câu này do nhân vật Dick the Butcher (gã đồ tể Dick) nói trong vở *Henry VI, Phần 2*, không phải nhà vua.
+  - Hộp bên lề về FASB ghi năm 1991 FASB đề xuất tính chi phí quyền chọn; theo hiểu biết của người tổng hợp, bản dự thảo chính thức được đưa ra năm 1993 và năm 1995 FASB ban hành FAS 123, chỉ "khuyến khích" ghi chi phí và cho phép chỉ công bố ở thuyết minh.
+  - Hộp tiểu sử Galbraith ghi "(b. 1908)"; John Kenneth Galbraith mất năm 2006, sau khi ấn bản này ra đời.
+  - Hộp về Ponzi ghi lời hứa "lãi 50% trong chín mươi ngày"; các tài liệu phổ biến thường ghi 50% trong 45 ngày (hoặc gấp đôi trong 90 ngày).
+  - Câu của Upton Sinclair được in cạnh bìa tiểu thuyết *The Jungle* (1906), nhưng câu này xuất phát từ một cuốn sách khác của ông viết năm 1935 về chiến dịch tranh cử thống đốc California.
+  - Trong truyện, Munger nói lợi ích từ thực hiện quyền chọn được trừ khi tính thuế; điều này đúng với loại quyền chọn thông thường (*non-qualified stock options*), còn loại quyền chọn ưu đãi thuế (*incentive stock options*) thường không cho công ty khoản khấu trừ đó.
+- **Con số trong truyện.** Truyện nói chi phí của Quant Tech năm 1982 "gần như toàn bộ" là lương thưởng (70% doanh thu) và lợi nhuận là 10% doanh thu, nhưng không nói 20% doanh thu còn lại là gì; người tổng hợp đoán đó là thuế thu nhập và các chi phí khác. Các phép tính kiểm tra (doanh thu 2002 theo tốc độ 20% mỗi năm, lợi nhuận theo tốc độ 28% mỗi năm) do người tổng hợp làm và được ghi rõ.
+- **Hộp bên lề và chú thích ảnh của người biên tập** được đưa vào đúng đoạn nội dung mà chúng đứng cạnh, ghi rõ là của người biên tập:
+  - hộp giới thiệu Quant Tech (trang in 357)
+  - chú thích ảnh cầu Tacoma Narrows (358)
+  - tiểu sử Sophocles (359)
+  - ảnh tờ chứng chỉ cổ phiếu Quant Tech (360, không có chú thích)
+  - câu nói của Upton Sinclair (361)
+  - ảnh tờ cổ phiếu Missouri, Kansas and Texas Railway Company đứng tên Jay Gould (362, không có chú thích) và hộp "The Right Way to Behave is to Never Let Improper Accounting Start" về FASB (362)
+  - câu in nổi và hộp điếu văn cho Arthur Andersen (363)
+  - hộp "The Ponzi Scheme" (364)
+  - hộp "Trust, But Verify" cạnh ảnh mẫu tờ khai thuế doanh nghiệp Form 1120 năm 2003 (365)
+  - hộp "Geometric Progressions: Highly Counter-Intuitive" (366)
+  - hộp các câu nói của Galbraith (367)
+  - chú thích ảnh bánh kếp (368)
+  - chú thích tranh của William Blake (369)
+  - trang bản thảo viết tay kèm ảnh Munger (371)
+  - chú thích ảnh động đất Chi-Chi ở Đài Loan (372)
+  - câu của Plato (373).
+
+  Ảnh minh hoạ trang in 356 (hai bàn tay vắt chiếc khăn đỏ in chữ "Quant Tech" vào chiếc xô ghi "Executive Stock Options", tức quyền chọn cổ phiếu cho lãnh đạo) không có chú thích, được mô tả ở đoạn lời dẫn.
+- Bản thân truyện có câu kết của Munger: đây là truyện hư cấu, không phải lời dự đoán về năm 2003; mọi sự giống nhau với người hay công ty có thật là ngẫu nhiên, trừ trường hợp giáo sư Galbraith.

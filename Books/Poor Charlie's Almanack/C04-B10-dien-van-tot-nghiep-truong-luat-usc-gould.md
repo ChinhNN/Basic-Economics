@@ -1,24 +1,26 @@
 # Bài 10 — Diễn văn tốt nghiệp Trường Luật USC Gould (USC Gould School of Law Commencement Address)
 
-**Nguồn:** *Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger*, biên tập Peter D. Kaufman, The Donning Company Publishers, ấn bản mở rộng thứ ba (Expanded Third Edition), Chương 4 "Eleven Talks", Bài 10 "USC Gould School of Law Commencement Address" (Talk Ten), trang in 420–439. Bài nói được đọc ngày 13 tháng 5 năm 2007, tại Alumni Park của Đại học Nam California (University of Southern California, USC) ở Los Angeles, trong lễ tốt nghiệp của Trường Luật Gould. Người nghe là 194 tân cử nhân luật (Juris Doctor), 89 tân thạc sĩ luật (Master of Laws) và 3 tân thạc sĩ luật so sánh (Master of Comparative Laws), cùng cha mẹ, gia đình và giảng viên của họ.
-**Tác giả:** Charles T. Munger (1924–2023), luật sư được đào tạo tại Trường Luật Harvard, phó chủ tịch Berkshire Hathaway và cộng sự lâu năm của Warren Buffett; lúc nói ông 83 tuổi. Lời dẫn đầu bài, các hộp bên lề và chú thích ảnh do người biên tập (Peter Kaufman và nhóm) viết.
-**Vị trí trong lập luận của cả cuốn sách:** Đây là bài nói gần đây nhất trong mười một bài của Chương 4 và được thêm vào ở ấn bản thứ ba. Nó đứng sau Bài 9 "Academic Economics" (2003), nơi Munger chê kinh tế học hàn lâm thiếu tư duy đa ngành, và trước Bài 11 "The Psychology of Human Misjudgment", bản tổng hợp hai mươi lăm khuynh hướng tâm lý mà Munger viết riêng cho sách. Bài 10 gần như là một bản "tóm tắt cả đời" bằng lời nói giản dị: nó gom lại những ý đã xuất hiện rải rác ở các bài trước, như tư duy đảo ngược trong [Bài 1, diễn văn tốt nghiệp Harvard School](C04-B01-dien-van-tot-nghiep-harvard-school.md) (1986), mạng lưới mô hình tư duy trong [Bài 2](C04-B02-bai-hoc-ve-tri-tue-the-gian-so-dang.md) và [Bài 3](C04-B03-bai-hoc-ve-tri-tue-the-gian-so-dang-nhin-lai.md), lời khuyên cho giới luật sư trong [Bài 5, diễn văn họp mặt 50 năm Trường Luật Harvard](C04-B05-dien-van-hop-mat-50-nam-truong-luat-harvard.md), và báo trước các khuynh hướng tâm lý (thiên lệch tự phục vụ, sức mạnh của động cơ khuyến khích, tự thương hại, đố kỵ) sẽ được phân tích có hệ thống ở [Bài 11](C04-B11-tam-ly-hoc-ve-phan-doan-sai-lam-cua-con-nguoi.md). Ý của Cicero về lịch sử, mà Munger dùng ở đây, cũng là chủ đề của [phần "Ca ngợi tuổi già" ở Chương 1](C01b-ca-ngoi-tuoi-gia.md).
-**Ý chính:** Munger muốn những luật sư trẻ mang theo vào nghề một nhóm ý tưởng và thái độ đã giúp ông, mà ông cho là có giá trị phổ quát và "khó mà thất bại". Ý nền tảng là **cách an toàn nhất để có được điều mình muốn là làm cho mình xứng đáng với điều đó**: đem tới cho thế giới thứ mà chính mình sẽ mua nếu ở phía bên kia, và nhờ vậy giành được sự tin cậy xứng đáng (deserved trust) của người khác. Từ đó ông nêu các ý tích cực: tình yêu dựa trên sự ngưỡng mộ (kể cả ngưỡng mộ những người đã khuất có điều đáng học); **thu nạp trí tuệ là một bổn phận đạo đức**, nên phải học suốt đời như một "cỗ máy học" (ví dụ trung tâm là Warren Buffett, người dành khoảng một nửa thời gian thức để đọc); học "phương pháp học"; học các ý tưởng lớn của mọi ngành và sắp chúng thành một mạng lưới trong đầu; và dùng **tư duy đảo ngược** (inversion), như anh nông dân muốn biết mình sẽ chết ở đâu để không bao giờ tới đó. Áp tư duy đảo ngược, ông liệt kê những thứ phải tránh: lười biếng và không đáng tin cậy; ý thức hệ cực đoan (ông chỉ cho mình có ý kiến khi trình bày được lập luận của phía phản đối hay hơn chính họ); thiên lệch tự phục vụ của bản thân và việc quên tính tới thiên lệch đó ở người khác (vụ luật sư trưởng của Salomon Brothers mất sự nghiệp vì thuyết phục bằng lý lẽ thay vì bằng lợi ích); đố kỵ, oán giận, trả thù và tự thương hại; động cơ khuyến khích lệch lạc (như chỉ tiêu 2.400 giờ tính phí mỗi năm) và làm việc dưới quyền người mình không ngưỡng mộ. Ông thêm các thói quen giữ khách quan (Darwin chú ý bằng chứng phản bác), danh sách kiểm tra, việc dồn cơ hội cho người giỏi nhất (John Wooden), phân biệt kiến thức thật với "kiến thức tài xế" (chuyện tài xế của Max Planck), hứng thú mãnh liệt, sự cần mẫn bền bỉ, thái độ của Epictetus trước bất hạnh, và đức thận trọng phục vụ bổn phận của ông nội ông. Ông kết bằng ý: hình thức cao nhất của văn minh không phải là thủ tục quan liêu phức tạp mà là **một mạng lưới liền mạch gồm những người hoàn toàn đáng tin cậy, tin nhau đúng chỗ**, như phòng mổ ở Mayo Clinic.
+## Ý chính
 
-> **Lưu ý:**
-> - **Bối cảnh thời điểm.** Bài nói năm 2007, được in ở ấn bản thứ ba (bản PDF là lần in thứ sáu, 2011). Lúc nói Munger "đã đi khá sâu vào năm thứ 84 của đời", tức 83 tuổi (ông sinh ngày 1 tháng 1 năm 1924). Theo hiểu biết của người tổng hợp, Munger mất cuối năm 2023, ngay trước sinh nhật thứ 100. Các nhận xét của ông về cơ quan lập pháp bang California, về sự đi lên của người gốc Á ở Mỹ và về chỉ tiêu giờ tính phí của các hãng luật là nhận xét của năm 2007.
-> - **Lỗi OCR đã sửa khi đọc** (không ảnh hưởng tới nghĩa nhưng nêu để đối chiếu): "rebe-wearing" là *robe-wearing* (mặc áo thụng tốt nghiệp); "ger" là *get*; "Mira's" là *Mirra's* (bác sĩ Joseph M. Mirra); "Glial piety", "filial piery" là *filial piety*; "suecess" là *success*; "scamless" là *seamless*; "bureaucratie" là *bureaucratic*; "Aorins" là *florins*; số trang cuối "43°" là 439. Các dòng chữ OCR "HOWARD / FRANCES DEE / KAT JOBNSON / BESIRALD BENRY / BETTE DAVIS" ở trang in 423 là tên diễn viên trên một áp phích phim *Of Human Bondage* (theo hiểu biết của người tổng hợp là bản phim 1934 với Leslie Howard và Bette Davis); dòng "COS CEDARS SINAI" ở trang in 425 là chữ trên ảnh toà nhà Trung tâm Y khoa Cedars-Sinai; dòng chữ Nga ở trang in 429 là khẩu hiệu trên một áp phích tuyên truyền thời Xô Viết, đã được người biên tập dịch.
-> - **Chỗ sách viết sai hoặc cần đính chính (theo hiểu biết của người tổng hợp):**
->   - Hộp bên lề về Voltaire viết "bốn thế kỷ trước" (*Four centuries ago*); Voltaire sống 1694–1778, tức chỉ khoảng hai thế kỷ rưỡi trước khi sách in.
->   - Bài nói và sách viết tên nhà thơ là "Houseman"; bài thơ ngắn Munger đọc ("The thoughts of others / Were light and fleeting...") là của nhà thơ Anh A. E. Housman.
->   - Hộp bên lề về Max Planck ghi ông được "bầu" giải Nobel vật lý năm 1918; giải năm 1918 được trao vào năm 1919. Munger gọi bài giảng của Planck là bài giảng về "cơ học lượng tử mới"; Planck là người khởi đầu thuyết lượng tử (1900), còn cơ học lượng tử theo nghĩa hẹp do thế hệ sau (Heisenberg, Schrödinger) xây dựng giữa thập niên 1920. Chính Munger nói rõ câu chuyện về tài xế là chuyện bịa (*apocryphal*).
->   - Munger nói ông nội mình là thẩm phán liên bang duy nhất của thành phố "gần bốn mươi năm"; theo hộp bên lề, ông được bổ nhiệm năm 1907 và mất năm 1941, tức khoảng 34 năm. Sách không nói thành phố nào; theo hiểu biết của người tổng hợp, đó là Lincoln, bang Nebraska.
->   - Munger không nêu tên những người trong vụ Salomon Brothers. Theo hiểu biết của người tổng hợp, đó là vụ gian lận đấu thầu trái phiếu Kho bạc Mỹ năm 1991: nhân viên làm sai là Paul Mozer, CEO là John Gutfreund, luật sư trưởng là Donald Feuerstein; Buffett và Munger khi đó là thành viên hội đồng quản trị Salomon và Buffett phải tạm làm chủ tịch để cứu công ty.
->   - Hộp bên lề về Mozart đưa ra các bằng chứng làm phức tạp thêm nhận xét của Munger rằng Mozart "luôn tiêu quá thu nhập": thu nhập của Mozart dao động, có năm thuộc nhóm 10% người có thu nhập cao nhất Vienna, và các khó khăn tài chính còn đến từ chi phí chữa bệnh của vợ, một bản án và có thể cả cờ bạc. Bản tổng hợp giữ cả hai.
->   - Câu "hiếu đạo bao gồm... bảo đảm có con trai nối dõi... che giấu lỗi lầm của cha mẹ" trong hộp bên lề về Khổng Tử là mô tả của người biên tập về quan niệm truyền thống, không phải lời Munger.
-> - **Hộp bên lề của người biên tập.** Bài có mười chín hộp bên lề, chú thích ảnh và câu trích in nổi: Khổng Tử và hiếu đạo, bìa sách *The Morals of Confucius* (1691), tiểu thuyết *Of Human Bondage*, câu trích của Alfred North Whitehead, bác sĩ Joseph M. Mirra, Voltaire, Cicero, nguồn gốc chữ "đại số", áp phích Xô Viết, Darwin, Mozart, chân dung Benjamin Franklin, phim *It's a Wonderful Life*, cuốn sách của Andy Hill về John Wooden, Max Planck, phim *Anchorman*, bộ "châm ngôn" của Epictetus, thẩm phán Thomas Charles Munger, và *The Pilgrim's Progress*. Mỗi hộp được đặt vào khối sơ đồ và mục nội dung chi tiết tương ứng với đoạn bài nói mà nó đi kèm, ghi rõ "Hộp bên lề của người biên tập". Các câu Munger được in nổi ở lề (pull quote) chỉ lặp lại lời trong bài nên không tách riêng. Một chú thích trong ngoặc vuông của người biên tập ("về các ý khác của Cicero, xin xem phần Munger bàn về tuổi già ở Chương 1") được đưa vào đúng chỗ.
-> - **Chia đoạn.** Bài nói liền mạch, không có tiểu mục. Bản tổng hợp chia theo từng "ý" mà Munger lần lượt nêu (ông thường mở bằng "một ý khác là...", "một thứ khác phải tránh là..."), ghi trang in của từng đoạn. Số thứ tự "ý thứ nhất" tới "ý thứ mười tám" là do người tổng hợp đánh theo thứ tự xuất hiện; Munger chỉ tự đánh số hai ý đầu ("ý thứ hai mà tôi có từ rất sớm"). Một số đoạn ngắn liên tiếp được gom lại, có ghi rõ.
-> - Câu chuyện "anh nông dân muốn biết mình sẽ chết ở đâu" được Munger nhắc là do trưởng khoa Edward J. McCaffery kể trước đó trong buổi lễ; lời kể của trưởng khoa không có trong sách.
+Munger muốn những luật sư trẻ mang theo vào nghề một nhóm ý tưởng và thái độ đã giúp ông, mà ông cho là có giá trị phổ quát và "khó mà thất bại". Ý nền tảng là **cách an toàn nhất để có được điều mình muốn là làm cho mình xứng đáng với điều đó**: đem tới cho thế giới thứ mà chính mình sẽ mua nếu ở phía bên kia, và nhờ vậy giành được sự tin cậy xứng đáng (deserved trust) của người khác.
+
+Từ đó ông nêu các ý tích cực:
+- tình yêu dựa trên sự ngưỡng mộ (kể cả ngưỡng mộ những người đã khuất có điều đáng học);
+- **thu nạp trí tuệ là một bổn phận đạo đức**, nên phải học suốt đời như một "cỗ máy học" (ví dụ trung tâm là Warren Buffett, người dành khoảng một nửa thời gian thức để đọc);
+- học "phương pháp học";
+- học các ý tưởng lớn của mọi ngành và sắp chúng thành một mạng lưới trong đầu;
+- và dùng **tư duy đảo ngược** (inversion), như anh nông dân muốn biết mình sẽ chết ở đâu để không bao giờ tới đó.
+
+Áp tư duy đảo ngược, ông liệt kê những thứ phải tránh:
+- lười biếng và không đáng tin cậy;
+- ý thức hệ cực đoan (ông chỉ cho mình có ý kiến khi trình bày được lập luận của phía phản đối hay hơn chính họ);
+- thiên lệch tự phục vụ của bản thân và việc quên tính tới thiên lệch đó ở người khác (vụ luật sư trưởng của Salomon Brothers mất sự nghiệp vì thuyết phục bằng lý lẽ thay vì bằng lợi ích);
+- đố kỵ, oán giận, trả thù và tự thương hại;
+- động cơ khuyến khích lệch lạc (như chỉ tiêu 2.400 giờ tính phí mỗi năm) và làm việc dưới quyền người mình không ngưỡng mộ.
+
+Ông thêm các thói quen giữ khách quan (Darwin chú ý bằng chứng phản bác), danh sách kiểm tra, việc dồn cơ hội cho người giỏi nhất (John Wooden), phân biệt kiến thức thật với "kiến thức tài xế" (chuyện tài xế của Max Planck), hứng thú mãnh liệt, sự cần mẫn bền bỉ, thái độ của Epictetus trước bất hạnh, và đức thận trọng phục vụ bổn phận của ông nội ông.
+
+Ông kết bằng ý: hình thức cao nhất của văn minh không phải là thủ tục quan liêu phức tạp mà là **một mạng lưới liền mạch gồm những người hoàn toàn đáng tin cậy, tin nhau đúng chỗ**, như phòng mổ ở Mayo Clinic.
 
 ## Sơ đồ
 
@@ -1135,11 +1137,27 @@
 
 ## Ba câu hỏi bài này trả lời
 
-1. **Một người trẻ bước vào nghề (ở đây là nghề luật) nên mang theo những nguyên tắc sống nào để có một đời thành công và đáng trọng?** Munger trả lời bằng một chuỗi ý mà ông cho là "khó mà thất bại". Nền tảng là quy tắc vàng: cách an toàn nhất để có điều mình muốn là làm cho mình xứng đáng với điều đó, tức đem tới cho người khác thứ mà chính mình sẽ mua nếu ở phía bên kia; phần thưởng không chỉ là tiền và danh dự mà là sự tin cậy xứng đáng của mọi người xung quanh, còn kẻ bất lương dù chết giàu cũng chỉ được tiễn bằng câu "anh trai ông ta còn tệ hơn". Tiếp theo là yêu dựa trên sự ngưỡng mộ (kể cả ngưỡng mộ những người đã khuất có điều đáng học), coi việc thu nạp trí tuệ là bổn phận đạo đức, đáng tin cậy trong mọi cam kết, có hứng thú mãnh liệt với việc mình làm, cần mẫn "ngồi lì cho tới khi xong" như hai cộng sự làm 14 giờ mỗi ngày, 7 ngày mỗi tuần khi bị chậm cam kết, thận trọng để làm tròn bổn phận như ông nội ông (tiêu ít hơn thu nhập, sẵn sàng cứu ngân hàng của con trai), và dùng mỗi bất hạnh để cư xử tốt hơn như Epictetus. Mục tiêu cuối cùng là xây quanh mình một mạng lưới liền mạch gồm những người đáng tin cậy, tin nhau đúng chỗ.
+1. **Một người trẻ bước vào nghề (ở đây là nghề luật) nên mang theo những nguyên tắc sống nào để có một đời thành công và đáng trọng?** Munger trả lời bằng một chuỗi ý mà ông cho là "khó mà thất bại". Nền tảng là quy tắc vàng: cách an toàn nhất để có điều mình muốn là làm cho mình xứng đáng với điều đó, tức đem tới cho người khác thứ mà chính mình sẽ mua nếu ở phía bên kia; phần thưởng không chỉ là tiền và danh dự mà là sự tin cậy xứng đáng của mọi người xung quanh, còn kẻ bất lương dù chết giàu cũng chỉ được tiễn bằng câu "anh trai ông ta còn tệ hơn".
 
-2. **Làm thế nào để suy nghĩ tốt hơn hầu hết mọi người, và cái giá của việc đó là gì?** Theo Munger, phải học suốt đời như một cỗ máy học (Buffett dành khoảng một nửa thời gian thức để đọc), học "phương pháp học" giống như văn minh chỉ tiến nhanh khi phát minh ra "phương pháp phát minh", và học các ý tưởng lớn của mọi ngành, vì khoảng 95% công việc do các ý tưởng lớn gánh. Các ý tưởng phải được sắp thành một mạng lưới tư duy trong đầu và được luyện tập liên tục như nghệ sĩ dương cầm luyện đàn, không phải học để một lần lấy điểm A. Cần thêm các công cụ: tư duy đảo ngược (muốn giúp Ấn Độ thì hỏi điều gì làm hại Ấn Độ nhất rồi tránh nó), chú ý bằng chứng phản bác như Darwin, dùng danh sách kiểm tra, và phân biệt kiến thức Planck (của người thật sự hiểu) với kiến thức tài xế (của người chỉ nói trơn tru). Cái giá là sự nguy hiểm khi mình đúng theo cách làm người có quyền mất mặt trong chính chuyên ngành của họ; Munger chưa tìm ra cách hoàn hảo để tránh, nên ông khuyên giấu bớt hiểu biết của mình giỏi hơn ông từng làm, như lời dặn một luật sư trẻ hãy làm cho khách hàng thấy họ thông minh nhất phòng.
+   Tiếp theo là yêu dựa trên sự ngưỡng mộ (kể cả ngưỡng mộ những người đã khuất có điều đáng học), coi việc thu nạp trí tuệ là bổn phận đạo đức, đáng tin cậy trong mọi cam kết, có hứng thú mãnh liệt với việc mình làm, cần mẫn "ngồi lì cho tới khi xong" như hai cộng sự làm 14 giờ mỗi ngày, 7 ngày mỗi tuần khi bị chậm cam kết, thận trọng để làm tròn bổn phận như ông nội ông (tiêu ít hơn thu nhập, sẵn sàng cứu ngân hàng của con trai), và dùng mỗi bất hạnh để cư xử tốt hơn như Epictetus.
 
-3. **Những cái bẫy nào làm hỏng đầu óc và cuộc đời, và tránh chúng ra sao?** Áp tư duy đảo ngược, Munger nêu: lười biếng và không đáng tin cậy (làm sụp mọi đức tính khác); ý thức hệ cực đoan (làm đầu óc "hoá bắp cải", nguy hiểm như xoáy nước lớn với những người chèo xuồng có tỷ lệ tử vong 100%), tránh bằng "đơn thuốc sắt": không cho mình có ý kiến khi chưa trình bày được lập luận của phía phản đối hay hơn chính họ; thiên lệch tự phục vụ của mình (Mozart tiêu quá thu nhập và khổ sở) và việc quên tính tới thiên lệch đó ở người khác (luật sư trưởng của Salomon Brothers mất sự nghiệp vì thuyết phục bằng lý lẽ đạo đức thay vì bằng lợi ích, trái lời Franklin "muốn thuyết phục, hãy khơi gợi lợi ích, đừng khơi gợi lý lẽ"); đố kỵ, oán giận, trả thù và tự thương hại (người bạn của ông đưa tấm thẻ "Tôi chưa từng nghe ai gặp nhiều bất hạnh như anh"); động cơ khuyến khích lệch lạc như chỉ tiêu 2.400 giờ tính phí mỗi năm; và làm việc dưới quyền người mình không ngưỡng mộ. Cuối cùng, đừng tin rằng thủ tục quan liêu phức tạp là đỉnh cao của văn minh: hợp đồng hôn nhân dài 47 trang là dấu hiệu nên dừng lại.
+   Mục tiêu cuối cùng là xây quanh mình một mạng lưới liền mạch gồm những người đáng tin cậy, tin nhau đúng chỗ.
+
+2. **Làm thế nào để suy nghĩ tốt hơn hầu hết mọi người, và cái giá của việc đó là gì?** Theo Munger, phải học suốt đời như một cỗ máy học (Buffett dành khoảng một nửa thời gian thức để đọc), học "phương pháp học" giống như văn minh chỉ tiến nhanh khi phát minh ra "phương pháp phát minh", và học các ý tưởng lớn của mọi ngành, vì khoảng 95% công việc do các ý tưởng lớn gánh. Các ý tưởng phải được sắp thành một mạng lưới tư duy trong đầu và được luyện tập liên tục như nghệ sĩ dương cầm luyện đàn, không phải học để một lần lấy điểm A.
+
+   Cần thêm các công cụ: tư duy đảo ngược (muốn giúp Ấn Độ thì hỏi điều gì làm hại Ấn Độ nhất rồi tránh nó), chú ý bằng chứng phản bác như Darwin, dùng danh sách kiểm tra, và phân biệt kiến thức Planck (của người thật sự hiểu) với kiến thức tài xế (của người chỉ nói trơn tru).
+
+   Cái giá là sự nguy hiểm khi mình đúng theo cách làm người có quyền mất mặt trong chính chuyên ngành của họ; Munger chưa tìm ra cách hoàn hảo để tránh, nên ông khuyên giấu bớt hiểu biết của mình giỏi hơn ông từng làm, như lời dặn một luật sư trẻ hãy làm cho khách hàng thấy họ thông minh nhất phòng.
+
+3. **Những cái bẫy nào làm hỏng đầu óc và cuộc đời, và tránh chúng ra sao?** Áp tư duy đảo ngược, Munger nêu:
+   - lười biếng và không đáng tin cậy (làm sụp mọi đức tính khác);
+   - ý thức hệ cực đoan (làm đầu óc "hoá bắp cải", nguy hiểm như xoáy nước lớn với những người chèo xuồng có tỷ lệ tử vong 100%), tránh bằng "đơn thuốc sắt": không cho mình có ý kiến khi chưa trình bày được lập luận của phía phản đối hay hơn chính họ;
+   - thiên lệch tự phục vụ của mình (Mozart tiêu quá thu nhập và khổ sở) và việc quên tính tới thiên lệch đó ở người khác (luật sư trưởng của Salomon Brothers mất sự nghiệp vì thuyết phục bằng lý lẽ đạo đức thay vì bằng lợi ích, trái lời Franklin "muốn thuyết phục, hãy khơi gợi lợi ích, đừng khơi gợi lý lẽ");
+   - đố kỵ, oán giận, trả thù và tự thương hại (người bạn của ông đưa tấm thẻ "Tôi chưa từng nghe ai gặp nhiều bất hạnh như anh");
+   - động cơ khuyến khích lệch lạc như chỉ tiêu 2.400 giờ tính phí mỗi năm;
+   - và làm việc dưới quyền người mình không ngưỡng mộ.
+
+   Cuối cùng, đừng tin rằng thủ tục quan liêu phức tạp là đỉnh cao của văn minh: hợp đồng hôn nhân dài 47 trang là dấu hiệu nên dừng lại.
 
 ## Khái niệm cần biết
 
@@ -1204,7 +1222,11 @@ Dù lý do là gì, ông thấy việc mình đứng nói ở đây là phù h�
 
 Rồi ông nói mình đã ghi vội vài dòng và sẽ cố kể lại một số ý tưởng và thái độ đã có ích cho ông. Ông không cho rằng chúng hoàn hảo với tất cả mọi người, nhưng nghĩ rằng nhiều ý trong đó chứa giá trị phổ quát và nhiều ý là loại "khó mà thất bại".
 
-**Hộp bên lề của người biên tập: "Confucius on Filial Piety" (Khổng Tử bàn về hiếu đạo).** Khổng Tử sống từ năm 551 tới năm 479 trước Công nguyên. Trong tư tưởng Nho giáo, hiếu đạo, tức lòng yêu thương và kính trọng cha mẹ và tổ tiên, là một đức tính cần được vun đắp. Theo nghĩa rộng, hiếu đạo là chăm sóc cha mẹ; không chống đối; bày tỏ tình yêu, sự kính trọng và sự giúp đỡ; giữ lễ độ; bảo đảm có con trai nối dõi; giữ tình anh em hoà thuận; khuyên can cha mẹ một cách khôn ngoan; che giấu lỗi lầm của cha mẹ; đau buồn khi cha mẹ ốm đau và qua đời; và cúng tế sau khi cha mẹ mất. Khổng Tử tin rằng nếu người ta học được cách làm tròn vai trò người con, họ sẽ làm tốt hơn vai trò của mình trong xã hội và trong việc cai trị. Với ông, hiếu đạo quan trọng tới mức vượt lên trên cả luật pháp; trong một số giai đoạn thời nhà Hán, người bỏ bê việc thờ cúng tổ tiên theo các phép tắc hiếu đạo có thể bị phạt đòn. Hộp này đi kèm ảnh trang bìa cuốn *The Morals of Confucius, a Chinese Philosopher* (Đạo đức của Khổng Tử, triết gia Trung Hoa), in ở London năm 1691, ấn bản tiếng Anh đầu tiên; bìa giới thiệu Khổng Tử là người "sống hơn năm trăm năm trước Công nguyên" và cuốn sách là "một trong những tác phẩm học thuật tinh tuý nhất còn lại của dân tộc ấy". Sách thuộc bộ sưu tập Reading Revolutions của Đại học Maine ở Farmington.
+**Hộp bên lề của người biên tập: "Confucius on Filial Piety" (Khổng Tử bàn về hiếu đạo).** Khổng Tử sống từ năm 551 tới năm 479 trước Công nguyên. Trong tư tưởng Nho giáo, hiếu đạo, tức lòng yêu thương và kính trọng cha mẹ và tổ tiên, là một đức tính cần được vun đắp. Theo nghĩa rộng, hiếu đạo là chăm sóc cha mẹ; không chống đối; bày tỏ tình yêu, sự kính trọng và sự giúp đỡ; giữ lễ độ; bảo đảm có con trai nối dõi; giữ tình anh em hoà thuận; khuyên can cha mẹ một cách khôn ngoan; che giấu lỗi lầm của cha mẹ; đau buồn khi cha mẹ ốm đau và qua đời; và cúng tế sau khi cha mẹ mất.
+
+Khổng Tử tin rằng nếu người ta học được cách làm tròn vai trò người con, họ sẽ làm tốt hơn vai trò của mình trong xã hội và trong việc cai trị. Với ông, hiếu đạo quan trọng tới mức vượt lên trên cả luật pháp; trong một số giai đoạn thời nhà Hán, người bỏ bê việc thờ cúng tổ tiên theo các phép tắc hiếu đạo có thể bị phạt đòn.
+
+Hộp này đi kèm ảnh trang bìa cuốn *The Morals of Confucius, a Chinese Philosopher* (Đạo đức của Khổng Tử, triết gia Trung Hoa), in ở London năm 1691, ấn bản tiếng Anh đầu tiên; bìa giới thiệu Khổng Tử là người "sống hơn năm trăm năm trước Công nguyên" và cuốn sách là "một trong những tác phẩm học thuật tinh tuý nhất còn lại của dân tộc ấy". Sách thuộc bộ sưu tập Reading Revolutions của Đại học Maine ở Farmington.
 
 ### 3. Ý thứ nhất: cách an toàn nhất để có điều mình muốn là làm cho mình xứng đáng với điều đó (trang in 422–423)
 
@@ -1216,19 +1238,25 @@ Thỉnh thoảng, người ta vẫn gặp một kẻ hoàn toàn bất lương m
 
 Ý thứ hai Munger có từ rất sớm là: không có tình yêu nào đúng đắn bằng tình yêu dựa trên sự ngưỡng mộ, và tình yêu ấy nên bao gồm cả những người đã khuất có điều đáng để học. Không rõ bằng cách nào ông có được ý này, nhưng ông sống với nó cả đời và nó rất có ích cho ông. Ngược lại, thứ tình yêu mà Somerset Maugham tả trong cuốn *Of Human Bondage* là một thứ tình yêu bệnh hoạn. Nó là một căn bệnh, và nếu thấy mình mắc căn bệnh như vậy, bạn nên loại bỏ nó.
 
-**Hộp bên lề của người biên tập: "A Sick Kind of Love" (Một thứ tình yêu bệnh hoạn).** *Of Human Bondage* (1915) là tiểu thuyết mang tính tự truyện của William Somerset Maugham, thường được coi là kiệt tác của ông. Nhân vật chính, Philip, gặp Mildred, một cô hầu bàn ở London, và bị cô đối xử lạnh nhạt. Philip rơi vào một tình yêu ám ảnh với Mildred; anh biết mình dại dột và tự khinh mình. Anh đưa cho Mildred toàn bộ tiền của mình; cô đáp lại bằng sự ghê tởm và làm nhục anh. Maugham tả mối quan hệ ấy: tình yêu như một con ký sinh trong cơ thể anh, nuôi một sự tồn tại đáng ghét bằng máu sống của đời anh; nó hút lấy đời anh mãnh liệt tới mức anh không còn tìm được niềm vui ở bất cứ điều gì khác. Kèm theo là ảnh một áp phích phim chuyển thể có Bette Davis.
+**Hộp bên lề của người biên tập: "A Sick Kind of Love" (Một thứ tình yêu bệnh hoạn).** *Of Human Bondage* (1915) là tiểu thuyết mang tính tự truyện của William Somerset Maugham, thường được coi là kiệt tác của ông. Nhân vật chính, Philip, gặp Mildred, một cô hầu bàn ở London, và bị cô đối xử lạnh nhạt. Philip rơi vào một tình yêu ám ảnh với Mildred; anh biết mình dại dột và tự khinh mình. Anh đưa cho Mildred toàn bộ tiền của mình; cô đáp lại bằng sự ghê tởm và làm nhục anh.
+
+Maugham tả mối quan hệ ấy: tình yêu như một con ký sinh trong cơ thể anh, nuôi một sự tồn tại đáng ghét bằng máu sống của đời anh; nó hút lấy đời anh mãnh liệt tới mức anh không còn tìm được niềm vui ở bất cứ điều gì khác. Kèm theo là ảnh một áp phích phim chuyển thể có Bette Davis.
 
 ### 5. Ý thứ ba: thu nạp trí tuệ là một bổn phận đạo đức, nên phải học suốt đời và học "phương pháp học" (trang in 423–425)
 
 Munger nói ý tiếp theo này có thể cũng gợi nhớ Khổng Tử: thu nạp trí tuệ là một bổn phận đạo đức. Nó không phải là việc người ta làm chỉ để tiến thân. Ý này có một hệ quả rất quan trọng: nó đòi hỏi bạn "nghiện" việc học suốt đời. Không học suốt đời thì các tân khoa sẽ không làm tốt được. Họ sẽ không đi xa trong đời dựa trên những gì đã biết; họ sẽ tiến lên nhờ những gì học được sau khi rời trường.
 
-Ông lấy ví dụ Berkshire Hathaway, một trong những công ty được đánh giá cao nhất thế giới, có lẽ có thành tích đầu tư dài hạn, với khối tài sản lớn, tốt nhất trong lịch sử văn minh. Kỹ năng giúp Berkshire vượt qua một thập niên sẽ không đủ để giúp nó vượt qua thập niên kế tiếp với mức thành tích tương đương. Warren Buffett đã phải là một cỗ máy học liên tục. Đòi hỏi này cũng có ở những vị trí khiêm tốn hơn trong đời. Munger thường xuyên thấy những người đi lên không phải là người thông minh nhất, có khi không phải người chăm chỉ nhất, nhưng họ là những cỗ máy học. Mỗi tối họ đi ngủ khôn hơn một chút so với lúc thức dậy sáng hôm đó. Thói quen ấy giúp rất nhiều, nhất là khi phía trước còn một chặng đường dài.
+Ông lấy ví dụ Berkshire Hathaway, một trong những công ty được đánh giá cao nhất thế giới, có lẽ có thành tích đầu tư dài hạn, với khối tài sản lớn, tốt nhất trong lịch sử văn minh. Kỹ năng giúp Berkshire vượt qua một thập niên sẽ không đủ để giúp nó vượt qua thập niên kế tiếp với mức thành tích tương đương. Warren Buffett đã phải là một cỗ máy học liên tục.
+
+Đòi hỏi này cũng có ở những vị trí khiêm tốn hơn trong đời. Munger thường xuyên thấy những người đi lên không phải là người thông minh nhất, có khi không phải người chăm chỉ nhất, nhưng họ là những cỗ máy học. Mỗi tối họ đi ngủ khôn hơn một chút so với lúc thức dậy sáng hôm đó. Thói quen ấy giúp rất nhiều, nhất là khi phía trước còn một chặng đường dài.
 
 Alfred North Whitehead từng nói đúng rằng văn minh chỉ tiến nhanh khi con người "phát minh ra phương pháp phát minh". Ông muốn nói tới sự tăng trưởng khổng lồ của GDP bình quân đầu người và nhiều điều tốt đẹp mà ngày nay ta coi là đương nhiên. Tiến bộ lớn chỉ bắt đầu vài trăm năm trước; trước đó, tiến bộ trong mỗi thế kỷ gần như bằng không. Munger áp ý này vào từng người: cũng như văn minh chỉ tiến bộ khi phát minh ra phương pháp phát minh, bạn chỉ tiến bộ khi học được phương pháp học.
 
 Munger nói ông rất may mắn: ông vào trường luật khi đã học được phương pháp học, và trong cả cuộc đời dài, không gì phục vụ ông tốt hơn việc học liên tục. Ông lại lấy Buffett làm ví dụ: nếu theo dõi Buffett bằng đồng hồ bấm giờ, sẽ thấy khoảng một nửa thời gian thức của ông dành để đọc. Một phần lớn thời gian còn lại dành để nói chuyện riêng, qua điện thoại hoặc gặp mặt, với những người rất tài giỏi mà ông tin và họ tin ông. Nhìn từ gần, Buffett trông khá giống một nhà học thuật, dù ông đạt thành công ở đời thường.
 
-Giới học thuật chứa nhiều giá trị tuyệt vời, và Munger kể một ví dụ ông gặp chưa lâu. Trong vai trò chủ tịch hội đồng quản trị một bệnh viện, ông làm việc với một giảng viên trường y tên Joseph M. Mirra. Qua nhiều năm làm việc có kỷ luật, người này tự làm cho mình biết về bệnh học u xương nhiều hơn gần như bất kỳ ai trên thế giới. Ông muốn truyền kiến thức đó lại để giúp điều trị ung thư xương. Ông quyết định viết một cuốn giáo khoa; Munger cho rằng loại sách này không bán quá vài nghìn bản, nhưng chúng có mặt ở các trung tâm điều trị ung thư khắp thế giới. Mirra nghỉ phép một năm, ngồi trước máy tính với toàn bộ các tiêu bản đã được lưu giữ và sắp xếp cẩn thận. Ông làm việc 17 giờ mỗi ngày, 7 ngày mỗi tuần, suốt một năm (theo phép tính của người tổng hợp, khoảng 6.200 giờ); Munger đùa: "nghỉ phép gì mà thế". Cuối năm đó, ông đã viết xong một trong hai cuốn giáo khoa bệnh học u xương lớn nhất thế giới. Munger nói: khi ở gần những giá trị như của Mirra, người ta muốn học lấy càng nhiều càng tốt.
+Giới học thuật chứa nhiều giá trị tuyệt vời, và Munger kể một ví dụ ông gặp chưa lâu. Trong vai trò chủ tịch hội đồng quản trị một bệnh viện, ông làm việc với một giảng viên trường y tên Joseph M. Mirra. Qua nhiều năm làm việc có kỷ luật, người này tự làm cho mình biết về bệnh học u xương nhiều hơn gần như bất kỳ ai trên thế giới. Ông muốn truyền kiến thức đó lại để giúp điều trị ung thư xương. Ông quyết định viết một cuốn giáo khoa; Munger cho rằng loại sách này không bán quá vài nghìn bản, nhưng chúng có mặt ở các trung tâm điều trị ung thư khắp thế giới.
+
+Mirra nghỉ phép một năm, ngồi trước máy tính với toàn bộ các tiêu bản đã được lưu giữ và sắp xếp cẩn thận. Ông làm việc 17 giờ mỗi ngày, 7 ngày mỗi tuần, suốt một năm (theo phép tính của người tổng hợp, khoảng 6.200 giờ); Munger đùa: "nghỉ phép gì mà thế". Cuối năm đó, ông đã viết xong một trong hai cuốn giáo khoa bệnh học u xương lớn nhất thế giới. Munger nói: khi ở gần những giá trị như của Mirra, người ta muốn học lấy càng nhiều càng tốt.
 
 **Hộp bên lề của người biên tập: câu trích của Alfred North Whitehead (trang in 424).** Bên lề in câu, ghi là của Whitehead: "Tương lai thuộc về những ai có thể vượt lên trên giới hạn của trái đất."
 
@@ -1243,7 +1271,9 @@ Giới học thuật chứa nhiều giá trị tuyệt vời, và Munger kể m�
 
 ### 6. Ý thứ tư: học các ý tưởng lớn của mọi ngành, luyện tập liên tục, và cái giá của việc đúng trước người có quyền (trang in 425–427)
 
-Một ý khác cực kỳ có ích cho Munger đến từ một lần ở trường luật, khi ông nghe một giáo sư hay đùa nói: "Đầu óc luật sư là đầu óc cho rằng, khi hai thứ xoắn vào nhau và tác động qua lại, thì vẫn có thể và vẫn có ích khi cố nghĩ về thứ này mà không xét tới thứ kia." Từ câu nói mang ý chê gián tiếp ấy, Munger thấy rằng bất kỳ cách tiếp cận "kiểu luật sư" nào như vậy đều lố bịch. Nó đẩy ông đi xa hơn theo hướng mà bản tính ông vốn nghiêng về: học tất cả những ý tưởng lớn trong tất cả các ngành lớn, để không trở thành kẻ ngốc hoàn hảo mà vị giáo sư mô tả. Và vì các ý tưởng thật sự lớn gánh khoảng 95% khối lượng công việc, ông không gặp khó khăn gì trong việc nắm được khoảng 95% những gì mình cần từ mọi ngành, rồi đưa việc dùng kiến thức đó thành một phần tiêu chuẩn trong các thói quen tư duy của mình.
+Một ý khác cực kỳ có ích cho Munger đến từ một lần ở trường luật, khi ông nghe một giáo sư hay đùa nói: "Đầu óc luật sư là đầu óc cho rằng, khi hai thứ xoắn vào nhau và tác động qua lại, thì vẫn có thể và vẫn có ích khi cố nghĩ về thứ này mà không xét tới thứ kia." Từ câu nói mang ý chê gián tiếp ấy, Munger thấy rằng bất kỳ cách tiếp cận "kiểu luật sư" nào như vậy đều lố bịch.
+
+Nó đẩy ông đi xa hơn theo hướng mà bản tính ông vốn nghiêng về: học tất cả những ý tưởng lớn trong tất cả các ngành lớn, để không trở thành kẻ ngốc hoàn hảo mà vị giáo sư mô tả. Và vì các ý tưởng thật sự lớn gánh khoảng 95% khối lượng công việc, ông không gặp khó khăn gì trong việc nắm được khoảng 95% những gì mình cần từ mọi ngành, rồi đưa việc dùng kiến thức đó thành một phần tiêu chuẩn trong các thói quen tư duy của mình.
 
 Tất nhiên, có ý tưởng rồi thì phải liên tục luyện tập dùng chúng. Giống một nghệ sĩ dương cầm hoà nhạc, không tập thì không biểu diễn tốt được. Vì vậy, Munger đi qua cuộc đời mình luôn luyện tập cách tiếp cận đa ngành.
 
@@ -1253,7 +1283,11 @@ Nhưng nó cũng có nguy hiểm, chính vì nó hiệu quả quá. Khi dùng n�
 
 Dù hồi trẻ ông chơi poker giỏi, ông không giỏi giả vờ khi nghĩ mình biết nhiều hơn cấp trên, và ông cũng không cố giả vờ nhiều như lẽ ra một người thận trọng nên làm. Vì thế ông đã làm nhiều người phật lòng. Giờ đây ông thường được dung thứ như một ông già lập dị vô hại sắp ra đi, nhưng thời còn đang đi lên, ông đã phải qua một giai đoạn khó khăn. Lời khuyên của ông: hãy giỏi hơn ông trong việc giấu kín những hiểu biết sâu sắc của mình.
 
-Ông kể về một đồng nghiệp đã tốt nghiệp đứng đầu khoá ở trường luật và từng làm thư ký cho Toà án Tối cao Mỹ. Hồi còn là luật sư trẻ, người này hay tỏ ra mình biết nhiều. Một hôm, luật sư thành viên cấp cao mà anh làm việc dưới quyền gọi anh vào và nói: "Nghe này, Chuck, tôi muốn giải thích cho anh một điều. Bổn phận của anh là cư xử sao cho khách hàng nghĩ rằng họ là người thông minh nhất trong phòng. Nếu sau đó anh còn sức lực hay ý hay nào, hãy dùng nó để làm cho luật sư thành viên cấp cao của anh trông như người thông minh thứ hai trong phòng. Và chỉ sau khi đã làm tròn hai nghĩa vụ đó, anh mới nên để ánh sáng của mình toả ra chút nào." Munger nhận xét: đó là một cách tốt để thăng tiến ở nhiều hãng luật lớn. Nhưng ông đã không làm vậy. Ông thường đi theo bản tính của mình, và nếu có người không thích, thì thôi, ông không cần được mọi người yêu mến.
+Ông kể về một đồng nghiệp đã tốt nghiệp đứng đầu khoá ở trường luật và từng làm thư ký cho Toà án Tối cao Mỹ. Hồi còn là luật sư trẻ, người này hay tỏ ra mình biết nhiều.
+
+Một hôm, luật sư thành viên cấp cao mà anh làm việc dưới quyền gọi anh vào và nói: "Nghe này, Chuck, tôi muốn giải thích cho anh một điều. Bổn phận của anh là cư xử sao cho khách hàng nghĩ rằng họ là người thông minh nhất trong phòng. Nếu sau đó anh còn sức lực hay ý hay nào, hãy dùng nó để làm cho luật sư thành viên cấp cao của anh trông như người thông minh thứ hai trong phòng. Và chỉ sau khi đã làm tròn hai nghĩa vụ đó, anh mới nên để ánh sáng của mình toả ra chút nào."
+
+Munger nhận xét: đó là một cách tốt để thăng tiến ở nhiều hãng luật lớn. Nhưng ông đã không làm vậy. Ông thường đi theo bản tính của mình, và nếu có người không thích, thì thôi, ông không cần được mọi người yêu mến.
 
 | Thứ tự ưu tiên theo lời khuyên cho Chuck | Ai phải trông thông minh |
 |---|---|
@@ -1267,9 +1301,13 @@ Dù hồi trẻ ông chơi poker giỏi, ông không giỏi giả vờ khi nghĩ
 
 Munger phát triển thêm ý rằng muốn sự trưởng thành có hiệu quả thì cần một thái độ đa ngành. Ở đây ông đi theo một ý then chốt của luật sư lớn nhất thời cổ đại, Marcus Tullius Cicero. (Người biên tập chú thích trong ngoặc vuông: về các ý khác của Cicero, xin xem phần Munger bàn về tuổi già ở Chương 1, tức [phần "Ca ngợi tuổi già"](C01b-ca-ngoi-tuoi-gia.md).) Cicero nổi tiếng với câu nói rằng người không biết những gì đã xảy ra trước khi mình ra đời thì đi qua cuộc đời như một đứa trẻ. Munger cho đó là ý rất đúng, và Cicero có lý khi chế giễu kẻ dại tới mức không biết lịch sử.
 
-Nhưng nếu khái quát hoá ý của Cicero, như Munger cho là nên làm, thì ngoài lịch sử còn nhiều thứ khác phải biết, và những thứ đó là các ý tưởng lớn trong mọi ngành. Chỉ biết một điều đủ để một lần nói trơn tru mà được điểm A trong kỳ thi thì chẳng giúp được bao nhiêu. Phải học nhiều thứ theo cách sao cho chúng nằm trong một mạng lưới tư duy trong đầu, và tự động dùng chúng suốt phần đời còn lại. Munger trang trọng hứa: nếu nhiều tân khoa thử làm như vậy, một ngày nào đó phần lớn sẽ có lý do chính đáng để nghĩ "Không hiểu sao tôi đã trở thành một trong những người hiệu quả nhất trong cả lứa tuổi mình". Ngược lại, nếu không nỗ lực theo hướng đa ngành, nhiều người sáng dạ nhất trong số những ai chọn con đường đó sẽ chỉ sống ở tầng giữa, hoặc ở chỗ nước nông.
+Nhưng nếu khái quát hoá ý của Cicero, như Munger cho là nên làm, thì ngoài lịch sử còn nhiều thứ khác phải biết, và những thứ đó là các ý tưởng lớn trong mọi ngành. Chỉ biết một điều đủ để một lần nói trơn tru mà được điểm A trong kỳ thi thì chẳng giúp được bao nhiêu. Phải học nhiều thứ theo cách sao cho chúng nằm trong một mạng lưới tư duy trong đầu, và tự động dùng chúng suốt phần đời còn lại.
 
-**Hộp bên lề của người biên tập: "Cicero, the Greatest Lawyer of Antiquity" (Cicero, luật sư lớn nhất thời cổ đại), trang in 427.** Marcus Tullius Cicero (106–43 trước Công nguyên) sống qua giai đoạn suy tàn và sụp đổ của Cộng hoà La Mã và có vai trò quan trọng trong nhiều sự kiện chính trị lớn thời ông. Ngoài là nhà hùng biện, chính khách và triết gia, Cicero trước hết là một luật sư rất coi trọng bài học của lịch sử. Ông nói: lịch sử là nhân chứng làm chứng cho sự trôi qua của thời gian; nó soi sáng thực tại, làm sống động ký ức, chỉ đường cho đời sống hằng ngày và mang tới cho ta tin tức về thời xưa. "Không biết những gì đã xảy ra trước khi mình ra đời là mãi mãi làm một đứa trẻ. Vì đời một con người là gì, nếu ký ức về các sự kiện đã qua không được dệt cùng ký ức của những thời trước đó?" Kèm theo là bức tranh *Cicero phát hiện mộ Archimedes* của Martin Knoller (1775), thuộc một sưu tập tư nhân ở Mannheim, Đức.
+Munger trang trọng hứa: nếu nhiều tân khoa thử làm như vậy, một ngày nào đó phần lớn sẽ có lý do chính đáng để nghĩ "Không hiểu sao tôi đã trở thành một trong những người hiệu quả nhất trong cả lứa tuổi mình". Ngược lại, nếu không nỗ lực theo hướng đa ngành, nhiều người sáng dạ nhất trong số những ai chọn con đường đó sẽ chỉ sống ở tầng giữa, hoặc ở chỗ nước nông.
+
+**Hộp bên lề của người biên tập: "Cicero, the Greatest Lawyer of Antiquity" (Cicero, luật sư lớn nhất thời cổ đại), trang in 427.** Marcus Tullius Cicero (106–43 trước Công nguyên) sống qua giai đoạn suy tàn và sụp đổ của Cộng hoà La Mã và có vai trò quan trọng trong nhiều sự kiện chính trị lớn thời ông. Ngoài là nhà hùng biện, chính khách và triết gia, Cicero trước hết là một luật sư rất coi trọng bài học của lịch sử.
+
+Ông nói: lịch sử là nhân chứng làm chứng cho sự trôi qua của thời gian; nó soi sáng thực tại, làm sống động ký ức, chỉ đường cho đời sống hằng ngày và mang tới cho ta tin tức về thời xưa. "Không biết những gì đã xảy ra trước khi mình ra đời là mãi mãi làm một đứa trẻ. Vì đời một con người là gì, nếu ký ức về các sự kiện đã qua không được dệt cùng ký ức của những thời trước đó?" Kèm theo là bức tranh *Cicero phát hiện mộ Archimedes* của Martin Knoller (1775), thuộc một sưu tập tư nhân ở Mannheim, Đức.
 
 ### 8. Ý thứ sáu: tư duy đảo ngược (trang in 428–429)
 
@@ -1283,15 +1321,23 @@ Ví dụ, nếu muốn giúp Ấn Độ, câu hỏi nên đặt ra không phải
 
 Munger nói ông sẽ dùng một chút tư duy đảo ngược ngay bây giờ: điều gì sẽ thật sự thất bại trong đời? Ta muốn tránh điều gì? Có những câu trả lời dễ. Chẳng hạn, lười biếng và không đáng tin cậy sẽ thất bại. Nếu bạn không đáng tin cậy, bạn có đức tính gì cũng chẳng quan trọng, bạn sẽ sụp ngay lập tức. Vì vậy, trung thành làm điều mình đã cam kết phải trở thành một phần tự động trong cách cư xử. Dĩ nhiên phải tránh lười biếng và không đáng tin cậy.
 
-Một thứ khác phải tránh là ý thức hệ cực kỳ mãnh liệt, vì nó làm đầu óc người ta "hoá bắp cải". Người ta thấy điều này nhiều ở những nhà truyền giáo truyền hình tệ nhất: họ có những ý tưởng thần học chuyên biệt khác nhau, cực đoan, mâu thuẫn nhau, và nhiều người trong số họ có đầu óc bị biến thành bắp cải (khán giả cười). Điều đó cũng có thể xảy ra với ý thức hệ chính trị. Khi còn trẻ, người ta đặc biệt dễ trôi vào một ý thức hệ chính trị cực đoan và dại dột rồi không bao giờ thoát ra được. Khi bạn tuyên bố mình là thành viên trung thành của một nhóm kiểu giáo phái và bắt đầu hô to hệ tư tưởng chính thống, điều bạn đang làm là nện nó vào đầu mình, nện mãi, nện mãi. Bạn đang huỷ hoại đầu óc mình, có khi với tốc độ đáng kinh ngạc. Vì vậy hãy rất cẩn thận với ý thức hệ cực đoan; nó là mối nguy lớn cho bộ óc duy nhất mà bạn sẽ có.
+Một thứ khác phải tránh là ý thức hệ cực kỳ mãnh liệt, vì nó làm đầu óc người ta "hoá bắp cải". Người ta thấy điều này nhiều ở những nhà truyền giáo truyền hình tệ nhất: họ có những ý tưởng thần học chuyên biệt khác nhau, cực đoan, mâu thuẫn nhau, và nhiều người trong số họ có đầu óc bị biến thành bắp cải (khán giả cười). Điều đó cũng có thể xảy ra với ý thức hệ chính trị. Khi còn trẻ, người ta đặc biệt dễ trôi vào một ý thức hệ chính trị cực đoan và dại dột rồi không bao giờ thoát ra được.
+
+Khi bạn tuyên bố mình là thành viên trung thành của một nhóm kiểu giáo phái và bắt đầu hô to hệ tư tưởng chính thống, điều bạn đang làm là nện nó vào đầu mình, nện mãi, nện mãi. Bạn đang huỷ hoại đầu óc mình, có khi với tốc độ đáng kinh ngạc. Vì vậy hãy rất cẩn thận với ý thức hệ cực đoan; nó là mối nguy lớn cho bộ óc duy nhất mà bạn sẽ có.
 
 Munger có một ví dụ cảnh báo, dùng mỗi khi ông thấy mình bị đe doạ bởi xu hướng trôi về ý thức hệ chính trị cực đoan. Một nhóm người chèo xuồng Scandinavia đã vượt thành công mọi ghềnh thác ở Scandinavia, và họ nghĩ sẽ tiếp tục thành công khi thử thách những xoáy nước lớn ở vùng tây bắc nước Mỹ. Tỷ lệ tử vong là một trăm phần trăm. Xoáy nước lớn là thứ phải tránh. Munger nghĩ ý thức hệ cực đoan cũng vậy, nhất là khi bạn đồng hành của mình đều là những người tin tuyệt đối.
 
-Munger có một thứ ông gọi là "đơn thuốc sắt", giúp ông giữ đầu óc tỉnh táo khi thấy mình trôi về phía ưa một ý thức hệ cực đoan hơn một ý thức hệ khác. Ông cho rằng mình không có quyền có ý kiến nếu chưa thể trình bày các lập luận chống lại quan điểm của mình hay hơn chính những người phản đối nó. Chỉ khi đạt tới trạng thái đó, ông mới thấy mình đủ tư cách lên tiếng. Ông thừa nhận nghe điều này gần như khắc nghiệt bằng "đơn thuốc sắt" mà Dean Acheson (ngoại trưởng Mỹ thời Truman, theo hiểu biết của người tổng hợp) hay gán cho William Lặng lẽ (William the Silent) xứ Orange, người đại ý nói: "Không cần phải hy vọng mới kiên trì được." Câu đó có lẽ quá khắc nghiệt với đa số người, dù Munger mong nó sẽ không bao giờ trở nên quá khắc nghiệt với ông. Cách của ông để tránh sự cực đoan trong ý thức hệ dễ hơn lời răn của Acheson và đáng học. Việc không trôi vào ý thức hệ cực đoan là điều rất, rất quan trọng trong đời: nếu muốn cuối cùng trở nên khôn ngoan, ý thức hệ nặng nề rất có thể sẽ ngăn kết cục đó.
+Munger có một thứ ông gọi là "đơn thuốc sắt", giúp ông giữ đầu óc tỉnh táo khi thấy mình trôi về phía ưa một ý thức hệ cực đoan hơn một ý thức hệ khác. Ông cho rằng mình không có quyền có ý kiến nếu chưa thể trình bày các lập luận chống lại quan điểm của mình hay hơn chính những người phản đối nó. Chỉ khi đạt tới trạng thái đó, ông mới thấy mình đủ tư cách lên tiếng.
+
+Ông thừa nhận nghe điều này gần như khắc nghiệt bằng "đơn thuốc sắt" mà Dean Acheson (ngoại trưởng Mỹ thời Truman, theo hiểu biết của người tổng hợp) hay gán cho William Lặng lẽ (William the Silent) xứ Orange, người đại ý nói: "Không cần phải hy vọng mới kiên trì được." Câu đó có lẽ quá khắc nghiệt với đa số người, dù Munger mong nó sẽ không bao giờ trở nên quá khắc nghiệt với ông. Cách của ông để tránh sự cực đoan trong ý thức hệ dễ hơn lời răn của Acheson và đáng học.
+
+Việc không trôi vào ý thức hệ cực đoan là điều rất, rất quan trọng trong đời: nếu muốn cuối cùng trở nên khôn ngoan, ý thức hệ nặng nề rất có thể sẽ ngăn kết cục đó.
 
 **Hộp bên lề của người biên tập: "Minds Reduced to Cabbage" (Những bộ óc bị biến thành bắp cải), trang in 429.** Ảnh một áp phích tuyên truyền thời Xô Viết với khẩu hiệu: "Muôn năm các đội viên thiếu niên tiền phong, những người kế tục xứng đáng của Đoàn Thanh niên Cộng sản Lenin–Stalin (Komsomol)!"
 
-**Hộp bên lề của người biên tập: "The Iron Prescription a la Darwin" (Đơn thuốc sắt kiểu Darwin), trang in 430.** Darwin hình thành các lý thuyết về sự biến đổi của loài vào cuối thập niên 1830, nhưng tới năm 1859 ông mới công bố tác phẩm nền tảng *Nguồn gốc các loài bằng con đường chọn lọc tự nhiên* (*On the Origin of Species by Means of Natural Selection*). Darwin biết rằng bất kỳ lý thuyết khoa học nào đưa ra cách giải thích khác về nguồn gốc loài người cũng sẽ gặp định kiến rộng khắp, nên sự thận trọng buộc ông phải nắm vững mọi phản biện có thể có trước khi công bố. Vì vậy, ông dành hai mươi năm tỉ mỉ vun đắp lý thuyết và chuẩn bị bảo vệ nó. Người biên tập đặt hộp này cạnh "đơn thuốc sắt" của Munger vì Darwin làm đúng điều Munger đòi hỏi: hiểu lập luận phản đối kỹ hơn chính người phản đối.
+**Hộp bên lề của người biên tập: "The Iron Prescription a la Darwin" (Đơn thuốc sắt kiểu Darwin), trang in 430.** Darwin hình thành các lý thuyết về sự biến đổi của loài vào cuối thập niên 1830, nhưng tới năm 1859 ông mới công bố tác phẩm nền tảng *Nguồn gốc các loài bằng con đường chọn lọc tự nhiên* (*On the Origin of Species by Means of Natural Selection*).
+
+Darwin biết rằng bất kỳ lý thuyết khoa học nào đưa ra cách giải thích khác về nguồn gốc loài người cũng sẽ gặp định kiến rộng khắp, nên sự thận trọng buộc ông phải nắm vững mọi phản biện có thể có trước khi công bố. Vì vậy, ông dành hai mươi năm tỉ mỉ vun đắp lý thuyết và chuẩn bị bảo vệ nó. Người biên tập đặt hộp này cạnh "đơn thuốc sắt" của Munger vì Darwin làm đúng điều Munger đòi hỏi: hiểu lập luận phản đối kỹ hơn chính người phản đối.
 
 ### 10. Ý thứ tám: thiên lệch tự phục vụ của bản thân, và đố kỵ, oán giận, trả thù, tự thương hại (trang in 431)
 
@@ -1299,9 +1345,13 @@ Một thứ khác thường gây dại dột và đổ vỡ là "thiên lệch t
 
 Nói chung, đố kỵ, oán giận, trả thù và tự thương hại là những lối nghĩ tai hại. Tự thương hại có thể tiến khá gần tới hoang tưởng bị hại, và hoang tưởng bị hại là một trong những thứ khó đảo ngược nhất. Đừng để mình trôi vào tự thương hại.
 
-Munger có một người bạn luôn mang theo một xấp dày thẻ làm bằng giấy lanh. Khi ai đó nói một câu thể hiện sự tự thương hại, ông chậm rãi và trang trọng rút xấp thẻ lớn ra, lấy tấm trên cùng đưa cho người đó. Tấm thẻ ghi: "Câu chuyện của anh đã chạm tới trái tim tôi. Tôi chưa từng nghe ai gặp nhiều bất hạnh như anh." Munger nói có thể coi đó là trò đùa, nhưng ông cho rằng nó có thể là một cách giữ vệ sinh tinh thần. Mỗi khi thấy mình đang trôi vào tự thương hại, dù vì lý do gì, kể cả khi con mình đang chết vì ung thư, tự thương hại cũng sẽ không giúp được gì. Hãy tự đưa cho mình một tấm thẻ của người bạn ấy. Tự thương hại luôn phản tác dụng; đó là cách nghĩ sai. Khi tránh được nó, bạn có một lợi thế lớn so với mọi người, hoặc gần như mọi người, vì tự thương hại là phản ứng thông thường. Và bạn có thể tự rèn để thoát khỏi nó.
+Munger có một người bạn luôn mang theo một xấp dày thẻ làm bằng giấy lanh. Khi ai đó nói một câu thể hiện sự tự thương hại, ông chậm rãi và trang trọng rút xấp thẻ lớn ra, lấy tấm trên cùng đưa cho người đó. Tấm thẻ ghi: "Câu chuyện của anh đã chạm tới trái tim tôi. Tôi chưa từng nghe ai gặp nhiều bất hạnh như anh."
 
-**Hộp bên lề của người biên tập: "Mozart—Spendthrift?" (Mozart có phải người tiêu hoang?), trang in 431.** Hình ảnh Mozart là một nhà soạn nhạc nghèo khó chủ yếu đến từ một loạt thư ông viết từ năm 1788 tới 1791 cho người anh em trong hội Tam Điểm là Michael Puchberg, để hỏi vay tiền. Có bằng chứng khác cho thấy thu nhập của Mozart, tuy dao động đáng kể, lại cao bất thường đối với một nhạc sĩ, có những năm đưa ông vào nhóm 10% người có thu nhập cao nhất Vienna. Mặt khác, hai nhà kinh tế William và Hilda Baumol tính rằng thu nhập của Mozart trong mười năm cuối đời ở mức trung lưu, khoảng 3.000–4.000 florin mỗi năm (khoảng 30.000–40.000 USD theo giá năm 1990). Vậy tiền của Mozart đi đâu? Vợ ông, Constanze, ốm yếu, phải thường xuyên đi chữa bệnh ở các suối khoáng mà chỉ người giàu mới dùng. Trong những lúc túng thiếu, vợ chồng Mozart vẫn sống theo nếp quen, nên tự gây cho mình khó khăn về dòng tiền. Tình hình tệ hơn vì họ không để dành được đồng nào trong những lúc dư dả, và vì năm 1791 có một bản án bất lợi cho Mozart trong vụ kiện do Hoàng thân Karl Lichnowsky đưa ra. Một số học giả còn dẫn bằng chứng rằng Mozart đánh bạc bằng bi-a và bài.
+Munger nói có thể coi đó là trò đùa, nhưng ông cho rằng nó có thể là một cách giữ vệ sinh tinh thần. Mỗi khi thấy mình đang trôi vào tự thương hại, dù vì lý do gì, kể cả khi con mình đang chết vì ung thư, tự thương hại cũng sẽ không giúp được gì. Hãy tự đưa cho mình một tấm thẻ của người bạn ấy. Tự thương hại luôn phản tác dụng; đó là cách nghĩ sai. Khi tránh được nó, bạn có một lợi thế lớn so với mọi người, hoặc gần như mọi người, vì tự thương hại là phản ứng thông thường. Và bạn có thể tự rèn để thoát khỏi nó.
+
+**Hộp bên lề của người biên tập: "Mozart—Spendthrift?" (Mozart có phải người tiêu hoang?), trang in 431.** Hình ảnh Mozart là một nhà soạn nhạc nghèo khó chủ yếu đến từ một loạt thư ông viết từ năm 1788 tới 1791 cho người anh em trong hội Tam Điểm là Michael Puchberg, để hỏi vay tiền. Có bằng chứng khác cho thấy thu nhập của Mozart, tuy dao động đáng kể, lại cao bất thường đối với một nhạc sĩ, có những năm đưa ông vào nhóm 10% người có thu nhập cao nhất Vienna. Mặt khác, hai nhà kinh tế William và Hilda Baumol tính rằng thu nhập của Mozart trong mười năm cuối đời ở mức trung lưu, khoảng 3.000–4.000 florin mỗi năm (khoảng 30.000–40.000 USD theo giá năm 1990).
+
+Vậy tiền của Mozart đi đâu? Vợ ông, Constanze, ốm yếu, phải thường xuyên đi chữa bệnh ở các suối khoáng mà chỉ người giàu mới dùng. Trong những lúc túng thiếu, vợ chồng Mozart vẫn sống theo nếp quen, nên tự gây cho mình khó khăn về dòng tiền. Tình hình tệ hơn vì họ không để dành được đồng nào trong những lúc dư dả, và vì năm 1791 có một bản án bất lợi cho Mozart trong vụ kiện do Hoàng thân Karl Lichnowsky đưa ra. Một số học giả còn dẫn bằng chứng rằng Mozart đánh bạc bằng bi-a và bài.
 
 | Nguồn tin về thu nhập của Mozart (theo hộp bên lề) | Kết luận |
 |---|---|
@@ -1313,7 +1363,9 @@ Munger có một người bạn luôn mang theo một xấp dày thẻ làm bằ
 
 Dĩ nhiên phải loại thiên lệch tự phục vụ ra khỏi các thói quen tư duy của mình. Nghĩ rằng điều tốt cho mình là tốt cho cả xã hội rộng lớn, và hợp lý hoá hành vi dại dột hay xấu xa dựa trên khuynh hướng vô thức phục vụ bản thân, là một cách nghĩ tồi tệ. Phải loại nó ra khỏi mình, vì mình muốn khôn chứ không dại, tốt chứ không xấu. Đồng thời, trong cách nghĩ và cách hành xử của mình, phải tính tới thiên lệch tự phục vụ của mọi người khác, vì phần lớn người ta sẽ không thành công lắm trong việc loại bỏ nó, bản chất con người là vậy. Nếu không tính tới thiên lệch tự phục vụ trong hành vi của người khác, thì, một lần nữa, bạn là kẻ ngốc.
 
-Munger kể ông đã chứng kiến luật sư trưởng của Salomon Brothers, một người xuất sắc, đáng kính, từng được rèn luyện ở tạp chí Harvard Law Review, mất sự nghiệp của mình ở đó. Khi vị CEO có năng lực được báo rằng một nhân viên cấp dưới đã làm sai, luật sư trưởng nói: "Chúng ta không có nghĩa vụ pháp lý phải báo cáo việc này, nhưng tôi nghĩ đó là việc ta nên làm. Đó là bổn phận đạo đức của chúng ta." Luật sư trưởng đúng cả về chuyên môn lẫn đạo đức. Nhưng cách tiếp cận của ông không thuyết phục được. Ông đề nghị vị CEO bận rộn làm một việc rất khó chịu, và CEO, cũng dễ hiểu, cứ hoãn đi hoãn lại, không hề có ý làm điều sai. Tới lúc các cơ quan quản lý quyền lực bực bội vì không được báo kịp thời, vị CEO mất chức, và luật sư trưởng mất chức theo.
+Munger kể ông đã chứng kiến luật sư trưởng của Salomon Brothers, một người xuất sắc, đáng kính, từng được rèn luyện ở tạp chí Harvard Law Review, mất sự nghiệp của mình ở đó. Khi vị CEO có năng lực được báo rằng một nhân viên cấp dưới đã làm sai, luật sư trưởng nói: "Chúng ta không có nghĩa vụ pháp lý phải báo cáo việc này, nhưng tôi nghĩ đó là việc ta nên làm. Đó là bổn phận đạo đức của chúng ta."
+
+Luật sư trưởng đúng cả về chuyên môn lẫn đạo đức. Nhưng cách tiếp cận của ông không thuyết phục được. Ông đề nghị vị CEO bận rộn làm một việc rất khó chịu, và CEO, cũng dễ hiểu, cứ hoãn đi hoãn lại, không hề có ý làm điều sai. Tới lúc các cơ quan quản lý quyền lực bực bội vì không được báo kịp thời, vị CEO mất chức, và luật sư trưởng mất chức theo.
 
 Kỹ thuật thuyết phục đúng trong những tình huống như vậy đã được Ben Franklin đưa ra: "Nếu muốn thuyết phục, hãy khơi gợi lợi ích, đừng khơi gợi lý lẽ." Thiên lệch tự phục vụ của con người rất mạnh và lẽ ra phải được dùng để đạt kết quả đúng. Vì vậy, lẽ ra luật sư trưởng nên nói: "Xem này, chuyện này rất có thể bùng thành một việc huỷ hoại ông, lấy đi tiền của ông, lấy đi địa vị của ông, làm tổn hại nặng nề danh tiếng của ông. Đề nghị của tôi sẽ ngăn một thảm hoạ có thể xảy ra mà ông sẽ không gượng dậy được." Cách đó hẳn đã có tác dụng. Munger kết luận: nên thường xuyên khơi gợi lợi ích chứ không phải lý lẽ, ngay cả khi động cơ của mình cao thượng.
 
@@ -1327,7 +1379,9 @@ Kỹ thuật thuyết phục đúng trong những tình huống như vậy đã 
 
 ### 12. Ý thứ mười: tránh động cơ khuyến khích lệch lạc và tránh làm việc dưới quyền người mình không ngưỡng mộ (trang in 433–434)
 
-Một thứ khác phải tránh là bị đặt dưới các động cơ khuyến khích lệch lạc. Đừng ở trong một hệ thống động cơ khuyến khích lệch lạc, thứ thưởng cho bạn khi bạn cư xử ngày càng dại dột hơn, hoặc ngày càng tồi tệ hơn. Động cơ khuyến khích lệch lạc chi phối nhận thức và hành vi con người mạnh tới mức nên tránh ảnh hưởng của chúng. Một trong những thứ các tân khoa sẽ gặp ở ít nhất vài hãng luật hiện đại là chỉ tiêu giờ tính phí cao. Munger nói ông không thể sống dưới chỉ tiêu 2.400 giờ tính phí mỗi năm; điều đó sẽ gây quá nhiều vấn đề cho ông, và ông sẽ không làm. Ông không có lời giải cho tình huống mà một số người trong số họ sẽ đối mặt; họ sẽ phải tự tìm cách xử lý những vấn đề lớn như vậy.
+Một thứ khác phải tránh là bị đặt dưới các động cơ khuyến khích lệch lạc. Đừng ở trong một hệ thống động cơ khuyến khích lệch lạc, thứ thưởng cho bạn khi bạn cư xử ngày càng dại dột hơn, hoặc ngày càng tồi tệ hơn. Động cơ khuyến khích lệch lạc chi phối nhận thức và hành vi con người mạnh tới mức nên tránh ảnh hưởng của chúng.
+
+Một trong những thứ các tân khoa sẽ gặp ở ít nhất vài hãng luật hiện đại là chỉ tiêu giờ tính phí cao. Munger nói ông không thể sống dưới chỉ tiêu 2.400 giờ tính phí mỗi năm; điều đó sẽ gây quá nhiều vấn đề cho ông, và ông sẽ không làm. Ông không có lời giải cho tình huống mà một số người trong số họ sẽ đối mặt; họ sẽ phải tự tìm cách xử lý những vấn đề lớn như vậy.
 
 | Chỉ tiêu 2.400 giờ tính phí/năm (phép chia của người tổng hợp) | Số giờ tính phí cần đạt |
 |---|---|
@@ -1337,7 +1391,9 @@ Một thứ khác phải tránh là bị đặt dưới các động cơ khuyế
 
 (Giờ tính phí là giờ được ghi vào hoá đơn gửi khách; thời gian thực ở văn phòng thường dài hơn, vì có việc không tính phí được.)
 
-Những quan hệ lệch lạc cũng phải tránh. Đặc biệt, hãy tránh làm việc trực tiếp dưới quyền một người mà mình không ngưỡng mộ và không muốn giống. Điều đó nguy hiểm. Tất cả chúng ta đều bị những người có quyền chi phối ở một mức nào đó, nhất là những người có quyền đang thưởng cho mình. Đối phó đúng với mối nguy này đòi hỏi cả tài năng lẫn ý chí. Thời của mình, Munger xoay xở bằng cách xác định những người ông ngưỡng mộ và khéo léo sắp xếp, phần lớn không phải chỉ trích ai, để thường được làm việc dưới quyền đúng loại người. Nhiều hãng luật sẽ cho phép điều đó nếu bạn đủ khôn khéo để thu xếp một cách tế nhị. Nói chung, kết cục đời bạn sẽ mãn nguyện hơn nếu bạn làm việc dưới quyền những người mà bạn ngưỡng mộ một cách đúng đắn.
+Những quan hệ lệch lạc cũng phải tránh. Đặc biệt, hãy tránh làm việc trực tiếp dưới quyền một người mà mình không ngưỡng mộ và không muốn giống. Điều đó nguy hiểm. Tất cả chúng ta đều bị những người có quyền chi phối ở một mức nào đó, nhất là những người có quyền đang thưởng cho mình. Đối phó đúng với mối nguy này đòi hỏi cả tài năng lẫn ý chí.
+
+Thời của mình, Munger xoay xở bằng cách xác định những người ông ngưỡng mộ và khéo léo sắp xếp, phần lớn không phải chỉ trích ai, để thường được làm việc dưới quyền đúng loại người. Nhiều hãng luật sẽ cho phép điều đó nếu bạn đủ khôn khéo để thu xếp một cách tế nhị. Nói chung, kết cục đời bạn sẽ mãn nguyện hơn nếu bạn làm việc dưới quyền những người mà bạn ngưỡng mộ một cách đúng đắn.
 
 **Hộp bên lề của người biên tập: "Declining a Perverse Association" (Từ chối một quan hệ lệch lạc), trang in 433.** Trong phim kinh điển *It's a Wonderful Life* (1946) của Frank Capra, George Bailey (Jimmy Stewart) nói với ông chủ ngân hàng nhẫn tâm Henry F. Potter (Lionel Barrymore) rằng, dù đã nhận điếu xì gà được mời, anh sẽ không nhận lời mời làm việc: "Tôi không cần hai mươi bốn giờ. Tôi không cần hỏi ý ai cả. Tôi biết ngay bây giờ, và câu trả lời là không! Không! Mặc kệ!"
 
@@ -1358,13 +1414,21 @@ Munger cho rằng cuộc chơi cạnh tranh trong đời thường đòi hỏi t
 | Nhóm giỏi nhất | 7 | Chơi gần như toàn bộ các trận, nên học được nhiều nhất |
 | Nhóm kém nhất | 5 | Bạn tập, không được ra sân |
 
-**Hộp bên lề của người biên tập: "Nonegalitarianism a la John Wooden" (Sự không bình quân kiểu John Wooden), trang in 434.** Andy Hill là hậu vệ nổi bật của trường University High School ở Los Angeles năm 1968. Năm cuối cấp, anh ghi trung bình 27 điểm mỗi trận và được nhiều chương trình bóng rổ hàng đầu cả nước săn đón. Anh chọn UCLA và có một năm phi thường ở đội sinh viên năm nhất: trung bình 19 điểm và 8 lần kiến tạo mỗi trận, giành danh hiệu cầu thủ xuất sắc nhất đội, chia với Henry Bibby. Nhưng "câu chuyện Lọ Lem" của Andy ở UCLA kết thúc ngay sau đó. Đội chính vừa giành chức vô địch quốc gia thứ sáu trong bảy năm, và Hill sớm nhận ra trình độ chơi ở đội một của Wooden vượt quá tầm mình. Cùng các cầu thủ dự bị khác ngồi ghế suốt thời chơi ở đội chính, Hill hiểu rất rõ bản chất không bình quân của môn thể thao này theo cách Wooden làm. Trong cuốn sách dễ đọc *Be Quick—But Don't Hurry!* (Nhanh lên, nhưng đừng vội!; tiêu đề phụ: tìm thành công trong những lời dạy của cả một đời), viết cùng John Wooden, Hill kể lại cả nỗi đau thời kỳ đó, việc cuối cùng ông làm hoà với Wooden, và những bài học đời quý giá có được từ trải nghiệm ấy.
+**Hộp bên lề của người biên tập: "Nonegalitarianism a la John Wooden" (Sự không bình quân kiểu John Wooden), trang in 434.** Andy Hill là hậu vệ nổi bật của trường University High School ở Los Angeles năm 1968. Năm cuối cấp, anh ghi trung bình 27 điểm mỗi trận và được nhiều chương trình bóng rổ hàng đầu cả nước săn đón. Anh chọn UCLA và có một năm phi thường ở đội sinh viên năm nhất: trung bình 19 điểm và 8 lần kiến tạo mỗi trận, giành danh hiệu cầu thủ xuất sắc nhất đội, chia với Henry Bibby.
+
+Nhưng "câu chuyện Lọ Lem" của Andy ở UCLA kết thúc ngay sau đó. Đội chính vừa giành chức vô địch quốc gia thứ sáu trong bảy năm, và Hill sớm nhận ra trình độ chơi ở đội một của Wooden vượt quá tầm mình. Cùng các cầu thủ dự bị khác ngồi ghế suốt thời chơi ở đội chính, Hill hiểu rất rõ bản chất không bình quân của môn thể thao này theo cách Wooden làm.
+
+Trong cuốn sách dễ đọc *Be Quick—But Don't Hurry!* (Nhanh lên, nhưng đừng vội!; tiêu đề phụ: tìm thành công trong những lời dạy của cả một đời), viết cùng John Wooden, Hill kể lại cả nỗi đau thời kỳ đó, việc cuối cùng ông làm hoà với Wooden, và những bài học đời quý giá có được từ trải nghiệm ấy.
 
 ### 15. Ý thứ mười bốn: kiến thức Planck và kiến thức tài xế (trang in 435–436)
 
-Munger nói ông hay kể câu chuyện bịa về Max Planck: sau khi được giải Nobel, Planck đi khắp nước Đức giảng cùng một bài chuẩn về cơ học lượng tử mới. Lâu dần, tài xế của ông thuộc lòng bài giảng và nói: "Thưa giáo sư Planck, cứ lặp lại mãi thế này chán quá, ông có phiền không nếu tôi giảng ở Munich, còn ông chỉ ngồi hàng đầu, đội mũ tài xế của tôi?" Planck đáp: "Sao lại không?" Thế là người tài xế đứng lên giảng bài dài về cơ học lượng tử. Sau đó một giáo sư vật lý đứng dậy hỏi một câu cực kỳ hóc búa. Người giảng nói: "Tôi ngạc nhiên là ở một thành phố tiên tiến như Munich mà tôi lại nhận được một câu hỏi sơ đẳng như vậy. Tôi sẽ nhờ tài xế của tôi trả lời." (Khán giả cười.)
+Munger nói ông hay kể câu chuyện bịa về Max Planck: sau khi được giải Nobel, Planck đi khắp nước Đức giảng cùng một bài chuẩn về cơ học lượng tử mới. Lâu dần, tài xế của ông thuộc lòng bài giảng và nói: "Thưa giáo sư Planck, cứ lặp lại mãi thế này chán quá, ông có phiền không nếu tôi giảng ở Munich, còn ông chỉ ngồi hàng đầu, đội mũ tài xế của tôi?" Planck đáp: "Sao lại không?"
 
-Munger nói ông kể chuyện này không phải để ca ngợi sự nhanh trí của nhân vật chính. Theo ông, trên đời có hai loại kiến thức. Một là kiến thức Planck, của những người thật sự hiểu: họ đã trả giá bằng công sức, họ có năng khiếu. Hai là kiến thức tài xế: những người đã học được cách nói trơn tru các lời có sẵn. Họ có thể có mái tóc dày đẹp, giọng nói hay, và gây ấn tượng mạnh. Nhưng rốt cuộc thứ họ có là kiến thức tài xế đội lốt kiến thức thật. Munger đùa rằng ông vừa mô tả gần như mọi chính khách ở Mỹ (khán giả vỗ tay). Trong đời mình, các tân khoa sẽ gặp bài toán trao càng nhiều trách nhiệm càng tốt cho những người có kiến thức Planck và rút trách nhiệm khỏi những người có kiến thức tài xế. Và có những lực rất lớn chống lại họ.
+Thế là người tài xế đứng lên giảng bài dài về cơ học lượng tử. Sau đó một giáo sư vật lý đứng dậy hỏi một câu cực kỳ hóc búa. Người giảng nói: "Tôi ngạc nhiên là ở một thành phố tiên tiến như Munich mà tôi lại nhận được một câu hỏi sơ đẳng như vậy. Tôi sẽ nhờ tài xế của tôi trả lời." (Khán giả cười.)
+
+Munger nói ông kể chuyện này không phải để ca ngợi sự nhanh trí của nhân vật chính. Theo ông, trên đời có hai loại kiến thức. Một là kiến thức Planck, của những người thật sự hiểu: họ đã trả giá bằng công sức, họ có năng khiếu. Hai là kiến thức tài xế: những người đã học được cách nói trơn tru các lời có sẵn. Họ có thể có mái tóc dày đẹp, giọng nói hay, và gây ấn tượng mạnh. Nhưng rốt cuộc thứ họ có là kiến thức tài xế đội lốt kiến thức thật.
+
+Munger đùa rằng ông vừa mô tả gần như mọi chính khách ở Mỹ (khán giả vỗ tay). Trong đời mình, các tân khoa sẽ gặp bài toán trao càng nhiều trách nhiệm càng tốt cho những người có kiến thức Planck và rút trách nhiệm khỏi những người có kiến thức tài xế. Và có những lực rất lớn chống lại họ.
 
 | | Kiến thức Planck | Kiến thức tài xế |
 |---|---|---|
@@ -1383,7 +1447,9 @@ Munger nói thế hệ của ông đã phần nào làm thế hệ trẻ thất 
 
 Munger nhận thấy rằng hứng thú mãnh liệt với một lĩnh vực là điều không thể thiếu nếu thật sự muốn xuất sắc trong lĩnh vực đó. Ông có thể ép mình làm khá tốt nhiều việc, nhưng không thể xuất sắc ở bất cứ việc gì mà ông không hứng thú mãnh liệt. Vì vậy, ở một mức nào đó, các tân khoa sẽ phải làm như ông: nếu có thể được, hãy xoay xở để được làm một việc mà mình hứng thú mãnh liệt.
 
-Một điều khác phải có là thật nhiều sự cần mẫn bền bỉ. Munger thích chữ *assiduity* vì với ông nó có nghĩa là "ngồi lì xuống cho tới khi làm xong". Cả đời ông có những cộng sự tuyệt vời, đầy cần mẫn. Ông nghĩ mình có được họ một phần vì đã cố gắng xứng đáng với họ, một phần vì đủ khôn để chọn họ, và một phần nhờ chút may mắn. Hai cộng sự ông chọn cho một giai đoạn trong đời đã lập ra một thoả thuận đơn giản khi thành lập một nhóm nhỏ vừa thiết kế vừa thi công xây dựng giữa thời Đại Suy thoái: "Hợp danh hai người, chia đều mọi thứ. Và hễ chúng ta chậm so với những cam kết với người khác, cả hai sẽ làm 14 giờ mỗi ngày, 7 ngày mỗi tuần, cho tới khi theo kịp." Khỏi phải nói, hãng đó không thất bại, và hai cộng sự của ông được ngưỡng mộ rộng rãi. Những ý tưởng đơn giản, kiểu cũ như của họ gần như chắc chắn cho kết quả tốt.
+Một điều khác phải có là thật nhiều sự cần mẫn bền bỉ. Munger thích chữ *assiduity* vì với ông nó có nghĩa là "ngồi lì xuống cho tới khi làm xong". Cả đời ông có những cộng sự tuyệt vời, đầy cần mẫn. Ông nghĩ mình có được họ một phần vì đã cố gắng xứng đáng với họ, một phần vì đủ khôn để chọn họ, và một phần nhờ chút may mắn.
+
+Hai cộng sự ông chọn cho một giai đoạn trong đời đã lập ra một thoả thuận đơn giản khi thành lập một nhóm nhỏ vừa thiết kế vừa thi công xây dựng giữa thời Đại Suy thoái: "Hợp danh hai người, chia đều mọi thứ. Và hễ chúng ta chậm so với những cam kết với người khác, cả hai sẽ làm 14 giờ mỗi ngày, 7 ngày mỗi tuần, cho tới khi theo kịp." Khỏi phải nói, hãng đó không thất bại, và hai cộng sự của ông được ngưỡng mộ rộng rãi. Những ý tưởng đơn giản, kiểu cũ như của họ gần như chắc chắn cho kết quả tốt.
 
 ### 17. Ý thứ mười bảy: đối mặt với những đòn đau bất công theo thái độ của Epictetus (trang in 437–438)
 
@@ -1423,13 +1489,25 @@ Munger nói: các bạn có thể bảo "Ai muốn đi qua đời mình mà lúc
 
 ### 19. Ý cuối cùng và lời kết: một mạng lưới liền mạch gồm những người đáng tin cậy, tin nhau đúng chỗ (trang in 439)
 
-Ý cuối cùng Munger muốn trao cho các tân khoa, khi họ bước vào một nghề thường đưa nhiều thủ tục và một ít "bùa chú" vào công việc của mình, là: thủ tục quan liêu phức tạp không phải là hình thức cao nhất mà văn minh có thể đạt tới. Một hình thức cao hơn là một mạng lưới liền mạch, không quan liêu, của sự tin cậy xứng đáng. Không nhiều thủ tục cầu kỳ, chỉ có những con người hoàn toàn đáng tin cậy tin nhau một cách đúng đắn. Phòng mổ ở Mayo Clinic vận hành theo cách đó. Nếu luật sư đưa vào đó thật nhiều quy trình kiểu luật sư, sẽ có thêm bệnh nhân chết. Vì vậy, khi làm luật sư, đừng bao giờ quên rằng dù có thể bạn phải bán thủ tục, không phải lúc nào bạn cũng phải mua nó. Trong đời mình, điều bạn muốn tối đa hoá là một mạng lưới liền mạch của sự tin cậy xứng đáng. Và nếu bản hợp đồng hôn nhân dự kiến của bạn dài 47 trang, Munger khuyên bạn đừng bước vào (khán giả cười).
+Ý cuối cùng Munger muốn trao cho các tân khoa, khi họ bước vào một nghề thường đưa nhiều thủ tục và một ít "bùa chú" vào công việc của mình, là: thủ tục quan liêu phức tạp không phải là hình thức cao nhất mà văn minh có thể đạt tới. Một hình thức cao hơn là một mạng lưới liền mạch, không quan liêu, của sự tin cậy xứng đáng. Không nhiều thủ tục cầu kỳ, chỉ có những con người hoàn toàn đáng tin cậy tin nhau một cách đúng đắn. Phòng mổ ở Mayo Clinic vận hành theo cách đó. Nếu luật sư đưa vào đó thật nhiều quy trình kiểu luật sư, sẽ có thêm bệnh nhân chết.
+
+Vì vậy, khi làm luật sư, đừng bao giờ quên rằng dù có thể bạn phải bán thủ tục, không phải lúc nào bạn cũng phải mua nó. Trong đời mình, điều bạn muốn tối đa hoá là một mạng lưới liền mạch của sự tin cậy xứng đáng. Và nếu bản hợp đồng hôn nhân dự kiến của bạn dài 47 trang, Munger khuyên bạn đừng bước vào (khán giả cười).
 
 Munger khép lại: thế là đủ cho một buổi lễ tốt nghiệp. Ông mong những suy ngẫm của một ông già có ích cho họ. Rốt cuộc, ông đang nói về kết cục duy nhất khả dĩ cho nhân vật già Valiant-for-Truth (Dũng-cảm-vì-Chân-lý) trong *The Pilgrim's Progress*: "Thanh gươm của tôi, tôi để lại cho người có thể sử dụng nó." (Khán giả vỗ tay.)
 
-**Hộp bên lề của người biên tập: "My Sword I Leave to Him Who Can Wield It" (Thanh gươm tôi để lại cho người dùng được nó), trang in 439.** *The Pilgrim's Progress from This World to That Which Is to Come* (1678) của John Bunyan là một truyện ngụ ngôn được coi là một trong những tác phẩm quan trọng nhất của văn học Anh. Qua lời kể của một người nằm mơ, truyện theo chân hành trình của một người tên Christian qua một loạt địa danh ngụ ngôn: Vũng Lầy Tuyệt Vọng (Slough of Despond), Ngôi Nhà Đẹp (House Beautiful), Thung Lũng Nhục Nhã (Valley of Humiliation), Thung Lũng Bóng Tối Sự Chết (Valley of the Shadow of Death), Hội Chợ Phù Hoa (Vanity Fair), Lâu Đài Hoài Nghi (Doubting Castle), và tiếp tục tới Thành Phố Thiên Đàng (Celestial City) mà anh tìm kiếm. Valiant-for-Truth là một người hành hương mạnh mẽ, cầm gươm, một mình đánh đuổi ba kẻ tấn công và nhập đoàn của Christian ở cuối hành trình.
+**Hộp bên lề của người biên tập: "My Sword I Leave to Him Who Can Wield It" (Thanh gươm tôi để lại cho người dùng được nó), trang in 439.** *The Pilgrim's Progress from This World to That Which Is to Come* (1678) của John Bunyan là một truyện ngụ ngôn được coi là một trong những tác phẩm quan trọng nhất của văn học Anh. Qua lời kể của một người nằm mơ, truyện theo chân hành trình của một người tên Christian qua một loạt địa danh ngụ ngôn: Vũng Lầy Tuyệt Vọng (Slough of Despond), Ngôi Nhà Đẹp (House Beautiful), Thung Lũng Nhục Nhã (Valley of Humiliation), Thung Lũng Bóng Tối Sự Chết (Valley of the Shadow of Death), Hội Chợ Phù Hoa (Vanity Fair), Lâu Đài Hoài Nghi (Doubting Castle), và tiếp tục tới Thành Phố Thiên Đàng (Celestial City) mà anh tìm kiếm.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Chị Hà vừa tốt nghiệp luật và có hai lời mời. Hãng A trả lương khởi điểm 40 triệu đồng mỗi tháng nhưng đặt chỉ tiêu 2.400 giờ tính phí mỗi năm và tính thưởng theo số giờ ghi vào hoá đơn; luật sư thành viên chị sẽ làm dưới quyền nổi tiếng là hay "kéo dài" vụ việc. Hãng B trả 28 triệu đồng, chỉ tiêu 1.700 giờ, và chị sẽ làm dưới quyền một luật sư chị ngưỡng mộ từ thời đi thực tập. Áp **tư duy đảo ngược**, chị hỏi "điều gì sẽ làm hỏng mười năm đầu sự nghiệp của mình?" và thấy hai câu trả lời ở hãng A: một **động cơ khuyến khích lệch lạc** (thưởng cho việc ghi nhiều giờ chứ không cho việc giải quyết nhanh vấn đề của khách) và một **quan hệ lệch lạc** (làm dưới quyền người chị không muốn giống). Phần chênh 12 triệu đồng mỗi tháng (144 triệu mỗi năm) là cái giá chị trả cho việc được học từ người giỏi; chị chọn hãng B. Ở hãng B, chị theo **danh sách kiểm tra** khi rà hợp đồng và tự đặt thói quen đọc một giờ mỗi tối về kế toán, tâm lý học và ngành của khách hàng (**cỗ máy học**, **tư duy đa ngành**). Năm thứ ba, chị phát hiện một khách hàng doanh nghiệp đang chậm công bố một sai phạm nội bộ. Thay vì nói "đó là bổn phận đạo đức", chị trình bày cho tổng giám đốc rằng nếu cơ quan quản lý phát hiện trước, công ty có thể bị phạt nặng và chính ông có thể mất ghế (**thuyết phục bằng lợi ích, không bằng lý lẽ**); ông đồng ý công bố trong tuần. Khi một đồng nghiệp cấp cao bỏ sót một điểm thuế quan trọng, chị nêu nó dưới dạng câu hỏi trong buổi họp riêng, để người đó tự "phát hiện" (giấu bớt hiểu biết để không làm ai **mất mặt**). Chị tiêu khoảng 70% thu nhập và để dành phần còn lại thành quỹ dự phòng bằng 12 tháng chi tiêu (**thận trọng là người phục vụ bổn phận**); hai năm sau, khi hãng B tái cấu trúc, quỹ đó cho chị quyền từ chối một vị trí không phù hợp. Sau mười năm, phần lớn khách hàng của chị đến qua giới thiệu và ký thoả thuận dịch vụ ngắn gọn vì họ tin chị: đó là **mạng lưới tin cậy xứng đáng** mà Munger nói tới.
+Valiant-for-Truth là một người hành hương mạnh mẽ, cầm gươm, một mình đánh đuổi ba kẻ tấn công và nhập đoàn của Christian ở cuối hành trình.
+
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Chị Hà vừa tốt nghiệp luật và có hai lời mời. Hãng A trả lương khởi điểm 40 triệu đồng mỗi tháng nhưng đặt chỉ tiêu 2.400 giờ tính phí mỗi năm và tính thưởng theo số giờ ghi vào hoá đơn; luật sư thành viên chị sẽ làm dưới quyền nổi tiếng là hay "kéo dài" vụ việc. Hãng B trả 28 triệu đồng, chỉ tiêu 1.700 giờ, và chị sẽ làm dưới quyền một luật sư chị ngưỡng mộ từ thời đi thực tập.
+
+Áp **tư duy đảo ngược**, chị hỏi "điều gì sẽ làm hỏng mười năm đầu sự nghiệp của mình?" và thấy hai câu trả lời ở hãng A: một **động cơ khuyến khích lệch lạc** (thưởng cho việc ghi nhiều giờ chứ không cho việc giải quyết nhanh vấn đề của khách) và một **quan hệ lệch lạc** (làm dưới quyền người chị không muốn giống). Phần chênh 12 triệu đồng mỗi tháng (144 triệu mỗi năm) là cái giá chị trả cho việc được học từ người giỏi; chị chọn hãng B.
+
+Ở hãng B, chị theo **danh sách kiểm tra** khi rà hợp đồng và tự đặt thói quen đọc một giờ mỗi tối về kế toán, tâm lý học và ngành của khách hàng (**cỗ máy học**, **tư duy đa ngành**).
+
+Năm thứ ba, chị phát hiện một khách hàng doanh nghiệp đang chậm công bố một sai phạm nội bộ. Thay vì nói "đó là bổn phận đạo đức", chị trình bày cho tổng giám đốc rằng nếu cơ quan quản lý phát hiện trước, công ty có thể bị phạt nặng và chính ông có thể mất ghế (**thuyết phục bằng lợi ích, không bằng lý lẽ**); ông đồng ý công bố trong tuần. Khi một đồng nghiệp cấp cao bỏ sót một điểm thuế quan trọng, chị nêu nó dưới dạng câu hỏi trong buổi họp riêng, để người đó tự "phát hiện" (giấu bớt hiểu biết để không làm ai **mất mặt**).
+
+Chị tiêu khoảng 70% thu nhập và để dành phần còn lại thành quỹ dự phòng bằng 12 tháng chi tiêu (**thận trọng là người phục vụ bổn phận**); hai năm sau, khi hãng B tái cấu trúc, quỹ đó cho chị quyền từ chối một vị trí không phù hợp. Sau mười năm, phần lớn khách hàng của chị đến qua giới thiệu và ký thoả thuận dịch vụ ngắn gọn vì họ tin chị: đó là **mạng lưới tin cậy xứng đáng** mà Munger nói tới.
 
 ## Luận điểm cốt lõi
 
@@ -1602,27 +1680,215 @@ Một đời thành công và đáng trọng được xây bằng một số ngu
 
 ### Bài nói là bản tóm tắt gọn nhất triết lý sống của Munger, và nó đặt đạo đức trước kỹ thuật
 
-Trong các bài của Chương 4, đây là bài ít chuyên môn nhất nhưng có lẽ đầy đủ nhất về con người Munger. Các bài khác dạy cách nghĩ (mạng lưới mô hình tư duy, tâm lý học về phán đoán sai lầm) hoặc phê phán một ngành (kinh tế học hàn lâm, quỹ tài trợ); bài này đặt các công cụ đó vào trong một khung đạo đức. Ý đầu tiên không phải là "hãy học đa ngành" mà là "hãy xứng đáng"; ý cuối cùng không phải là "hãy giàu" mà là "hãy được tin cậy một cách xứng đáng". Ngay việc học cũng được gọi là "bổn phận đạo đức". Cách sắp xếp này cho thấy Munger không coi trí tuệ thế gian là mẹo kiếm tiền, mà là một phần của việc sống tốt; tiền bạc, theo ông, là hệ quả. Điểm mạnh nữa là bài luôn có ví dụ cụ thể, dễ nhớ (đám tang, tấm thẻ, tài xế của Planck, hợp đồng 47 trang), nên người nghe trẻ mang theo được.
+Trong các bài của Chương 4, đây là bài ít chuyên môn nhất nhưng có lẽ đầy đủ nhất về con người Munger. Các bài khác dạy cách nghĩ (mạng lưới mô hình tư duy, tâm lý học về phán đoán sai lầm) hoặc phê phán một ngành (kinh tế học hàn lâm, quỹ tài trợ); bài này đặt các công cụ đó vào trong một khung đạo đức. Ý đầu tiên không phải là "hãy học đa ngành" mà là "hãy xứng đáng"; ý cuối cùng không phải là "hãy giàu" mà là "hãy được tin cậy một cách xứng đáng". Ngay việc học cũng được gọi là "bổn phận đạo đức".
+
+Cách sắp xếp này cho thấy Munger không coi trí tuệ thế gian là mẹo kiếm tiền, mà là một phần của việc sống tốt; tiền bạc, theo ông, là hệ quả. Điểm mạnh nữa là bài luôn có ví dụ cụ thể, dễ nhớ (đám tang, tấm thẻ, tài xế của Planck, hợp đồng 47 trang), nên người nghe trẻ mang theo được.
 
 ### Bài nói thẳng thắn về cái giá của việc nghĩ giỏi hơn người khác, một điều ít diễn văn tốt nghiệp dám nói
 
-Diễn văn tốt nghiệp thường chỉ khuyên "hãy theo đuổi đam mê, hãy là chính mình". Munger nói thêm một điều khó nghe: tư duy đa ngành làm bạn đúng nhiều hơn cấp trên, và điều đó nguy hiểm. Ông thừa nhận chính mình đã trả giá vì không giỏi giả vờ, và kể lời dặn "để khách hàng thấy mình thông minh nhất phòng" như một cách thăng tiến hợp lý, dù ông không theo. Sự thẳng thắn này có giá trị thực tiễn cho người mới đi làm. Tuy vậy, có một mâu thuẫn chưa được giải: ông khuyên giấu hiểu biết, nhưng cũng tự hào vì "không cần được mọi người yêu mến". Ông có thể sống theo bản tính vì có tài và có may mắn; người khác có thể không chịu nổi cái giá đó. Bài không đưa ra tiêu chí khi nào nên nói thẳng, khi nào nên im.
+Diễn văn tốt nghiệp thường chỉ khuyên "hãy theo đuổi đam mê, hãy là chính mình". Munger nói thêm một điều khó nghe: tư duy đa ngành làm bạn đúng nhiều hơn cấp trên, và điều đó nguy hiểm. Ông thừa nhận chính mình đã trả giá vì không giỏi giả vờ, và kể lời dặn "để khách hàng thấy mình thông minh nhất phòng" như một cách thăng tiến hợp lý, dù ông không theo.
+
+Sự thẳng thắn này có giá trị thực tiễn cho người mới đi làm. Tuy vậy, có một mâu thuẫn chưa được giải: ông khuyên giấu hiểu biết, nhưng cũng tự hào vì "không cần được mọi người yêu mến". Ông có thể sống theo bản tính vì có tài và có may mắn; người khác có thể không chịu nổi cái giá đó. Bài không đưa ra tiêu chí khi nào nên nói thẳng, khi nào nên im.
 
 ### Một số ví dụ là giai thoại, một vài chỗ chưa chính xác, và người biên tập đã tự làm phức tạp thêm
 
-Bằng chứng trong bài hầu hết là giai thoại và kinh nghiệm riêng. Chuyện tài xế của Planck được Munger nói rõ là bịa; chuyện những người chèo xuồng không có nguồn; câu "phát minh ra phương pháp phát minh" của Whitehead được dùng đúng tinh thần nhưng không kèm bằng chứng lịch sử. Hộp bên lề của chính người biên tập cho thấy ví dụ Mozart "luôn tiêu quá thu nhập" đơn giản hoá một câu chuyện phức tạp hơn (thu nhập dao động, vợ ốm, bản án, có thể cả cờ bạc). Sách còn có vài sai sót nhỏ: Voltaire sống cách đó khoảng hai thế kỷ rưỡi chứ không phải "bốn thế kỷ"; tên nhà thơ là Housman chứ không phải "Houseman"; ông nội Munger làm thẩm phán khoảng 34 năm chứ chưa tới "gần bốn mươi". Ví dụ Wooden cũng chọn lọc: hệ thống không bình quân hiệu quả khi tài năng đã rõ ràng và mục tiêu là thắng ngay, nhưng có thể làm lãng phí người "nở muộn", như chính trải nghiệm đau đớn của Andy Hill trong hộp bên lề gợi ý.
+Bằng chứng trong bài hầu hết là giai thoại và kinh nghiệm riêng. Chuyện tài xế của Planck được Munger nói rõ là bịa; chuyện những người chèo xuồng không có nguồn; câu "phát minh ra phương pháp phát minh" của Whitehead được dùng đúng tinh thần nhưng không kèm bằng chứng lịch sử. Hộp bên lề của chính người biên tập cho thấy ví dụ Mozart "luôn tiêu quá thu nhập" đơn giản hoá một câu chuyện phức tạp hơn (thu nhập dao động, vợ ốm, bản án, có thể cả cờ bạc).
+
+Sách còn có vài sai sót nhỏ: Voltaire sống cách đó khoảng hai thế kỷ rưỡi chứ không phải "bốn thế kỷ"; tên nhà thơ là Housman chứ không phải "Houseman"; ông nội Munger làm thẩm phán khoảng 34 năm chứ chưa tới "gần bốn mươi". Ví dụ Wooden cũng chọn lọc: hệ thống không bình quân hiệu quả khi tài năng đã rõ ràng và mục tiêu là thắng ngay, nhưng có thể làm lãng phí người "nở muộn", như chính trải nghiệm đau đớn của Andy Hill trong hộp bên lề gợi ý.
 
 ### Từ 2007, nhiều điều Munger cảnh báo trở nên nổi bật hơn
 
-Bài nói diễn ra một năm trước khủng hoảng tài chính 2008, trong đó (theo hiểu biết của người tổng hợp) động cơ khuyến khích lệch lạc trong ngành ngân hàng và cho vay thế chấp đóng vai trò lớn, đúng loại hệ thống "thưởng cho người cư xử ngày càng tệ" mà Munger nói. Sự phân cực chính trị ở Mỹ và nhiều nước, được mạng xã hội khuếch đại, làm lời cảnh báo về ý thức hệ cực đoan và việc "nện giáo điều vào đầu" càng thời sự. Chỉ tiêu giờ tính phí ở các hãng luật lớn vẫn là chủ đề tranh cãi về sức khoẻ tinh thần của luật sư trẻ. Ngược lại, câu "người gốc Á đang đi lên nhanh" và nhận xét về cơ quan lập pháp California là nhận xét của thời điểm, nay có thể đọc khác. Ý "danh sách kiểm tra không chỉ cho phi công" về sau được phổ biến rộng trong y khoa (danh sách kiểm tra an toàn phẫu thuật), một ví dụ cho thấy ý của ông đi trước thực tiễn.
+Bài nói diễn ra một năm trước khủng hoảng tài chính 2008, trong đó (theo hiểu biết của người tổng hợp) động cơ khuyến khích lệch lạc trong ngành ngân hàng và cho vay thế chấp đóng vai trò lớn, đúng loại hệ thống "thưởng cho người cư xử ngày càng tệ" mà Munger nói. Sự phân cực chính trị ở Mỹ và nhiều nước, được mạng xã hội khuếch đại, làm lời cảnh báo về ý thức hệ cực đoan và việc "nện giáo điều vào đầu" càng thời sự.
+
+Chỉ tiêu giờ tính phí ở các hãng luật lớn vẫn là chủ đề tranh cãi về sức khoẻ tinh thần của luật sư trẻ. Ngược lại, câu "người gốc Á đang đi lên nhanh" và nhận xét về cơ quan lập pháp California là nhận xét của thời điểm, nay có thể đọc khác. Ý "danh sách kiểm tra không chỉ cho phi công" về sau được phổ biến rộng trong y khoa (danh sách kiểm tra an toàn phẫu thuật), một ví dụ cho thấy ý của ông đi trước thực tiễn.
 
 ### Quan điểm trái chiều: tin cậy thay cho thủ tục, và không bình quân thay cho bình quân, không phải lúc nào cũng đúng
 
-Mạng lưới tin cậy liền mạch hoạt động tốt trong nhóm nhỏ, ổn định, nơi mọi người biết nhau và có danh tiếng để giữ (phòng mổ Mayo Clinic, Berkshire Hathaway với các nhà quản lý được chọn kỹ). Ở quy mô lớn, với người lạ, hoặc khi có xung đột lợi ích lớn, thủ tục và hợp đồng chi tiết chính là thứ bảo vệ bên yếu thế; nhiều quy trình y khoa và pháp lý được đặt ra sau những lần tin cậy bị lạm dụng. Chính Munger ở các bài khác cũng nhấn mạnh sức mạnh của động cơ khuyến khích và thiên lệch tự phục vụ, tức những lý do khiến người ta không nên tin cậy mù quáng. Tương tự, "dồn thời gian thi đấu cho người giỏi nhất" có thể biện minh cho đặc quyền nếu việc đánh giá ai giỏi bị chi phối bởi thiên lệch của người có quyền. Đọc đúng tinh thần của Munger: sự tin cậy phải "xứng đáng", và sự không bình quân phải dựa trên năng lực thật (kiến thức Planck), không phải trên vẻ ngoài (kiến thức tài xế).
+Mạng lưới tin cậy liền mạch hoạt động tốt trong nhóm nhỏ, ổn định, nơi mọi người biết nhau và có danh tiếng để giữ (phòng mổ Mayo Clinic, Berkshire Hathaway với các nhà quản lý được chọn kỹ). Ở quy mô lớn, với người lạ, hoặc khi có xung đột lợi ích lớn, thủ tục và hợp đồng chi tiết chính là thứ bảo vệ bên yếu thế; nhiều quy trình y khoa và pháp lý được đặt ra sau những lần tin cậy bị lạm dụng.
+
+Chính Munger ở các bài khác cũng nhấn mạnh sức mạnh của động cơ khuyến khích và thiên lệch tự phục vụ, tức những lý do khiến người ta không nên tin cậy mù quáng. Tương tự, "dồn thời gian thi đấu cho người giỏi nhất" có thể biện minh cho đặc quyền nếu việc đánh giá ai giỏi bị chi phối bởi thiên lệch của người có quyền. Đọc đúng tinh thần của Munger: sự tin cậy phải "xứng đáng", và sự không bình quân phải dựa trên năng lực thật (kiến thức Planck), không phải trên vẻ ngoài (kiến thức tài xế).
 
 ### Vận dụng: trước mỗi lựa chọn lớn, hãy hỏi mình có xứng đáng không, điều gì sẽ làm hỏng nó, và ai đang thưởng cho mình vì điều gì
 
 - **Trong đầu tư.** Chọn công ty có ban lãnh đạo đáng tin cậy và cơ cấu thưởng không lệch lạc; đọc báo cáo thưởng của ban điều hành để xem họ được thưởng vì tăng giá trị dài hạn hay vì chỉ số ngắn hạn. Trước khi mua, áp "đơn thuốc sắt": viết ra lập luận mạnh nhất của người bán khống cổ phiếu đó. Dùng tư duy đảo ngược để liệt kê những gì có thể làm công ty phá sản. Giữ biên an toàn trong tài chính cá nhân như ông nội Munger để không phải bán tháo khi thị trường rơi, và còn tiền khi cơ hội xuất hiện. Phân biệt chuyên gia có kiến thức Planck với người bình luận chỉ có kiến thức tài xế.
 - **Trong doanh nghiệp và nghề nghiệp.** Khi chọn việc, coi người sẽ làm sếp trực tiếp và hệ thống thưởng quan trọng ngang mức lương. Khi cần thuyết phục cấp trên làm điều đúng, trình bày bằng rủi ro và lợi ích cho chính họ. Khi thấy chuyên gia sai, nêu dưới dạng câu hỏi hoặc trao đổi riêng để không làm họ mất mặt. Đặt thói quen đọc hằng ngày ngoài chuyên môn của mình. Khi xây đội, dồn việc khó cho người giỏi và muốn học nhất, nhưng định kỳ kiểm tra xem tiêu chí "giỏi" có bị thiên lệch không. Dùng danh sách kiểm tra cho các quy trình lặp lại.
 - **Trong ra quyết định cá nhân.** Mỗi khi thấy mình than thân trách phận, tự "đưa cho mình tấm thẻ" và hỏi điều gì có thể học hoặc làm tốt hơn từ chuyện này (thái độ của Epictetus). Giữ khoảng cách với các nhóm đòi hỏi trung thành tuyệt đối với một hệ tư tưởng. Tiêu ít hơn thu nhập và có quỹ dự phòng. Chọn bạn đời, bạn bè, cộng sự dựa trên sự ngưỡng mộ phẩm chất, và tự hỏi mình có xứng đáng với họ không.
-- **Ở Việt Nam.** Ý hiếu đạo và việc truyền giá trị giữa các thế hệ mà Munger ca ngợi vốn quen thuộc trong văn hoá Việt Nam; bài nhắc rằng giá trị đó gồm cả việc học suốt đời và sống thận trọng, không chỉ lễ nghi. Trong môi trường kinh doanh mà quan hệ cá nhân và chữ tín có vai trò lớn, "mạng lưới tin cậy xứng đáng" là một lợi thế thật, nhưng cần phân biệt với quan hệ dựa trên ưu ái không xứng đáng; với người lạ và giao dịch lớn, hợp đồng rõ ràng vẫn cần. Lời khuyên "thuyết phục bằng lợi ích" hữu ích cho người làm pháp chế, kiểm toán, tuân thủ khi phải đề xuất việc khó chịu với lãnh đạo. Và với người trẻ trong văn hoá đề cao thứ bậc, lời dặn "đừng làm cấp trên mất mặt" của Munger đặc biệt sát thực tế, miễn là không biến thành im lặng trước sai phạm.
+- **Ở Việt Nam.** Ý hiếu đạo và việc truyền giá trị giữa các thế hệ mà Munger ca ngợi vốn quen thuộc trong văn hoá Việt Nam; bài nhắc rằng giá trị đó gồm cả việc học suốt đời và sống thận trọng, không chỉ lễ nghi. Trong môi trường kinh doanh mà quan hệ cá nhân và chữ tín có vai trò lớn, "mạng lưới tin cậy xứng đáng" là một lợi thế thật, nhưng cần phân biệt với quan hệ dựa trên ưu ái không xứng đáng; với người lạ và giao dịch lớn, hợp đồng rõ ràng vẫn cần.
+
+  Lời khuyên "thuyết phục bằng lợi ích" hữu ích cho người làm pháp chế, kiểm toán, tuân thủ khi phải đề xuất việc khó chịu với lãnh đạo. Và với người trẻ trong văn hoá đề cao thứ bậc, lời dặn "đừng làm cấp trên mất mặt" của Munger đặc biệt sát thực tế, miễn là không biến thành im lặng trước sai phạm.
+
+## Bản đồ tư duy
+
+Toàn cảnh Bài 10 trên một trang: năm nhánh lớn đi theo các mục 1–19 của phần Nội dung chi tiết (xứng đáng với điều mình muốn và tình yêu dựa trên ngưỡng mộ; học suốt đời, học đa ngành và tư duy đảo ngược; những điều phải tránh; các thói quen giữ đầu óc đúng và làm việc xuất sắc; đối mặt bất hạnh, thận trọng và mạng lưới tin cậy), mỗi nhánh ghi nguyên tắc, giai thoại và con số then chốt của Munger; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Bài 10 (Chương 4): cách an toàn nhất để có điều mình muốn là làm cho mình xứng đáng với điều đó`"]
+  n1["`Mục 1–4 — Xứng đáng với điều mình muốn, và yêu dựa trên ngưỡng mộ`"]
+  n0 --- n1
+  n2["`Năm 2007, Munger 83 tuổi nói với 286 tân khoa luật USC Gould (194 JD, 89 LLM, 3 MCL)`"]
+  n1 --- n2
+  n3["`Phần lớn vinh dự thuộc về cha mẹ tân khoa, giá trị truyền giữa các thế hệ như hiếu đạo của Khổng Tử`"]
+  n1 --- n3
+  n4["`Quy tắc vàng: đem tới cho thế giới thứ chính mình sẽ mua nếu ở phía bên kia`"]
+  n1 --- n4
+  n5["`Phần thưởng không chỉ là tiền và danh dự mà là sự tin cậy xứng đáng của người cùng làm`"]
+  n1 --- n5
+  n6["`Đám tang kẻ bất lương: người duy nhất lên tiếng chỉ nói anh trai ông ta còn tệ hơn`"]
+  n1 --- n6
+  n7["`Không tình yêu nào đúng đắn bằng tình yêu dựa trên ngưỡng mộ, kể cả người đã khuất có điều đáng học`"]
+  n1 --- n7
+  n8["`Tình yêu ám ảnh của Philip trong Of Human Bondage là một căn bệnh, cần loại bỏ`"]
+  n1 --- n8
+  n9["`Mục 5–8 — Học suốt đời, học đa ngành, dùng tư duy đảo ngược`"]
+  n0 --- n9
+  n10["`Thu nạp trí tuệ là bổn phận đạo đức, người ta tiến lên nhờ điều học được sau khi rời trường`"]
+  n9 --- n10
+  n11["`Kỹ năng giúp Berkshire qua một thập niên không đủ cho thập niên sau, nên Buffett phải là cỗ máy học`"]
+  n9 --- n11
+  n12["`Buffett dành khoảng một nửa thời gian thức để đọc`"]
+  n11 --- n12
+  n13["`Người đi lên là cỗ máy học, mỗi tối đi ngủ khôn hơn sáng hôm đó một chút`"]
+  n9 --- n13
+  n14["`Whitehead: văn minh tiến khi phát minh ra phương pháp phát minh, bạn tiến khi học được phương pháp học`"]
+  n9 --- n14
+  n15["`Bác sĩ Mirra viết giáo khoa u xương trong một năm làm 17 giờ mỗi ngày, 7 ngày mỗi tuần`"]
+  n9 --- n15
+  n16["`Ý tưởng thật sự lớn gánh khoảng 95% công việc, nên nắm được 95% điều cần từ mọi ngành`"]
+  n9 --- n16
+  n17["`Phải luyện tập dùng các ý tưởng liên tục, như nghệ sĩ dương cầm hoà nhạc`"]
+  n9 --- n17
+  n18["`Nguy hiểm: đúng theo cách làm chuyên gia hay cấp trên mất mặt, nên giấu bớt hiểu biết`"]
+  n9 --- n18
+  n19["`Lời dặn Chuck: để khách hàng thông minh nhất phòng, luật sư thành viên cấp cao thông minh thứ hai`"]
+  n18 --- n19
+  n20["`Mở rộng ý Cicero: không chỉ lịch sử mà ý tưởng lớn của mọi ngành, sắp thành mạng lưới tư duy`"]
+  n9 --- n20
+  n21["`Theo lối đa ngành sẽ thành một trong những người hiệu quả nhất lứa tuổi, không thì ở tầng giữa`"]
+  n20 --- n21
+  n22["`Đảo ngược: muốn giúp Ấn Độ thì hỏi điều gì làm hại Ấn Độ nhất rồi tránh nó`"]
+  n9 --- n22
+  n23["`Anh nông dân muốn biết mình sẽ chết ở đâu để không bao giờ tới đó`"]
+  n22 --- n23
+  n24["`Như trong đại số, đảo ngược giải được bài toán mà cách khác không giải được`"]
+  n22 --- n24
+  n25["`Mục 9–12 — Đảo ngược ra những điều phải tránh`"]
+  n0 --- n25
+  n26["`Lười biếng và không đáng tin cậy làm sụp mọi đức tính khác`"]
+  n25 --- n26
+  n27["`Ý thức hệ cực đoan làm đầu óc hoá bắp cải, hô giáo điều là nện nó vào đầu mình`"]
+  n25 --- n27
+  n28["`Người chèo xuồng Scandinavia thử xoáy nước lớn tây bắc Mỹ: tỷ lệ tử vong 100%`"]
+  n27 --- n28
+  n29["`Đơn thuốc sắt: chỉ có ý kiến khi trình bày lập luận phía phản đối hay hơn chính họ`"]
+  n27 --- n29
+  n30["`Thiên lệch tự phục vụ: Mozart luôn tiêu quá thu nhập và phần lớn đời sống khổ sở`"]
+  n25 --- n30
+  n31["`Đố kỵ, oán giận, trả thù, tự thương hại là lối nghĩ tai hại, tự thương hại gần hoang tưởng bị hại`"]
+  n25 --- n31
+  n32["`Tấm thẻ của người bạn: Tôi chưa từng nghe ai gặp nhiều bất hạnh như anh`"]
+  n31 --- n32
+  n33["`Phải tính tới thiên lệch tự phục vụ của người khác, không thì lại là kẻ ngốc`"]
+  n25 --- n33
+  n34["`Luật sư trưởng Salomon Brothers viện bổn phận đạo đức, CEO hoãn mãi, cả hai mất chức`"]
+  n33 --- n34
+  n35["`Franklin: muốn thuyết phục, hãy khơi gợi lợi ích, đừng khơi gợi lý lẽ`"]
+  n33 --- n35
+  n36["`Tránh động cơ khuyến khích lệch lạc, như chỉ tiêu 2.400 giờ tính phí mỗi năm`"]
+  n25 --- n36
+  n37["`Tránh làm việc dưới quyền người mình không ngưỡng mộ và không muốn giống`"]
+  n25 --- n37
+  n38["`Mục 13–16 — Thói quen giữ đầu óc đúng và làm việc xuất sắc`"]
+  n0 --- n38
+  n39["`Như Darwin, đặc biệt chú ý bằng chứng phản bác điều mình tin và yêu thích`"]
+  n38 --- n39
+  n40["`Danh sách kiểm tra ngăn rất nhiều lỗi, không chỉ cho phi công`"]
+  n38 --- n40
+  n41["`Tối đa hoá sự không bình quân: Wooden cho 7 người giỏi nhất chơi, 5 người kém nhất làm bạn tập`"]
+  n38 --- n41
+  n42["`Không ai muốn bốc thăm bác sĩ phẫu thuật não cho con trong năm mươi người thay phiên mổ`"]
+  n41 --- n42
+  n43["`Kiến thức Planck là hiểu thật nhờ công sức, kiến thức tài xế là nói trơn tru lời có sẵn`"]
+  n38 --- n43
+  n44["`Bài toán cả đời: trao trách nhiệm cho người có kiến thức Planck, rút khỏi người có kiến thức tài xế`"]
+  n43 --- n44
+  n45["`Không thể xuất sắc ở việc mình không hứng thú mãnh liệt`"]
+  n38 --- n45
+  n46["`Cần mẫn bền bỉ là ngồi lì xuống cho tới khi làm xong`"]
+  n38 --- n46
+  n47["`Hai cộng sự thời Đại Suy thoái: hễ chậm cam kết thì cả hai làm 14 giờ mỗi ngày, 7 ngày mỗi tuần`"]
+  n46 --- n47
+  n48["`Mục 17–19 — Đối mặt bất hạnh, sống thận trọng, xây mạng lưới tin cậy`"]
+  n0 --- n48
+  n49["`Epictetus: mọi rủi ro là cơ hội cư xử tốt và học điều có ích, không chìm vào tự thương hại`"]
+  n48 --- n49
+  n50["`Văn bia Epictetus: nô lệ, tàn tật, nghèo khó tột cùng, và được các vị thần ưu ái`"]
+  n49 --- n50
+  n51["`Thận trọng phục vụ bổn phận: ông nội tiêu ít hơn thu nhập để vợ goá không túng quẫn`"]
+  n48 --- n51
+  n52["`Ông nội đổi hơn một phần ba tài sản tốt lấy tài sản xấu để cứu ngân hàng của con trai thập niên 1930`"]
+  n51 --- n52
+  n53["`Thơ Housman: luôn nghĩ về hoạn nạn nên đã sẵn sàng khi hoạn nạn tới`"]
+  n51 --- n53
+  n54["`Thủ tục quan liêu không phải đỉnh cao văn minh, cao hơn là mạng lưới tin cậy xứng đáng liền mạch`"]
+  n48 --- n54
+  n55["`Phòng mổ Mayo Clinic: thêm quy trình kiểu luật sư thì thêm bệnh nhân chết`"]
+  n54 --- n55
+  n56["`Hợp đồng hôn nhân dự kiến dài 47 trang thì Munger khuyên đừng cưới`"]
+  n54 --- n56
+  n57["`Lời kết mượn Valiant-for-Truth: thanh gươm tôi để lại cho người có thể sử dụng nó`"]
+  n48 --- n57
+  n58["`Thông điệp xuyên suốt`"]
+  n0 --- n58
+  n59["`Đạo đức đặt trước kỹ thuật: mở bằng hãy xứng đáng, khép bằng hãy được tin cậy xứng đáng`"]
+  n58 --- n59
+  n60["`Những ý đơn giản, kiểu cũ, khó mà thất bại, gần như chắc chắn cho kết quả tốt`"]
+  n58 --- n60
+  n61["`Nửa sau bài là bài tập đảo ngược: liệt kê những gì làm hỏng đời người để tránh`"]
+  n58 --- n61
+  n62["`Giới hạn: bằng chứng chủ yếu là giai thoại, tin cậy thay thủ tục hợp với nhóm nhỏ ổn định`"]
+  n58 --- n62
+  class n0 root
+  class n1,n9,n25,n38,n48,n58 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n26,n27,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n39,n40,n41,n42,n43,n44,n45,n46,n47,n49,n50,n51,n52,n53,n54,n55,n56,n57,n59,n60,n61,n62 leaf
+```
+
+## Nguồn
+
+*Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger*, biên tập Peter D. Kaufman, The Donning Company Publishers, ấn bản mở rộng thứ ba (Expanded Third Edition), Chương 4 "Eleven Talks", Bài 10 "USC Gould School of Law Commencement Address" (Talk Ten), trang in 420–439. Bài nói được đọc ngày 13 tháng 5 năm 2007, tại Alumni Park của Đại học Nam California (University of Southern California, USC) ở Los Angeles, trong lễ tốt nghiệp của Trường Luật Gould. Người nghe là 194 tân cử nhân luật (Juris Doctor), 89 tân thạc sĩ luật (Master of Laws) và 3 tân thạc sĩ luật so sánh (Master of Comparative Laws), cùng cha mẹ, gia đình và giảng viên của họ.
+
+## Tác giả
+
+Charles T. Munger (1924–2023), luật sư được đào tạo tại Trường Luật Harvard, phó chủ tịch Berkshire Hathaway và cộng sự lâu năm của Warren Buffett; lúc nói ông 83 tuổi. Lời dẫn đầu bài, các hộp bên lề và chú thích ảnh do người biên tập (Peter Kaufman và nhóm) viết.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Đây là bài nói gần đây nhất trong mười một bài của Chương 4 và được thêm vào ở ấn bản thứ ba. Nó đứng sau Bài 9 "Academic Economics" (2003), nơi Munger chê kinh tế học hàn lâm thiếu tư duy đa ngành, và trước Bài 11 "The Psychology of Human Misjudgment", bản tổng hợp hai mươi lăm khuynh hướng tâm lý mà Munger viết riêng cho sách.
+
+Bài 10 gần như là một bản "tóm tắt cả đời" bằng lời nói giản dị: nó gom lại những ý đã xuất hiện rải rác ở các bài trước, như tư duy đảo ngược trong [Bài 1, diễn văn tốt nghiệp Harvard School](C04-B01-dien-van-tot-nghiep-harvard-school.md) (1986), mạng lưới mô hình tư duy trong [Bài 2](C04-B02-bai-hoc-ve-tri-tue-the-gian-so-dang.md) và [Bài 3](C04-B03-bai-hoc-ve-tri-tue-the-gian-so-dang-nhin-lai.md), lời khuyên cho giới luật sư trong [Bài 5, diễn văn họp mặt 50 năm Trường Luật Harvard](C04-B05-dien-van-hop-mat-50-nam-truong-luat-harvard.md), và báo trước các khuynh hướng tâm lý (thiên lệch tự phục vụ, sức mạnh của động cơ khuyến khích, tự thương hại, đố kỵ) sẽ được phân tích có hệ thống ở [Bài 11](C04-B11-tam-ly-hoc-ve-phan-doan-sai-lam-cua-con-nguoi.md).
+
+Ý của Cicero về lịch sử, mà Munger dùng ở đây, cũng là chủ đề của [phần "Ca ngợi tuổi già" ở Chương 1](C01b-ca-ngoi-tuoi-gia.md).
+
+## Lưu ý
+
+- **Bối cảnh thời điểm.** Bài nói năm 2007, được in ở ấn bản thứ ba (bản PDF là lần in thứ sáu, 2011). Lúc nói Munger "đã đi khá sâu vào năm thứ 84 của đời", tức 83 tuổi (ông sinh ngày 1 tháng 1 năm 1924). Theo hiểu biết của người tổng hợp, Munger mất cuối năm 2023, ngay trước sinh nhật thứ 100. Các nhận xét của ông về cơ quan lập pháp bang California, về sự đi lên của người gốc Á ở Mỹ và về chỉ tiêu giờ tính phí của các hãng luật là nhận xét của năm 2007.
+- **Lỗi OCR đã sửa khi đọc** (không ảnh hưởng tới nghĩa nhưng nêu để đối chiếu): "rebe-wearing" là *robe-wearing* (mặc áo thụng tốt nghiệp); "ger" là *get*; "Mira's" là *Mirra's* (bác sĩ Joseph M. Mirra); "Glial piety", "filial piery" là *filial piety*; "suecess" là *success*; "scamless" là *seamless*; "bureaucratie" là *bureaucratic*; "Aorins" là *florins*; số trang cuối "43°" là 439.
+
+  Các dòng chữ OCR "HOWARD / FRANCES DEE / KAT JOBNSON / BESIRALD BENRY / BETTE DAVIS" ở trang in 423 là tên diễn viên trên một áp phích phim *Of Human Bondage* (theo hiểu biết của người tổng hợp là bản phim 1934 với Leslie Howard và Bette Davis); dòng "COS CEDARS SINAI" ở trang in 425 là chữ trên ảnh toà nhà Trung tâm Y khoa Cedars-Sinai; dòng chữ Nga ở trang in 429 là khẩu hiệu trên một áp phích tuyên truyền thời Xô Viết, đã được người biên tập dịch.
+- **Chỗ sách viết sai hoặc cần đính chính (theo hiểu biết của người tổng hợp):**
+  - Hộp bên lề về Voltaire viết "bốn thế kỷ trước" (*Four centuries ago*); Voltaire sống 1694–1778, tức chỉ khoảng hai thế kỷ rưỡi trước khi sách in.
+  - Bài nói và sách viết tên nhà thơ là "Houseman"; bài thơ ngắn Munger đọc ("The thoughts of others / Were light and fleeting...") là của nhà thơ Anh A. E. Housman.
+  - Hộp bên lề về Max Planck ghi ông được "bầu" giải Nobel vật lý năm 1918; giải năm 1918 được trao vào năm 1919. Munger gọi bài giảng của Planck là bài giảng về "cơ học lượng tử mới"; Planck là người khởi đầu thuyết lượng tử (1900), còn cơ học lượng tử theo nghĩa hẹp do thế hệ sau (Heisenberg, Schrödinger) xây dựng giữa thập niên 1920. Chính Munger nói rõ câu chuyện về tài xế là chuyện bịa (*apocryphal*).
+  - Munger nói ông nội mình là thẩm phán liên bang duy nhất của thành phố "gần bốn mươi năm"; theo hộp bên lề, ông được bổ nhiệm năm 1907 và mất năm 1941, tức khoảng 34 năm. Sách không nói thành phố nào; theo hiểu biết của người tổng hợp, đó là Lincoln, bang Nebraska.
+  - Munger không nêu tên những người trong vụ Salomon Brothers. Theo hiểu biết của người tổng hợp, đó là vụ gian lận đấu thầu trái phiếu Kho bạc Mỹ năm 1991: nhân viên làm sai là Paul Mozer, CEO là John Gutfreund, luật sư trưởng là Donald Feuerstein; Buffett và Munger khi đó là thành viên hội đồng quản trị Salomon và Buffett phải tạm làm chủ tịch để cứu công ty.
+  - Hộp bên lề về Mozart đưa ra các bằng chứng làm phức tạp thêm nhận xét của Munger rằng Mozart "luôn tiêu quá thu nhập": thu nhập của Mozart dao động, có năm thuộc nhóm 10% người có thu nhập cao nhất Vienna, và các khó khăn tài chính còn đến từ chi phí chữa bệnh của vợ, một bản án và có thể cả cờ bạc. Bản tổng hợp giữ cả hai.
+  - Câu "hiếu đạo bao gồm... bảo đảm có con trai nối dõi... che giấu lỗi lầm của cha mẹ" trong hộp bên lề về Khổng Tử là mô tả của người biên tập về quan niệm truyền thống, không phải lời Munger.
+- **Hộp bên lề của người biên tập.** Bài có mười chín hộp bên lề, chú thích ảnh và câu trích in nổi: Khổng Tử và hiếu đạo, bìa sách *The Morals of Confucius* (1691), tiểu thuyết *Of Human Bondage*, câu trích của Alfred North Whitehead, bác sĩ Joseph M. Mirra, Voltaire, Cicero, nguồn gốc chữ "đại số", áp phích Xô Viết, Darwin, Mozart, chân dung Benjamin Franklin, phim *It's a Wonderful Life*, cuốn sách của Andy Hill về John Wooden, Max Planck, phim *Anchorman*, bộ "châm ngôn" của Epictetus, thẩm phán Thomas Charles Munger, và *The Pilgrim's Progress*.
+
+  Mỗi hộp được đặt vào khối sơ đồ và mục nội dung chi tiết tương ứng với đoạn bài nói mà nó đi kèm, ghi rõ "Hộp bên lề của người biên tập". Các câu Munger được in nổi ở lề (pull quote) chỉ lặp lại lời trong bài nên không tách riêng. Một chú thích trong ngoặc vuông của người biên tập ("về các ý khác của Cicero, xin xem phần Munger bàn về tuổi già ở Chương 1") được đưa vào đúng chỗ.
+- **Chia đoạn.** Bài nói liền mạch, không có tiểu mục. Bản tổng hợp chia theo từng "ý" mà Munger lần lượt nêu (ông thường mở bằng "một ý khác là...", "một thứ khác phải tránh là..."), ghi trang in của từng đoạn. Số thứ tự "ý thứ nhất" tới "ý thứ mười tám" là do người tổng hợp đánh theo thứ tự xuất hiện; Munger chỉ tự đánh số hai ý đầu ("ý thứ hai mà tôi có từ rất sớm"). Một số đoạn ngắn liên tiếp được gom lại, có ghi rõ.
+- Câu chuyện "anh nông dân muốn biết mình sẽ chết ở đâu" được Munger nhắc là do trưởng khoa Edward J. McCaffery kể trước đó trong buổi lễ; lời kể của trưởng khoa không có trong sách.

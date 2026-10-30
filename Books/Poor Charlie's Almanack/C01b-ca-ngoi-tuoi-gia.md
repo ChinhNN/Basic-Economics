@@ -1,23 +1,22 @@
 # Chương 1 (phần 2) — Ca ngợi tuổi già (Praising Old Age)
 
-**Nguồn:** Peter D. Kaufman (biên tập), *Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger*, ấn bản mở rộng thứ ba (Expanded Third Edition, The Donning Company Publishers, 2005/2006/2008; bản PDF là lần in thứ sáu, 2011), Chương 1 "A Portrait of Charles T. Munger", phần thứ hai: "Praising Old Age: Munger's Reflections on Aging, Inspired by Cicero's *Discourse of Old-Age*", trang in 27–38. Đây là một bài viết, không phải bài nói; Munger viết năm 2006, khi ông 82 tuổi, sau khi được bạn tặng bản in lại cuốn sách về tuổi già của Cicero.
-**Tác giả:** Charles T. Munger (1924–2023), phó chủ tịch Berkshire Hathaway, cộng sự lâu năm của Warren Buffett. Các hộp bên lề (tiểu sử Cicero, Trollope, Catiline, Milo, Archimedes, Cato, Mark Antony, Franklin; đoạn Kinh Thánh; giải thích về phong cách Hy Lạp – La Mã và triết học Pythagoras) do người biên tập Peter Kaufman và nhóm của ông thêm vào.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 1 dựng chân dung Munger qua ba góc nhìn. Phần trước, "A Portrait of Charles T. Munger" của Michael Broggie, kể đời ông từ bên ngoài: tuổi thơ ở Omaha, quân ngũ, nghề luật, quan hệ với Buffett. Phần này là lần duy nhất trong chương Munger tự nói về mình: qua việc bình luận cuốn *De Senectute* (*Bàn về tuổi già*) của Cicero, ông cho thấy hệ giá trị của chính ông (học suốt đời, làm việc tới cuối đời, phục vụ cộng đồng, tự hào về việc làm tốt, không than phiền) và cách ông tự soi động cơ của mình. Phần sau, "Remembering: The Children on Charlie", lại chuyển sang góc nhìn của các con ông. Bài viết cũng chuẩn bị cho Chương 2 ("The Munger Approach to Life, Learning, and Decision Making"): những ý ở đây, như "con người hiếm khi biết rõ động cơ của mình", "kiểu suy nghĩ được thưởng sẽ thành niềm tin", "học mỗi ngày", sẽ được trình bày lại dưới dạng phương pháp, và được phân tích kỹ trong Bài 11 "The Psychology of Human Misjudgment" ở Chương 4.
-**Ý chính:** Munger muốn người đọc thấy rằng **tuổi già có thể là phần tốt nhất của đời người, với điều kiện người đó đã sống đúng từ khi còn trẻ và tiếp tục học, làm việc, phục vụ cho tới cuối đời**. Ông đi qua các lời khuyên của Cicero trong *De Senectute* (viết khi Cicero khoảng 60 tuổi, Benjamin Franklin in bản dịch tiếng Anh đầu tiên ở Mỹ năm 1744) và cho từng lời khuyên một lời bình, thường hài hước, có lúc tự giễu: trí tuệ quan trọng hơn sức mạnh thể chất (Agamemnon muốn thêm mười Nestor chứ không muốn thêm mười Ajax), học suốt đời ("ngày nào cũng học thêm một điều, ông ấy già đi"), không keo kiệt, không sợ chết, không nghỉ hưu sớm, làm việc vì những kết quả mình không sống tới để thấy, không than phiền, và câu tổng kết nổi tiếng nhất: **"Áo giáp tốt nhất của tuổi già là một cuộc đời sống tốt trước đó."** Ví dụ trung tâm là **Benjamin Franklin**, người in cuốn sách và sống theo nó: tuổi già của ông là một trong những tuổi già hữu ích và hạnh phúc nhất từng được ghi lại. Munger coi **Warren Buffett** là người tiếp nối Cicero và Franklin thời nay. Nhưng ông kết bằng hai lời cảnh báo: phần lớn người già ngày nay không nên cố bám vai trò lớn như Buffett mà nên vui vẻ chấp nhận vai trò nhỏ đi; và người thích dạy đời nên nhớ thế giới chỉ thưởng cho rất ít người như vậy, thường là những người biết pha đạo đức với sự dí dỏm, như George Bernard Shaw.
+## Ý chính
 
-> **Lưu ý:**
-> - **Bối cảnh:** Munger viết bài này năm 2006, lúc 82 tuổi, cho ấn bản mở rộng thứ ba. Bài không có tiểu mục; bản tổng hợp chia theo đoạn nội dung và ghi trang in. Trong bài có nhiều câu in nổi (trích lại một câu trong bài, chữ lớn, màu đỏ); bản tổng hợp không lặp lại chúng như nội dung riêng, nhưng đưa phần lớn vào "Câu nói đáng nhớ".
-> - **Hộp bên lề:** có 11 hộp của người biên tập: Marcus Tullius Cicero (trang in 27), phong cách Hy Lạp – La Mã và Getty Villa (28), Anthony Trollope kèm tranh biếm hoạ trên tạp chí *Vanity Fair* (29), âm mưu Catiline (30), Phúc Âm Luca 18:9–14 (31), Milo xứ Croton (32), Archimedes (33), triết học Pythagoras kèm một phần bức "Trường học Athens" của Raphael (34), Cato Già kèm ảnh đồng tiền La Mã (35), Mark Antony kèm ảnh tượng bán thân và đồng tiền "Roman Imperatorials" (36), "Franklin on Aging" kèm ảnh trang bìa bản in năm 1744 (37). Ảnh cuối bài (38) là Munger câu cá trên sông Sacramento năm 2005. Mỗi hộp được đưa vào khối sơ đồ và mục nội dung chi tiết của trang tương ứng, ghi rõ "hộp bên lề của người biên tập".
-> - **Lỗi OCR đã sửa:** "MeBain" là McBain (Angus và Lucy McBain); "Marcus Tullus" là Marcus Tullius; "Marc Anthony" là Mark Antony; "Lucius Flaminus" trong câu trích là Lucius Quinctius Flamininus; "Pythagoras ability" là "Pythagoras' ability"; ngày trên tranh *Vanity Fair* OCR thành "April 30. 10=1", ảnh trang cho thấy là tháng 4 một năm thập niên 1870, không đọc rõ; các mảnh chữ "Ederant assifta Fast", "JoWon" là chữ trong ảnh, không phải nội dung.
-> - **Chỗ sách viết chưa chính xác (theo hiểu biết của người tổng hợp, chưa đối chiếu):**
->   - Hộp bên lề về Cicero nói chế độ chuyên quyền thay "nền dân chủ La Mã" khi "Caesar trở thành Hoàng đế". Thực ra La Mã là một nền cộng hoà (không phải dân chủ theo nghĩa hiện đại), và Julius Caesar là nhà độc tài (*dictator*), không phải hoàng đế; hoàng đế đầu tiên là Augustus (từ năm 27 TCN). Cicero bị giết trong đợt thanh trừng (*proscription*) của Tam hùng thứ hai (Antony, Octavian, Lepidus), không chỉ theo lệnh riêng Antony.
->   - Hộp bên lề về Mark Antony tóm tắt quá gọn: Antony không "săn lùng Cicero và chiếm lại Rome" ngay; ông thua quân của Viện Nguyên lão ở Mutina năm 43 TCN, rồi liên minh với Octavian và Lepidus, và chính liên minh này ra danh sách thanh trừng có tên Cicero.
->   - Hộp "Franklin on Aging" ghi Franklin mất năm 1790 "ở tuổi 92". Franklin sinh tháng 1 năm 1706, nên lúc mất ông 84 tuổi. Các mốc khác trong hộp (62 tuổi năm 1768, 70 tuổi năm 1776, 81 tuổi năm 1787) khớp với năm sinh 1706, nên con số 92 là lỗi riêng. Tên hội mà Franklin làm chủ tịch bị rút gọn; tên đầy đủ là Hội Pennsylvania thúc đẩy xoá bỏ chế độ nô lệ và giải cứu người da đen tự do bị giam giữ trái phép. Trong các câu trích đầu hộp, câu về "ấn bản thứ hai" có trong tự truyện của Franklin; các câu "già quá sớm và khôn quá muộn", "khi bạn thôi thay đổi là bạn hết" thường được gán cho Franklin nhưng không chắc là của ông.
->   - Bản dịch năm 1744 do Franklin in và bán, nhưng người dịch là James Logan, không phải Franklin; bài viết không nói Franklin dịch, nhưng dễ bị hiểu như vậy.
->   - *De Senectute* là một cuộc đối thoại hư cấu, người nói chính là Cato Già (lúc 83–84 tuổi) trò chuyện với Scipio Aemilianus và Laelius. Munger thường viết "Cicero nói" cho những ý mà trong sách là lời Cato. Người La Mã "học tiếng Hy Lạp lúc già" mà Munger nhắc tới chính là Cato.
->   - Đồng tiền trong ảnh ở hộp bên lề về Cato Già mang chữ "M. CATO PRO PR"; theo hiểu biết của người tổng hợp, đó có lẽ là đồng tiền của Cato Trẻ (chắt của Cato Già), đúc khoảng năm 47–46 TCN.
->   - Hộp bên lề về Pythagoras nói hình học Pythagoras giải bài toán "nhân đôi hình vuông" và gọi lời giải là định lý Pythagoras; cách nói này gộp hai chuyện khác nhau. Câu chuyện chia con người thành ba hạng (yêu trí tuệ, yêu danh dự, yêu lợi) thì đúng là được gán cho Pythagoras.
->   - Câu Munger gán cho Lord Chesterfield (uống cạn ba phần tư chén đời rồi muốn chia cặn với một bà giàu có) được ông ghi là "được gán cho" Chesterfield, tức chính Munger cũng không chắc nguồn.
+Munger muốn người đọc thấy rằng **tuổi già có thể là phần tốt nhất của đời người, với điều kiện người đó đã sống đúng từ khi còn trẻ và tiếp tục học, làm việc, phục vụ cho tới cuối đời**.
+
+Ông đi qua các lời khuyên của Cicero trong *De Senectute* (viết khi Cicero khoảng 60 tuổi, Benjamin Franklin in bản dịch tiếng Anh đầu tiên ở Mỹ năm 1744) và cho từng lời khuyên một lời bình, thường hài hước, có lúc tự giễu:
+
+- trí tuệ quan trọng hơn sức mạnh thể chất (Agamemnon muốn thêm mười Nestor chứ không muốn thêm mười Ajax)
+- học suốt đời ("ngày nào cũng học thêm một điều, ông ấy già đi")
+- không keo kiệt, không sợ chết, không nghỉ hưu sớm
+- làm việc vì những kết quả mình không sống tới để thấy
+- không than phiền
+
+Và câu tổng kết nổi tiếng nhất: **"Áo giáp tốt nhất của tuổi già là một cuộc đời sống tốt trước đó."**
+
+Ví dụ trung tâm là **Benjamin Franklin**, người in cuốn sách và sống theo nó: tuổi già của ông là một trong những tuổi già hữu ích và hạnh phúc nhất từng được ghi lại. Munger coi **Warren Buffett** là người tiếp nối Cicero và Franklin thời nay.
+
+Nhưng ông kết bằng hai lời cảnh báo: phần lớn người già ngày nay không nên cố bám vai trò lớn như Buffett mà nên vui vẻ chấp nhận vai trò nhỏ đi. Và người thích dạy đời nên nhớ thế giới chỉ thưởng cho rất ít người như vậy, thường là những người biết pha đạo đức với sự dí dỏm, như George Bernard Shaw.
 
 ## Sơ đồ
 
@@ -574,15 +573,25 @@
 
 ## Ba câu hỏi phần này trả lời
 
-1. **Theo Cicero và Munger, điều gì làm cho tuổi già tốt đẹp?** Câu trả lời nằm trong câu nổi tiếng nhất của *De Senectute*: áo giáp tốt nhất của tuổi già là một cuộc đời sống tốt trước đó, tức một đời theo đuổi kiến thức hữu ích, làm những việc đáng trọng và thực hành đức hạnh. Người rèn mình từ trẻ sẽ hái quả khi già, vì kiến thức và đức tính không bỏ ai đi, và vì lương tâm cùng ký ức về việc tốt đã làm đem lại niềm an ủi lớn. Thêm vào đó, người già nên tiếp tục học (như Solon "ngày nào cũng học thêm một điều"), đặc biệt là học triết học theo nghĩa tìm nguyên nhân gốc rễ; tiếp tục làm việc và không nghỉ hưu sớm; làm việc cho những kết quả mình không sống tới để thấy; không keo kiệt, không sợ chết, không than phiền; được kính trọng và tự bảo vệ quyền của mình. Cicero còn cho rằng nếu sống đúng thì phần kém của đời là phần đầu, không phải phần cuối, và điều tốt nhất một người trẻ có thể mong là được già đi trước khi chết. Franklin là bằng chứng: ông sống theo các lời khuyên này và có một tuổi già hữu ích, hạnh phúc dù nhiều bệnh tật.
-2. **Munger rút ra gì về chính mình khi đọc Cicero?** Ông thấy nhiều nét của mình được Cicero coi là đức tính: hăng say khi nói cho người khác điều họ nên biết, mải nghĩ khi người khác đang nói, tự hào về việc mình đã sống tốt. Nhưng điều sâu hơn là ông tự soi động cơ của mình: ông từng nghĩ mình theo quan điểm chính trị của Cicero vì thương đồng loại, nay ông cho rằng một phần lớn lý do là trong hệ giá trị ấy ông dễ thăng tiến, vì con người hiếm khi biết rõ động cơ của chính mình. Ông còn nhận thấy những kiểu suy nghĩ được cuộc đời thưởng thường thành niềm tin mạnh nhất, nên việc ông ngày càng thích Cicero một phần là vì đời đã thưởng cho ông nhiều hơn mức ông xứng đáng. Ông bổ sung cho Cicero một ý từ tâm lý học hiện đại: tự khen mình khi cư xử tốt sẽ làm hành vi sau này tốt hơn.
-3. **Có nên làm theo mọi lời khuyên của Cicero như Buffett không?** Không hẳn. Munger coi Buffett là người tiếp nối Cicero, Cato và Franklin thời nay: ở lại "đấu trường" tới cuối, vui vẻ, đem lại kết quả tốt cho người tin ông, và dùng uy tín để dạy người khác bằng sự hài hước. Nhưng ông cảnh báo đó là trường hợp rất hiếm. Trong thế giới giàu hơn, sống lâu hơn, nhiều người sống tới lúc suy giảm nặng, và nhiều người còn khoẻ vẫn bị buộc rời vị trí quyền lực; với họ, vui vẻ chấp nhận một vai trò nhỏ hơn thường là khôn ngoan. Ông cũng nhắc người thích dạy đời (kể cả chính ông, qua giọng tự giễu) rằng thế giới chỉ thưởng cho rất ít người như vậy, chủ yếu những ai biết pha đạo đức với sự dí dỏm như Shaw. Ngay với Cicero, ông cũng chỉ ra chỗ suy rộng quá đà: thích tranh tụng hơn thú vui xác thịt là sở thích riêng của một luật sư lớn, không phải của mọi người ngoài 60.
+1. **Theo Cicero và Munger, điều gì làm cho tuổi già tốt đẹp?** Câu trả lời nằm trong câu nổi tiếng nhất của *De Senectute*: áo giáp tốt nhất của tuổi già là một cuộc đời sống tốt trước đó, tức một đời theo đuổi kiến thức hữu ích, làm những việc đáng trọng và thực hành đức hạnh. Người rèn mình từ trẻ sẽ hái quả khi già, vì kiến thức và đức tính không bỏ ai đi, và vì lương tâm cùng ký ức về việc tốt đã làm đem lại niềm an ủi lớn.
+
+   Thêm vào đó, người già nên tiếp tục học (như Solon "ngày nào cũng học thêm một điều"), đặc biệt là học triết học theo nghĩa tìm nguyên nhân gốc rễ; tiếp tục làm việc và không nghỉ hưu sớm; làm việc cho những kết quả mình không sống tới để thấy; không keo kiệt, không sợ chết, không than phiền; được kính trọng và tự bảo vệ quyền của mình.
+
+   Cicero còn cho rằng nếu sống đúng thì phần kém của đời là phần đầu, không phải phần cuối, và điều tốt nhất một người trẻ có thể mong là được già đi trước khi chết. Franklin là bằng chứng: ông sống theo các lời khuyên này và có một tuổi già hữu ích, hạnh phúc dù nhiều bệnh tật.
+2. **Munger rút ra gì về chính mình khi đọc Cicero?** Ông thấy nhiều nét của mình được Cicero coi là đức tính: hăng say khi nói cho người khác điều họ nên biết, mải nghĩ khi người khác đang nói, tự hào về việc mình đã sống tốt.
+
+   Nhưng điều sâu hơn là ông tự soi động cơ của mình: ông từng nghĩ mình theo quan điểm chính trị của Cicero vì thương đồng loại, nay ông cho rằng một phần lớn lý do là trong hệ giá trị ấy ông dễ thăng tiến, vì con người hiếm khi biết rõ động cơ của chính mình. Ông còn nhận thấy những kiểu suy nghĩ được cuộc đời thưởng thường thành niềm tin mạnh nhất, nên việc ông ngày càng thích Cicero một phần là vì đời đã thưởng cho ông nhiều hơn mức ông xứng đáng. Ông bổ sung cho Cicero một ý từ tâm lý học hiện đại: tự khen mình khi cư xử tốt sẽ làm hành vi sau này tốt hơn.
+3. **Có nên làm theo mọi lời khuyên của Cicero như Buffett không?** Không hẳn. Munger coi Buffett là người tiếp nối Cicero, Cato và Franklin thời nay: ở lại "đấu trường" tới cuối, vui vẻ, đem lại kết quả tốt cho người tin ông, và dùng uy tín để dạy người khác bằng sự hài hước.
+
+   Nhưng ông cảnh báo đó là trường hợp rất hiếm. Trong thế giới giàu hơn, sống lâu hơn, nhiều người sống tới lúc suy giảm nặng, và nhiều người còn khoẻ vẫn bị buộc rời vị trí quyền lực; với họ, vui vẻ chấp nhận một vai trò nhỏ hơn thường là khôn ngoan. Ông cũng nhắc người thích dạy đời (kể cả chính ông, qua giọng tự giễu) rằng thế giới chỉ thưởng cho rất ít người như vậy, chủ yếu những ai biết pha đạo đức với sự dí dỏm như Shaw. Ngay với Cicero, ông cũng chỉ ra chỗ suy rộng quá đà: thích tranh tụng hơn thú vui xác thịt là sở thích riêng của một luật sư lớn, không phải của mọi người ngoài 60.
 
 ## Khái niệm cần biết
 
 **"Bàn về tuổi già" (*De Senectute*, *Cato Maior de Senectute*; bản Franklin in: *Cato Major, or His Discourse of Old-Age*).** Tác phẩm Cicero viết khoảng năm 44 TCN, dưới dạng cuộc đối thoại trong đó Cato Già, lúc đã hơn 80 tuổi, giải thích vì sao tuổi già không đáng sợ. Ví dụ trong sách: Franklin in bản tiếng Anh ở Philadelphia năm 1744; năm 2005 Levenger Press in lại đúng nguyên bản với tựa *Cicero, On a Life Well Spent*. Quan trọng vì toàn bộ bài viết là lời bình của Munger, lúc 82 tuổi, về từng lời khuyên trong cuốn sách này.
 
-**Chính thể hỗn hợp với cơ chế kiểm soát và cân bằng (mixed government; checks and balances).** Mô hình nhà nước mà Cicero đề xuất: ghép dân chủ có quyền bầu cử hạn chế, chính thể quả đầu (một nhóm ít người ưu tú) và vương quyền tạm thời (người đứng đầu có nhiệm kỳ), sao cho các nhánh kiềm chế nhau và không một chính khách nào gây được thiệt hại không chịu nổi. Ví dụ minh hoạ của người tổng hợp: ở Mỹ, cử tri bầu Quốc hội (yếu tố dân chủ), Thượng viện với 100 thượng nghị sĩ là nhóm nhỏ (yếu tố quả đầu), tổng thống có nhiệm kỳ 4 năm (vương quyền tạm thời), và mỗi nhánh có quyền chặn nhánh kia. Quan trọng vì Munger nói ông lớn lên ngay trong một chính thể kiểu Cicero ở Nebraska, và cách thiết kế này đi từ cái nhìn hoài nghi, thực tế về bản chất con người, giống cách Munger nhìn con người trong cả cuốn sách.
+**Chính thể hỗn hợp với cơ chế kiểm soát và cân bằng (mixed government; checks and balances).** Mô hình nhà nước mà Cicero đề xuất: ghép dân chủ có quyền bầu cử hạn chế, chính thể quả đầu (một nhóm ít người ưu tú) và vương quyền tạm thời (người đứng đầu có nhiệm kỳ), sao cho các nhánh kiềm chế nhau và không một chính khách nào gây được thiệt hại không chịu nổi.
+
+Ví dụ minh hoạ của người tổng hợp: ở Mỹ, cử tri bầu Quốc hội (yếu tố dân chủ), Thượng viện với 100 thượng nghị sĩ là nhóm nhỏ (yếu tố quả đầu), tổng thống có nhiệm kỳ 4 năm (vương quyền tạm thời), và mỗi nhánh có quyền chặn nhánh kia. Quan trọng vì Munger nói ông lớn lên ngay trong một chính thể kiểu Cicero ở Nebraska, và cách thiết kế này đi từ cái nhìn hoài nghi, thực tế về bản chất con người, giống cách Munger nhìn con người trong cả cuốn sách.
 
 **Con người hiếm khi biết rõ động cơ của mình (a man seldom fully knows his own motives).** Người ta thường giải thích hành động của mình bằng lý do cao đẹp, trong khi một phần lớn lý do thật là lợi ích riêng. Ví dụ trong sách: Munger từng tin mình theo quan điểm chính trị của Cicero vì quan tâm tới đồng loại; về sau ông cho rằng một phần lớn lý do là trong hệ giá trị ấy ông "khá dễ thăng tiến". Quan trọng vì đây là hình thức nhẹ của **thiên lệch do động cơ khuyến khích (incentive-caused bias)** áp vào chính mình, một chủ đề Munger phân tích kỹ trong Bài 11; việc ông tự soi mình trước cho thấy ông dùng các nguyên tắc đó cả với bản thân.
 
@@ -610,7 +619,9 @@ Munger biết tới cuốn sách lần đầu năm 2006, khi hai người bạn,
 
 Munger biết tới Cicero lần đầu khi học tiếng Latin ở trường trung học Omaha Central High, vào những năm cuối của cuộc Đại suy thoái. Khi đó, cậu học sinh Munger không thấy buồn vì Cicero chết ngay sau khi chính thể cộng hoà mà ông yêu bị chấm dứt.
 
-**Hộp bên lề của người biên tập: Marcus Tullius Cicero.** Cicero sống tới 63 tuổi, khá thọ đối với một người La Mã thời đó. Ông bị giết năm 43 TCN theo lệnh của Mark Antony, vì đã phản đối việc duy trì chế độ chuyên quyền, chế độ đã thay thế "nền dân chủ La Mã" vài năm trước đó khi Caesar lên nắm quyền tối cao (người biên tập viết là Caesar "trở thành Hoàng đế"; theo hiểu biết của người tổng hợp, Caesar là nhà độc tài chứ không phải hoàng đế, và La Mã khi đó là một nền cộng hoà chứ không phải nền dân chủ theo nghĩa hiện đại). Cái chết ấy chấm dứt cuộc đời của nhà văn, nhà hùng biện và luật sư vĩ đại nhất của La Mã, đồng thời là một trong những chính khách vĩ đại nhất của La Mã.
+**Hộp bên lề của người biên tập: Marcus Tullius Cicero.** Cicero sống tới 63 tuổi, khá thọ đối với một người La Mã thời đó. Ông bị giết năm 43 TCN theo lệnh của Mark Antony, vì đã phản đối việc duy trì chế độ chuyên quyền, chế độ đã thay thế "nền dân chủ La Mã" vài năm trước đó khi Caesar lên nắm quyền tối cao (người biên tập viết là Caesar "trở thành Hoàng đế"; theo hiểu biết của người tổng hợp, Caesar là nhà độc tài chứ không phải hoàng đế, và La Mã khi đó là một nền cộng hoà chứ không phải nền dân chủ theo nghĩa hiện đại).
+
+Cái chết ấy chấm dứt cuộc đời của nhà văn, nhà hùng biện và luật sư vĩ đại nhất của La Mã, đồng thời là một trong những chính khách vĩ đại nhất của La Mã.
 
 ### 2. Cicero chưa thật sự chết; mô hình chính thể của ông (trang in 28–29)
 
@@ -646,7 +657,9 @@ Munger viết rằng dù vợ chồng McBain hơi thiếu tế nhị khi tặng 
 
 Ngay trang đầu tiên của sách đã nhẹ bớt một trong những gánh nặng lớn của Munger. Ở đó Cicero viết rằng những suy nghĩ đến với ông trong lúc viết cuốn sách thú vị và dễ chịu tới mức chúng làm cho tuổi già có vẻ dễ chịu và thoải mái. Munger bình: rõ ràng đây là một người cùng loại với ông, tự động bị cuốn hút và bị thuyết phục bởi chính lời mình.
 
-Từ lâu Munger tin rằng mình có một khiếm khuyết xã hội: càng nói cho người khác nghe những điều ông nghĩ họ nên biết, ông càng hăng say. Đặc điểm này thường gây ác cảm, và ông chỉ bù lại được một phần bằng cách hào phóng, có khi hào phóng tới mức làm người ta khó chịu. May thay, Cicero vĩ đại lại mô tả đặc điểm này như một đức tính có ích, vì nó làm việc dạy dỗ thế giới dễ dàng hơn. Munger viết: "Chính xác." Rồi ông đùa: nên nghĩ sao về một trường trung học đã bắt vĩ nhân này dạy ông thêm một hai đoạn về âm mưu Catiline, trong khi Cicero lẽ ra có thể dạy ông tự tin hơn vào lời mình? Ông đoán có lẽ vì Central High là một trường khá tốt so với thời đó, hoặc vì nhiều bạn học của ông đã tự đánh giá mình rất cao nên không có nhu cầu được trấn an như cậu Munger.
+Từ lâu Munger tin rằng mình có một khiếm khuyết xã hội: càng nói cho người khác nghe những điều ông nghĩ họ nên biết, ông càng hăng say. Đặc điểm này thường gây ác cảm, và ông chỉ bù lại được một phần bằng cách hào phóng, có khi hào phóng tới mức làm người ta khó chịu.
+
+May thay, Cicero vĩ đại lại mô tả đặc điểm này như một đức tính có ích, vì nó làm việc dạy dỗ thế giới dễ dàng hơn. Munger viết: "Chính xác." Rồi ông đùa: nên nghĩ sao về một trường trung học đã bắt vĩ nhân này dạy ông thêm một hai đoạn về âm mưu Catiline, trong khi Cicero lẽ ra có thể dạy ông tự tin hơn vào lời mình? Ông đoán có lẽ vì Central High là một trường khá tốt so với thời đó, hoặc vì nhiều bạn học của ông đã tự đánh giá mình rất cao nên không có nhu cầu được trấn an như cậu Munger.
 
 **Hộp bên lề của người biên tập: Âm mưu Catiline.** Lucius Sergius Catilina (108–62 TCN), tên tiếng Anh là Catiline, là một chính khách La Mã nổi tiếng nhất vì mưu toan lật đổ nền Cộng hoà La Mã, đặc biệt là quyền lực của Viện Nguyên lão quý tộc. Cicero, kẻ thù chính trị gay gắt nhất của ông, đã không tiếc lời lên án ông trong loạt "Diễn văn chống Catiline" (*Catiline Orations*). Âm mưu Catiline là một trong những sự kiện nổi tiếng nhất của mấy thập niên cuối đầy biến động của Cộng hoà La Mã.
 
@@ -656,7 +669,9 @@ Từ lâu Munger tin rằng mình có một khiếm khuyết xã hội: càng n�
 
 Lời của Cicero còn làm Munger hài lòng hơn vì ủng hộ việc ông từ lâu bác bỏ một quan điểm phổ biến. Munger luôn từ chối chấp nhận một cách hiểu dụ ngôn người Pharisêu và người thu thuế trong Kinh Thánh Ki-tô giáo. Theo cách hiểu đó, một người học rộng, mộ đạo, sau cả đời làm tròn bổn phận, lại bị phê phán vì vui mừng rằng mình không rơi vào cảnh của một người khác, người đã cư xử tệ hơn nhiều và sa vào tình trạng thấp kém cả về đạo đức lẫn địa vị.
 
-**Hộp bên lề của người biên tập: Phúc Âm Luca 18:9–14 (bản King James).** Đoạn Kinh Thánh kể: Chúa Giê-su nói dụ ngôn này với những người tin mình là công chính và khinh người khác. Hai người lên đền thờ cầu nguyện, một người Pharisêu và một người thu thuế. Người Pharisêu đứng cầu nguyện thầm: "Lạy Chúa, con tạ ơn Chúa vì con không như những người khác: kẻ tống tiền, bất công, ngoại tình, hay như tên thu thuế này. Con ăn chay mỗi tuần hai lần, con nộp một phần mười mọi thứ con có." Còn người thu thuế đứng xa, không dám ngước mắt lên trời, đấm ngực mà nói: "Lạy Chúa, xin thương xót con là kẻ tội lỗi." Chúa Giê-su kết: người thu thuế này ra về được coi là công chính, còn người kia thì không; vì ai tự tôn mình lên sẽ bị hạ xuống, còn ai tự hạ mình xuống sẽ được tôn lên.
+**Hộp bên lề của người biên tập: Phúc Âm Luca 18:9–14 (bản King James).** Đoạn Kinh Thánh kể: Chúa Giê-su nói dụ ngôn này với những người tin mình là công chính và khinh người khác. Hai người lên đền thờ cầu nguyện, một người Pharisêu và một người thu thuế. Người Pharisêu đứng cầu nguyện thầm: "Lạy Chúa, con tạ ơn Chúa vì con không như những người khác: kẻ tống tiền, bất công, ngoại tình, hay như tên thu thuế này. Con ăn chay mỗi tuần hai lần, con nộp một phần mười mọi thứ con có."
+
+Còn người thu thuế đứng xa, không dám ngước mắt lên trời, đấm ngực mà nói: "Lạy Chúa, xin thương xót con là kẻ tội lỗi." Chúa Giê-su kết: người thu thuế này ra về được coi là công chính, còn người kia thì không; vì ai tự tôn mình lên sẽ bị hạ xuống, còn ai tự hạ mình xuống sẽ được tôn lên.
 
 Cicero, giống Munger, hoàn toàn phản đối việc tự cấm mình tận hưởng sự tương phản dễ chịu này. Với Cicero, niềm tự hào về một việc làm tốt có tác dụng xây dựng rất lớn. Chẳng hạn, nó thúc đẩy người ta cư xử tốt khi còn trẻ, vì khi về già, nhờ nhớ lại những điều đó, người ta có thể làm mình hạnh phúc hơn. Munger thêm một ý, dựa trên hiểu biết hiện đại: ngoài ra, khi bạn tự khen mình vì đã cư xử tốt, bạn sẽ cải thiện hành vi trong tương lai của mình.
 
@@ -707,7 +722,11 @@ Nhìn chung, Cicero không đánh giá phần cuối đời là kém, như một
 
 Cicero tin vào việc tỏ lòng kính trọng lớn với đàn ông lớn tuổi; như vậy ông có cùng một ý hay gần giống Khổng Tử. Ông còn khuyên người già đứng lên bảo vệ quyền của mình: "Tuổi già luôn đáng kính khi nó chú tâm giữ những quyền chính đáng của mình, không yếu đuối buông chúng đi mà khẳng định chúng tới cùng."
 
-Cicero không bao giờ ủng hộ việc than phiền về bất hạnh riêng, và ông có lý do. Chẳng hạn, ông không tin người già nên than phiền vì sức lực tình dục giảm. Ngược lại, ông nghĩ họ nên mừng vì nay ít có khả năng làm mình bẽ mặt hay mắc bệnh hoa liễu. Munger thấy Cicero tìm ra những lợi ích của tuổi già giống như lợi ích mà một người bạn già của ông, ở đây gọi là "Glotz", đã phát hiện. Ngay trước khi mất ở tuổi 75, Glotz nói với Munger: "Tôi từng bị dằn vặt bởi những ý nghĩ thèm muốn không mong muốn về vợ của bạn bè mình, nhưng, có Chúa chứng giám, cuối cùng tôi đã thắng được nó." Tuy vậy, Cicero không chịu đợi tới 75 tuổi như Glotz. Mới ngoài 60, Cicero đã khoe về trạng thái của mình, trong đó "những thú vui xác thịt" có vẻ kém hơn "nghề hùng biện và việc bào chữa trước toà". Munger cho rằng ở điểm này vĩ nhân có lẽ đã suy rộng quá đà một sở thích cá nhân. Là luật sư giỏi nhất thế giới, Cicero có thể đã bị chính cơ cấu tài năng của mình đánh lừa. Chắc chắn những người còn lại chúng ta, khi mới ngoài 60, sẽ không thường thích tranh tụng như Cicero.
+Cicero không bao giờ ủng hộ việc than phiền về bất hạnh riêng, và ông có lý do. Chẳng hạn, ông không tin người già nên than phiền vì sức lực tình dục giảm. Ngược lại, ông nghĩ họ nên mừng vì nay ít có khả năng làm mình bẽ mặt hay mắc bệnh hoa liễu.
+
+Munger thấy Cicero tìm ra những lợi ích của tuổi già giống như lợi ích mà một người bạn già của ông, ở đây gọi là "Glotz", đã phát hiện. Ngay trước khi mất ở tuổi 75, Glotz nói với Munger: "Tôi từng bị dằn vặt bởi những ý nghĩ thèm muốn không mong muốn về vợ của bạn bè mình, nhưng, có Chúa chứng giám, cuối cùng tôi đã thắng được nó."
+
+Tuy vậy, Cicero không chịu đợi tới 75 tuổi như Glotz. Mới ngoài 60, Cicero đã khoe về trạng thái của mình, trong đó "những thú vui xác thịt" có vẻ kém hơn "nghề hùng biện và việc bào chữa trước toà". Munger cho rằng ở điểm này vĩ nhân có lẽ đã suy rộng quá đà một sở thích cá nhân. Là luật sư giỏi nhất thế giới, Cicero có thể đã bị chính cơ cấu tài năng của mình đánh lừa. Chắc chắn những người còn lại chúng ta, khi mới ngoài 60, sẽ không thường thích tranh tụng như Cicero.
 
 Cũng trong tinh thần phản đối than phiền, Cicero chỉ ra rằng than phiền vì đã tới tuổi già là ngớ ngẩn. Theo ông, điều tốt nhất một người trẻ có thể hy vọng là được già trước khi chết, và không thích hợp khi than phiền vì đạt được kết quả tốt nhất mà mình từng có thể mong muốn một cách hợp lý.
 
@@ -723,7 +742,9 @@ Munger nhận thấy ở Cicero một sự cân bằng khách quan như của m�
 | Người gặp kết cục thấp kém về địa vị, của cải nhưng xử lý nó với đạo đức đúng và sự chăm chỉ | Cũng đáng khâm phục ngang người xử lý tốt một kết cục cao sang; nhưng Cicero thừa nhận nghèo khổ cùng cực, nếu xảy ra, chắc chắn làm tuổi già khó khăn |
 | Của cải có che chở người yếu đuối và người thiếu lo xa khỏi khổ sở không? | Không. Theo Cicero, người giàu chắc chắn sẽ khổ nếu họ thiếu đạo đức và thiếu khả năng lo liệu trước |
 
-**Hộp bên lề của người biên tập: Cato Già (234–149 TCN).** Hộp mở bằng câu được gán cho Cato: "Kiên nhẫn là đức tính lớn nhất trong mọi đức tính." Marcus Porcius Cato là một chính khách La Mã, có biệt hiệu "Người Kiểm duyệt" (*The Censor*), nhưng sử sách gọi là "Cato Già" để phân biệt với Cato Trẻ, chắt của ông. Ông xuất thân từ một gia đình có tiếng, tự khẳng định mình là một học giả và giữ nhiều chức vụ trong bộ máy nhà nước ở Rome. Khi làm quan Kiểm duyệt, ông rà soát danh sách các nguyên lão và hiệp sĩ với sự nghiêm khắc không khoan nhượng, loại bỏ nhiều người ông cho là không xứng đáng vì lý do đạo đức hoặc vì thiếu năng lực. Việc trục xuất L. Quinctius Flamininus vì sự tàn ác bừa bãi là một ví dụ cho sự công minh cứng rắn của ông. Hộp kèm ảnh một đồng tiền bạc La Mã.
+**Hộp bên lề của người biên tập: Cato Già (234–149 TCN).** Hộp mở bằng câu được gán cho Cato: "Kiên nhẫn là đức tính lớn nhất trong mọi đức tính." Marcus Porcius Cato là một chính khách La Mã, có biệt hiệu "Người Kiểm duyệt" (*The Censor*), nhưng sử sách gọi là "Cato Già" để phân biệt với Cato Trẻ, chắt của ông. Ông xuất thân từ một gia đình có tiếng, tự khẳng định mình là một học giả và giữ nhiều chức vụ trong bộ máy nhà nước ở Rome.
+
+Khi làm quan Kiểm duyệt, ông rà soát danh sách các nguyên lão và hiệp sĩ với sự nghiêm khắc không khoan nhượng, loại bỏ nhiều người ông cho là không xứng đáng vì lý do đạo đức hoặc vì thiếu năng lực. Việc trục xuất L. Quinctius Flamininus vì sự tàn ác bừa bãi là một ví dụ cho sự công minh cứng rắn của ông. Hộp kèm ảnh một đồng tiền bạc La Mã.
 
 ### 12. Đoạn nổi tiếng nhất của *De Senectute* và Franklin như bằng chứng sống (trang in 35–36)
 
@@ -733,7 +754,9 @@ Munger hỏi: tất cả những lời khuyên này của Cicero, nếu được
 
 Như thường lệ, Franklin cải tiến cái ông tìm thấy. Không bằng lòng với việc chỉ vui vẻ chấp nhận tình trạng già, Franklin thích thú với vai một ông già và đóng vai đó một cách vui vẻ, hết mình, trong khi vẫn làm việc để góp phần tạo ra những gì ông không thể sống tới để hưởng. Như vậy, các ý của Cicero đã có hiệu quả tốt với Franklin.
 
-**Hộp bên lề của người biên tập: Mark Antony (83–30 TCN).** Sau khi Caesar bị ám sát vào ngày rằm tháng Ba (*Ides of March*) năm 44 TCN, Cicero và Mark Antony, thuộc cấp của Caesar, trở thành hai người đứng đầu Rome: Cicero là người phát ngôn của Viện Nguyên lão, còn Antony là Chấp chính quan và người thực thi di chúc của Caesar. Nhưng hai người vốn chưa bao giờ thân thiện, và quan hệ xấu đi khi Cicero tỏ rõ rằng ông cho là Antony đang diễn giải ý nguyện và dự định của Caesar một cách tuỳ tiện, không công bằng. Trong một loạt diễn văn gọi là "Philippics", Cicero công kích Antony và ca ngợi các đối thủ của ông. Nhờ "Philippics" và trí tuệ nổi tiếng của mình, Cicero trở thành một lãnh tụ rất được lòng dân. Cuối cùng, bị khiêu khích tới mức lập lực lượng vũ trang, Antony truy lùng Cicero và giành lại Rome. Khi đã nắm quyền, Antony tuyên bố Cicero là kẻ thù của nhà nước và cho xử tử ông năm 43 TCN. Hộp kèm ảnh một tượng bán thân và ảnh hai mặt một đồng tiền thời Antony (chú thích "Mark Antony Roman Imperatorials").
+**Hộp bên lề của người biên tập: Mark Antony (83–30 TCN).** Sau khi Caesar bị ám sát vào ngày rằm tháng Ba (*Ides of March*) năm 44 TCN, Cicero và Mark Antony, thuộc cấp của Caesar, trở thành hai người đứng đầu Rome: Cicero là người phát ngôn của Viện Nguyên lão, còn Antony là Chấp chính quan và người thực thi di chúc của Caesar. Nhưng hai người vốn chưa bao giờ thân thiện, và quan hệ xấu đi khi Cicero tỏ rõ rằng ông cho là Antony đang diễn giải ý nguyện và dự định của Caesar một cách tuỳ tiện, không công bằng.
+
+Trong một loạt diễn văn gọi là "Philippics", Cicero công kích Antony và ca ngợi các đối thủ của ông. Nhờ "Philippics" và trí tuệ nổi tiếng của mình, Cicero trở thành một lãnh tụ rất được lòng dân. Cuối cùng, bị khiêu khích tới mức lập lực lượng vũ trang, Antony truy lùng Cicero và giành lại Rome. Khi đã nắm quyền, Antony tuyên bố Cicero là kẻ thù của nhà nước và cho xử tử ông năm 43 TCN. Hộp kèm ảnh một tượng bán thân và ảnh hai mặt một đồng tiền thời Antony (chú thích "Mark Antony Roman Imperatorials").
 
 ### 13. Tượng Cicero và Warren Buffett như người tiếp nối (trang in 37–38)
 
@@ -762,7 +785,13 @@ Thứ hai, phần lớn những người thích dạy đời nên lưu ý lời 
 
 Bài khép lại bằng một bức ảnh Munger ngồi câu cá trên sông Sacramento năm 2005, lúc hoàng hôn, kèm câu "Áo giáp tốt nhất của Tuổi già là một cuộc đời sống tốt trước đó."
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Ông Hùng 58 tuổi, là kỹ sư trưởng một công ty xây dựng, sắp tới tuổi nghỉ hưu theo quy định. Ông áp dụng các ý trong bài như sau. Về **áo giáp của tuổi già**: từ năm 30 tuổi ông đã đọc mỗi tối một giờ và giữ uy tín nghề nghiệp sạch sẽ; sau gần 30 năm, ông có khoảng 10.000 giờ đọc tích luỹ và một danh tiếng mà đồng nghiệp tin tưởng, nên ông không sợ ngày nghỉ hưu. Về **học suốt đời**: ông đăng ký học tiếng Anh chuyên ngành và một khoá mô hình thông tin công trình (BIM), như Cato học tiếng Hy Lạp lúc già. Về **không nghỉ hưu hẳn nhưng chấp nhận vai trò nhỏ hơn** (lời cảnh báo cuối của Munger): ông không cố bám ghế kỹ sư trưởng, mà đề nghị làm cố vấn bán thời gian, 2 ngày mỗi tuần, hướng dẫn 5 kỹ sư trẻ; lương giảm từ 50 triệu xuống 20 triệu đồng mỗi tháng nhưng ông vui vẻ nhận. Về **không keo kiệt khi về già**: với khoản tiết kiệm 3 tỷ đồng, ông dành 300 triệu lập một quỹ học bổng nhỏ cho sinh viên xây dựng ở quê, một việc có kết quả ông có thể không sống tới để thấy hết. Về **tự soi động cơ**: khi định viết bài trên mạng phê phán cách làm của công ty cũ, ông tự hỏi mình làm vậy vì công trình hay vì tự ái bị thay thế; ông chọn góp ý trực tiếp, kèm vài câu chuyện vui, theo bài học về Shaw: lời dạy pha chút dí dỏm thì dễ được nghe hơn.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Ông Hùng 58 tuổi, là kỹ sư trưởng một công ty xây dựng, sắp tới tuổi nghỉ hưu theo quy định. Ông áp dụng các ý trong bài như sau.
+
+Về **áo giáp của tuổi già**: từ năm 30 tuổi ông đã đọc mỗi tối một giờ và giữ uy tín nghề nghiệp sạch sẽ; sau gần 30 năm, ông có khoảng 10.000 giờ đọc tích luỹ và một danh tiếng mà đồng nghiệp tin tưởng, nên ông không sợ ngày nghỉ hưu. Về **học suốt đời**: ông đăng ký học tiếng Anh chuyên ngành và một khoá mô hình thông tin công trình (BIM), như Cato học tiếng Hy Lạp lúc già.
+
+Về **không nghỉ hưu hẳn nhưng chấp nhận vai trò nhỏ hơn** (lời cảnh báo cuối của Munger): ông không cố bám ghế kỹ sư trưởng, mà đề nghị làm cố vấn bán thời gian, 2 ngày mỗi tuần, hướng dẫn 5 kỹ sư trẻ; lương giảm từ 50 triệu xuống 20 triệu đồng mỗi tháng nhưng ông vui vẻ nhận. Về **không keo kiệt khi về già**: với khoản tiết kiệm 3 tỷ đồng, ông dành 300 triệu lập một quỹ học bổng nhỏ cho sinh viên xây dựng ở quê, một việc có kết quả ông có thể không sống tới để thấy hết.
+
+Về **tự soi động cơ**: khi định viết bài trên mạng phê phán cách làm của công ty cũ, ông tự hỏi mình làm vậy vì công trình hay vì tự ái bị thay thế; ông chọn góp ý trực tiếp, kèm vài câu chuyện vui, theo bài học về Shaw: lời dạy pha chút dí dỏm thì dễ được nghe hơn.
 
 ## Luận điểm cốt lõi
 
@@ -905,11 +934,17 @@ Munger thừa nhận ông có "tật" hăng say dạy người khác, và bài v
 
 ### Giới hạn: bài dựa trên tấm gương của những người rất thành công, và chính Munger đã chỉ ra giới hạn đó
 
-Bằng chứng chính của bài là Franklin, Cato, Cicero và Buffett, những người vừa có trí tuệ lớn vừa có thành công và của cải lớn. Đây là kiểu chọn mẫu thiên về người thắng (*survivorship bias*): nhiều người cũng học suốt đời và sống đạo đức nhưng tuổi già vẫn khổ vì bệnh tật, nghèo túng hay cô đơn. Điều đáng chú ý là bài không giấu điều đó: Cicero thừa nhận thành công có góp phần cho tuổi già tốt của Cato, và nghèo khổ cùng cực chắc chắn làm tuổi già khó khăn; Munger thì kết bài bằng cảnh báo rằng trường hợp Buffett rất hiếm và phần lớn người già nên chấp nhận vai trò nhỏ hơn. Một vài lời khuyên của Cicero, như coi gần như mọi cách nghỉ hưu sớm là không thể nghĩ tới, hay chỉ tập trung kính trọng "đàn ông lớn tuổi", phản ánh xã hội La Mã quý tộc và nam quyền, không hợp với nhiều hoàn cảnh hiện nay. Hộp bên lề của người biên tập cũng có vài lỗi (tuổi mất của Franklin, Caesar là "Hoàng đế"), nên người đọc nên coi các hộp là phần minh hoạ, không phải nguồn sử liệu chính xác.
+Bằng chứng chính của bài là Franklin, Cato, Cicero và Buffett, những người vừa có trí tuệ lớn vừa có thành công và của cải lớn. Đây là kiểu chọn mẫu thiên về người thắng (*survivorship bias*): nhiều người cũng học suốt đời và sống đạo đức nhưng tuổi già vẫn khổ vì bệnh tật, nghèo túng hay cô đơn.
+
+Điều đáng chú ý là bài không giấu điều đó: Cicero thừa nhận thành công có góp phần cho tuổi già tốt của Cato, và nghèo khổ cùng cực chắc chắn làm tuổi già khó khăn; Munger thì kết bài bằng cảnh báo rằng trường hợp Buffett rất hiếm và phần lớn người già nên chấp nhận vai trò nhỏ hơn.
+
+Một vài lời khuyên của Cicero, như coi gần như mọi cách nghỉ hưu sớm là không thể nghĩ tới, hay chỉ tập trung kính trọng "đàn ông lớn tuổi", phản ánh xã hội La Mã quý tộc và nam quyền, không hợp với nhiều hoàn cảnh hiện nay. Hộp bên lề của người biên tập cũng có vài lỗi (tuổi mất của Franklin, Caesar là "Hoàng đế"), nên người đọc nên coi các hộp là phần minh hoạ, không phải nguồn sử liệu chính xác.
 
 ### Từ năm 2006 tới nay, chính cuộc đời Munger và Buffett đã trở thành bằng chứng cho bài viết
 
-Munger viết bài lúc 82 tuổi; theo hiểu biết của người tổng hợp, ông tiếp tục làm phó chủ tịch Berkshire Hathaway, chủ tịch Daily Journal, tham gia thiết kế công trình cho các trường đại học và trả lời cổ đông cho tới khi mất vào cuối năm 2023, ở tuổi 99, tức gần 17 năm sau bài viết. Buffett, người được ông gọi là người tiếp nối Cicero, tiếp tục điều hành Berkshire tới khi đã ngoài 90. Như vậy hai người đã sống đúng lời khuyên "ở lại đấu trường" và "học mỗi ngày". Đồng thời, điều Munger cảnh báo cũng rõ hơn: dân số già đi nhanh ở nhiều nước, số người sống lâu với suy giảm trí nhớ tăng, và tuổi nghỉ hưu bắt buộc, cùng thị trường lao động ưu ái người trẻ, khiến lời khuyên "vui vẻ nhận vai trò nhỏ hơn" thực tế cho số đông hơn là tấm gương Buffett.
+Munger viết bài lúc 82 tuổi; theo hiểu biết của người tổng hợp, ông tiếp tục làm phó chủ tịch Berkshire Hathaway, chủ tịch Daily Journal, tham gia thiết kế công trình cho các trường đại học và trả lời cổ đông cho tới khi mất vào cuối năm 2023, ở tuổi 99, tức gần 17 năm sau bài viết. Buffett, người được ông gọi là người tiếp nối Cicero, tiếp tục điều hành Berkshire tới khi đã ngoài 90. Như vậy hai người đã sống đúng lời khuyên "ở lại đấu trường" và "học mỗi ngày".
+
+Đồng thời, điều Munger cảnh báo cũng rõ hơn: dân số già đi nhanh ở nhiều nước, số người sống lâu với suy giảm trí nhớ tăng, và tuổi nghỉ hưu bắt buộc, cùng thị trường lao động ưu ái người trẻ, khiến lời khuyên "vui vẻ nhận vai trò nhỏ hơn" thực tế cho số đông hơn là tấm gương Buffett.
 
 ### Quan điểm trái chiều: dụ ngôn người Pharisêu có thể được hiểu khác với cách Munger bác bỏ
 
@@ -921,3 +956,178 @@ Munger và Cicero bảo vệ quyền được tự hào khi so mình với ngư�
 - **Trong doanh nghiệp, nghề nghiệp.** Tìm và giữ những người mình học được nhiều nhất, vì theo Cicero mất họ là mất mát lớn nhất. Với người lãnh đạo lớn tuổi: nếu còn năng lực, như Buffett, có thể ở lại và dạy lại người trẻ; nếu không, chủ động chuyển sang vai cố vấn thay vì bám ghế. Khi góp ý hay phê bình, pha thêm sự dí dỏm để người nghe dễ nhận.
 - **Trong ra quyết định cá nhân.** Sống sao cho khi về già có điều tốt để nhớ lại; tự khen mình sau mỗi việc làm đúng để củng cố thói quen tốt; không than phiền về tuổi tác hay bất hạnh, mà tìm mặt lợi của từng giai đoạn; khi giàu lên tuổi già, không keo kiệt mà dùng tiền cho những việc có ích lâu dài.
 - **Ở Việt Nam.** Truyền thống kính trọng người cao tuổi, gần với ý Khổng Tử mà Munger nhắc, là một lợi thế để người già tiếp tục đóng vai cố vấn trong gia đình và cộng đồng. Tuổi nghỉ hưu theo quy định khiến nhiều người còn khoẻ phải rời vị trí; lời khuyên của Munger về việc vui vẻ chấp nhận vai trò nhỏ hơn, cùng với việc tiếp tục học (ngoại ngữ, công nghệ, một nghề mới), giúp chuyển giai đoạn này thành cơ hội. Người đang đi làm có thể coi đây là lời nhắc chuẩn bị "áo giáp" sớm: kiến thức, uy tín, sức khoẻ và một khoản tiết kiệm, vì Cicero thừa nhận nghèo khổ cùng cực làm tuổi già khó khăn dù người đó sống tốt.
+
+## Bản đồ tư duy
+
+Toàn cảnh phần 2 của Chương 1 trên một trang: sáu nhánh lớn đi theo các mục 1–14 của phần Nội dung chi tiết (Munger gặp lại Cicero và tự soi động cơ, những "tật" và niềm tự hào được Cicero coi là đức tính, ưu thế trí tuệ và việc học suốt đời của người già, các lời khuyên về cách sống, áo giáp của tuổi già với Franklin và Buffett, hai lời cảnh báo cuối bài), mỗi nhánh ghi luận điểm, ví dụ, giai thoại và câu nói then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 1 (phần 2): tuổi già có thể là phần tốt nhất của đời nếu đã sống đúng từ khi còn trẻ`"]
+  n1["`Mục 1–3 — Munger gặp lại Cicero và tự soi động cơ của chính mình`"]
+  n0 --- n1
+  n2["`Năm 1744 Franklin in bản dịch tiếng Anh đầu tiên ở Mỹ của De Senectute, vì yêu thích chứ không vì tiền`"]
+  n1 --- n2
+  n3["`Năm 2006 vợ chồng McBain tặng bản in lại, Munger 82 tuổi #quot;gần như bay lên quỹ đạo#quot;`"]
+  n1 --- n3
+  n4["`Cicero sau khi chết ảnh hưởng tốt tới nhiều người hơn lúc sống, nhờ lời văn được lưu giữ`"]
+  n1 --- n4
+  n5["`Chính thể hỗn hợp của Cicero: dân chủ bầu cử hạn chế, quả đầu và vương quyền tạm thời`"]
+  n1 --- n5
+  n6["`Ghép thành hệ kiểm soát và cân bằng để không chính khách nào gây thiệt hại không chịu nổi`"]
+  n5 --- n6
+  n7["`Gốc là hoài nghi thực tế về bản chất con người, cân bằng bằng bổn phận phục vụ Nhà nước`"]
+  n5 --- n7
+  n8["`Cicero đặt ra chữ Latin moralis, gốc của chữ moral, để thúc người La Mã đi đúng hướng`"]
+  n5 --- n8
+  n9["`Con người hiếm khi biết rõ động cơ của mình: Munger theo Cicero phần lớn vì ở đó ông dễ thăng tiến`"]
+  n1 --- n9
+  n10["`Kiểu suy nghĩ được cuộc đời thưởng thường trở thành niềm tin mãnh liệt nhất của người đó`"]
+  n1 --- n10
+  n11["`Đây là thiên lệch do động cơ khuyến khích Munger tự áp vào mình, phân tích kỹ ở Bài 11`"]
+  n10 --- n11
+  n12["`Mục 4–5 — Những tật của Munger và niềm tự hào được Cicero coi là đức tính`"]
+  n0 --- n12
+  n13["`Tật thứ nhất: càng nói cho người khác điều họ nên biết càng hăng say, hay gây ác cảm`"]
+  n12 --- n13
+  n14["`Cicero coi đó là đức tính vì giúp dạy dỗ thế giới dễ hơn, Munger bình #quot;Chính xác.#quot;`"]
+  n13 --- n14
+  n15["`Tật thứ hai: mải nghĩ khi người khác đang nói, như nhà thiên văn Gallus làm phép tính tới sáng`"]
+  n12 --- n15
+  n16["`Munger bác cách hiểu dụ ngôn người Pharisêu cấm người sống tốt vui vì mình không sa sút như người khác`"]
+  n12 --- n16
+  n17["`Cicero: tự hào về việc làm tốt thúc người trẻ cư xử tốt để khi già có điều tốt mà nhớ`"]
+  n12 --- n17
+  n18["`Munger thêm: tự khen mình khi cư xử tốt sẽ cải thiện hành vi tương lai, tức củng cố tích cực`"]
+  n12 --- n18
+  n19["`Cách hiểu khác: dụ ngôn phê phán sự tự mãn và khinh người, không cấm vui vì đã sống tốt`"]
+  n12 --- n19
+  n20["`Mục 6–8 — Ưu thế của tuổi già là trí tuệ, và học tới hơi thở cuối cùng`"]
+  n0 --- n20
+  n21["`Cicero hỏi về một người họ Scipio: nếu sống tới trăm tuổi, đời ông có thành gánh nặng không`"]
+  n20 --- n21
+  n22["`Cato làm Kiểm duyệt đuổi Flamininus vì tự tay giết một người Gaul để mua vui cho người tình`"]
+  n20 --- n22
+  n23["`Munger đùa #quot;Ôi, thời ấy mới tuyệt!#quot;, có quyền ấy người khôn nào chẳng vui vẻ vào Thượng viện Mỹ`"]
+  n22 --- n23
+  n24["`Agamemnon ước thêm mười người khôn như Nestor, không phải mười người khoẻ như Ajax`"]
+  n20 --- n24
+  n25["`Cicero hỏi: muốn sức của Milo vác bò vào sân Olympic hay trí óc của Pythagoras`"]
+  n20 --- n25
+  n26["`Socrates học đàn và Cato học tiếng Hy Lạp khi đã già`"]
+  n20 --- n26
+  n27["`Câu về Solon: #quot;Ngày nào cũng học thêm một điều, ông ấy già đi#quot;`"]
+  n20 --- n27
+  n28["`Cái chết đau nhất là cái chết của người mình đang học hỏi, như Cato với Fabius Maximus`"]
+  n20 --- n28
+  n29["`Triết học là suốt đời tìm nguyên nhân gốc rễ, hoạt động lý tưởng cho người già tới lúc xuống mồ`"]
+  n20 --- n29
+  n30["`Mộ Archimedes bị gai phủ là lời phê phán không lời về La Mã coi nhẹ toán học, khoa học`"]
+  n20 --- n30
+  n31["`Mục 9–11 — Lời khuyên về cách sống và sự cân bằng kiểu quan toà`"]
+  n0 --- n31
+  n32["`Người già giàu không nên keo kiệt: vô lý khi gần cuối hành trình lại tích thêm lương thực`"]
+  n31 --- n32
+  n33["`Sợ chết là ngớ ngẩn: hoặc tới thế giới bên kia tốt hơn, hoặc không còn đau đớn nào`"]
+  n31 --- n33
+  n34["`Đời đáng sống dành phần đáng kể cho kết quả tốt mình chắc chắn không sống tới để thấy`"]
+  n31 --- n34
+  n35["`Nghỉ hưu sớm gần như không thể nghĩ tới: không ai rời vị trí trừ khi có lệnh của Thượng đế`"]
+  n31 --- n35
+  n36["`Nếu sống đúng, phần kém của đời là phần đầu, không phải phần cặn cuối đời`"]
+  n31 --- n36
+  n37["`Không than phiền: sức lực tình dục giảm thì ít nguy cơ bẽ mặt hay mắc bệnh hoa liễu`"]
+  n31 --- n37
+  n38["`Munger: Cicero suy rộng quá đà khi thích bào chữa trước toà hơn thú vui xác thịt`"]
+  n37 --- n38
+  n39["`Bạn già #quot;Glotz#quot; trước khi mất ở tuổi 75 khoe cuối cùng đã thắng ham muốn vợ bạn bè`"]
+  n37 --- n39
+  n40["`Than vì đã già là ngớ ngẩn: điều tốt nhất người trẻ có thể mong là được già trước khi chết`"]
+  n31 --- n40
+  n41["`Kính trọng người già như Khổng Tử, và người già nên khẳng định quyền chính đáng tới cùng`"]
+  n31 --- n41
+  n42["`Thành công có góp phần cho tuổi già tốt của Cato, và nghèo khổ cùng cực làm tuổi già khó khăn`"]
+  n31 --- n42
+  n43["`Giàu có không che chở người thiếu đạo đức và thiếu lo xa khỏi khổ sở`"]
+  n31 --- n43
+  n44["`Mục 12–13 — Áo giáp tốt nhất của tuổi già, với Franklin và Buffett là bằng chứng sống`"]
+  n0 --- n44
+  n45["`#quot;Áo giáp tốt nhất của tuổi già là một cuộc đời sống tốt trước đó#quot;`"]
+  n44 --- n45
+  n46["`Gồm kiến thức hữu ích, việc làm đáng trọng, đức hạnh, cùng lương tâm và ký ức về việc tốt`"]
+  n45 --- n46
+  n47["`Franklin sống theo sách và có một tuổi già thuộc loại hữu ích, hạnh phúc nhất dù nhiều bệnh tật`"]
+  n44 --- n47
+  n48["`Franklin 70 tuổi góp phần soạn Tuyên ngôn Độc lập, 81 tuổi dự hội nghị soạn Hiến pháp năm 1787`"]
+  n47 --- n48
+  n49["`Vị lập quốc duy nhất ký cả Tuyên ngôn Độc lập, Hiệp ước Paris và Hiến pháp Hoa Kỳ`"]
+  n47 --- n49
+  n50["`Franklin thích vai ông già và vẫn làm cho những điều ông không sống tới để hưởng`"]
+  n47 --- n50
+  n51["`Tượng Cicero nơi công cộng vẫn giúp ích hơn hai nghìn năm sau khi Mark Antony cố xoá ảnh hưởng của ông`"]
+  n44 --- n51
+  n52["`Buffett là người cầm gậy tiếp sức: như Cato, vui vẻ ở lại đấu trường, đem kết quả tốt cho người tin ông`"]
+  n44 --- n52
+  n53["`Từ bục giảng dựng cao bởi thành công, Buffett dạy người khác và dễ được nghe nhờ hài hước sâu sắc`"]
+  n44 --- n53
+  n54["`Mục 14 — Hai lời cảnh báo cuối bài và giới hạn của bài`"]
+  n0 --- n54
+  n55["`Trường hợp Buffett rất hiếm: đời giàu, sống lâu nên nhiều người suy giảm nặng hoặc bị buộc rời vị trí`"]
+  n54 --- n55
+  n56["`Với phần lớn người già, vui vẻ nhận vai trò nhỏ hơn, không theo kiểu Buffett, thường là hợp lý`"]
+  n54 --- n56
+  n57["`Thế giới chỉ thưởng rất ít người chọc ngoáy xã hội, thường là người như Shaw biết pha đạo đức với dí dỏm`"]
+  n54 --- n57
+  n58["`Giọng tự giễu (Shirley Smails, ông bạn Glotz, danh sách thượng nghị sĩ) làm bài dạy đời dễ nghe`"]
+  n54 --- n58
+  n59["`Giới hạn: bằng chứng là những người rất thành công, kiểu chọn mẫu thiên về người thắng`"]
+  n54 --- n59
+  n60["`Munger sống đúng lời khuyên, vẫn làm việc tới khi mất cuối năm 2023 ở tuổi 99`"]
+  n54 --- n60
+  n61["`Thông điệp xuyên suốt`"]
+  n0 --- n61
+  n62["`Tuổi già tốt được chuẩn bị từ tuổi trẻ: kiến thức, việc tốt và uy tín là áo giáp không bị lấy đi`"]
+  n61 --- n62
+  n63["`Học mỗi ngày và làm cho kết quả dài hạn, như đầu tư giữ lâu và lo cho nhiều thế hệ`"]
+  n61 --- n63
+  n64["`Tự soi động cơ khi lý do của mình nghe quá cao đẹp mà lại có lợi cho mình`"]
+  n61 --- n64
+  class n0 root
+  class n1,n12,n20,n31,n44,n54,n61 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n18,n19,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n32,n33,n34,n35,n36,n37,n38,n39,n40,n41,n42,n43,n45,n46,n47,n48,n49,n50,n51,n52,n53,n55,n56,n57,n58,n59,n60,n62,n63,n64 leaf
+```
+
+## Nguồn
+
+Peter D. Kaufman (biên tập), *Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger*, ấn bản mở rộng thứ ba (Expanded Third Edition, The Donning Company Publishers, 2005/2006/2008; bản PDF là lần in thứ sáu, 2011), Chương 1 "A Portrait of Charles T. Munger", phần thứ hai: "Praising Old Age: Munger's Reflections on Aging, Inspired by Cicero's *Discourse of Old-Age*", trang in 27–38. Đây là một bài viết, không phải bài nói; Munger viết năm 2006, khi ông 82 tuổi, sau khi được bạn tặng bản in lại cuốn sách về tuổi già của Cicero.
+
+## Tác giả
+
+Charles T. Munger (1924–2023), phó chủ tịch Berkshire Hathaway, cộng sự lâu năm của Warren Buffett. Các hộp bên lề (tiểu sử Cicero, Trollope, Catiline, Milo, Archimedes, Cato, Mark Antony, Franklin; đoạn Kinh Thánh; giải thích về phong cách Hy Lạp – La Mã và triết học Pythagoras) do người biên tập Peter Kaufman và nhóm của ông thêm vào.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 1 dựng chân dung Munger qua ba góc nhìn. Phần trước, "A Portrait of Charles T. Munger" của Michael Broggie, kể đời ông từ bên ngoài: tuổi thơ ở Omaha, quân ngũ, nghề luật, quan hệ với Buffett.
+
+Phần này là lần duy nhất trong chương Munger tự nói về mình: qua việc bình luận cuốn *De Senectute* (*Bàn về tuổi già*) của Cicero, ông cho thấy hệ giá trị của chính ông (học suốt đời, làm việc tới cuối đời, phục vụ cộng đồng, tự hào về việc làm tốt, không than phiền) và cách ông tự soi động cơ của mình. Phần sau, "Remembering: The Children on Charlie", lại chuyển sang góc nhìn của các con ông.
+
+Bài viết cũng chuẩn bị cho Chương 2 ("The Munger Approach to Life, Learning, and Decision Making"): những ý ở đây, như "con người hiếm khi biết rõ động cơ của mình", "kiểu suy nghĩ được thưởng sẽ thành niềm tin", "học mỗi ngày", sẽ được trình bày lại dưới dạng phương pháp, và được phân tích kỹ trong Bài 11 "The Psychology of Human Misjudgment" ở Chương 4.
+
+## Lưu ý
+
+- **Bối cảnh:** Munger viết bài này năm 2006, lúc 82 tuổi, cho ấn bản mở rộng thứ ba. Bài không có tiểu mục; bản tổng hợp chia theo đoạn nội dung và ghi trang in. Trong bài có nhiều câu in nổi (trích lại một câu trong bài, chữ lớn, màu đỏ); bản tổng hợp không lặp lại chúng như nội dung riêng, nhưng đưa phần lớn vào "Câu nói đáng nhớ".
+- **Hộp bên lề:** có 11 hộp của người biên tập: Marcus Tullius Cicero (trang in 27), phong cách Hy Lạp – La Mã và Getty Villa (28), Anthony Trollope kèm tranh biếm hoạ trên tạp chí *Vanity Fair* (29), âm mưu Catiline (30), Phúc Âm Luca 18:9–14 (31), Milo xứ Croton (32), Archimedes (33), triết học Pythagoras kèm một phần bức "Trường học Athens" của Raphael (34), Cato Già kèm ảnh đồng tiền La Mã (35), Mark Antony kèm ảnh tượng bán thân và đồng tiền "Roman Imperatorials" (36), "Franklin on Aging" kèm ảnh trang bìa bản in năm 1744 (37). Ảnh cuối bài (38) là Munger câu cá trên sông Sacramento năm 2005. Mỗi hộp được đưa vào khối sơ đồ và mục nội dung chi tiết của trang tương ứng, ghi rõ "hộp bên lề của người biên tập".
+- **Lỗi OCR đã sửa:** "MeBain" là McBain (Angus và Lucy McBain); "Marcus Tullus" là Marcus Tullius; "Marc Anthony" là Mark Antony; "Lucius Flaminus" trong câu trích là Lucius Quinctius Flamininus; "Pythagoras ability" là "Pythagoras' ability"; ngày trên tranh *Vanity Fair* OCR thành "April 30. 10=1", ảnh trang cho thấy là tháng 4 một năm thập niên 1870, không đọc rõ; các mảnh chữ "Ederant assifta Fast", "JoWon" là chữ trong ảnh, không phải nội dung.
+- **Chỗ sách viết chưa chính xác (theo hiểu biết của người tổng hợp, chưa đối chiếu):**
+  - Hộp bên lề về Cicero nói chế độ chuyên quyền thay "nền dân chủ La Mã" khi "Caesar trở thành Hoàng đế". Thực ra La Mã là một nền cộng hoà (không phải dân chủ theo nghĩa hiện đại), và Julius Caesar là nhà độc tài (*dictator*), không phải hoàng đế; hoàng đế đầu tiên là Augustus (từ năm 27 TCN). Cicero bị giết trong đợt thanh trừng (*proscription*) của Tam hùng thứ hai (Antony, Octavian, Lepidus), không chỉ theo lệnh riêng Antony.
+  - Hộp bên lề về Mark Antony tóm tắt quá gọn: Antony không "săn lùng Cicero và chiếm lại Rome" ngay; ông thua quân của Viện Nguyên lão ở Mutina năm 43 TCN, rồi liên minh với Octavian và Lepidus, và chính liên minh này ra danh sách thanh trừng có tên Cicero.
+  - Hộp "Franklin on Aging" ghi Franklin mất năm 1790 "ở tuổi 92". Franklin sinh tháng 1 năm 1706, nên lúc mất ông 84 tuổi. Các mốc khác trong hộp (62 tuổi năm 1768, 70 tuổi năm 1776, 81 tuổi năm 1787) khớp với năm sinh 1706, nên con số 92 là lỗi riêng. Tên hội mà Franklin làm chủ tịch bị rút gọn; tên đầy đủ là Hội Pennsylvania thúc đẩy xoá bỏ chế độ nô lệ và giải cứu người da đen tự do bị giam giữ trái phép. Trong các câu trích đầu hộp, câu về "ấn bản thứ hai" có trong tự truyện của Franklin; các câu "già quá sớm và khôn quá muộn", "khi bạn thôi thay đổi là bạn hết" thường được gán cho Franklin nhưng không chắc là của ông.
+  - Bản dịch năm 1744 do Franklin in và bán, nhưng người dịch là James Logan, không phải Franklin; bài viết không nói Franklin dịch, nhưng dễ bị hiểu như vậy.
+  - *De Senectute* là một cuộc đối thoại hư cấu, người nói chính là Cato Già (lúc 83–84 tuổi) trò chuyện với Scipio Aemilianus và Laelius. Munger thường viết "Cicero nói" cho những ý mà trong sách là lời Cato. Người La Mã "học tiếng Hy Lạp lúc già" mà Munger nhắc tới chính là Cato.
+  - Đồng tiền trong ảnh ở hộp bên lề về Cato Già mang chữ "M. CATO PRO PR"; theo hiểu biết của người tổng hợp, đó có lẽ là đồng tiền của Cato Trẻ (chắt của Cato Già), đúc khoảng năm 47–46 TCN.
+  - Hộp bên lề về Pythagoras nói hình học Pythagoras giải bài toán "nhân đôi hình vuông" và gọi lời giải là định lý Pythagoras; cách nói này gộp hai chuyện khác nhau. Câu chuyện chia con người thành ba hạng (yêu trí tuệ, yêu danh dự, yêu lợi) thì đúng là được gán cho Pythagoras.
+  - Câu Munger gán cho Lord Chesterfield (uống cạn ba phần tư chén đời rồi muốn chia cặn với một bà giàu có) được ông ghi là "được gán cho" Chesterfield, tức chính Munger cũng không chắc nguồn.

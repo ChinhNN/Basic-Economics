@@ -1,21 +1,26 @@
 # Bài 5 — Diễn văn họp mặt 50 năm khoá tốt nghiệp Trường Luật Harvard (Harvard Law School Fiftieth Reunion Address)
 
-**Nguồn:** *Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger*, biên tập Peter D. Kaufman, The Donning Company Publishers, ấn bản mở rộng thứ ba (bản PDF là lần in thứ sáu, 2011), Chương 4 "Eleven Talks", Bài 5 "Harvard Law School Fiftieth Reunion Address", trang in 302–321. Tên bài nói in trong sách: "The Need for More Multidisciplinary Skills from Professionals: Educational Implications" (Người làm nghề chuyên môn cần thêm kỹ năng đa ngành: hệ quả đối với giáo dục). Munger đọc bài này ngày 24 tháng 4 năm 1998, tại buổi họp mặt kỷ niệm 50 năm khoá tốt nghiệp 1948 của Trường Luật Harvard (Harvard Law School), trước chính các bạn đồng khoá của ông, phần lớn là luật sư, thẩm phán, giáo sư luật đã ngoài bảy mươi tuổi. Phần này gồm lời dẫn của người biên tập, bài nói, lời bình của Munger viết năm 2006 ("Talk Five Revisited"), hộp "Charlie's Checklists" của người biên tập và nhiều hộp bên lề, ảnh, chú thích ảnh.
-**Tác giả:** Charles T. Munger (1924–2023), phó chủ tịch Berkshire Hathaway, tốt nghiệp Trường Luật Harvard năm 1948 dù chưa có bằng đại học, từng hành nghề luật ở Los Angeles trước khi chuyển hẳn sang đầu tư. Lời dẫn, hộp bên lề và hộp "Charlie's Checklists" là của người biên tập Peter D. Kaufman và nhóm biên soạn.
-**Vị trí trong lập luận của cả cuốn sách:** Bài 2 và Bài 3 đặt ra khái niệm **trí tuệ thế gian (worldly wisdom)** và **mạng lưới mô hình tư duy (latticework of mental models)**: muốn ra quyết định tốt thì phải nắm các ý lớn của nhiều ngành. Bài 4 ("Practical Thought About Practical Thought?", 1996) dùng một bài tập tưởng tượng về Coca-Cola để cho thấy các ý lớn đó giải bài toán thực tế ra sao, rồi chê giới học thuật vì không dạy cách nghĩ ấy. Theo lời dẫn của người biên tập, Bài 5 là phần "đưa ra lời giải" sau khi Bài 4 đã "phê phán": Munger chỉ ra giáo dục tinh hoa cần sửa ở đâu và sửa bằng cách nào, lấy mô hình đào tạo phi công làm khuôn mẫu. Bài này cũng là nơi Munger trình bày đầy đủ nhất ý tưởng **danh sách kiểm tra (checklist)** và **tư duy đảo ngược (inversion)** trong giáo dục, nên người biên tập đặt ngay sau bài một hộp tổng kết bốn loại danh sách kiểm tra Munger dùng xuyên suốt cuốn sách. Các khuynh hướng tâm lý mà bài nhắc tới (**thiên lệch do động cơ khuyến khích**, **hội chứng người cầm búa**) được trình bày đầy đủ ở Bài 11 ("The Psychology of Human Misjudgment"). Lời phê phán sự hẹp ngành của khoa học xã hội được Munger phát triển tiếp ở Bài 9 ("Academic Economics", 2003) và Bài 10 (diễn văn tốt nghiệp Trường Luật USC Gould, 2007). Bài 6 tiếp theo ("Investment Practices of Leading Charitable Foundations", cũng năm 1998) quay sang chuyện đầu tư của các quỹ từ thiện.
-**Ý chính:** Munger muốn bạn đồng khoá hiểu rằng **người làm nghề chuyên môn chỉ biết một ngành sẽ suy nghĩ sai một cách có hệ thống, và giáo dục tinh hoa có thể sửa lỗi đó nếu chịu bắt chước những nơi đã đào tạo con người thật sự tốt**. Hai nguyên nhân chính khiến người làm nghề nghĩ sai là **thiên lệch do động cơ khuyến khích (incentive-caused bias)**, tức xu hướng tự nhiên tin rằng điều có lợi cho mình cũng có lợi cho khách hàng, và **hội chứng người cầm búa (man-with-a-hammer tendency)**, tức xu hướng "người chỉ có cái búa thì thấy vấn đề nào cũng giống cái đinh". Thuốc chữa cho cái thứ hai là mang theo nhiều công cụ, tức kỹ năng đa ngành. Ví dụ trung tâm là **đào tạo phi công**: vì sai lầm của phi công phải trả bằng mạng người, ngành hàng không đã xây một hệ thống đào tạo sáu yếu tố (học đủ rộng; luyện tới thành thạo nhờ thực hành; nghĩ cả xuôi lẫn ngược; phân bổ thời gian học theo mức độ hậu quả; bắt buộc dùng danh sách kiểm tra; tập định kỳ trên máy bay mô phỏng để kỹ năng không mai một). Munger lập luận rằng giáo dục cho người giải các vấn đề rộng (luật sư, nhà quản lý, nhà hoạch định chính sách) cần đúng sáu yếu tố đó, chỉ là phạm vi rộng hơn rất nhiều; và điều này khả thi, vì chỉ cần nắm cốt lõi của các ý lớn trong mỗi ngành, vì giáo dục tinh hoa có sẵn người giỏi và nhiều năm học, và vì đã có những người làm được. Ông đề nghị năm cải cách: thêm môn bắt buộc (luật sư phải giỏi cả tâm lý học và kế toán); luyện giải bài toán liên ngành (chuyện hai bà cụ thừa kế xưởng giày); dùng báo kinh doanh như "máy bay mô phỏng"; tránh tuyển giáo sư và sinh viên có hệ tư tưởng chính trị cực đoan; và bắt chước "đạo lý tổ chức nền tảng" của khoa học cứng (xếp các ngành theo độ nền tảng, ghi nguồn khi vay mượn, ưu tiên lời giải thích nền tảng nhất). Bằng chứng ông đưa ra là chính đời mình: chưa từng học một lớp hoá học, kinh tế học, tâm lý học hay kinh doanh nào, nhưng nhờ áp dụng đạo lý của vật lý và toán vào mọi thứ, ông phục vụ được những gì mình yêu quý "vượt xa công sức bỏ ra". Kết luận của ông: sự hẹp ngành tồn tại vì giới học thuật dung thứ những động cơ khuyến khích lệch lạc; mà động cơ thì thay đổi được.
+## Ý chính
 
-> **Lưu ý:**
-> - Văn bản lấy từ OCR bản scan, đã đối chiếu với ảnh các trang PDF 316–335. Lỗi OCR (như "academie", "flueney", "Auency", "aireraft", "rask", "deery", "beser") đã được sửa theo ảnh trang; không có lỗi nào làm đổi nghĩa.
-> - Ở cuối trang in 317 câu văn dừng ở "If I could somewhat fix" (nếu tôi có thể sửa phần nào) và trang in 318 bắt đầu bằng "there is an ethos, also from Dr. Johnson, that is applicable". Hai mảnh không nối thành một câu trọn vẹn; có lẽ bản in đã rơi mất một đoạn chữ ở chỗ chuyển trang. Bản tổng hợp diễn giải theo ý chung: Munger muốn nhắc một đạo lý khác của Samuel Johnson để thúc người nghe sửa vấn đề.
-> - Ở câu thứ tư trong "đạo lý tổ chức nền tảng" của khoa học cứng, sách in "test to establishment new principles"; đúng ra là "establish" (thiết lập).
-> - Lời dẫn của người biên tập có trích một câu của Munger nhắc tới cả phi công lẫn bác sĩ phẫu thuật ("When it really matters, as with pilots and surgeons..."). Câu này không có trong bài nói in ở đây; người biên tập không nói trích từ đâu.
-> - Hộp "Charlie's Checklists" ghi số trang của các phần khác trong sách (trang in 63–64, 73–76, 279–281, 440–498). Theo mục lục, đó lần lượt là các phần trong Chương 2 ("The Munger Approach to Life, Learning, and Decision Making"), trong Bài 4 và toàn bộ Bài 11. Bản tổng hợp ghi tên phần thay cho số trang.
-> - Bản tổng hợp gom các hộp bên lề, ảnh và chú thích ảnh của người biên tập thành các khối riêng, đặt cạnh câu hỏi mà chúng đi kèm, và luôn ghi rõ đây là phần của người biên tập. Ảnh không có chú thích (huy hiệu ở trang mở đầu bài, ảnh tàu con thoi, ảnh tiếp viên hàng không cầm bảng kẹp hồ sơ, bìa các tạp chí) chỉ được mô tả ngắn.
-> - Huy hiệu ở trang mở đầu bài mang dòng chữ Latin "Possunt quia posse videntur" (câu thơ của Virgil, nghĩa là "họ làm được vì họ tin rằng mình làm được"). Sách không nói huy hiệu này của ai.
-> - Đính chính theo hiểu biết của người tổng hợp: (1) Câu "fatal unconnectedness of academic disciplines" mà Munger gán cho Alfred North Whitehead là cách Munger nhớ lại; trong *The Aims of Education* Whitehead viết về "sự rời rạc chết người giữa các môn học" (*fatal disconnection of subjects*), cùng ý. (2) William Tyndale bị xử tử năm 1536 ở vùng Hà Lan thuộc Đế quốc La Mã Thần thánh (gần Brussels ngày nay), do chính quyền theo Công giáo ở đó thi hành; bị siết cổ rồi thiêu xác, như chính hộp bên lề kể. Munger nói gọn là "giới tu sĩ thiêu ông trên cọc"; hộp bên lề nói Tyndale sống ở "Bỉ", trong khi nước Bỉ thời đó chưa tồn tại. (3) Hộp bên lề ghi Roger Fisher "sinh năm 1922" như người còn sống; ông mất năm 2012. (4) Mô hình "bi kịch của mảnh đất công" (tragedy of the commons) mà Munger nói kinh tế học "lấy từ một nhà sinh học" là của nhà sinh thái học Garrett Hardin (bài báo năm 1968). (5) Câu của Bernard Shaw nằm trong vở kịch *The Doctor's Dilemma* (1906).
-> - Thư của David Goodstein (Caltech) đặt ở cuối phần này thật ra là thư phản hồi Bài 6 (bài nói trước nhóm cán bộ tài chính của các quỹ từ thiện); người biên tập nói rõ điều đó và giải thích rằng họ đặt thư ở đây vì Bài 5 nhắc tới Richard Feynman.
-> - Bối cảnh thời gian: bài nói năm 1998; lời bình "Talk Five Revisited" viết năm 2006; cuốn sách in lần đầu năm 2005, ấn bản mở rộng năm 2008. Các nhận xét về hiện trạng học thuật ("ngày nay", "trong nửa thế kỷ qua") là hiện trạng năm 1998. Hộp về Jared Diamond nhắc cuốn sách mới nhất của ông lúc đó là *Collapse* (2005).
+Munger muốn bạn đồng khoá hiểu rằng **người làm nghề chuyên môn chỉ biết một ngành sẽ suy nghĩ sai một cách có hệ thống, và giáo dục tinh hoa có thể sửa lỗi đó nếu chịu bắt chước những nơi đã đào tạo con người thật sự tốt**.
+
+Hai nguyên nhân chính khiến người làm nghề nghĩ sai là **thiên lệch do động cơ khuyến khích (incentive-caused bias)**, tức xu hướng tự nhiên tin rằng điều có lợi cho mình cũng có lợi cho khách hàng, và **hội chứng người cầm búa (man-with-a-hammer tendency)**, tức xu hướng "người chỉ có cái búa thì thấy vấn đề nào cũng giống cái đinh". Thuốc chữa cho cái thứ hai là mang theo nhiều công cụ, tức kỹ năng đa ngành.
+
+Ví dụ trung tâm là **đào tạo phi công**: vì sai lầm của phi công phải trả bằng mạng người, ngành hàng không đã xây một hệ thống đào tạo sáu yếu tố (học đủ rộng; luyện tới thành thạo nhờ thực hành; nghĩ cả xuôi lẫn ngược; phân bổ thời gian học theo mức độ hậu quả; bắt buộc dùng danh sách kiểm tra; tập định kỳ trên máy bay mô phỏng để kỹ năng không mai một).
+
+Munger lập luận rằng giáo dục cho người giải các vấn đề rộng (luật sư, nhà quản lý, nhà hoạch định chính sách) cần đúng sáu yếu tố đó, chỉ là phạm vi rộng hơn rất nhiều. Và điều này khả thi, vì chỉ cần nắm cốt lõi của các ý lớn trong mỗi ngành, vì giáo dục tinh hoa có sẵn người giỏi và nhiều năm học, và vì đã có những người làm được.
+
+Ông đề nghị năm cải cách:
+
+- thêm môn bắt buộc (luật sư phải giỏi cả tâm lý học và kế toán);
+- luyện giải bài toán liên ngành (chuyện hai bà cụ thừa kế xưởng giày);
+- dùng báo kinh doanh như "máy bay mô phỏng";
+- tránh tuyển giáo sư và sinh viên có hệ tư tưởng chính trị cực đoan;
+- và bắt chước "đạo lý tổ chức nền tảng" của khoa học cứng (xếp các ngành theo độ nền tảng, ghi nguồn khi vay mượn, ưu tiên lời giải thích nền tảng nhất).
+
+Bằng chứng ông đưa ra là chính đời mình: chưa từng học một lớp hoá học, kinh tế học, tâm lý học hay kinh doanh nào, nhưng nhờ áp dụng đạo lý của vật lý và toán vào mọi thứ, ông phục vụ được những gì mình yêu quý "vượt xa công sức bỏ ra".
+
+Kết luận của ông: sự hẹp ngành tồn tại vì giới học thuật dung thứ những động cơ khuyến khích lệch lạc; mà động cơ thì thay đổi được.
 
 ## Sơ đồ
 
@@ -783,9 +788,19 @@
 
 ## Ba câu hỏi bài này trả lời
 
-1. **Vì sao những người làm nghề chuyên môn giỏi, như luật sư, vẫn thường suy nghĩ sai?** Munger không đổ hết cho lòng tham có ý thức, như Bernard Shaw khi gọi mọi nghề là "âm mưu chống lại người ngoài nghề". Theo ông, nguyên nhân quan trọng hơn là các khuynh hướng tâm trí vô thức, nhất là hai khuynh hướng. Thứ nhất là thiên lệch do động cơ khuyến khích: đầu óc tự trôi tới kết luận rằng điều có lợi cho người làm nghề cũng có lợi cho khách hàng và xã hội. Thứ hai là hội chứng người cầm búa: người chỉ có một công cụ (học thuyết của nghề mình) thì nhìn vấn đề nào cũng thấy hợp với công cụ đó. Vấn đề thực tế lại vắt qua nhiều ngành, nên dùng một ngành để giải giống chơi bài bridge mà chỉ đếm quân chủ bài. Thuốc chữa là có thêm "B", tức các khái niệm lớn của các ngành khác, ngoài "A" là chuyên môn hẹp; và học từ tâm lý học rằng cả đời phải canh chừng hai khuynh hướng này trong chính mình và ở người khác.
-2. **Một nền giáo dục đa ngành tốt nhất trông ra sao, và có làm được không?** Khuôn mẫu là đào tạo phi công, nơi động cơ để dạy tốt mạnh nhất và kết quả được đo sát nhất. Đào tạo phi công có sáu yếu tố: học đủ rộng; luyện tới mức thành thạo nhờ thực hành, kể cả khi nhiều mối nguy đan xen; nghĩ cả xuôi (muốn điều gì xảy ra) lẫn ngược (cần tránh điều gì); chia thời gian học theo mức độ hậu quả của lỗi; bắt buộc dùng danh sách kiểm tra; tập định kỳ trên máy bay mô phỏng để không mất kỹ năng xử lý tình huống hiếm. Giáo dục cho người giải vấn đề rộng cần đúng sáu yếu tố đó, cộng năng lực tổng hợp ở ranh giới các ngành, với phạm vi rộng hơn nhiều. Munger cho rằng làm được vì ba lý do: chỉ cần nắm cốt lõi các ý lớn của mỗi ngành, và chúng không nhiều; giáo dục tinh hoa có những học trò giỏi nhất, thầy giỏi hơn trò và khoảng 13 năm học từ tuổi 12; tư duy đảo ngược và danh sách kiểm tra dễ học. Thêm nữa, đã có những "Ben Franklin thời nay" làm được, và nhờ học rộng mà họ giỏi hơn chứ không kém trong nghề của mình.
-3. **Giới học thuật đã sửa tới đâu, và nên sửa tiếp thế nào?** Từ năm 1948 tới năm 1998, giới học thuật đã tiến bộ đáng kể, chủ yếu nhờ lối "lấy gì tuỳ thích": trường luật đưa vào đàm phán (Roger Fisher), kinh tế học, lý thuyết trò chơi; kinh tế học đưa vào "bi kịch của mảnh đất công" và kinh tế học hành vi. Nhưng lối này cũng đem vào học thuyết Freud trong khoa văn, hệ tư tưởng chính trị cực đoan, và lý thuyết thị trường hiệu quả dạng cứng; và nó vay mượn không ghi nguồn, không theo thứ bậc nền tảng, như một hệ thống lưu trữ tồi. Munger đề nghị năm điều: nhiều môn bắt buộc hơn (luật sư phải giỏi tâm lý học và kế toán); luyện giải bài toán liên ngành như đề thi hai bà cụ và xưởng giày; dùng báo kinh doanh như máy bay mô phỏng; tránh tuyển người có hệ tư tưởng chính trị cực đoan; và bắt chước đạo lý của khoa học cứng: xếp các ngành theo độ nền tảng, nắm phần cốt yếu của toán, vật lý, hoá học, kỹ thuật, luôn ghi nguồn, ưu tiên lời giải thích nền tảng nhất, chỉ lập nguyên lý mới khi cần và không mâu thuẫn với nguyên lý cũ trừ khi chứng minh được nguyên lý cũ sai. Vì sự hẹp ngành tồn tại do động cơ lệch lạc của thể chế, mà động cơ thay đổi được, nên việc sửa là khả thi.
+1. **Vì sao những người làm nghề chuyên môn giỏi, như luật sư, vẫn thường suy nghĩ sai?** Munger không đổ hết cho lòng tham có ý thức, như Bernard Shaw khi gọi mọi nghề là "âm mưu chống lại người ngoài nghề". Theo ông, nguyên nhân quan trọng hơn là các khuynh hướng tâm trí vô thức, nhất là hai khuynh hướng. Thứ nhất là thiên lệch do động cơ khuyến khích: đầu óc tự trôi tới kết luận rằng điều có lợi cho người làm nghề cũng có lợi cho khách hàng và xã hội. Thứ hai là hội chứng người cầm búa: người chỉ có một công cụ (học thuyết của nghề mình) thì nhìn vấn đề nào cũng thấy hợp với công cụ đó.
+
+   Vấn đề thực tế lại vắt qua nhiều ngành, nên dùng một ngành để giải giống chơi bài bridge mà chỉ đếm quân chủ bài. Thuốc chữa là có thêm "B", tức các khái niệm lớn của các ngành khác, ngoài "A" là chuyên môn hẹp; và học từ tâm lý học rằng cả đời phải canh chừng hai khuynh hướng này trong chính mình và ở người khác.
+2. **Một nền giáo dục đa ngành tốt nhất trông ra sao, và có làm được không?** Khuôn mẫu là đào tạo phi công, nơi động cơ để dạy tốt mạnh nhất và kết quả được đo sát nhất. Đào tạo phi công có sáu yếu tố: học đủ rộng; luyện tới mức thành thạo nhờ thực hành, kể cả khi nhiều mối nguy đan xen; nghĩ cả xuôi (muốn điều gì xảy ra) lẫn ngược (cần tránh điều gì); chia thời gian học theo mức độ hậu quả của lỗi; bắt buộc dùng danh sách kiểm tra; tập định kỳ trên máy bay mô phỏng để không mất kỹ năng xử lý tình huống hiếm.
+
+   Giáo dục cho người giải vấn đề rộng cần đúng sáu yếu tố đó, cộng năng lực tổng hợp ở ranh giới các ngành, với phạm vi rộng hơn nhiều. Munger cho rằng làm được vì ba lý do: chỉ cần nắm cốt lõi các ý lớn của mỗi ngành, và chúng không nhiều; giáo dục tinh hoa có những học trò giỏi nhất, thầy giỏi hơn trò và khoảng 13 năm học từ tuổi 12; tư duy đảo ngược và danh sách kiểm tra dễ học. Thêm nữa, đã có những "Ben Franklin thời nay" làm được, và nhờ học rộng mà họ giỏi hơn chứ không kém trong nghề của mình.
+3. **Giới học thuật đã sửa tới đâu, và nên sửa tiếp thế nào?** Từ năm 1948 tới năm 1998, giới học thuật đã tiến bộ đáng kể, chủ yếu nhờ lối "lấy gì tuỳ thích": trường luật đưa vào đàm phán (Roger Fisher), kinh tế học, lý thuyết trò chơi; kinh tế học đưa vào "bi kịch của mảnh đất công" và kinh tế học hành vi.
+
+   Nhưng lối này cũng đem vào học thuyết Freud trong khoa văn, hệ tư tưởng chính trị cực đoan, và lý thuyết thị trường hiệu quả dạng cứng; và nó vay mượn không ghi nguồn, không theo thứ bậc nền tảng, như một hệ thống lưu trữ tồi.
+
+   Munger đề nghị năm điều: nhiều môn bắt buộc hơn (luật sư phải giỏi tâm lý học và kế toán); luyện giải bài toán liên ngành như đề thi hai bà cụ và xưởng giày; dùng báo kinh doanh như máy bay mô phỏng; tránh tuyển người có hệ tư tưởng chính trị cực đoan; và bắt chước đạo lý của khoa học cứng: xếp các ngành theo độ nền tảng, nắm phần cốt yếu của toán, vật lý, hoá học, kỹ thuật, luôn ghi nguồn, ưu tiên lời giải thích nền tảng nhất, chỉ lập nguyên lý mới khi cần và không mâu thuẫn với nguyên lý cũ trừ khi chứng minh được nguyên lý cũ sai.
+
+   Vì sự hẹp ngành tồn tại do động cơ lệch lạc của thể chế, mà động cơ thay đổi được, nên việc sửa là khả thi.
 
 ## Khái niệm cần biết
 
@@ -888,7 +903,9 @@ Từ đó tới nay, các cơ sở giáo dục tinh hoa ngày càng đồng ý v
 | Không ai thành công mà không thừa nhận sự giúp đỡ của người khác; người khôn ngoan và tự tin thừa nhận sự giúp đỡ ấy với lòng biết ơn. |
 | Gần như mọi ý tưởng mới đều có vẻ ngớ ngẩn khi mới ra đời. |
 
-**Linus Pauling (1901–1994).** Được cha mẹ khuyến khích theo đuổi sở thích khoa học, Pauling là học sinh giỏi ở Portland, Oregon, và giành học bổng vào Đại học Bang Oregon. Ông lấy bằng tiến sĩ hoá học ở Viện Công nghệ California (Caltech), nơi ông giảng dạy và nghiên cứu gần hết sự nghiệp. Ông có nhiều đóng góp cho ngành, trong đó có việc áp dụng vật lý lượng tử và lý thuyết sóng vào hoá học, cùng các tiến bộ về sản xuất kháng thể và cấu trúc nguyên tử của protein. Munger tin rằng có thể ông là nhà hoá học vĩ đại nhất thế kỷ 20. Pauling được giải Nobel hoá học (1954) và Nobel hoà bình (1962). Cuối đời, ông viết về vai trò của dinh dưỡng trong việc chống bệnh và khuyên dùng vitamin C để ngừa cảm lạnh; người biên tập in ảnh bìa cuốn *Vitamin C and the Common Cold* của ông.
+**Linus Pauling (1901–1994).** Được cha mẹ khuyến khích theo đuổi sở thích khoa học, Pauling là học sinh giỏi ở Portland, Oregon, và giành học bổng vào Đại học Bang Oregon. Ông lấy bằng tiến sĩ hoá học ở Viện Công nghệ California (Caltech), nơi ông giảng dạy và nghiên cứu gần hết sự nghiệp.
+
+Ông có nhiều đóng góp cho ngành, trong đó có việc áp dụng vật lý lượng tử và lý thuyết sóng vào hoá học, cùng các tiến bộ về sản xuất kháng thể và cấu trúc nguyên tử của protein. Munger tin rằng có thể ông là nhà hoá học vĩ đại nhất thế kỷ 20. Pauling được giải Nobel hoá học (1954) và Nobel hoà bình (1962). Cuối đời, ông viết về vai trò của dinh dưỡng trong việc chống bệnh và khuyên dùng vitamin C để ngừa cảm lạnh; người biên tập in ảnh bìa cuốn *Vitamin C and the Common Cold* của ông.
 
 ### 6. Câu hỏi 3 "What is the essential nature of best-form multidisciplinarity in elite education?": thực chất của nền giáo dục đa ngành tốt nhất (trang in 306–309)
 
@@ -932,9 +949,13 @@ Munger kết luận câu hỏi 3: với thời gian và tài năng sẵn có, v�
 
 ### 7. Hộp bên lề của người biên tập trong phần Câu hỏi 3: FlightSafety, Laplace (trang in 307–309)
 
-**FlightSafety International, do Al Ueltschi sáng lập.** Là một công ty thuộc Berkshire Hathaway, FlightSafety (công ty đào tạo phi công) có văn hoá doanh nghiệp độc đáo do chính người sáng lập Al Ueltschi tạo nên. Văn hoá đó được gói trong tuyên bố "Sáu trụ cột của nhân cách" của ông, phát cho mọi nhân viên và được tuân thủ nghiêm ngặt trong toàn công ty. Sáu trụ cột là: đáng tin cậy, công bằng, tôn trọng, quan tâm, trách nhiệm và tinh thần công dân. Một tín điều của công ty, chắc chắn lấy cảm hứng từ người sáng lập: "Thiết bị an toàn tốt nhất trên bất kỳ chiếc máy bay nào là một phi công được đào tạo tốt." Người biên tập đặt hộp này cạnh đoạn về sáu yếu tố đào tạo phi công, và in nổi câu của Munger về nhu cầu "độ phủ đa ngành biên độ cực lớn, với mọi kỹ năng cần thiết được nâng lên mức thành thạo nhờ thực hành và luôn được duy trì".
+**FlightSafety International, do Al Ueltschi sáng lập.** Là một công ty thuộc Berkshire Hathaway, FlightSafety (công ty đào tạo phi công) có văn hoá doanh nghiệp độc đáo do chính người sáng lập Al Ueltschi tạo nên. Văn hoá đó được gói trong tuyên bố "Sáu trụ cột của nhân cách" của ông, phát cho mọi nhân viên và được tuân thủ nghiêm ngặt trong toàn công ty. Sáu trụ cột là: đáng tin cậy, công bằng, tôn trọng, quan tâm, trách nhiệm và tinh thần công dân. Một tín điều của công ty, chắc chắn lấy cảm hứng từ người sáng lập: "Thiết bị an toàn tốt nhất trên bất kỳ chiếc máy bay nào là một phi công được đào tạo tốt."
 
-**Pierre-Simon Laplace (1749–1827).** Nhà toán học, thiên văn học và triết học người Pháp, đã khám phá nhiều ý then chốt về suy luận quy nạp và xác suất, về chuyển động của thiên thể và về thuyết tất định nhân quả. Người biên tập trích một ý đặc trưng của ông trong *A Philosophical Essay on Probabilities* (Tiểu luận triết học về xác suất): có thể coi trạng thái hiện tại của vũ trụ là kết quả của quá khứ và nguyên nhân của tương lai. Một trí tuệ mà, ở một thời điểm, biết mọi lực làm thiên nhiên chuyển động và vị trí của mọi thứ cấu thành thiên nhiên, và đủ lớn để phân tích chừng ấy dữ liệu, sẽ gói được trong một công thức duy nhất chuyển động của cả những thiên thể lớn nhất lẫn nguyên tử nhỏ nhất; với trí tuệ ấy, không có gì bất định, và tương lai cũng như quá khứ đều hiện ra trước mắt. Hộp này đi kèm câu của Munger rằng không cần ai cũng giỏi cơ học thiên thể như Laplace.
+Người biên tập đặt hộp này cạnh đoạn về sáu yếu tố đào tạo phi công, và in nổi câu của Munger về nhu cầu "độ phủ đa ngành biên độ cực lớn, với mọi kỹ năng cần thiết được nâng lên mức thành thạo nhờ thực hành và luôn được duy trì".
+
+**Pierre-Simon Laplace (1749–1827).** Nhà toán học, thiên văn học và triết học người Pháp, đã khám phá nhiều ý then chốt về suy luận quy nạp và xác suất, về chuyển động của thiên thể và về thuyết tất định nhân quả.
+
+Người biên tập trích một ý đặc trưng của ông trong *A Philosophical Essay on Probabilities* (Tiểu luận triết học về xác suất): có thể coi trạng thái hiện tại của vũ trụ là kết quả của quá khứ và nguyên nhân của tương lai. Một trí tuệ mà, ở một thời điểm, biết mọi lực làm thiên nhiên chuyển động và vị trí của mọi thứ cấu thành thiên nhiên, và đủ lớn để phân tích chừng ấy dữ liệu, sẽ gói được trong một công thức duy nhất chuyển động của cả những thiên thể lớn nhất lẫn nguyên tử nhỏ nhất; với trí tuệ ấy, không có gì bất định, và tương lai cũng như quá khứ đều hiện ra trước mắt. Hộp này đi kèm câu của Munger rằng không cần ai cũng giỏi cơ học thiên thể như Laplace.
 
 ### 8. Câu hỏi 4 "How much has elite soft-science education been corrected after we left?": giới học thuật đã sửa được bao nhiêu sau khi khoá 1948 ra trường? (trang in 309–311)
 
@@ -965,7 +986,9 @@ Câu trả lời: nhiều cách sửa đã được thử theo hướng đa ngà
 
 **Roger Fisher.** Sách ghi ông sinh năm 1922. Ông lấy bằng luật ở Harvard năm 1948 (cùng khoá với Munger) và ở lại làm giảng viên Trường Luật. Năm 1980, ông làm giám đốc Dự án Đàm phán Harvard (Harvard Negotiation Project). Là chuyên gia về đàm phán và giải quyết xung đột, ông là đồng tác giả (cùng Bill Ury) của *Getting to YES*, cuốn sách kinh điển về kỹ thuật đàm phán đôi bên cùng có lợi. Người biên tập in ảnh bìa ấn bản thứ hai, có thêm tên Bruce Patton, và in nổi câu của Munger về "bàn chân vô hình" bên cạnh "bàn tay vô hình".
 
-**"Taking What You Wish à la Kipling" (Lấy gì tuỳ thích theo kiểu Kipling).** Người biên tập in ảnh bìa tạp chí *TIME* có hình nhà văn Rudyard Kipling và chép ba khổ thơ của ông, viết bằng giọng lính Anh bình dân. Ý thơ: khi Homer gảy đàn lia, ông đã từng nghe người ta hát trên đất liền và trên biển; cái gì ông nghĩ mình có thể cần, ông cứ đi mà lấy, "y như tôi". Các cô gái bán hàng ngoài chợ và ngư dân, mục đồng và thuỷ thủ, nghe những bài hát cũ của mình xuất hiện trở lại, nhưng giữ im lặng, "y như bạn". Họ biết ông lấy; ông biết rằng họ biết. Họ không nói ra, không làm ầm, chỉ nháy mắt với Homer bên đường, và ông nháy mắt lại, "y như chúng ta". Bài thơ minh hoạ cho lời phê của Munger: việc vay mượn ý tưởng mà không ghi nguồn đã cũ như Homer, và ai cũng ngầm chấp nhận.
+**"Taking What You Wish à la Kipling" (Lấy gì tuỳ thích theo kiểu Kipling).** Người biên tập in ảnh bìa tạp chí *TIME* có hình nhà văn Rudyard Kipling và chép ba khổ thơ của ông, viết bằng giọng lính Anh bình dân.
+
+Ý thơ: khi Homer gảy đàn lia, ông đã từng nghe người ta hát trên đất liền và trên biển; cái gì ông nghĩ mình có thể cần, ông cứ đi mà lấy, "y như tôi". Các cô gái bán hàng ngoài chợ và ngư dân, mục đồng và thuỷ thủ, nghe những bài hát cũ của mình xuất hiện trở lại, nhưng giữ im lặng, "y như bạn". Họ biết ông lấy; ông biết rằng họ biết. Họ không nói ra, không làm ầm, chỉ nháy mắt với Homer bên đường, và ông nháy mắt lại, "y như chúng ta". Bài thơ minh hoạ cho lời phê của Munger: việc vay mượn ý tưởng mà không ghi nguồn đã cũ như Homer, và ai cũng ngầm chấp nhận.
 
 ### 10. Câu hỏi 5 "What practices would hasten our progress toward optimized disciplinarity?": năm cách làm để tiến nhanh hơn (trang in 311–315)
 
@@ -975,15 +998,21 @@ Câu hỏi cuối cùng: trong khoa học mềm tinh hoa, những cách làm nà
 
 **Thứ hai: luyện nhiều hơn việc giải vấn đề vắt qua nhiều ngành**, kể cả kiểu luyện tập bắt chước chức năng của máy bay mô phỏng, tức ngăn kỹ năng mai một vì không dùng. Munger kể một ví dụ, theo ông nhớ đại khái, về cách dạy này của một giáo sư Trường Kinh doanh Harvard rất khôn ngoan nhưng không điển hình, từ nhiều thập niên trước.
 
-Vị giáo sư ra một đề thi về hai bà cụ không rành việc đời vừa thừa kế một xưởng sản xuất giày có thương hiệu ở vùng New England, xưởng đang vướng những vấn đề kinh doanh nghiêm trọng được mô tả rất chi tiết. Sinh viên được cho nhiều thời gian để viết lời khuyên cho hai bà. Sau đó giáo sư cho mọi sinh viên điểm không mong muốn, trừ một sinh viên được điểm cao nhất, bỏ xa những người còn lại. Bài thắng rất ngắn, đại ý như sau: "Ngành này và doanh nghiệp cụ thể này, ở vị trí cụ thể của nó, có những vấn đề then chốt khó tới mức hai bà cụ không rành việc đời không thể khôn ngoan cố giải chúng thông qua người làm thuê. Với những khó khăn đó và các chi phí người đại diện không tránh được, hai bà nên bán xưởng giày ngay, có lẽ cho đối thủ cạnh tranh được hưởng lợi thế độ thoả dụng biên lớn nhất."
+Vị giáo sư ra một đề thi về hai bà cụ không rành việc đời vừa thừa kế một xưởng sản xuất giày có thương hiệu ở vùng New England, xưởng đang vướng những vấn đề kinh doanh nghiêm trọng được mô tả rất chi tiết. Sinh viên được cho nhiều thời gian để viết lời khuyên cho hai bà. Sau đó giáo sư cho mọi sinh viên điểm không mong muốn, trừ một sinh viên được điểm cao nhất, bỏ xa những người còn lại.
+
+Bài thắng rất ngắn, đại ý như sau: "Ngành này và doanh nghiệp cụ thể này, ở vị trí cụ thể của nó, có những vấn đề then chốt khó tới mức hai bà cụ không rành việc đời không thể khôn ngoan cố giải chúng thông qua người làm thuê. Với những khó khăn đó và các chi phí người đại diện không tránh được, hai bà nên bán xưởng giày ngay, có lẽ cho đối thủ cạnh tranh được hưởng lợi thế độ thoả dụng biên lớn nhất."
 
 Như vậy, bài thắng không dựa vào những gì sinh viên vừa được dạy gần nhất ở trường kinh doanh, mà dựa vào các khái niệm nền tảng hơn, như chi phí người đại diện và độ thoả dụng biên, lấy từ tâm lý học và kinh tế học bậc đại học. Munger nói với bạn đồng khoá: "Ôi, các bạn khoá Luật Harvard 1948: giá như chúng ta được thi kiểu đó thường xuyên hơn, hãy nghĩ xem chúng ta đã có thể làm được thêm bao nhiêu!"
 
 Nhân tiện, ông nhận xét: nhiều trường tư tinh hoa nay đã khôn ngoan dùng những phương pháp đa ngành như vậy trong môn khoa học lớp 7, trong khi nhiều trường sau đại học vẫn chưa thấy ra. Đó là thêm một ví dụ buồn về "sự rời rạc chết người" mà Whitehead nói tới trong giáo dục.
 
-**Thứ ba: các trường đào tạo nghề thuộc khoa học mềm nên dùng nhiều hơn các báo kinh doanh tốt nhất**, như *Wall Street Journal*, *Forbes*, *Fortune*... Những ấn phẩm này nay khá tốt, và đóng vai máy bay mô phỏng nếu được dùng để thúc việc luyện tập nối các sự kiện với những nguyên nhân thuộc nhiều ngành, thường đan xen nhau. Đôi khi chúng còn giới thiệu những mô hình nguyên nhân mới, chứ không chỉ làm mới kiến thức cũ. Ngoài ra, việc cho sinh viên luyện tập ở trường đúng điều mà họ phải luyện suốt đời sau khi học chính quy xong, nếu muốn tối đa hoá phán đoán tốt của mình, là điều hợp lý không chỉ một chút. Munger nói ông không biết một người kinh doanh nào được kính trọng vì phán đoán tốt đã được kiểm chứng mà hệ thống duy trì trí tuệ của họ không gồm việc đọc những ấn phẩm này. Sao giới học thuật lại phải khác?
+**Thứ ba: các trường đào tạo nghề thuộc khoa học mềm nên dùng nhiều hơn các báo kinh doanh tốt nhất**, như *Wall Street Journal*, *Forbes*, *Fortune*... Những ấn phẩm này nay khá tốt, và đóng vai máy bay mô phỏng nếu được dùng để thúc việc luyện tập nối các sự kiện với những nguyên nhân thuộc nhiều ngành, thường đan xen nhau. Đôi khi chúng còn giới thiệu những mô hình nguyên nhân mới, chứ không chỉ làm mới kiến thức cũ.
 
-**Thứ tư: khi lấp các ghế giảng dạy khan hiếm, thường nên tránh những giáo sư mang hệ tư tưởng chính trị cực mạnh, đầy đam mê, dù tả hay hữu.** Với sinh viên cũng vậy. Đa ngành ở dạng tốt nhất đòi hỏi một sự khách quan mà những người đam mê như thế đã đánh mất, và một sự tổng hợp khó thì khó có thể đạt được bởi những đầu óc bị xiềng trong hệ tư tưởng. Thời của họ, một số giáo sư luật Harvard đã có thể chỉ ra, và đã chỉ ra, một ví dụ tuyệt vời về đúng kiểu ngu dại dựa trên hệ tư tưởng ấy: đó là trường luật ở Yale, mà khi ấy nhiều người ở Harvard coi là đang cố cải thiện giáo dục luật bằng cách nhập một hệ tư tưởng chính trị cụ thể làm yếu tố chi phối. (Munger không nói tên hệ tư tưởng đó.)
+Ngoài ra, việc cho sinh viên luyện tập ở trường đúng điều mà họ phải luyện suốt đời sau khi học chính quy xong, nếu muốn tối đa hoá phán đoán tốt của mình, là điều hợp lý không chỉ một chút. Munger nói ông không biết một người kinh doanh nào được kính trọng vì phán đoán tốt đã được kiểm chứng mà hệ thống duy trì trí tuệ của họ không gồm việc đọc những ấn phẩm này. Sao giới học thuật lại phải khác?
+
+**Thứ tư: khi lấp các ghế giảng dạy khan hiếm, thường nên tránh những giáo sư mang hệ tư tưởng chính trị cực mạnh, đầy đam mê, dù tả hay hữu.** Với sinh viên cũng vậy. Đa ngành ở dạng tốt nhất đòi hỏi một sự khách quan mà những người đam mê như thế đã đánh mất, và một sự tổng hợp khó thì khó có thể đạt được bởi những đầu óc bị xiềng trong hệ tư tưởng.
+
+Thời của họ, một số giáo sư luật Harvard đã có thể chỉ ra, và đã chỉ ra, một ví dụ tuyệt vời về đúng kiểu ngu dại dựa trên hệ tư tưởng ấy: đó là trường luật ở Yale, mà khi ấy nhiều người ở Harvard coi là đang cố cải thiện giáo dục luật bằng cách nhập một hệ tư tưởng chính trị cụ thể làm yếu tố chi phối. (Munger không nói tên hệ tư tưởng đó.)
 
 **Thứ năm: khoa học mềm nên bắt chước mạnh hơn "đạo lý tổ chức nền tảng" của khoa học cứng**, mà Munger định nghĩa là "tổ hợp bốn ngành nền tảng": toán, vật lý, hoá học và kỹ thuật. Đạo lý này đáng được bắt chước nhiều hơn. Rốt cuộc, khoa học cứng, bỏ xa phần còn lại, có thành tích tốt nhất ở cả hai việc: (1) tránh sự ngu dại đơn ngành và (2) làm cho một vùng rộng của lĩnh vực đa ngành trở nên dễ dùng, với những kết quả tốt thường xuyên, như kết quả của nhà vật lý Richard Feynman khi ông nhanh chóng tìm ra rằng vòng đệm chữ O bị lạnh là nguyên nhân thảm hoạ tàu con thoi lớn nhất của Mỹ.
 
@@ -1010,7 +1039,9 @@ Cạnh đoạn về báo kinh doanh, người biên tập in ảnh bìa tạp ch
 
 **"Another Voice on the Value of Reading" (Một tiếng nói khác về giá trị của việc đọc).** Lời Buffett: tôi đọc mọi thứ: báo cáo thường niên, báo cáo 10-K, 10-Q (báo cáo năm và quý nộp cho Uỷ ban Chứng khoán Mỹ), tiểu sử, sách lịch sử, năm tờ báo mỗi ngày. Trên máy bay, tôi đọc cả lời hướng dẫn in sau lưng ghế. Đọc là chìa khoá. Việc đọc đã làm tôi giàu theo thời gian.
 
-**Richard P. Feynman (1918–1988).** Sinh ở Far Rockaway, New York, ông lấy bằng cử nhân vật lý ở Viện Công nghệ Massachusetts (MIT) rồi lấy bằng tiến sĩ ở Princeton. Ông làm việc trong Dự án Manhattan và đóng vai trò quan trọng trong việc chế tạo bom nguyên tử. Ông giảng dạy ở Đại học Cornell tới năm 1951 rồi về Caltech. Đóng góp chính của ông cho vật lý là điện động lực học lượng tử, ngành nghiên cứu tương tác giữa bức xạ điện từ với nguyên tử và các hạt cơ bản hơn. Ông chia giải Nobel vật lý năm 1965. Cuối đời, ông được cử vào uỷ ban điều tra tai nạn tàu con thoi Challenger; ông chứng minh rằng nhiệt độ lạnh làm vòng đệm cao su chữ O co lại, khiến khí nóng thoát ra và gây vụ nổ. Người biên tập in ảnh con tem bưu chính Mỹ in hình Feynman và bìa cuốn *"Surely You're Joking, Mr. Feynman!"*.
+**Richard P. Feynman (1918–1988).** Sinh ở Far Rockaway, New York, ông lấy bằng cử nhân vật lý ở Viện Công nghệ Massachusetts (MIT) rồi lấy bằng tiến sĩ ở Princeton. Ông làm việc trong Dự án Manhattan và đóng vai trò quan trọng trong việc chế tạo bom nguyên tử. Ông giảng dạy ở Đại học Cornell tới năm 1951 rồi về Caltech. Đóng góp chính của ông cho vật lý là điện động lực học lượng tử, ngành nghiên cứu tương tác giữa bức xạ điện từ với nguyên tử và các hạt cơ bản hơn. Ông chia giải Nobel vật lý năm 1965.
+
+Cuối đời, ông được cử vào uỷ ban điều tra tai nạn tàu con thoi Challenger; ông chứng minh rằng nhiệt độ lạnh làm vòng đệm cao su chữ O co lại, khiến khí nóng thoát ra và gây vụ nổ. Người biên tập in ảnh con tem bưu chính Mỹ in hình Feynman và bìa cuốn *"Surely You're Joking, Mr. Feynman!"*.
 
 **Schopenhauer:** "Cuốn sách nào thật sự quan trọng thì nên được đọc lại ngay lập tức."
 
@@ -1018,11 +1049,15 @@ Cạnh đoạn về báo kinh doanh, người biên tập in ảnh bìa tạp ch
 
 **Một thí nghiệm giáo dục tình cờ.** Để làm bằng chứng cho giá trị của việc coi thật nghiêm túc đạo lý tổ chức nền tảng, Munger đưa ra ví dụ đời mình.
 
-Ông vào Trường Luật Harvard khi học hành rất kém, thói quen làm việc tuỳ hứng và không có bằng đại học. Ông được nhận dù Warren Abner Seavey (một giáo sư luật) phản đối, nhờ sự can thiệp của Roscoe Pound, bạn của gia đình (theo hiểu biết của người tổng hợp, Pound là cựu hiệu trưởng Trường Luật Harvard). Ở trung học ông chỉ học một lớp sinh học ngớ ngẩn, học vẹt sơ qua một thuyết tiến hoá rõ ràng chưa đầy đủ, một phần giải phẫu của trùng đế giày và con ếch, cộng với khái niệm "chất nguyên sinh" lố bịch mà nay đã biến mất. Đến hôm nay, ông chưa từng học lớp nào, ở bất cứ đâu, về hoá học, kinh tế học, tâm lý học hay kinh doanh. Nhưng ông đã sớm học vật lý và toán sơ cấp, và đủ chú tâm để bằng cách nào đó thấm được đạo lý tổ chức nền tảng của khoa học cứng. Sau đó ông đẩy đạo lý ấy ngày càng xa vào các lĩnh vực ngày càng "mềm", dùng nó làm kim chỉ nam và hệ thống lưu trữ, trong khi đi tìm bất cứ trí tuệ thế gian đa ngành nào dễ lấy.
+Ông vào Trường Luật Harvard khi học hành rất kém, thói quen làm việc tuỳ hứng và không có bằng đại học. Ông được nhận dù Warren Abner Seavey (một giáo sư luật) phản đối, nhờ sự can thiệp của Roscoe Pound, bạn của gia đình (theo hiểu biết của người tổng hợp, Pound là cựu hiệu trưởng Trường Luật Harvard). Ở trung học ông chỉ học một lớp sinh học ngớ ngẩn, học vẹt sơ qua một thuyết tiến hoá rõ ràng chưa đầy đủ, một phần giải phẫu của trùng đế giày và con ếch, cộng với khái niệm "chất nguyên sinh" lố bịch mà nay đã biến mất. Đến hôm nay, ông chưa từng học lớp nào, ở bất cứ đâu, về hoá học, kinh tế học, tâm lý học hay kinh doanh.
+
+Nhưng ông đã sớm học vật lý và toán sơ cấp, và đủ chú tâm để bằng cách nào đó thấm được đạo lý tổ chức nền tảng của khoa học cứng. Sau đó ông đẩy đạo lý ấy ngày càng xa vào các lĩnh vực ngày càng "mềm", dùng nó làm kim chỉ nam và hệ thống lưu trữ, trong khi đi tìm bất cứ trí tuệ thế gian đa ngành nào dễ lấy.
 
 Như vậy, đời ông thành một kiểu thí nghiệm giáo dục tình cờ về tính khả thi và ích lợi của việc mở rộng rất thô sơ đạo lý tổ chức nền tảng ra ngoài phạm vi học thuật, bởi một người cũng đã học kỹ những gì ngành của mình dạy.
 
-**Kết quả.** Điều ông thấy, trong những nỗ lực kéo dài nhằm hoàn thiện bằng con đường không chính quy nền giáo dục còi cọc của mình, là: cứ lặng lẽ cố gắng với ý chí bình thường nhưng có đạo lý tổ chức nền tảng dẫn đường, khả năng phục vụ mọi thứ ông yêu quý tăng vượt xa những gì ông xứng đáng. Những cái lợi lớn đến ở những chỗ có vẻ không thể khi ông mới bắt đầu, đôi khi khiến ông giống người duy nhất không bị bịt mắt trong một trò "gắn đuôi cho con lừa" (trò trẻ con bịt mắt rồi gắn đuôi giấy lên hình con lừa) có tiền cược lớn. Ví dụ, ông đã được dẫn một cách hữu ích vào tâm lý học, nơi ông vốn không định đi tới, và tạo ra những lợi thế lớn; chuyện đó, ông nói, xứng đáng được kể vào một hôm khác. (Ghi chú của người tổng hợp: Munger kể chuyện mình đi vào tâm lý học ở Bài 11, "The Psychology of Human Misjudgment".)
+**Kết quả.** Điều ông thấy, trong những nỗ lực kéo dài nhằm hoàn thiện bằng con đường không chính quy nền giáo dục còi cọc của mình, là: cứ lặng lẽ cố gắng với ý chí bình thường nhưng có đạo lý tổ chức nền tảng dẫn đường, khả năng phục vụ mọi thứ ông yêu quý tăng vượt xa những gì ông xứng đáng. Những cái lợi lớn đến ở những chỗ có vẻ không thể khi ông mới bắt đầu, đôi khi khiến ông giống người duy nhất không bị bịt mắt trong một trò "gắn đuôi cho con lừa" (trò trẻ con bịt mắt rồi gắn đuôi giấy lên hình con lừa) có tiền cược lớn.
+
+Ví dụ, ông đã được dẫn một cách hữu ích vào tâm lý học, nơi ông vốn không định đi tới, và tạo ra những lợi thế lớn; chuyện đó, ông nói, xứng đáng được kể vào một hôm khác. (Ghi chú của người tổng hợp: Munger kể chuyện mình đi vào tâm lý học ở Bài 11, "The Psychology of Human Misjudgment".)
 
 **Điều thú vị nhất.** Munger nói ông không còn chuyện gì để kể; ông đã kết thúc bài nói bằng cách trả lời các câu hỏi của chính mình tốt nhất có thể trong thời gian ngắn. Điều ông thấy thú vị nhất trong các câu trả lời là: mọi điều ông nói đều không mới, và từ lâu đã hiển nhiên tới mức nhàm với nhiều đầu óc tỉnh táo, có học. Vậy mà mọi cái xấu ông chỉ ra vẫn hiện diện quá mức ở những nơi giáo dục khoa học mềm tốt nhất, nơi gần như mọi giáo sư đều có thói quen tư duy quá đơn ngành, ngay cả khi một mô hình tốt hơn nằm ngay bên kia lối đi, trong chính trường đại học của họ.
 
@@ -1034,7 +1069,9 @@ Và nếu bổn phận không thúc được cải thiện, thì còn có lợi 
 
 ### 14. Hộp bên lề và ảnh của người biên tập trong phần kết: Jared Diamond, Samuel Johnson (trang in 317–318)
 
-**"A Notable Exception: One Professor who is Multidisciplinary" (Một ngoại lệ đáng chú ý: một giáo sư đa ngành).** Jared Diamond được Tổng thống Clinton trao Huân chương Khoa học Quốc gia năm 1999 cho các khám phá đột phá trong sinh học tiến hoá và cho những nghiên cứu mang tính bước ngoặt về việc áp dụng thuyết Darwin vào các lĩnh vực khác nhau như sinh lý học và sinh thái học. Được đào tạo làm nhà sinh lý học, lúc đó ông là giáo sư địa lý ở Đại học California, Los Angeles (UCLA). Diamond tổng hợp xuất sắc các mô hình lớn của nhiều ngành học thuật khác nhau. Người biên tập in bìa cuốn *Collapse* (Sụp đổ: các xã hội chọn thất bại hay thành công ra sao), lúc đó là sách mới nhất của tác giả từng đoạt giải Pulitzer này, và ảnh Diamond bắt tay Tổng thống Clinton khi nhận huân chương. Lời Diamond: "Tôi luôn quan tâm tới nhiều thứ, nhiều thứ cùng một lúc, và tôi luôn cố giải thích chúng cho chính mình. Tôi hỏi rất nhiều."
+**"A Notable Exception: One Professor who is Multidisciplinary" (Một ngoại lệ đáng chú ý: một giáo sư đa ngành).** Jared Diamond được Tổng thống Clinton trao Huân chương Khoa học Quốc gia năm 1999 cho các khám phá đột phá trong sinh học tiến hoá và cho những nghiên cứu mang tính bước ngoặt về việc áp dụng thuyết Darwin vào các lĩnh vực khác nhau như sinh lý học và sinh thái học. Được đào tạo làm nhà sinh lý học, lúc đó ông là giáo sư địa lý ở Đại học California, Los Angeles (UCLA). Diamond tổng hợp xuất sắc các mô hình lớn của nhiều ngành học thuật khác nhau.
+
+Người biên tập in bìa cuốn *Collapse* (Sụp đổ: các xã hội chọn thất bại hay thành công ra sao), lúc đó là sách mới nhất của tác giả từng đoạt giải Pulitzer này, và ảnh Diamond bắt tay Tổng thống Clinton khi nhận huân chương. Lời Diamond: "Tôi luôn quan tâm tới nhiều thứ, nhiều thứ cùng một lúc, và tôi luôn cố giải thích chúng cho chính mình. Tôi hỏi rất nhiều."
 
 Người biên tập in nổi câu của Munger rằng giáo dục khoa học mềm không nhất thiết và không có lợi khi dung thứ nhiều sự cố chấp đơn ngành như hiện nay. Ở trang cuối của bài nói có chân dung Samuel Johnson (sách ghi là tranh của Gilbert Stuart, không rõ năm, lưu ở Thư viện Houghton của Đại học Harvard), đặt cạnh câu in nổi về việc sự thật khó thấm khi đi ngược lợi ích và động cơ có thể thay đổi.
 
@@ -1071,7 +1108,16 @@ Trang cuối của phần này in lá thư ngày 29 tháng 10 năm 1998 của Da
 
 Người biên tập ghi chú: lá thư này được gửi để phản hồi bài nói tiếp theo, "Investment Practices of Leading Charitable Foundations" (Bài 6), nhưng được đặt ở đây vì Bài 5 nhắc tới Richard Feynman, người mà Munger ca ngợi vì cách tiếp cận đa ngành khi giải quyết vấn đề.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Một công ty chứng khoán tuyển 20 chuyên viên phân tích mới mỗi năm, đều tốt nghiệp tài chính. Trưởng phòng nghiên cứu nhận ra họ mắc **hội chứng người cầm búa**: ai cũng định giá mọi công ty bằng mô hình chiết khấu dòng tiền, kể cả ngân hàng và công ty khởi nghiệp chưa có lãi, và không ai đặt câu hỏi về động cơ của ban lãnh đạo. Ông thiết kế lại chương trình 12 tháng theo sáu yếu tố đào tạo phi công. (1) **Rộng**: ngoài tài chính, bắt buộc học kế toán (đọc thuyết minh báo cáo tài chính), tâm lý học (25 khuynh hướng phán đoán sai), kinh tế học vi mô (độ thoả dụng biên, chi phí người đại diện), xác suất cơ bản. (2) **Thành thạo nhờ thực hành**: mỗi tuần một bài phân tích một công ty thật, chấm theo việc dự báo có trúng sau 6 tháng hay không, không chấm theo độ dài báo cáo. (3) **Nghĩ xuôi và ngược**: mỗi khuyến nghị "mua" phải kèm một đoạn "điều gì sẽ làm khoản đầu tư này mất 50%". (4) **Phân bổ theo hậu quả**: 40% thời gian dành cho nhận diện gian lận kế toán và rủi ro đòn bẩy, vì đó là những lỗi gây thiệt hại lớn nhất cho khách hàng. (5) **Danh sách kiểm tra**: 15 câu hỏi bắt buộc trước khi phát hành báo cáo, trong đó có "ban lãnh đạo được trả thưởng theo chỉ tiêu gì?" (**thiên lệch do động cơ khuyến khích**) và "lời giải thích nào đơn giản và nền tảng hơn?" (**nguyên tắc tiết kiệm**). (6) **Máy bay mô phỏng**: mỗi tháng cả nhóm đọc báo kinh doanh và phân tích lại một vụ sụp đổ doanh nghiệp đã xảy ra, như một "chuyến bay giả lập" của tình huống hiếm. Sau hai năm, giả sử tỷ lệ khuyến nghị sai nghiêm trọng (cổ phiếu giảm quá 30% trong 12 tháng sau khuyến nghị mua) giảm từ 18% xuống 9%. Đúng như Munger dự đoán, chi phí thêm không lớn, vì chỉ cần nắm cốt lõi các ý lớn; và trở ngại chính không nằm ở học viên, mà ở các trưởng nhóm cũ, những người có lợi ích trong việc giữ cách làm quen thuộc.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Một công ty chứng khoán tuyển 20 chuyên viên phân tích mới mỗi năm, đều tốt nghiệp tài chính. Trưởng phòng nghiên cứu nhận ra họ mắc **hội chứng người cầm búa**: ai cũng định giá mọi công ty bằng mô hình chiết khấu dòng tiền, kể cả ngân hàng và công ty khởi nghiệp chưa có lãi, và không ai đặt câu hỏi về động cơ của ban lãnh đạo. Ông thiết kế lại chương trình 12 tháng theo sáu yếu tố đào tạo phi công.
+
+- (1) **Rộng**: ngoài tài chính, bắt buộc học kế toán (đọc thuyết minh báo cáo tài chính), tâm lý học (25 khuynh hướng phán đoán sai), kinh tế học vi mô (độ thoả dụng biên, chi phí người đại diện), xác suất cơ bản.
+- (2) **Thành thạo nhờ thực hành**: mỗi tuần một bài phân tích một công ty thật, chấm theo việc dự báo có trúng sau 6 tháng hay không, không chấm theo độ dài báo cáo.
+- (3) **Nghĩ xuôi và ngược**: mỗi khuyến nghị "mua" phải kèm một đoạn "điều gì sẽ làm khoản đầu tư này mất 50%".
+- (4) **Phân bổ theo hậu quả**: 40% thời gian dành cho nhận diện gian lận kế toán và rủi ro đòn bẩy, vì đó là những lỗi gây thiệt hại lớn nhất cho khách hàng.
+- (5) **Danh sách kiểm tra**: 15 câu hỏi bắt buộc trước khi phát hành báo cáo, trong đó có "ban lãnh đạo được trả thưởng theo chỉ tiêu gì?" (**thiên lệch do động cơ khuyến khích**) và "lời giải thích nào đơn giản và nền tảng hơn?" (**nguyên tắc tiết kiệm**).
+- (6) **Máy bay mô phỏng**: mỗi tháng cả nhóm đọc báo kinh doanh và phân tích lại một vụ sụp đổ doanh nghiệp đã xảy ra, như một "chuyến bay giả lập" của tình huống hiếm.
+
+Sau hai năm, giả sử tỷ lệ khuyến nghị sai nghiêm trọng (cổ phiếu giảm quá 30% trong 12 tháng sau khuyến nghị mua) giảm từ 18% xuống 9%. Đúng như Munger dự đoán, chi phí thêm không lớn, vì chỉ cần nắm cốt lõi các ý lớn; và trở ngại chính không nằm ở học viên, mà ở các trưởng nhóm cũ, những người có lợi ích trong việc giữ cách làm quen thuộc.
 
 ## Luận điểm cốt lõi
 
@@ -1214,23 +1260,35 @@ Người làm nghề chuyên môn phải giải những vấn đề vắt qua nh
 
 ### Bài nói tự áp dụng chính phương pháp nó giới thiệu, nên lập luận rất chặt
 
-Munger không chỉ khuyên dùng tư duy đa ngành; ông dùng nó để dựng bài. Muốn biết thế nào là giáo dục tốt, ông không hỏi các trường sư phạm mà đảo ngược câu hỏi: ở đâu sai lầm phải trả giá đắt nhất và kết quả được đo rõ nhất? Câu trả lời (đào tạo phi công) đến từ lý thuyết động cơ khuyến khích: nơi có động cơ mạnh nhất để dạy tốt thì cách dạy đã được thực tế chọn lọc. Rồi ông dùng một phép "mở rộng quy mô" kiểu kỹ sư để chuyển sáu yếu tố sang vấn đề rộng, và dùng tâm lý học (thiên lệch do động cơ khuyến khích) để giải thích vì sao giới học thuật không tự sửa. Cấu trúc năm câu hỏi (cần không, đã có chưa, đích là gì, đã đi được bao xa, đi tiếp thế nào) cũng là một danh sách kiểm tra cho mọi cải cách. Đây là điểm mạnh lớn nhất của bài: người đọc thấy phương pháp vận hành ngay trước mắt.
+Munger không chỉ khuyên dùng tư duy đa ngành; ông dùng nó để dựng bài. Muốn biết thế nào là giáo dục tốt, ông không hỏi các trường sư phạm mà đảo ngược câu hỏi: ở đâu sai lầm phải trả giá đắt nhất và kết quả được đo rõ nhất? Câu trả lời (đào tạo phi công) đến từ lý thuyết động cơ khuyến khích: nơi có động cơ mạnh nhất để dạy tốt thì cách dạy đã được thực tế chọn lọc. Rồi ông dùng một phép "mở rộng quy mô" kiểu kỹ sư để chuyển sáu yếu tố sang vấn đề rộng, và dùng tâm lý học (thiên lệch do động cơ khuyến khích) để giải thích vì sao giới học thuật không tự sửa.
+
+Cấu trúc năm câu hỏi (cần không, đã có chưa, đích là gì, đã đi được bao xa, đi tiếp thế nào) cũng là một danh sách kiểm tra cho mọi cải cách. Đây là điểm mạnh lớn nhất của bài: người đọc thấy phương pháp vận hành ngay trước mắt.
 
 ### Phép so sánh với đào tạo phi công mạnh nhưng có giới hạn
 
-Lái máy bay là một lĩnh vực hẹp, ổn định, có quy luật vật lý rõ, phản hồi nhanh (sai là biết ngay) và các mối nguy có thể liệt kê trước. Vấn đề phạm vi rộng như pháp lý, kinh doanh, chính sách thì mở, thay đổi liên tục, phản hồi chậm và mơ hồ; không thể có một danh sách kiểm tra đầy đủ, và "máy bay mô phỏng" cho chúng (đọc báo, giải tình huống) kém chân thực hơn nhiều. Munger thừa nhận phạm vi phải "mở rộng gấp bội" nhưng không bàn việc bản chất của lĩnh vực cũng khác. Ngoài ra, bằng chứng chính là đời ông và vài giai thoại (đề thi xưởng giày, những "Ben Franklin thời nay"); người thành công nhờ học rộng thì dễ thấy, còn người học rộng mà không thành công thì ít ai kể (thiên lệch người sống sót). Bài thuyết phục bằng logic nhiều hơn bằng dữ liệu.
+Lái máy bay là một lĩnh vực hẹp, ổn định, có quy luật vật lý rõ, phản hồi nhanh (sai là biết ngay) và các mối nguy có thể liệt kê trước. Vấn đề phạm vi rộng như pháp lý, kinh doanh, chính sách thì mở, thay đổi liên tục, phản hồi chậm và mơ hồ; không thể có một danh sách kiểm tra đầy đủ, và "máy bay mô phỏng" cho chúng (đọc báo, giải tình huống) kém chân thực hơn nhiều. Munger thừa nhận phạm vi phải "mở rộng gấp bội" nhưng không bàn việc bản chất của lĩnh vực cũng khác.
+
+Ngoài ra, bằng chứng chính là đời ông và vài giai thoại (đề thi xưởng giày, những "Ben Franklin thời nay"); người thành công nhờ học rộng thì dễ thấy, còn người học rộng mà không thành công thì ít ai kể (thiên lệch người sống sót). Bài thuyết phục bằng logic nhiều hơn bằng dữ liệu.
 
 ### Thứ bậc nền tảng và nguyên tắc tiết kiệm có nguy cơ quy giản quá mức
 
-Đòi ưu tiên lời giải thích "nền tảng nhất" rất hữu ích để chống việc đặt tên mới cho ý cũ, nhưng nếu áp dụng máy móc có thể dẫn tới quy giản: nhiều hiện tượng xã hội (văn hoá doanh nghiệp, bong bóng tài chính, thể chế) là hiện tượng "nổi lên" từ tương tác, không giải thích tốt bằng tầng thấp hơn. Chính Munger trong các bài khác lại nhấn mạnh tâm lý học và hiệu ứng Lollapalooza, tức sự kết hợp của nhiều yếu tố, không phải một nguyên nhân nền tảng duy nhất. Tương tự, đề nghị tránh tuyển giáo sư và sinh viên có "hệ tư tưởng chính trị cực mạnh" đúng về tinh thần khách quan, nhưng khó áp dụng công bằng: ai định nghĩa thế nào là "cực mạnh"? Ví dụ Trường Luật Yale cũng là cách nhìn của Harvard thời đó, mà Munger kể lại không nêu rõ hệ tư tưởng nào.
+Đòi ưu tiên lời giải thích "nền tảng nhất" rất hữu ích để chống việc đặt tên mới cho ý cũ, nhưng nếu áp dụng máy móc có thể dẫn tới quy giản: nhiều hiện tượng xã hội (văn hoá doanh nghiệp, bong bóng tài chính, thể chế) là hiện tượng "nổi lên" từ tương tác, không giải thích tốt bằng tầng thấp hơn. Chính Munger trong các bài khác lại nhấn mạnh tâm lý học và hiệu ứng Lollapalooza, tức sự kết hợp của nhiều yếu tố, không phải một nguyên nhân nền tảng duy nhất.
+
+Tương tự, đề nghị tránh tuyển giáo sư và sinh viên có "hệ tư tưởng chính trị cực mạnh" đúng về tinh thần khách quan, nhưng khó áp dụng công bằng: ai định nghĩa thế nào là "cực mạnh"? Ví dụ Trường Luật Yale cũng là cách nhìn của Harvard thời đó, mà Munger kể lại không nêu rõ hệ tư tưởng nào.
 
 ### Từ năm 1998, nhiều điều Munger đề nghị đã thành xu hướng chính, nhưng bệnh hẹp ngành vẫn còn
 
-Theo hiểu biết của người tổng hợp: kinh tế học hành vi, mà năm 1998 Munger chỉ nhắc như một mầm mới, đã thành dòng chính, với các giải Nobel kinh tế trao cho Daniel Kahneman (2002), Robert Shiller (2013) và Richard Thaler (2017). Danh sách kiểm tra đã lan từ hàng không sang y khoa (danh sách kiểm tra an toàn phẫu thuật của Tổ chức Y tế Thế giới, cuốn *The Checklist Manifesto* của Atul Gawande, 2009), đúng như câu "phi công và bác sĩ phẫu thuật" trong lời dẫn. Nhiều trường luật và kinh doanh đã có môn tâm lý học ra quyết định, luật và kinh tế, đàm phán. Cuộc tranh luận về thị trường hiệu quả vẫn tiếp diễn (năm 2013 giải Nobel được trao cùng lúc cho Eugene Fama, người bảo vệ giả thuyết, và Shiller, người phê phán). Tuy vậy, cơ chế động cơ mà Munger chỉ ra (giáo sư được thăng tiến nhờ công bố trong chuyên ngành hẹp) vẫn còn nguyên, nên lời bình năm 2006 "không đổi một chữ" vẫn đúng ở phần chẩn đoán.
+Theo hiểu biết của người tổng hợp: kinh tế học hành vi, mà năm 1998 Munger chỉ nhắc như một mầm mới, đã thành dòng chính, với các giải Nobel kinh tế trao cho Daniel Kahneman (2002), Robert Shiller (2013) và Richard Thaler (2017).
+
+Danh sách kiểm tra đã lan từ hàng không sang y khoa (danh sách kiểm tra an toàn phẫu thuật của Tổ chức Y tế Thế giới, cuốn *The Checklist Manifesto* của Atul Gawande, 2009), đúng như câu "phi công và bác sĩ phẫu thuật" trong lời dẫn. Nhiều trường luật và kinh doanh đã có môn tâm lý học ra quyết định, luật và kinh tế, đàm phán. Cuộc tranh luận về thị trường hiệu quả vẫn tiếp diễn (năm 2013 giải Nobel được trao cùng lúc cho Eugene Fama, người bảo vệ giả thuyết, và Shiller, người phê phán).
+
+Tuy vậy, cơ chế động cơ mà Munger chỉ ra (giáo sư được thăng tiến nhờ công bố trong chuyên ngành hẹp) vẫn còn nguyên, nên lời bình năm 2006 "không đổi một chữ" vẫn đúng ở phần chẩn đoán.
 
 ### Quan điểm trái chiều: chuyên môn hoá sâu cũng tạo ra giá trị lớn
 
-Từ Adam Smith, kinh tế học đã chỉ ra phân công lao động và chuyên môn hoá làm tăng năng suất; nhiều đột phá khoa học đến từ những người đào rất sâu một vấn đề hẹp. Một luật sư thuế giỏi nhất có thể phục vụ khách hàng tốt hơn một luật sư biết "một chút mọi thứ". Phê phán này không hẳn mâu thuẫn với Munger: ông nói rõ người học rộng phải "cũng học kỹ những gì ngành mình dạy", và lập luận "A cộng B" giữ nguyên A. Điểm khác là liều lượng: với người giỏi nhất và có 13 năm học, Munger tin thêm B gần như luôn đáng; người phản biện thì cho rằng chi phí cơ hội của thời gian học B có thể cao với nhiều người, và tổ chức có thể đạt tính đa ngành bằng cách ghép nhóm chuyên gia thay vì đòi mỗi cá nhân đa ngành. Munger ghi nhận cách ghép nhóm (giáo sư các ngành hợp tác) nhưng cho rằng nó kém hiệu quả hơn.
+Từ Adam Smith, kinh tế học đã chỉ ra phân công lao động và chuyên môn hoá làm tăng năng suất; nhiều đột phá khoa học đến từ những người đào rất sâu một vấn đề hẹp. Một luật sư thuế giỏi nhất có thể phục vụ khách hàng tốt hơn một luật sư biết "một chút mọi thứ". Phê phán này không hẳn mâu thuẫn với Munger: ông nói rõ người học rộng phải "cũng học kỹ những gì ngành mình dạy", và lập luận "A cộng B" giữ nguyên A.
+
+Điểm khác là liều lượng: với người giỏi nhất và có 13 năm học, Munger tin thêm B gần như luôn đáng; người phản biện thì cho rằng chi phí cơ hội của thời gian học B có thể cao với nhiều người, và tổ chức có thể đạt tính đa ngành bằng cách ghép nhóm chuyên gia thay vì đòi mỗi cá nhân đa ngành. Munger ghi nhận cách ghép nhóm (giáo sư các ngành hợp tác) nhưng cho rằng nó kém hiệu quả hơn.
 
 ### Vận dụng: hãy tự đào tạo mình như một phi công cho những vấn đề rộng
 
@@ -1238,3 +1296,201 @@ Từ Adam Smith, kinh tế học đã chỉ ra phân công lao động và chuy�
 - **Trong doanh nghiệp và nghề nghiệp:** Người làm luật nên học kế toán và tâm lý học; người làm tài chính nên học tâm lý học và luật hợp đồng; kỹ sư nên học kinh tế học. Khi thiết kế chương trình đào tạo nội bộ, áp sáu yếu tố: đủ rộng, luyện tới mức thành thạo, nghĩ xuôi và ngược, dành nhiều thời gian nhất cho lỗi gây hậu quả lớn nhất, danh sách kiểm tra bắt buộc, ôn luyện định kỳ tình huống hiếm. Muốn nhân viên đổi hành vi thì đổi động cơ, không chỉ đổi khẩu hiệu.
 - **Trong ra quyết định cá nhân:** Khi thấy mình giải mọi chuyện bằng một cách quen (luôn kiện, luôn cắt chi phí, luôn vay thêm), hãy nghi ngờ hội chứng người cầm búa. Khi một lời khuyên đến từ người được lợi nếu bạn nghe theo, hãy nhớ thiên lệch do động cơ khuyến khích, kể cả khi họ thành thật. Học các ý lớn ở mức cốt lõi, ghi rõ ý nào lấy từ ngành nào, và ưu tiên lời giải thích đơn giản, nền tảng trước.
 - **Ở Việt Nam:** Giáo dục đại học và đào tạo nghề ở Việt Nam có truyền thống phân ngành sớm và học để thi; sáu yếu tố của Munger gợi ý những hướng sửa cụ thể: bài thi tình huống liên ngành thay vì học thuộc, môn bắt buộc ngoài chuyên ngành (kế toán cho sinh viên luật, tâm lý học cho sinh viên kinh tế), và luyện đọc báo kinh doanh để nối sự kiện với nguyên nhân. Với doanh nghiệp gia đình, chuyện hai bà cụ và xưởng giày là bài học đáng nhớ khi thế hệ sau thừa kế một công ty mà mình không có năng lực điều hành: chi phí người đại diện có thể lớn hơn ta nghĩ, và bán cho người có lợi thế vận hành đôi khi là lựa chọn khôn ngoan nhất.
+
+## Bản đồ tư duy
+
+Toàn cảnh Bài 5 trên một trang: sáu nhánh lớn đi theo các mục 1–17 của phần Nội dung chi tiết (Câu hỏi 1–2 về vì sao người làm nghề nghĩ sai, Câu hỏi 3 với khuôn mẫu đào tạo phi công, Câu hỏi 4 về lối "lấy gì tuỳ thích", Câu hỏi 5 với năm cách làm, ví dụ đời Munger và lời kết, lời bình 2006 cùng bốn loại danh sách kiểm tra), mỗi nhánh ghi luận điểm, ví dụ và câu nói then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Bài 5: người làm nghề chỉ biết một ngành nghĩ sai có hệ thống, giáo dục tinh hoa sửa được bằng cách bắt chước đào tạo phi công`"]
+  n1["`Mục 1–5 — Câu hỏi 1–2: vì sao người làm nghề nghĩ sai và giáo dục 1948 quá đơn ngành`"]
+  n0 --- n1
+  n2["`Bernard Shaw: mọi nghề nghiệp là một âm mưu chống lại người ngoài nghề, như giới tu sĩ thiêu Tyndale`"]
+  n1 --- n2
+  n3["`Munger: Shaw nói nhẹ đi, thủ phạm chính là các khuynh hướng tâm trí vô thức chứ không phải ác ý`"]
+  n1 --- n3
+  n4["`Thiên lệch do động cơ khuyến khích: tin rằng điều tốt cho người làm nghề cũng tốt cho khách hàng`"]
+  n3 --- n4
+  n5["`Hội chứng người cầm búa: người chỉ có cái búa thấy vấn đề nào cũng gần giống cái đinh`"]
+  n3 --- n5
+  n6["`Có nhiều kỹ năng đa ngành là mang nhiều công cụ, hạn chế tác hại của cái búa duy nhất`"]
+  n1 --- n6
+  n7["`Lập luận A cộng B: chuyên môn hẹp A cộng các ý lớn của ngành khác B thường khá hơn chỉ có A`"]
+  n1 --- n7
+  n8["`Giáo dục 1948 đơn ngành quá mức: như chơi bridge chỉ đếm quân chủ bài mà bỏ qua mọi thứ khác`"]
+  n1 --- n8
+  n9["`Khoa học mềm (mọi ngành kém nền tảng hơn sinh học) bị #quot;Balkan hoá#quot;, Whitehead gọi là #quot;sự rời rạc chết người#quot;`"]
+  n1 --- n9
+  n10["`Mục 6–7 — Câu hỏi 3: lấy đào tạo phi công làm khuôn mẫu`"]
+  n0 --- n10
+  n11["`Tìm khuôn mẫu nơi động cơ dạy tốt mạnh nhất và kết quả đo sát nhất, không ở trường sư phạm`"]
+  n10 --- n11
+  n12["`#quot;Harvard hùng mạnh sẽ làm tốt hơn nếu nghĩ nhiều hơn về đào tạo phi công#quot;`"]
+  n10 --- n12
+  n13["`Hệ thống sáu yếu tố đào tạo phi công`"]
+  n10 --- n13
+  n14["`Học chính quy đủ rộng, bao gần như mọi thứ hữu ích cho việc lái máy bay`"]
+  n13 --- n14
+  n15["`Luyện tới thành thạo nhờ thực hành, kể cả khi hai ba mối nguy đan xen cùng lúc`"]
+  n13 --- n15
+  n16["`Nghĩ xuôi lẫn ngược: lúc nhắm điều muốn xảy ra, lúc tránh điều không muốn xảy ra`"]
+  n13 --- n16
+  n17["`Chia thời gian học theo mức hậu quả của lỗi: phần quan trọng nhất luyện nhiều nhất`"]
+  n13 --- n17
+  n18["`Quy trình danh sách kiểm tra luôn bắt buộc`"]
+  n13 --- n18
+  n19["`Tập định kỳ trên máy bay mô phỏng để kỹ năng hiếm mà hệ trọng không mai một`"]
+  n13 --- n19
+  n20["`Sáu yếu tố bắt rễ từ cấu trúc sâu của trí óc, nên giáo dục cho vấn đề rộng phải giữ đủ, chỉ mở rộng phạm vi`"]
+  n10 --- n20
+  n21["`Cộng thêm năng lực tổng hợp ở ranh giới các ngành: không có đường nào dễ hơn tới trí tuệ thế gian`"]
+  n10 --- n21
+  n22["`Ba lý do khiến nhiệm vụ khả thi`"]
+  n10 --- n22
+  n23["`Các ý thật sự lớn của mỗi ngành, chỉ học phần cốt lõi, đã gánh phần lớn khối hàng, không cần giỏi như Laplace`"]
+  n22 --- n23
+  n24["`Giáo dục tinh hoa dạy 1% người giỏi nhất, có khoảng 13 năm từ tuổi 12`"]
+  n22 --- n24
+  n25["`Tư duy đảo ngược và danh sách kiểm tra rất dễ học`"]
+  n22 --- n25
+  n26["`#quot;Tôi đã thấy người ta làm rồi#quot;: những #quot;Ben Franklin thời nay#quot; học rộng mà giỏi hơn trong chính ngành mình`"]
+  n10 --- n26
+  n27["`FlightSafety (thuộc Berkshire): thiết bị an toàn tốt nhất trên máy bay là một phi công được đào tạo tốt`"]
+  n10 --- n27
+  n28["`Mục 8–9 — Câu hỏi 4: lối #quot;lấy gì tuỳ thích#quot; tiến bộ thật nhưng nhiều khuyết tật`"]
+  n0 --- n28
+  n29["`Từ 1948 tới 1998 giới học thuật tiến bộ ròng đáng kể nhưng đường còn dài`"]
+  n28 --- n29
+  n30["`Hiệu quả nhất là để mỗi ngành tự hấp thụ thứ mình chọn từ ngành khác, đi vòng qua óc giữ địa bàn`"]
+  n28 --- n30
+  n31["`Roger Fisher đưa đàm phán vào trường luật, sách đàm phán của ông bán hơn 3 triệu bản`"]
+  n28 --- n31
+  n32["`Kinh tế học vay từ sinh học #quot;bi kịch của mảnh đất công#quot;: bàn chân vô hình song song bàn tay vô hình của Adam Smith`"]
+  n28 --- n32
+  n33["`Kết quả tệ: học thuyết Freud trong khoa văn và hệ tư tưởng chính trị cực đoan`"]
+  n28 --- n33
+  n34["`Thị trường hiệu quả dạng cứng: giải thích Berkshire bằng may mắn tới sáu độ lệch chuẩn thì bị chế giễu`"]
+  n28 --- n34
+  n35["`Khuyết tật: vay không ghi nguồn, đặt tên mới, bỏ qua thứ bậc nền tảng, như một hệ thống lưu trữ tồi`"]
+  n28 --- n35
+  n36["`Mục 10–12 — Câu hỏi 5: năm cách làm để tiến nhanh hơn`"]
+  n0 --- n36
+  n37["`Thứ nhất: thêm môn bắt buộc, luật sư phải giỏi tâm lý học và kế toán`"]
+  n36 --- n37
+  n38["`Thứ hai: luyện giải vấn đề vắt qua nhiều ngành, như đề thi xưởng giày`"]
+  n36 --- n38
+  n39["`Hai bà cụ không rành việc đời thừa kế xưởng giày có thương hiệu ở New England đang gặp khó`"]
+  n38 --- n39
+  n40["`Bài duy nhất điểm cao: vì chi phí người đại diện không tránh được, hãy bán xưởng ngay`"]
+  n38 --- n40
+  n41["`Bán cho đối thủ được hưởng lợi thế độ thoả dụng biên lớn nhất`"]
+  n38 --- n41
+  n42["`Bài thắng dựa vào khái niệm nền tảng của tâm lý học và kinh tế học, không vào bài vừa học`"]
+  n38 --- n42
+  n43["`Thứ ba: báo kinh doanh (Wall Street Journal, Forbes, Fortune) là máy bay mô phỏng để nối sự kiện với nguyên nhân`"]
+  n36 --- n43
+  n44["`Thứ tư: tránh tuyển giáo sư, sinh viên có hệ tư tưởng chính trị cực mạnh vì họ đã mất sự khách quan`"]
+  n36 --- n44
+  n45["`Thứ năm: bắt chước đạo lý tổ chức nền tảng của khoa học cứng (toán, vật lý, hoá học, kỹ thuật)`"]
+  n36 --- n45
+  n46["`Xếp hạng và dùng các ngành theo thứ tự độ nền tảng`"]
+  n45 --- n46
+  n47["`Nắm thành thạo phần cốt yếu của cả bốn ngành nền tảng, dù thích hay không`"]
+  n45 --- n47
+  n48["`Luôn ghi nguồn#59; nguyên tắc tiết kiệm: điều đã giải thích được bằng kiến thức nền tảng hơn thì cấm giải thích cách khác`"]
+  n45 --- n48
+  n49["`Chỉ lập nguyên lý mới khi cần, không mâu thuẫn nguyên lý cũ trừ khi chứng minh nó sai`"]
+  n45 --- n49
+  n50["`Feynman nhanh chóng tìm ra vòng đệm chữ O bị lạnh gây thảm hoạ tàu con thoi Challenger`"]
+  n36 --- n50
+  n51["`Quy tắc hai phần: lấy một ý đơn giản, cơ bản và coi nó thật nghiêm túc`"]
+  n36 --- n51
+  n52["`Mục 13–14 — Đời Munger là thí nghiệm giáo dục tình cờ, và lời kết`"]
+  n0 --- n52
+  n53["`Vào Trường Luật Harvard không có bằng đại học, chưa từng học lớp hoá học, kinh tế học, tâm lý học hay kinh doanh`"]
+  n52 --- n53
+  n54["`Thấm đạo lý của vật lý và toán sơ cấp, dùng làm kim chỉ nam và hệ thống lưu trữ cho các ngành mềm`"]
+  n52 --- n54
+  n55["`Khả năng phục vụ mọi thứ ông yêu quý tăng vượt xa công sức, như người duy nhất không bịt mắt`"]
+  n52 --- n55
+  n56["`Mọi điều ông nói đều không mới, vậy mà gần như giáo sư khoa học mềm nào cũng nghĩ quá đơn ngành`"]
+  n52 --- n56
+  n57["`Chẩn đoán: thể chế dung thứ động cơ lệch lạc, sự thật khó thấm khi đi ngược lợi ích (Samuel Johnson)`"]
+  n52 --- n57
+  n58["`Động cơ thay đổi được, nên bệnh hẹp ngành chữa được`"]
+  n52 --- n58
+  n59["`Bổn phận: Johnson gọi giữ sự dốt nát có thể xoá là #quot;phản bội#quot;, còn lợi ích là phần thưởng lớn và vui hơn`"]
+  n52 --- n59
+  n60["`Cõi tinh thần đa ngành là nơi không ai tự nguyện quay về, quay về như tự chặt tay mình`"]
+  n52 --- n60
+  n61["`Mục 15–17 — Lời bình 2006, bốn loại danh sách kiểm tra, thư Goodstein`"]
+  n0 --- n61
+  n62["`Năm 2006 Munger không muốn đổi một chữ, tự giễu mình giống Mục sư Theodore Munger`"]
+  n61 --- n62
+  n63["`#quot;Sao người thông minh hay sai? Vì không dùng danh sách kiểm tra để có đủ mô hình chính và dùng chúng cùng nhau#quot;`"]
+  n61 --- n63
+  n64["`Bốn loại danh sách kiểm tra của Munger`"]
+  n61 --- n64
+  n65["`Phân tích hai luồng: yếu tố lý trí chi phối lợi ích và ảnh hưởng vô thức`"]
+  n64 --- n65
+  n66["`Danh sách kiểm tra đầu tư và ra quyết định, không chính thức nhưng rộng`"]
+  n64 --- n66
+  n67["`Ý niệm cực đơn giản: câu hỏi lớn trước, dùng con số, đảo ngược, hiệu ứng Lollapalooza`"]
+  n64 --- n67
+  n68["`25 khuynh hướng tâm lý gây phán đoán sai của con người`"]
+  n64 --- n68
+  n69["`Goodstein (Caltech): Feynman không tự lừa mình, còn các nhà vật lý cũng tự lừa mình như cán bộ tài chính`"]
+  n61 --- n69
+  n70["`Thông điệp xuyên suốt`"]
+  n0 --- n70
+  n71["`Vấn đề phạm vi rộng vắt qua nhiều ngành, nên công cụ của một ngành tất yếu nghĩ sai`"]
+  n70 --- n71
+  n72["`Kiến thức chỉ có ích khi luyện tới thành thạo, xếp theo độ nền tảng và soát bằng danh sách kiểm tra`"]
+  n70 --- n72
+  n73["`Muốn thể chế đổi hành vi thì đổi động cơ khuyến khích`"]
+  n70 --- n73
+  class n0 root
+  class n1,n10,n28,n36,n52,n61,n70 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n27,n29,n30,n31,n32,n33,n34,n35,n37,n38,n39,n40,n41,n42,n43,n44,n45,n46,n47,n48,n49,n50,n51,n53,n54,n55,n56,n57,n58,n59,n60,n62,n63,n64,n65,n66,n67,n68,n69,n71,n72,n73 leaf
+```
+
+## Nguồn
+
+*Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger*, biên tập Peter D. Kaufman, The Donning Company Publishers, ấn bản mở rộng thứ ba (bản PDF là lần in thứ sáu, 2011), Chương 4 "Eleven Talks", Bài 5 "Harvard Law School Fiftieth Reunion Address", trang in 302–321. Tên bài nói in trong sách: "The Need for More Multidisciplinary Skills from Professionals: Educational Implications" (Người làm nghề chuyên môn cần thêm kỹ năng đa ngành: hệ quả đối với giáo dục).
+
+Munger đọc bài này ngày 24 tháng 4 năm 1998, tại buổi họp mặt kỷ niệm 50 năm khoá tốt nghiệp 1948 của Trường Luật Harvard (Harvard Law School), trước chính các bạn đồng khoá của ông, phần lớn là luật sư, thẩm phán, giáo sư luật đã ngoài bảy mươi tuổi. Phần này gồm lời dẫn của người biên tập, bài nói, lời bình của Munger viết năm 2006 ("Talk Five Revisited"), hộp "Charlie's Checklists" của người biên tập và nhiều hộp bên lề, ảnh, chú thích ảnh.
+
+## Tác giả
+
+Charles T. Munger (1924–2023), phó chủ tịch Berkshire Hathaway, tốt nghiệp Trường Luật Harvard năm 1948 dù chưa có bằng đại học, từng hành nghề luật ở Los Angeles trước khi chuyển hẳn sang đầu tư. Lời dẫn, hộp bên lề và hộp "Charlie's Checklists" là của người biên tập Peter D. Kaufman và nhóm biên soạn.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Bài 2 và Bài 3 đặt ra khái niệm **trí tuệ thế gian (worldly wisdom)** và **mạng lưới mô hình tư duy (latticework of mental models)**: muốn ra quyết định tốt thì phải nắm các ý lớn của nhiều ngành. Bài 4 ("Practical Thought About Practical Thought?", 1996) dùng một bài tập tưởng tượng về Coca-Cola để cho thấy các ý lớn đó giải bài toán thực tế ra sao, rồi chê giới học thuật vì không dạy cách nghĩ ấy.
+
+Theo lời dẫn của người biên tập, Bài 5 là phần "đưa ra lời giải" sau khi Bài 4 đã "phê phán": Munger chỉ ra giáo dục tinh hoa cần sửa ở đâu và sửa bằng cách nào, lấy mô hình đào tạo phi công làm khuôn mẫu. Bài này cũng là nơi Munger trình bày đầy đủ nhất ý tưởng **danh sách kiểm tra (checklist)** và **tư duy đảo ngược (inversion)** trong giáo dục, nên người biên tập đặt ngay sau bài một hộp tổng kết bốn loại danh sách kiểm tra Munger dùng xuyên suốt cuốn sách.
+
+Các khuynh hướng tâm lý mà bài nhắc tới (**thiên lệch do động cơ khuyến khích**, **hội chứng người cầm búa**) được trình bày đầy đủ ở Bài 11 ("The Psychology of Human Misjudgment"). Lời phê phán sự hẹp ngành của khoa học xã hội được Munger phát triển tiếp ở Bài 9 ("Academic Economics", 2003) và Bài 10 (diễn văn tốt nghiệp Trường Luật USC Gould, 2007). Bài 6 tiếp theo ("Investment Practices of Leading Charitable Foundations", cũng năm 1998) quay sang chuyện đầu tư của các quỹ từ thiện.
+
+## Lưu ý
+
+- Văn bản lấy từ OCR bản scan, đã đối chiếu với ảnh các trang PDF 316–335. Lỗi OCR (như "academie", "flueney", "Auency", "aireraft", "rask", "deery", "beser") đã được sửa theo ảnh trang; không có lỗi nào làm đổi nghĩa.
+- Ở cuối trang in 317 câu văn dừng ở "If I could somewhat fix" (nếu tôi có thể sửa phần nào) và trang in 318 bắt đầu bằng "there is an ethos, also from Dr. Johnson, that is applicable". Hai mảnh không nối thành một câu trọn vẹn; có lẽ bản in đã rơi mất một đoạn chữ ở chỗ chuyển trang. Bản tổng hợp diễn giải theo ý chung: Munger muốn nhắc một đạo lý khác của Samuel Johnson để thúc người nghe sửa vấn đề.
+- Ở câu thứ tư trong "đạo lý tổ chức nền tảng" của khoa học cứng, sách in "test to establishment new principles"; đúng ra là "establish" (thiết lập).
+- Lời dẫn của người biên tập có trích một câu của Munger nhắc tới cả phi công lẫn bác sĩ phẫu thuật ("When it really matters, as with pilots and surgeons..."). Câu này không có trong bài nói in ở đây; người biên tập không nói trích từ đâu.
+- Hộp "Charlie's Checklists" ghi số trang của các phần khác trong sách (trang in 63–64, 73–76, 279–281, 440–498). Theo mục lục, đó lần lượt là các phần trong Chương 2 ("The Munger Approach to Life, Learning, and Decision Making"), trong Bài 4 và toàn bộ Bài 11. Bản tổng hợp ghi tên phần thay cho số trang.
+- Bản tổng hợp gom các hộp bên lề, ảnh và chú thích ảnh của người biên tập thành các khối riêng, đặt cạnh câu hỏi mà chúng đi kèm, và luôn ghi rõ đây là phần của người biên tập. Ảnh không có chú thích (huy hiệu ở trang mở đầu bài, ảnh tàu con thoi, ảnh tiếp viên hàng không cầm bảng kẹp hồ sơ, bìa các tạp chí) chỉ được mô tả ngắn.
+- Huy hiệu ở trang mở đầu bài mang dòng chữ Latin "Possunt quia posse videntur" (câu thơ của Virgil, nghĩa là "họ làm được vì họ tin rằng mình làm được"). Sách không nói huy hiệu này của ai.
+- Đính chính theo hiểu biết của người tổng hợp:
+  - Câu "fatal unconnectedness of academic disciplines" mà Munger gán cho Alfred North Whitehead là cách Munger nhớ lại; trong *The Aims of Education* Whitehead viết về "sự rời rạc chết người giữa các môn học" (*fatal disconnection of subjects*), cùng ý.
+  - William Tyndale bị xử tử năm 1536 ở vùng Hà Lan thuộc Đế quốc La Mã Thần thánh (gần Brussels ngày nay), do chính quyền theo Công giáo ở đó thi hành; bị siết cổ rồi thiêu xác, như chính hộp bên lề kể. Munger nói gọn là "giới tu sĩ thiêu ông trên cọc"; hộp bên lề nói Tyndale sống ở "Bỉ", trong khi nước Bỉ thời đó chưa tồn tại.
+  - Hộp bên lề ghi Roger Fisher "sinh năm 1922" như người còn sống; ông mất năm 2012.
+  - Mô hình "bi kịch của mảnh đất công" (tragedy of the commons) mà Munger nói kinh tế học "lấy từ một nhà sinh học" là của nhà sinh thái học Garrett Hardin (bài báo năm 1968).
+  - Câu của Bernard Shaw nằm trong vở kịch *The Doctor's Dilemma* (1906).
+- Thư của David Goodstein (Caltech) đặt ở cuối phần này thật ra là thư phản hồi Bài 6 (bài nói trước nhóm cán bộ tài chính của các quỹ từ thiện); người biên tập nói rõ điều đó và giải thích rằng họ đặt thư ở đây vì Bài 5 nhắc tới Richard Feynman.
+- Bối cảnh thời gian: bài nói năm 1998; lời bình "Talk Five Revisited" viết năm 2006; cuốn sách in lần đầu năm 2005, ấn bản mở rộng năm 2008. Các nhận xét về hiện trạng học thuật ("ngày nay", "trong nửa thế kỷ qua") là hiện trạng năm 1998. Hộp về Jared Diamond nhắc cuốn sách mới nhất của ông lúc đó là *Collapse* (2005).

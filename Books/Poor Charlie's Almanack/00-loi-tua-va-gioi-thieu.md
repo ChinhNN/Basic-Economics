@@ -1,16 +1,18 @@
 # Lời tựa, lời đáp và lời giới thiệu (Foreword, Rebuttal, Introduction)
 
-**Nguồn:** Peter D. Kaufman (biên tập), *Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger*, ấn bản mở rộng thứ ba (Expanded Third Edition, The Donning Company Publishers, 2005/2006/2008; bản PDF là lần in thứ sáu, 2011), phần mở đầu sách trước Chương 1 (trang in vi–xiii): lời đề tặng; "Acknowledgments" (Lời cảm ơn); "Foreword: Buffett on Munger" (Lời tựa: Buffett nói về Munger); "Rebuttal: Munger on Buffett" (Lời đáp: Munger nói về Buffett); "Introduction" (Lời giới thiệu) kèm tiểu mục "About the Book" (Về cuốn sách) và các hình minh hoạ, câu trích in bên lề do người biên tập thêm vào.
-**Tác giả:** Phần này có bốn người viết. Lời cảm ơn là của nhóm biên tập do Peter D. Kaufman đứng đầu. Lời tựa là của **Warren E. Buffett**, chủ tịch Berkshire Hathaway và là cộng sự làm ăn của Munger từ năm 1959. Lời đáp là của **Charles T. Munger** (1924–2023), phó chủ tịch Berkshire Hathaway và chủ tịch Wesco Financial, nhân vật chính của cuốn sách. Lời giới thiệu là của **Peter D. Kaufman**, người biên tập sách, chủ tịch kiêm giám đốc điều hành công ty Glenair (theo hiểu biết của người tổng hợp; sách không nêu chức vụ này ở phần mở đầu).
-**Vị trí trong lập luận của cả cuốn sách:** Đây là cánh cửa vào sách. Phần này nói vì sao cuốn sách ra đời (nhiều người đòi có một cuốn sách gom lời của Munger), đặt Munger cạnh Benjamin Franklin (tên sách nhại tên *Poor Richard's Almanack* của Franklin), cho hai người hiểu Munger rõ nhất là Buffett và chính Munger nói về quan hệ cộng sự của họ, rồi giới thiệu lối tư duy đa ngành (multidisciplinary) và giá trị sống của Munger mà các phần sau sẽ trình bày. Tiểu mục "About the Book" là bản đồ của cả sách: Chương 1 là chân dung tiểu sử và bài suy ngẫm về tuổi già, Chương 2 tóm tắt cách Munger tiếp cận cuộc sống, học tập, ra quyết định và đầu tư, Chương 3 là các câu nói ứng khẩu của Munger tại đại hội cổ đông Berkshire Hathaway và Wesco Financial, Chương 4 là mười một bài nói, trong đó bài cuối "The Psychology of Human Misjudgment" được Munger soạn riêng cho sách. Phần tiếp theo ngay sau đây là Chương 1, "A Portrait of Charles T. Munger" của Michael Broggie.
-**Ý chính:** Phần mở đầu muốn người đọc hiểu ba điều trước khi vào sách. Thứ nhất, Munger là "Benjamin Franklin của thế hệ này": cũng tiết kiệm, chăm chỉ, giản dị như Franklin khuyên trong *Poor Richard's Almanack*, nhưng đòi hỏi khắt khe hơn, và tự sống thành một bài học sống về lãi kép (compound interest). Thứ hai, quan hệ Buffett và Munger là mẫu mực của một quan hệ cộng sự: Buffett đùa rằng ông đã viết ra một danh sách tiêu chuẩn chọn cộng sự (người giỏi và khôn ngoan hơn mình, không khoe, không trách móc khi mình sai, tự bỏ tiền và làm việc gần như không công, làm cuộc đi chung vui hơn) và chỉ có Munger đáp ứng đủ; còn Munger đáp lại rằng người ta đã thổi phồng vai trò của ông, vì nếu không có Munger thì thành tích của Buffett vẫn gần như vậy. Thứ ba, theo Kaufman, giá trị của Munger nằm ở lối tư duy đa ngành tự xây dựng: rõ ràng, đơn giản nhưng không hời hợt, dựa trên bản chất con người và các nguyên lý cốt lõi của nhiều ngành, được truyền đạt bằng chuyện kể, sự hài hước, tư duy đảo ngược (inversion) và nghịch lý, và đặt quyết định cuộc đời lên trên quyết định đầu tư. Với Munger, sự giàu có phục vụ mục đích **độc lập**, chứ không phải độc lập phục vụ sự giàu có. Hình minh hoạ trung tâm của phần này vẽ Munger như một phù thuỷ giữa bầu trời đầy biểu tượng của toán học, hoá học, vật lý, thiên văn, sinh học thần kinh, kèm định nghĩa vui của người biên tập về chữ "lollapalooza".
+## Ý chính
 
-> **Lưu ý:**
-> - **Đánh số trang.** Phần mở đầu không in số trang. Đề bài ghi trang in vi–xiii; quy tắc chung "trang in = trang PDF − 14" không áp dụng được cho phần này (cho ra số âm). Vì vậy các tiêu đề bên dưới ghi số trang PDF (3, 6–15). Trang mục lục (PDF 4–5) bị bỏ qua; nội dung của nó đã có trong dòng "Vị trí trong lập luận" ở trên.
-> - **Lỗi OCR ảnh hưởng tới nghĩa.** Bản OCR đọc trang bìa *Poor Richard's Almanack* năm 1733 (in chìm phía sau tiêu đề Lời tựa, PDF trang 8) thành một chuỗi chữ vô nghĩa ("Being the Firt after 1 EAP YEAR", "By RICH ART SKUNDERS. Fhilom", "PHILADELPHEM"); theo ảnh trang, đó là "Being the First after LEAP YEAR", "By RICHARD SAUNDERS, Philom." và "PHILADELPHIA: Printed and sold by B. FRANKLIN, at the New Printing-Office near the Market". Chữ ký Buffett bị OCR đọc thành "Pons Bitt". Hình PDF trang 13 bị OCR đọc thành các mảnh "TC (0.0) ORIGIN R(6,2) IVA S X AXIS"; theo ảnh, đó là ký hiệu số pi (π), gốc toạ độ "(0,0) ORIGIN", điểm "P(6,2)", trục "X AXIS" và các số La Mã I–IV đánh dấu bốn góc phần tư của mặt phẳng toạ độ. Chú thích dưới bức biếm hoạ PDF trang 9 bị OCR đọc là "PARINEER"; theo ảnh là "PARTNERS" (Những người cộng sự). "Gontents" là "Contents", "basie" là "basic", "ethie" là "ethic", "specches" là "speeches".
-> - **Các hình và câu trích bên lề đã đưa vào thế nào.** Ảnh Munger ở trang đề tặng (PDF 3), bức biếm hoạ tập thể nhóm làm sách (PDF 7), chân dung Franklin và bìa niên lịch 1733 (PDF 8), biếm hoạ "Partners" (PDF 9), ảnh Buffett và Munger đi cạnh nhau cùng hai câu trích in nổi (PDF 10), biếm hoạ Munger khoanh tay (PDF 11), hình nền khối cầu lưới ở trang mở Lời giới thiệu (PDF 12), hình phù thuỷ và định nghĩa "lollapalooza" (PDF 13), biếm hoạ Munger kể chuyện cho trẻ em (PDF 14), ảnh Munger đọc sách và câu trích về con đường đa ngành (PDF 15) đều được mô tả trong bản tổng hợp, ghi rõ là hình minh hoạ hoặc hộp bên lề của người biên tập. Hình PDF trang 13 có `###` riêng trong Sơ đồ.
-> - **Bối cảnh thời điểm.** Lời tựa, lời đáp và lời giới thiệu được viết cho ấn bản đầu (2005) và giữ nguyên ở các ấn bản sau. Vì thế Buffett viết "đã là cộng sự bốn mươi lăm năm" (1959 cộng 45 là 2004); Munger nói Buffett đang "ở tuổi bảy mươi" (Buffett sinh năm 1930); Kaufman viết bài nói sớm nhất "gần hai mươi năm tuổi" (bài nói tại Harvard School năm 1986). Riêng tiểu mục "About the Book" đã được sửa cho ấn bản thứ hai (thêm bài suy ngẫm về tuổi già) và thứ ba (thêm bài nói tại Trường Luật USC Gould ngày 13/5/2007, nâng "Ten Talks" thành "Eleven Talks"). Munger qua đời năm 2023, Buffett rời ghế giám đốc điều hành Berkshire cuối năm 2025 (theo hiểu biết của người tổng hợp); câu Munger nói về "người kế nhiệm sẽ kém Buffett" vì vậy nay đã thành câu hỏi có thể kiểm chứng.
-> - **Chỗ cần đính chính hoặc khó xác minh.** Câu đề từ ở trang biếm hoạ tập thể được sách ghi là của "Charles Helman Lea"; người tổng hợp không xác minh được tên này (không tra web) nên giữ nguyên. Lời đáp của Munger có giọng văn nói (ví dụ "some bastard comes along"), có lẽ được người biên tập lấy từ lời Munger nói ở một buổi họp hay phỏng vấn rồi để ông ký, chứ không phải bài viết riêng; sách không nói rõ nguồn. Munger nói "Warren Buffett trong bốn mươi năm", còn Buffett nói "bốn mươi lăm năm": hai con số khác nhau do một bên nói tròn, không phải mâu thuẫn về sự kiện. Chữ "Cap M" Kaufman dùng là cách gọi tắt mô hình định giá tài sản vốn (Capital Asset Pricing Model, CAPM). Định nghĩa thứ hai của "lollapalooza" trong hộp bên lề là định nghĩa vui của người biên tập áp vào con người Munger, khác với nghĩa "hiệu ứng Lollapalooza" mà Munger dùng trong các bài nói (nhiều khuynh hướng tâm lý cùng tác động theo một hướng, gây ra kết quả cực đoan).
+Phần mở đầu muốn người đọc hiểu ba điều trước khi vào sách.
+
+Thứ nhất, Munger là "Benjamin Franklin của thế hệ này": cũng tiết kiệm, chăm chỉ, giản dị như Franklin khuyên trong *Poor Richard's Almanack*, nhưng đòi hỏi khắt khe hơn, và tự sống thành một bài học sống về lãi kép (compound interest).
+
+Thứ hai, quan hệ Buffett và Munger là mẫu mực của một quan hệ cộng sự: Buffett đùa rằng ông đã viết ra một danh sách tiêu chuẩn chọn cộng sự (người giỏi và khôn ngoan hơn mình, không khoe, không trách móc khi mình sai, tự bỏ tiền và làm việc gần như không công, làm cuộc đi chung vui hơn) và chỉ có Munger đáp ứng đủ.
+
+Còn Munger đáp lại rằng người ta đã thổi phồng vai trò của ông, vì nếu không có Munger thì thành tích của Buffett vẫn gần như vậy.
+
+Thứ ba, theo Kaufman, giá trị của Munger nằm ở lối tư duy đa ngành tự xây dựng: rõ ràng, đơn giản nhưng không hời hợt, dựa trên bản chất con người và các nguyên lý cốt lõi của nhiều ngành, được truyền đạt bằng chuyện kể, sự hài hước, tư duy đảo ngược (inversion) và nghịch lý, và đặt quyết định cuộc đời lên trên quyết định đầu tư. Với Munger, sự giàu có phục vụ mục đích **độc lập**, chứ không phải độc lập phục vụ sự giàu có.
+
+Hình minh hoạ trung tâm của phần này vẽ Munger như một phù thuỷ giữa bầu trời đầy biểu tượng của toán học, hoá học, vật lý, thiên văn, sinh học thần kinh, kèm định nghĩa vui của người biên tập về chữ "lollapalooza".
 
 ## Sơ đồ
 
@@ -444,11 +446,19 @@
 
 ## Ba câu hỏi phần này trả lời
 
-1. **Vì sao cuốn sách lấy tên "Poor Charlie's Almanack", và Munger giống, khác Benjamin Franklin ở chỗ nào?** Tên sách nhại *Poor Richard's Almanack*, cuốn niên lịch Franklin xuất bản từ 1733 đến 1758 để truyền các đức tính tiết kiệm, bổn phận, chăm chỉ, giản dị. Người biên tập Kaufman gọi Munger là "Benjamin Franklin của thế hệ này": cũng là người tự học rộng, nói nhiều lời khuyên thực tế bằng giọng dí dỏm, và đi theo đúng các đức tính ấy. Buffett, bằng giọng đùa, nói Munger đi xa hơn Franklin: Franklin khuyên thì Munger đòi hỏi, Franklin bảo tiết kiệm từng xu thì Munger nâng mức cược, Franklin bảo đúng giờ thì Munger bảo đến sớm. Franklin lập hai quỹ trong di chúc để dạy đời sau về lãi kép; Munger thì sống thành bài học về lãi kép ngay khi còn sống, bằng cách tránh mọi khoản chi phù phiếm (mà theo ông là "bất kỳ khoản chi nào"). Chỉ một chỗ Munger không thêm được gì: bài luận đùa của Franklin về chọn nhân tình.
+1. **Vì sao cuốn sách lấy tên "Poor Charlie's Almanack", và Munger giống, khác Benjamin Franklin ở chỗ nào?** Tên sách nhại *Poor Richard's Almanack*, cuốn niên lịch Franklin xuất bản từ 1733 đến 1758 để truyền các đức tính tiết kiệm, bổn phận, chăm chỉ, giản dị. Người biên tập Kaufman gọi Munger là "Benjamin Franklin của thế hệ này": cũng là người tự học rộng, nói nhiều lời khuyên thực tế bằng giọng dí dỏm, và đi theo đúng các đức tính ấy.
 
-2. **Buffett và Munger nhìn quan hệ cộng sự của họ thế nào?** Buffett đưa ra năm tiêu chuẩn chọn cộng sự, viết theo giọng tự giễu như thể chỉ có lợi cho mình: tìm người giỏi và khôn ngoan hơn mình; xin người đó đừng khoe để mình được khen thay; người không chất vấn lại hay hờn dỗi khi mình sai đắt giá; người tự bỏ tiền và làm việc với thù lao rất thấp; người làm chặng đường dài thêm vui. Năm 1959 ông làm theo và chỉ Munger khớp đủ; sau bốn mươi lăm năm, ông nói mình biết ơn Munger hết mức, mượn lý do thứ tám của Franklin ("họ rất biết ơn"). Câu trích bên lề tóm lại ý nghiêm túc phía sau: một cộng sự không phục tùng và cực kỳ logic là một trong những cơ chế tốt nhất để tránh sai lầm. Munger thì đáp rằng vai trò "người khai sáng Buffett" của ông bị thổi phồng: ông chỉ giúp Buffett vượt qua chút tắc nghẽn tư duy do thói quen thành công theo cách của Ben Graham, còn nếu không có Munger thì thành tích Buffett vẫn gần như vậy. Ông khen Buffett vẫn tiến bộ ở tuổi bảy mươi, nói Berkshire sẽ vẫn ổn khi Buffett đi, và bảo than phiền vì người kế nhiệm kém hơn là ngớ ngẩn.
+   Buffett, bằng giọng đùa, nói Munger đi xa hơn Franklin: Franklin khuyên thì Munger đòi hỏi, Franklin bảo tiết kiệm từng xu thì Munger nâng mức cược, Franklin bảo đúng giờ thì Munger bảo đến sớm. Franklin lập hai quỹ trong di chúc để dạy đời sau về lãi kép; Munger thì sống thành bài học về lãi kép ngay khi còn sống, bằng cách tránh mọi khoản chi phù phiếm (mà theo ông là "bất kỳ khoản chi nào"). Chỉ một chỗ Munger không thêm được gì: bài luận đùa của Franklin về chọn nhân tình.
 
-3. **Người đọc sẽ gặp gì trong sách và nên đọc nó thế nào?** Theo Kaufman, sách trình bày lối tư duy đa ngành Munger tự xây: rõ ràng, đơn giản mà không hời hợt, dựa trên bản chất con người và nguyên lý cốt lõi của nhiều ngành, nên các bài nói gần hai mươi năm tuổi vẫn còn đúng. Munger truyền đạt bằng chuyện kể, giai thoại, hài hước, tư duy đảo ngược và nghịch lý, để kiến thức gắn thành một mạng lưới dễ nhớ và dễ dùng. Ông ưu tiên quyết định cuộc đời hơn quyết định đầu tư, và coi tiền là phương tiện để độc lập. Về cấu trúc: tiểu sử, suy ngẫm về tuổi già, cách tiếp cận của Munger, các câu nói tại đại hội cổ đông, và mười một bài nói (bài cuối về tâm lý học phán đoán sai lầm, soạn riêng cho sách). Người đọc nên chấp nhận sự lặp lại có chủ ý của Munger vì lặp lại là cách đạt độ thông thạo, và đọc cả các hộp bên lề của người biên tập, vốn giải thích khái niệm và nhân vật mà Munger nhắc tới.
+2. **Buffett và Munger nhìn quan hệ cộng sự của họ thế nào?** Buffett đưa ra năm tiêu chuẩn chọn cộng sự, viết theo giọng tự giễu như thể chỉ có lợi cho mình: tìm người giỏi và khôn ngoan hơn mình; xin người đó đừng khoe để mình được khen thay; người không chất vấn lại hay hờn dỗi khi mình sai đắt giá; người tự bỏ tiền và làm việc với thù lao rất thấp; người làm chặng đường dài thêm vui.
+
+   Năm 1959 ông làm theo và chỉ Munger khớp đủ; sau bốn mươi lăm năm, ông nói mình biết ơn Munger hết mức, mượn lý do thứ tám của Franklin ("họ rất biết ơn"). Câu trích bên lề tóm lại ý nghiêm túc phía sau: một cộng sự không phục tùng và cực kỳ logic là một trong những cơ chế tốt nhất để tránh sai lầm.
+
+   Munger thì đáp rằng vai trò "người khai sáng Buffett" của ông bị thổi phồng: ông chỉ giúp Buffett vượt qua chút tắc nghẽn tư duy do thói quen thành công theo cách của Ben Graham, còn nếu không có Munger thì thành tích Buffett vẫn gần như vậy. Ông khen Buffett vẫn tiến bộ ở tuổi bảy mươi, nói Berkshire sẽ vẫn ổn khi Buffett đi, và bảo than phiền vì người kế nhiệm kém hơn là ngớ ngẩn.
+
+3. **Người đọc sẽ gặp gì trong sách và nên đọc nó thế nào?** Theo Kaufman, sách trình bày lối tư duy đa ngành Munger tự xây: rõ ràng, đơn giản mà không hời hợt, dựa trên bản chất con người và nguyên lý cốt lõi của nhiều ngành, nên các bài nói gần hai mươi năm tuổi vẫn còn đúng. Munger truyền đạt bằng chuyện kể, giai thoại, hài hước, tư duy đảo ngược và nghịch lý, để kiến thức gắn thành một mạng lưới dễ nhớ và dễ dùng. Ông ưu tiên quyết định cuộc đời hơn quyết định đầu tư, và coi tiền là phương tiện để độc lập.
+
+   Về cấu trúc: tiểu sử, suy ngẫm về tuổi già, cách tiếp cận của Munger, các câu nói tại đại hội cổ đông, và mười một bài nói (bài cuối về tâm lý học phán đoán sai lầm, soạn riêng cho sách). Người đọc nên chấp nhận sự lặp lại có chủ ý của Munger vì lặp lại là cách đạt độ thông thạo, và đọc cả các hộp bên lề của người biên tập, vốn giải thích khái niệm và nhân vật mà Munger nhắc tới.
 
 ## Khái niệm cần biết
 
@@ -456,7 +466,9 @@
 
 **Cách tiếp cận đa ngành (multidisciplinary approach).** Cách nghĩ dùng các ý lớn của nhiều ngành học (toán, vật lý, hoá học, sinh học, tâm lý học, kinh tế học, lịch sử...) cùng lúc để hiểu một vấn đề, thay vì chỉ nhìn qua một ngành. Ví dụ trong sách: hình minh hoạ vẽ Munger như phù thuỷ điều khiển cùng lúc ký hiệu số pi, mặt phẳng toạ độ, phân tử, nguyên tử, bộ não; câu trích của Munger nói đi theo con đường đa ngành rồi thì không ai muốn quay lại, quay lại như tự chặt tay mình. Quan trọng vì Kaufman coi đây là đặc điểm làm nên tư duy của Munger.
 
-**Mô hình tư duy (mental model) và mạng lưới mô hình tư duy (latticework of mental models).** Mô hình tư duy là một ý lớn, đã được kiểm chứng, của một ngành học, dùng như công cụ để giải thích hay dự đoán (ví dụ lãi kép, cung cầu, động cơ khuyến khích). Mạng lưới mô hình tư duy là nhiều mô hình như vậy gắn với nhau, để khi gặp vấn đề người ta lấy ra đúng công cụ. Ví dụ trong sách: Kaufman viết các bài học của Munger "gắn với nhau thành một mạng lưới kiến thức mạch lạc, sẵn sàng để nhớ lại và dùng khi cần"; trong bài "Practical Thought About Practical Thought?" Munger dùng nhiều mô hình để tính cách xây từ số không một doanh nghiệp 2.000 tỷ USD. Quan trọng vì đây là khái niệm trung tâm của Chương 2 và các bài nói.
+**Mô hình tư duy (mental model) và mạng lưới mô hình tư duy (latticework of mental models).** Mô hình tư duy là một ý lớn, đã được kiểm chứng, của một ngành học, dùng như công cụ để giải thích hay dự đoán (ví dụ lãi kép, cung cầu, động cơ khuyến khích). Mạng lưới mô hình tư duy là nhiều mô hình như vậy gắn với nhau, để khi gặp vấn đề người ta lấy ra đúng công cụ.
+
+Ví dụ trong sách: Kaufman viết các bài học của Munger "gắn với nhau thành một mạng lưới kiến thức mạch lạc, sẵn sàng để nhớ lại và dùng khi cần"; trong bài "Practical Thought About Practical Thought?" Munger dùng nhiều mô hình để tính cách xây từ số không một doanh nghiệp 2.000 tỷ USD. Quan trọng vì đây là khái niệm trung tâm của Chương 2 và các bài nói.
 
 **Lãi kép (compound interest, compounding).** Tiền lãi được giữ lại để sinh lãi tiếp, nên tài sản tăng theo cấp số nhân theo thời gian. Ví dụ minh hoạ của người tổng hợp: 100 triệu đồng sinh lời 10% mỗi năm và tái đầu tư toàn bộ sẽ thành khoảng 259 triệu sau 10 năm và khoảng 1,74 tỷ sau 30 năm; mỗi khoản chi 1 triệu hôm nay vì thế "đắt" bằng khoảng 17 triệu sau 30 năm. Trong sách: Franklin lập hai quỹ trong di chúc để dạy phép màu của lãi kép; Munger tránh mọi khoản chi phù phiếm để tự làm tấm gương sống. Quan trọng vì nó giải thích lối sống tằn tiện mà Buffett mô tả: với người hiểu lãi kép, mỗi khoản chi hôm nay là một khoản lớn hơn nhiều bị mất trong tương lai.
 
@@ -464,7 +476,9 @@
 
 **Tư duy đảo ngược (inversion; "Invert, always invert").** Giải bài toán bằng cách lật ngược nó: thay vì hỏi làm sao để thành công, hỏi điều gì chắc chắn làm mình thất bại rồi tránh nó. Câu "Đảo ngược, luôn đảo ngược" là của nhà toán học Đức Carl Gustav Jacobi (thế kỷ 19), người Kaufman gọi là "nhà đại số học vĩ đại". Ví dụ minh hoạ của người tổng hợp: thay vì hỏi "làm sao để giàu", hỏi "điều gì làm người ta mất hết tiền" (vay nợ quá sức, đầu tư thứ mình không hiểu, chi tiêu vượt thu nhập) rồi tránh cả ba. Quan trọng vì Kaufman nêu đây là một trong ba công cụ chính Munger dùng để khuyên người khác, cùng với sự hài hước và nghịch lý.
 
-**Hiệu ứng Lollapalooza (Lollapalooza effect) và chữ "lollapalooza".** Trong tiếng lóng Mỹ, "lollapalooza" là thứ nổi bật nhất trong loại của nó. Munger dùng "hiệu ứng Lollapalooza" cho trường hợp nhiều khuynh hướng (thường là tâm lý) cùng tác động theo một hướng, cộng hưởng và gây ra kết quả cực đoan. Trong hộp bên lề, người biên tập đưa thêm một nghĩa vui áp vào Munger: "khối lượng tới hạn" đạt được nhờ cộng sự tập trung, sự tò mò, sự kiên trì và sự tự phê bình, áp dụng qua lăng kính các mô hình tư duy đa ngành. Ví dụ minh hoạ của người tổng hợp: bốn phẩm chất, mỗi cái nếu đứng riêng chỉ giúp một chút, nhưng khi cùng có mặt thì thành tích không cộng mà nhân lên. Quan trọng vì khái niệm này trở lại nhiều lần ở các bài nói, nhất là bài 11.
+**Hiệu ứng Lollapalooza (Lollapalooza effect) và chữ "lollapalooza".** Trong tiếng lóng Mỹ, "lollapalooza" là thứ nổi bật nhất trong loại của nó. Munger dùng "hiệu ứng Lollapalooza" cho trường hợp nhiều khuynh hướng (thường là tâm lý) cùng tác động theo một hướng, cộng hưởng và gây ra kết quả cực đoan. Trong hộp bên lề, người biên tập đưa thêm một nghĩa vui áp vào Munger: "khối lượng tới hạn" đạt được nhờ cộng sự tập trung, sự tò mò, sự kiên trì và sự tự phê bình, áp dụng qua lăng kính các mô hình tư duy đa ngành.
+
+Ví dụ minh hoạ của người tổng hợp: bốn phẩm chất, mỗi cái nếu đứng riêng chỉ giúp một chút, nhưng khi cùng có mặt thì thành tích không cộng mà nhân lên. Quan trọng vì khái niệm này trở lại nhiều lần ở các bài nói, nhất là bài 11.
 
 **Độc lập là mục đích của sự giàu có (independence as the end that wealth serves).** Tiền là phương tiện để không phải phụ thuộc vào ai, không phải làm điều mình không muốn; không phải là mục đích. Ví dụ trong sách: Munger nói ông muốn giàu để được độc lập, như John Maynard Keynes (nhà kinh tế học Anh, cũng là nhà đầu tư thành công). Quan trọng vì nó giải thích vì sao Munger đặt quyết định cuộc đời lên trên quyết định đầu tư.
 
@@ -507,7 +521,9 @@ Buffett mở bài: từ năm 1733 đến 1758, Ben Franklin đưa ra những l�
 
 Buffett viết, với giọng đùa, rằng lúc đầu Munger chỉ là học trò của Franklin, nhưng rồi nhanh chóng mở ra lối mới. Điều Franklin khuyên thì Munger đòi hỏi. Franklin gợi ý tiết kiệm từng đồng xu, Munger nâng mức cược. Franklin bảo đúng giờ, Munger bảo phải đến sớm. So với sự khắt khe Munger đòi hỏi, sống theo quy tắc của Franklin trông thật êm ái.
 
-Hơn nữa, Munger luôn sống đúng điều ông giảng (và Buffett chêm vào: ông giảng rất nhiều). Franklin, trong di chúc, lập hai quỹ từ thiện nhỏ được thiết kế để dạy cho đời sau thấy phép màu của lãi kép (theo hiểu biết của người tổng hợp, mỗi quỹ 1.000 bảng Anh cho Boston và Philadelphia, cho thợ thủ công trẻ vay và để tích luỹ trong hai trăm năm). Munger thì sớm quyết định rằng chủ đề này quá quan trọng để chỉ được dạy qua một dự án sau khi mình đã chết. Thay vào đó, ông chọn tự trở thành một bài học sống về lãi kép, tránh mọi khoản chi phù phiếm (mà Buffett nói Munger định nghĩa là "bất kỳ khoản chi nào") vì chúng có thể làm yếu sức mạnh của tấm gương. Kết quả, Buffett đùa, là các thành viên gia đình Munger được biết niềm vui của những chuyến đi xe buýt đường dài, trong khi bạn bè giàu có của họ, "bị giam cầm" trong máy bay riêng, bỏ lỡ những trải nghiệm bổ ích đó.
+Hơn nữa, Munger luôn sống đúng điều ông giảng (và Buffett chêm vào: ông giảng rất nhiều). Franklin, trong di chúc, lập hai quỹ từ thiện nhỏ được thiết kế để dạy cho đời sau thấy phép màu của lãi kép (theo hiểu biết của người tổng hợp, mỗi quỹ 1.000 bảng Anh cho Boston và Philadelphia, cho thợ thủ công trẻ vay và để tích luỹ trong hai trăm năm).
+
+Munger thì sớm quyết định rằng chủ đề này quá quan trọng để chỉ được dạy qua một dự án sau khi mình đã chết. Thay vào đó, ông chọn tự trở thành một bài học sống về lãi kép, tránh mọi khoản chi phù phiếm (mà Buffett nói Munger định nghĩa là "bất kỳ khoản chi nào") vì chúng có thể làm yếu sức mạnh của tấm gương. Kết quả, Buffett đùa, là các thành viên gia đình Munger được biết niềm vui của những chuyến đi xe buýt đường dài, trong khi bạn bè giàu có của họ, "bị giam cầm" trong máy bay riêng, bỏ lỡ những trải nghiệm bổ ích đó.
 
 Tuy vậy, ở vài lĩnh vực Munger không tìm cách cải tiến tư duy của Franklin. Ví dụ, trước bài luận "Advice on the Choice of a Mistress" (Lời khuyên về việc chọn nhân tình) của Franklin, Munger ở chế độ "Tôi không có gì để thêm", câu nói đã thành thương hiệu của ông tại các đại hội cổ đông Berkshire (khi Buffett trả lời xong một câu hỏi và quay sang hỏi ý Munger).
 
@@ -554,9 +570,13 @@ Về tương lai, Munger dự báo:
 
 Trang mở đầu Lời giới thiệu in mờ một khối cầu lưới tam giác (kiểu mái vòm trắc địa) và một mảnh trục toạ độ, báo trước hình minh hoạ đa ngành ở trang sau.
 
-Kaufman viết rằng người đọc sắp bắt đầu một hành trình phi thường tới việc đầu tư và ra quyết định tốt hơn, và có thể cả tới việc hiểu cuộc sống tốt hơn, nhờ sự dí dỏm, trí tuệ, các bài nói và bài viết của Charlie Munger, người ông gọi là "câu trả lời của thế hệ này cho Benjamin Franklin". Thế giới quan độc đáo của Munger, mà Munger gọi là cách tiếp cận "đa ngành", là một mô hình ông tự xây để suy nghĩ rõ ràng và đơn giản; dù vậy các khái niệm và mô hình của ông không hề hời hợt. Kaufman lưu ý tư duy của Munger đứng vững qua thời gian: bài nói sớm nhất trong tuyển tập gần hai mươi năm tuổi mà vẫn đúng như ngày ông nói lần đầu. Đó là vì các quan sát và kết luận của Munger dựa trên bản chất con người, những sự thật cơ bản và các nguyên lý cốt lõi của rất nhiều ngành học.
+Kaufman viết rằng người đọc sắp bắt đầu một hành trình phi thường tới việc đầu tư và ra quyết định tốt hơn, và có thể cả tới việc hiểu cuộc sống tốt hơn, nhờ sự dí dỏm, trí tuệ, các bài nói và bài viết của Charlie Munger, người ông gọi là "câu trả lời của thế hệ này cho Benjamin Franklin". Thế giới quan độc đáo của Munger, mà Munger gọi là cách tiếp cận "đa ngành", là một mô hình ông tự xây để suy nghĩ rõ ràng và đơn giản; dù vậy các khái niệm và mô hình của ông không hề hời hợt.
 
-Xuyên suốt sách, Kaufman viết, Munger bộc lộ trí tuệ, sự dí dỏm, các giá trị và tài hùng biện của mình. Kiến thức như bách khoa cho phép ông dẫn từ các nhà hùng biện cổ điển, qua giới văn nhân châu Âu thế kỷ 18 và 19, tới các biểu tượng văn hoá đại chúng đương thời. Kaufman hỏi: ở đâu khác người ta thấy Demosthenes và Cicero (hai nhà hùng biện Hy Lạp và La Mã cổ đại) được đặt cạnh Johnny Carson (người dẫn chương trình truyền hình đêm khuya nổi tiếng của Mỹ), hay giới quản lý đầu tư ngày nay được đặt cạnh Nietzsche, Galileo và hình ảnh "người một chân trong cuộc thi đá đít" (người không thể thắng)? Hay Ben Franklin đấu với Bernie Cornfeld trong một cuộc so tài về trí tuệ thế gian? (Theo hiểu biết của người tổng hợp, Cornfeld là người bán quỹ đầu tư nổi tiếng những năm 1960, có đế chế sụp đổ đầu thập niên 1970; Munger dùng ông làm phản đề của Franklin.)
+Kaufman lưu ý tư duy của Munger đứng vững qua thời gian: bài nói sớm nhất trong tuyển tập gần hai mươi năm tuổi mà vẫn đúng như ngày ông nói lần đầu. Đó là vì các quan sát và kết luận của Munger dựa trên bản chất con người, những sự thật cơ bản và các nguyên lý cốt lõi của rất nhiều ngành học.
+
+Xuyên suốt sách, Kaufman viết, Munger bộc lộ trí tuệ, sự dí dỏm, các giá trị và tài hùng biện của mình. Kiến thức như bách khoa cho phép ông dẫn từ các nhà hùng biện cổ điển, qua giới văn nhân châu Âu thế kỷ 18 và 19, tới các biểu tượng văn hoá đại chúng đương thời.
+
+Kaufman hỏi: ở đâu khác người ta thấy Demosthenes và Cicero (hai nhà hùng biện Hy Lạp và La Mã cổ đại) được đặt cạnh Johnny Carson (người dẫn chương trình truyền hình đêm khuya nổi tiếng của Mỹ), hay giới quản lý đầu tư ngày nay được đặt cạnh Nietzsche, Galileo và hình ảnh "người một chân trong cuộc thi đá đít" (người không thể thắng)? Hay Ben Franklin đấu với Bernie Cornfeld trong một cuộc so tài về trí tuệ thế gian? (Theo hiểu biết của người tổng hợp, Cornfeld là người bán quỹ đầu tư nổi tiếng những năm 1960, có đế chế sụp đổ đầu thập niên 1970; Munger dùng ông làm phản đề của Franklin.)
 
 Munger dùng sự tự giễu và trí tưởng tượng rất hiệu quả. Ông vui vẻ ví mình với một con ngựa biết đếm; đề xuất cái tên "nước đường có caffeine của Glotz" làm nhãn hiệu cho Coca-Cola, một cái tên không có chút sức hút marketing nào (để chỉ ra cái tên và thương hiệu đóng góp bao nhiêu vào giá trị của Coca-Cola); và tự nhận "Ít nhất hồi trẻ tôi cũng không phải kẻ vụng về hoàn toàn". Trong một bài nói, "Practical Thought About Practical Thought?" (bài 4 của Chương 4), Munger còn nhận thử thách xây từ con số không một doanh nghiệp trị giá hai nghìn tỷ USD, rồi dẫn người nghe đi qua các mô hình tư duy đa dạng của ông để làm được việc đó.
 
@@ -617,7 +637,9 @@ Kaufman trình bày cấu trúc sách:
 
 Ấn bản mở rộng thứ ba thêm một bài nói mới: diễn văn tốt nghiệp Munger đọc tại Trường Luật USC Gould ngày 13 tháng 5 năm 2007. Vì vậy "Ten Talks" (Mười bài nói) ban đầu thành "Eleven Talks" (Mười một bài nói), một con số "không tròn lắm" như Kaufman đùa.
 
-Các bài nói phủ một dải rộng mối quan tâm của Munger: từ cách thu nhận trí tuệ thế gian, tới cách áp dụng "nhiều mô hình tư duy" (Multiple Mental Models) vào kinh doanh, tới cách cải thiện chiến lược đầu tư của các quỹ từ thiện. Bài thứ mười một là một bản đặc biệt của "The Psychology of Human Misjudgment" (Tâm lý học về phán đoán sai lầm của con người) mà Munger soạn riêng cho cuốn sách. Theo Kaufman, mỗi bài đều đáng thời gian của người đọc, không chỉ vì sự thú vị mà còn vì người đọc có thể hấp thụ được rất nhiều ý tưởng và cách làm mà Munger dựa vào. Người đọc khó tìm được cơ hội nào tốt hơn để học từ một người vừa thông minh vừa thẳng thắn như vậy; trong các bài nói, Munger cởi mở và nói đúng như sự việc là.
+Các bài nói phủ một dải rộng mối quan tâm của Munger: từ cách thu nhận trí tuệ thế gian, tới cách áp dụng "nhiều mô hình tư duy" (Multiple Mental Models) vào kinh doanh, tới cách cải thiện chiến lược đầu tư của các quỹ từ thiện. Bài thứ mười một là một bản đặc biệt của "The Psychology of Human Misjudgment" (Tâm lý học về phán đoán sai lầm của con người) mà Munger soạn riêng cho cuốn sách.
+
+Theo Kaufman, mỗi bài đều đáng thời gian của người đọc, không chỉ vì sự thú vị mà còn vì người đọc có thể hấp thụ được rất nhiều ý tưởng và cách làm mà Munger dựa vào. Người đọc khó tìm được cơ hội nào tốt hơn để học từ một người vừa thông minh vừa thẳng thắn như vậy; trong các bài nói, Munger cởi mở và nói đúng như sự việc là.
 
 Kaufman đặc biệt lưu ý: Munger cố ý lặp lại cách diễn đạt và ví dụ. Để đạt độ "thông thạo" sâu (fluency) mà ông chủ trương, ông biết rằng lặp lại là cốt lõi của việc dạy.
 
@@ -627,7 +649,13 @@ Kaufman kết bằng lời chúc người đọc đọc vui, và cảm nhận đ
 
 Bên lề trang có ảnh Munger đeo kính, thắt nơ, mặc áo vest vải tweed, chăm chú đọc một cuốn sách, kèm câu trích của Munger: nếu bạn đi theo con đường đa ngành một cách khéo léo, bạn sẽ không bao giờ muốn quay lại; quay lại chẳng khác gì tự chặt tay mình.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Anh Minh, 30 tuổi, kỹ sư phần mềm, mới có khoản tiết kiệm 300 triệu đồng và đang đứng trước ba quyết định. Thứ nhất, bạn bè rủ đổi xe máy lấy ô tô trả góp 700 triệu. Nghĩ theo **lãi kép** như Munger trong lời tựa của Buffett, anh tính: 300 triệu nếu sinh lời 10% mỗi năm trong 30 năm thành khoảng 5,2 tỷ; khoản trả góp và chi phí nuôi xe khoảng 8 triệu mỗi tháng, nếu đầu tư đều trong 30 năm ở mức lời đó sẽ thành hơn 16 tỷ. Anh hoãn mua xe dù bị nhóm bạn trêu là keo kiệt, đúng tinh thần lời đề tặng: điều chỉnh hành vi theo hiểu biết, và mặc kệ việc tạm thời không được nhóm cùng lứa ưa. Thứ hai, anh định mở một công ty nhỏ làm phần mềm và cần một người cùng làm. Anh dùng năm tiêu chuẩn của Buffett, bỏ đi phần đùa: chọn người giỏi hơn mình ở mảng bán hàng, chịu góp vốn của chính họ, và quan trọng nhất là **không phục tùng**: trong buổi nói chuyện thử, người này chỉ ra hai giả định sai trong kế hoạch của anh. Thứ ba, trước khi chọn sản phẩm, anh áp **tư duy đảo ngược**: thay vì hỏi "làm sao để công ty thành công", anh liệt kê những lý do khiến các công ty phần mềm nhỏ quanh anh thất bại (hết tiền mặt vì thuê quá nhiều người, phụ thuộc một khách hàng lớn, sản phẩm không ai cần) và đặt quy tắc tránh từng điều. Anh cũng tự hỏi vì sao mình muốn giàu, và nhận ra điều anh cần là **độc lập**: có đủ tiền dự phòng để từ chối một dự án xấu. Con số anh đặt ra không phải "giàu bao nhiêu" mà là "đủ sống 24 tháng không cần lương", tức khoảng 480 triệu với mức chi 20 triệu mỗi tháng.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Anh Minh, 30 tuổi, kỹ sư phần mềm, mới có khoản tiết kiệm 300 triệu đồng và đang đứng trước ba quyết định. Thứ nhất, bạn bè rủ đổi xe máy lấy ô tô trả góp 700 triệu. Nghĩ theo **lãi kép** như Munger trong lời tựa của Buffett, anh tính: 300 triệu nếu sinh lời 10% mỗi năm trong 30 năm thành khoảng 5,2 tỷ; khoản trả góp và chi phí nuôi xe khoảng 8 triệu mỗi tháng, nếu đầu tư đều trong 30 năm ở mức lời đó sẽ thành hơn 16 tỷ. Anh hoãn mua xe dù bị nhóm bạn trêu là keo kiệt, đúng tinh thần lời đề tặng: điều chỉnh hành vi theo hiểu biết, và mặc kệ việc tạm thời không được nhóm cùng lứa ưa.
+
+Thứ hai, anh định mở một công ty nhỏ làm phần mềm và cần một người cùng làm. Anh dùng năm tiêu chuẩn của Buffett, bỏ đi phần đùa: chọn người giỏi hơn mình ở mảng bán hàng, chịu góp vốn của chính họ, và quan trọng nhất là **không phục tùng**: trong buổi nói chuyện thử, người này chỉ ra hai giả định sai trong kế hoạch của anh.
+
+Thứ ba, trước khi chọn sản phẩm, anh áp **tư duy đảo ngược**: thay vì hỏi "làm sao để công ty thành công", anh liệt kê những lý do khiến các công ty phần mềm nhỏ quanh anh thất bại (hết tiền mặt vì thuê quá nhiều người, phụ thuộc một khách hàng lớn, sản phẩm không ai cần) và đặt quy tắc tránh từng điều.
+
+Anh cũng tự hỏi vì sao mình muốn giàu, và nhận ra điều anh cần là **độc lập**: có đủ tiền dự phòng để từ chối một dự án xấu. Con số anh đặt ra không phải "giàu bao nhiêu" mà là "đủ sống 24 tháng không cần lương", tức khoảng 480 triệu với mức chi 20 triệu mỗi tháng.
 
 ## Luận điểm cốt lõi
 
@@ -765,7 +793,9 @@ Charles T. Munger đáng được gom lời thành một cuốn sách vì ông k
 
 ### Phần mở đầu dùng sự hài hước để nói điều nghiêm túc về quan hệ cộng sự
 
-Lời tựa của Buffett gần như toàn bộ là chuyện đùa: Munger "đòi hỏi" hơn Franklin, gia đình Munger "được hưởng" xe buýt đường dài, danh sách tiêu chuẩn chọn cộng sự viết như thể chỉ có lợi cho người chọn, cái kết mượn bài luận chọn nhân tình của Franklin. Nhưng bên dưới là một mô tả chính xác về một quan hệ cộng sự hiệu quả: người cùng làm giỏi hơn mình, không tranh công, không trách móc sau khi sự đã rồi, có quyền lợi gắn bó (tự bỏ tiền vào), và làm cho công việc dài hạn trở nên vui. Câu trích bên lề về "cộng sự không phục tùng" là chìa khoá để đọc nghiêm túc lời đùa. Lời đáp của Munger cũng theo kiểu đó: bác bỏ lời khen bằng sự thẳng thắn, rồi biến chuyện người kế nhiệm thành một bài học về tránh oán giận. Cả hai bài cho người đọc thấy ngay giọng văn của cuốn sách: hài hước, tự giễu, nói thẳng.
+Lời tựa của Buffett gần như toàn bộ là chuyện đùa: Munger "đòi hỏi" hơn Franklin, gia đình Munger "được hưởng" xe buýt đường dài, danh sách tiêu chuẩn chọn cộng sự viết như thể chỉ có lợi cho người chọn, cái kết mượn bài luận chọn nhân tình của Franklin. Nhưng bên dưới là một mô tả chính xác về một quan hệ cộng sự hiệu quả: người cùng làm giỏi hơn mình, không tranh công, không trách móc sau khi sự đã rồi, có quyền lợi gắn bó (tự bỏ tiền vào), và làm cho công việc dài hạn trở nên vui.
+
+Câu trích bên lề về "cộng sự không phục tùng" là chìa khoá để đọc nghiêm túc lời đùa. Lời đáp của Munger cũng theo kiểu đó: bác bỏ lời khen bằng sự thẳng thắn, rồi biến chuyện người kế nhiệm thành một bài học về tránh oán giận. Cả hai bài cho người đọc thấy ngay giọng văn của cuốn sách: hài hước, tự giễu, nói thẳng.
 
 ### Điểm yếu: đây là chân dung do người hâm mộ vẽ, ít góc nhìn phê phán
 
@@ -777,7 +807,9 @@ Kaufman nói tư duy của Munger dựa trên "bản chất con người, sự t
 
 ### Những gì đã thay đổi từ khi phần này được viết
 
-Phần mở đầu viết năm 2005, khi Buffett khoảng 75 tuổi và Munger 81 tuổi. Theo hiểu biết của người tổng hợp, Munger mất năm 2023, chỉ khoảng một tháng trước sinh nhật thứ 100; Buffett tiếp tục điều hành Berkshire tới cuối năm 2025 rồi trao vị trí giám đốc điều hành cho Greg Abel. Câu Munger nói "Berkshire ngập trong tiền" vẫn đúng và còn đúng hơn: lượng tiền mặt của Berkshire những năm 2020 lớn hơn nhiều so với năm 2005, và việc tìm được thương vụ mua lại lớn càng khó, đúng như Munger dự báo mảng mua lại "sẽ không làm tốt bằng". Lời dự báo về người kế nhiệm nay đã bắt đầu được kiểm chứng. Câu "bài nói sớm nhất gần hai mươi năm tuổi vẫn đúng" nay có thể nói là gần bốn mươi năm, và phần lớn các bài nói vẫn được giới đầu tư trích dẫn, điều phần nào ủng hộ lập luận của Kaufman.
+Phần mở đầu viết năm 2005, khi Buffett khoảng 75 tuổi và Munger 81 tuổi. Theo hiểu biết của người tổng hợp, Munger mất năm 2023, chỉ khoảng một tháng trước sinh nhật thứ 100; Buffett tiếp tục điều hành Berkshire tới cuối năm 2025 rồi trao vị trí giám đốc điều hành cho Greg Abel.
+
+Câu Munger nói "Berkshire ngập trong tiền" vẫn đúng và còn đúng hơn: lượng tiền mặt của Berkshire những năm 2020 lớn hơn nhiều so với năm 2005, và việc tìm được thương vụ mua lại lớn càng khó, đúng như Munger dự báo mảng mua lại "sẽ không làm tốt bằng". Lời dự báo về người kế nhiệm nay đã bắt đầu được kiểm chứng. Câu "bài nói sớm nhất gần hai mươi năm tuổi vẫn đúng" nay có thể nói là gần bốn mươi năm, và phần lớn các bài nói vẫn được giới đầu tư trích dẫn, điều phần nào ủng hộ lập luận của Kaufman.
 
 ### Quan điểm trái chiều: tằn tiện cực đoan và "đa ngành" không phải lúc nào cũng tối ưu
 
@@ -789,3 +821,167 @@ Lối sống "mọi khoản chi đều phù phiếm" chỉ là lời đùa của
 - **Trong doanh nghiệp, nghề nghiệp.** Chọn cộng sự, đồng sáng lập, người cố vấn theo năm tiêu chuẩn của Buffett (bỏ phần đùa), đặc biệt là sự độc lập và logic; tạo cơ chế để có người dám nói "không" với người đứng đầu. Khi dạy hay truyền đạt trong tổ chức, dùng tình huống thật và câu chuyện, chấp nhận lặp lại ý chính nhiều lần.
 - **Trong ra quyết định cá nhân.** Học các ý lớn của nhiều ngành (toán xác suất, kinh tế học, tâm lý học, sinh học, lịch sử) đủ sâu để dùng; khi học được điều mới, thay đổi hành vi theo nó dù bị người xung quanh chê. Xác định số tiền "đủ để độc lập" thay vì đuổi theo giàu có không giới hạn. Tránh đố kỵ và oán giận, kể cả khi vận may kết thúc.
 - **Ở Việt Nam.** Áp lực của nhóm cùng lứa trong chi tiêu (xe, nhà, tiệc cưới, đồ hiệu) thường mạnh, nên lời đề tặng "mặc kệ việc tạm thời không được ưa" rất đáng nhớ với người trẻ muốn tích luỹ sớm. Văn hoá trọng thứ bậc ở nhiều tổ chức khiến "cộng sự không phục tùng" khó có; người lãnh đạo cần chủ động tạo không gian cho phản biện. Với nhà đầu tư cá nhân, bài học là đọc Munger để học cách nghĩ và cách sống, không phải để tìm mẹo chọn cổ phiếu.
+
+## Bản đồ tư duy
+
+Toàn cảnh phần mở đầu trên một trang: sáu nhánh lớn đi theo các mục 1–8 của phần Nội dung chi tiết (lời đề tặng và lời cảm ơn, lời tựa của Buffett về Munger và Franklin, lời khuyên chọn cộng sự, lời đáp của Munger, lời giới thiệu của Kaufman về tư duy đa ngành, hộp bên lề "lollapalooza" và cấu trúc sách), mỗi nhánh ghi luận điểm, giai thoại, câu nói và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Lời tựa và giới thiệu: Munger là Benjamin Franklin của thế hệ này, tư duy đa ngành, coi giàu có là phương tiện để độc lập`"]
+  n1["`Mục 1–2 — Lời đề tặng và lời cảm ơn: sách ra đời vì người đọc đòi`"]
+  n0 --- n1
+  n2["`Đề từ của Munger: thu nhận trí tuệ thế gian và điều chỉnh hành vi theo nó`"]
+  n1 --- n2
+  n3["`Hành vi mới làm nhóm cùng lứa tạm thời không ưa thì mặc kệ họ`"]
+  n2 --- n3
+  n4["`Nhiều năm người ta đòi có sách về Munger ở đại hội Berkshire, Wesco, tiệc tối, diễn đàn mạng`"]
+  n1 --- n4
+  n5["`Kaufman đề nghị với Buffett và được khuyến khích tự đứng ra làm sách`"]
+  n1 --- n5
+  n6["`Ed Wexler vẽ minh hoạ, Whitney Tilson soạn Mungerisms, Michael Broggie viết tiểu sử, Carol Loomis biên tập`"]
+  n1 --- n6
+  n7["`Phép thử thật của một cuốn sách là ảnh hưởng tới cuộc sống và cách hành xử của người đọc`"]
+  n1 --- n7
+  n8["`Mục 3 — Lời tựa của Buffett: Munger đi xa hơn Franklin`"]
+  n0 --- n8
+  n9["`Poor Richard's Almanack 1733–1758 đề cao tiết kiệm, bổn phận, chăm chỉ, giản dị`"]
+  n8 --- n9
+  n10["`Điều Ben khuyên thì Charlie đòi hỏi: Franklin bảo đúng giờ, Munger bảo đến sớm`"]
+  n8 --- n10
+  n11["`Franklin lập hai quỹ trong di chúc để dạy đời sau phép màu của lãi kép`"]
+  n8 --- n11
+  n12["`Munger tự làm bài học sống về lãi kép, tránh chi phù phiếm, tức #quot;bất kỳ khoản chi nào#quot;`"]
+  n8 --- n12
+  n13["`Buffett đùa: nhà Munger đi xe buýt đường dài, bạn giàu #quot;bị giam#quot; trong máy bay riêng`"]
+  n12 --- n13
+  n14["`Trước bài luận chọn nhân tình của Franklin, Munger #quot;không có gì để thêm#quot;`"]
+  n8 --- n14
+  n15["`Mục 4 — Lời khuyên chọn cộng sự của Buffett: chỉ Charlie khớp đủ`"]
+  n0 --- n15
+  n16["`Tìm người vừa thông minh hơn vừa khôn ngoan hơn mình`"]
+  n15 --- n16
+  n17["`Xin người đó đừng phô trương, để mình được khen nhờ ý của họ`"]
+  n15 --- n17
+  n18["`Không chất vấn lại sau khi sự đã rồi, không hờn dỗi khi mình sai đắt giá`"]
+  n15 --- n18
+  n19["`Tự bỏ tiền vào và làm việc với thù lao rất thấp (work for peanuts)`"]
+  n15 --- n19
+  n20["`Làm cuộc đi chung đường dài thêm vui`"]
+  n15 --- n20
+  n21["`Năm 1959 Buffett làm theo từng chữ, sau 45 năm cộng sự ông biết ơn Munger hết mức`"]
+  n15 --- n21
+  n22["`Mượn lý do thứ tám của Franklin về nhân tình lớn tuổi: #quot;họ rất biết ơn#quot;`"]
+  n21 --- n22
+  n23["`Ý nghiêm túc: cộng sự không phục tùng, cực kỳ logic là một trong những cơ chế tốt nhất`"]
+  n15 --- n23
+  n24["`Mục 5 — Lời đáp của Munger: vai trò của ông bị thổi phồng`"]
+  n0 --- n24
+  n25["`Buffett không cần được khai sáng nhiều, Munger thấy mình được ghi công quá mức`"]
+  n24 --- n25
+  n26["`Munger chỉ giúp Buffett vượt #quot;tắc nghẽn tư duy#quot; do kiếm nhiều tiền theo cách Ben Graham`"]
+  n24 --- n26
+  n27["`Graham mua cổ phiếu rất rẻ so với tài sản, Munger thúc mua doanh nghiệp xuất sắc giá hợp lý`"]
+  n26 --- n27
+  n28["`Không có Munger thì thành tích của Buffett vẫn gần như y nguyên`"]
+  n24 --- n28
+  n29["`Buffett vẫn tiến bộ ở tuổi bảy mươi, Berkshire #quot;ngập trong tiền#quot; từ các doanh nghiệp tuyệt vời`"]
+  n24 --- n29
+  n30["`Khi Buffett đi: mảng mua lại kém hơn nhưng vẫn ổn, phần còn lại vẫn làm tốt`"]
+  n24 --- n30
+  n31["`Than được Buffett bốn mươi năm rồi một gã tệ hơn tới thay là ngớ ngẩn: tránh oán giận`"]
+  n24 --- n31
+  n32["`Mục 6 — Lời giới thiệu của Kaufman: tư duy đa ngành và cách truyền đạt`"]
+  n0 --- n32
+  n33["`Cách tiếp cận đa ngành: mô hình tự xây để nghĩ rõ ràng, đơn giản mà không hời hợt`"]
+  n32 --- n33
+  n34["`Dựa trên bản chất con người và nguyên lý cốt lõi nên bài nói gần 20 năm tuổi vẫn đúng`"]
+  n33 --- n34
+  n35["`Đặt Demosthenes, Cicero cạnh Johnny Carson, cho Franklin đấu Bernie Cornfeld về trí tuệ thế gian`"]
+  n32 --- n35
+  n36["`Gọi Coca-Cola là #quot;nước đường có caffeine của Glotz#quot; để chỉ giá trị của thương hiệu`"]
+  n32 --- n36
+  n37["`Practical Thought About Practical Thought?: xây từ số không doanh nghiệp 2.000 tỷ USD bằng mô hình tư duy`"]
+  n32 --- n37
+  n38["`Giá trị Trung Tây: học suốt đời, tò mò, tránh đố kỵ và oán giận, khách quan, kiểm tra lại niềm tin`"]
+  n32 --- n38
+  n39["`Khuyên bằng hài hước, nghịch lý và tư duy đảo ngược: #quot;Đảo ngược, luôn đảo ngược#quot; (Jacobi)`"]
+  n32 --- n39
+  n40["`Kể chuyện thay vì bão số liệu, bài học gắn thành mạng lưới kiến thức (latticework)`"]
+  n32 --- n40
+  n41["`Quyết định cuộc đời đặt trên quyết định đầu tư, mô hình không xoay quanh beta hay CAPM`"]
+  n32 --- n41
+  n42["`#quot;Tôi muốn giàu để được độc lập, như Keynes#quot;: giàu có phục vụ độc lập, không phải ngược lại`"]
+  n41 --- n42
+  n43["`Mục 7–8 — Hộp bên lề lollapalooza và cấu trúc sách`"]
+  n0 --- n43
+  n44["`Hình phù thuỷ: Munger điều khiển cùng lúc biểu tượng toán, hoá, vật lý, thiên văn, bộ não`"]
+  n43 --- n44
+  n45["`Lollapalooza theo người biên tập: khối lượng tới hạn từ tập trung, tò mò, kiên trì, tự phê bình`"]
+  n43 --- n45
+  n46["`Khác hiệu ứng Lollapalooza trong bài nói: nhiều khuynh hướng cùng hướng gây kết quả cực đoan`"]
+  n45 --- n46
+  n47["`Chương 1 tiểu sử từ Omaha, suy ngẫm tuổi già theo Cicero, Chương 2 cách tiếp cận của Munger`"]
+  n43 --- n47
+  n48["`Chương 3 Mungerisms tại đại hội Berkshire và Wesco, Chương 4 các bài nói trong khoảng 20 năm`"]
+  n43 --- n48
+  n49["`Ấn bản thứ ba thêm diễn văn USC Gould 13/5/2007: Ten Talks thành Eleven Talks`"]
+  n48 --- n49
+  n50["`Bài 11 The Psychology of Human Misjudgment được Munger soạn riêng cho sách`"]
+  n48 --- n50
+  n51["`Munger cố ý lặp lại vì lặp lại là cốt lõi của việc dạy để đạt độ thông thạo`"]
+  n43 --- n51
+  n52["`Hộp bên lề giải thích khái niệm, thêm tiếng nói ủng hộ, nhấn mạnh ý quan trọng của Munger`"]
+  n43 --- n52
+  n53["`Đã đi theo con đường đa ngành thì quay lại chẳng khác gì tự chặt tay mình`"]
+  n43 --- n53
+  n54["`Thông điệp xuyên suốt`"]
+  n0 --- n54
+  n55["`Hiểu biết phải dẫn tới đổi hành vi, kể cả khi đi ngược đám đông`"]
+  n54 --- n55
+  n56["`Tiết kiệm và lãi kép tạo độc lập, tiền là phương tiện chứ không phải mục đích`"]
+  n54 --- n56
+  n57["`Cộng sự độc lập, dám phản biện là cơ chế chống sai lầm và tự lừa dối`"]
+  n54 --- n57
+  n58["`Đa ngành đòi nắm vững ý lớn của mỗi ngành tới mức dùng được ngay, không phải biết một chút mọi thứ`"]
+  n54 --- n58
+  n59["`Phần mở đầu do người ngưỡng mộ viết, ít góc nhìn phê phán: nên tự kiểm tra lại`"]
+  n54 --- n59
+  class n0 root
+  class n1,n8,n15,n24,n32,n43,n54 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n16,n17,n18,n19,n20,n21,n22,n23,n25,n26,n27,n28,n29,n30,n31,n33,n34,n35,n36,n37,n38,n39,n40,n41,n42,n44,n45,n46,n47,n48,n49,n50,n51,n52,n53,n55,n56,n57,n58,n59 leaf
+```
+
+## Nguồn
+
+Peter D. Kaufman (biên tập), *Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger*, ấn bản mở rộng thứ ba (Expanded Third Edition, The Donning Company Publishers, 2005/2006/2008; bản PDF là lần in thứ sáu, 2011), phần mở đầu sách trước Chương 1 (trang in vi–xiii): lời đề tặng; "Acknowledgments" (Lời cảm ơn); "Foreword: Buffett on Munger" (Lời tựa: Buffett nói về Munger); "Rebuttal: Munger on Buffett" (Lời đáp: Munger nói về Buffett); "Introduction" (Lời giới thiệu) kèm tiểu mục "About the Book" (Về cuốn sách) và các hình minh hoạ, câu trích in bên lề do người biên tập thêm vào.
+
+## Tác giả
+
+Phần này có bốn người viết. Lời cảm ơn là của nhóm biên tập do Peter D. Kaufman đứng đầu. Lời tựa là của **Warren E. Buffett**, chủ tịch Berkshire Hathaway và là cộng sự làm ăn của Munger từ năm 1959. Lời đáp là của **Charles T. Munger** (1924–2023), phó chủ tịch Berkshire Hathaway và chủ tịch Wesco Financial, nhân vật chính của cuốn sách. Lời giới thiệu là của **Peter D. Kaufman**, người biên tập sách, chủ tịch kiêm giám đốc điều hành công ty Glenair (theo hiểu biết của người tổng hợp; sách không nêu chức vụ này ở phần mở đầu).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Đây là cánh cửa vào sách. Phần này nói vì sao cuốn sách ra đời (nhiều người đòi có một cuốn sách gom lời của Munger), đặt Munger cạnh Benjamin Franklin (tên sách nhại tên *Poor Richard's Almanack* của Franklin), cho hai người hiểu Munger rõ nhất là Buffett và chính Munger nói về quan hệ cộng sự của họ, rồi giới thiệu lối tư duy đa ngành (multidisciplinary) và giá trị sống của Munger mà các phần sau sẽ trình bày.
+
+Tiểu mục "About the Book" là bản đồ của cả sách: Chương 1 là chân dung tiểu sử và bài suy ngẫm về tuổi già, Chương 2 tóm tắt cách Munger tiếp cận cuộc sống, học tập, ra quyết định và đầu tư, Chương 3 là các câu nói ứng khẩu của Munger tại đại hội cổ đông Berkshire Hathaway và Wesco Financial, Chương 4 là mười một bài nói, trong đó bài cuối "The Psychology of Human Misjudgment" được Munger soạn riêng cho sách.
+
+Phần tiếp theo ngay sau đây là Chương 1, "A Portrait of Charles T. Munger" của Michael Broggie.
+
+## Lưu ý
+
+- **Đánh số trang.** Phần mở đầu không in số trang. Đề bài ghi trang in vi–xiii; quy tắc chung "trang in = trang PDF − 14" không áp dụng được cho phần này (cho ra số âm). Vì vậy các tiêu đề ở phần trên ghi số trang PDF (3, 6–15). Trang mục lục (PDF 4–5) bị bỏ qua; nội dung của nó đã có trong dòng "Vị trí trong lập luận" ở trên.
+- **Lỗi OCR ảnh hưởng tới nghĩa.** Bản OCR đọc trang bìa *Poor Richard's Almanack* năm 1733 (in chìm phía sau tiêu đề Lời tựa, PDF trang 8) thành một chuỗi chữ vô nghĩa ("Being the Firt after 1 EAP YEAR", "By RICH ART SKUNDERS. Fhilom", "PHILADELPHEM"); theo ảnh trang, đó là "Being the First after LEAP YEAR", "By RICHARD SAUNDERS, Philom." và "PHILADELPHIA: Printed and sold by B. FRANKLIN, at the New Printing-Office near the Market". Chữ ký Buffett bị OCR đọc thành "Pons Bitt".
+
+  Hình PDF trang 13 bị OCR đọc thành các mảnh "TC (0.0) ORIGIN R(6,2) IVA S X AXIS"; theo ảnh, đó là ký hiệu số pi (π), gốc toạ độ "(0,0) ORIGIN", điểm "P(6,2)", trục "X AXIS" và các số La Mã I–IV đánh dấu bốn góc phần tư của mặt phẳng toạ độ. Chú thích dưới bức biếm hoạ PDF trang 9 bị OCR đọc là "PARINEER"; theo ảnh là "PARTNERS" (Những người cộng sự). "Gontents" là "Contents", "basie" là "basic", "ethie" là "ethic", "specches" là "speeches".
+- **Các hình và câu trích bên lề đã đưa vào thế nào.** Ảnh Munger ở trang đề tặng (PDF 3), bức biếm hoạ tập thể nhóm làm sách (PDF 7), chân dung Franklin và bìa niên lịch 1733 (PDF 8), biếm hoạ "Partners" (PDF 9), ảnh Buffett và Munger đi cạnh nhau cùng hai câu trích in nổi (PDF 10), biếm hoạ Munger khoanh tay (PDF 11), hình nền khối cầu lưới ở trang mở Lời giới thiệu (PDF 12), hình phù thuỷ và định nghĩa "lollapalooza" (PDF 13), biếm hoạ Munger kể chuyện cho trẻ em (PDF 14), ảnh Munger đọc sách và câu trích về con đường đa ngành (PDF 15) đều được mô tả trong bản tổng hợp, ghi rõ là hình minh hoạ hoặc hộp bên lề của người biên tập. Hình PDF trang 13 có `###` riêng trong Sơ đồ.
+- **Bối cảnh thời điểm.** Lời tựa, lời đáp và lời giới thiệu được viết cho ấn bản đầu (2005) và giữ nguyên ở các ấn bản sau. Vì thế Buffett viết "đã là cộng sự bốn mươi lăm năm" (1959 cộng 45 là 2004); Munger nói Buffett đang "ở tuổi bảy mươi" (Buffett sinh năm 1930); Kaufman viết bài nói sớm nhất "gần hai mươi năm tuổi" (bài nói tại Harvard School năm 1986).
+
+  Riêng tiểu mục "About the Book" đã được sửa cho ấn bản thứ hai (thêm bài suy ngẫm về tuổi già) và thứ ba (thêm bài nói tại Trường Luật USC Gould ngày 13/5/2007, nâng "Ten Talks" thành "Eleven Talks"). Munger qua đời năm 2023, Buffett rời ghế giám đốc điều hành Berkshire cuối năm 2025 (theo hiểu biết của người tổng hợp); câu Munger nói về "người kế nhiệm sẽ kém Buffett" vì vậy nay đã thành câu hỏi có thể kiểm chứng.
+- **Chỗ cần đính chính hoặc khó xác minh.** Câu đề từ ở trang biếm hoạ tập thể được sách ghi là của "Charles Helman Lea"; người tổng hợp không xác minh được tên này (không tra web) nên giữ nguyên. Lời đáp của Munger có giọng văn nói (ví dụ "some bastard comes along"), có lẽ được người biên tập lấy từ lời Munger nói ở một buổi họp hay phỏng vấn rồi để ông ký, chứ không phải bài viết riêng; sách không nói rõ nguồn.
+
+  Munger nói "Warren Buffett trong bốn mươi năm", còn Buffett nói "bốn mươi lăm năm": hai con số khác nhau do một bên nói tròn, không phải mâu thuẫn về sự kiện. Chữ "Cap M" Kaufman dùng là cách gọi tắt mô hình định giá tài sản vốn (Capital Asset Pricing Model, CAPM). Định nghĩa thứ hai của "lollapalooza" trong hộp bên lề là định nghĩa vui của người biên tập áp vào con người Munger, khác với nghĩa "hiệu ứng Lollapalooza" mà Munger dùng trong các bài nói (nhiều khuynh hướng tâm lý cùng tác động theo một hướng, gây ra kết quả cực đoan).

@@ -1,20 +1,18 @@
 # Bài 7 — Bài nói tại Philanthropy Roundtable (Philanthropy Roundtable)
 
-**Nguồn:** *Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger*, biên tập Peter D. Kaufman, The Donning Company Publishers, ấn bản mở rộng thứ ba (bản PDF là lần in thứ sáu, 2011), Chương 4 "Eleven Talks", Bài 7 "Breakfast Meeting of the Philanthropy Roundtable" (tiêu đề chạy đầu trang: "Talk Seven: Philanthropy Roundtable"), trang in 340–355. Gồm: lời dẫn của người biên tập (trang in 340), bài nói (341–352), bức thư mời năm 1999 có lời từ chối viết tay của Munger (353), phần lời bình Munger viết thêm "Talk Seven Revisited" (354–355), cùng các hộp bên lề và chú thích ảnh của người biên tập. Bài nói được đọc trong **buổi họp ăn sáng của Philanthropy Roundtable ngày 10 tháng 11 năm 2000 tại Pasadena (California)**; người nghe là các nhà tài trợ, người điều hành và cán bộ tài chính của các quỹ từ thiện thuộc mạng lưới Philanthropy Roundtable.
-**Tác giả:** Charles T. Munger (1924–2023), Phó Chủ tịch Berkshire Hathaway, Chủ tịch Wesco Financial; lời dẫn, hộp bên lề và chú thích ảnh do Peter D. Kaufman và nhóm biên tập viết.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 4 tập hợp mười một bài nói của Munger. Bài 6 ([Cách đầu tư của các quỹ từ thiện hàng đầu](C04-B06-cach-dau-tu-cua-cac-quy-tu-thien-hang-dau.md), năm 1998) nói với cán bộ tài chính của các quỹ từ thiện rằng họ đang tự làm hao mòn tài sản bằng nhiều lớp nhà quản lý đầu tư, nhà tư vấn và "nhà tư vấn chọn nhà tư vấn", tốn khoảng 3% tài sản mỗi năm. Bài 7 nối tiếp trực tiếp: Munger giữ nguyên lời buộc tội đó, nhưng chuyển từ cấp độ một quỹ sang cấp độ cả nền kinh tế. Ông hỏi: khoản chi phí lãng phí ấy, cộng với giá cổ phiếu tăng vọt và quyền chọn cổ phiếu cho nhân viên, tác động thế nào đến chi tiêu của cả nước Mỹ? Từ câu hỏi đó ông đặt ra khái niệm "febezzlement". Ý về quyền chọn cổ phiếu được hạch toán sai sẽ trở thành chủ đề chính của Bài 8 ([Vụ bê bối tài chính lớn năm 2003](C04-B08-vu-be-boi-tai-chinh-lon-nam-2003.md)); còn lời phê bình kinh tế học hàn lâm (bỏ qua tâm lý học, không học từ các ngành khác, không nhìn kỹ Nhật Bản) sẽ được phát triển đầy đủ ở Bài 9 ([Kinh tế học hàn lâm](C04-B09-kinh-te-hoc-han-lam.md)). Trong mạch chung của cuốn sách, bài này là ví dụ về cách Munger dùng **trí tuệ thế gian (worldly wisdom)** và **mạng lưới mô hình tư duy (latticework of mental models)**: lấy một khái niệm của Galbraith, một mô hình của Keynes, một quan sát tâm lý học về đám đông và một quy tắc đạo đức của Samuel Johnson, ghép lại để nhìn ra điều mà một ngành học riêng lẻ bỏ sót.
-**Ý chính:** Munger muốn người nghe hiểu rằng **giá cổ phiếu tăng mạnh làm người Mỹ chi tiêu nhiều hơn mức các nhà kinh tế học thường ước tính, và một phần đáng kể của lực đẩy đó đến từ những dòng tiền "giống như biển thủ" mà không ai coi là biển thủ**. Các nhà kinh tế dùng số liệu của Cục Dự trữ Liên bang và kết luận hiệu ứng của cải từ cổ phiếu là nhỏ (chi tiêu tăng chưa tới 0,5% mỗi năm). Munger cho rằng họ nhìn sai con số: số liệu bỏ sót tài sản hưu trí (ví dụ trung tâm là ông nha sĩ 63 tuổi có 1 triệu USD cổ phiếu GE trong quỹ hưu trí, cổ phiếu lên 2 triệu, ông đổi chiếc Chevrolet cũ lấy chiếc Cadillac thuê), và bỏ sót "bezzle", khái niệm của John Kenneth Galbraith chỉ khoản biển thủ chưa bị phát hiện, vốn kích thích chi tiêu mạnh hơn một giao dịch trung thực cùng cỡ vì kẻ biển thủ tiêu nhiều hơn còn người bị mất tiền vẫn tiêu như cũ. Munger đẩy ý Galbraith thêm một bước: có những thứ **tương đương về chức năng với biển thủ** (febezzle) mà lại không tự sụp đổ, như khoản 3% tài sản mỗi năm mà các quỹ lãng phí cho phí đầu tư vô ích. Quỹ vẫn thấy mình giàu hơn vì cổ phiếu tăng, người nhận phí thấy mình kiếm tiền chính đáng, nên cả hai bên cùng tiêu; thực chất đó là chi tiêu từ một hiệu ứng của cải trá hình. Cộng thêm khoảng 750 tỷ USD giá trị quyền chọn cổ phiếu cho nhân viên và việc cổ phiếu một phần được định giá "như tranh Rembrandt" (mua vì giá đã tăng), Munger kết luận sự thịnh vượng năm 2000 được đẩy lên bởi hiệu ứng của cải mạnh hơn các đợt bùng nổ trước, nên khi giá cổ phiếu giảm, lực kéo xuống cũng có thể mạnh hơn, như Nhật Bản đã trải qua. Với các quỹ từ thiện, hàm ý vượt khỏi kỹ thuật đầu tư: một tổ chức dại dột theo một cách khi đối phó với hệ thống phức tạp thì dễ dại dột theo cách khác, nên họ cần theo quy tắc đạo đức của Samuel Johnson (giữ sự thiếu hiểu biết dễ khắc phục là phản bội bổn phận) và quy tắc thận trọng của hãng máy công cụ Warner & Swasey (người cần máy mới mà chưa mua thì đã đang trả tiền cho nó rồi). Phần lời bình viết năm 2006 đẩy lập luận lên mức cực đoan: nếu giá cổ phiếu tăng 200% mà lợi nhuận doanh nghiệp không tăng, tổng chi phí đầu tư có thể vượt toàn bộ lợi nhuận có thể chia, và thị trường khi đó giống một sòng bạc kết hợp với một trò kiểu Ponzi và một bong bóng đầu cơ.
+## Ý chính
 
-> **Lưu ý:**
-> - **Thời điểm.** Bài nói ngày 10/11/2000, khoảng tám tháng sau đỉnh của bong bóng cổ phiếu công nghệ (tháng 3/2000), khi thị trường đã bắt đầu giảm nhưng phần lớn người Mỹ vẫn coi mức giá cao là bình thường. Phần "Talk Seven Revisited" được Munger viết cho ấn bản mở rộng (khoảng năm 2006, vì ông lấy "giá cổ phiếu năm 2006" làm mốc giả định). Các con số trong bài (750 tỷ USD quyền chọn cổ phiếu, 100 điểm S&P ứng với khoảng 1.000 tỷ USD giá trị thị trường, phân bố sở hữu cổ phiếu theo hộ gia đình) là ước tính của Munger ở thời điểm năm 2000; ông tự dùng chữ "probably" (có lẽ) cho hầu hết chúng.
-> - **Nghiên cứu về nhà đầu tư quỹ tương hỗ** (nhà đầu tư lãi 7,25%/năm trong khi quỹ cổ phiếu trung bình lãi 12,8%/năm trong 15 năm) được Munger dẫn qua một bản tóm tắt bạn ông gửi, không nêu tên tác giả nghiên cứu. Theo hiểu biết của người tổng hợp, kết quả này giống các nghiên cứu "hành vi nhà đầu tư" kiểu Dalbar thời đó; phương pháp của các nghiên cứu này về sau bị một số nhà nghiên cứu phê bình là phóng đại khoảng chênh, nhưng hiện tượng nhà đầu tư mua đuổi, bán tháo làm thua chính quỹ mình nắm giữ thì vẫn được nhiều nghiên cứu khác xác nhận.
-> - **Quỹ hưu trí Anh mua tranh cổ.** Munger không nêu tên quỹ. Theo hiểu biết của người tổng hợp, đó có lẽ là quỹ hưu trí của ngành đường sắt Anh (British Rail Pension Fund), mua tác phẩm nghệ thuật từ cuối thập niên 1970 và bán dần về sau.
-> - **Galbraith "là người Scotland".** Munger nói đùa rằng Galbraith "là người Scotland" nên thích sự ảm đạm. Theo hiểu biết của người tổng hợp, Galbraith là người Canada gốc Scotland (gia đình ông là người Canada gốc Scotland ở Ontario); "học thuyết tiền định về việc trẻ sơ sinh bị đày xuống địa ngục" mà Munger nhắc là cách ông châm biếm thần học Calvin của Giáo hội Trưởng lão Scotland. Hộp bên lề về Galbraith ghi "(b. 1908)", tức còn sống lúc viết; theo hiểu biết của người tổng hợp, Galbraith mất năm 2006, nên thông tin này đã lỗi thời ở lần in năm 2011.
-> - **Hạch toán quyền chọn cổ phiếu.** Munger gọi cách hạch toán quyền chọn cổ phiếu lúc đó là "tham nhũng" và "bị chuẩn mực bắt buộc". Theo hiểu biết của người tổng hợp, năm 2000 chuẩn mực Mỹ cho phép doanh nghiệp không ghi quyền chọn cổ phiếu cấp theo giá thị trường vào chi phí; từ khoảng năm 2006 chuẩn mực mới (FAS 123R) đã buộc ghi nhận chúng là chi phí. Vì vậy phê phán cụ thể này phần lớn đã được giải quyết về mặt quy định.
-> - **Hộp bên lề và hình ảnh.** Các trang có nhiều hộp bên lề và ảnh minh hoạ do người biên tập chọn. Bản tổng hợp đưa chúng vào đúng đoạn bài nói nơi chúng xuất hiện, ghi rõ "Hộp bên lề của người biên tập": giới thiệu Philanthropy Roundtable (trang in 341); ảnh tờ 1.000 yên Nhật in chân dung nhà văn Natsume Sōseki (342); khối Rubik (343); tiểu sử John Kenneth Galbraith kèm bìa sách *The Affluent Society* (344); một trang quảng cáo cũ của General Electric (344); tranh biếm hoạ John Maynard Keynes kèm câu trích (345); ảnh đôi tay bị còng (346); ảnh đám đông chen mua hàng điện tử (347); ảnh "Wake Up! Reality Check" (348); ảnh Munger cầm cặp tài liệu (349); bức *Cô gái đeo hoa tai ngọc trai* của Vermeer (350); bìa sách về giao dịch trong ngày (351); tiểu sử James Boswell và Samuel Johnson (352); bức thư mời năm 1999 (353); tượng bán thân và câu trích gán cho Socrates (355). Các câu in nổi trích từ chính bài nói không được chép lại riêng vì nội dung của chúng đã có trong phần tóm tắt bài nói.
-> - **Một số chỗ người tổng hợp lưu ý thêm:** Hộp bên lề ghi Ernő Rubik "được cấp bằng sáng chế năm 1974"; theo hiểu biết của người tổng hợp, ông làm ra khối lập phương năm 1974 và nộp đơn sáng chế ở Hungary năm 1975. Hộp bên lề giới thiệu Philanthropy Roundtable nói tổ chức "thành lập trong thập niên 1970" và có "hơn 600 thành viên", còn bức thư mời năm 1999 ghi "hơn 500" thành viên; chênh lệch có lẽ do hai thời điểm khác nhau. Câu "Hãy coi danh tiếng tốt là viên ngọc quý nhất…" được sách gán cho Socrates; theo hiểu biết của người tổng hợp, câu này phổ biến trong các tuyển tập danh ngôn nhưng không tìm thấy trong các văn bản cổ ghi lời Socrates, nên việc gán tên đáng ngờ. Bức tranh minh hoạ cho câu "cổ phiếu được định giá như tranh Rembrandt" lại là tranh của Vermeer chứ không phải Rembrandt.
-> - **Lỗi OCR đáng chú ý:** "economies" (đúng là "economics"), "macrocconomic", "houschold", "ar least" (at least), "bezale" (bezzle), "wenty" (twenty), "efficient marker" (efficient market), "vore" (yore), "seene" (scene), "Philauropy" (tên tạp chí *Philanthropy*), "Ritz-Cariton... Flonda" (Ritz-Carlton... Florida). Cụm "in a native economy relying on earned income" có đúng như vậy trong ảnh trang gốc; "native" ở đây hiểu là nền kinh tế "tự nhiên", chỉ dựa trên thu nhập kiếm được, chưa có nhà nước in tiền. Dòng "The Four Track News" trong văn bản OCR là tên tờ tạp chí in quảng cáo General Electric, không phải tiêu đề của bài nói.
-> - Mọi câu trích là bản dịch của người tổng hợp; nguyên văn tiếng Anh ở mục "Câu nói đáng nhớ".
+Munger muốn người nghe hiểu rằng **giá cổ phiếu tăng mạnh làm người Mỹ chi tiêu nhiều hơn mức các nhà kinh tế học thường ước tính, và một phần đáng kể của lực đẩy đó đến từ những dòng tiền "giống như biển thủ" mà không ai coi là biển thủ**.
+
+Các nhà kinh tế dùng số liệu của Cục Dự trữ Liên bang và kết luận hiệu ứng của cải từ cổ phiếu là nhỏ (chi tiêu tăng chưa tới 0,5% mỗi năm). Munger cho rằng họ nhìn sai con số: số liệu bỏ sót tài sản hưu trí (ví dụ trung tâm là ông nha sĩ 63 tuổi có 1 triệu USD cổ phiếu GE trong quỹ hưu trí, cổ phiếu lên 2 triệu, ông đổi chiếc Chevrolet cũ lấy chiếc Cadillac thuê), và bỏ sót "bezzle", khái niệm của John Kenneth Galbraith chỉ khoản biển thủ chưa bị phát hiện, vốn kích thích chi tiêu mạnh hơn một giao dịch trung thực cùng cỡ vì kẻ biển thủ tiêu nhiều hơn còn người bị mất tiền vẫn tiêu như cũ.
+
+Munger đẩy ý Galbraith thêm một bước: có những thứ **tương đương về chức năng với biển thủ** (febezzle) mà lại không tự sụp đổ, như khoản 3% tài sản mỗi năm mà các quỹ lãng phí cho phí đầu tư vô ích. Quỹ vẫn thấy mình giàu hơn vì cổ phiếu tăng, người nhận phí thấy mình kiếm tiền chính đáng, nên cả hai bên cùng tiêu; thực chất đó là chi tiêu từ một hiệu ứng của cải trá hình.
+
+Cộng thêm khoảng 750 tỷ USD giá trị quyền chọn cổ phiếu cho nhân viên và việc cổ phiếu một phần được định giá "như tranh Rembrandt" (mua vì giá đã tăng), Munger kết luận sự thịnh vượng năm 2000 được đẩy lên bởi hiệu ứng của cải mạnh hơn các đợt bùng nổ trước, nên khi giá cổ phiếu giảm, lực kéo xuống cũng có thể mạnh hơn, như Nhật Bản đã trải qua.
+
+Với các quỹ từ thiện, hàm ý vượt khỏi kỹ thuật đầu tư: một tổ chức dại dột theo một cách khi đối phó với hệ thống phức tạp thì dễ dại dột theo cách khác, nên họ cần theo quy tắc đạo đức của Samuel Johnson (giữ sự thiếu hiểu biết dễ khắc phục là phản bội bổn phận) và quy tắc thận trọng của hãng máy công cụ Warner & Swasey (người cần máy mới mà chưa mua thì đã đang trả tiền cho nó rồi).
+
+Phần lời bình viết năm 2006 đẩy lập luận lên mức cực đoan: nếu giá cổ phiếu tăng 200% mà lợi nhuận doanh nghiệp không tăng, tổng chi phí đầu tư có thể vượt toàn bộ lợi nhuận có thể chia, và thị trường khi đó giống một sòng bạc kết hợp với một trò kiểu Ponzi và một bong bóng đầu cơ.
 
 ## Sơ đồ
 
@@ -629,11 +627,23 @@ Bài nói không có tiểu mục. Các khối dưới đây chia theo đoạn n
 
 ## Ba câu hỏi bài này trả lời
 
-1. **Vì sao Munger cho rằng các nhà kinh tế đánh giá thấp hiệu ứng của cải từ giá cổ phiếu vào năm 2000?** Giới kinh tế học, dựa chủ yếu vào số liệu của Cục Dự trữ Liên bang, thấy cổ phiếu chỉ chiếm chưa tới một phần ba tài sản ròng của hộ gia đình (không tính hưu trí), lại tập trung ở 1% hộ giàu nhất (khoảng 50% giá trị), những người không tiêu tương xứng với tài sản; nên dù giá tăng vọt mười năm, chi tiêu chỉ tăng chưa tới 0,5% mỗi năm. Munger cho rằng họ nhìn sai con số. Thứ nhất, số liệu bỏ sót tài sản hưu trí như tài khoản 401(k): ông nha sĩ 63 tuổi thấy cổ phiếu GE trong quỹ hưu trí lên từ 1 triệu thành 2 triệu USD và đi thuê chiếc Cadillac mới; nhà kinh tế coi đó là "tiêu vào tiết kiệm", còn Munger coi đó là hiệu ứng của cải rõ ràng. Thứ hai, họ bỏ qua "bezzle" và những thứ tương đương về chức năng với nó, những dòng tiền làm cả người trả lẫn người nhận cùng thấy mình giàu và cùng tiêu. Thứ ba, họ bỏ qua giá trị quyền chọn cổ phiếu cho nhân viên (khoảng 750 tỷ USD) và việc một phần giá cổ phiếu là do đám đông mua vì giá đã tăng. Cộng lại, hiệu ứng của cải lớn hơn nhiều so với ước tính thông thường.
+1. **Vì sao Munger cho rằng các nhà kinh tế đánh giá thấp hiệu ứng của cải từ giá cổ phiếu vào năm 2000?** Giới kinh tế học, dựa chủ yếu vào số liệu của Cục Dự trữ Liên bang, thấy cổ phiếu chỉ chiếm chưa tới một phần ba tài sản ròng của hộ gia đình (không tính hưu trí), lại tập trung ở 1% hộ giàu nhất (khoảng 50% giá trị), những người không tiêu tương xứng với tài sản; nên dù giá tăng vọt mười năm, chi tiêu chỉ tăng chưa tới 0,5% mỗi năm.
 
-2. **"Febezzlement" là gì và tại sao nó lại quan trọng hơn biển thủ thật?** Galbraith nhận ra rằng một khoản biển thủ chưa bị phát hiện kích thích chi tiêu mạnh hơn một giao dịch trung thực cùng cỡ: kẻ biển thủ tiêu nhiều hơn vì có thêm tiền, còn chủ vẫn tiêu như cũ vì chưa biết mình mất tiền; như vậy nó tác động giống số nhân Keynes khi chính phủ in tiền mua hàng. Nhưng biển thủ thật không phình to mãi được vì sớm muộn sẽ bị lộ và gây hiệu ứng ngược. Munger gọi "febezzle" là những thứ tương đương về chức năng với biển thủ nhưng không tự sụp đổ. Ví dụ ông chỉ thẳng vào người nghe: các quỹ từ thiện lãng phí khoảng 3% tài sản mỗi năm cho phí đầu tư không cần thiết. Vì danh mục cổ phiếu vẫn tăng mạnh, quỹ vẫn thấy giàu lên và tiếp tục chi; người nhận phí thấy mình kiếm tiền chính đáng và cũng chi. Không ai phát hiện, không ai bị bắt, nên quá trình có thể tự nuôi mình rất lâu. Thứ chi tiêu trông như từ thu nhập của giới quản lý đầu tư thực chất là chi tiêu từ một hiệu ứng của cải trá hình. Munger nói thêm rằng 3% có lẽ còn thấp: một nghiên cứu cho thấy nhà đầu tư quỹ tương hỗ chỉ đạt 7,25%/năm trong khi chính các quỹ đạt 12,8%/năm, do thói rút tiền khỏi nhà quản lý đang thua để đổ vào nhà quản lý đang nổi.
+   Munger cho rằng họ nhìn sai con số. Thứ nhất, số liệu bỏ sót tài sản hưu trí như tài khoản 401(k): ông nha sĩ 63 tuổi thấy cổ phiếu GE trong quỹ hưu trí lên từ 1 triệu thành 2 triệu USD và đi thuê chiếc Cadillac mới; nhà kinh tế coi đó là "tiêu vào tiết kiệm", còn Munger coi đó là hiệu ứng của cải rõ ràng.
 
-3. **Munger rút ra bài học gì cho các quỹ từ thiện và cho nền kinh tế?** Với nền kinh tế: sự thịnh vượng năm 2000 được hiệu ứng của cải đẩy lên mạnh hơn các đợt bùng nổ trước, mà giá cổ phiếu lại một phần được định giá như tranh Rembrandt (mua vì giá đã tăng) chứ không chỉ như trái phiếu; nên khi giá giảm, lực kéo chi tiêu xuống có thể mạnh hơn lực đẩy lên trước đó, như Nhật Bản đã cho thấy sau khi bong bóng vỡ dù đã dùng thâm hụt ngân sách lớn và lãi suất sát 0. Kế toán gian dối lan rộng cũng gây hậu quả xấu dài hạn, ngược với ghi sổ kép từng giúp Venice thịnh vượng. Với các quỹ: hàm ý vượt khỏi kỹ thuật đầu tư; quỹ nào dại dột trong đầu tư thì có lẽ cũng dại dột trong việc cho tiền. Họ phải theo quy tắc đạo đức của Samuel Johnson (giữ sự thiếu hiểu biết dễ khắc phục là phản bội bổn phận) và quy tắc thận trọng Warner & Swasey (thiếu công cụ tư duy thì đã đang trả giá cho việc thiếu nó). Lời bình năm 2006 đẩy tới cùng: nếu giá cổ phiếu tăng 200% mà lợi nhuận đứng yên, chi phí đầu tư có thể nuốt hết lợi nhuận có thể chia, và thị trường thành sòng bạc cộng trò kiểu Ponzi cộng bong bóng, điều sẽ làm tổn hại, một cách xứng đáng, danh tiếng nước Mỹ.
+   Thứ hai, họ bỏ qua "bezzle" và những thứ tương đương về chức năng với nó, những dòng tiền làm cả người trả lẫn người nhận cùng thấy mình giàu và cùng tiêu. Thứ ba, họ bỏ qua giá trị quyền chọn cổ phiếu cho nhân viên (khoảng 750 tỷ USD) và việc một phần giá cổ phiếu là do đám đông mua vì giá đã tăng. Cộng lại, hiệu ứng của cải lớn hơn nhiều so với ước tính thông thường.
+
+2. **"Febezzlement" là gì và tại sao nó lại quan trọng hơn biển thủ thật?** Galbraith nhận ra rằng một khoản biển thủ chưa bị phát hiện kích thích chi tiêu mạnh hơn một giao dịch trung thực cùng cỡ: kẻ biển thủ tiêu nhiều hơn vì có thêm tiền, còn chủ vẫn tiêu như cũ vì chưa biết mình mất tiền; như vậy nó tác động giống số nhân Keynes khi chính phủ in tiền mua hàng. Nhưng biển thủ thật không phình to mãi được vì sớm muộn sẽ bị lộ và gây hiệu ứng ngược.
+
+   Munger gọi "febezzle" là những thứ tương đương về chức năng với biển thủ nhưng không tự sụp đổ. Ví dụ ông chỉ thẳng vào người nghe: các quỹ từ thiện lãng phí khoảng 3% tài sản mỗi năm cho phí đầu tư không cần thiết. Vì danh mục cổ phiếu vẫn tăng mạnh, quỹ vẫn thấy giàu lên và tiếp tục chi; người nhận phí thấy mình kiếm tiền chính đáng và cũng chi. Không ai phát hiện, không ai bị bắt, nên quá trình có thể tự nuôi mình rất lâu. Thứ chi tiêu trông như từ thu nhập của giới quản lý đầu tư thực chất là chi tiêu từ một hiệu ứng của cải trá hình.
+
+   Munger nói thêm rằng 3% có lẽ còn thấp: một nghiên cứu cho thấy nhà đầu tư quỹ tương hỗ chỉ đạt 7,25%/năm trong khi chính các quỹ đạt 12,8%/năm, do thói rút tiền khỏi nhà quản lý đang thua để đổ vào nhà quản lý đang nổi.
+
+3. **Munger rút ra bài học gì cho các quỹ từ thiện và cho nền kinh tế?** Với nền kinh tế: sự thịnh vượng năm 2000 được hiệu ứng của cải đẩy lên mạnh hơn các đợt bùng nổ trước, mà giá cổ phiếu lại một phần được định giá như tranh Rembrandt (mua vì giá đã tăng) chứ không chỉ như trái phiếu; nên khi giá giảm, lực kéo chi tiêu xuống có thể mạnh hơn lực đẩy lên trước đó, như Nhật Bản đã cho thấy sau khi bong bóng vỡ dù đã dùng thâm hụt ngân sách lớn và lãi suất sát 0. Kế toán gian dối lan rộng cũng gây hậu quả xấu dài hạn, ngược với ghi sổ kép từng giúp Venice thịnh vượng.
+
+   Với các quỹ: hàm ý vượt khỏi kỹ thuật đầu tư; quỹ nào dại dột trong đầu tư thì có lẽ cũng dại dột trong việc cho tiền. Họ phải theo quy tắc đạo đức của Samuel Johnson (giữ sự thiếu hiểu biết dễ khắc phục là phản bội bổn phận) và quy tắc thận trọng Warner & Swasey (thiếu công cụ tư duy thì đã đang trả giá cho việc thiếu nó).
+
+   Lời bình năm 2006 đẩy tới cùng: nếu giá cổ phiếu tăng 200% mà lợi nhuận đứng yên, chi phí đầu tư có thể nuốt hết lợi nhuận có thể chia, và thị trường thành sòng bạc cộng trò kiểu Ponzi cộng bong bóng, điều sẽ làm tổn hại, một cách xứng đáng, danh tiếng nước Mỹ.
 
 ## Khái niệm cần biết
 
@@ -685,13 +695,17 @@ Mục tiêu của Munger, cũng như ở bài nói trước (Bài 6), là cứu 
 
 Munger mở đầu: hôm nay ông nói về cái gọi là "hiệu ứng của cải" (wealth effects) do giá cổ phiếu Mỹ tăng. Ngay từ đầu, ông thừa nhận hiệu ứng của cải thuộc về ngành kinh tế học, mà ông chưa từng học một khoá kinh tế học nào, cũng chưa từng cố kiếm một đô la nào nhờ đoán trước những thay đổi kinh tế vĩ mô. Dù vậy, ông đã đi tới kết luận rằng phần lớn các tiến sĩ kinh tế đánh giá thấp sức mạnh của hiệu ứng của cải từ cổ phiếu trong những điều kiện cực đoan hiện nay.
 
-Theo Munger, ai cũng đã đồng ý hai điều. Một là xu hướng chi tiêu bị đẩy lên khi giá cổ phiếu tăng và bị kéo xuống khi giá cổ phiếu giảm. Hai là xu hướng chi tiêu cực kỳ quan trọng trong kinh tế vĩ mô. Điều giới chuyên môn còn bất đồng là hiệu ứng của cải lớn cỡ nào, tác động vào lúc nào, và tương tác thế nào với các hiệu ứng khác. Một chỗ phức tạp hiển nhiên là chi tiêu tăng có xu hướng đẩy giá cổ phiếu lên, trong khi cùng lúc giá cổ phiếu cũng đẩy chi tiêu lên. Ngoài ra, giá cổ phiếu tăng còn làm lợi nhuận doanh nghiệp tăng ngay cả khi chi tiêu không đổi, chẳng hạn vì doanh nghiệp phải trích ít hơn cho chi phí hưu trí (quỹ hưu trí của họ đã giàu lên nhờ cổ phiếu), rồi lợi nhuận cao hơn lại đẩy giá cổ phiếu lên thêm. Vì vậy, hiệu ứng của cải chứa những câu đố toán học chưa được giải tốt bằng các lý thuyết vật lý, và sẽ không bao giờ giải tốt được như thế.
+Theo Munger, ai cũng đã đồng ý hai điều. Một là xu hướng chi tiêu bị đẩy lên khi giá cổ phiếu tăng và bị kéo xuống khi giá cổ phiếu giảm. Hai là xu hướng chi tiêu cực kỳ quan trọng trong kinh tế vĩ mô.
+
+Điều giới chuyên môn còn bất đồng là hiệu ứng của cải lớn cỡ nào, tác động vào lúc nào, và tương tác thế nào với các hiệu ứng khác. Một chỗ phức tạp hiển nhiên là chi tiêu tăng có xu hướng đẩy giá cổ phiếu lên, trong khi cùng lúc giá cổ phiếu cũng đẩy chi tiêu lên. Ngoài ra, giá cổ phiếu tăng còn làm lợi nhuận doanh nghiệp tăng ngay cả khi chi tiêu không đổi, chẳng hạn vì doanh nghiệp phải trích ít hơn cho chi phí hưu trí (quỹ hưu trí của họ đã giàu lên nhờ cổ phiếu), rồi lợi nhuận cao hơn lại đẩy giá cổ phiếu lên thêm. Vì vậy, hiệu ứng của cải chứa những câu đố toán học chưa được giải tốt bằng các lý thuyết vật lý, và sẽ không bao giờ giải tốt được như thế.
 
 ### 3. Hai lý do hiệu ứng của cải đáng chú ý lúc này, và bài học Nhật Bản (trang in 342–343)
 
 Munger nêu hai lý do khiến hiệu ứng của cải từ giá cổ phiếu Mỹ đặc biệt đáng chú ý vào thời điểm năm 2000. Lý do thứ nhất: chưa bao giờ giá của những cổ phiếu được nắm giữ rộng rãi lại tăng cực đoan như vậy; giá cổ phiếu tăng nhanh hơn tổng sản phẩm quốc dân (GNP) rất nhiều, nên hiệu ứng của cải đi kèm hẳn phải lớn hơn mức thường thấy trước đây. Lý do thứ hai: những gì xảy ra ở Nhật Bản trong khoảng mười năm qua đã làm rung chuyển kinh tế học hàn lâm, đúng như lẽ phải vậy, và tạo ra mối lo lớn về suy thoái do hiệu ứng của cải đảo chiều.
 
-Ở Nhật Bản, giữa nhiều tham nhũng tài chính, giá cổ phiếu và bất động sản đã tăng cực đoan trong một thời gian rất dài, kèm theo tăng trưởng kinh tế thực rất cao so với Mỹ. Rồi giá tài sản sụp đổ, và nền kinh tế Nhật dừng lại ở mức thấp hơn nhiều so với tiềm năng. Sau đó, Nhật Bản, một nền kinh tế hiện đại đã học đủ mọi "mẹo" điều chỉnh của Keynes và của chính sách tiền tệ, đã dùng các mẹo đó mạnh và lâu. Nhiều năm liền, Nhật không chỉ chạy thâm hụt ngân sách khổng lồ mà còn hạ lãi suất xuống sát 0 và giữ ở đó. Thế nhưng, năm này qua năm khác, kinh tế Nhật vẫn đứng yên, vì xu hướng chi tiêu của người Nhật bướng bỉnh chống lại mọi mẹo của các nhà kinh tế, và giá cổ phiếu Nhật vẫn ở mức thấp.
+Ở Nhật Bản, giữa nhiều tham nhũng tài chính, giá cổ phiếu và bất động sản đã tăng cực đoan trong một thời gian rất dài, kèm theo tăng trưởng kinh tế thực rất cao so với Mỹ. Rồi giá tài sản sụp đổ, và nền kinh tế Nhật dừng lại ở mức thấp hơn nhiều so với tiềm năng.
+
+Sau đó, Nhật Bản, một nền kinh tế hiện đại đã học đủ mọi "mẹo" điều chỉnh của Keynes và của chính sách tiền tệ, đã dùng các mẹo đó mạnh và lâu. Nhiều năm liền, Nhật không chỉ chạy thâm hụt ngân sách khổng lồ mà còn hạ lãi suất xuống sát 0 và giữ ở đó. Thế nhưng, năm này qua năm khác, kinh tế Nhật vẫn đứng yên, vì xu hướng chi tiêu của người Nhật bướng bỉnh chống lại mọi mẹo của các nhà kinh tế, và giá cổ phiếu Nhật vẫn ở mức thấp.
 
 Kinh nghiệm Nhật Bản là ví dụ đáng lo cho mọi người; nếu điều tương tự xảy ra ở Mỹ, các quỹ từ thiện bị teo tài sản sẽ thấy mình bị số phận giáng đòn. Munger nói hãy hy vọng, và có lẽ đúng là như vậy, rằng tình cảnh buồn của Nhật phần lớn do các hiệu ứng tâm lý xã hội và kiểu tham nhũng riêng của Nhật. Trong trường hợp đó, nước Mỹ có thể an toàn ít nhất bằng một nửa mức mà người ta vẫn tưởng. (Theo cách hiểu của người tổng hợp, câu này là cách nói mỉa: ngay cả trong kịch bản lạc quan, nước Mỹ cũng chỉ an toàn bằng một nửa niềm tin phổ biến.)
 
@@ -716,7 +730,11 @@ Tài sản cổ phiếu của hộ gia đình tập trung tới mức gần như
 
 Munger cho rằng lối suy nghĩ kinh tế đó đang bỏ sót rất xa thực tế bên dưới. Với ông, nó nhìn sai con số và hỏi sai câu hỏi. Ông tự gọi mình là "kẻ nghiệp dư tột bậc" và nói sẽ mạnh dạn thử làm tốt hơn một chút, hoặc ít ra là làm khác đi một chút.
 
-Điểm thứ nhất: ông được cho biết, và có lẽ đúng, rằng việc thu thập số liệu của Cục Dự trữ Liên bang, vì những trở ngại thực tế, không tính đúng tác động từ quỹ hưu trí, kể cả tác động từ các tài khoản 401(k) (tài khoản hưu trí do người lao động đóng góp, được ưu đãi thuế) và các kế hoạch tương tự. Ông đưa ví dụ: một ông nha sĩ 63 tuổi có 1 triệu USD cổ phiếu GE trong một quỹ hưu trí tư nhân. Cổ phiếu lên giá thành 2 triệu USD. Thấy mình dư dả, ông nha sĩ đổi chiếc Chevrolet rất cũ và thuê một chiếc Cadillac mới với mức phí thuê rẻ như cho không đang phổ biến lúc đó. Với Munger, đây là một hiệu ứng của cải lớn và hiển nhiên trong chi tiêu của ông nha sĩ. Với nhiều nhà kinh tế dùng số liệu của Fed, Munger đoán sự việc này lại trông như ông nha sĩ phung phí, tiêu lạm vào tiết kiệm. Còn theo Munger, ông nha sĩ và nhiều người giống ông đang tiêu nhiều hơn hẳn vì một hiệu ứng của cải rất mạnh liên quan tới quỹ hưu trí. Do đó, ông tin rằng hiệu ứng của cải từ quỹ hưu trí ngày nay không hề nhỏ, và lớn hơn nhiều so với trước kia.
+Điểm thứ nhất: ông được cho biết, và có lẽ đúng, rằng việc thu thập số liệu của Cục Dự trữ Liên bang, vì những trở ngại thực tế, không tính đúng tác động từ quỹ hưu trí, kể cả tác động từ các tài khoản 401(k) (tài khoản hưu trí do người lao động đóng góp, được ưu đãi thuế) và các kế hoạch tương tự.
+
+Ông đưa ví dụ: một ông nha sĩ 63 tuổi có 1 triệu USD cổ phiếu GE trong một quỹ hưu trí tư nhân. Cổ phiếu lên giá thành 2 triệu USD. Thấy mình dư dả, ông nha sĩ đổi chiếc Chevrolet rất cũ và thuê một chiếc Cadillac mới với mức phí thuê rẻ như cho không đang phổ biến lúc đó.
+
+Với Munger, đây là một hiệu ứng của cải lớn và hiển nhiên trong chi tiêu của ông nha sĩ. Với nhiều nhà kinh tế dùng số liệu của Fed, Munger đoán sự việc này lại trông như ông nha sĩ phung phí, tiêu lạm vào tiết kiệm. Còn theo Munger, ông nha sĩ và nhiều người giống ông đang tiêu nhiều hơn hẳn vì một hiệu ứng của cải rất mạnh liên quan tới quỹ hưu trí. Do đó, ông tin rằng hiệu ứng của cải từ quỹ hưu trí ngày nay không hề nhỏ, và lớn hơn nhiều so với trước kia.
 
 **Hộp bên lề của người biên tập (trang in 344).** Một trang quảng cáo cũ của General Electric trên tạp chí *The Four-Track News*: dọc tuyến đường sắt chính New York Central & Hudson River, hành khách sẽ thấy nhà máy lớn nhất trong ba nhà máy của General Electric ở Schenectady (New York); GE tự giới thiệu là "nhà sản xuất điện lớn nhất thế giới", với các nhà máy khác ở Lynn (Massachusetts) và Harrison (quảng cáo ghi "N.Y."), trụ sở chính ở Schenectady. Ảnh này minh hoạ cổ phiếu GE của ông nha sĩ.
 
@@ -728,7 +746,9 @@ Từ "bezzle" rút gọn từ "embezzle" (biển thủ). Nó do giáo sư kinh t
 
 Nhưng Galbraith không đẩy phát hiện của mình đi xa hơn; ông bằng lòng dừng ở vai một "con ruồi trâu" gợi ý (người hay châm chọc để người khác phải nghĩ). Munger nói ông sẽ thử đẩy khái niệm "bezzle" lên mức logic kế tiếp.
 
-Ông dùng mô hình của Keynes. Trong một nền kinh tế "tự nhiên" chỉ dựa vào thu nhập kiếm được, khi cô thợ may bán một chiếc áo khoác cho anh thợ giày với giá 20 USD, anh thợ giày bớt đi 20 USD để tiêu, còn cô thợ may có thêm 20 USD để tiêu. Không có hiệu ứng Lollapalooza nào lên tổng chi tiêu. Nhưng khi chính phủ in thêm một tờ 20 USD và dùng nó mua một đôi giày, anh thợ giày có thêm 20 USD mà không ai cảm thấy nghèo đi. Rồi khi anh thợ giày mua áo khoác, quá trình đó cứ tiếp diễn, không phải tới mức tăng vô hạn, mà theo cái nay gọi là số nhân Keynes, một kiểu hiệu ứng Lollapalooza lên chi tiêu. Tương tự, một khoản biển thủ chưa bị phát hiện có tác động kích thích chi tiêu, tính trên mỗi đô la, mạnh hơn một trao đổi hàng hoá trung thực cùng cỡ.
+Ông dùng mô hình của Keynes. Trong một nền kinh tế "tự nhiên" chỉ dựa vào thu nhập kiếm được, khi cô thợ may bán một chiếc áo khoác cho anh thợ giày với giá 20 USD, anh thợ giày bớt đi 20 USD để tiêu, còn cô thợ may có thêm 20 USD để tiêu. Không có hiệu ứng Lollapalooza nào lên tổng chi tiêu.
+
+Nhưng khi chính phủ in thêm một tờ 20 USD và dùng nó mua một đôi giày, anh thợ giày có thêm 20 USD mà không ai cảm thấy nghèo đi. Rồi khi anh thợ giày mua áo khoác, quá trình đó cứ tiếp diễn, không phải tới mức tăng vô hạn, mà theo cái nay gọi là số nhân Keynes, một kiểu hiệu ứng Lollapalooza lên chi tiêu. Tương tự, một khoản biển thủ chưa bị phát hiện có tác động kích thích chi tiêu, tính trên mỗi đô la, mạnh hơn một trao đổi hàng hoá trung thực cùng cỡ.
 
 | Tình huống | Ai có thêm tiền | Ai bớt tiền (hoặc cảm thấy bớt) | Tác động lên tổng chi tiêu |
 |---|---|---|---|
@@ -746,7 +766,9 @@ Chắc hẳn Galbraith đã thấy các tác động kinh tế kiểu số nhân
 
 Munger nói ông sẽ cùng Galbraith đặt ra từ mới. Thứ nhất, "febezzle", chỉ thứ tương đương về chức năng với bezzle. Thứ hai, "febezzlement", chỉ quá trình tạo ra febezzle. Thứ ba, "febezzlers", chỉ những người tham gia febezzlement. Rồi ông xác định một nguồn febezzle quan trọng ngay trong căn phòng: ông nghĩ chính những người nghe đã tạo ra nhiều febezzle qua cách quản lý đầu tư dại dột đối với khối cổ phiếu lớn mà quỹ của họ nắm.
 
-Cơ chế như sau. Nếu một quỹ, hay một nhà đầu tư khác, lãng phí 3% tài sản mỗi năm vào chi phí đầu tư không cần thiết và không sinh lợi khi quản lý một danh mục cổ phiếu đang tăng mạnh, quỹ vẫn cảm thấy giàu hơn dù có lãng phí. Trong khi đó, những người nhận khoản 3% bị lãng phí, dù họ là febezzlers, lại nghĩ mình đang kiếm thu nhập một cách chính đáng. Tình huống này vận hành giống biển thủ chưa bị phát hiện, nhưng không tự giới hạn. Thực ra quá trình này còn có thể mở rộng trong thời gian dài bằng cách tự nuôi mình. Và suốt thời gian đó, những khoản trông như chi tiêu từ thu nhập kiếm được của người nhận 3% lãng phí, về thực chất, là chi tiêu từ một hiệu ứng của cải trá hình do giá cổ phiếu tăng.
+Cơ chế như sau. Nếu một quỹ, hay một nhà đầu tư khác, lãng phí 3% tài sản mỗi năm vào chi phí đầu tư không cần thiết và không sinh lợi khi quản lý một danh mục cổ phiếu đang tăng mạnh, quỹ vẫn cảm thấy giàu hơn dù có lãng phí. Trong khi đó, những người nhận khoản 3% bị lãng phí, dù họ là febezzlers, lại nghĩ mình đang kiếm thu nhập một cách chính đáng.
+
+Tình huống này vận hành giống biển thủ chưa bị phát hiện, nhưng không tự giới hạn. Thực ra quá trình này còn có thể mở rộng trong thời gian dài bằng cách tự nuôi mình. Và suốt thời gian đó, những khoản trông như chi tiêu từ thu nhập kiếm được của người nhận 3% lãng phí, về thực chất, là chi tiêu từ một hiệu ứng của cải trá hình do giá cổ phiếu tăng.
 
 | | Biển thủ thật (bezzle) | Febezzle (ví dụ: 3% phí đầu tư lãng phí) |
 |---|---|---|
@@ -832,9 +854,15 @@ Munger đưa ra thêm hai quy tắc cũ để định hướng, một về đạ
 
 ### 14. Hộp bên lề của người biên tập: bức thư mời năm 1999 và lời từ chối viết tay (trang in 353)
 
-Người biên tập in lại bức thư đầu tiên Philanthropy Roundtable mời Munger, đề ngày 12 tháng 4 năm 1999, gửi qua fax tới Munger với tư cách Phó Chủ tịch Berkshire Hathaway. Thư mời ông đọc bài phát biểu chính tại hội nghị thường niên lần thứ tám của tổ chức, tổ chức tại khách sạn Ritz-Carlton ở Naples, Florida, vào tối thứ Năm hoặc thứ Sáu, 28–29 tháng 10 năm 1999. Thư viết rằng, xét phản hồi tích cực mà bài viết gần đây của Munger trên tạp chí *Philanthropy* đã nhận được, các hội viên chắc chắn rất muốn nghe quan điểm của ông về cách các quỹ nên nghĩ về khoản đầu tư của mình và về những người quản lý chúng ("lớp mới các nhà tư vấn chọn nhà tư vấn, những người muốn ra vẻ thông thái mọi ngành", cụm từ Munger dùng ở Bài 6).
+Người biên tập in lại bức thư đầu tiên Philanthropy Roundtable mời Munger, đề ngày 12 tháng 4 năm 1999, gửi qua fax tới Munger với tư cách Phó Chủ tịch Berkshire Hathaway. Thư mời ông đọc bài phát biểu chính tại hội nghị thường niên lần thứ tám của tổ chức, tổ chức tại khách sạn Ritz-Carlton ở Naples, Florida, vào tối thứ Năm hoặc thứ Sáu, 28–29 tháng 10 năm 1999.
 
-Thư giới thiệu Philanthropy Roundtable là một hiệp hội phi lợi nhuận toàn quốc gồm hơn 500 nhà tài trợ cá nhân và tổ chức, tức những người làm từ thiện chuyên nghiệp và những cá nhân, gia đình coi việc cho đi là một mối quan tâm nghiêm túc. Hiệp hội cố gắng cung cấp thông tin hữu ích, gợi suy nghĩ cho các nhà tài trợ lớn nhỏ, và tin rằng làm từ thiện dễ thành công nhất khi nó khen thưởng sáng kiến cá nhân, tinh thần tự lực và kết quả, chứ không khuyến khích sự phụ thuộc. Chủ đề hội nghị năm đó là chắt lọc thực hành tốt nhất của một thế kỷ hoạt động từ thiện, đồng thời đón nhận các xu hướng mới như doanh nhân xã hội sẽ định hình hoạt động từ thiện Mỹ khi bước vào thiên niên kỷ mới; dự kiến hơn 300 nhà tài trợ tham dự. Hiệp hội tổ chức các cuộc họp khu vực theo chủ đề ở nhiều thành phố và một hội nghị toàn quốc lớn mỗi năm. Năm trước, hội nghị thường niên ở San Antonio có Ron Chernow, người viết tiểu sử J. P. Morgan và John D. Rockefeller, phát biểu về chủ đề "Học lại bài học của các ông trùm lớn", kể về nỗ lực lâu dài, bền bỉ mà John D. Rockefeller cha dành cho hoạt động từ thiện. Thư ghi địa chỉ văn phòng ở 1150 17th Street NW, Washington, D.C.
+Thư viết rằng, xét phản hồi tích cực mà bài viết gần đây của Munger trên tạp chí *Philanthropy* đã nhận được, các hội viên chắc chắn rất muốn nghe quan điểm của ông về cách các quỹ nên nghĩ về khoản đầu tư của mình và về những người quản lý chúng ("lớp mới các nhà tư vấn chọn nhà tư vấn, những người muốn ra vẻ thông thái mọi ngành", cụm từ Munger dùng ở Bài 6).
+
+Thư giới thiệu Philanthropy Roundtable là một hiệp hội phi lợi nhuận toàn quốc gồm hơn 500 nhà tài trợ cá nhân và tổ chức, tức những người làm từ thiện chuyên nghiệp và những cá nhân, gia đình coi việc cho đi là một mối quan tâm nghiêm túc. Hiệp hội cố gắng cung cấp thông tin hữu ích, gợi suy nghĩ cho các nhà tài trợ lớn nhỏ, và tin rằng làm từ thiện dễ thành công nhất khi nó khen thưởng sáng kiến cá nhân, tinh thần tự lực và kết quả, chứ không khuyến khích sự phụ thuộc.
+
+Chủ đề hội nghị năm đó là chắt lọc thực hành tốt nhất của một thế kỷ hoạt động từ thiện, đồng thời đón nhận các xu hướng mới như doanh nhân xã hội sẽ định hình hoạt động từ thiện Mỹ khi bước vào thiên niên kỷ mới; dự kiến hơn 300 nhà tài trợ tham dự. Hiệp hội tổ chức các cuộc họp khu vực theo chủ đề ở nhiều thành phố và một hội nghị toàn quốc lớn mỗi năm.
+
+Năm trước, hội nghị thường niên ở San Antonio có Ron Chernow, người viết tiểu sử J. P. Morgan và John D. Rockefeller, phát biểu về chủ đề "Học lại bài học của các ông trùm lớn", kể về nỗ lực lâu dài, bền bỉ mà John D. Rockefeller cha dành cho hoạt động từ thiện. Thư ghi địa chỉ văn phòng ở 1150 17th Street NW, Washington, D.C.
 
 Trên thư, Munger viết tay lời đáp (ghi ngày 13/4/1999): cảm ơn những lời tốt đẹp và lời mời, nhưng ông đã nói hết những gì mình có để nói; ông quý công việc tốt của họ, nhưng từ chối là điều tốt nhất cho ông và công việc của ông; ký tên Charlie Munger.
 
@@ -855,21 +883,35 @@ Không nản trước sự thờ ơ đó, ông đẩy lập luận thêm một n
 | Chi phí đầu tư của mọi cổ đông, 1,5% tài sản | 150 | 450 |
 | Phần còn lại ròng cho toàn thể cổ đông | 150 | −150 |
 
-Munger mô tả hệ quả. Chừng nào tình trạng đó còn kéo dài, sau khi trừ chi phí đầu tư, không có chút tiền nào từ toàn bộ doanh nghiệp đến được tay toàn bộ chủ sở hữu cộng lại. Thay vào đó, những người áp đặt chi phí ma sát nhận nhiều hơn toàn bộ lợi nhuận có thể chia hợp lý của doanh nghiệp. Cuối mỗi năm, các chủ sở hữu, tính chung, chỉ có thể có tiền từ việc sở hữu cổ phiếu bằng cách bán cổ phiếu cho những người mang "tiền mới" vào. Những người mang tiền mới, khi tính tới chi phí đầu tư cao liên tục của chính họ và của người khác, buộc phải kỳ vọng giá cổ phiếu sẽ tăng mãi, trong khi toàn thể chủ sở hữu cổ phiếu không nhận được gì ròng, ngoại trừ việc bán cổ phiếu cho thêm "tiền mới".
+Munger mô tả hệ quả. Chừng nào tình trạng đó còn kéo dài, sau khi trừ chi phí đầu tư, không có chút tiền nào từ toàn bộ doanh nghiệp đến được tay toàn bộ chủ sở hữu cộng lại. Thay vào đó, những người áp đặt chi phí ma sát nhận nhiều hơn toàn bộ lợi nhuận có thể chia hợp lý của doanh nghiệp.
 
-Với nhiều người áp đặt chi phí đầu tư ma sát, trạng thái kỳ lạ này có vẻ lý tưởng: hơn 100% lợi nhuận có thể chia hợp lý của doanh nghiệp chảy đúng về "đúng loại người", thay vì "bị phí" cho cổ đông. Và một số nhà kinh tế sẽ coi kết quả đó là tốt vì nó xảy ra trên thị trường. Nhưng với Munger, nó sẽ giống một tổ hợp kỳ quặc và đáng lo của ba thứ: (1) một sòng bạc lấy phần cho nhà cái một cách tham lam vô lý; (2) một dạng trò kiểu Ponzi (lấy tiền người đến sau trả cho người đến trước), giống thị trường tranh đắt tiền, nơi việc tham gia không phù hợp với quỹ hưu trí và các tổ chức tương tự; (3) một bong bóng đầu cơ rồi sẽ vỡ, có lẽ kèm hậu quả kinh tế vĩ mô đáng tiếc. Điều mà tình trạng đó không giống, là một trạng thái có khả năng vận hành tốt trong việc dẫn dắt sự phát triển vốn của nền văn minh xung quanh.
+Cuối mỗi năm, các chủ sở hữu, tính chung, chỉ có thể có tiền từ việc sở hữu cổ phiếu bằng cách bán cổ phiếu cho những người mang "tiền mới" vào. Những người mang tiền mới, khi tính tới chi phí đầu tư cao liên tục của chính họ và của người khác, buộc phải kỳ vọng giá cổ phiếu sẽ tăng mãi, trong khi toàn thể chủ sở hữu cổ phiếu không nhận được gì ròng, ngoại trừ việc bán cổ phiếu cho thêm "tiền mới".
+
+Với nhiều người áp đặt chi phí đầu tư ma sát, trạng thái kỳ lạ này có vẻ lý tưởng: hơn 100% lợi nhuận có thể chia hợp lý của doanh nghiệp chảy đúng về "đúng loại người", thay vì "bị phí" cho cổ đông. Và một số nhà kinh tế sẽ coi kết quả đó là tốt vì nó xảy ra trên thị trường.
+
+Nhưng với Munger, nó sẽ giống một tổ hợp kỳ quặc và đáng lo của ba thứ: (1) một sòng bạc lấy phần cho nhà cái một cách tham lam vô lý; (2) một dạng trò kiểu Ponzi (lấy tiền người đến sau trả cho người đến trước), giống thị trường tranh đắt tiền, nơi việc tham gia không phù hợp với quỹ hưu trí và các tổ chức tương tự; (3) một bong bóng đầu cơ rồi sẽ vỡ, có lẽ kèm hậu quả kinh tế vĩ mô đáng tiếc. Điều mà tình trạng đó không giống, là một trạng thái có khả năng vận hành tốt trong việc dẫn dắt sự phát triển vốn của nền văn minh xung quanh.
 
 Munger kết luận: một trạng thái như vậy, hay kể cả một phiên bản nhẹ hơn, theo ông sẽ làm giảm danh tiếng của nước Mỹ, và nước Mỹ đáng bị như vậy.
 
 **Hộp bên lề của người biên tập (trang in 355).** Ảnh tượng bán thân kèm câu được gán cho Socrates (469–399 trước Công nguyên): "Hãy coi danh tiếng tốt là viên ngọc quý nhất mà bạn có thể sở hữu, vì uy tín giống như lửa: một khi đã nhóm lên thì bạn dễ dàng giữ nó, nhưng nếu để nó tắt, bạn sẽ thấy nhóm lại là việc rất gian nan. Cách để có danh tiếng tốt là cố gắng trở thành người mà bạn muốn được nhìn nhận." Câu này đi cùng ý kết của Munger về danh tiếng quốc gia.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Một quỹ từ thiện có 1 tỷ USD, toàn bộ trong cổ phiếu, trả tổng cộng 2,5% tài sản mỗi năm cho ba lớp dịch vụ: nhà tư vấn chọn nhà quản lý (0,3%), năm nhà quản lý quỹ chủ động (1,2%), và chi phí giao dịch do các nhà quản lý mua bán nhiều (1%). Năm nay thị trường tăng 20%. Quỹ thấy tài sản lên khoảng 1,175 tỷ USD và hội đồng vui vẻ tăng ngân sách tài trợ; không ai để ý rằng nếu nắm một quỹ chỉ số với chi phí 0,1% thì tài sản đã là khoảng 1,199 tỷ USD. Khoảng 24 triệu USD chênh lệch đã chảy thành lương, thưởng và phí cho những người làm dịch vụ; họ mua nhà, mua xe, đi du lịch, và tin mình kiếm tiền chính đáng. Theo cách nhìn của Munger, đó là **febezzle**: cả quỹ lẫn người nhận phí cùng tiêu, và khoản chi tiêu ấy thực chất là **hiệu ứng của cải trá hình** do giá cổ phiếu tăng. Năm sau, hai nhà quản lý thua chỉ số; quỹ rút tiền khỏi họ (họ phải bán cổ phiếu) và chuyển cho hai nhà quản lý đang "nóng", đúng hành vi đã làm nhà đầu tư quỹ tương hỗ trong nghiên cứu tụt hậu hơn 5% mỗi năm. Rồi thị trường giảm 30%: quỹ cắt mạnh tài trợ, giới dịch vụ đầu tư cắt chi tiêu, và lực kéo xuống mạnh hơn lực đẩy lên trước đó, như Munger dự đoán. Áp **quy tắc của Samuel Johnson**, hội đồng quỹ không được nói "chúng tôi không biết": chi phí 2,5% có thể tính ra trong một buổi chiều. Áp **quy tắc Warner & Swasey**, mỗi năm chưa sửa cách đầu tư là một năm quỹ đã trả khoảng 24 triệu USD "tiền máy mới" mà không có máy; và theo quy tắc "dại một cách thì dễ dại cách khác", hội đồng nên xem lại cả cách chọn dự án tài trợ.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Một quỹ từ thiện có 1 tỷ USD, toàn bộ trong cổ phiếu, trả tổng cộng 2,5% tài sản mỗi năm cho ba lớp dịch vụ: nhà tư vấn chọn nhà quản lý (0,3%), năm nhà quản lý quỹ chủ động (1,2%), và chi phí giao dịch do các nhà quản lý mua bán nhiều (1%).
+
+Năm nay thị trường tăng 20%. Quỹ thấy tài sản lên khoảng 1,175 tỷ USD và hội đồng vui vẻ tăng ngân sách tài trợ; không ai để ý rằng nếu nắm một quỹ chỉ số với chi phí 0,1% thì tài sản đã là khoảng 1,199 tỷ USD. Khoảng 24 triệu USD chênh lệch đã chảy thành lương, thưởng và phí cho những người làm dịch vụ; họ mua nhà, mua xe, đi du lịch, và tin mình kiếm tiền chính đáng.
+
+Theo cách nhìn của Munger, đó là **febezzle**: cả quỹ lẫn người nhận phí cùng tiêu, và khoản chi tiêu ấy thực chất là **hiệu ứng của cải trá hình** do giá cổ phiếu tăng.
+
+Năm sau, hai nhà quản lý thua chỉ số; quỹ rút tiền khỏi họ (họ phải bán cổ phiếu) và chuyển cho hai nhà quản lý đang "nóng", đúng hành vi đã làm nhà đầu tư quỹ tương hỗ trong nghiên cứu tụt hậu hơn 5% mỗi năm. Rồi thị trường giảm 30%: quỹ cắt mạnh tài trợ, giới dịch vụ đầu tư cắt chi tiêu, và lực kéo xuống mạnh hơn lực đẩy lên trước đó, như Munger dự đoán.
+
+Áp **quy tắc của Samuel Johnson**, hội đồng quỹ không được nói "chúng tôi không biết": chi phí 2,5% có thể tính ra trong một buổi chiều. Áp **quy tắc Warner & Swasey**, mỗi năm chưa sửa cách đầu tư là một năm quỹ đã trả khoảng 24 triệu USD "tiền máy mới" mà không có máy; và theo quy tắc "dại một cách thì dễ dại cách khác", hội đồng nên xem lại cả cách chọn dự án tài trợ.
 
 ## Luận điểm cốt lõi
 
 ### Mệnh đề
 
-Vào năm 2000, giá cổ phiếu Mỹ tăng cực đoan đã tạo ra một hiệu ứng của cải lên chi tiêu lớn hơn nhiều so với ước tính của giới kinh tế học, vì ngoài phần của cải nhìn thấy còn có của cải trong quỹ hưu trí, giá trị quyền chọn cổ phiếu, và những dòng tiền "tương đương về chức năng với biển thủ" (febezzle) như chi phí đầu tư lãng phí: chúng làm cả người trả lẫn người nhận cùng thấy giàu và cùng tiêu, mà không tự sụp đổ như biển thủ thật. Vì một phần giá cổ phiếu là do đám đông mua vì giá đã tăng, hiệu ứng ấy có thể đảo chiều mạnh hơn khi giá giảm. Với các quỹ từ thiện, việc không hiểu hoạt động đầu tư của chính mình trong hệ thống lớn hơn vừa là sai lầm kinh tế vừa là thất bại đạo đức.
+Vào năm 2000, giá cổ phiếu Mỹ tăng cực đoan đã tạo ra một hiệu ứng của cải lên chi tiêu lớn hơn nhiều so với ước tính của giới kinh tế học, vì ngoài phần của cải nhìn thấy còn có của cải trong quỹ hưu trí, giá trị quyền chọn cổ phiếu, và những dòng tiền "tương đương về chức năng với biển thủ" (febezzle) như chi phí đầu tư lãng phí: chúng làm cả người trả lẫn người nhận cùng thấy giàu và cùng tiêu, mà không tự sụp đổ như biển thủ thật.
+
+Vì một phần giá cổ phiếu là do đám đông mua vì giá đã tăng, hiệu ứng ấy có thể đảo chiều mạnh hơn khi giá giảm. Với các quỹ từ thiện, việc không hiểu hoạt động đầu tư của chính mình trong hệ thống lớn hơn vừa là sai lầm kinh tế vừa là thất bại đạo đức.
 
 ### Giả định
 
@@ -1021,19 +1063,27 @@ Vào năm 2000, giá cổ phiếu Mỹ tăng cực đoan đã tạo ra một hi�
 
 ### Sức mạnh của bài là biến một lời phê bình chi phí thành một lập luận kinh tế vĩ mô
 
-Ở Bài 6, chi phí đầu tư quá mức chỉ là chuyện một quỹ làm hại chính mình. Ở bài này, Munger cho thấy cùng khoản chi phí đó, cộng dồn trên cả nền kinh tế, trở thành một kênh truyền dẫn của bong bóng: nó làm người trả và người nhận cùng tiêu, khiến nền kinh tế trông thịnh vượng hơn mức của cải thật cho phép. Cách ông làm điều này là điển hình của mạng lưới mô hình tư duy: lấy khái niệm "bezzle" của Galbraith, mô hình số nhân của Keynes, quan sát về hành vi đám đông từ tâm lý học, và một quy tắc đạo đức thế kỷ 18, rồi ghép lại. Khái niệm "bezzle", nhờ được Munger và Buffett nhắc lại nhiều lần, về sau trở nên khá phổ biến trong giới bình luận tài chính để mô tả các giai đoạn hưng phấn, khi "của cải tâm lý" vượt xa của cải thật.
+Ở Bài 6, chi phí đầu tư quá mức chỉ là chuyện một quỹ làm hại chính mình. Ở bài này, Munger cho thấy cùng khoản chi phí đó, cộng dồn trên cả nền kinh tế, trở thành một kênh truyền dẫn của bong bóng: nó làm người trả và người nhận cùng tiêu, khiến nền kinh tế trông thịnh vượng hơn mức của cải thật cho phép.
+
+Cách ông làm điều này là điển hình của mạng lưới mô hình tư duy: lấy khái niệm "bezzle" của Galbraith, mô hình số nhân của Keynes, quan sát về hành vi đám đông từ tâm lý học, và một quy tắc đạo đức thế kỷ 18, rồi ghép lại. Khái niệm "bezzle", nhờ được Munger và Buffett nhắc lại nhiều lần, về sau trở nên khá phổ biến trong giới bình luận tài chính để mô tả các giai đoạn hưng phấn, khi "của cải tâm lý" vượt xa của cải thật.
 
 ### Điểm yếu: không có con số đo lường, và một số lập luận dựa vào giả định khó kiểm chứng
 
-Munger tự gọi bài là "suy tư không bằng cấp", và đúng là bài không ước tính febezzle lớn bao nhiêu so với GDP hay so với các kênh hiệu ứng của cải khác. Ví dụ ông nha sĩ là một trường hợp cá biệt; một nhà kinh tế có thể đáp rằng các nghiên cứu sau này về hiệu ứng của cải từ tài sản hưu trí vẫn cho ra con số nhỏ. Lập luận rằng người nhận phí tiêu nhiều hơn cũng cần thêm giả định: nếu không có khoản phí, quỹ cũng sẽ giàu hơn và có thể chi nhiều hơn, nên tác động ròng lên tổng chi tiêu phụ thuộc vào việc bên nào có xu hướng chi tiêu cao hơn. Munger đúng ở cơ chế tâm lý (không ai cảm thấy mất), nhưng quy mô vẫn là phỏng đoán. Nghiên cứu về nhà đầu tư quỹ tương hỗ ông dẫn cũng là nghiên cứu ông chỉ đọc qua bản tóm tắt, và loại nghiên cứu này về sau bị phê bình về phương pháp.
+Munger tự gọi bài là "suy tư không bằng cấp", và đúng là bài không ước tính febezzle lớn bao nhiêu so với GDP hay so với các kênh hiệu ứng của cải khác. Ví dụ ông nha sĩ là một trường hợp cá biệt; một nhà kinh tế có thể đáp rằng các nghiên cứu sau này về hiệu ứng của cải từ tài sản hưu trí vẫn cho ra con số nhỏ.
+
+Lập luận rằng người nhận phí tiêu nhiều hơn cũng cần thêm giả định: nếu không có khoản phí, quỹ cũng sẽ giàu hơn và có thể chi nhiều hơn, nên tác động ròng lên tổng chi tiêu phụ thuộc vào việc bên nào có xu hướng chi tiêu cao hơn. Munger đúng ở cơ chế tâm lý (không ai cảm thấy mất), nhưng quy mô vẫn là phỏng đoán. Nghiên cứu về nhà đầu tư quỹ tương hỗ ông dẫn cũng là nghiên cứu ông chỉ đọc qua bản tóm tắt, và loại nghiên cứu này về sau bị phê bình về phương pháp.
 
 ### Nhiều dự đoán của bài đã được thời gian xác nhận, và một số phê phán đã được sửa bằng quy định
 
-Ngay sau bài nói, bong bóng công nghệ xẹp mạnh trong 2001–2002, kèm các vụ bê bối kế toán lớn, khớp với cảnh báo về "hiệu ứng đạo đức" và về Sodom và Gomorrah. Khủng hoảng 2008 sau đó cho thấy hiệu ứng của cải từ tài sản (lần này là nhà ở) đảo chiều có thể kéo chi tiêu xuống mạnh và lâu, và nhiều nền kinh tế phát triển phải dùng lãi suất sát 0 trong nhiều năm như Nhật Bản. Việc hạch toán quyền chọn cổ phiếu, theo hiểu biết của người tổng hợp, đã được sửa: từ khoảng năm 2006, doanh nghiệp Mỹ phải ghi nhận quyền chọn là chi phí. Lời phê bình về chi phí đầu tư cũng được thị trường đáp lại theo hướng Munger mong muốn: các quỹ chỉ số chi phí rất thấp đã chiếm thị phần lớn, và phí trung bình của quỹ giảm đáng kể so với năm 2000. Tuy vậy, nhiều quỹ từ thiện và quỹ hưu trí lớn lại chuyển mạnh sang các tài sản thay thế (quỹ đầu cơ, quỹ đầu tư tư nhân) có phí cao hơn, nên vấn đề "nhà tư vấn chọn nhà tư vấn" vẫn còn nguyên ở nhiều nơi.
+Ngay sau bài nói, bong bóng công nghệ xẹp mạnh trong 2001–2002, kèm các vụ bê bối kế toán lớn, khớp với cảnh báo về "hiệu ứng đạo đức" và về Sodom và Gomorrah. Khủng hoảng 2008 sau đó cho thấy hiệu ứng của cải từ tài sản (lần này là nhà ở) đảo chiều có thể kéo chi tiêu xuống mạnh và lâu, và nhiều nền kinh tế phát triển phải dùng lãi suất sát 0 trong nhiều năm như Nhật Bản.
+
+Việc hạch toán quyền chọn cổ phiếu, theo hiểu biết của người tổng hợp, đã được sửa: từ khoảng năm 2006, doanh nghiệp Mỹ phải ghi nhận quyền chọn là chi phí. Lời phê bình về chi phí đầu tư cũng được thị trường đáp lại theo hướng Munger mong muốn: các quỹ chỉ số chi phí rất thấp đã chiếm thị phần lớn, và phí trung bình của quỹ giảm đáng kể so với năm 2000. Tuy vậy, nhiều quỹ từ thiện và quỹ hưu trí lớn lại chuyển mạnh sang các tài sản thay thế (quỹ đầu cơ, quỹ đầu tư tư nhân) có phí cao hơn, nên vấn đề "nhà tư vấn chọn nhà tư vấn" vẫn còn nguyên ở nhiều nơi.
 
 ### Quan điểm trái chiều: chi phí cao không phải lúc nào cũng là lãng phí, và kinh tế học không phớt lờ hiệu ứng của cải
 
-Người bênh vực quản lý chủ động sẽ nói một phần chi phí trả cho nghiên cứu, cho tính thanh khoản và cho việc giá cổ phiếu được định đúng hơn; nếu ai cũng chỉ mua quỹ chỉ số, giá sẽ không còn phản ánh thông tin. Các quỹ lớn cũng có thể cần tư vấn để quản trị rủi ro, đa dạng hoá và tuân thủ pháp lý. Ở phía kinh tế học, giới nghiên cứu thực ra có quan tâm tới bong bóng và hiệu ứng của cải (năm 1996 Chủ tịch Fed Alan Greenspan đã nói về "sự hưng phấn phi lý", và Robert Shiller xuất bản *Irrational Exuberance* năm 2000), nên nhận xét "không ai trong ngành chịu tranh luận" phản ánh cảm nhận của Munger nhiều hơn là toàn bộ ngành. Cuối cùng, lời bình năm 2006 là một thí nghiệm tư duy cực đoan: giá cổ phiếu tăng 200% mà lợi nhuận không đổi là kịch bản Munger tự đặt ra để làm rõ cơ chế, không phải dự báo.
+Người bênh vực quản lý chủ động sẽ nói một phần chi phí trả cho nghiên cứu, cho tính thanh khoản và cho việc giá cổ phiếu được định đúng hơn; nếu ai cũng chỉ mua quỹ chỉ số, giá sẽ không còn phản ánh thông tin. Các quỹ lớn cũng có thể cần tư vấn để quản trị rủi ro, đa dạng hoá và tuân thủ pháp lý.
+
+Ở phía kinh tế học, giới nghiên cứu thực ra có quan tâm tới bong bóng và hiệu ứng của cải (năm 1996 Chủ tịch Fed Alan Greenspan đã nói về "sự hưng phấn phi lý", và Robert Shiller xuất bản *Irrational Exuberance* năm 2000), nên nhận xét "không ai trong ngành chịu tranh luận" phản ánh cảm nhận của Munger nhiều hơn là toàn bộ ngành. Cuối cùng, lời bình năm 2006 là một thí nghiệm tư duy cực đoan: giá cổ phiếu tăng 200% mà lợi nhuận không đổi là kịch bản Munger tự đặt ra để làm rõ cơ chế, không phải dự báo.
 
 ### Bài cho thấy cách Munger dùng đạo đức như một công cụ phân tích, không chỉ như lời răn
 
@@ -1044,4 +1094,188 @@ Munger không dừng ở việc nói các quỹ "nên" có đạo đức; ông l
 - **Trong đầu tư.** Tính tổng chi phí đầu tư thật (phí quản lý, phí tư vấn, chi phí giao dịch, thuế do mua bán nhiều) theo phần trăm tài sản mỗi năm, và so với lựa chọn chi phí thấp nhất có thể. Không đánh giá danh mục chỉ bằng việc tài sản có tăng không, mà bằng việc nó tăng hơn hay kém một phương án đơn giản. Tránh thói rút tiền khỏi người quản lý vừa kém để đổ vào người vừa nổi: đó là nguyên nhân Munger đoán cho khoảng tụt hậu hơn 5% mỗi năm. Khi định giá cổ phiếu, tách phần giá "như trái phiếu" (dòng tiền tương lai) khỏi phần "như tranh Rembrandt" (mua vì giá đã tăng); phần thứ hai càng lớn thì rủi ro đảo chiều càng cao.
 - **Trong doanh nghiệp và nghề nghiệp.** Với người làm trong ngành dịch vụ tài chính: tự hỏi thu nhập của mình đến từ giá trị tạo cho khách hay từ việc khách không biết mình đang trả bao nhiêu; thu nhập loại thứ hai là febezzle và dễ biến mất khi thị trường đảo chiều hoặc khi khách hiểu ra. Với người quản trị một tổ chức (quỹ, hội, doanh nghiệp): ghi nhớ rằng sai lầm ở một mảng thường báo hiệu sai lầm ở mảng khác; khi phát hiện bộ phận đầu tư kém, nên rà cả quy trình chi tiêu, tuyển dụng, tài trợ.
 - **Trong ra quyết định cá nhân.** Đừng để tài sản trên giấy tăng (cổ phiếu, quỹ hưu trí, giá nhà) dẫn thẳng tới các khoản chi cố định lâu dài như thuê xe sang hay vay thêm, giống ông nha sĩ; của cải "trên giấy" có thể đảo chiều nhanh hơn nhiều so với cam kết chi tiêu. Áp quy tắc Samuel Johnson cho chính mình: những điều mình có thể biết chỉ với một buổi tìm hiểu (mình đang trả phí bao nhiêu, sản phẩm tài chính mình mua thực chất là gì) thì không được để mình không biết.
-- **Ở Việt Nam.** Các giai đoạn thị trường chứng khoán và bất động sản sôi động thường đi kèm làn sóng chi tiêu và vay mượn dựa trên tài sản trên giấy, nên cảnh báo về hiệu ứng của cải đảo chiều và về chuyện "lên mạnh thì xuống cũng mạnh" rất đáng nhớ với nhà đầu tư cá nhân. Các sản phẩm tài chính có cấu trúc phí phức tạp (bảo hiểm liên kết đầu tư, quỹ có nhiều tầng phí, dịch vụ môi giới khuyến khích giao dịch nhiều) là nơi nên áp câu hỏi "mỗi đồng phí đi đâu". Khi các quỹ hưu trí, quỹ từ thiện và quỹ đầu tư trong nước phát triển, bài học về việc giữ chi phí thấp, tránh chạy theo đám đông và hội đồng quản trị phải tự hiểu hoạt động đầu tư của quỹ là bài học có thể áp dụng ngay từ đầu, thay vì phải học lại sau một đợt đổ vỡ.
+- **Ở Việt Nam.** Các giai đoạn thị trường chứng khoán và bất động sản sôi động thường đi kèm làn sóng chi tiêu và vay mượn dựa trên tài sản trên giấy, nên cảnh báo về hiệu ứng của cải đảo chiều và về chuyện "lên mạnh thì xuống cũng mạnh" rất đáng nhớ với nhà đầu tư cá nhân.
+
+  Các sản phẩm tài chính có cấu trúc phí phức tạp (bảo hiểm liên kết đầu tư, quỹ có nhiều tầng phí, dịch vụ môi giới khuyến khích giao dịch nhiều) là nơi nên áp câu hỏi "mỗi đồng phí đi đâu". Khi các quỹ hưu trí, quỹ từ thiện và quỹ đầu tư trong nước phát triển, bài học về việc giữ chi phí thấp, tránh chạy theo đám đông và hội đồng quản trị phải tự hiểu hoạt động đầu tư của quỹ là bài học có thể áp dụng ngay từ đầu, thay vì phải học lại sau một đợt đổ vỡ.
+
+## Bản đồ tư duy
+
+Toàn cảnh Bài 7 trên một trang: sáu nhánh lớn đi theo các mục 1–15 của phần Nội dung chi tiết (chủ đề hiệu ứng của cải và bài học Nhật Bản, quan điểm của giới kinh tế học và chuyện ông nha sĩ, từ bezzle của Galbraith tới febezzle, chi phí đầu tư, quyền chọn cổ phiếu và giá cổ phiếu "như tranh Rembrandt", kết luận vĩ mô và hàm ý cho các quỹ, thư mời năm 1999 và lời bình năm 2006), mỗi nhánh ghi lập luận, ví dụ và con số then chốt của Munger; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Bài 7: giá cổ phiếu tăng đẩy chi tiêu mạnh hơn giới kinh tế học ước tính, một phần nhờ febezzle`"]
+  n1["`Mục 1–3 — Chủ đề hiệu ứng của cải và bài học Nhật Bản`"]
+  n0 --- n1
+  n2["`Bài nói tháng 11/2000 ở Pasadena, mục tiêu như Bài 6: cứu các quỹ từ thiện khỏi sai lầm của chính họ`"]
+  n1 --- n2
+  n3["`Các quỹ thiếu khôn ngoan vì không hiểu hoạt động đầu tư của mình trong hệ thống lớn hơn`"]
+  n1 --- n3
+  n4["`Munger chưa học khóa kinh tế học nào nhưng cho rằng tiến sĩ kinh tế đánh giá thấp hiệu ứng của cải`"]
+  n1 --- n4
+  n5["`Ai cũng đồng ý: xu hướng chi tiêu tăng khi giá cổ phiếu tăng và cực kỳ quan trọng với kinh tế vĩ mô`"]
+  n1 --- n5
+  n6["`Hai chiều cùng lúc: chi tiêu đẩy giá cổ phiếu, giá cổ phiếu đẩy chi tiêu và lợi nhuận doanh nghiệp`"]
+  n5 --- n6
+  n7["`Hiệu ứng của cải là câu đố toán học không bao giờ giải gọn như lý thuyết vật lý`"]
+  n5 --- n7
+  n8["`Lý do 1: giá cổ phiếu nắm giữ rộng rãi chưa từng tăng cực đoan như vậy, nhanh hơn GNP rất nhiều`"]
+  n1 --- n8
+  n9["`Lý do 2: Nhật Bản, bong bóng cổ phiếu và bất động sản kèm tham nhũng, rồi sụp và đứng yên`"]
+  n1 --- n9
+  n10["`Thâm hụt ngân sách khổng lồ, lãi suất sát 0 vẫn không kéo được xu hướng chi tiêu của người Nhật`"]
+  n9 --- n10
+  n11["`Mục 4–5 — Giới kinh tế học nhìn sai con số: chuyện ông nha sĩ`"]
+  n0 --- n11
+  n12["`Kết luận trung vị dựa trên số liệu Fed: hiệu ứng của cải từ cổ phiếu không lớn lắm`"]
+  n11 --- n12
+  n13["`Cổ phiếu chưa tới 1/3 tài sản ròng hộ gia đình, 1% hộ giàu nhất nắm khoảng 50%, 80% hộ dưới cùng nắm 4%`"]
+  n12 --- n13
+  n14["`Hộ tiêu thêm 3% giá trị cổ phiếu thì mười năm bùng nổ chỉ làm chi tiêu tăng chưa tới 0,5% mỗi năm`"]
+  n12 --- n14
+  n15["`Số liệu Fed không tính đúng tác động từ quỹ hưu trí, kể cả tài khoản 401(k)`"]
+  n11 --- n15
+  n16["`Ông nha sĩ 63 tuổi: cổ phiếu GE trong quỹ hưu trí từ 1 lên 2 triệu USD, đổi Chevrolet cũ lấy Cadillac thuê`"]
+  n11 --- n16
+  n17["`Nhà kinh tế thấy tiêu vào tiết kiệm, Munger thấy hiệu ứng của cải lớn từ quỹ hưu trí`"]
+  n16 --- n17
+  n18["`Mục 6–8 — Từ bezzle của Galbraith tới febezzle của Munger`"]
+  n0 --- n18
+  n19["`Bezzle (Galbraith): phần tăng thêm trong một kỳ của các khoản biển thủ chưa bị phát hiện`"]
+  n18 --- n19
+  n20["`Kẻ biển thủ tiêu nhiều hơn, chủ vẫn tiêu như cũ vì chưa biết mình mất tiền`"]
+  n19 --- n20
+  n21["`Thợ may bán áo 20 USD cho thợ giày: một người thêm, một người bớt, không có hiệu ứng Lollapalooza`"]
+  n18 --- n21
+  n22["`Chính phủ in 20 USD mua giày: không ai nghèo đi, chi tiêu lan tiếp theo số nhân Keynes`"]
+  n21 --- n22
+  n23["`Bezzle không lớn được vì vụ trộm lớn sẽ bị lộ và gây hiệu ứng ngược`"]
+  n18 --- n23
+  n24["`Febezzle: thứ tương đương về chức năng với bezzle, vừa lớn vừa không tự hủy`"]
+  n18 --- n24
+  n25["`Nguồn febezzle ngay trong phòng: các quỹ lãng phí 3% tài sản mỗi năm vào chi phí đầu tư vô ích`"]
+  n24 --- n25
+  n26["`Quỹ vẫn thấy giàu vì cổ phiếu tăng, người nhận phí tin mình kiếm tiền chính đáng, cả hai cùng tiêu`"]
+  n24 --- n26
+  n27["`Thực chất là chi tiêu từ một hiệu ứng của cải trá hình, có thể tự nuôi mình mà phình ra lâu dài`"]
+  n24 --- n27
+  n28["`Foolexures: kinh tế học ca ngợi chi tiêu dại dột, nghịch lý với thế hệ trọng tiết kiệm`"]
+  n18 --- n28
+  n29["`Phải nhận ra thực tế ngay cả khi không thích nó, nhất là khi không thích nó`"]
+  n28 --- n29
+  n30["`Mục 9–11 — Chi phí đầu tư, quyền chọn cổ phiếu và sự điên rồ của đám đông`"]
+  n0 --- n30
+  n31["`Mức lãng phí 3% có lẽ còn quá thấp trong rất nhiều trường hợp`"]
+  n30 --- n31
+  n32["`Nghiên cứu 15 năm: quỹ cổ phiếu trung bình lãi 12,8%/năm, nhà đầu tư quỹ chỉ 7,25%/năm`"]
+  n31 --- n32
+  n33["`Tụt hậu hơn 5%/năm vì rút tiền khỏi nhà quản lý đang thua, đổ vào nhà quản lý đang hút tiền`"]
+  n31 --- n33
+  n34["`Khoảng 750 tỷ USD quyền chọn cổ phiếu cho nhân viên, một phần là febezzle nhờ lối hạch toán tham nhũng`"]
+  n30 --- n34
+  n35["`Mỗi 100 điểm S#amp;P thêm khoảng 1.000 tỷ USD giá trị thị trường, cộng số nhân Keynes`"]
+  n30 --- n35
+  n36["`Cổ phiếu định giá một phần như trái phiếu theo tiền mặt tương lai, một phần như tranh Rembrandt vì giá đã tăng`"]
+  n30 --- n36
+  n37["`Thí nghiệm tư duy: mọi quỹ hưu trí, hay một nửa, dồn tài sản vào tranh cổ sẽ thành hỗn loạn vĩ mô`"]
+  n36 --- n37
+  n38["`Thị trường hiệu quả dạng cứng sai vì theo mô hình con người duy lý, bỏ qua con người dại dột`"]
+  n30 --- n38
+  n39["`Nhà đầu tư tổ chức như chuột lemming, sợ nhất là cách đầu tư khác cả đám đông`"]
+  n38 --- n39
+  n40["`Mục 12–13 — Kết luận vĩ mô và hàm ý cho các quỹ từ thiện`"]
+  n0 --- n40
+  n41["`Thịnh vượng năm 2000 được hiệu ứng của cải đẩy mạnh hơn các đợt trước, nên chiều xuống cũng có thể mạnh hơn`"]
+  n40 --- n41
+  n42["`Mỗi đô la giảm giá kéo chi tiêu tùy ý xuống mạnh hơn mỗi đô la tăng giá đẩy lên`"]
+  n41 --- n42
+  n43["`Hiệu ứng đạo đức: ghi sổ kép giúp Venice, kế toán gian dối lan rộng gây hại dài hạn`"]
+  n40 --- n43
+  n44["`Khi khung cảnh tài chính gợi nhớ Sodom và Gomorrah, hãy sợ hậu quả dù thích tham gia`"]
+  n43 --- n44
+  n45["`Tổ chức dại dột theo một cách với hệ thống phức tạp thì dễ dại dột theo cách khác, cả trong việc cho tiền`"]
+  n40 --- n45
+  n46["`Samuel Johnson: giữ sự thiếu hiểu biết dễ khắc phục là phản bội nghĩa vụ đạo đức`"]
+  n40 --- n46
+  n47["`Warner #amp; Swasey: người cần máy công cụ mới mà chưa mua thì đã đang trả tiền cho nó, kể cả công cụ tư duy`"]
+  n40 --- n47
+  n48["`Mục 14–15 — Thư mời năm 1999 và lời bình năm 2006`"]
+  n0 --- n48
+  n49["`Thư mời 12/4/1999: Munger viết tay từ chối vì đã nói hết, năm sau mới nhận lời`"]
+  n48 --- n49
+  n50["`Sau bài nói, cổ phiếu công nghệ cao giảm mạnh, nhưng không nhà kinh tế nào tranh luận với Munger`"]
+  n48 --- n50
+  n51["`Giả định giá cổ phiếu tăng 200% so với 2006 mà lợi nhuận đứng yên, chi phí đầu tư tăng theo giá`"]
+  n48 --- n51
+  n52["`Tổng chi phí đầu tư vượt toàn bộ lợi nhuận có thể chia, cổ đông chỉ có tiền nhờ bán cho tiền mới`"]
+  n51 --- n52
+  n53["`Thị trường thành sòng bạc lấy phần cho nhà cái, trò kiểu Ponzi và bong bóng đầu cơ sẽ vỡ`"]
+  n51 --- n53
+  n54["`Trạng thái đó, kể cả bản nhẹ hơn, làm giảm danh tiếng nước Mỹ, và nước Mỹ đáng bị như vậy`"]
+  n51 --- n54
+  n55["`Thông điệp xuyên suốt`"]
+  n0 --- n55
+  n56["`Ghép bezzle của Galbraith, số nhân Keynes, tâm lý đám đông và quy tắc Johnson để thấy điều một ngành bỏ sót`"]
+  n55 --- n56
+  n57["`Hỏi mỗi đồng phí đi đâu, ai thấy giàu lên, và điều gì xảy ra khi giá đảo chiều`"]
+  n55 --- n57
+  n58["`Đạo đức có hậu quả kinh tế thật: thiếu hiểu biết là chi phí đang trả, không phải lời bào chữa`"]
+  n55 --- n58
+  class n0 root
+  class n1,n11,n18,n30,n40,n48,n55 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n12,n13,n14,n15,n16,n17,n19,n20,n21,n22,n23,n24,n25,n26,n27,n28,n29,n31,n32,n33,n34,n35,n36,n37,n38,n39,n41,n42,n43,n44,n45,n46,n47,n49,n50,n51,n52,n53,n54,n56,n57,n58 leaf
+```
+
+## Nguồn
+
+*Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger*, biên tập Peter D. Kaufman, The Donning Company Publishers, ấn bản mở rộng thứ ba (bản PDF là lần in thứ sáu, 2011), Chương 4 "Eleven Talks", Bài 7 "Breakfast Meeting of the Philanthropy Roundtable" (tiêu đề chạy đầu trang: "Talk Seven: Philanthropy Roundtable"), trang in 340–355. Gồm: lời dẫn của người biên tập (trang in 340), bài nói (341–352), bức thư mời năm 1999 có lời từ chối viết tay của Munger (353), phần lời bình Munger viết thêm "Talk Seven Revisited" (354–355), cùng các hộp bên lề và chú thích ảnh của người biên tập.
+
+Bài nói được đọc trong **buổi họp ăn sáng của Philanthropy Roundtable ngày 10 tháng 11 năm 2000 tại Pasadena (California)**; người nghe là các nhà tài trợ, người điều hành và cán bộ tài chính của các quỹ từ thiện thuộc mạng lưới Philanthropy Roundtable.
+
+## Tác giả
+
+Charles T. Munger (1924–2023), Phó Chủ tịch Berkshire Hathaway, Chủ tịch Wesco Financial; lời dẫn, hộp bên lề và chú thích ảnh do Peter D. Kaufman và nhóm biên tập viết.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 4 tập hợp mười một bài nói của Munger. Bài 6 ([Cách đầu tư của các quỹ từ thiện hàng đầu](C04-B06-cach-dau-tu-cua-cac-quy-tu-thien-hang-dau.md), năm 1998) nói với cán bộ tài chính của các quỹ từ thiện rằng họ đang tự làm hao mòn tài sản bằng nhiều lớp nhà quản lý đầu tư, nhà tư vấn và "nhà tư vấn chọn nhà tư vấn", tốn khoảng 3% tài sản mỗi năm.
+
+Bài 7 nối tiếp trực tiếp: Munger giữ nguyên lời buộc tội đó, nhưng chuyển từ cấp độ một quỹ sang cấp độ cả nền kinh tế. Ông hỏi: khoản chi phí lãng phí ấy, cộng với giá cổ phiếu tăng vọt và quyền chọn cổ phiếu cho nhân viên, tác động thế nào đến chi tiêu của cả nước Mỹ? Từ câu hỏi đó ông đặt ra khái niệm "febezzlement".
+
+Ý về quyền chọn cổ phiếu được hạch toán sai sẽ trở thành chủ đề chính của Bài 8 ([Vụ bê bối tài chính lớn năm 2003](C04-B08-vu-be-boi-tai-chinh-lon-nam-2003.md)); còn lời phê bình kinh tế học hàn lâm (bỏ qua tâm lý học, không học từ các ngành khác, không nhìn kỹ Nhật Bản) sẽ được phát triển đầy đủ ở Bài 9 ([Kinh tế học hàn lâm](C04-B09-kinh-te-hoc-han-lam.md)).
+
+Trong mạch chung của cuốn sách, bài này là ví dụ về cách Munger dùng **trí tuệ thế gian (worldly wisdom)** và **mạng lưới mô hình tư duy (latticework of mental models)**: lấy một khái niệm của Galbraith, một mô hình của Keynes, một quan sát tâm lý học về đám đông và một quy tắc đạo đức của Samuel Johnson, ghép lại để nhìn ra điều mà một ngành học riêng lẻ bỏ sót.
+
+## Lưu ý
+
+- **Thời điểm.** Bài nói ngày 10/11/2000, khoảng tám tháng sau đỉnh của bong bóng cổ phiếu công nghệ (tháng 3/2000), khi thị trường đã bắt đầu giảm nhưng phần lớn người Mỹ vẫn coi mức giá cao là bình thường. Phần "Talk Seven Revisited" được Munger viết cho ấn bản mở rộng (khoảng năm 2006, vì ông lấy "giá cổ phiếu năm 2006" làm mốc giả định). Các con số trong bài (750 tỷ USD quyền chọn cổ phiếu, 100 điểm S&P ứng với khoảng 1.000 tỷ USD giá trị thị trường, phân bố sở hữu cổ phiếu theo hộ gia đình) là ước tính của Munger ở thời điểm năm 2000; ông tự dùng chữ "probably" (có lẽ) cho hầu hết chúng.
+
+- **Nghiên cứu về nhà đầu tư quỹ tương hỗ** (nhà đầu tư lãi 7,25%/năm trong khi quỹ cổ phiếu trung bình lãi 12,8%/năm trong 15 năm) được Munger dẫn qua một bản tóm tắt bạn ông gửi, không nêu tên tác giả nghiên cứu. Theo hiểu biết của người tổng hợp, kết quả này giống các nghiên cứu "hành vi nhà đầu tư" kiểu Dalbar thời đó; phương pháp của các nghiên cứu này về sau bị một số nhà nghiên cứu phê bình là phóng đại khoảng chênh, nhưng hiện tượng nhà đầu tư mua đuổi, bán tháo làm thua chính quỹ mình nắm giữ thì vẫn được nhiều nghiên cứu khác xác nhận.
+
+- **Quỹ hưu trí Anh mua tranh cổ.** Munger không nêu tên quỹ. Theo hiểu biết của người tổng hợp, đó có lẽ là quỹ hưu trí của ngành đường sắt Anh (British Rail Pension Fund), mua tác phẩm nghệ thuật từ cuối thập niên 1970 và bán dần về sau.
+
+- **Galbraith "là người Scotland".** Munger nói đùa rằng Galbraith "là người Scotland" nên thích sự ảm đạm. Theo hiểu biết của người tổng hợp, Galbraith là người Canada gốc Scotland (gia đình ông là người Canada gốc Scotland ở Ontario); "học thuyết tiền định về việc trẻ sơ sinh bị đày xuống địa ngục" mà Munger nhắc là cách ông châm biếm thần học Calvin của Giáo hội Trưởng lão Scotland.
+
+  Hộp bên lề về Galbraith ghi "(b. 1908)", tức còn sống lúc viết; theo hiểu biết của người tổng hợp, Galbraith mất năm 2006, nên thông tin này đã lỗi thời ở lần in năm 2011.
+
+- **Hạch toán quyền chọn cổ phiếu.** Munger gọi cách hạch toán quyền chọn cổ phiếu lúc đó là "tham nhũng" và "bị chuẩn mực bắt buộc". Theo hiểu biết của người tổng hợp, năm 2000 chuẩn mực Mỹ cho phép doanh nghiệp không ghi quyền chọn cổ phiếu cấp theo giá thị trường vào chi phí; từ khoảng năm 2006 chuẩn mực mới (FAS 123R) đã buộc ghi nhận chúng là chi phí. Vì vậy phê phán cụ thể này phần lớn đã được giải quyết về mặt quy định.
+
+- **Hộp bên lề và hình ảnh.** Các trang có nhiều hộp bên lề và ảnh minh hoạ do người biên tập chọn.
+
+  Bản tổng hợp đưa chúng vào đúng đoạn bài nói nơi chúng xuất hiện, ghi rõ "Hộp bên lề của người biên tập": giới thiệu Philanthropy Roundtable (trang in 341); ảnh tờ 1.000 yên Nhật in chân dung nhà văn Natsume Sōseki (342); khối Rubik (343); tiểu sử John Kenneth Galbraith kèm bìa sách *The Affluent Society* (344); một trang quảng cáo cũ của General Electric (344); tranh biếm hoạ John Maynard Keynes kèm câu trích (345); ảnh đôi tay bị còng (346); ảnh đám đông chen mua hàng điện tử (347); ảnh "Wake Up! Reality Check" (348); ảnh Munger cầm cặp tài liệu (349); bức *Cô gái đeo hoa tai ngọc trai* của Vermeer (350); bìa sách về giao dịch trong ngày (351); tiểu sử James Boswell và Samuel Johnson (352); bức thư mời năm 1999 (353); tượng bán thân và câu trích gán cho Socrates (355).
+
+  Các câu in nổi trích từ chính bài nói không được chép lại riêng vì nội dung của chúng đã có trong phần tóm tắt bài nói.
+
+- **Một số chỗ người tổng hợp lưu ý thêm:** Hộp bên lề ghi Ernő Rubik "được cấp bằng sáng chế năm 1974"; theo hiểu biết của người tổng hợp, ông làm ra khối lập phương năm 1974 và nộp đơn sáng chế ở Hungary năm 1975.
+
+  Hộp bên lề giới thiệu Philanthropy Roundtable nói tổ chức "thành lập trong thập niên 1970" và có "hơn 600 thành viên", còn bức thư mời năm 1999 ghi "hơn 500" thành viên; chênh lệch có lẽ do hai thời điểm khác nhau.
+
+  Câu "Hãy coi danh tiếng tốt là viên ngọc quý nhất…" được sách gán cho Socrates; theo hiểu biết của người tổng hợp, câu này phổ biến trong các tuyển tập danh ngôn nhưng không tìm thấy trong các văn bản cổ ghi lời Socrates, nên việc gán tên đáng ngờ. Bức tranh minh hoạ cho câu "cổ phiếu được định giá như tranh Rembrandt" lại là tranh của Vermeer chứ không phải Rembrandt.
+
+- **Lỗi OCR đáng chú ý:** "economies" (đúng là "economics"), "macrocconomic", "houschold", "ar least" (at least), "bezale" (bezzle), "wenty" (twenty), "efficient marker" (efficient market), "vore" (yore), "seene" (scene), "Philauropy" (tên tạp chí *Philanthropy*), "Ritz-Cariton... Flonda" (Ritz-Carlton... Florida). Cụm "in a native economy relying on earned income" có đúng như vậy trong ảnh trang gốc; "native" ở đây hiểu là nền kinh tế "tự nhiên", chỉ dựa trên thu nhập kiếm được, chưa có nhà nước in tiền. Dòng "The Four Track News" trong văn bản OCR là tên tờ tạp chí in quảng cáo General Electric, không phải tiêu đề của bài nói.
+
+- Mọi câu trích là bản dịch của người tổng hợp; nguyên văn tiếng Anh ở mục "Câu nói đáng nhớ".

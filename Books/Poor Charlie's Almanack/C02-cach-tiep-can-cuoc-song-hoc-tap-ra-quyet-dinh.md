@@ -1,24 +1,22 @@
 # Chương 2 — Cách Munger tiếp cận cuộc sống, học tập và ra quyết định (The Munger Approach to Life, Learning, and Decision Making)
 
-**Nguồn:** *Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger*, biên tập Peter D. Kaufman, The Donning Company Publishers, ấn bản mở rộng thứ ba (Expanded Third Edition, 2005/2006/2008; bản PDF là lần in thứ sáu, 2011), Chapter Two "The Munger Approach to Life, Learning, and Decision Making", trang in 52–81 (gồm cả trang đề từ 52, mục "Honesty Is the Best Policy" ở trang 78–80 và hộp "Our First 'I Have Nothing to Add'..." ở trang 81).
-**Tác giả:** Peter D. Kaufman, người biên tập cả cuốn sách, chủ tịch và tổng giám đốc công ty Glenair, bạn lâu năm của Munger. Chương do Kaufman viết như một bản tổng quan, nhưng phần lớn ý được dẫn bằng chính lời Munger (trích từ các bài nói, đại hội cổ đông, phỏng vấn); ngoài ra có lời của Warren Buffett, Li Lu, Bill Gross, Rick Guerin, Wendy Munger và nhiều câu trích của các nhân vật lịch sử do nhóm biên tập đặt ở lề trang.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 1 (gồm ba phần: chân dung Munger của Michael Broggie, bài Munger nói về tuổi già, và hồi ức của các con) cho người đọc biết Munger là ai và đã sống thế nào. Chương 2 là chương nền tảng, nói Munger **nghĩ** thế nào: nó rút ra phương pháp chung (mạng lưới mô hình tư duy, tư duy đảo ngược, vòng tròn năng lực, phân tích hai lớp lý trí và tâm lý), rồi trình bày quy trình Munger đánh giá một khoản đầu tư và tóm lại bằng một danh sách kiểm tra mười nguyên tắc đầu tư. Người biên tập nói rõ chương này chỉ là "bản phác thảo" chuẩn bị cho phần chi tiết phía sau: chương 3 ("Mungerisms", lời Munger nói không soạn trước ở các đại hội cổ đông) và chương 4 (mười một bài nói nguyên văn) là nơi Munger tự trình bày các ý này bằng lời của mình, đặc biệt các bài 2, 3 và 4 về mô hình tư duy ([Bài 2](C04-B02-bai-hoc-ve-tri-tue-the-gian-so-dang.md), [Bài 3](C04-B03-bai-hoc-ve-tri-tue-the-gian-so-dang-nhin-lai.md), [Bài 4](C04-B04-tu-duy-thuc-tien-ve-tu-duy-thuc-tien.md)), bài 5 về danh sách kiểm tra ([Bài 5](C04-B05-dien-van-hop-mat-50-nam-truong-luat-harvard.md)) và bài 11 về 25 khuynh hướng tâm lý gây phán đoán sai ([Bài 11](C04-B11-tam-ly-hoc-ve-phan-doan-sai-lam-cua-con-nguoi.md)).
-**Ý chính:** Kaufman muốn người đọc hiểu rằng **thành tích đầu tư của Munger không đến từ một công thức bí mật, mà là sản phẩm phụ của một cách sống và cách nghĩ được tổ chức kỹ**: tự học suốt đời để nắm "những ý lớn của các ngành lớn" (khoảng một trăm mô hình tư duy từ lịch sử, tâm lý học, toán, kỹ thuật, sinh học, vật lý, hoá học, thống kê, kinh tế học...), xếp chúng thành một **mạng lưới mô hình tư duy** (*latticework of mental models*) để nhìn một doanh nghiệp như một phần của cả "hệ sinh thái" quanh nó; trước hết loại nhanh những việc không nên làm (**tư duy đảo ngược**: "tôi chỉ muốn biết mình sẽ chết ở đâu để không bao giờ tới đó"); chỉ xét những doanh nghiệp đơn giản, dễ hiểu, nằm trong **vòng tròn năng lực** (ba giỏ: có, không, quá khó hiểu); phân tích cả các yếu tố lý trí lẫn các yếu tố tâm lý vô thức; tìm doanh nghiệp có **con hào kinh tế** rộng chống lại sức "phá huỷ cạnh tranh"; so giá trị nhận được với giá phải trả ("một doanh nghiệp tuyệt vời ở giá hợp lý tốt hơn một doanh nghiệp tầm thường ở giá tuyệt vời"); rồi **kiên nhẫn cực độ** chờ cơ hội hiếm và **quyết đoán cực độ** đặt cược lớn khi xác suất nghiêng hẳn về mình, giữ rất lâu. Ví dụ trung tâm là cách Munger chỉ giữ khoảng ba cổ phiếu, ngồi hàng năm với 10–12 triệu USD trái phiếu chờ đợi, và hình ảnh tấm thẻ chỉ có hai mươi lỗ đục cho cả đời đầu tư. Chương khép lại bằng bốn phẩm chất nền tảng mà Kaufman gọi là triết lý sống của Munger: **chuẩn bị, kỷ luật, kiên nhẫn, quyết đoán**, cùng phần về sự trung thực ("trung thực là chính sách tốt nhất") và một câu đố Munger từng bỏ ngỏ về đấu giá kín.
+## Ý chính
 
-> **Lưu ý:**
-> - **Bối cảnh thời điểm.** Chương viết cho ấn bản đầu (2005) và được giữ trong ấn bản mở rộng thứ ba (2008); các mốc mới nhất được nhắc là đại hội Berkshire Hathaway 2004, đại hội Wesco 2004 và giá đô la năm 2006. Các con số như "175.000 nhân viên của Berkshire", "Li Lu của LL Investment Partners", "Bill Gross của PIMCO" là theo thời điểm đó. Theo hiểu biết của người tổng hợp, Bill Gross rời PIMCO năm 2014; quỹ của Li Lu được biết rộng rãi với tên Himalaya Capital; Berkshire sau này có gần 400.000 nhân viên. Munger mất năm 2023.
-> - **Bố cục của bản gốc.** Thân bài chỉ có ba tiêu đề lớn: "Munger's 'Multiple Mental Models' Approach to Business Analysis and Assessment" (trang in 55), "Munger's Investment Evaluation Process" (trang in 65) và "An Investing Principles Checklist" (trang in 73), sau đó là mục "Honesty Is the Best Policy" (trang in 78) và hộp "Our First 'I Have Nothing to Add'..." (trang in 81). Phần mở đầu chương (trang in 53–54) không có tiêu đề riêng. Gần như mọi trang có hộp bên lề, ảnh và câu trích in nổi do nhóm biên tập đặt; bản tổng hợp gom các hộp của một nhóm trang vào một khối `###` riêng, ghi rõ "hộp bên lề của người biên tập" và trang in, để tách với lời Kaufman trong thân bài và lời Munger. Một số câu in nổi lớn giữa trang không ghi tên người nói (ví dụ "All intelligent investing is value investing...", "Understanding both the power of compound interest...", "No wise pilot..."); theo ngữ cảnh và theo hiểu biết của người tổng hợp đó là lời Munger, bản tổng hợp ghi "câu in nổi, theo ngữ cảnh là lời Munger".
-> - **Danh sách kiểm tra mười nguyên tắc** (trang in 73–76) không đánh số trong bản gốc mà dùng dấu ô vuông; bản tổng hợp đánh số 1–10 theo đúng thứ tự in (Risk, Independence, Preparation, Intellectual humility, Analytic rigor, Allocation, Patience, Decisiveness, Change, Focus) để dễ tra. Người biên tập nói rõ các nguyên tắc này không có thứ tự ưu tiên.
-> - **Chỗ trỏ sang trang khác của sách gốc** được thay bằng nội dung: "phân tích của Warren Buffett về hợp danh Munger 1962–1975 ở trang 21" là bảng thành tích ở chương 1 (theo hiểu biết của người tổng hợp, Buffett ghi hợp danh của Munger đạt lãi kép khoảng 19,8% mỗi năm trong 1962–1975 so với khoảng 5% của chỉ số Dow Jones, với hai năm 1973 và 1974 lỗ khoảng 31–32% mỗi năm; xem [chương 1, phần chân dung](C01a-chan-dung-charles-t-munger.md)); "Talk Five and page 320" là bài 5 (trang 320 nằm ở phần cuối bài 5); "Talk Nine (page 400)" là bài 9 *Academic Economics*, nơi kể chuyện Max Planck và người tài xế ([Bài 9](C04-B09-kinh-te-hoc-han-lam.md)); "Talk Eleven" là bài về 25 nguyên nhân phán đoán sai; "Appendix" là danh sách sách nên đọc ([Phụ lục](PL-phu-luc-sach-nen-doc-va-bai-viet.md)).
-> - **Lỗi OCR ảnh hưởng tới nghĩa đã được sửa theo ảnh trang:** "faro-track analysis" là *two-track analysis* (phân tích hai lớp); "interests incoleed" là *interests involved*; "Thomas Warson Sr." là Thomas Watson Sr. (người sáng lập IBM); "Mr. Marker" là Mr. Market; "Dar@in's Blind Spot" là *Darwin's Blind Spot*; "Buffent", "sureive" là Buffett, survive; "intrinsie calue" là intrinsic value; "Consisent with his Midwesse rots" là *Consistent with his Midwestern roots*; "S12 million" là 12 triệu USD; "Descipline" là Discipline; "minutiac" là minutiae. Hộp khung ở trang in 69 bị OCR thành chữ vụn; ảnh trang cho thấy đó là bức thêu tiêu đề "Munger's Three Great Lessons of Investing" với cùng một câu lặp lại ba lần (một cách nói đùa). Trang in 57 là trang ảnh đồ thị toạ độ; các ký tự "ORIGIN", "X AXIS", "P(5,2)" chỉ là hình trang trí.
-> - **Câu bị bỏ dở trong bản in:** đoạn cuối trang in 56 kết thúc bằng "By applying this framework," rồi chuyển sang hai trang hộp; trang in 59 bắt đầu một câu mới, nên mệnh đề này không có phần sau. Bản tổng hợp ghi rõ chỗ bỏ dở, không tự điền.
-> - **Chỗ sách có thể sai hoặc cần dè dặt (theo hiểu biết của người tổng hợp, không tra cứu thêm):**
->   - Câu "lãi kép là kỳ quan thứ tám của thế giới" được gán cho Einstein trong danh sách kiểm tra; giới nghiên cứu cho rằng không có bằng chứng Einstein nói câu này.
->   - Hộp "Price is What You Pay, Value is What You Get" ghi Alaska được mua với khoảng 2,5 cent mỗi mẫu Anh và giá 7,2 triệu USD tương đương 1,67 tỷ USD năm 2006. Chia 7,2 triệu USD cho khoảng 375 triệu mẫu Anh của Alaska ra gần 2 cent mỗi mẫu; và điều chỉnh theo chỉ số giá tiêu dùng chỉ ra khoảng hơn 100 triệu USD năm 2006. Con số 1,67 tỷ có lẽ dùng một cách quy đổi khác (ví dụ theo tỷ lệ so với quy mô nền kinh tế). Con số Louisiana (15 triệu USD, khoảng 2,9 cent mỗi mẫu) gần với cách tính thường gặp.
->   - Hộp "Competitive Destruction" nói trong năm mươi cổ phiếu quan trọng nhất năm 1911 chỉ General Electric còn là công ty lớn độc lập. Sau khi sách in, GE gặp khủng hoảng, bị loại khỏi chỉ số Dow Jones năm 2018 và tách thành ba công ty trong 2023–2024, điều này càng củng cố chính luận điểm của hộp.
->   - Hai câu dưới chân dung ở trang in 80 không ghi tên người nói. Câu "Ability will get you to the top, but it takes character to keep you there" đặt dưới chân dung Abraham Lincoln nhưng thường được gán cho huấn luyện viên John Wooden; câu "Trickery and treachery are the practices of fools..." đặt dưới chân dung Benjamin Franklin và đúng là của Franklin (trong *Poor Richard's Almanack*).
->   - Câu Jesse Livermore được dẫn ("tiền lớn không nằm ở việc mua bán mà ở việc chờ đợi") là cách nói lại ý trong *Reminiscences of a Stock Operator*, không phải nguyên văn.
->   - Chuyện Max Planck và người tài xế được chính sách gọi là chuyện truyền miệng không có thật (*apocryphal*).
+Kaufman muốn người đọc hiểu rằng **thành tích đầu tư của Munger không đến từ một công thức bí mật, mà là sản phẩm phụ của một cách sống và cách nghĩ được tổ chức kỹ**.
+
+Tự học suốt đời để nắm "những ý lớn của các ngành lớn" (khoảng một trăm mô hình tư duy từ lịch sử, tâm lý học, toán, kỹ thuật, sinh học, vật lý, hoá học, thống kê, kinh tế học...), xếp chúng thành một **mạng lưới mô hình tư duy** (*latticework of mental models*) để nhìn một doanh nghiệp như một phần của cả "hệ sinh thái" quanh nó.
+
+Trước hết loại nhanh những việc không nên làm (**tư duy đảo ngược**: "tôi chỉ muốn biết mình sẽ chết ở đâu để không bao giờ tới đó").
+
+Chỉ xét những doanh nghiệp đơn giản, dễ hiểu, nằm trong **vòng tròn năng lực** (ba giỏ: có, không, quá khó hiểu). Phân tích cả các yếu tố lý trí lẫn các yếu tố tâm lý vô thức.
+
+Tìm doanh nghiệp có **con hào kinh tế** rộng chống lại sức "phá huỷ cạnh tranh". So giá trị nhận được với giá phải trả ("một doanh nghiệp tuyệt vời ở giá hợp lý tốt hơn một doanh nghiệp tầm thường ở giá tuyệt vời").
+
+Rồi **kiên nhẫn cực độ** chờ cơ hội hiếm và **quyết đoán cực độ** đặt cược lớn khi xác suất nghiêng hẳn về mình, giữ rất lâu.
+
+Ví dụ trung tâm là cách Munger chỉ giữ khoảng ba cổ phiếu, ngồi hàng năm với 10–12 triệu USD trái phiếu chờ đợi, và hình ảnh tấm thẻ chỉ có hai mươi lỗ đục cho cả đời đầu tư.
+
+Chương khép lại bằng bốn phẩm chất nền tảng mà Kaufman gọi là triết lý sống của Munger: **chuẩn bị, kỷ luật, kiên nhẫn, quyết đoán**, cùng phần về sự trung thực ("trung thực là chính sách tốt nhất") và một câu đố Munger từng bỏ ngỏ về đấu giá kín.
 
 ## Sơ đồ
 
@@ -1178,13 +1176,37 @@
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Munger học và suy nghĩ theo cách nào khiến Buffett nói ông "thấy điểm yếu thật của một thương vụ trong sáu mươi giây"?** Munger phần lớn tự học, như người hùng của ông là Benjamin Franklin, và chưa từng học khoá nào về hoá học, kinh tế học, tâm lý học hay kinh doanh. Ông tự xây một **mạng lưới mô hình tư duy**: khoảng một trăm "ý lớn từ các ngành lớn" (lãi kép trong toán, hệ thống dự phòng trong kỹ thuật, điểm gãy và khối lượng tới hạn trong vật lý, hoá học, tiến hoá Darwin trong sinh học, các nguyên nhân phán đoán sai trong tâm lý học...), học tới mức thành thạo và dùng tất cả cùng lúc, thay vì như "người cầm búa" chỉ biết một mô hình rồi thấy mọi vấn đề là cái đinh. Ông coi doanh nghiệp là một phần của một hệ sinh thái, nơi mọi thứ tác động lẫn nhau, nên tìm cả hiệu ứng bậc hai và những lúc nhiều lực cùng hướng tạo ra **hiệu ứng Lollapalooza**. Ông nghĩ trước về điều cần tránh (**tư duy đảo ngược**), phân tích hai lớp (lý trí rồi tâm lý vô thức), sẵn lòng phá bỏ những ý tưởng mình yêu thích nhất, và kiên trì học suốt đời vì "người không thích quá trình học sẽ không tiếp tục học". Sự nhanh nhạy mà Buffett thấy là kết quả của cả đời làm như vậy: sự đơn giản đến ở cuối hành trình, không ở đầu.
-2. **Munger đánh giá một khoản đầu tư qua những bước nào?** Bước đầu là lưới lọc thô: chỉ giữ doanh nghiệp đơn giản, dễ hiểu, nằm trong vòng tròn năng lực, xếp vào ba giỏ "có, không, quá khó hiểu" (dược phẩm, công nghệ thường vào giỏ quá khó; các thương vụ quảng bá rầm rộ và IPO vào giỏ không). Bước hai là phân tích sâu bằng các mô hình tư duy: tính lại số liệu kế toán theo thực tế (tiền của chủ sở hữu, lợi thế thương mại bị thổi phồng, quyền chọn cổ phiếu, quỹ hưu trí, quỹ thả nổi bảo hiểm), xét môi trường pháp lý, quan hệ với lao động, nhà cung cấp, khách hàng, công nghệ, sức mạnh định giá, rủi ro ẩn, đánh giá ban lãnh đạo có "giỏi, đáng tin, hướng về chủ sở hữu" không, và nhất là độ rộng, độ bền của **con hào kinh tế** trước các lực phá huỷ cạnh tranh. Bước ba là tính giá trị nội tại mỗi cổ phiếu và so với giá: "một doanh nghiệp tuyệt vời ở giá hợp lý tốt hơn một doanh nghiệp hợp lý ở giá tuyệt vời". Bước bốn là danh sách kiểm tra "trước khi bóp cò" về giá, khối lượng giao dịch, thời điểm công bố, chiến lược thoát, cách dùng vốn tốt hơn, nguồn tiền và chi phí cơ hội. Khi mọi thứ đều đúng, ông đặt cược lớn và giữ lâu; còn phần lớn thời gian ông ngồi chờ.
-3. **Những nguyên tắc nào tóm được cách đầu tư và cách sống của Munger?** Người biên tập tóm bằng một danh sách kiểm tra mười nguyên tắc, không xếp thứ tự ưu tiên và phải dùng như một tổng thể: (1) rủi ro, bắt đầu mọi đánh giá bằng đo rủi ro, nhất là rủi ro danh tiếng, có biên an toàn, tránh mất vốn vĩnh viễn; (2) độc lập, không theo bầy đàn; (3) chuẩn bị, tự học suốt đời, hỏi "vì sao"; (4) khiêm tốn trí tuệ, ở trong vòng tròn năng lực, không tự lừa mình; (5) phân tích nghiêm ngặt, tách giá trị khỏi giá, làm nhà phân tích doanh nghiệp, đảo ngược; (6) phân bổ vốn, đo bằng chi phí cơ hội, cược nặng khi xác suất có lợi; (7) kiên nhẫn, không ngắt lãi kép, không hành động chỉ để hành động; (8) quyết đoán, sợ khi người khác tham và tham khi người khác sợ; (9) thay đổi, thích nghi với thế giới thật, sửa ý tưởng yêu thích; (10) tập trung, giữ đơn giản, coi danh tiếng và chính trực là tài sản quý nhất. Gốc của tất cả là bốn phẩm chất **chuẩn bị, kỷ luật, kiên nhẫn, quyết đoán**, cộng với sự trung thực mà Munger coi là "chính sách tốt nhất" vì nó vừa đúng vừa sinh lời.
+1. **Munger học và suy nghĩ theo cách nào khiến Buffett nói ông "thấy điểm yếu thật của một thương vụ trong sáu mươi giây"?** Munger phần lớn tự học, như người hùng của ông là Benjamin Franklin, và chưa từng học khoá nào về hoá học, kinh tế học, tâm lý học hay kinh doanh. Ông tự xây một **mạng lưới mô hình tư duy**: khoảng một trăm "ý lớn từ các ngành lớn" (lãi kép trong toán, hệ thống dự phòng trong kỹ thuật, điểm gãy và khối lượng tới hạn trong vật lý, hoá học, tiến hoá Darwin trong sinh học, các nguyên nhân phán đoán sai trong tâm lý học...), học tới mức thành thạo và dùng tất cả cùng lúc, thay vì như "người cầm búa" chỉ biết một mô hình rồi thấy mọi vấn đề là cái đinh.
+
+   Ông coi doanh nghiệp là một phần của một hệ sinh thái, nơi mọi thứ tác động lẫn nhau, nên tìm cả hiệu ứng bậc hai và những lúc nhiều lực cùng hướng tạo ra **hiệu ứng Lollapalooza**. Ông nghĩ trước về điều cần tránh (**tư duy đảo ngược**), phân tích hai lớp (lý trí rồi tâm lý vô thức), sẵn lòng phá bỏ những ý tưởng mình yêu thích nhất, và kiên trì học suốt đời vì "người không thích quá trình học sẽ không tiếp tục học".
+
+   Sự nhanh nhạy mà Buffett thấy là kết quả của cả đời làm như vậy: sự đơn giản đến ở cuối hành trình, không ở đầu.
+
+2. **Munger đánh giá một khoản đầu tư qua những bước nào?** Bước đầu là lưới lọc thô: chỉ giữ doanh nghiệp đơn giản, dễ hiểu, nằm trong vòng tròn năng lực, xếp vào ba giỏ "có, không, quá khó hiểu" (dược phẩm, công nghệ thường vào giỏ quá khó; các thương vụ quảng bá rầm rộ và IPO vào giỏ không).
+
+   Bước hai là phân tích sâu bằng các mô hình tư duy: tính lại số liệu kế toán theo thực tế (tiền của chủ sở hữu, lợi thế thương mại bị thổi phồng, quyền chọn cổ phiếu, quỹ hưu trí, quỹ thả nổi bảo hiểm), xét môi trường pháp lý, quan hệ với lao động, nhà cung cấp, khách hàng, công nghệ, sức mạnh định giá, rủi ro ẩn, đánh giá ban lãnh đạo có "giỏi, đáng tin, hướng về chủ sở hữu" không, và nhất là độ rộng, độ bền của **con hào kinh tế** trước các lực phá huỷ cạnh tranh.
+
+   Bước ba là tính giá trị nội tại mỗi cổ phiếu và so với giá: "một doanh nghiệp tuyệt vời ở giá hợp lý tốt hơn một doanh nghiệp hợp lý ở giá tuyệt vời". Bước bốn là danh sách kiểm tra "trước khi bóp cò" về giá, khối lượng giao dịch, thời điểm công bố, chiến lược thoát, cách dùng vốn tốt hơn, nguồn tiền và chi phí cơ hội. Khi mọi thứ đều đúng, ông đặt cược lớn và giữ lâu; còn phần lớn thời gian ông ngồi chờ.
+
+3. **Những nguyên tắc nào tóm được cách đầu tư và cách sống của Munger?** Người biên tập tóm bằng một danh sách kiểm tra mười nguyên tắc, không xếp thứ tự ưu tiên và phải dùng như một tổng thể:
+   - (1) rủi ro, bắt đầu mọi đánh giá bằng đo rủi ro, nhất là rủi ro danh tiếng, có biên an toàn, tránh mất vốn vĩnh viễn;
+   - (2) độc lập, không theo bầy đàn;
+   - (3) chuẩn bị, tự học suốt đời, hỏi "vì sao";
+   - (4) khiêm tốn trí tuệ, ở trong vòng tròn năng lực, không tự lừa mình;
+   - (5) phân tích nghiêm ngặt, tách giá trị khỏi giá, làm nhà phân tích doanh nghiệp, đảo ngược;
+   - (6) phân bổ vốn, đo bằng chi phí cơ hội, cược nặng khi xác suất có lợi;
+   - (7) kiên nhẫn, không ngắt lãi kép, không hành động chỉ để hành động;
+   - (8) quyết đoán, sợ khi người khác tham và tham khi người khác sợ;
+   - (9) thay đổi, thích nghi với thế giới thật, sửa ý tưởng yêu thích;
+   - (10) tập trung, giữ đơn giản, coi danh tiếng và chính trực là tài sản quý nhất.
+
+   Gốc của tất cả là bốn phẩm chất **chuẩn bị, kỷ luật, kiên nhẫn, quyết đoán**, cộng với sự trung thực mà Munger coi là "chính sách tốt nhất" vì nó vừa đúng vừa sinh lời.
 
 ## Khái niệm cần biết
 
-**Mô hình tư duy và mạng lưới mô hình tư duy (mental model; latticework of mental models).** Một mô hình tư duy là một ý lớn, đã được kiểm nghiệm, của một ngành học (ví dụ lãi kép, cung cầu, chọn lọc tự nhiên, khuynh hướng tâm lý) dùng làm khung để hiểu tình huống. Mạng lưới mô hình tư duy là khoảng một trăm mô hình như thế, từ nhiều ngành, được học thành thạo và đan vào nhau trong đầu để soi một vấn đề từ nhiều phía cùng lúc. Ví dụ trong sách: các mô hình Munger coi là đặc biệt quan trọng gồm hệ thống dự phòng (kỹ thuật), lãi kép (toán), điểm gãy và tự xúc tác (vật lý, hoá học), tổng hợp Darwin hiện đại (sinh học) và phán đoán sai do nhận thức (tâm lý học). Quan trọng vì đây là "phương pháp" của cả chương: mọi bước đánh giá đầu tư sau đó đều là áp các mô hình này.
+**Mô hình tư duy và mạng lưới mô hình tư duy (mental model; latticework of mental models).** Một mô hình tư duy là một ý lớn, đã được kiểm nghiệm, của một ngành học (ví dụ lãi kép, cung cầu, chọn lọc tự nhiên, khuynh hướng tâm lý) dùng làm khung để hiểu tình huống. Mạng lưới mô hình tư duy là khoảng một trăm mô hình như thế, từ nhiều ngành, được học thành thạo và đan vào nhau trong đầu để soi một vấn đề từ nhiều phía cùng lúc.
+
+Ví dụ trong sách: các mô hình Munger coi là đặc biệt quan trọng gồm hệ thống dự phòng (kỹ thuật), lãi kép (toán), điểm gãy và tự xúc tác (vật lý, hoá học), tổng hợp Darwin hiện đại (sinh học) và phán đoán sai do nhận thức (tâm lý học). Quan trọng vì đây là "phương pháp" của cả chương: mọi bước đánh giá đầu tư sau đó đều là áp các mô hình này.
 
 **Hội chứng người cầm búa (man with a hammer syndrome).** Thói quen dùng một mô hình duy nhất mình được đào tạo (ví dụ kinh tế học) để giải mọi vấn đề, theo câu "với người cầm búa, thế giới trông như cái đinh". Ví dụ trong sách: Munger nói khi ông và Buffett ra trường, các giáo sư chưa từng nhắc tới những khuôn mẫu phi lý cực đoan trong kinh doanh, vì mỗi người lạm dụng mô hình của ngành mình. Quan trọng vì nó là lý do Munger đòi phải biết "tất cả, không chỉ vài cái" ý lớn.
 
@@ -1234,15 +1256,21 @@
 
 ### 1. Trang đề từ và phần mở đầu chương (trang in 52–54)
 
-Trước khi vào chương, sách đặt một trang đề từ là lời Munger. Ông nói kinh nghiệm của Berkshire có xu hướng xác nhận một ý đã có từ lâu: nếu một người, vài lần trong đời, đã chuẩn bị sẵn để hành động nhanh và với quy mô lớn khi làm một việc đơn giản và hợp lý, thì kết quả tài chính của cả đời người đó thường tốt lên rất nhiều. Vài cơ hội lớn, nhận ra được rõ ràng là cơ hội, thường sẽ tới với người liên tục tìm kiếm và chờ đợi, với một đầu óc tò mò thích chẩn đoán những vấn đề có nhiều biến số. Khi đó, điều duy nhất còn cần là sẵn lòng đặt cược thật lớn lúc xác suất cực kỳ có lợi, bằng những nguồn lực có được nhờ sự thận trọng và kiên nhẫn trong quá khứ. Đoạn đề từ này tóm trước gần như toàn bộ chương: chuẩn bị, tìm kiếm, chờ đợi, rồi đặt cược lớn.
+Trước khi vào chương, sách đặt một trang đề từ là lời Munger. Ông nói kinh nghiệm của Berkshire có xu hướng xác nhận một ý đã có từ lâu: nếu một người, vài lần trong đời, đã chuẩn bị sẵn để hành động nhanh và với quy mô lớn khi làm một việc đơn giản và hợp lý, thì kết quả tài chính của cả đời người đó thường tốt lên rất nhiều.
+
+Vài cơ hội lớn, nhận ra được rõ ràng là cơ hội, thường sẽ tới với người liên tục tìm kiếm và chờ đợi, với một đầu óc tò mò thích chẩn đoán những vấn đề có nhiều biến số. Khi đó, điều duy nhất còn cần là sẵn lòng đặt cược thật lớn lúc xác suất cực kỳ có lợi, bằng những nguồn lực có được nhờ sự thận trọng và kiên nhẫn trong quá khứ. Đoạn đề từ này tóm trước gần như toàn bộ chương: chuẩn bị, tìm kiếm, chờ đợi, rồi đặt cược lớn.
 
 Đề từ của chính chương là một câu ngắn của Munger: hãy lấy một ý đơn giản và nghiêm túc với nó.
 
-Kaufman mở đầu bằng Benjamin Franklin. Dù phần lớn tự học, Franklin thành công rực rỡ ở rất nhiều lĩnh vực khác nhau: báo chí, xuất bản, in ấn, từ thiện, công vụ, khoa học, ngoại giao và phát minh. Phần lớn thành công đó đến từ bản tính của ông: trước hết là sự ham làm việc, rồi sự tò mò không bao giờ thoả và tính điềm tĩnh kiên nhẫn; trên hết là một đầu óc nhanh và sẵn lòng học, giúp ông dễ dàng làm chủ mỗi lĩnh vực mới mà ông chọn theo đuổi. Không lạ gì khi Munger coi Franklin là người hùng lớn nhất của mình, vì Munger cũng phần lớn tự học và có chung nhiều nét đặc biệt của Franklin. Như Franklin, Munger đã tự rèn mình thành bậc thầy về chuẩn bị, kiên nhẫn, kỷ luật và khách quan, rồi biến các phẩm chất đó thành thành công lớn trong đời sống riêng lẫn kinh doanh, nhất là trong đầu tư.
+Kaufman mở đầu bằng Benjamin Franklin. Dù phần lớn tự học, Franklin thành công rực rỡ ở rất nhiều lĩnh vực khác nhau: báo chí, xuất bản, in ấn, từ thiện, công vụ, khoa học, ngoại giao và phát minh. Phần lớn thành công đó đến từ bản tính của ông: trước hết là sự ham làm việc, rồi sự tò mò không bao giờ thoả và tính điềm tĩnh kiên nhẫn; trên hết là một đầu óc nhanh và sẵn lòng học, giúp ông dễ dàng làm chủ mỗi lĩnh vực mới mà ông chọn theo đuổi.
+
+Không lạ gì khi Munger coi Franklin là người hùng lớn nhất của mình, vì Munger cũng phần lớn tự học và có chung nhiều nét đặc biệt của Franklin. Như Franklin, Munger đã tự rèn mình thành bậc thầy về chuẩn bị, kiên nhẫn, kỷ luật và khách quan, rồi biến các phẩm chất đó thành thành công lớn trong đời sống riêng lẫn kinh doanh, nhất là trong đầu tư.
 
 Với Munger, Kaufman viết, đầu tư thành công chỉ là sản phẩm phụ của một cách sống được tổ chức kỹ và tập trung. Buffett từng nói Charlie phân tích và đánh giá mọi loại thương vụ nhanh hơn và chính xác hơn bất kỳ ai còn sống; ông thấy mọi điểm yếu thật của thương vụ trong sáu mươi giây; ông là người cộng sự hoàn hảo. Vì sao Buffett khen như vậy? Câu trả lời nằm ở cách tiếp cận rất độc đáo mà Munger dùng cho cuộc sống, học tập và ra quyết định, cũng là chủ đề chính của bản tổng quan này.
 
-Người biên tập dặn trước: vì cách tiếp cận của Munger rất phức tạp, phần sau không nhằm làm một bài hướng dẫn "làm thế nào" cho người muốn trở thành nhà đầu tư. Nó chỉ là một bản tổng quan chung về việc "ông có vẻ làm thế nào". Mục tiêu là trình bày khung cơ bản của cách tiếp cận để chuẩn bị cho người đọc trước khối chi tiết đồ sộ ở phần còn lại của cuốn sách. Ai muốn đi ngay vào cốt lõi thì chương "Mungerisms: Charlie Unscripted" (chương 3) và "Eleven Talks" (chương 4), được in nguyên văn bằng lời Munger, là nguồn tốt nhất cho lời khuyên cụ thể về rất nhiều chủ đề. Ở chương này, người biên tập chỉ trình bày các quá trình suy nghĩ chung mà Munger dùng khi xem xét một khoản đầu tư, rồi phác các nguyên tắc đầu tư dẫn đường của ông.
+Người biên tập dặn trước: vì cách tiếp cận của Munger rất phức tạp, phần sau không nhằm làm một bài hướng dẫn "làm thế nào" cho người muốn trở thành nhà đầu tư. Nó chỉ là một bản tổng quan chung về việc "ông có vẻ làm thế nào". Mục tiêu là trình bày khung cơ bản của cách tiếp cận để chuẩn bị cho người đọc trước khối chi tiết đồ sộ ở phần còn lại của cuốn sách.
+
+Ai muốn đi ngay vào cốt lõi thì chương "Mungerisms: Charlie Unscripted" (chương 3) và "Eleven Talks" (chương 4), được in nguyên văn bằng lời Munger, là nguồn tốt nhất cho lời khuyên cụ thể về rất nhiều chủ đề. Ở chương này, người biên tập chỉ trình bày các quá trình suy nghĩ chung mà Munger dùng khi xem xét một khoản đầu tư, rồi phác các nguyên tắc đầu tư dẫn đường của ông.
 
 ### 2. Hộp bên lề của người biên tập "Business as an Ecosystem" (trang in 54)
 
@@ -1258,7 +1286,9 @@ Trong kinh doanh, Munger nói, người ta thường thấy hệ thống thắng
 
 Mục mở bằng lời Munger: phải biết những ý lớn trong các ngành học lớn và dùng chúng thường xuyên, tất cả chứ không chỉ vài cái. Phần lớn người ta được đào tạo một mô hình, ví dụ kinh tế học, rồi cố giải mọi vấn đề theo một cách. Câu nói cũ "với người cầm búa, thế giới trông như cái đinh" mô tả đúng điều đó, và Munger gọi đây là cách xử lý vấn đề ngu ngốc. Đây là gốc của khái niệm **hội chứng người cầm búa** (*man with a hammer syndrome*).
 
-Kaufman viết rằng cách đầu tư của Munger khác hẳn các hệ thống thô sơ hơn mà phần lớn nhà đầu tư dùng. Thay vì đánh giá hời hợt và tách riêng thông tin tài chính của một công ty, Munger phân tích toàn diện cả bộ máy bên trong của ứng viên đầu tư lẫn "hệ sinh thái" lớn hơn, liên kết với nhau, mà công ty hoạt động trong đó. Ông gọi các công cụ dùng cho việc này là **"nhiều mô hình tư duy"** (*Multiple Mental Models*). Các mô hình này, được bàn kỹ ở nhiều bài nói, nhất là bài 2, 3 và 4, là một khung để thu thập, xử lý và hành động theo thông tin. Chúng mượn và khâu gọn các công cụ phân tích, phương pháp và công thức của những ngành truyền thống như lịch sử, tâm lý học, sinh lý học, toán học, kỹ thuật, sinh học, vật lý, hoá học, thống kê, kinh tế học và nhiều ngành khác.
+Kaufman viết rằng cách đầu tư của Munger khác hẳn các hệ thống thô sơ hơn mà phần lớn nhà đầu tư dùng. Thay vì đánh giá hời hợt và tách riêng thông tin tài chính của một công ty, Munger phân tích toàn diện cả bộ máy bên trong của ứng viên đầu tư lẫn "hệ sinh thái" lớn hơn, liên kết với nhau, mà công ty hoạt động trong đó.
+
+Ông gọi các công cụ dùng cho việc này là **"nhiều mô hình tư duy"** (*Multiple Mental Models*). Các mô hình này, được bàn kỹ ở nhiều bài nói, nhất là bài 2, 3 và 4, là một khung để thu thập, xử lý và hành động theo thông tin. Chúng mượn và khâu gọn các công cụ phân tích, phương pháp và công thức của những ngành truyền thống như lịch sử, tâm lý học, sinh lý học, toán học, kỹ thuật, sinh học, vật lý, hoá học, thống kê, kinh tế học và nhiều ngành khác.
 
 Lô-gic không bác bỏ được của cách phân tích "hệ sinh thái", theo Kaufman, là thế này: vì hầu như mọi hệ thống đều được nhiều yếu tố định hình, nên cần nhiều mô hình từ nhiều ngành, được dùng thành thạo, mới hiểu được hệ thống đó. Như John Muir nhận xét về sự liên kết của tự nhiên, khi nhặt riêng một thứ ra, ta thấy nó bị buộc vào mọi thứ khác trong vũ trụ.
 
@@ -1282,7 +1312,9 @@ Kết quả của cách phân tích phổ rộng này là hiểu sâu hơn việ
 
 Hộp **"A Latticework of Mental Models"** (Mạng lưới mô hình tư duy) có đề từ của sử gia pháp luật người Anh Frederick Maitland: sự đơn giản là kết quả cuối cùng của công việc lâu dài, vất vả, không phải điểm xuất phát. Munger nói từ lâu ông tin rằng có một hệ thống, mà hầu như bất kỳ người thông minh nào cũng học được, hiệu quả hơn hẳn các hệ thống mà phần lớn người ta dùng. Điều cần có là một mạng lưới mô hình tư duy trong đầu; với hệ thống đó, mọi thứ dần khớp vào nhau theo cách làm nhận thức tốt lên. Tuy vậy, ông nói, cách của ông hiếm khi thấm được vào người khác, kể cả những người có năng lực rất lớn; ý tưởng thường chết sau khi bị xếp vào đống "Quá khó" (*Too-Hard pile*).
 
-Hộp **"A Willingness to Change His Mind"** (Sẵn lòng đổi ý) có đề từ của nhà kinh tế John Kenneth Galbraith: khi phải chọn giữa đổi ý và chứng minh rằng không cần đổi, hầu như ai cũng lao vào chứng minh. Người biên tập viết Munger có thêm một phẩm chất khác thường: sẵn lòng, thậm chí háo hức, nhận ra và thừa nhận sai lầm của chính mình để học từ đó. Munger từng nói nếu Berkshire có được một chút tiến bộ khiêm tốn, thì phần lớn là vì Warren và ông rất giỏi phá bỏ những ý tưởng mình yêu thích nhất; năm nào không phá bỏ được một ý tưởng yêu thích nhất của mình thì có lẽ là một năm phí hoài. Munger thích ví ý tưởng và cách làm như những "công cụ": khi có một công cụ (ý tưởng hay cách làm) tốt hơn, còn gì hay hơn là đổi nó lấy công cụ cũ kém hữu ích hơn? Warren và ông làm vậy thường xuyên, còn phần lớn người ta, như Galbraith nói, bám mãi vào công cụ cũ.
+Hộp **"A Willingness to Change His Mind"** (Sẵn lòng đổi ý) có đề từ của nhà kinh tế John Kenneth Galbraith: khi phải chọn giữa đổi ý và chứng minh rằng không cần đổi, hầu như ai cũng lao vào chứng minh. Người biên tập viết Munger có thêm một phẩm chất khác thường: sẵn lòng, thậm chí háo hức, nhận ra và thừa nhận sai lầm của chính mình để học từ đó.
+
+Munger từng nói nếu Berkshire có được một chút tiến bộ khiêm tốn, thì phần lớn là vì Warren và ông rất giỏi phá bỏ những ý tưởng mình yêu thích nhất; năm nào không phá bỏ được một ý tưởng yêu thích nhất của mình thì có lẽ là một năm phí hoài. Munger thích ví ý tưởng và cách làm như những "công cụ": khi có một công cụ (ý tưởng hay cách làm) tốt hơn, còn gì hay hơn là đổi nó lấy công cụ cũ kém hữu ích hơn? Warren và ông làm vậy thường xuyên, còn phần lớn người ta, như Galbraith nói, bám mãi vào công cụ cũ.
 
 Chú thích một ảnh trong mục: Thomas Alva Edison (1847–1931), nổi tiếng vì sẵn lòng đổi ý, đã tìm ra "10.000 cách không thành công" trên con đường cuối cùng làm được bóng đèn sợi đốt.
 
@@ -1296,7 +1328,9 @@ Munger nói tiếp: thường gặp hơn là các lực đến từ một trăm 
 
 ### 6. Trang hộp của người biên tập "Multiple Mental Models" (trang in 58): "I'll Do It Myself" và "Wisdom Reaffirmed"
 
-Hộp **"I'll Do It Myself"** (Tôi sẽ tự làm) là lời Munger. Khi ông và người bạn Buffett rời các trường sau đại học của mình, họ thấy trong giới kinh doanh những khuôn mẫu phi lý cực đoan, hiển nhiên, đoán trước được, ở quy mô rất lớn. Sự phi lý này cực kỳ quan trọng đối với việc họ đang cố làm, vậy mà các giáo sư của họ chưa từng nhắc tới. Giải pháp của họ là điều học được từ rất nhỏ, ở lớp mẫu giáo: "Thế thì tôi sẽ tự làm," cô Gà Mái Đỏ nói (truyện thiếu nhi *The Little Red Hen*, kể con gà mái hỏi mọi con vật ai giúp trồng lúa, không ai giúp, nên nó tự làm). Munger kết luận: nếu giáo sư không cho bạn một cách tiếp cận đa ngành phù hợp, nếu mỗi người muốn dùng quá mức mô hình của ngành mình và dùng quá ít các mô hình quan trọng của ngành khác, thì bạn có thể tự sửa cái dại đó.
+Hộp **"I'll Do It Myself"** (Tôi sẽ tự làm) là lời Munger. Khi ông và người bạn Buffett rời các trường sau đại học của mình, họ thấy trong giới kinh doanh những khuôn mẫu phi lý cực đoan, hiển nhiên, đoán trước được, ở quy mô rất lớn. Sự phi lý này cực kỳ quan trọng đối với việc họ đang cố làm, vậy mà các giáo sư của họ chưa từng nhắc tới.
+
+Giải pháp của họ là điều học được từ rất nhỏ, ở lớp mẫu giáo: "Thế thì tôi sẽ tự làm," cô Gà Mái Đỏ nói (truyện thiếu nhi *The Little Red Hen*, kể con gà mái hỏi mọi con vật ai giúp trồng lúa, không ai giúp, nên nó tự làm). Munger kết luận: nếu giáo sư không cho bạn một cách tiếp cận đa ngành phù hợp, nếu mỗi người muốn dùng quá mức mô hình của ngành mình và dùng quá ít các mô hình quan trọng của ngành khác, thì bạn có thể tự sửa cái dại đó.
 
 Hộp **"Wisdom Reaffirmed"** (Trí tuệ được khẳng định lại) nói Munger và Buffett không phải những nhà đầu tư hàng đầu duy nhất dùng mô hình ngoài kinh doanh để thành công xuất sắc. Chuyên gia trái phiếu huyền thoại Bill Gross của PIMCO từng nói với sinh viên Trường Kinh doanh Anderson thuộc UCLA: cuốn sách nằm trên bàn trong thư viện của ông không phải *Beating the Street* của Peter Lynch hay sách của chính ông, mà là vài cuốn của sử gia Paul Johnson về sự hình thành thế kỷ 19 và thế kỷ 20. Gross nói không có người thầy nào tốt hơn lịch sử trong việc xác định tương lai, và có những câu trả lời đáng giá hàng tỷ đô la trong một cuốn sách sử giá 30 đô la.
 
@@ -1310,11 +1344,15 @@ Cách đánh giá đầu tư "những ý lớn từ các ngành lớn" (*Big Ide
 
 Chính cách tiếp cận đặc trưng này, cộng với trí tuệ, khí chất đáng nể và hàng chục năm kinh nghiệm phù hợp, đã biến Munger thành bậc thầy nhận dạng khuôn mẫu kinh doanh mà Buffett rất quý. Như một kiện tướng cờ vua, bằng lô-gic, bản năng và trực giác, ông xác định những "nước đi" đầu tư hứa hẹn nhất, trong khi tạo ấn tượng rằng hiểu biết đó tới dễ dàng, thậm chí đơn giản. Nhưng Kaufman nhấn mạnh: sự "đơn giản" này chỉ tới ở cuối một hành trình dài đi tới hiểu biết, không ở lúc bắt đầu. Sự rõ ràng của ông có được bằng công sức: đó là sản phẩm của cả đời nghiên cứu các khuôn mẫu hành vi con người, các hệ thống kinh doanh và vô số ngành khoa học khác.
 
-Munger tính chuẩn bị, kiên nhẫn, kỷ luật và khách quan vào số những nguyên tắc dẫn đường cơ bản nhất của mình. Ông không lệch khỏi chúng, bất kể động lực của nhóm, những cơn ngứa cảm xúc hay sự khôn ngoan phổ biến rằng "lần này khác". Khi được giữ trung thành, các nét này dẫn tới một trong những đặc điểm nổi tiếng nhất của Munger: không mua hay bán thường xuyên. Như Buffett, Munger tin rằng một sự nghiệp đầu tư thành công rốt cuộc chỉ gồm một nhúm quyết định. Vì vậy khi thích một doanh nghiệp, ông đặt cược rất lớn và thường giữ vị thế rất lâu. Người biên tập dẫn lại phân tích của Buffett về hợp danh đầu tư ban đầu của Munger giai đoạn 1962–1975 ở chương 1; theo hiểu biết của người tổng hợp, bảng đó cho thấy hợp danh đạt lãi kép khoảng 19,8% mỗi năm so với khoảng 5% của chỉ số Dow Jones, nhưng có hai năm 1973 và 1974 lỗ khoảng 31–32% mỗi năm, tức danh mục rất tập trung và biến động mạnh.
+Munger tính chuẩn bị, kiên nhẫn, kỷ luật và khách quan vào số những nguyên tắc dẫn đường cơ bản nhất của mình. Ông không lệch khỏi chúng, bất kể động lực của nhóm, những cơn ngứa cảm xúc hay sự khôn ngoan phổ biến rằng "lần này khác". Khi được giữ trung thành, các nét này dẫn tới một trong những đặc điểm nổi tiếng nhất của Munger: không mua hay bán thường xuyên.
+
+Như Buffett, Munger tin rằng một sự nghiệp đầu tư thành công rốt cuộc chỉ gồm một nhúm quyết định. Vì vậy khi thích một doanh nghiệp, ông đặt cược rất lớn và thường giữ vị thế rất lâu. Người biên tập dẫn lại phân tích của Buffett về hợp danh đầu tư ban đầu của Munger giai đoạn 1962–1975 ở chương 1; theo hiểu biết của người tổng hợp, bảng đó cho thấy hợp danh đạt lãi kép khoảng 19,8% mỗi năm so với khoảng 5% của chỉ số Dow Jones, nhưng có hai năm 1973 và 1974 lỗ khoảng 31–32% mỗi năm, tức danh mục rất tập trung và biến động mạnh.
 
 Munger gọi cách này là "đầu tư ngồi yên" (nguyên văn thô hơn: *sit on your ass investing*) và nêu lợi ích: trả ít tiền hơn cho môi giới, nghe ít chuyện nhảm hơn, và nếu thành công thì hệ thống thuế cho thêm một, hai hay ba điểm phần trăm mỗi năm (vì thuế lãi vốn chỉ phải trả khi bán, nên giữ lâu là hoãn được thuế và để phần đó tiếp tục sinh lãi). Theo ông, một danh mục ba công ty là quá đủ đa dạng hoá. Do đó Munger sẵn lòng dồn tỷ lệ vốn đầu tư cao khác thường vào từng cơ hội "tập trung". Người biên tập thách: hãy thử tìm một công ty Phố Wall, một cố vấn tài chính hay một quản lý quỹ tương hỗ nào sẵn lòng nói câu đó!
 
-Với thành tích của Munger, chưa kể sự chứng thực của Buffett, vì sao cách đầu tư của ông không được người khác bắt chước nhiều hơn? Kaufman đoán rằng có lẽ với phần lớn người, cách tiếp cận đa ngành của Munger đơn giản là quá khó. Thêm nữa, ít nhà đầu tư có được sự sẵn lòng của Munger trong việc trông ngốc nghếch vì không đi theo "bầy đàn" (trang có ảnh minh hoạ con chuột lemming, loài vật trong truyền thuyết hay đi theo đàn nhảy xuống vực). Khách quan "như tín ngưỡng", Munger bằng lòng bình thản bơi ngược dòng dư luận, mãi mãi nếu cần, một phẩm chất hiếm ở nhà đầu tư trung bình. Và dù hành vi này đôi khi trông như bướng hoặc cố ý ngược đời, đó không phải nét định nghĩa: Munger chỉ đơn giản bằng lòng tin vào phán đoán của mình kể cả khi nó trái với sự khôn ngoan của bầy đàn. Nét "sói đơn độc" này trong khí chất của Munger là một lý do ít được nhận ra khiến ông liên tục làm tốt hơn cộng đồng đầu tư rộng lớn.
+Với thành tích của Munger, chưa kể sự chứng thực của Buffett, vì sao cách đầu tư của ông không được người khác bắt chước nhiều hơn? Kaufman đoán rằng có lẽ với phần lớn người, cách tiếp cận đa ngành của Munger đơn giản là quá khó. Thêm nữa, ít nhà đầu tư có được sự sẵn lòng của Munger trong việc trông ngốc nghếch vì không đi theo "bầy đàn" (trang có ảnh minh hoạ con chuột lemming, loài vật trong truyền thuyết hay đi theo đàn nhảy xuống vực).
+
+Khách quan "như tín ngưỡng", Munger bằng lòng bình thản bơi ngược dòng dư luận, mãi mãi nếu cần, một phẩm chất hiếm ở nhà đầu tư trung bình. Và dù hành vi này đôi khi trông như bướng hoặc cố ý ngược đời, đó không phải nét định nghĩa: Munger chỉ đơn giản bằng lòng tin vào phán đoán của mình kể cả khi nó trái với sự khôn ngoan của bầy đàn. Nét "sói đơn độc" này trong khí chất của Munger là một lý do ít được nhận ra khiến ông liên tục làm tốt hơn cộng đồng đầu tư rộng lớn.
 
 Kaufman đi xa hơn: nếu khí chất chủ yếu phát sinh từ những khuynh hướng bẩm sinh, thì có thể sự chăm chỉ, trí tuệ và kinh nghiệm, dù mạnh tới đâu, tự chúng chưa đủ để làm nên một nhà đầu tư lớn như Munger. Như người đọc sẽ thấy ở phần còn lại của sách, cũng cần có kiểu "dây nối thần kinh" đúng, được định sẵn bởi di truyền.
 
@@ -1353,11 +1391,17 @@ Thường thì, như trong trường hợp này, Munger tập trung trước ti�
 
 Nhưng trong khi theo đuổi sự hợp lý và đơn giản, ông cẩn thận tránh điều ông gọi là **"ghen tị với vật lý"** (*physics envy*): cơn thèm phổ biến của con người muốn thu những hệ thống cực kỳ phức tạp (như các hệ thống trong kinh tế) về những công thức kiểu Newton dùng chung cho mọi trường hợp. Thay vào đó, ông trung thành với lời dặn của Albert Einstein: một lý thuyết khoa học nên đơn giản nhất có thể, nhưng không đơn giản hơn. Hay theo lời chính ông: điều ông phản đối là việc rất tự tin và cảm thấy mình biết chắc rằng hành động cụ thể của mình sẽ đem lại nhiều lợi hơn hại, khi ta đang làm việc với những hệ thống cực phức tạp, trong đó mọi thứ tương tác với mọi thứ khác.
 
-Một Benjamin khác, Benjamin Graham chứ không phải Franklin, đã đóng vai trò quan trọng trong việc định hình quan điểm đầu tư của Munger. Một trong những khái niệm bền nhất trong cuốn *The Intelligent Investor* của Graham là **Ngài Thị trường** (*Mr. Market*). Thường thì Ngài Thị trường là một người điềm đạm và hợp lý, nhưng có những ngày ông ta bị nỗi sợ hay lòng tham phi lý chi phối. Graham khuyên nhà đầu tư cẩn thận dùng phán đoán giá trị riêng, không cảm xúc, thay vì dựa vào hành vi thường lúc hưng phấn lúc trầm uất của thị trường tài chính. Tương tự, Munger nhận ra rằng ngay cả trong những người giỏi nhất và có động lực nhất, quyết định không phải lúc nào cũng được đưa ra trên cơ sở thuần lý trí. Vì lý do này, ông coi các yếu tố tâm lý của phán đoán sai ở con người là một số mô hình tư duy quan trọng nhất có thể áp vào một cơ hội đầu tư.
+Một Benjamin khác, Benjamin Graham chứ không phải Franklin, đã đóng vai trò quan trọng trong việc định hình quan điểm đầu tư của Munger. Một trong những khái niệm bền nhất trong cuốn *The Intelligent Investor* của Graham là **Ngài Thị trường** (*Mr. Market*). Thường thì Ngài Thị trường là một người điềm đạm và hợp lý, nhưng có những ngày ông ta bị nỗi sợ hay lòng tham phi lý chi phối. Graham khuyên nhà đầu tư cẩn thận dùng phán đoán giá trị riêng, không cảm xúc, thay vì dựa vào hành vi thường lúc hưng phấn lúc trầm uất của thị trường tài chính.
 
-Lời Munger về **phân tích hai lớp**: cá nhân ông đã tới mức giờ dùng một kiểu phân tích hai lớp. Thứ nhất, xét theo lý trí, đâu là những yếu tố thật sự chi phối các lợi ích liên quan? Thứ hai, đâu là những ảnh hưởng tiềm thức, nơi bộ não ở tầng tiềm thức tự động rút ra kết luận theo nhiều cách khác nhau, những cách mà nhìn chung có ích nhưng thường trục trặc? Một cách là lý trí, như cách người ta giải một bài bridge: đánh giá lợi ích thật, xác suất thật, và vân vân. Cách kia là đánh giá các yếu tố tâm lý gây ra những kết luận tiềm thức, nhiều kết luận trong số đó sai. Muốn biết chi tiết, người biên tập chỉ tới bài 11, nơi Munger dùng các mô hình tư duy của tâm lý học để minh hoạ hai mươi lăm nguyên nhân phổ biến của phán đoán sai ở con người.
+Tương tự, Munger nhận ra rằng ngay cả trong những người giỏi nhất và có động lực nhất, quyết định không phải lúc nào cũng được đưa ra trên cơ sở thuần lý trí. Vì lý do này, ông coi các yếu tố tâm lý của phán đoán sai ở con người là một số mô hình tư duy quan trọng nhất có thể áp vào một cơ hội đầu tư.
 
-Kaufman nhận xét rõ ràng các phương pháp mô tả tới đây không học được ở giảng đường đại học hay ở Phố Wall. Chúng được Munger xây từ đầu, để đáp ứng những đòi hỏi khắt khe của riêng ông. Có lẽ chúng xứng đáng có một tên riêng, đại loại: "Loại nhanh cả vũ trụ lớn những việc không nên làm, tiếp theo là một cuộc tấn công thành thạo, đa ngành vào phần còn lại, rồi hành động quyết đoán khi, và chỉ khi, hoàn cảnh phù hợp xuất hiện." Có đáng công phát triển và giữ một cách tiếp cận như vậy không? Munger có vẻ nghĩ là có: khá vui khi ngồi đó và nghĩ giỏi hơn những người thông minh hơn mình rất nhiều, vì mình đã tự rèn để khách quan hơn và đa ngành hơn; hơn nữa, có rất nhiều tiền trong đó, như ông có thể chứng thực bằng kinh nghiệm riêng.
+Lời Munger về **phân tích hai lớp**: cá nhân ông đã tới mức giờ dùng một kiểu phân tích hai lớp. Thứ nhất, xét theo lý trí, đâu là những yếu tố thật sự chi phối các lợi ích liên quan? Thứ hai, đâu là những ảnh hưởng tiềm thức, nơi bộ não ở tầng tiềm thức tự động rút ra kết luận theo nhiều cách khác nhau, những cách mà nhìn chung có ích nhưng thường trục trặc?
+
+Một cách là lý trí, như cách người ta giải một bài bridge: đánh giá lợi ích thật, xác suất thật, và vân vân. Cách kia là đánh giá các yếu tố tâm lý gây ra những kết luận tiềm thức, nhiều kết luận trong số đó sai. Muốn biết chi tiết, người biên tập chỉ tới bài 11, nơi Munger dùng các mô hình tư duy của tâm lý học để minh hoạ hai mươi lăm nguyên nhân phổ biến của phán đoán sai ở con người.
+
+Kaufman nhận xét rõ ràng các phương pháp mô tả tới đây không học được ở giảng đường đại học hay ở Phố Wall. Chúng được Munger xây từ đầu, để đáp ứng những đòi hỏi khắt khe của riêng ông. Có lẽ chúng xứng đáng có một tên riêng, đại loại: "Loại nhanh cả vũ trụ lớn những việc không nên làm, tiếp theo là một cuộc tấn công thành thạo, đa ngành vào phần còn lại, rồi hành động quyết đoán khi, và chỉ khi, hoàn cảnh phù hợp xuất hiện."
+
+Có đáng công phát triển và giữ một cách tiếp cận như vậy không? Munger có vẻ nghĩ là có: khá vui khi ngồi đó và nghĩ giỏi hơn những người thông minh hơn mình rất nhiều, vì mình đã tự rèn để khách quan hơn và đa ngành hơn; hơn nữa, có rất nhiều tiền trong đó, như ông có thể chứng thực bằng kinh nghiệm riêng.
 
 ### 10. Hộp bên lề của người biên tập ở trang in 63–64: "The Influence of Ben Graham", "The Two-Track Analysis" và "Swimming Against the Current"
 
@@ -1367,7 +1411,9 @@ Hộp **"The Influence of Ben Graham"** có ảnh bìa cuốn *The Intelligent I
 - **Valuation** (Định giá), lời Graham: đầu tư thành công nhất khi nó giống kinh doanh nhất; nhà đầu tư nên mua cổ phiếu như mua thực phẩm (cân nhắc giá và chất lượng), chứ không như mua nước hoa (trả theo cảm xúc và bao bì).
 - **Paradox** (Nghịch lý), lời Munger giải thích một ý của Graham: không phải những ý tồi làm hại ta, mà là những ý tốt. Người ta có thể bảo điều đó không thể đúng, nghe nghịch lý. Ý của Graham là nếu một thứ là ý tồi thì khó làm quá đà với nó. Nhưng khi có một ý tốt với một lõi sự thật thiết yếu và quan trọng, ta không thể lờ nó đi, và rất dễ làm quá đà. Vì vậy ý tốt là một cách tuyệt vời để chịu khổ khủng khiếp nếu dùng quá tay.
 
-Hộp **"The Two-Track Analysis"**, minh hoạ bằng bức tranh Rembrandt *Jeremiah Lamenting the Destruction of Jerusalem* (1630), gồm hai đoạn Munger. Đoạn thứ nhất: nhìn chung cổ phiếu được định giá theo hai cách. Một là cách lúa mì được định giá, theo công dụng thực tế mà người dùng lúa mì cảm nhận. Hai là cách tranh Rembrandt được định giá; và ở mức nào đó, tranh Rembrandt được định giá cao vì giá của chúng đã tăng trong quá khứ. Đoạn thứ hai: với họ, đầu tư tương đương với việc đi cá cược chống lại hệ thống cá cược tổng (*pari-mutuel*, hệ thống ở trường đua nơi tỷ lệ trả thưởng do tổng tiền mọi người đặt quyết định). Họ tìm một con ngựa có một cơ hội thắng trong hai mà trả thưởng ba ăn một. Họ đang tìm một ván cược bị định giá sai. Đó là đầu tư. Và phải biết đủ để biết ván cược có bị định giá sai hay không. Đó là đầu tư giá trị.
+Hộp **"The Two-Track Analysis"**, minh hoạ bằng bức tranh Rembrandt *Jeremiah Lamenting the Destruction of Jerusalem* (1630), gồm hai đoạn Munger. Đoạn thứ nhất: nhìn chung cổ phiếu được định giá theo hai cách. Một là cách lúa mì được định giá, theo công dụng thực tế mà người dùng lúa mì cảm nhận. Hai là cách tranh Rembrandt được định giá; và ở mức nào đó, tranh Rembrandt được định giá cao vì giá của chúng đã tăng trong quá khứ.
+
+Đoạn thứ hai: với họ, đầu tư tương đương với việc đi cá cược chống lại hệ thống cá cược tổng (*pari-mutuel*, hệ thống ở trường đua nơi tỷ lệ trả thưởng do tổng tiền mọi người đặt quyết định). Họ tìm một con ngựa có một cơ hội thắng trong hai mà trả thưởng ba ăn một. Họ đang tìm một ván cược bị định giá sai. Đó là đầu tư. Và phải biết đủ để biết ván cược có bị định giá sai hay không. Đó là đầu tư giá trị.
 
 | Con ngựa trong ví dụ | Con số |
 |---|---|
@@ -1407,21 +1453,31 @@ Munger đối xử với báo cáo tài chính và kế toán đằng sau chúng
 - các vấn đề môi trường;
 - và đáng chú ý là các rủi ro ẩn. Munger biết không có ứng viên đầu tư nào không rủi ro; ông tìm những ứng viên có ít rủi ro và các rủi ro đó dễ hiểu.
 
-Ông tính lại mọi số liệu trên báo cáo tài chính cho khớp với cách nhìn thực tế của riêng mình, gồm: lượng tiền mặt tự do thật, tức tiền "của chủ sở hữu" (*owners' cash*) được tạo ra; tồn kho và các tài sản vốn lưu động khác; tài sản cố định; và các tài sản vô hình thường bị thổi phồng như lợi thế thương mại (*goodwill*). Ông cũng đánh giá tác động thật, hiện tại và tương lai, của chi phí quyền chọn cổ phiếu, các kế hoạch hưu trí và phúc lợi y tế cho người về hưu. Ông soi kỹ ngang vậy bên nợ của bảng cân đối kế toán. Ví dụ, trong hoàn cảnh phù hợp, ông có thể coi một nghĩa vụ như **quỹ thả nổi bảo hiểm** (*insurance float*: thu nhập phí bảo hiểm mà có thể nhiều năm sau mới phải chi ra thành tiền bồi thường) đúng hơn là một tài sản.
+Ông tính lại mọi số liệu trên báo cáo tài chính cho khớp với cách nhìn thực tế của riêng mình, gồm: lượng tiền mặt tự do thật, tức tiền "của chủ sở hữu" (*owners' cash*) được tạo ra; tồn kho và các tài sản vốn lưu động khác; tài sản cố định; và các tài sản vô hình thường bị thổi phồng như lợi thế thương mại (*goodwill*).
+
+Ông cũng đánh giá tác động thật, hiện tại và tương lai, của chi phí quyền chọn cổ phiếu, các kế hoạch hưu trí và phúc lợi y tế cho người về hưu. Ông soi kỹ ngang vậy bên nợ của bảng cân đối kế toán. Ví dụ, trong hoàn cảnh phù hợp, ông có thể coi một nghĩa vụ như **quỹ thả nổi bảo hiểm** (*insurance float*: thu nhập phí bảo hiểm mà có thể nhiều năm sau mới phải chi ra thành tiền bồi thường) đúng hơn là một tài sản.
 
 Đặc biệt, ông đánh giá ban lãnh đạo của công ty vượt xa việc tính toán con số thông thường, nhất là xem họ "giỏi, đáng tin, và hướng về chủ sở hữu" (*able, trustworthy, and owner-oriented*) tới mức nào. Ví dụ, họ dùng tiền mặt thế nào? Họ phân bổ nó một cách khôn ngoan thay mặt chủ sở hữu, hay trả công quá hậu cho chính mình, hay theo đuổi tăng trưởng vì cái tôi, tăng trưởng chỉ để tăng trưởng?
 
-Trên hết, ông cố đánh giá và hiểu lợi thế cạnh tranh ở mọi mặt (sản phẩm, thị trường, nhãn hiệu, nhân viên, kênh phân phối, xu hướng xã hội và nhiều thứ khác) và độ bền của lợi thế đó. Munger gọi lợi thế cạnh tranh của công ty là **"con hào"** (*moat*), tức **con hào kinh tế**: một bức rào gần như vật lý mà công ty dựng lên chống lại sự xâm nhập. Những công ty xuất sắc có con hào sâu, liên tục được nới rộng để cho sự bảo vệ lâu bền. Theo hướng đó, Munger xét kỹ các lực **"phá huỷ cạnh tranh"** (*competitive destruction*), những lực về lâu dài vây hãm hầu hết các công ty. Munger và Buffett tập trung rất cao vào vấn đề này: qua sự nghiệp kinh doanh dài, họ học được, đôi khi bằng trả giá đau đớn, rằng rất ít doanh nghiệp sống sót qua nhiều thế hệ. Do đó họ cố tìm và chỉ mua những doanh nghiệp có cơ hội tốt để vượt qua tỷ lệ khắc nghiệt đó.
+Trên hết, ông cố đánh giá và hiểu lợi thế cạnh tranh ở mọi mặt (sản phẩm, thị trường, nhãn hiệu, nhân viên, kênh phân phối, xu hướng xã hội và nhiều thứ khác) và độ bền của lợi thế đó. Munger gọi lợi thế cạnh tranh của công ty là **"con hào"** (*moat*), tức **con hào kinh tế**: một bức rào gần như vật lý mà công ty dựng lên chống lại sự xâm nhập. Những công ty xuất sắc có con hào sâu, liên tục được nới rộng để cho sự bảo vệ lâu bền.
 
-Cuối cùng, Munger tìm cách tính giá trị nội tại của cả doanh nghiệp, rồi, sau khi trừ hao khả năng pha loãng cổ phần và các yếu tố tương tự, xác định một giá trị gần đúng cho mỗi cổ phiếu để so với giá thị trường. Phép so sánh sau cùng này là mục đích nền tảng của toàn bộ quá trình: so **giá trị** (thứ mình nhận được) với **giá** (thứ mình trả). Về chủ đề này, ông nổi tiếng với quan điểm rằng "một doanh nghiệp tuyệt vời ở giá hợp lý tốt hơn một doanh nghiệp hợp lý ở giá tuyệt vời". Warren Buffett thường ghi công Munger đã thuyết phục ông về sự khôn ngoan của cách này: "Charlie hiểu điều này sớm. Tôi là người học chậm." Hiểu biết của Munger đã giúp Buffett chuyển từ đầu tư thuần tuý kiểu Benjamin Graham sang tập trung vào những doanh nghiệp tuyệt vời như The Washington Post, GEICO, Coca-Cola, Gillette và những công ty khác.
+Theo hướng đó, Munger xét kỹ các lực **"phá huỷ cạnh tranh"** (*competitive destruction*), những lực về lâu dài vây hãm hầu hết các công ty. Munger và Buffett tập trung rất cao vào vấn đề này: qua sự nghiệp kinh doanh dài, họ học được, đôi khi bằng trả giá đau đớn, rằng rất ít doanh nghiệp sống sót qua nhiều thế hệ. Do đó họ cố tìm và chỉ mua những doanh nghiệp có cơ hội tốt để vượt qua tỷ lệ khắc nghiệt đó.
+
+Cuối cùng, Munger tìm cách tính giá trị nội tại của cả doanh nghiệp, rồi, sau khi trừ hao khả năng pha loãng cổ phần và các yếu tố tương tự, xác định một giá trị gần đúng cho mỗi cổ phiếu để so với giá thị trường. Phép so sánh sau cùng này là mục đích nền tảng của toàn bộ quá trình: so **giá trị** (thứ mình nhận được) với **giá** (thứ mình trả).
+
+Về chủ đề này, ông nổi tiếng với quan điểm rằng "một doanh nghiệp tuyệt vời ở giá hợp lý tốt hơn một doanh nghiệp hợp lý ở giá tuyệt vời". Warren Buffett thường ghi công Munger đã thuyết phục ông về sự khôn ngoan của cách này: "Charlie hiểu điều này sớm. Tôi là người học chậm." Hiểu biết của Munger đã giúp Buffett chuyển từ đầu tư thuần tuý kiểu Benjamin Graham sang tập trung vào những doanh nghiệp tuyệt vời như The Washington Post, GEICO, Coca-Cola, Gillette và những công ty khác.
 
 ### 13. Hộp bên lề của người biên tập ở trang in 65–68: "Circles of Competence", "Identifying Your Circle of Competence", "Warren and Charlie on 'Moats'", "Independent Thinking" và "Margin of Safety"
 
 Hộp **"Circles of Competence"** (Vòng tròn năng lực) có ba câu. Buffett: nếu chúng tôi có một điểm mạnh, đó là nhận ra khi nào mình đang hoạt động ở sâu trong vòng tròn năng lực và khi nào đang tới gần đường biên. Munger: nếu bạn có năng lực, bạn gần như đã biết ranh giới của nó rồi; đặt câu hỏi (mình đã vượt ranh giới chưa) tức là đã trả lời nó. Thomas Watson Sr.: tôi không phải thiên tài; tôi giỏi ở vài chỗ, và tôi ở quanh những chỗ đó.
 
-Hộp **"Identifying Your Circle of Competence"** (Xác định vòng tròn năng lực của bạn) kể lại một chuyện truyền miệng Munger kể ở bài 9: chuyện Max Planck và người tài xế chở ông đi khắp nước Đức để giảng các buổi công cộng. Một lần, người tài xế, khi đó đã thuộc lòng bài giảng, đề nghị hai người đổi chỗ. Khi người tài xế đọc xong bài giảng không chút sai sót, một nhà vật lý đứng lên hỏi một câu rất khó. Người tài xế, đã sẵn sàng cho tình huống, đáp: "Tôi ngạc nhiên khi một công dân của một thành phố tiên tiến như Munich lại hỏi một câu sơ đẳng như vậy, nên tôi sẽ nhờ tài xế của tôi trả lời." Người biên tập rút ra: trong thực tế, điều cốt yếu là phân biệt khi nào mình là "Max Planck" và khi nào mình là "người tài xế". Nếu không trả lời được câu hỏi tiếp theo một cách chính đáng, thì mình chưa làm chủ thật và có lẽ đang ở ngoài vòng tròn năng lực. (Ở bài 9, theo hiểu biết của người tổng hợp, Munger gọi hai loại hiểu biết này là "kiến thức Planck" của người đã bỏ công hiểu thật và "kiến thức tài xế" của người chỉ học thuộc cách nói.)
+Hộp **"Identifying Your Circle of Competence"** (Xác định vòng tròn năng lực của bạn) kể lại một chuyện truyền miệng Munger kể ở bài 9: chuyện Max Planck và người tài xế chở ông đi khắp nước Đức để giảng các buổi công cộng. Một lần, người tài xế, khi đó đã thuộc lòng bài giảng, đề nghị hai người đổi chỗ. Khi người tài xế đọc xong bài giảng không chút sai sót, một nhà vật lý đứng lên hỏi một câu rất khó. Người tài xế, đã sẵn sàng cho tình huống, đáp: "Tôi ngạc nhiên khi một công dân của một thành phố tiên tiến như Munich lại hỏi một câu sơ đẳng như vậy, nên tôi sẽ nhờ tài xế của tôi trả lời."
 
-Hộp **"Warren and Charlie on 'Moats'"** (Warren và Charlie nói về con hào), trích đại hội Berkshire Hathaway năm 2000. Buffett nói họ nghĩ theo con hào, và coi khả năng giữ được độ rộng của nó và giữ cho nó không thể vượt qua là tiêu chí hàng đầu của một doanh nghiệp tuyệt vời. Họ bảo các nhà quản lý rằng họ muốn con hào được nới rộng mỗi năm. Điều đó không nhất thiết có nghĩa là lợi nhuận năm nay sẽ cao hơn năm ngoái, vì đôi khi không được như vậy. Nhưng nếu con hào được nới rộng mỗi năm, doanh nghiệp sẽ làm ăn rất tốt. Khi họ thấy một con hào mong manh theo bất cứ cách nào, thì đơn giản là quá rủi ro; họ không biết cách đánh giá nó, nên để yên. Họ nghĩ tất cả, hoặc gần như tất cả, doanh nghiệp của Berkshire có con hào khá tốt, và các nhà quản lý đang nới rộng chúng. Buffett hỏi: "Charlie?" Munger: "Làm sao nói hay hơn được?" Buffett: "Được thôi. Ăn thêm chút kẹo lạc đi." (Câu đùa quen thuộc trên sân khấu đại hội: Munger thường chỉ nói "tôi không có gì để thêm" rồi ăn kẹo See's.)
+Người biên tập rút ra: trong thực tế, điều cốt yếu là phân biệt khi nào mình là "Max Planck" và khi nào mình là "người tài xế". Nếu không trả lời được câu hỏi tiếp theo một cách chính đáng, thì mình chưa làm chủ thật và có lẽ đang ở ngoài vòng tròn năng lực. (Ở bài 9, theo hiểu biết của người tổng hợp, Munger gọi hai loại hiểu biết này là "kiến thức Planck" của người đã bỏ công hiểu thật và "kiến thức tài xế" của người chỉ học thuộc cách nói.)
+
+Hộp **"Warren and Charlie on 'Moats'"** (Warren và Charlie nói về con hào), trích đại hội Berkshire Hathaway năm 2000. Buffett nói họ nghĩ theo con hào, và coi khả năng giữ được độ rộng của nó và giữ cho nó không thể vượt qua là tiêu chí hàng đầu của một doanh nghiệp tuyệt vời. Họ bảo các nhà quản lý rằng họ muốn con hào được nới rộng mỗi năm. Điều đó không nhất thiết có nghĩa là lợi nhuận năm nay sẽ cao hơn năm ngoái, vì đôi khi không được như vậy. Nhưng nếu con hào được nới rộng mỗi năm, doanh nghiệp sẽ làm ăn rất tốt.
+
+Khi họ thấy một con hào mong manh theo bất cứ cách nào, thì đơn giản là quá rủi ro; họ không biết cách đánh giá nó, nên để yên. Họ nghĩ tất cả, hoặc gần như tất cả, doanh nghiệp của Berkshire có con hào khá tốt, và các nhà quản lý đang nới rộng chúng. Buffett hỏi: "Charlie?" Munger: "Làm sao nói hay hơn được?" Buffett: "Được thôi. Ăn thêm chút kẹo lạc đi." (Câu đùa quen thuộc trên sân khấu đại hội: Munger thường chỉ nói "tôi không có gì để thêm" rồi ăn kẹo See's.)
 
 Hộp **"Independent Thinking"** (Tư duy độc lập) gồm bốn câu. Benjamin Graham: bạn không đúng hay sai vì đám đông không đồng ý với bạn; bạn đúng vì dữ liệu và lập luận của bạn đúng. Harvey Firestone (người sáng lập hãng lốp Firestone): việc khó nhất trong kinh doanh là trước hết làm cho mình suy nghĩ, rồi làm cho người khác suy nghĩ. Buffett: hãy dùng lô-gic để tránh tự lừa mình; Charlie sẽ không chấp nhận điều gì tôi nói chỉ vì tôi nói, dù phần lớn thế giới thì có. Nhà vật lý Richard P. Feynman: đừng bao giờ tự lừa mình, và nhớ rằng bạn là người dễ lừa nhất.
 
@@ -1443,9 +1499,13 @@ Tới điểm này, chỉ một ứng viên đầu tư đặc biệt xuất sắ
 | Chi phí cơ hội của số vốn đó là bao nhiêu? | thước đo cuối cùng |
 | Và vân vân | |
 
-Quá trình sàng lọc toàn diện của Munger đòi hỏi rất nhiều kỷ luật bản thân và dẫn tới những khoảng thời gian dài trông như "không làm gì". Nhưng như Munger nói, làm việc chăm chỉ là yếu tố thiết yếu để tìm ra và hoàn thiện một chiến lược, hay để thực thi nó. Với Munger và Warren, công việc vất vả là liên tục, dù nó có dẫn tới hoạt động đầu tư lúc đó hay không, và thường là không. Thói quen dành nhiều thời gian học và nghĩ hơn hẳn thời gian làm này không phải tình cờ. Đó là sự pha trộn giữa kỷ luật và kiên nhẫn mà những bậc thầy thật sự của một nghề thể hiện: một cam kết không nhân nhượng với việc "chơi đúng ván bài". Như cao thủ bridge đẳng cấp thế giới Richard Zeckhauser, Munger tự chấm điểm mình không hẳn theo việc có thắng ván bài không, mà theo việc mình chơi nó tốt tới đâu. Trong thế giới của Munger và Buffett, kết quả kém được tha thứ, vì có những kết quả nằm ngoài tầm kiểm soát của họ; nhưng chuẩn bị và ra quyết định cẩu thả thì không bao giờ được tha thứ, vì chúng nằm trong tầm kiểm soát.
+Quá trình sàng lọc toàn diện của Munger đòi hỏi rất nhiều kỷ luật bản thân và dẫn tới những khoảng thời gian dài trông như "không làm gì". Nhưng như Munger nói, làm việc chăm chỉ là yếu tố thiết yếu để tìm ra và hoàn thiện một chiến lược, hay để thực thi nó. Với Munger và Warren, công việc vất vả là liên tục, dù nó có dẫn tới hoạt động đầu tư lúc đó hay không, và thường là không.
 
-Vào những dịp tương đối hiếm khi mọi hoàn cảnh đều đúng và Munger đầu tư, nhiều khả năng ông sẽ đặt một khoản cược lớn và dứt khoát. Ông không nhấm nháp quanh rìa, không mua "vị thế ban đầu", không làm "những khoản đầu tư nhỏ, đầu cơ". Những hành vi như vậy ngụ ý sự không chắc chắn, còn các nước đi của Munger, dù ít, thì không hề không chắc chắn. Như ông nói, ông thực hành "kiên nhẫn cực độ kết hợp với quyết đoán cực độ". Sự tự tin của Munger không dựa vào việc ai, hay bao nhiêu người, đồng ý hay phản đối ông, mà dựa vào khả năng nhìn và đo bản thân một cách khách quan. Sự làm chủ bản thân này cho ông một sự khách quan hiếm có khi ước lượng kiến thức, kinh nghiệm thật của mình và độ đúng của suy nghĩ mình. Một lần nữa, Kaufman viết, ta thấy vai trò quan trọng của những phẩm chất khí chất đúng: tự kỷ luật, kiên nhẫn, bình tĩnh, độc lập. Thiếu chúng thì có thể nói thành tích đầu tư ở mức của Munger là không thể.
+Thói quen dành nhiều thời gian học và nghĩ hơn hẳn thời gian làm này không phải tình cờ. Đó là sự pha trộn giữa kỷ luật và kiên nhẫn mà những bậc thầy thật sự của một nghề thể hiện: một cam kết không nhân nhượng với việc "chơi đúng ván bài". Như cao thủ bridge đẳng cấp thế giới Richard Zeckhauser, Munger tự chấm điểm mình không hẳn theo việc có thắng ván bài không, mà theo việc mình chơi nó tốt tới đâu. Trong thế giới của Munger và Buffett, kết quả kém được tha thứ, vì có những kết quả nằm ngoài tầm kiểm soát của họ; nhưng chuẩn bị và ra quyết định cẩu thả thì không bao giờ được tha thứ, vì chúng nằm trong tầm kiểm soát.
+
+Vào những dịp tương đối hiếm khi mọi hoàn cảnh đều đúng và Munger đầu tư, nhiều khả năng ông sẽ đặt một khoản cược lớn và dứt khoát. Ông không nhấm nháp quanh rìa, không mua "vị thế ban đầu", không làm "những khoản đầu tư nhỏ, đầu cơ". Những hành vi như vậy ngụ ý sự không chắc chắn, còn các nước đi của Munger, dù ít, thì không hề không chắc chắn. Như ông nói, ông thực hành "kiên nhẫn cực độ kết hợp với quyết đoán cực độ".
+
+Sự tự tin của Munger không dựa vào việc ai, hay bao nhiêu người, đồng ý hay phản đối ông, mà dựa vào khả năng nhìn và đo bản thân một cách khách quan. Sự làm chủ bản thân này cho ông một sự khách quan hiếm có khi ước lượng kiến thức, kinh nghiệm thật của mình và độ đúng của suy nghĩ mình. Một lần nữa, Kaufman viết, ta thấy vai trò quan trọng của những phẩm chất khí chất đúng: tự kỷ luật, kiên nhẫn, bình tĩnh, độc lập. Thiếu chúng thì có thể nói thành tích đầu tư ở mức của Munger là không thể.
 
 Giữa trang là một chuỗi câu hỏi in nổi của người biên tập, mô phỏng những gì Munger tự hỏi: "Được, đây là một công ty tốt. Nhưng giá đã đủ thấp chưa? Ban lãnh đạo có gồm những người mà Munger và Buffett thấy yên tâm không? Nếu nó đủ rẻ để mua, nó rẻ vì lý do sai hay lý do đúng? Mặt trái là gì? Điều gì có thể hỏng mà tôi chưa thấy?"
 
@@ -1467,11 +1527,15 @@ Mở đầu nhóm hộp này là câu in nổi của Buffett: Charlie đã đẩ
 
 Cùng trang là ảnh một bức thêu đóng khung, tiêu đề **"Munger's Three Great Lessons of Investing"** (Ba bài học đầu tư lớn của Munger). Cả ba bài học đều là cùng một câu, lặp lại ba lần: "Một doanh nghiệp tuyệt vời ở giá hợp lý tốt hơn một doanh nghiệp hợp lý ở giá tuyệt vời." Đây là cách nói đùa để nhấn mạnh rằng với Munger, đó là bài học quan trọng nhất.
 
-Hộp **"Fluency and Perspective"** (Thành thạo và góc nhìn) có ba câu. Munger: cần có một mối quan tâm say mê tới việc vì sao sự việc xảy ra; nếp nghĩ đó, giữ trong thời gian dài, dần cải thiện khả năng tập trung vào thực tế; nếu không có nếp nghĩ đó, bạn sẽ thất bại dù IQ cao. Munger: cấu trúc sâu của trí óc con người đòi hỏi rằng con đường tới năng lực toàn diện ở hầu như bất cứ loại việc gì là học nó tới mức thành thạo, dù thích hay không. Harvey Firestone: ông nhận thấy khi toàn bộ thông tin của một người bị giới hạn trong lĩnh vực mình làm, công việc không bao giờ tốt như lẽ ra phải thế; một người phải có góc nhìn, và có thể lấy nó từ sách hoặc từ người, tốt nhất là từ cả hai.
+Hộp **"Fluency and Perspective"** (Thành thạo và góc nhìn) có ba câu. Munger: cần có một mối quan tâm say mê tới việc vì sao sự việc xảy ra; nếp nghĩ đó, giữ trong thời gian dài, dần cải thiện khả năng tập trung vào thực tế; nếu không có nếp nghĩ đó, bạn sẽ thất bại dù IQ cao. Munger: cấu trúc sâu của trí óc con người đòi hỏi rằng con đường tới năng lực toàn diện ở hầu như bất cứ loại việc gì là học nó tới mức thành thạo, dù thích hay không.
+
+Harvey Firestone: ông nhận thấy khi toàn bộ thông tin của một người bị giới hạn trong lĩnh vực mình làm, công việc không bao giờ tốt như lẽ ra phải thế; một người phải có góc nhìn, và có thể lấy nó từ sách hoặc từ người, tốt nhất là từ cả hai.
 
 Hộp **"Properly Playing the Hand"** (Chơi đúng ván bài), minh hoạ bằng hai tay bài tây, có đề từ Munger: cách nghĩ đúng là cách Zeckhauser chơi bridge; chỉ đơn giản vậy thôi. John Finn: phần lớn người chơi có niềm vui từ cảm giác được chấp nhận hay thuộc về nhóm; còn người chơi giỏi có niềm vui từ khả năng đối phó với thực tế của ván bài. Buffett: trong đầu tư, cũng như trong bóng chày, muốn đưa điểm lên bảng thì phải nhìn sân đấu, không phải nhìn bảng điểm.
 
-Hộp **"Competitive Destruction"** (Phá huỷ cạnh tranh), minh hoạ bằng mẩu báo "Today's Stock Market", là lời Munger. Ông có một mẩu cắt từ tờ *Buffalo Evening News* năm 1911 liệt kê năm mươi cổ phiếu quan trọng nhất khi đó được giao dịch sôi động trên Sở Giao dịch Chứng khoán New York. Ngày nay chỉ một cái, General Electric, còn hoạt động như một công ty lớn, độc lập. Các lực phá huỷ cạnh tranh mạnh tới vậy. Về rất dài hạn, lịch sử cho thấy cơ hội để bất kỳ doanh nghiệp nào sống sót theo cách vừa ý chủ sở hữu là mỏng manh nhất. Mọi chuyện càng khó hơn khi một đối thủ nhỏ cuồng nhiệt, như Rose Blumkin (người sáng lập Nebraska Furniture Mart), Les Schwab (chuỗi lốp xe ở miền Tây nước Mỹ) hay Sam Walton (Walmart), nhắm vào thị trường cụ thể của bạn. Làm sao cạnh tranh với một kẻ cuồng nhiệt thật sự? Chỉ có thể cố xây con hào tốt nhất có thể và liên tục cố nới rộng nó.
+Hộp **"Competitive Destruction"** (Phá huỷ cạnh tranh), minh hoạ bằng mẩu báo "Today's Stock Market", là lời Munger. Ông có một mẩu cắt từ tờ *Buffalo Evening News* năm 1911 liệt kê năm mươi cổ phiếu quan trọng nhất khi đó được giao dịch sôi động trên Sở Giao dịch Chứng khoán New York. Ngày nay chỉ một cái, General Electric, còn hoạt động như một công ty lớn, độc lập. Các lực phá huỷ cạnh tranh mạnh tới vậy.
+
+Về rất dài hạn, lịch sử cho thấy cơ hội để bất kỳ doanh nghiệp nào sống sót theo cách vừa ý chủ sở hữu là mỏng manh nhất. Mọi chuyện càng khó hơn khi một đối thủ nhỏ cuồng nhiệt, như Rose Blumkin (người sáng lập Nebraska Furniture Mart), Les Schwab (chuỗi lốp xe ở miền Tây nước Mỹ) hay Sam Walton (Walmart), nhắm vào thị trường cụ thể của bạn. Làm sao cạnh tranh với một kẻ cuồng nhiệt thật sự? Chỉ có thể cố xây con hào tốt nhất có thể và liên tục cố nới rộng nó.
 
 Hộp **"The Limitations of Formulas"** (Giới hạn của công thức), minh hoạ bằng một cuốn sách đùa có tựa "3 Easy Steps to Instant Wealth" (Ba bước dễ dàng để giàu ngay). Buffett: người ta luôn muốn một công thức, nhưng không phải vậy; phải ước tính tổng tiền mặt tạo ra từ bây giờ tới mãi mãi và chiết khấu về hôm nay; các thước đo như P/E tự chúng không đủ. Munger: cần một danh sách kiểm tra khác và những mô hình tư duy khác cho những công ty khác nhau; ông không bao giờ làm cho nó dễ được bằng cách nói "đây là ba điều"; phải tự rút ra để khắc nó vào đầu cho tới hết đời.
 
@@ -1484,13 +1548,15 @@ Hộp **"Price is What You Pay, Value is What You Get"** (Giá là thứ bạn t
 | Mua Louisiana (*Louisiana Purchase*), dưới chính quyền Thomas Jefferson | 1803 | Nước Pháp của Napoleon | 15 triệu USD | khoảng 2,9 cent mỗi mẫu Anh |
 | Mua Alaska, khi đó bị gọi là "Seward's Folly" (Sự điên rồ của Seward, tên ngoại trưởng Mỹ thúc đẩy thương vụ) | 1867 | Nga | 7,2 triệu USD bằng vàng | khoảng 2,5 cent mỗi mẫu; tương đương 1,67 tỷ USD theo đô la năm 2006 |
 
-Người biên tập kết: tính theo giá trị của dầu mỏ, khoáng sản và lợi thế chiến lược có được, việc mua Alaska chắc chắn không phải sự điên rồ. (Về độ chính xác của các con số quy đổi, xem khối Lưu ý.)
+Người biên tập kết: tính theo giá trị của dầu mỏ, khoáng sản và lợi thế chiến lược có được, việc mua Alaska chắc chắn không phải sự điên rồ. (Về độ chính xác của các con số quy đổi, xem mục Lưu ý cuối chương.)
 
 ### 16. Mục "An Investing Principles Checklist" (trang in 73–74), phần 1: lời dẫn và các nguyên tắc 1–5
 
 Mục mở bằng một câu in nổi (theo ngữ cảnh là lời Munger): không phi công khôn ngoan nào, dù tài năng và kinh nghiệm lớn tới đâu, lại không dùng danh sách kiểm tra.
 
-Kaufman viết: tới đây chương đã xem xét cách Munger tiếp cận việc suy nghĩ nói chung và việc đầu tư nói riêng. Để giữ đúng ý định quan sát "ông có vẻ làm thế nào", người biên tập tóm lại cách tiếp cận của ông bằng chính phương pháp **danh sách kiểm tra** (*checklist*) mà ông khuyên dùng. (Lời Munger về giá trị và tầm quan trọng của danh sách kiểm tra có ở bài 5, nhất là phần cuối bài.) Tuy vậy, cần lưu ý rằng Munger chắc chắn không dùng các nguyên tắc dưới đây theo kiểu từng mục một hay chỉ một lần, như hình thức danh sách có vẻ ngụ ý. Chúng cũng không nhất thiết xếp được theo thứ tự quan trọng nào. Đúng hơn, mỗi nguyên tắc phải được xét như một phần của cái tổng thể phức hợp (*gestalt*) của quá trình phân tích đầu tư, giống như một viên gạch men là phần không tách rời của bức tranh khảm lớn mà nó nằm trong đó.
+Kaufman viết: tới đây chương đã xem xét cách Munger tiếp cận việc suy nghĩ nói chung và việc đầu tư nói riêng. Để giữ đúng ý định quan sát "ông có vẻ làm thế nào", người biên tập tóm lại cách tiếp cận của ông bằng chính phương pháp **danh sách kiểm tra** (*checklist*) mà ông khuyên dùng. (Lời Munger về giá trị và tầm quan trọng của danh sách kiểm tra có ở bài 5, nhất là phần cuối bài.)
+
+Tuy vậy, cần lưu ý rằng Munger chắc chắn không dùng các nguyên tắc dưới đây theo kiểu từng mục một hay chỉ một lần, như hình thức danh sách có vẻ ngụ ý. Chúng cũng không nhất thiết xếp được theo thứ tự quan trọng nào. Đúng hơn, mỗi nguyên tắc phải được xét như một phần của cái tổng thể phức hợp (*gestalt*) của quá trình phân tích đầu tư, giống như một viên gạch men là phần không tách rời của bức tranh khảm lớn mà nó nằm trong đó.
 
 Mười nguyên tắc (đánh số theo thứ tự in; bản gốc dùng dấu ô vuông):
 
@@ -1570,7 +1636,9 @@ Mười nguyên tắc (đánh số theo thứ tự in; bản gốc dùng dấu �
 
 ### 18. Hộp bên lề của người biên tập ở trang in 73–76: "Compound Interest", "Invert, Always Invert / Know What to Avoid", "Mispriced Bets", Thomas Carlyle và "Charlie Sums It Up"
 
-Hộp **"Compound Interest"** (Lãi kép) có ảnh con tem 3 cent của Bưu chính Mỹ kỷ niệm 250 năm ngày sinh Benjamin Franklin, kèm câu của Franklin: đó là hòn đá sẽ biến tất cả chì của bạn thành vàng...; hãy nhớ rằng tiền có bản tính sinh sôi nảy nở; tiền có thể đẻ ra tiền, và con của nó lại có thể đẻ thêm. Bên dưới là hai câu Munger. Câu thứ nhất: nếu bỏ mười lăm quyết định hàng đầu của họ ra, thì thành tích của họ khá trung bình; đó không phải nhờ hiếu động, mà nhờ cực kỳ nhiều kiên nhẫn; họ giữ nguyên tắc, và khi cơ hội tới, họ vồ lấy nó với toàn bộ sức lực. Câu thứ hai: có những tình cảnh tệ hơn việc ngập trong tiền mặt và ngồi, ngồi, ngồi; ông nhớ thời mình không dư dả tiền mặt, và ông không muốn quay lại thời đó.
+Hộp **"Compound Interest"** (Lãi kép) có ảnh con tem 3 cent của Bưu chính Mỹ kỷ niệm 250 năm ngày sinh Benjamin Franklin, kèm câu của Franklin: đó là hòn đá sẽ biến tất cả chì của bạn thành vàng...; hãy nhớ rằng tiền có bản tính sinh sôi nảy nở; tiền có thể đẻ ra tiền, và con của nó lại có thể đẻ thêm.
+
+Bên dưới là hai câu Munger. Câu thứ nhất: nếu bỏ mười lăm quyết định hàng đầu của họ ra, thì thành tích của họ khá trung bình; đó không phải nhờ hiếu động, mà nhờ cực kỳ nhiều kiên nhẫn; họ giữ nguyên tắc, và khi cơ hội tới, họ vồ lấy nó với toàn bộ sức lực. Câu thứ hai: có những tình cảnh tệ hơn việc ngập trong tiền mặt và ngồi, ngồi, ngồi; ông nhớ thời mình không dư dả tiền mặt, và ông không muốn quay lại thời đó.
 
 Hộp **"Invert, Always Invert"** (Đảo ngược, luôn đảo ngược), minh hoạ bằng ảnh một người trồng cây chuối, và **"Know What to Avoid"** (Biết điều cần tránh): chỉ riêng "Hệ thống tránh việc ngu ngốc của Munger" (*Munger System of Avoiding Dumb Stuff*), nếu được tuân thủ chặt chẽ, cũng đã cho phép bạn thắng những người "giỏi hơn" mình, dù họ thông minh tới đâu.
 
@@ -1580,7 +1648,9 @@ Hộp **"Mispriced Bets"** (Những ván cược bị định giá sai), theo ng
 
 Ảnh và câu của Thomas Carlyle (1795–1881), nhà văn và sử gia Scotland: nhiệm vụ của con người không phải là nhìn thấy thứ lờ mờ ở xa, mà là làm thứ rõ ràng ngay trong tầm tay.
 
-Hộp **"Charlie Sums It Up"** (Charlie tóm lại), lời Munger. Vì sao có người khôn ngoan hơn người khác? Một phần là do khí chất bẩm sinh. Có người không có khí chất tốt cho đầu tư: họ quá bồn chồn, lo lắng quá nhiều. Nhưng nếu có một khí chất tốt, mà về cơ bản nghĩa là rất kiên nhẫn, rồi kết hợp với sự xông xáo lớn khi đã biết đủ để làm một điều gì đó, thì ta dần học được cuộc chơi, một phần bằng việc làm, một phần bằng việc học. Rõ ràng là học được càng nhiều bài học đắt giá một cách gián tiếp, qua người khác, thay vì qua những trải nghiệm khủng khiếp của chính mình, thì càng tốt. Ông không biết ai làm được điều đó rất nhanh. Warren Buffett đã trở thành một nhà đầu tư giỏi hơn rất, rất nhiều kể từ ngày ông gặp Buffett, và ông cũng vậy. Nếu họ bị đóng băng ở bất kỳ giai đoạn nào, với vốn kiến thức lúc đó, thì thành tích đã tệ hơn nhiều so với hiện tại. Vì vậy cuộc chơi là tiếp tục học, và ông không nghĩ những người không thích quá trình học sẽ tiếp tục học.
+Hộp **"Charlie Sums It Up"** (Charlie tóm lại), lời Munger. Vì sao có người khôn ngoan hơn người khác? Một phần là do khí chất bẩm sinh. Có người không có khí chất tốt cho đầu tư: họ quá bồn chồn, lo lắng quá nhiều. Nhưng nếu có một khí chất tốt, mà về cơ bản nghĩa là rất kiên nhẫn, rồi kết hợp với sự xông xáo lớn khi đã biết đủ để làm một điều gì đó, thì ta dần học được cuộc chơi, một phần bằng việc làm, một phần bằng việc học.
+
+Rõ ràng là học được càng nhiều bài học đắt giá một cách gián tiếp, qua người khác, thay vì qua những trải nghiệm khủng khiếp của chính mình, thì càng tốt. Ông không biết ai làm được điều đó rất nhanh. Warren Buffett đã trở thành một nhà đầu tư giỏi hơn rất, rất nhiều kể từ ngày ông gặp Buffett, và ông cũng vậy. Nếu họ bị đóng băng ở bất kỳ giai đoạn nào, với vốn kiến thức lúc đó, thì thành tích đã tệ hơn nhiều so với hiện tại. Vì vậy cuộc chơi là tiếp tục học, và ông không nghĩ những người không thích quá trình học sẽ tiếp tục học.
 
 ### 19. Đoạn kết của mục Checklist (trang in 76–77): không có công thức thần kỳ, bốn phẩm chất nền tảng, và vì sao chương ít nói chuyện "khi nào bán"
 
@@ -1605,7 +1675,9 @@ Chương khép phần đầu tư bằng câu của hai nhà báo Robert Lenzner 
 
 Đúng với gốc gác miền Trung Tây của ông, Kaufman viết, sự trung thực và chính trực luôn đồng nghĩa với Charles Munger. Như Munger từng nói, làm điều đúng có thể trả những khoản cổ tức lớn, cả về cá nhân lẫn nghề nghiệp. Như một lời chứng cho thấy trung thực và chính trực đã ăn sâu vào Munger tới mức nào, con gái ông là Wendy nhớ lại thời vụ Watergate và sự thương cảm cô dành cho các con gái của Richard Nixon khi những sai phạm đạo đức của cha họ bị lộ ra. Cô nói cô biết chắc không chút nghi ngờ rằng bố mình sẽ không bao giờ đặt các con vào một tình cảnh tương tự, và cô không thể diễn tả cảm giác đó tuyệt vời thế nào.
 
-Nhóm biên tập mời chuyên gia trái phiếu huyền thoại Bill Gross của PIMCO bình luận về Munger và sự trung thực. Gross nói: khi bờ biển phía Đông và phía Tây nước Mỹ chìm xuống biển, vì bão, động đất hay vì sự suy đồi của các giá trị, thì vẫn còn đó Omaha của Munger (Omaha là nơi đặt trụ sở Berkshire và là quê của Munger). Các chuẩn mực đạo đức của Charlie nên được phát qua vệ tinh tới mọi trung tâm tài chính toàn cầu để ngăn những Enron và WorldCom trong tương lai (hai vụ bê bối kế toán lớn đầu thập niên 2000). Gross nói tiếp: Charlie và Warren là những tấm gương và người thầy tuyệt vời, nhất là với người trẻ. Như Albert Schweitzer nói, tấm gương không phải là điều chính trong dạy dỗ, nó là điều duy nhất. Trong cuộc "đua" kinh doanh cả đời, Charlie và Warren không chỉ về đích ở nhóm đầu mà còn chưa bao giờ đi tắt trên đường. Không thể tìm được những "Abe Trung thực" (biệt danh của tổng thống Abraham Lincoln) nào mẫu mực hơn trong giới tài chính so với Warren Buffett và Charlie Munger. Các báo cáo thường niên của họ đã thành huyền thoại, và chứa không chỉ những lời khôn ngoan đầu tư thật sự mà cả những lời tự trách khi họ thấy cần.
+Nhóm biên tập mời chuyên gia trái phiếu huyền thoại Bill Gross của PIMCO bình luận về Munger và sự trung thực. Gross nói: khi bờ biển phía Đông và phía Tây nước Mỹ chìm xuống biển, vì bão, động đất hay vì sự suy đồi của các giá trị, thì vẫn còn đó Omaha của Munger (Omaha là nơi đặt trụ sở Berkshire và là quê của Munger). Các chuẩn mực đạo đức của Charlie nên được phát qua vệ tinh tới mọi trung tâm tài chính toàn cầu để ngăn những Enron và WorldCom trong tương lai (hai vụ bê bối kế toán lớn đầu thập niên 2000).
+
+Gross nói tiếp: Charlie và Warren là những tấm gương và người thầy tuyệt vời, nhất là với người trẻ. Như Albert Schweitzer nói, tấm gương không phải là điều chính trong dạy dỗ, nó là điều duy nhất. Trong cuộc "đua" kinh doanh cả đời, Charlie và Warren không chỉ về đích ở nhóm đầu mà còn chưa bao giờ đi tắt trên đường. Không thể tìm được những "Abe Trung thực" (biệt danh của tổng thống Abraham Lincoln) nào mẫu mực hơn trong giới tài chính so với Warren Buffett và Charlie Munger. Các báo cáo thường niên của họ đã thành huyền thoại, và chứa không chỉ những lời khôn ngoan đầu tư thật sự mà cả những lời tự trách khi họ thấy cần.
 
 Câu in nổi của Munger: ông nghĩ thành tích quá khứ (*track record*) rất quan trọng. Nếu bắt đầu sớm, cố có một thành tích hoàn hảo ở một việc đơn giản như sự trung thực, thì đã đi được một đoạn dài trên đường tới thành công trên đời.
 
@@ -1642,13 +1714,21 @@ Lời giải (Munger): Zeckhauser là giáo sư Harvard, đồng thời là mộ
 
 Hộp kết bằng lời hứa sẽ có thêm những khoảnh khắc "I Have Nothing to Add" được rải khắp cuốn sách.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Anh Minh có 2 tỷ đồng tiết kiệm muốn đầu tư dài hạn vào cổ phiếu. Áp **ba giỏ**, anh loại ngay ba cổ phiếu công nghệ và một công ty dược mới niêm yết (giỏ "quá khó hiểu" vì anh không đánh giá được sản phẩm), và một đợt IPO đang được quảng bá rầm rộ (giỏ "không"). Còn lại một chuỗi bán lẻ dược phẩm và một công ty sữa mà anh hiểu vì đã làm trong ngành phân phối mười năm (**vòng tròn năng lực**). Anh dùng **tư duy đảo ngược**: hỏi "điều gì sẽ giết công ty sữa?" và liệt kê: mất niềm tin vì một sự cố chất lượng, đối thủ nước ngoài giảm giá mạnh, tỷ lệ sinh giảm. Anh **phân tích hai lớp**: lớp lý trí cho thấy công ty có thương hiệu mạnh và mạng phân phối khó sao chép (**con hào kinh tế**), dòng tiền tự do khoảng 2.000 tỷ đồng mỗi năm; lớp tâm lý nhắc anh rằng anh thích công ty vì đã uống sữa của họ từ nhỏ, một thiên lệch phải trừ ra. Anh **tính lại số liệu**: trừ phần lợi nhuận đến từ bán tài sản một lần, và để ý ban lãnh đạo có dùng tiền mua lại công ty khác chỉ để "to ra" không. Giả sử anh ước **giá trị nội tại** khoảng 40.000 tỷ đồng, còn vốn hoá thị trường đang là 28.000 tỷ đồng sau một đợt bán tháo vì tin đồn: **biên an toàn** khoảng 30%. Đi qua danh sách **"trước khi bóp cò"**: thanh khoản cổ phiếu đủ để mua 1,2 tỷ đồng trong hai tuần mà không đẩy giá; không phải vay; **chi phí cơ hội** là gửi tiết kiệm lãi 5% mỗi năm hoặc chờ chuỗi dược. Anh dồn 1,2 tỷ (60% số tiền) vào công ty sữa (**quyết đoán**, như vung gậy với "quả bóng béo"), để 800 triệu ở tiền gửi chờ chuỗi dược xuống giá. Ba năm sau giá cổ phiếu chỉ đi ngang trong khi thị trường tăng 20%; anh không bán vì luận điểm (con hào, dòng tiền) không đổi, và tự chấm điểm theo chất lượng phân tích chứ không theo giá (**chơi đúng ván bài**). Khi một người môi giới mời anh vào một mã "chắc chắn tăng" nhờ tin nội bộ, anh từ chối dù có thể lãi: giao dịch dựa trên tin nội bộ là trái luật, và kể cả khi đó chỉ là tin đồn ở vùng xám, anh không muốn tới gần lằn ranh ấy (**la bàn nội tâm**).
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Anh Minh có 2 tỷ đồng tiết kiệm muốn đầu tư dài hạn vào cổ phiếu. Áp **ba giỏ**, anh loại ngay ba cổ phiếu công nghệ và một công ty dược mới niêm yết (giỏ "quá khó hiểu" vì anh không đánh giá được sản phẩm), và một đợt IPO đang được quảng bá rầm rộ (giỏ "không"). Còn lại một chuỗi bán lẻ dược phẩm và một công ty sữa mà anh hiểu vì đã làm trong ngành phân phối mười năm (**vòng tròn năng lực**).
+
+Anh dùng **tư duy đảo ngược**: hỏi "điều gì sẽ giết công ty sữa?" và liệt kê: mất niềm tin vì một sự cố chất lượng, đối thủ nước ngoài giảm giá mạnh, tỷ lệ sinh giảm. Anh **phân tích hai lớp**: lớp lý trí cho thấy công ty có thương hiệu mạnh và mạng phân phối khó sao chép (**con hào kinh tế**), dòng tiền tự do khoảng 2.000 tỷ đồng mỗi năm; lớp tâm lý nhắc anh rằng anh thích công ty vì đã uống sữa của họ từ nhỏ, một thiên lệch phải trừ ra. Anh **tính lại số liệu**: trừ phần lợi nhuận đến từ bán tài sản một lần, và để ý ban lãnh đạo có dùng tiền mua lại công ty khác chỉ để "to ra" không.
+
+Giả sử anh ước **giá trị nội tại** khoảng 40.000 tỷ đồng, còn vốn hoá thị trường đang là 28.000 tỷ đồng sau một đợt bán tháo vì tin đồn: **biên an toàn** khoảng 30%. Đi qua danh sách **"trước khi bóp cò"**: thanh khoản cổ phiếu đủ để mua 1,2 tỷ đồng trong hai tuần mà không đẩy giá; không phải vay; **chi phí cơ hội** là gửi tiết kiệm lãi 5% mỗi năm hoặc chờ chuỗi dược. Anh dồn 1,2 tỷ (60% số tiền) vào công ty sữa (**quyết đoán**, như vung gậy với "quả bóng béo"), để 800 triệu ở tiền gửi chờ chuỗi dược xuống giá.
+
+Ba năm sau giá cổ phiếu chỉ đi ngang trong khi thị trường tăng 20%; anh không bán vì luận điểm (con hào, dòng tiền) không đổi, và tự chấm điểm theo chất lượng phân tích chứ không theo giá (**chơi đúng ván bài**). Khi một người môi giới mời anh vào một mã "chắc chắn tăng" nhờ tin nội bộ, anh từ chối dù có thể lãi: giao dịch dựa trên tin nội bộ là trái luật, và kể cả khi đó chỉ là tin đồn ở vùng xám, anh không muốn tới gần lằn ranh ấy (**la bàn nội tâm**).
 
 ## Luận điểm cốt lõi
 
 ### Mệnh đề
 
-Thành công đầu tư bền vững không đến từ một công thức hay một mô hình duy nhất, mà từ một cách sống và cách nghĩ có tổ chức: tự học suốt đời để nắm thành thạo những ý lớn của nhiều ngành, đan chúng thành một mạng lưới mô hình tư duy để thấy doanh nghiệp như một phần của hệ sinh thái; loại trước những gì cần tránh và những gì nằm ngoài vòng tròn năng lực; phân tích phần còn lại cả bằng lý trí lẫn bằng hiểu biết về những sai lệch tâm lý; chỉ mua doanh nghiệp tuyệt vời có con hào kinh tế bền, ở giá thấp hơn giá trị; rồi kết hợp kiên nhẫn cực độ với quyết đoán cực độ. Bốn phẩm chất chuẩn bị, kỷ luật, kiên nhẫn, quyết đoán, cộng với sự trung thực, cùng tác động theo một hướng và tạo ra một hiệu ứng Lollapalooza tích cực.
+Thành công đầu tư bền vững không đến từ một công thức hay một mô hình duy nhất, mà từ một cách sống và cách nghĩ có tổ chức: tự học suốt đời để nắm thành thạo những ý lớn của nhiều ngành, đan chúng thành một mạng lưới mô hình tư duy để thấy doanh nghiệp như một phần của hệ sinh thái; loại trước những gì cần tránh và những gì nằm ngoài vòng tròn năng lực; phân tích phần còn lại cả bằng lý trí lẫn bằng hiểu biết về những sai lệch tâm lý; chỉ mua doanh nghiệp tuyệt vời có con hào kinh tế bền, ở giá thấp hơn giá trị; rồi kết hợp kiên nhẫn cực độ với quyết đoán cực độ.
+
+Bốn phẩm chất chuẩn bị, kỷ luật, kiên nhẫn, quyết đoán, cộng với sự trung thực, cùng tác động theo một hướng và tạo ra một hiệu ứng Lollapalooza tích cực.
 
 ### Giả định
 
@@ -1818,7 +1898,9 @@ Thành công đầu tư bền vững không đến từ một công thức hay m
 
 ### Sức mạnh của chương là biến một bộ câu trích rời rạc thành một quy trình có thứ tự
 
-Lời Munger vốn rải rác trong hàng chục bài nói và đại hội cổ đông, nhiều câu nghe như đùa. Kaufman xếp chúng thành một trình tự dùng được: học mô hình, loại trừ bằng đảo ngược và ba giỏ, phân tích hai lớp, đánh giá con hào và ban lãnh đạo, so giá trị với giá, rà danh sách "trước khi bóp cò", rồi kiên nhẫn và quyết đoán. Danh sách mười nguyên tắc ở cuối là bản tóm tắt dễ mang theo nhất của tư tưởng Munger trong cả cuốn sách. Người biên tập cũng trung thực về giới hạn của việc này: nhiều lần nói rõ đây không phải bài "làm thế nào", các nguyên tắc không có thứ tự ưu tiên, và dẫn lời Munger rằng mỗi người phải tự rút ra danh sách của mình. Nhờ vậy chương làm đúng vai trò bản đồ cho phần còn lại của sách.
+Lời Munger vốn rải rác trong hàng chục bài nói và đại hội cổ đông, nhiều câu nghe như đùa. Kaufman xếp chúng thành một trình tự dùng được: học mô hình, loại trừ bằng đảo ngược và ba giỏ, phân tích hai lớp, đánh giá con hào và ban lãnh đạo, so giá trị với giá, rà danh sách "trước khi bóp cò", rồi kiên nhẫn và quyết đoán. Danh sách mười nguyên tắc ở cuối là bản tóm tắt dễ mang theo nhất của tư tưởng Munger trong cả cuốn sách.
+
+Người biên tập cũng trung thực về giới hạn của việc này: nhiều lần nói rõ đây không phải bài "làm thế nào", các nguyên tắc không có thứ tự ưu tiên, và dẫn lời Munger rằng mỗi người phải tự rút ra danh sách của mình. Nhờ vậy chương làm đúng vai trò bản đồ cho phần còn lại của sách.
 
 ### Điểm yếu: chương là lời ngưỡng mộ của người trong cuộc, ít phản biện và gần như không có bằng chứng định lượng
 
@@ -1826,19 +1908,227 @@ Kaufman là bạn lâu năm của Munger, và chương viết theo giọng ca ng
 
 ### Một số lời khuyên dễ bị hiểu sai nếu tách khỏi điều kiện của Munger
 
-"Ba công ty là đủ đa dạng hoá" và "đặt cược nặng" chỉ hợp lý khi đi cùng các điều kiện mà chính chương nêu: hiểu sâu doanh nghiệp, vòng tròn năng lực rõ ràng, không dùng nợ, chịu được giá giảm mạnh (hợp danh Munger từng lỗ khoảng 30% mỗi năm trong hai năm liền), và có thu nhập, tài sản khác để không phải bán lúc xấu. Với người mới, những điều kiện đó thường không có, và danh mục tập trung có thể dẫn tới mất vốn vĩnh viễn, đúng điều nguyên tắc số 1 dặn tránh. Tương tự, "chỉ cần vài quyết định trong đời" dễ bị hiểu là ít phải làm việc, trong khi chương nói rõ công việc học và nghĩ là liên tục, chỉ có giao dịch là hiếm. Câu "lãi kép là kỳ quan thứ tám" gán cho Einstein là một trích dẫn không có nguồn; ý thì đúng, nhưng tên tác giả nên được đọc dè dặt.
+"Ba công ty là đủ đa dạng hoá" và "đặt cược nặng" chỉ hợp lý khi đi cùng các điều kiện mà chính chương nêu: hiểu sâu doanh nghiệp, vòng tròn năng lực rõ ràng, không dùng nợ, chịu được giá giảm mạnh (hợp danh Munger từng lỗ khoảng 30% mỗi năm trong hai năm liền), và có thu nhập, tài sản khác để không phải bán lúc xấu. Với người mới, những điều kiện đó thường không có, và danh mục tập trung có thể dẫn tới mất vốn vĩnh viễn, đúng điều nguyên tắc số 1 dặn tránh.
+
+Tương tự, "chỉ cần vài quyết định trong đời" dễ bị hiểu là ít phải làm việc, trong khi chương nói rõ công việc học và nghĩ là liên tục, chỉ có giao dịch là hiếm. Câu "lãi kép là kỳ quan thứ tám" gán cho Einstein là một trích dẫn không có nguồn; ý thì đúng, nhưng tên tác giả nên được đọc dè dặt.
 
 ### Từ khi sách in, nhiều điều đã thay đổi, và phần lớn củng cố luận điểm về phá huỷ cạnh tranh
 
-General Electric, công ty duy nhất còn sống trong danh sách năm 1911, sau này sa sút, bị loại khỏi chỉ số Dow Jones và tách thành ba công ty; đây là minh hoạ mạnh cho chính hộp "Competitive Destruction". Thái độ "công nghệ là quá khó hiểu" cũng đã được Berkshire điều chỉnh: từ 2016, Berkshire mua lượng lớn cổ phiếu Apple và nó trở thành khoản nắm giữ lớn nhất, cho thấy nguyên tắc số 9 (sửa ý tưởng yêu thích) được áp dụng thật; năm 2008, theo đề xuất của Munger (người được Li Lu giới thiệu), Berkshire cũng mua cổ phần hãng BYD của Trung Quốc, một công ty công nghệ pin và ô tô điện. Quỹ chỉ số chi phí thấp phát triển mạnh, khiến việc "vượt trung bình" khó hơn và làm nổi bật lời của Munger rằng bắt chước bầy đàn chỉ cho kết quả trung bình; đồng thời chính Munger và Buffett khuyên phần lớn người không chuyên nên mua quỹ chỉ số. Tài chính hành vi, thứ mà "phân tích hai lớp" đi trước, đã trở thành dòng chính (Kahneman nhận giải Nobel năm 2002, Thaler năm 2017).
+General Electric, công ty duy nhất còn sống trong danh sách năm 1911, sau này sa sút, bị loại khỏi chỉ số Dow Jones và tách thành ba công ty; đây là minh hoạ mạnh cho chính hộp "Competitive Destruction". Thái độ "công nghệ là quá khó hiểu" cũng đã được Berkshire điều chỉnh: từ 2016, Berkshire mua lượng lớn cổ phiếu Apple và nó trở thành khoản nắm giữ lớn nhất, cho thấy nguyên tắc số 9 (sửa ý tưởng yêu thích) được áp dụng thật; năm 2008, theo đề xuất của Munger (người được Li Lu giới thiệu), Berkshire cũng mua cổ phần hãng BYD của Trung Quốc, một công ty công nghệ pin và ô tô điện.
+
+Quỹ chỉ số chi phí thấp phát triển mạnh, khiến việc "vượt trung bình" khó hơn và làm nổi bật lời của Munger rằng bắt chước bầy đàn chỉ cho kết quả trung bình; đồng thời chính Munger và Buffett khuyên phần lớn người không chuyên nên mua quỹ chỉ số. Tài chính hành vi, thứ mà "phân tích hai lớp" đi trước, đã trở thành dòng chính (Kahneman nhận giải Nobel năm 2002, Thaler năm 2017).
 
 ### Quan điểm trái chiều: đa dạng hoá và thị trường hiệu quả vẫn có lý lẽ mạnh
 
-Trường phái tài chính học thuật cho rằng phần lớn nhà đầu tư, kể cả chuyên nghiệp, không vượt được thị trường sau phí, nên đa dạng hoá rộng và chi phí thấp là lựa chọn hợp lý hơn danh mục ba cổ phiếu. Thành tích của Munger và Buffett có thể được giải thích một phần bằng thiên lệch người sống sót (ta chỉ nghe chuyện những người tập trung mà thắng), bằng lợi thế đặc thù (quỹ thả nổi bảo hiểm làm nguồn vốn rẻ, quy mô đủ lớn để mua cả doanh nghiệp và tham gia quản trị) và bằng những yếu tố mà nghiên cứu sau này đo được (cổ phiếu chất lượng cao, rủi ro thấp). Những người phê phán "mạng lưới mô hình tư duy" cũng nói rằng nó dễ thành danh sách thuật ngữ để trích dẫn hơn là kỹ năng thật, nếu không có hàng chục năm thực hành như Munger. Chương không bàn các lý lẽ này; người đọc nên đặt chúng cạnh nhau.
+Trường phái tài chính học thuật cho rằng phần lớn nhà đầu tư, kể cả chuyên nghiệp, không vượt được thị trường sau phí, nên đa dạng hoá rộng và chi phí thấp là lựa chọn hợp lý hơn danh mục ba cổ phiếu. Thành tích của Munger và Buffett có thể được giải thích một phần bằng thiên lệch người sống sót (ta chỉ nghe chuyện những người tập trung mà thắng), bằng lợi thế đặc thù (quỹ thả nổi bảo hiểm làm nguồn vốn rẻ, quy mô đủ lớn để mua cả doanh nghiệp và tham gia quản trị) và bằng những yếu tố mà nghiên cứu sau này đo được (cổ phiếu chất lượng cao, rủi ro thấp).
+
+Những người phê phán "mạng lưới mô hình tư duy" cũng nói rằng nó dễ thành danh sách thuật ngữ để trích dẫn hơn là kỹ năng thật, nếu không có hàng chục năm thực hành như Munger. Chương không bàn các lý lẽ này; người đọc nên đặt chúng cạnh nhau.
 
 ### Vận dụng: trước mỗi quyết định lớn, hãy đảo ngược, xác định vòng tròn năng lực, so giá trị với giá và tự hỏi mình có đang tự lừa mình không
 
 - **Trong đầu tư.** Xếp mọi ý tưởng vào ba giỏ trước khi phân tích; viết ra lý do mình hiểu doanh nghiệp này hơn thị trường, và điều gì có thể giết nó; tính lại số liệu kế toán (dòng tiền tự do thật, tài sản vô hình, nghĩa vụ ngoài bảng); đánh giá con hào và ban lãnh đạo trước khi nhìn giá; đặt một biên an toàn; rà danh sách "trước khi bóp cò"; khi chưa có "quả bóng béo" thì giữ tiền mặt mà không áy náy; nếu không đủ thời gian và năng lực để làm những việc này thì nhận ra đó là giới hạn của vòng tròn năng lực và chọn quỹ chỉ số chi phí thấp.
 - **Trong doanh nghiệp và nghề nghiệp.** Học thêm ít nhất một ngành ngoài chuyên môn tới mức thành thạo các ý lớn (tâm lý học, thống kê, lịch sử) để tránh hội chứng người cầm búa; khi lập chiến lược, hỏi "con hào của chúng ta là gì và năm nay đã rộng thêm chưa?"; khi đánh giá đối tác hay ứng viên, coi tư cách và danh tiếng là bộ lọc đầu tiên; xây danh sách kiểm tra riêng cho các quyết định lặp lại (tuyển người, ký hợp đồng, đầu tư thiết bị); đánh giá nhân viên theo chất lượng quyết định chứ không chỉ theo kết quả may rủi.
 - **Trong ra quyết định cá nhân.** Dùng tư duy đảo ngược cho các quyết định đời sống (sức khoẻ, nợ nần, các mối quan hệ): liệt kê những gì chắc chắn làm hỏng đời mình và tránh chúng trước; mỗi năm thử phá bỏ một niềm tin mình yêu thích nhất bằng cách tìm bằng chứng ngược; đọc đều đặn và học qua sai lầm của người khác; giữ một vùng an toàn rộng giữa điều mình làm và lằn ranh pháp luật, đạo đức.
-- **Ở Việt Nam.** Thị trường có nhiều nhà đầu tư cá nhân giao dịch ngắn hạn và dễ bị cuốn theo tin đồn, nên những lời dặn "đừng vung gậy quá thường xuyên", "tránh thuế và phí ma sát", "đừng bắt chước bầy đàn" có giá trị trực tiếp; đồng thời chất lượng công bố thông tin và quản trị công ty không đồng đều, nên thái độ hoài nghi với báo cáo tài chính, việc đánh giá ban lãnh đạo "đáng tin và hướng về cổ đông" và việc tránh người có tư cách đáng ngờ càng quan trọng. Thanh khoản thấp ở nhiều mã làm câu hỏi "giá, khối lượng giao dịch" trong danh sách "trước khi bóp cò" trở nên thực tế. Các doanh nghiệp gia đình và doanh nghiệp vừa có thể dùng khung "con hào" và "phá huỷ cạnh tranh" để tự hỏi lợi thế của mình còn bền bao lâu khi đối thủ lớn hoặc đối thủ "cuồng nhiệt" xuất hiện.
+- **Ở Việt Nam.** Thị trường có nhiều nhà đầu tư cá nhân giao dịch ngắn hạn và dễ bị cuốn theo tin đồn, nên những lời dặn "đừng vung gậy quá thường xuyên", "tránh thuế và phí ma sát", "đừng bắt chước bầy đàn" có giá trị trực tiếp; đồng thời chất lượng công bố thông tin và quản trị công ty không đồng đều, nên thái độ hoài nghi với báo cáo tài chính, việc đánh giá ban lãnh đạo "đáng tin và hướng về cổ đông" và việc tránh người có tư cách đáng ngờ càng quan trọng.
+
+  Thanh khoản thấp ở nhiều mã làm câu hỏi "giá, khối lượng giao dịch" trong danh sách "trước khi bóp cò" trở nên thực tế. Các doanh nghiệp gia đình và doanh nghiệp vừa có thể dùng khung "con hào" và "phá huỷ cạnh tranh" để tự hỏi lợi thế của mình còn bền bao lâu khi đối thủ lớn hoặc đối thủ "cuồng nhiệt" xuất hiện.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 2 trên một trang: sáu nhánh lớn đi theo các mục 1–22 của phần Nội dung chi tiết (phần mở đầu về Franklin và hệ sinh thái, mạng lưới mô hình tư duy, ít giao dịch cùng tư duy đảo ngược và phân tích hai lớp, quy trình đánh giá đầu tư, danh sách kiểm tra mười nguyên tắc và bốn phẩm chất, sự trung thực), mỗi nhánh ghi nguyên tắc, câu nói và con số then chốt của Munger; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 2: thành tích của Munger là sản phẩm phụ của một cách sống và cách nghĩ được tổ chức kỹ, không phải công thức bí mật`"]
+  n1["`Mục 1–2 — Mở đầu: Munger tự học như Franklin và nhìn kinh tế như hệ sinh thái`"]
+  n0 --- n1
+  n2["`Vài lần trong đời, chuẩn bị sẵn để hành động nhanh và quy mô lớn thì kết quả tài chính cả đời tốt lên rất nhiều`"]
+  n1 --- n2
+  n3["`Đề từ của chương: hãy lấy một ý đơn giản và nghiêm túc với nó`"]
+  n1 --- n3
+  n4["`Franklin, người hùng của Munger, phần lớn tự học mà thành công ở báo chí, khoa học, ngoại giao, phát minh`"]
+  n1 --- n4
+  n5["`Munger tự rèn thành bậc thầy về chuẩn bị, kiên nhẫn, kỷ luật và khách quan`"]
+  n1 --- n5
+  n6["`Buffett: Charlie thấy điểm yếu thật của một thương vụ trong sáu mươi giây`"]
+  n1 --- n6
+  n7["`Kinh tế thị trường giống hệ sinh thái: người chuyên vào một ngách hẹp có thể làm ăn rất tốt`"]
+  n1 --- n7
+  n8["`Hệ thống thắng cuộc đẩy tối đa hoặc tối thiểu một vài biến số tới mức gần như phi lý, như Costco`"]
+  n1 --- n8
+  n9["`Mục 3–6 — Mạng lưới mô hình tư duy từ nhiều ngành`"]
+  n0 --- n9
+  n10["`Phải biết những ý lớn của các ngành lớn, tất cả chứ không chỉ vài cái`"]
+  n9 --- n10
+  n11["`Hội chứng người cầm búa: chỉ có một mô hình thì mọi vấn đề trông như cái đinh`"]
+  n9 --- n11
+  n12["`Khoảng một trăm mô hình đan thành mạng lưới, thu bài toán đầu tư rối rắm về bộ yếu tố cơ bản`"]
+  n9 --- n12
+  n13["`Mô hình then chốt: dự phòng (kỹ thuật), lãi kép (toán), điểm gãy và tự xúc tác (vật lý, hoá), Darwin, phán đoán sai (tâm lý)`"]
+  n12 --- n13
+  n14["`Hiệu ứng Lollapalooza: hai, ba, bốn lực cùng hướng cộng hưởng như khối lượng tới hạn`"]
+  n9 --- n14
+  n15["`Thường gặp hơn là các lực xung đột, ai không nghĩ theo đánh đổi là kẻ ngốc`"]
+  n14 --- n15
+  n16["`Phá bỏ ý tưởng yêu thích: năm nào không phá bỏ được một ý như vậy có lẽ là năm phí hoài`"]
+  n9 --- n16
+  n17["`Sự đơn giản là kết quả cuối của công việc lâu dài, vất vả, không phải điểm xuất phát (Maitland)`"]
+  n9 --- n17
+  n18["`Giáo sư không nhắc tới sự phi lý trong kinh doanh nên Munger tự học như cô Gà Mái Đỏ`"]
+  n9 --- n18
+  n19["`Bill Gross: có câu trả lời đáng hàng tỷ đô la trong một cuốn sách sử giá 30 đô la`"]
+  n9 --- n19
+  n20["`Mục 7–10 — Ít giao dịch, tư duy đảo ngược và phân tích hai lớp`"]
+  n0 --- n20
+  n21["`Munger chưa học khoá nào về hoá học, kinh tế học, tâm lý học hay kinh doanh`"]
+  n20 --- n21
+  n22["`Chuẩn bị, kiên nhẫn, kỷ luật, khách quan dẫn tới rất ít mua bán và cược rất lớn`"]
+  n20 --- n22
+  n23["`Đầu tư ngồi yên: ít phí môi giới, ít chuyện nhảm, thuế cho thêm 1–3 điểm phần trăm mỗi năm`"]
+  n20 --- n23
+  n24["`Ba công ty là đủ đa dạng hoá, ngồi nhiều năm với 10–12 triệu USD trái phiếu chờ đợi`"]
+  n20 --- n24
+  n25["`Ted Williams chia vùng đánh thành 77 ô, chỉ vung gậy với quả bóng béo và khi đó vung toàn lực`"]
+  n20 --- n25
+  n26["`Tấm thẻ 20 lỗ cho cả đời đầu tư buộc nghĩ kỹ và dồn tiền vào điều đã nghĩ kỹ`"]
+  n20 --- n26
+  n27["`Khí chất sói đơn độc: bình thản bơi ngược dòng bầy đàn, mãi mãi nếu cần`"]
+  n20 --- n27
+  n28["`Đảo ngược: tôi chỉ muốn biết mình sẽ chết ở đâu để không bao giờ tới đó`"]
+  n20 --- n28
+  n29["`Đại hội 2004: đừng dùng cocaine, đừng đua với tàu hoả, tránh tình huống có thể nhiễm AIDS`"]
+  n28 --- n29
+  n30["`Tránh ghen tị với vật lý: đơn giản nhất có thể nhưng không đơn giản hơn`"]
+  n20 --- n30
+  n31["`Ngài Thị trường của Graham: ngắn hạn là cỗ máy bỏ phiếu, dài hạn là cỗ máy cân`"]
+  n20 --- n31
+  n32["`Phân tích hai lớp: lớp lý trí như giải bài bridge, lớp tâm lý vô thức nơi não hay kết luận sai`"]
+  n20 --- n32
+  n33["`Đầu tư giá trị là tìm ván cược bị định giá sai: ngựa cơ hội thắng 1/2 trả thưởng 3 ăn 1`"]
+  n20 --- n33
+  n34["`Mục 11–15 — Quy trình đánh giá một khoản đầu tư`"]
+  n0 --- n34
+  n35["`Coi cổ phiếu là quyền sở hữu doanh nghiệp, tìm giá trị dòng tiền chiết khấu lớn hơn số tiền trả`"]
+  n34 --- n35
+  n36["`Vòng tròn năng lực: tôi giỏi ở vài chỗ và ở quanh những chỗ đó (Thomas Watson Sr.)`"]
+  n34 --- n36
+  n37["`Planck hay người tài xế: không trả lời được câu hỏi tiếp theo là đang ở ngoài vòng tròn`"]
+  n36 --- n37
+  n38["`Ba giỏ có, không, quá khó hiểu: dược phẩm và công nghệ quá khó, IPO quảng bá rầm rộ bị loại`"]
+  n34 --- n38
+  n39["`Báo cáo tài chính chỉ là điểm bắt đầu: tính lại tiền của chủ sở hữu, lợi thế thương mại, quyền chọn`"]
+  n34 --- n39
+  n40["`Quỹ thả nổi bảo hiểm, trên sổ là nợ, có khi đúng hơn là một tài sản`"]
+  n39 --- n40
+  n41["`Ban lãnh đạo phải giỏi, đáng tin và hướng về chủ sở hữu, không tăng trưởng vì cái tôi`"]
+  n34 --- n41
+  n42["`Con hào kinh tế phải sâu và được nới rộng mỗi năm, hào mong manh thì để yên`"]
+  n34 --- n42
+  n43["`Phá huỷ cạnh tranh: trong 50 cổ phiếu quan trọng nhất năm 1911 chỉ General Electric còn độc lập`"]
+  n34 --- n43
+  n44["`Doanh nghiệp tuyệt vời ở giá hợp lý tốt hơn doanh nghiệp hợp lý ở giá tuyệt vời`"]
+  n34 --- n44
+  n45["`Munger kéo Buffett từ kiểu mẩu xì gà của Graham sang Washington Post, GEICO, Coca-Cola, Gillette`"]
+  n44 --- n45
+  n46["`Danh sách trước khi bóp cò: giá, khối lượng, thời điểm công bố, chiến lược thoát, chi phí cơ hội`"]
+  n34 --- n46
+  n47["`Chơi đúng ván bài như Zeckhauser: kết quả xấu tha thứ được, chuẩn bị cẩu thả thì không`"]
+  n34 --- n47
+  n48["`Kiên nhẫn cực độ kết hợp quyết đoán cực độ: cược lớn, không mua thăm dò`"]
+  n34 --- n48
+  n49["`Biên an toàn như sức chịu thừa của cây cầu, Louisiana mua 15 triệu USD, khoảng 2,9 cent mỗi mẫu Anh`"]
+  n34 --- n49
+  n50["`Mục 16–19 — Danh sách kiểm tra mười nguyên tắc và bốn phẩm chất`"]
+  n0 --- n50
+  n51["`Mười nguyên tắc không có thứ tự ưu tiên, dùng như một tổng thể như viên gạch trong bức khảm`"]
+  n50 --- n51
+  n52["`Rủi ro: bắt đầu bằng đo rủi ro danh tiếng, có biên an toàn, tránh mất vốn vĩnh viễn`"]
+  n50 --- n52
+  n53["`Độc lập: bắt chước bầy đàn dẫn tới hồi quy về trung bình`"]
+  n50 --- n53
+  n54["`Chuẩn bị và khiêm tốn trí tuệ: hỏi vì sao mãi, đừng tự lừa mình vì mình là người dễ lừa nhất`"]
+  n50 --- n54
+  n55["`Phân tích nghiêm ngặt: tách giá trị khỏi giá, làm nhà phân tích doanh nghiệp, đảo ngược`"]
+  n50 --- n55
+  n56["`Phân bổ vốn đo bằng chi phí cơ hội, cược nặng khi xác suất nghiêng hẳn về mình`"]
+  n50 --- n56
+  n57["`Kiên nhẫn: đừng ngắt lãi kép khi không cần, đừng hành động chỉ để hành động`"]
+  n50 --- n57
+  n58["`Quyết đoán: sợ khi người khác tham, tham khi người khác sợ`"]
+  n50 --- n58
+  n59["`Thay đổi và tập trung: nhận ra thực tế nhất là khi không thích, danh tiếng mất trong một nhịp tim`"]
+  n50 --- n59
+  n60["`Bỏ mười lăm quyết định tốt nhất thì thành tích của Berkshire chỉ khá trung bình`"]
+  n50 --- n60
+  n61["`Cuộc chơi là tiếp tục học, người không thích quá trình học sẽ không tiếp tục học`"]
+  n50 --- n61
+  n62["`Bốn phẩm chất chuẩn bị, kỷ luật, kiên nhẫn, quyết đoán: thiếu một thì các cái kia mất tác dụng`"]
+  n50 --- n62
+  n63["`Ít bàn chuyện bán: mua vài công ty tuyệt vời thì ngồi yên, không phải quyết định thêm`"]
+  n50 --- n63
+  n64["`Mục 20–22 — Trung thực là chính sách tốt nhất`"]
+  n0 --- n64
+  n65["`Munger trả đủ mệnh giá giấy nợ cho hai bà cụ dù có thể mua lại rẻ hơn nhiều`"]
+  n64 --- n65
+  n66["`Guerin đặt giá 130.000 USD, Munger trả 230.000 USD vì đó mới là giá đúng`"]
+  n64 --- n66
+  n67["`Wesco không thao túng để một quý trông khá hơn, nói thật thì không phải nhớ lời nói dối`"]
+  n64 --- n67
+  n68["`La bàn nội tâm: một vùng rất rộng giữa điều sẵn lòng làm và điều làm được mà không bị phạt`"]
+  n64 --- n68
+  n69["`Franklin: trung thực là chính sách tốt nhất, và thường đạo đức mang lại thêm tiền`"]
+  n64 --- n69
+  n70["`Đấu giá kín hay bị thắng bởi người mắc lỗi kỹ thuật, như Shell trả gấp đôi mua Belridge Oil`"]
+  n64 --- n70
+  n71["`Thông điệp xuyên suốt`"]
+  n0 --- n71
+  n72["`Loại nhanh những việc không nên làm, tấn công đa ngành phần còn lại, rồi quyết đoán khi hoàn cảnh phù hợp`"]
+  n71 --- n72
+  n73["`Sự nhanh nhạy của Munger đến ở cuối cả đời học nhiều ngành, không ở đầu`"]
+  n71 --- n73
+  n74["`Không có công thức chép được: mỗi người phải tự xây danh sách kiểm tra và mạng lưới mô hình`"]
+  n71 --- n74
+  class n0 root
+  class n1,n9,n20,n34,n50,n64,n71 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n33,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n46,n47,n48,n49,n51,n52,n53,n54,n55,n56,n57,n58,n59,n60,n61,n62,n63,n65,n66,n67,n68,n69,n70,n72,n73,n74 leaf
+```
+
+## Nguồn
+
+*Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger*, biên tập Peter D. Kaufman, The Donning Company Publishers, ấn bản mở rộng thứ ba (Expanded Third Edition, 2005/2006/2008; bản PDF là lần in thứ sáu, 2011), Chapter Two "The Munger Approach to Life, Learning, and Decision Making", trang in 52–81 (gồm cả trang đề từ 52, mục "Honesty Is the Best Policy" ở trang 78–80 và hộp "Our First 'I Have Nothing to Add'..." ở trang 81).
+
+## Tác giả
+
+Peter D. Kaufman, người biên tập cả cuốn sách, chủ tịch và tổng giám đốc công ty Glenair, bạn lâu năm của Munger. Chương do Kaufman viết như một bản tổng quan, nhưng phần lớn ý được dẫn bằng chính lời Munger (trích từ các bài nói, đại hội cổ đông, phỏng vấn); ngoài ra có lời của Warren Buffett, Li Lu, Bill Gross, Rick Guerin, Wendy Munger và nhiều câu trích của các nhân vật lịch sử do nhóm biên tập đặt ở lề trang.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 1 (gồm ba phần: chân dung Munger của Michael Broggie, bài Munger nói về tuổi già, và hồi ức của các con) cho người đọc biết Munger là ai và đã sống thế nào.
+
+Chương 2 là chương nền tảng, nói Munger **nghĩ** thế nào: nó rút ra phương pháp chung (mạng lưới mô hình tư duy, tư duy đảo ngược, vòng tròn năng lực, phân tích hai lớp lý trí và tâm lý), rồi trình bày quy trình Munger đánh giá một khoản đầu tư và tóm lại bằng một danh sách kiểm tra mười nguyên tắc đầu tư.
+
+Người biên tập nói rõ chương này chỉ là "bản phác thảo" chuẩn bị cho phần chi tiết phía sau: chương 3 ("Mungerisms", lời Munger nói không soạn trước ở các đại hội cổ đông) và chương 4 (mười một bài nói nguyên văn) là nơi Munger tự trình bày các ý này bằng lời của mình, đặc biệt các bài 2, 3 và 4 về mô hình tư duy ([Bài 2](C04-B02-bai-hoc-ve-tri-tue-the-gian-so-dang.md), [Bài 3](C04-B03-bai-hoc-ve-tri-tue-the-gian-so-dang-nhin-lai.md), [Bài 4](C04-B04-tu-duy-thuc-tien-ve-tu-duy-thuc-tien.md)), bài 5 về danh sách kiểm tra ([Bài 5](C04-B05-dien-van-hop-mat-50-nam-truong-luat-harvard.md)) và bài 11 về 25 khuynh hướng tâm lý gây phán đoán sai ([Bài 11](C04-B11-tam-ly-hoc-ve-phan-doan-sai-lam-cua-con-nguoi.md)).
+
+## Lưu ý
+
+- **Bối cảnh thời điểm.** Chương viết cho ấn bản đầu (2005) và được giữ trong ấn bản mở rộng thứ ba (2008); các mốc mới nhất được nhắc là đại hội Berkshire Hathaway 2004, đại hội Wesco 2004 và giá đô la năm 2006. Các con số như "175.000 nhân viên của Berkshire", "Li Lu của LL Investment Partners", "Bill Gross của PIMCO" là theo thời điểm đó. Theo hiểu biết của người tổng hợp, Bill Gross rời PIMCO năm 2014; quỹ của Li Lu được biết rộng rãi với tên Himalaya Capital; Berkshire sau này có gần 400.000 nhân viên. Munger mất năm 2023.
+- **Bố cục của bản gốc.** Thân bài chỉ có ba tiêu đề lớn: "Munger's 'Multiple Mental Models' Approach to Business Analysis and Assessment" (trang in 55), "Munger's Investment Evaluation Process" (trang in 65) và "An Investing Principles Checklist" (trang in 73), sau đó là mục "Honesty Is the Best Policy" (trang in 78) và hộp "Our First 'I Have Nothing to Add'..." (trang in 81). Phần mở đầu chương (trang in 53–54) không có tiêu đề riêng.
+
+  Gần như mọi trang có hộp bên lề, ảnh và câu trích in nổi do nhóm biên tập đặt; bản tổng hợp gom các hộp của một nhóm trang vào một khối `###` riêng, ghi rõ "hộp bên lề của người biên tập" và trang in, để tách với lời Kaufman trong thân bài và lời Munger. Một số câu in nổi lớn giữa trang không ghi tên người nói (ví dụ "All intelligent investing is value investing...", "Understanding both the power of compound interest...", "No wise pilot..."); theo ngữ cảnh và theo hiểu biết của người tổng hợp đó là lời Munger, bản tổng hợp ghi "câu in nổi, theo ngữ cảnh là lời Munger".
+- **Danh sách kiểm tra mười nguyên tắc** (trang in 73–76) không đánh số trong bản gốc mà dùng dấu ô vuông; bản tổng hợp đánh số 1–10 theo đúng thứ tự in (Risk, Independence, Preparation, Intellectual humility, Analytic rigor, Allocation, Patience, Decisiveness, Change, Focus) để dễ tra. Người biên tập nói rõ các nguyên tắc này không có thứ tự ưu tiên.
+- **Chỗ trỏ sang trang khác của sách gốc** được thay bằng nội dung: "phân tích của Warren Buffett về hợp danh Munger 1962–1975 ở trang 21" là bảng thành tích ở chương 1 (theo hiểu biết của người tổng hợp, Buffett ghi hợp danh của Munger đạt lãi kép khoảng 19,8% mỗi năm trong 1962–1975 so với khoảng 5% của chỉ số Dow Jones, với hai năm 1973 và 1974 lỗ khoảng 31–32% mỗi năm; xem [chương 1, phần chân dung](C01a-chan-dung-charles-t-munger.md)); "Talk Five and page 320" là bài 5 (trang 320 nằm ở phần cuối bài 5); "Talk Nine (page 400)" là bài 9 *Academic Economics*, nơi kể chuyện Max Planck và người tài xế ([Bài 9](C04-B09-kinh-te-hoc-han-lam.md)); "Talk Eleven" là bài về 25 nguyên nhân phán đoán sai; "Appendix" là danh sách sách nên đọc ([Phụ lục](PL-phu-luc-sach-nen-doc-va-bai-viet.md)).
+- **Lỗi OCR ảnh hưởng tới nghĩa đã được sửa theo ảnh trang:** "faro-track analysis" là *two-track analysis* (phân tích hai lớp); "interests incoleed" là *interests involved*; "Thomas Warson Sr." là Thomas Watson Sr. (người sáng lập IBM); "Mr. Marker" là Mr. Market; "Dar@in's Blind Spot" là *Darwin's Blind Spot*; "Buffent", "sureive" là Buffett, survive; "intrinsie calue" là intrinsic value; "Consisent with his Midwesse rots" là *Consistent with his Midwestern roots*; "S12 million" là 12 triệu USD; "Descipline" là Discipline; "minutiac" là minutiae.
+
+  Hộp khung ở trang in 69 bị OCR thành chữ vụn; ảnh trang cho thấy đó là bức thêu tiêu đề "Munger's Three Great Lessons of Investing" với cùng một câu lặp lại ba lần (một cách nói đùa). Trang in 57 là trang ảnh đồ thị toạ độ; các ký tự "ORIGIN", "X AXIS", "P(5,2)" chỉ là hình trang trí.
+- **Câu bị bỏ dở trong bản in:** đoạn cuối trang in 56 kết thúc bằng "By applying this framework," rồi chuyển sang hai trang hộp; trang in 59 bắt đầu một câu mới, nên mệnh đề này không có phần sau. Bản tổng hợp ghi rõ chỗ bỏ dở, không tự điền.
+- **Chỗ sách có thể sai hoặc cần dè dặt (theo hiểu biết của người tổng hợp, không tra cứu thêm):**
+  - Câu "lãi kép là kỳ quan thứ tám của thế giới" được gán cho Einstein trong danh sách kiểm tra; giới nghiên cứu cho rằng không có bằng chứng Einstein nói câu này.
+  - Hộp "Price is What You Pay, Value is What You Get" ghi Alaska được mua với khoảng 2,5 cent mỗi mẫu Anh và giá 7,2 triệu USD tương đương 1,67 tỷ USD năm 2006. Chia 7,2 triệu USD cho khoảng 375 triệu mẫu Anh của Alaska ra gần 2 cent mỗi mẫu; và điều chỉnh theo chỉ số giá tiêu dùng chỉ ra khoảng hơn 100 triệu USD năm 2006. Con số 1,67 tỷ có lẽ dùng một cách quy đổi khác (ví dụ theo tỷ lệ so với quy mô nền kinh tế). Con số Louisiana (15 triệu USD, khoảng 2,9 cent mỗi mẫu) gần với cách tính thường gặp.
+  - Hộp "Competitive Destruction" nói trong năm mươi cổ phiếu quan trọng nhất năm 1911 chỉ General Electric còn là công ty lớn độc lập. Sau khi sách in, GE gặp khủng hoảng, bị loại khỏi chỉ số Dow Jones năm 2018 và tách thành ba công ty trong 2023–2024, điều này càng củng cố chính luận điểm của hộp.
+  - Hai câu dưới chân dung ở trang in 80 không ghi tên người nói. Câu "Ability will get you to the top, but it takes character to keep you there" đặt dưới chân dung Abraham Lincoln nhưng thường được gán cho huấn luyện viên John Wooden; câu "Trickery and treachery are the practices of fools..." đặt dưới chân dung Benjamin Franklin và đúng là của Franklin (trong *Poor Richard's Almanack*).
+  - Câu Jesse Livermore được dẫn ("tiền lớn không nằm ở việc mua bán mà ở việc chờ đợi") là cách nói lại ý trong *Reminiscences of a Stock Operator*, không phải nguyên văn.
+  - Chuyện Max Planck và người tài xế được chính sách gọi là chuyện truyền miệng không có thật (*apocryphal*).

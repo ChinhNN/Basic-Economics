@@ -1,19 +1,16 @@
 # Chương 3 — Mungerisms: Charlie nói không cần kịch bản (Mungerisms: Charlie Unscripted)
 
-**Nguồn:** *Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger*, biên tập Peter D. Kaufman, The Donning Company Publishers, ấn bản mở rộng thứ ba (Expanded Third Edition), Chương 3 "Mungerisms: Charlie Unscripted — Highlights from Recent Berkshire Hathaway and Wesco Financial Annual Meetings", trang in 82–147. Đây là tập trích những câu Munger nói (phần lớn là trả lời câu hỏi của cổ đông) tại các đại hội cổ đông thường niên của Berkshire Hathaway ở Omaha và của Wesco Financial ở Pasadena, trong khoảng năm năm trước khi sách ra đời (khoảng 1999–2004), do Whitney Tilson ghi chép, chọn lọc, xếp theo chủ đề và biên tập nhẹ.
-**Tác giả:** Lời là của Charles T. Munger (1924–2023), phó chủ tịch Berkshire Hathaway và chủ tịch Wesco Financial; người ghi chép và biên soạn là Whitney Tilson, nhà quản lý quỹ đầu tư giá trị ở New York, người nhiều năm dự cả hai đại hội. Xen giữa là các hộp bên lề do người biên tập (Peter Kaufman và nhóm) thêm vào: lời của bạn bè, cộng sự và các nhà quản lý công ty con về Munger, tiểu sử ngắn nhân vật và doanh nghiệp, chú thích ảnh. Cuối chương có bốn trang lời qua lại giữa Munger với Lou Simpson (GEICO) và Jim Sinegal (Costco).
-**Vị trí trong lập luận của cả cuốn sách:** Chương 1 vẽ chân dung con người Munger (tiểu sử, tuổi già, lời các con); Chương 2 tóm hệ thống cách sống, học và ra quyết định của ông thành một cách tiếp cận có tổ chức (trí tuệ thế gian, mạng lưới mô hình tư duy, danh sách kiểm tra, vòng tròn năng lực). Chương 3 là cầu nối giữa phần "giới thiệu về Munger" và phần "Munger tự nói" ở Chương 4 (mười một bài nói): ở đây người đọc nghe chính ông nói, nhưng không phải bài soạn sẵn mà là phản xạ tự nhiên trước các câu hỏi bất kỳ. Vì vậy chương này cho thấy các nguyên tắc ở Chương 2 được ông áp dụng ra sao vào những việc cụ thể: điều hành Berkshire, chọn cổ phiếu, phán xét kế toán, quyền chọn cổ phiếu, phái sinh, luật sư, giới học thuật, và cách sống. Nhiều ý ở đây (khuynh hướng tâm lý, đố kỵ, thiên lệch do động cơ khuyến khích, tự lừa mình) sẽ được ông trình bày có hệ thống ở Bài 11 "The Psychology of Human Misjudgment".
-**Ý chính:** Qua hàng trăm câu trả lời ngắn, Munger cho thấy thành công của Berkshire không đến từ trí thông minh siêu phàm mà từ việc **luôn nhớ những điều hiển nhiên, cố gắng một cách nhất quán để không ngu ngốc, và đứng cách xa ranh giới của điều luật pháp cho phép**. Về đầu tư, ông khuyên kiên nhẫn chờ cơ hội lớn hiếm hoi (chờ "cú ném dễ đánh"), dồn tiền mạnh vào vài doanh nghiệp tốt thay vì đa dạng hoá quá mức, chỉ đánh trong vòng tròn năng lực của mình, so mọi lựa chọn bằng chi phí cơ hội thay vì "chi phí vốn" sách vở, và sẵn sàng trả giá cao cho chất lượng (bài học See's Candy). Ông thừa nhận sai lầm lớn nhất của Berkshire là sai lầm do không hành động (không mua Wal-Mart, mất khoảng 10 tỷ USD). Về Berkshire, ông liên tục hạ kỳ vọng của cổ đông: công ty quá lớn nên tốc độ tăng trưởng chắc chắn sẽ chậm lại. Phần lớn chương là lời phê phán gay gắt các thực hành mà ông cho là hư hỏng trong đời sống tài chính Mỹ: kế toán "sáng tạo" và EBITDA, giả định lợi suất quỹ hưu trí phi thực tế, quyền chọn cổ phiếu không ghi nhận chi phí, sổ sách phái sinh mà ông gọi là "cống rãnh", ngành quản lý tiền thu phí cao mà không tạo giá trị, Phố Wall coi "bán được không" là phép thử đạo đức, các hãng kiểm toán và luật bán sản phẩm trốn thuế gian lận, hệ thống kiện tụng amiăng. Cuối cùng là lời khuyên sống: dùng nhiều mô hình tư duy thay vì "cầm búa nhìn đâu cũng thấy đinh", không tự lừa mình, đọc liên tục, tránh đố kỵ và nợ nần, mỗi ngày cố khôn hơn hôm qua một chút, và muốn có người bạn đời tốt thì hãy xứng đáng với họ.
+## Ý chính
 
-> **Lưu ý:**
-> - **Bản chất của chương.** Đây không phải một bài viết liền mạch mà là tập trích, đã được Whitney Tilson biên tập nhẹ; chữ trong ngoặc vuông [ ] là chữ người biên soạn thêm để làm rõ ngữ cảnh, hoặc là lời của Buffett chen vào. Bản tổng hợp giữ đúng thứ tự 17 chủ đề lớn và các tiểu mục của bản gốc, ghi rõ lời nào là của Buffett, của người biên soạn, hay của hộp bên lề.
-> - **Thời điểm.** Các câu nói rơi vào khoảng 1999–2004 (một số có ghi rõ tháng năm: [April 2000], [November 2000], [April 2001], [May 2001], [May 2004]); bốn trang cuối viết năm 2005. Các con số (Berkshire có khoảng 70 tỷ USD tiền mặt và trái phiếu, Buffett 72 tuổi, giao dịch 50 triệu USD cổ phiếu Berkshire mỗi ngày, NYSE giao dịch 1,46 tỷ cổ phiếu mỗi ngày) là số của thời điểm đó.
-> - **Những điều đã thay đổi từ khi nói (theo hiểu biết của người tổng hợp, không tra cứu):** Quy định bắt buộc ghi nhận quyền chọn cổ phiếu là chi phí đã được ban hành ở Mỹ (chuẩn mực FAS 123R, có hiệu lực từ khoảng 2005–2006), đúng như Munger đòi hỏi. Lời cảnh báo về một vụ đổ vỡ lớn liên quan tới phái sinh "trong năm đến mười năm tới" đã ứng nghiệm phần nào với khủng hoảng tài chính 2007–2009. Vụ kiện chống độc quyền của Chính phủ Mỹ với Microsoft đã kết thúc bằng thoả thuận dàn xếp năm 2001. Munger mất năm 2023, Buffett rút khỏi vị trí điều hành sau đó; câu hỏi "khi Buffett không còn" vì vậy nay mang ý nghĩa khác. "Eighty-eight senators" (88 thượng nghị sĩ) mà Munger chê có lẽ là cuộc bỏ phiếu 88–9 của Thượng viện Mỹ năm 1994 phản đối đề xuất buộc ghi nhận quyền chọn là chi phí.
-> - **Lỗi OCR đã sửa khi đọc:** "Buffert" là Buffett; "Weseo" là Wesco; "Royal Dutch [Shelll" là Royal Dutch Shell; "PetroChinal" là PetroChina; "Foeus Investing" là Focus Investing; "Cirele of Competence" là Circle of Competence; "mecting" là meeting; "east of mind" là cast of mind (nếp nghĩ); "carth" là earth; "intrinsie" là intrinsic; "Unseripted" là Unscripted; trang 121 và 131 bị đọc thành "12", "13"; "Vaughn Montoe" trong quảng cáo Camel là ca sĩ Vaughn Monroe; "Hendrickje Stofells" là Hendrickje Stoffels. Trong mục bảo hiểm, cụm "we de different things" là "we do different things".
-> - **Chỗ sách có thể sai hoặc cần đính chính (theo hiểu biết của người tổng hợp):** Hộp bên lề về Tòa án Tối cao Mỹ ghi "Judicial Act of 1799"; luật lập ra hệ thống toà án liên bang là Judiciary Act năm 1789. Buffett nói Robert Maxwell "tự tử" khi bê bối vỡ lở; thực tế Maxwell chết đuối khi rơi khỏi du thuyền năm 1991 và nguyên nhân (tai nạn, tự tử hay khác) chưa bao giờ được xác định chắc chắn. Hộp bên lề về Martha Stewart nói bà bị kết tội cản trở công lý và nói dối điều tra viên, không phải tội giao dịch nội gián; điều này khớp với ý Munger rằng tội của bà nằm ở lời nói dối chứ không ở giao dịch. Hộp về Carnegie ghi ông bán đế chế thép giá 500 triệu USD (con số thường được nêu là khoảng 480 triệu USD). Ví dụ Black-Scholes của Munger ở Costco (quyền chọn giá thực hiện 60 USD được định giá cao hơn quyền chọn giá thực hiện 30 USD) chỉ có thể xảy ra nếu hai quyền chọn có thời hạn hoặc giả định khác nhau; sách không nói rõ, bản tổng hợp ghi lại đúng lời ông.
-> - **Hộp bên lề.** Chương có rất nhiều hộp bên lề, chú thích ảnh và câu trích in nổi (NetJets, Andrew Carnegie, trò chơi Monopoly, Otis Booth, Al Ueltschi, Ajit Jain, Sở Giao dịch Chứng khoán New York, sách của Robert Hagstrom, người thợ sửa máy Maytag, Marc Hamburg, Chuck Rickershauser, những lời tri ân Munger, Harmon Killebrew, Will Rogers, See's Candies, Picasso, thành Osaka, Gregory Mankiw, eToys, Rembrandt, Nhật Bản, Enron, Coca-Cola, cuộc họp Wesco, Lou Simpson, C. F. Braun, Lincoln, Vermeer, Jim Sinegal, Mark Twain, Mad Hatter, Maggie Kaufman, sách *F.I.A.S.C.O.*, Martha Stewart, Tòa án Tối cao, Bill Gates, Trái Đất phẳng hay tròn, Henry Singleton, Plato, Ulysses, Géricault, Borges, Nancy Munger, Ben Franklin). Tất cả được đưa vào đúng chủ đề chứa chúng và được ghi rõ là "hộp bên lề của người biên tập". Một số ảnh chỉ có chú thích ngắn (ảnh Munger trên bãi biển lúc hoàng hôn ở trang in 82, chụp năm 2005 bởi Alan Levenson; ảnh chân dung Munger trước giá sách ở trang in 143) được nhắc ở đây và không có nội dung riêng.
-> - **Một trang lạ.** Trang in 112 có tiêu đề "'Nothing to Add' Number Two" và mở bằng câu "We continue with the question of how Charlie monitors broad economic trends and changes" (chúng tôi tiếp tục câu hỏi Charlie theo dõi xu hướng kinh tế vĩ mô ra sao), dù trước đó không có câu hỏi nào như vậy; có vẻ đây là một hộp của người biên tập nối với một phần khác của sách. Bản tổng hợp đặt nó trong chủ đề "Comments on the Market".
-> - **Ngôn ngữ.** Munger nói rất thô và rất mạnh ("bonkers", "bullshit earnings", "raisins and turds", "a sewer", "playing piano in a whorehouse"). Bản tổng hợp diễn đạt lại đủ sức nặng nhưng không cố giữ từng chữ thô; nguyên văn được giữ ở phần Câu nói đáng nhớ.
+Qua hàng trăm câu trả lời ngắn, Munger cho thấy thành công của Berkshire không đến từ trí thông minh siêu phàm mà từ việc **luôn nhớ những điều hiển nhiên, cố gắng một cách nhất quán để không ngu ngốc, và đứng cách xa ranh giới của điều luật pháp cho phép**.
+
+Về đầu tư, ông khuyên kiên nhẫn chờ cơ hội lớn hiếm hoi (chờ "cú ném dễ đánh"), dồn tiền mạnh vào vài doanh nghiệp tốt thay vì đa dạng hoá quá mức, chỉ đánh trong vòng tròn năng lực của mình, so mọi lựa chọn bằng chi phí cơ hội thay vì "chi phí vốn" sách vở, và sẵn sàng trả giá cao cho chất lượng (bài học See's Candy). Ông thừa nhận sai lầm lớn nhất của Berkshire là sai lầm do không hành động (không mua Wal-Mart, mất khoảng 10 tỷ USD).
+
+Về Berkshire, ông liên tục hạ kỳ vọng của cổ đông: công ty quá lớn nên tốc độ tăng trưởng chắc chắn sẽ chậm lại.
+
+Phần lớn chương là lời phê phán gay gắt các thực hành mà ông cho là hư hỏng trong đời sống tài chính Mỹ: kế toán "sáng tạo" và EBITDA, giả định lợi suất quỹ hưu trí phi thực tế, quyền chọn cổ phiếu không ghi nhận chi phí, sổ sách phái sinh mà ông gọi là "cống rãnh", ngành quản lý tiền thu phí cao mà không tạo giá trị, Phố Wall coi "bán được không" là phép thử đạo đức, các hãng kiểm toán và luật bán sản phẩm trốn thuế gian lận, hệ thống kiện tụng amiăng.
+
+Cuối cùng là lời khuyên sống: dùng nhiều mô hình tư duy thay vì "cầm búa nhìn đâu cũng thấy đinh", không tự lừa mình, đọc liên tục, tránh đố kỵ và nợ nần, mỗi ngày cố khôn hơn hôm qua một chút, và muốn có người bạn đời tốt thì hãy xứng đáng với họ.
 
 ## Sơ đồ
 
@@ -1406,9 +1403,19 @@
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Vì sao Berkshire Hathaway thành công, và vì sao Munger lại liên tục bảo cổ đông đừng kỳ vọng nhiều?** Munger quy thành công về vài điều giản dị: luôn nhớ điều hiển nhiên thay vì đi tìm điều cao siêu; cố gắng nhất quán để không ngu ngốc; đứng cách xa lằn ranh pháp luật (có cả một vùng rộng những việc hợp pháp mà họ không làm); có "tiền thả nổi" của mảng bảo hiểm với chi phí khoảng 3% đem đầu tư vào doanh nghiệp sinh lời khoảng 13%; chọn những công ty và người quản lý đã tốt sẵn rồi phân quyền gần như hoàn toàn; không dùng đòn bẩy, không chạy theo Phố Wall, chấp nhận kết quả lên xuống thất thường. Nhưng chính quy mô đã lớn làm Berkshire chỉ còn chơi được ở những vùng cạnh tranh gắt, và thị trường cổ phiếu từ năm 2000 không còn rẻ như hai thập kỷ trước; theo "quy luật số lớn", mọi khối vốn lớn rồi sẽ tăng chậm lại. Vì vậy ông "bảo đảm" với cổ đông rằng tương lai sẽ kém quá khứ, và cho rằng nói thật điều đó là trách nhiệm, khác với các CEO coi việc đẩy giá cổ phiếu là bổn phận.
-2. **Theo Munger, nhà đầu tư nên làm gì và tránh gì?** Nên có tính khí điềm tĩnh, kiên nhẫn nhưng quyết liệt khi cơ hội tới; tò mò lâu dài về vì sao sự việc xảy ra; tập trung vào khoảng mười khoản đầu tư thay vì đa dạng hoá quá mức (bỏ 15 quyết định lớn nhất thì Berkshire chỉ còn thành tích trung bình); chờ "cú ném dễ đánh" và khi nó tới thì vồ mạnh, mua thêm khi giá giảm nếu có sự tự tin đúng đắn; ưu tiên doanh nghiệp tốt có thể "ngồi yên" giữ lâu, nhất là loại cho rút tiền ra thay vì loại phải tái đầu tư hết; chịu trả giá cao cho chất lượng (bài học See's Candy); chỉ đánh trong vòng tròn năng lực (ba giỏ: vào, ra, quá khó); so mọi phương án bằng chi phí cơ hội. Nên tránh: beta và lý thuyết danh mục hiện đại, coi biến động giá là rủi ro, phép tính "chi phí vốn chủ sở hữu", dự báo thị trường, IPO, bán khống, nghe theo đám đông 98%. Sai lầm lớn nhất là sai lầm do không làm (Wal-Mart, khoảng 10 tỷ USD), thứ không hiện trên báo cáo tài chính.
-3. **Munger thấy điều gì hư hỏng trong hệ thống tài chính và xã hội Mỹ, và ông khuyên sống thế nào?** Ông thấy một chuỗi động cơ khuyến khích sai: tiền phụ thuộc vào con số báo cáo nên người ta thao túng con số (EBITDA, khoản chi phí "bất thường" năm nào cũng có, giả định lợi suất quỹ hưu trí 9–10%); kế toán viên "ăn bánh của ai hát bài người đó"; quyền chọn cổ phiếu không bị ghi là chi phí; phái sinh phức tạp tới mức không ai hiểu sổ sách của mình, kế toán ghi lãi chưa có thật, và các điều khoản ký quỹ khi bị hạ hạng tín nhiệm tạo bất ổn; ngành quản lý tiền thu phí cao mà tổng thể không tạo thêm giá trị; Phố Wall coi "bán được không" là phép thử đạo đức; hãng kiểm toán bán cơ chế trốn thuế gian lận; luật sư biến vụ amiăng thành gian lận hàng loạt. Bài học chung là phải ngắt cái xấu từ trong trứng, trước khi kẻ làm sai giàu lên và có quyền lực chính trị. Về sống, ông khuyên: dùng nhiều mô hình tư duy từ nhiều ngành; không tự lừa mình; đọc liên tục và kết bạn với "những người lỗi lạc đã khuất"; biết mình muốn tránh gì; không đố kỵ người giàu nhanh hơn; tránh nợ; giảm nhu cầu vật chất; mỗi ngày cố khôn hơn một chút và làm tròn bổn phận; muốn có người bạn đời tốt thì hãy xứng đáng với họ; và một đời chỉ biết làm giàu là một đời thất bại.
+1. **Vì sao Berkshire Hathaway thành công, và vì sao Munger lại liên tục bảo cổ đông đừng kỳ vọng nhiều?** Munger quy thành công về vài điều giản dị: luôn nhớ điều hiển nhiên thay vì đi tìm điều cao siêu; cố gắng nhất quán để không ngu ngốc; đứng cách xa lằn ranh pháp luật (có cả một vùng rộng những việc hợp pháp mà họ không làm); có "tiền thả nổi" của mảng bảo hiểm với chi phí khoảng 3% đem đầu tư vào doanh nghiệp sinh lời khoảng 13%; chọn những công ty và người quản lý đã tốt sẵn rồi phân quyền gần như hoàn toàn; không dùng đòn bẩy, không chạy theo Phố Wall, chấp nhận kết quả lên xuống thất thường.
+
+   Nhưng chính quy mô đã lớn làm Berkshire chỉ còn chơi được ở những vùng cạnh tranh gắt, và thị trường cổ phiếu từ năm 2000 không còn rẻ như hai thập kỷ trước; theo "quy luật số lớn", mọi khối vốn lớn rồi sẽ tăng chậm lại. Vì vậy ông "bảo đảm" với cổ đông rằng tương lai sẽ kém quá khứ, và cho rằng nói thật điều đó là trách nhiệm, khác với các CEO coi việc đẩy giá cổ phiếu là bổn phận.
+2. **Theo Munger, nhà đầu tư nên làm gì và tránh gì?** Nên có tính khí điềm tĩnh, kiên nhẫn nhưng quyết liệt khi cơ hội tới; tò mò lâu dài về vì sao sự việc xảy ra; tập trung vào khoảng mười khoản đầu tư thay vì đa dạng hoá quá mức (bỏ 15 quyết định lớn nhất thì Berkshire chỉ còn thành tích trung bình); chờ "cú ném dễ đánh" và khi nó tới thì vồ mạnh, mua thêm khi giá giảm nếu có sự tự tin đúng đắn.
+
+   Ưu tiên doanh nghiệp tốt có thể "ngồi yên" giữ lâu, nhất là loại cho rút tiền ra thay vì loại phải tái đầu tư hết; chịu trả giá cao cho chất lượng (bài học See's Candy); chỉ đánh trong vòng tròn năng lực (ba giỏ: vào, ra, quá khó); so mọi phương án bằng chi phí cơ hội.
+
+   Nên tránh: beta và lý thuyết danh mục hiện đại, coi biến động giá là rủi ro, phép tính "chi phí vốn chủ sở hữu", dự báo thị trường, IPO, bán khống, nghe theo đám đông 98%. Sai lầm lớn nhất là sai lầm do không làm (Wal-Mart, khoảng 10 tỷ USD), thứ không hiện trên báo cáo tài chính.
+3. **Munger thấy điều gì hư hỏng trong hệ thống tài chính và xã hội Mỹ, và ông khuyên sống thế nào?** Ông thấy một chuỗi động cơ khuyến khích sai: tiền phụ thuộc vào con số báo cáo nên người ta thao túng con số (EBITDA, khoản chi phí "bất thường" năm nào cũng có, giả định lợi suất quỹ hưu trí 9–10%); kế toán viên "ăn bánh của ai hát bài người đó"; quyền chọn cổ phiếu không bị ghi là chi phí; phái sinh phức tạp tới mức không ai hiểu sổ sách của mình, kế toán ghi lãi chưa có thật, và các điều khoản ký quỹ khi bị hạ hạng tín nhiệm tạo bất ổn.
+
+   Ngành quản lý tiền thu phí cao mà tổng thể không tạo thêm giá trị; Phố Wall coi "bán được không" là phép thử đạo đức; hãng kiểm toán bán cơ chế trốn thuế gian lận; luật sư biến vụ amiăng thành gian lận hàng loạt. Bài học chung là phải ngắt cái xấu từ trong trứng, trước khi kẻ làm sai giàu lên và có quyền lực chính trị.
+
+   Về sống, ông khuyên: dùng nhiều mô hình tư duy từ nhiều ngành; không tự lừa mình; đọc liên tục và kết bạn với "những người lỗi lạc đã khuất"; biết mình muốn tránh gì; không đố kỵ người giàu nhanh hơn; tránh nợ; giảm nhu cầu vật chất; mỗi ngày cố khôn hơn một chút và làm tròn bổn phận; muốn có người bạn đời tốt thì hãy xứng đáng với họ; và một đời chỉ biết làm giàu là một đời thất bại.
 
 ## Khái niệm cần biết
 
@@ -1468,11 +1475,17 @@ Whitney Tilson viết rằng Buffett và Munger chắc chắn là cặp đầu t
 
 Học Buffett không khó: có nhiều sách viết về ông, ông thường xuyên nói chuyện, viết bài, xuất hiện trước công chúng, và đã viết thư cổ đông dài hằng năm suốt nhiều thập kỷ (ba mươi lá thư gần nhất đọc miễn phí ở trang web của Berkshire; Tilson hỏi người đọc còn chờ gì nữa). Munger thì kín đáo hơn: lúc đó chỉ có hai cuốn sách về ông, ông viết và nói ít hơn nhiều. Vì thế nhiều người không nhận ra rằng Munger là một thiên tài theo cách riêng, và đã ảnh hưởng sâu tới triết lý đầu tư của Buffett, điều Buffett công khai thừa nhận.
 
-Tilson tả cảnh trên sân khấu đại hội Berkshire: Buffett thường trả lời câu hỏi trước, rồi quay sang hỏi "Charlie?". Munger ngồi bất động, không biểu cảm (Tilson đùa rằng thay ông bằng ma-nơ-canh thì phần lớn thời gian không ai nhận ra), và thường đáp: "I have nothing to add" (tôi không có gì để thêm). Năm chữ đó trở thành thương hiệu của ông, thường làm cả Buffett lẫn khán giả thích thú. Hộp bên lề của người biên tập "A Cardboard Charlie 'with Nothing to Add'" kể rằng ở đại hội bất thường duyệt thương vụ mua General Re tháng 9 năm 1998, Buffett mang tới một hình Munger cắt bằng bìa cứng cùng một đoạn ghi âm câu "I have nothing to add"; theo một người bạn của Tilson có mặt, mỗi lần Buffett dùng nó (khoảng sáu lần) ông lại có vẻ tinh nghịch. Câu nói đó phản ánh cả tính cách cộc lốc, khó tính của Munger (ít nhất là hình ảnh trước công chúng) lẫn quan hệ "hai bộ óc như một" của hai người cộng sự. Một hộp bên lề khác trích C. B. "Chuck" Thornton: có bộ sưu tập này trong tay, ông định "đạo văn" Munger thường xuyên và chính xác hơn trước.
+Tilson tả cảnh trên sân khấu đại hội Berkshire: Buffett thường trả lời câu hỏi trước, rồi quay sang hỏi "Charlie?". Munger ngồi bất động, không biểu cảm (Tilson đùa rằng thay ông bằng ma-nơ-canh thì phần lớn thời gian không ai nhận ra), và thường đáp: "I have nothing to add" (tôi không có gì để thêm). Năm chữ đó trở thành thương hiệu của ông, thường làm cả Buffett lẫn khán giả thích thú.
+
+Hộp bên lề của người biên tập "A Cardboard Charlie 'with Nothing to Add'" kể rằng ở đại hội bất thường duyệt thương vụ mua General Re tháng 9 năm 1998, Buffett mang tới một hình Munger cắt bằng bìa cứng cùng một đoạn ghi âm câu "I have nothing to add"; theo một người bạn của Tilson có mặt, mỗi lần Buffett dùng nó (khoảng sáu lần) ông lại có vẻ tinh nghịch.
+
+Câu nói đó phản ánh cả tính cách cộc lốc, khó tính của Munger (ít nhất là hình ảnh trước công chúng) lẫn quan hệ "hai bộ óc như một" của hai người cộng sự. Một hộp bên lề khác trích C. B. "Chuck" Thornton: có bộ sưu tập này trong tay, ông định "đạo văn" Munger thường xuyên và chính xác hơn trước.
 
 Nhưng khi Munger có điều để thêm, lời ông thường sắc bén, sâu sắc và không nương tay. Ông tự nhận là một ông già "cáu kỉnh, cổ hủ", chưa bao giờ lo nói cho đúng mực chính trị, chỉ nói đúng điều mình thấy.
 
-Vì ở Omaha Buffett nói phần lớn, Tilson luôn dự thêm đại hội Wesco vài ngày sau ở Pasadena để nghe Munger nói sâu. Munger là chủ tịch Wesco Financial, một công ty mẹ có cấu trúc giống Berkshire, Berkshire sở hữu 80,1%. Không cần là cổ đông vẫn được dự: như ở Berkshire, Munger chào đón mọi "người hành hương" tới "nhà thờ" của Graham, Dodd, Buffett và Munger. Tilson chưa bao giờ hối tiếc chuyến bay xuyên lục địa ngay sau khi về từ Omaha, vì trí óc Munger vẫn ở phong độ đỉnh cao. Ở đại hội 2003, khi Munger đưa ra hết nhận xét sâu sắc này tới nhận xét khác, một người bạn ghé tai Tilson: "Ông già tám mươi tuổi này thật không tin nổi!" Tilson coi Munger ngang hàng Buffett về tư cách người thầy và nhà tư tưởng, đã học từ ông rất nhiều, nên vui khi biết Peter Kaufman soạn cuốn sách và nhận lời đóng góp ngay.
+Vì ở Omaha Buffett nói phần lớn, Tilson luôn dự thêm đại hội Wesco vài ngày sau ở Pasadena để nghe Munger nói sâu. Munger là chủ tịch Wesco Financial, một công ty mẹ có cấu trúc giống Berkshire, Berkshire sở hữu 80,1%. Không cần là cổ đông vẫn được dự: như ở Berkshire, Munger chào đón mọi "người hành hương" tới "nhà thờ" của Graham, Dodd, Buffett và Munger. Tilson chưa bao giờ hối tiếc chuyến bay xuyên lục địa ngay sau khi về từ Omaha, vì trí óc Munger vẫn ở phong độ đỉnh cao.
+
+Ở đại hội 2003, khi Munger đưa ra hết nhận xét sâu sắc này tới nhận xét khác, một người bạn ghé tai Tilson: "Ông già tám mươi tuổi này thật không tin nổi!" Tilson coi Munger ngang hàng Buffett về tư cách người thầy và nhà tư tưởng, đã học từ ông rất nhiều, nên vui khi biết Peter Kaufman soạn cuốn sách và nhận lời đóng góp ngay.
 
 Chương này nhằm bổ sung cho các bài viết, bài nói chính thức của Munger ở phần khác của sách. Nội dung lấy từ ghi chép của Tilson ở các đại hội Berkshire và Wesco trong năm năm, chọn những câu sâu sắc, khiêu khích, tự phát và hài hước nhất. Vì hầu hết là trả lời câu hỏi cổ đông, Munger nói nhiều về Berkshire và về kinh doanh, đầu tư. Tilson xếp chúng theo chủ đề và biên tập nhẹ, nhưng mục tiêu là để Munger tự nói.
 
@@ -1482,9 +1495,13 @@ Trước khi vào các chủ đề, sách in nổi trên một trang riêng mộ
 
 Munger nêu hai chìa khoá.
 
-**Thứ nhất, con rùa đôi khi thắng thỏ.** Con rùa là người bằng lòng tiếp thu những hiểu biết đã được chứng minh của những người giỏi nhất đi trước. Con thỏ là người chạy theo sự độc đáo, hoặc người không muốn bị bỏ lại khỏi một cơn điên tập thể phớt lờ thành quả tốt nhất của quá khứ. Rùa có thể thắng theo hai cách: tình cờ tìm ra một cách đặc biệt hiệu quả để áp dụng thành quả cũ, hoặc đơn giản là tránh được những tai hoạ thường gặp. Berkshire cố kiếm lợi từ việc luôn nhớ điều hiển nhiên hơn là từ việc nắm điều cao siêu. Munger thấy đáng chú ý là những người như ông và Buffett đã có được lợi thế dài hạn lớn tới mức nào chỉ bằng cách cố gắng một cách nhất quán để không ngu ngốc, thay vì cố gắng để thật thông minh.
+**Thứ nhất, con rùa đôi khi thắng thỏ.** Con rùa là người bằng lòng tiếp thu những hiểu biết đã được chứng minh của những người giỏi nhất đi trước. Con thỏ là người chạy theo sự độc đáo, hoặc người không muốn bị bỏ lại khỏi một cơn điên tập thể phớt lờ thành quả tốt nhất của quá khứ. Rùa có thể thắng theo hai cách: tình cờ tìm ra một cách đặc biệt hiệu quả để áp dụng thành quả cũ, hoặc đơn giản là tránh được những tai hoạ thường gặp.
 
-**Thứ hai, đứng cách xa ranh giới của luật pháp.** Ông không nhận là có đạo đức hoàn hảo, nhưng nói họ có một vùng rất rộng những việc hợp pháp mà họ coi là thấp kém hơn mình và sẽ không làm. Ông thấy ở Mỹ đang có một nền văn hoá cho rằng việc gì không khiến mình vào tù thì đều ổn. Ông tin rằng giữa "mọi điều nên làm" và "mọi điều có thể làm mà không gặp rắc rối pháp lý" phải có một khoảng cách rất lớn, và không nên tới gần lằn ranh đó. Ông nói họ không đáng được khen nhiều vì điều này, bởi nó giúp họ kiếm nhiều tiền hơn; ông muốn tin rằng họ vẫn sẽ cư xử tốt ngay cả khi điều đó không có lợi, nhưng thực tế thường là làm điều đúng đã mang lại thêm tiền.
+Berkshire cố kiếm lợi từ việc luôn nhớ điều hiển nhiên hơn là từ việc nắm điều cao siêu. Munger thấy đáng chú ý là những người như ông và Buffett đã có được lợi thế dài hạn lớn tới mức nào chỉ bằng cách cố gắng một cách nhất quán để không ngu ngốc, thay vì cố gắng để thật thông minh.
+
+**Thứ hai, đứng cách xa ranh giới của luật pháp.** Ông không nhận là có đạo đức hoàn hảo, nhưng nói họ có một vùng rất rộng những việc hợp pháp mà họ coi là thấp kém hơn mình và sẽ không làm. Ông thấy ở Mỹ đang có một nền văn hoá cho rằng việc gì không khiến mình vào tù thì đều ổn. Ông tin rằng giữa "mọi điều nên làm" và "mọi điều có thể làm mà không gặp rắc rối pháp lý" phải có một khoảng cách rất lớn, và không nên tới gần lằn ranh đó.
+
+Ông nói họ không đáng được khen nhiều vì điều này, bởi nó giúp họ kiếm nhiều tiền hơn; ông muốn tin rằng họ vẫn sẽ cư xử tốt ngay cả khi điều đó không có lợi, nhưng thực tế thường là làm điều đúng đã mang lại thêm tiền.
 
 Câu in nổi trên trang nhắc quy tắc của Louis Vincenti (theo hiểu biết của người tổng hợp, ông là chủ tịch Wesco trước Munger): hãy nói thật, rồi bạn sẽ không phải nhớ những lời nói dối của mình; Munger nhận xét đó là một ý rất đơn giản.
 
@@ -1492,7 +1509,9 @@ Câu in nổi trên trang nhắc quy tắc của Louis Vincenti (theo hiểu bi�
 
 #### "Berkshire Is a Hell of a Business" — Berkshire là một doanh nghiệp cực kỳ tốt
 
-Munger ví Berkshire như con nhím trong câu ngạn ngữ, con vật chỉ biết một điều lớn. Điều lớn đó là: nếu tạo được tiền thả nổi (tiền phí bảo hiểm mà Berkshire được đầu tư trước khi phải trả bồi thường) với chi phí 3% và đem đầu tư vào những doanh nghiệp sinh lời 13%, thì đó là một việc kinh doanh khá tốt. Các doanh nghiệp Berkshire đã mua sẽ sinh lời khoảng 13% trước thuế trên giá đã trả, có thể hơn. Với chi phí vốn 3%, có được nhờ dùng tiền của người khác dưới dạng tiền thả nổi, đó là một doanh nghiệp cực kỳ tốt, và là lý do cổ đông Berkshire không cần hoàn toàn tuyệt vọng. Ông thừa nhận về tốc độ tăng trưởng kép theo phần trăm từ nay trở đi, Berkshire không còn tốt như xưa, nhưng vẫn là một doanh nghiệp cực kỳ tốt. Câu in nổi: ông "ghét làm người lạc quan", nhưng mấy năm qua họ thật sự đã thêm vào Berkshire rất nhiều doanh nghiệp tuyệt vời.
+Munger ví Berkshire như con nhím trong câu ngạn ngữ, con vật chỉ biết một điều lớn. Điều lớn đó là: nếu tạo được tiền thả nổi (tiền phí bảo hiểm mà Berkshire được đầu tư trước khi phải trả bồi thường) với chi phí 3% và đem đầu tư vào những doanh nghiệp sinh lời 13%, thì đó là một việc kinh doanh khá tốt. Các doanh nghiệp Berkshire đã mua sẽ sinh lời khoảng 13% trước thuế trên giá đã trả, có thể hơn. Với chi phí vốn 3%, có được nhờ dùng tiền của người khác dưới dạng tiền thả nổi, đó là một doanh nghiệp cực kỳ tốt, và là lý do cổ đông Berkshire không cần hoàn toàn tuyệt vọng.
+
+Ông thừa nhận về tốc độ tăng trưởng kép theo phần trăm từ nay trở đi, Berkshire không còn tốt như xưa, nhưng vẫn là một doanh nghiệp cực kỳ tốt. Câu in nổi: ông "ghét làm người lạc quan", nhưng mấy năm qua họ thật sự đã thêm vào Berkshire rất nhiều doanh nghiệp tuyệt vời.
 
 Hộp bên lề của người biên tập: NetJets, được Berkshire mua năm 1998, là một trong nhiều doanh nghiệp thành công được thêm vào Berkshire. Công ty do Rich Santulli, người phát minh ra mô hình sở hữu máy bay theo phần (nhiều người cùng sở hữu một chiếc máy bay riêng, mỗi người một phần), điều hành giỏi và đang mở rộng ra quốc tế, như một mẫu quảng cáo bằng tiếng Ả Rập cho thấy.
 
@@ -1514,13 +1533,17 @@ Hộp bên lề "The Law of Large Numbers: A Heavy Anchor" (quy luật số lớ
 
 #### "Berkshire Hathaway's Culture" — Văn hoá Berkshire
 
-Văn hoá của họ rất cổ điển, như của Ben Franklin hay Andrew Carnegie; Munger hỏi: thử tưởng tượng Carnegie thuê nhà tư vấn xem! Cách làm này vẫn hiệu quả đến kinh ngạc. Nhiều doanh nghiệp họ mua cũng khó tính và cổ hủ như họ. Với nhiều cổ đông, cổ phiếu Berkshire là toàn bộ tài sản, và họ ý thức rất rõ điều đó; văn hoá thận trọng vì thế ăn rất sâu. Berkshire là nơi vững chắc đến kinh ngạc, chống chịu tai hoạ tốt hơn hầu hết nơi khác, vì họ không đẩy nó hết cỡ như người khác sẽ đẩy. Munger vui lòng để 90% tài sản ròng của mình trong cổ phiếu Berkshire. Họ sẽ cố làm nó tăng trưởng kép ở mức hợp lý mà không chịu rủi ro vô lý và không dùng đòn bẩy; nếu không làm được như vậy thì đành chịu.
+Văn hoá của họ rất cổ điển, như của Ben Franklin hay Andrew Carnegie; Munger hỏi: thử tưởng tượng Carnegie thuê nhà tư vấn xem! Cách làm này vẫn hiệu quả đến kinh ngạc. Nhiều doanh nghiệp họ mua cũng khó tính và cổ hủ như họ. Với nhiều cổ đông, cổ phiếu Berkshire là toàn bộ tài sản, và họ ý thức rất rõ điều đó; văn hoá thận trọng vì thế ăn rất sâu. Berkshire là nơi vững chắc đến kinh ngạc, chống chịu tai hoạ tốt hơn hầu hết nơi khác, vì họ không đẩy nó hết cỡ như người khác sẽ đẩy.
+
+Munger vui lòng để 90% tài sản ròng của mình trong cổ phiếu Berkshire. Họ sẽ cố làm nó tăng trưởng kép ở mức hợp lý mà không chịu rủi ro vô lý và không dùng đòn bẩy; nếu không làm được như vậy thì đành chịu.
 
 Hộp bên lề của người biên tập về Andrew Carnegie (1835–1919): từ một người nhập cư không một xu, ông trở thành người giàu nhất thế giới. Bán đế chế thép với giá 500 triệu USD, ông lập trường học, một quỹ vì hoà bình, nhà hát Carnegie Hall ở New York và 2.811 thư viện công miễn phí (ảnh thư viện Carnegie ở Braddock, Pennsylvania), và trả tiền mua, lắp đặt 7.689 cây đàn organ cho nhà thờ. Tầm nhìn của ông là một "trạng thái lý tưởng trong đó của cải dư thừa của số ít, theo nghĩa tốt nhất, trở thành tài sản của số đông".
 
 #### "Berkshire's and Wesco's Stock Prices" — Giá cổ phiếu Berkshire và Wesco
 
-Họ muốn cổ phiếu của cả hai công ty giao dịch trong "tầm gọi" của mức họ coi là giá trị nội tại. Khi giá chạy lên quá, họ cố nói cho nó xuống. Điều đó không hề phổ biến trong giới doanh nghiệp Mỹ, nhưng họ hành xử như vậy. Ngày nay CEO dường như bị coi là có bổn phận làm giá cổ phiếu tăng, điều dẫn tới đủ loại hành vi dại dột; họ thì muốn nói đúng như sự thật. Câu in nổi: "Tôi không muốn quay về ô Xuất phát. Tôi đã ở ô Xuất phát rồi. Nhiều cổ đông của chúng tôi có phần lớn tài sản ròng trong Berkshire, và họ cũng không muốn quay về ô Xuất phát." Hộp bên lề giải thích: "Go" là ô xuất phát của trò chơi cờ tỷ phú Monopoly của hãng Parker Brothers, do Charles B. Darrow ở Germantown, Pennsylvania tạo ra năm 1934. Ý của Munger: họ không muốn mạo hiểm để mất những gì đã tích luỹ.
+Họ muốn cổ phiếu của cả hai công ty giao dịch trong "tầm gọi" của mức họ coi là giá trị nội tại. Khi giá chạy lên quá, họ cố nói cho nó xuống. Điều đó không hề phổ biến trong giới doanh nghiệp Mỹ, nhưng họ hành xử như vậy. Ngày nay CEO dường như bị coi là có bổn phận làm giá cổ phiếu tăng, điều dẫn tới đủ loại hành vi dại dột; họ thì muốn nói đúng như sự thật.
+
+Câu in nổi: "Tôi không muốn quay về ô Xuất phát. Tôi đã ở ô Xuất phát rồi. Nhiều cổ đông của chúng tôi có phần lớn tài sản ròng trong Berkshire, và họ cũng không muốn quay về ô Xuất phát." Hộp bên lề giải thích: "Go" là ô xuất phát của trò chơi cờ tỷ phú Monopoly của hãng Parker Brothers, do Charles B. Darrow ở Germantown, Pennsylvania tạo ra năm 1934. Ý của Munger: họ không muốn mạo hiểm để mất những gì đã tích luỹ.
 
 #### "Berkshire Shareholders" — Cổ đông Berkshire
 
@@ -1558,7 +1581,9 @@ Qua nhiều thập kỷ, số lần họ phải cho ai đó thôi việc ít đ�
 
 #### "Berkshire's Insurance Operations" — Mảng bảo hiểm
 
-Tái bảo hiểm không phải là ngành hàng hoá đồng nhất như vẻ ngoài. Khoảng thời gian giữa lúc ký hợp đồng và lúc chi trả rất dài, nên khách hàng phải đánh giá thiện chí và khả năng trả tiền của nhà bảo hiểm trong tương lai. Berkshire có lợi thế về danh tiếng, dù không lớn như lẽ ra nên có. Người ta tin vào thiện chí và khả năng chi trả của Berkshire, nên đây không phải hàng hoá đồng nhất. Munger cho rằng họ có một số tài năng đặc biệt; nhưng ông cũng cho rằng dựa vào tài năng đặc biệt là nguy hiểm, và tốt hơn là sở hữu nhiều doanh nghiệp mang tính độc quyền với giá không bị nhà nước kiểm soát. Thế giới hôm nay không như vậy, nên họ kiếm tiền bằng cách dùng tài năng và sẽ tiếp tục như thế.
+Tái bảo hiểm không phải là ngành hàng hoá đồng nhất như vẻ ngoài. Khoảng thời gian giữa lúc ký hợp đồng và lúc chi trả rất dài, nên khách hàng phải đánh giá thiện chí và khả năng trả tiền của nhà bảo hiểm trong tương lai. Berkshire có lợi thế về danh tiếng, dù không lớn như lẽ ra nên có. Người ta tin vào thiện chí và khả năng chi trả của Berkshire, nên đây không phải hàng hoá đồng nhất.
+
+Munger cho rằng họ có một số tài năng đặc biệt; nhưng ông cũng cho rằng dựa vào tài năng đặc biệt là nguy hiểm, và tốt hơn là sở hữu nhiều doanh nghiệp mang tính độc quyền với giá không bị nhà nước kiểm soát. Thế giới hôm nay không như vậy, nên họ kiếm tiền bằng cách dùng tài năng và sẽ tiếp tục như thế.
 
 Ông mừng vì có mảng bảo hiểm, nhưng cảnh báo rằng đó không phải việc dễ thắng không cần suy nghĩ; họ phải khôn mới làm được. Kết quả chung là họ sẽ làm khá tốt, nghĩa là nằm trong nhóm 10% tốt nhất ngành, vì họ làm những điều khác người và sẵn sàng làm một số việc khó chịu. Nói chung họ lạc quan vừa phải về mảng bảo hiểm. Tăng tiền thả nổi ở tốc độ lớn với chi phí thấp gần như không thể, nhưng họ vẫn định làm. Ông kinh ngạc vì mức tăng và chi phí của tiền thả nổi: thật tuyệt khi tạo ra hàng tỷ USD tiền thả nổi với chi phí thấp hơn hẳn lãi tín phiếu Kho bạc.
 
@@ -1604,7 +1629,9 @@ Munger đùa rằng như cổ đông thấy, họ đang lên kế hoạch bất 
 
 Tên tiểu mục chơi chữ từ "Abominable Snowman" (người tuyết đáng sợ). Buffett nói: phải học cách "hiệu chỉnh" câu trả lời của Munger. Nếu hỏi Charlie điều gì và ông nói "không", họ dồn hết tiền vào; nếu ông nói "đó là điều ngu nhất tôi từng nghe", họ đầu tư vừa phải. Biết hiệu chỉnh câu trả lời của ông thì sẽ nhận được rất nhiều trí tuệ. Hộp bên lề ghi một cuộc trao đổi ở đại hội gần đây: Buffett hỏi "Charlie, anh có bình luận gì thêm không?"; Munger đáp: "Không. Tôi nghĩ anh đã nói 'không' một cách hoàn hảo."
 
-Hộp bên lề, lời Chuck Rickershauser, cựu cộng sự hãng luật Munger Tolles và bạn từ năm 1964: Buffett từng kể rằng thời đầu, khi hai người chưa có liên hệ tài chính và mỗi người có một quỹ hợp danh đầu tư riêng, Buffett hay gọi cho Munger, nói "tôi đang tính làm việc này" rồi mô tả; Munger sẽ nói "Trời, anh đùa à? Có rủi ro này, rủi ro kia", và họ đi qua hết mọi rủi ro Munger thấy; Buffett thường nói "tôi nghĩ anh đúng". Nhưng thỉnh thoảng Buffett nói "Charlie, tôi đã nghe hết những gì anh nói, nhưng tôi nghĩ tôi vẫn làm". Buffett nói chỉ tới lúc đó ông mới biết Munger thật sự nghĩ gì, vì đôi khi Munger đáp: "Warren, nếu anh làm, tôi có thể có một phần không?" Rickershauser kết luận: người ta thường nghĩ Munger là người chỉ ra rủi ro và nói "Không", nhưng điều quý nhất là khả năng của ông trong việc nhận ra lúc nào nên xin một phần.
+Hộp bên lề, lời Chuck Rickershauser, cựu cộng sự hãng luật Munger Tolles và bạn từ năm 1964: Buffett từng kể rằng thời đầu, khi hai người chưa có liên hệ tài chính và mỗi người có một quỹ hợp danh đầu tư riêng, Buffett hay gọi cho Munger, nói "tôi đang tính làm việc này" rồi mô tả; Munger sẽ nói "Trời, anh đùa à? Có rủi ro này, rủi ro kia", và họ đi qua hết mọi rủi ro Munger thấy; Buffett thường nói "tôi nghĩ anh đúng".
+
+Nhưng thỉnh thoảng Buffett nói "Charlie, tôi đã nghe hết những gì anh nói, nhưng tôi nghĩ tôi vẫn làm". Buffett nói chỉ tới lúc đó ông mới biết Munger thật sự nghĩ gì, vì đôi khi Munger đáp: "Warren, nếu anh làm, tôi có thể có một phần không?" Rickershauser kết luận: người ta thường nghĩ Munger là người chỉ ra rủi ro và nói "Không", nhưng điều quý nhất là khả năng của ông trong việc nhận ra lúc nào nên xin một phần.
 
 Hộp bên lề, lời Otis Booth (bạn và cộng sự từ năm 1956): Munger nhận ra rằng tìm được thứ thật sự tốt là khó; vì vậy nếu nói "Không" chín mươi phần trăm số lần, bạn cũng chẳng bỏ lỡ bao nhiêu trên đời.
 
@@ -1803,7 +1830,9 @@ Việc chọn nhà quản lý đầu tư gần đây càng khó hơn khi lộ ra
 
 #### "Wall Street's Lack of Ethics" — Phố Wall thiếu đạo đức
 
-Đạo đức của Phố Wall tính trung bình sẽ luôn ở mức tầm thường là cùng. Điều đó không có nghĩa Phố Wall không có những người tuyệt vời, thông minh; có, như những người trong phòng này. Nhưng mọi người Munger biết đều phải chống lại chính hãng của mình để làm điều đúng. Văn hoá chung của ngân hàng đầu tư đã sa sút qua năm tháng. Nhiều năm trước, họ làm một thương vụ 6 triệu USD cho Diversified Retailing và đã bị sàng lọc một cách nghiêm ngặt, thông minh; các nhân viên ngân hàng khi đó quan tâm và muốn bảo vệ khách hàng của mình. Văn hoá bây giờ là: cái gì bán được có lãi thì sẽ được bán. "Bán được không?" trở thành phép thử đạo đức, và đó không phải một phép thử đủ. Ảnh minh hoạ là các trang báo về bê bối kế toán WorldCom ("Wrong numbers at WorldCom", "Scandal Inc.").
+Đạo đức của Phố Wall tính trung bình sẽ luôn ở mức tầm thường là cùng. Điều đó không có nghĩa Phố Wall không có những người tuyệt vời, thông minh; có, như những người trong phòng này. Nhưng mọi người Munger biết đều phải chống lại chính hãng của mình để làm điều đúng.
+
+Văn hoá chung của ngân hàng đầu tư đã sa sút qua năm tháng. Nhiều năm trước, họ làm một thương vụ 6 triệu USD cho Diversified Retailing và đã bị sàng lọc một cách nghiêm ngặt, thông minh; các nhân viên ngân hàng khi đó quan tâm và muốn bảo vệ khách hàng của mình. Văn hoá bây giờ là: cái gì bán được có lãi thì sẽ được bán. "Bán được không?" trở thành phép thử đạo đức, và đó không phải một phép thử đủ. Ảnh minh hoạ là các trang báo về bê bối kế toán WorldCom ("Wrong numbers at WorldCom", "Scandal Inc.").
 
 #### "Salomon Case Study" — Trường hợp Salomon
 
@@ -1897,7 +1926,9 @@ Hộp bên lề "The Long Tail of Derivatives" (cái đuôi dài của phái sin
 
 #### Tiệc trà của Mad Hatter (hộp bên lề "Misuse of Derivatives: It's a Mad Hatter's Tea Party" và lời Munger kèm theo)
 
-Hộp bên lề trích *Alice ở Xứ sở Thần tiên* của Lewis Carroll: Thỏ Tháng Ba nghiêm trang mời Alice "uống thêm trà đi"; Alice phật ý: "Tôi chưa uống gì cả, nên không thể uống thêm"; Hatter đáp: "Cô muốn nói là không thể uống ÍT hơn; uống NHIỀU hơn không gì thì rất dễ." Người biên tập kể thêm: Hatter, thường được gọi là "Mad Hatter" (ông thợ mũ điên), là nhân vật bí ẩn gặp ở bữa tiệc trà và sau đó là nhân chứng trong phiên toà; "Hatter thật" thường được cho là Theophilus Carter, người phát minh chiếc giường báo thức hất người ngủ ra khi tới giờ dậy, trưng bày ở Triển lãm Lớn năm 1851. Carter sau đó có một cửa hàng đồ nội thất và được gọi là "Mad Hatter" vì hay đội mũ chóp cao đứng ở cửa tiệm; người ta kể hoạ sĩ John Tenniel đã tới Oxford chỉ để phác hoạ Carter cho tranh minh hoạ.
+Hộp bên lề trích *Alice ở Xứ sở Thần tiên* của Lewis Carroll: Thỏ Tháng Ba nghiêm trang mời Alice "uống thêm trà đi"; Alice phật ý: "Tôi chưa uống gì cả, nên không thể uống thêm"; Hatter đáp: "Cô muốn nói là không thể uống ÍT hơn; uống NHIỀU hơn không gì thì rất dễ."
+
+Người biên tập kể thêm: Hatter, thường được gọi là "Mad Hatter" (ông thợ mũ điên), là nhân vật bí ẩn gặp ở bữa tiệc trà và sau đó là nhân chứng trong phiên toà; "Hatter thật" thường được cho là Theophilus Carter, người phát minh chiếc giường báo thức hất người ngủ ra khi tới giờ dậy, trưng bày ở Triển lãm Lớn năm 1851. Carter sau đó có một cửa hàng đồ nội thất và được gọi là "Mad Hatter" vì hay đội mũ chóp cao đứng ở cửa tiệm; người ta kể hoạ sĩ John Tenniel đã tới Oxford chỉ để phác hoạ Carter cho tranh minh hoạ.
 
 Lời Munger: người ta không nghĩ tới hệ quả của hệ quả. Họ bắt đầu bằng việc phòng ngừa rủi ro thay đổi lãi suất, việc rất khó và phức tạp. Rồi các hợp đồng phòng ngừa làm lợi nhuận báo cáo lên xuống thất thường. Thế là họ dùng phái sinh mới để làm mượt lợi nhuận. Tới đó, họ đã biến thành nói dối. Cả câu chuyện thành một bữa tiệc trà của Mad Hatter, và nó xảy ra ở những tập đoàn khổng lồ, tinh vi. Phải có ai đó đứng ra nói: "Chúng ta sẽ không làm việc này, nó quá khó."
 
@@ -1921,7 +1952,9 @@ Họ đã cố bán mảng phái sinh của Gen Re mà không được, nên b�
 
 Ông nghĩ Berkshire là tập đoàn lớn duy nhất ở Mỹ đang đóng dần sổ phái sinh của mình. Với những người đã giàu như Berkshire, ở trong nghề này là ý tưởng điên rồ; và đó cũng là nghề điên rồ cho các ngân hàng lớn.
 
-Câu in nổi khép lại chủ đề này (kèm bìa sách *F.I.A.S.C.O.: The Inside Story of a Wall Street Trader* của Frank Partnoy): nếu có đầu óc công bằng và dành một tháng thật sự đào sâu vào một bộ phận phái sinh lớn, bạn sẽ ghê tởm. Bạn sẽ nghĩ đó là Lewis Carroll, là bữa tiệc trà của Mad Hatter. Độ chính xác giả tạo của những người này không thể tin nổi; họ làm cho những giáo sư kinh tế tệ nhất trông như thần thánh. Hơn nữa, sự đồi bại còn khuếch đại sự dại dột. Hãy đọc *F.I.A.S.C.O.* của Frank Partnoy, giáo sư luật và cựu nhà giao dịch phái sinh, kể từ bên trong về sự đồi bại trong giao dịch phái sinh ở một trong những hãng Phố Wall lớn nhất và được đánh giá cao nhất. Cuốn sách sẽ làm bạn buồn nôn.
+Câu in nổi khép lại chủ đề này (kèm bìa sách *F.I.A.S.C.O.: The Inside Story of a Wall Street Trader* của Frank Partnoy): nếu có đầu óc công bằng và dành một tháng thật sự đào sâu vào một bộ phận phái sinh lớn, bạn sẽ ghê tởm. Bạn sẽ nghĩ đó là Lewis Carroll, là bữa tiệc trà của Mad Hatter. Độ chính xác giả tạo của những người này không thể tin nổi; họ làm cho những giáo sư kinh tế tệ nhất trông như thần thánh. Hơn nữa, sự đồi bại còn khuếch đại sự dại dột.
+
+Hãy đọc *F.I.A.S.C.O.* của Frank Partnoy, giáo sư luật và cựu nhà giao dịch phái sinh, kể từ bên trong về sự đồi bại trong giao dịch phái sinh ở một trong những hãng Phố Wall lớn nhất và được đánh giá cao nhất. Cuốn sách sẽ làm bạn buồn nôn.
 
 ### 13. "Critique of Lawyers, Law Firms, and Litigation" — Phê phán luật sư, hãng luật và kiện tụng (trang in 129–132)
 
@@ -1981,7 +2014,9 @@ Nhân tiện, không có quy tắc nào nói không thể thêm một hai mô h�
 
 Thật lố bịch khi nhiều người bám vào những ý tưởng đã thất bại. Keynes nói: cái khó không phải là đưa ý tưởng mới vào, mà là gạt bỏ ý tưởng cũ. Tinh thần không tự lừa mình là một trong những tinh thần tốt nhất mà người ta có thể có; nó mạnh vì nó hiếm.
 
-Hộp bên lề "The Earth: Flat or Round?" (Trái Đất phẳng hay tròn?): ngay từ năm 140, Ptolemy đã vẽ bản đồ thể hiện Trái Đất là một quả cầu. Nhà thờ thời Trung cổ bác bỏ ý tưởng Hy Lạp này, gọi nó là dị giáo: Trái Đất phẳng, phía trên là Thiên đường, phía dưới là Địa ngục, ở giữa là đàn ông và đàn bà. Hàng trăm năm, thuỷ thủ sợ mất dấu đất liền và các chuyến đi biển chỉ men theo bờ. Từ thế kỷ 14, việc thám hiểm đại dương bắt đầu nghiêm túc; đảo, nước, lục địa được khám phá; nhiều nhà thám hiểm hoàn thành những chuyến đi khám phá (Marco Polo, Christopher Columbus, Vasco da Gama). Thế giới được biết tới mở rộng sau mỗi chuyến đi, cho tới khi ai muốn nhìn cũng thấy rõ Trái Đất đúng là hình cầu. Cuối cùng, con tàu Victoria, chiếc duy nhất còn lại của hạm đội Ferdinand Magellan, đi vòng quanh thế giới và khép lại vấn đề. Hình minh hoạ lấy từ bìa sách *The Discoverers* của Daniel Boorstin, được cho là từ một bản khắc gỗ thế kỷ 16, nguồn gốc không rõ.
+Hộp bên lề "The Earth: Flat or Round?" (Trái Đất phẳng hay tròn?): ngay từ năm 140, Ptolemy đã vẽ bản đồ thể hiện Trái Đất là một quả cầu. Nhà thờ thời Trung cổ bác bỏ ý tưởng Hy Lạp này, gọi nó là dị giáo: Trái Đất phẳng, phía trên là Thiên đường, phía dưới là Địa ngục, ở giữa là đàn ông và đàn bà. Hàng trăm năm, thuỷ thủ sợ mất dấu đất liền và các chuyến đi biển chỉ men theo bờ.
+
+Từ thế kỷ 14, việc thám hiểm đại dương bắt đầu nghiêm túc; đảo, nước, lục địa được khám phá; nhiều nhà thám hiểm hoàn thành những chuyến đi khám phá (Marco Polo, Christopher Columbus, Vasco da Gama). Thế giới được biết tới mở rộng sau mỗi chuyến đi, cho tới khi ai muốn nhìn cũng thấy rõ Trái Đất đúng là hình cầu. Cuối cùng, con tàu Victoria, chiếc duy nhất còn lại của hạm đội Ferdinand Magellan, đi vòng quanh thế giới và khép lại vấn đề. Hình minh hoạ lấy từ bìa sách *The Discoverers* của Daniel Boorstin, được cho là từ một bản khắc gỗ thế kỷ 16, nguồn gốc không rõ.
 
 #### "Common (and Uncommon) Sense" — Lẽ thường (và lẽ không thường)
 
@@ -1993,7 +2028,11 @@ Họ đọc rất nhiều. Munger không biết ai khôn ngoan mà không đọc
 
 Càng có nhiều kiến thức cơ bản, càng ít phải tiếp thu kiến thức mới. Người chơi cờ bịt mắt (một kiện tướng cờ tới Omaha dịp đại hội Berkshire và biểu diễn chơi bịt mắt với nhiều người cùng lúc) làm được vậy vì ông nắm vững bàn cờ.
 
-Hộp bên lề "Henry E. Singleton (1916–1999), Business and Chess Master": Singleton đồng sáng lập Teledyne, Inc. và là giám đốc điều hành tập đoàn đa ngành có trụ sở ở Los Angeles này trong ba thập kỷ. Ông học Học viện Hải quân, rồi chuyển sang MIT, nơi lấy bằng cử nhân, thạc sĩ và tiến sĩ kỹ thuật điện. Là người chơi cờ cực giỏi, ông chỉ kém trình độ đại kiện tướng 100 điểm và có thể chơi không cần nhìn bàn cờ. Từ 1963 đến 1990, Teledyne mang lại cho cổ đông lợi suất kép hằng năm 20,4%, trong khi S&P 500 chỉ 8,0%. Nhờ khéo léo mua lại 90% số cổ phần đang lưu hành của Teledyne, chủ yếu trong giai đoạn 1972–1984, Singleton xây dựng một thành tích quản lý và phân bổ vốn hiếm ai sánh được trong lịch sử kinh doanh hiện đại. Chia sẻ sự ngưỡng mộ của Buffett, Munger tự hỏi: "Với tài năng và thành tích của ông ấy, chúng ta đã học đủ từ ông ấy chưa?" Buffett (1980): Henry Singleton có thành tích vận hành và triển khai vốn tốt nhất trong giới kinh doanh Mỹ; nếu lấy một trăm người tốt nghiệp trường kinh doanh giỏi nhất và gộp thành tích của họ lại, kết quả vẫn không bằng Singleton.
+Hộp bên lề "Henry E. Singleton (1916–1999), Business and Chess Master": Singleton đồng sáng lập Teledyne, Inc. và là giám đốc điều hành tập đoàn đa ngành có trụ sở ở Los Angeles này trong ba thập kỷ. Ông học Học viện Hải quân, rồi chuyển sang MIT, nơi lấy bằng cử nhân, thạc sĩ và tiến sĩ kỹ thuật điện. Là người chơi cờ cực giỏi, ông chỉ kém trình độ đại kiện tướng 100 điểm và có thể chơi không cần nhìn bàn cờ.
+
+Từ 1963 đến 1990, Teledyne mang lại cho cổ đông lợi suất kép hằng năm 20,4%, trong khi S&P 500 chỉ 8,0%. Nhờ khéo léo mua lại 90% số cổ phần đang lưu hành của Teledyne, chủ yếu trong giai đoạn 1972–1984, Singleton xây dựng một thành tích quản lý và phân bổ vốn hiếm ai sánh được trong lịch sử kinh doanh hiện đại.
+
+Chia sẻ sự ngưỡng mộ của Buffett, Munger tự hỏi: "Với tài năng và thành tích của ông ấy, chúng ta đã học đủ từ ông ấy chưa?" Buffett (1980): Henry Singleton có thành tích vận hành và triển khai vốn tốt nhất trong giới kinh doanh Mỹ; nếu lấy một trăm người tốt nghiệp trường kinh doanh giỏi nhất và gộp thành tích của họ lại, kết quả vẫn không bằng Singleton.
 
 ### 15. "Critique of Academia" — Phê phán giới học thuật (trang in 136)
 
@@ -2094,21 +2133,39 @@ Sau một trang ảnh chân dung Munger ngồi trước giá sách, chương k�
 
 #### "Simpson on Munger" — Lou Simpson nói về Munger
 
-Louis A. Simpson, chủ tịch kiêm CEO mảng đầu tư vốn (Capital Operations) của tập đoàn GEICO, viết: khi mới gặp Munger, ông biết đây là một người độc nhất, nhưng phải quen lâu mới biết độc nhất tới đâu. Ông đã biết Munger hai mươi lăm năm và có dịp quan sát ông trong nhiều hoàn cảnh, kể cả giai đoạn sau khủng hoảng trái phiếu Salomon đầu thập niên 1990, khi cả hai ngồi trong hội đồng quản trị. Ông xác nhận Munger có một tổ hợp đặc điểm chưa từng thấy ở bất kỳ ai khác. Ông có trí tuệ phi thường và sâu trên một dải rộng mối quan tâm, và dường như không bao giờ quên điều gì, dù khó hiểu hay vụn vặt. Trên hết là cam kết tuyệt đối với sự trung thực, đạo đức và chính trực: Munger không bao giờ "vơ" cho mình, và có thể tin cậy không chút dè dặt. Chưa đủ, ông còn có tính khí đầu tư chỉ có thể gọi là lý tưởng: kiên nhẫn không lay chuyển, kỷ luật, tự chủ; Munger không gãy, không thoả hiệp nguyên tắc dù tình huống căng thẳng tới đâu. Simpson kết: tất cả đã may mắn biết bao khi có cặp Munger và Buffett làm cộng sự, thầy và hình mẫu suốt những năm qua; họ thật sự là những người phi thường.
+Louis A. Simpson, chủ tịch kiêm CEO mảng đầu tư vốn (Capital Operations) của tập đoàn GEICO, viết: khi mới gặp Munger, ông biết đây là một người độc nhất, nhưng phải quen lâu mới biết độc nhất tới đâu. Ông đã biết Munger hai mươi lăm năm và có dịp quan sát ông trong nhiều hoàn cảnh, kể cả giai đoạn sau khủng hoảng trái phiếu Salomon đầu thập niên 1990, khi cả hai ngồi trong hội đồng quản trị.
+
+Ông xác nhận Munger có một tổ hợp đặc điểm chưa từng thấy ở bất kỳ ai khác. Ông có trí tuệ phi thường và sâu trên một dải rộng mối quan tâm, và dường như không bao giờ quên điều gì, dù khó hiểu hay vụn vặt. Trên hết là cam kết tuyệt đối với sự trung thực, đạo đức và chính trực: Munger không bao giờ "vơ" cho mình, và có thể tin cậy không chút dè dặt.
+
+Chưa đủ, ông còn có tính khí đầu tư chỉ có thể gọi là lý tưởng: kiên nhẫn không lay chuyển, kỷ luật, tự chủ; Munger không gãy, không thoả hiệp nguyên tắc dù tình huống căng thẳng tới đâu. Simpson kết: tất cả đã may mắn biết bao khi có cặp Munger và Buffett làm cộng sự, thầy và hình mẫu suốt những năm qua; họ thật sự là những người phi thường.
 
 #### "Munger on Simpson" — Munger nói về Lou Simpson
 
-Munger viết: Lou Simpson là người rất thông minh và đáng kính. Ông vui vì trong thư gửi cổ đông năm 2005, Buffett đã in thành tích đầu tư hai mươi lăm năm của Lou. Thắng các chỉ số thị trường trong vài năm, thậm chí năm hay mười năm, không phải chưa từng nghe. Nhưng hãy hình dung việc vượt S&P 500 trung bình 6,8 điểm phần trăm mỗi năm trong hai mươi lăm năm! Thành tích phi thường này tự nói lên tất cả: Lou có một trong những bộ óc đầu tư vĩ đại nhất thời nay; như Buffett nói, ông "chắc chắn vào Đại sảnh Danh vọng đầu tư". Munger nhớ rõ cơn sốt dot-com cuối thập niên 1990 và cách Lou xử lý nó. Không ai tin nổi áp lực ông phải chịu năm này qua năm khác, khi cả thế giới dường như đang thu lãi khổng lồ còn ông, một cách đúng đắn, tránh hẳn bong bóng và trung thành với các yếu tố cơ bản. Lou là tấm gương tuyệt vời trong giai đoạn đó: thông minh, đáng kính, trung thành với nguyên tắc cơ bản.
+Munger viết: Lou Simpson là người rất thông minh và đáng kính. Ông vui vì trong thư gửi cổ đông năm 2005, Buffett đã in thành tích đầu tư hai mươi lăm năm của Lou. Thắng các chỉ số thị trường trong vài năm, thậm chí năm hay mười năm, không phải chưa từng nghe. Nhưng hãy hình dung việc vượt S&P 500 trung bình 6,8 điểm phần trăm mỗi năm trong hai mươi lăm năm! Thành tích phi thường này tự nói lên tất cả: Lou có một trong những bộ óc đầu tư vĩ đại nhất thời nay; như Buffett nói, ông "chắc chắn vào Đại sảnh Danh vọng đầu tư".
+
+Munger nhớ rõ cơn sốt dot-com cuối thập niên 1990 và cách Lou xử lý nó. Không ai tin nổi áp lực ông phải chịu năm này qua năm khác, khi cả thế giới dường như đang thu lãi khổng lồ còn ông, một cách đúng đắn, tránh hẳn bong bóng và trung thành với các yếu tố cơ bản. Lou là tấm gương tuyệt vời trong giai đoạn đó: thông minh, đáng kính, trung thành với nguyên tắc cơ bản.
 
 #### "Sinegal on Munger" — Jim Sinegal nói về Munger
 
-James D. Sinegal, chủ tịch kiêm CEO Costco Wholesale Corporation, viết: ông có dịp gặp Munger tám năm trước, khi Munger nhận lời ăn trưa với ông ở California Club, Los Angeles; mục đích là thuyết phục Munger cân nhắc vào hội đồng quản trị Costco. Ông quý Munger ngay từ lúc gặp, khi Munger kể mình thích mua sắm ở Costco thế nào. Dù bị hơn 500 người khác đang ăn trưa ở đó liên tục ghé chào, và Munger gọi đúng tên gần như từng người, họ vẫn có một cuộc nói chuyện tuyệt vời. Trước hết, Munger đủ tinh tường để nhận ra thẻ hội viên Costco là một giá trị lớn tới đâu. Về sau Sinegal mới biết tiếng tằn tiện của Munger, điều giải thích sức hút của Costco với ông, nhưng quan trọng hơn là sự thẳng thắn và óc kinh doanh hợp lẽ thường của Munger hiện ra rất rõ. Sau đó, khi gọi điện nhận lời vào hội đồng, Munger tự gọi mình là "septuagenarian" (người ngoài bảy mươi tuổi); Sinegal đùa rằng đó là một cách tả khá kiểu cách để nói với một người từ ngành kho hàng, và ông thấy được nể khi Munger nghĩ ông hiểu. Từ đó, Munger đã đem lại mọi điều có thể mong đợi ở một thành viên hội đồng quản trị: những nhận định, câu hỏi và sự ủng hộ của ông đã làm Costco được quản trị và vận hành tốt hơn. Phần thưởng thêm là những "liều" hài hước Munger đều đặn; Sinegal nói họ là những người may mắn.
+James D. Sinegal, chủ tịch kiêm CEO Costco Wholesale Corporation, viết: ông có dịp gặp Munger tám năm trước, khi Munger nhận lời ăn trưa với ông ở California Club, Los Angeles; mục đích là thuyết phục Munger cân nhắc vào hội đồng quản trị Costco. Ông quý Munger ngay từ lúc gặp, khi Munger kể mình thích mua sắm ở Costco thế nào. Dù bị hơn 500 người khác đang ăn trưa ở đó liên tục ghé chào, và Munger gọi đúng tên gần như từng người, họ vẫn có một cuộc nói chuyện tuyệt vời.
+
+Trước hết, Munger đủ tinh tường để nhận ra thẻ hội viên Costco là một giá trị lớn tới đâu. Về sau Sinegal mới biết tiếng tằn tiện của Munger, điều giải thích sức hút của Costco với ông, nhưng quan trọng hơn là sự thẳng thắn và óc kinh doanh hợp lẽ thường của Munger hiện ra rất rõ. Sau đó, khi gọi điện nhận lời vào hội đồng, Munger tự gọi mình là "septuagenarian" (người ngoài bảy mươi tuổi); Sinegal đùa rằng đó là một cách tả khá kiểu cách để nói với một người từ ngành kho hàng, và ông thấy được nể khi Munger nghĩ ông hiểu.
+
+Từ đó, Munger đã đem lại mọi điều có thể mong đợi ở một thành viên hội đồng quản trị: những nhận định, câu hỏi và sự ủng hộ của ông đã làm Costco được quản trị và vận hành tốt hơn. Phần thưởng thêm là những "liều" hài hước Munger đều đặn; Sinegal nói họ là những người may mắn.
 
 #### "Munger on Sinegal" — Munger nói về Jim Sinegal
 
 Munger viết: người ta sẽ không tin nổi hoạt động kho hàng của Costco hiệu quả và tinh vi tới đâu. Jim Sinegal là một nhà vận hành doanh nghiệp tuyệt vời, như Carnegie, Rockefeller hay James J. Hill (ông trùm đường sắt). Munger coi ông là một trong năm nhà bán lẻ hàng đầu của thế kỷ qua; ông giỏi đến vậy. Ông làm việc tám mươi giờ mỗi tuần và làm gương tuyệt vời cho toàn bộ tổ chức về đạo đức làm việc, sự chính trực, lòng trung thành và sự vô tư. Ông là một nhà lãnh đạo đạo đức đồng thời là một nhà lãnh đạo thực tiễn; đó không phải những đức tính nhỏ. Costco có một Sam Walton (người sáng lập Wal-Mart) bằng xương bằng thịt của riêng mình.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Anh Minh, 35 tuổi, có 2 tỷ đồng tiết kiệm và muốn đầu tư theo cách của Munger. Thay vì mua 40 mã cổ phiếu theo lời môi giới, anh liệt kê các ngành mình hiểu nhờ mười năm làm trong ngành bán lẻ và chia mọi cơ hội vào ba giỏ: "vào", "ra", "quá khó" (**vòng tròn năng lực**); các công ty công nghệ sinh học và một đợt IPO đang được quảng cáo rầm rộ vào giỏ "quá khó". Anh chọn ra năm doanh nghiệp (**đầu tư tập trung**), trong đó có một chuỗi bán lẻ có lợi suất trên vốn 25%, cho phép trả cổ tức và không phải tái đầu tư hết lợi nhuận (doanh nghiệp "loại 1" của Munger), dù giá đang cao hơn mức anh muốn trả 15%; nhớ bài học See's, anh chấp nhận trả cao cho chất lượng. Anh so mỗi khoản với phương án tốt nhất kế tiếp, là gửi tiết kiệm lãi 6% hoặc trả nợ vay mua nhà lãi 10% (**chi phí cơ hội**), chứ không dùng một con số "chi phí vốn chủ sở hữu" lấy từ sách. Khi đọc báo cáo, anh bỏ qua dòng EBITDA mà ban lãnh đạo nhấn mạnh và hỏi lợi nhuận sau khi trừ khấu hao là bao nhiêu, rồi để ý xem khoản "chi phí bất thường" có lặp lại năm nào cũng có không. Một công ty anh xem xét trao quyền chọn cổ phiếu lớn cho ban lãnh đạo nhưng không ghi chi phí rõ; anh tự tính phần pha loãng và hạ giá trị ước tính. Giữ 40% tiền mặt chờ **cú ném dễ đánh**, anh không bực khi bạn bè lãi gấp đôi nhờ một cổ phiếu đầu cơ (tránh **đố kỵ**). Một năm sau thị trường giảm 30%, cổ phiếu chuỗi bán lẻ giảm theo dù kết quả kinh doanh vẫn tốt; vì đã có sự tự tin dựa trên hiểu biết, anh mua thêm thay vì "mua nhỏ giọt" (tránh **sai lầm do không làm**). Phần tiền dành cho bố mẹ, những người không có thời gian tìm hiểu, anh đặt vào một quỹ chỉ số phí thấp thay vì quỹ chủ động phí 2%/năm (**quỹ chỉ số**). Anh không vay ký quỹ để mua thêm, và trả hết dư nợ thẻ tín dụng mỗi tháng (**tránh nợ**, giữ **biên an toàn**).
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Anh Minh, 35 tuổi, có 2 tỷ đồng tiết kiệm và muốn đầu tư theo cách của Munger. Thay vì mua 40 mã cổ phiếu theo lời môi giới, anh liệt kê các ngành mình hiểu nhờ mười năm làm trong ngành bán lẻ và chia mọi cơ hội vào ba giỏ: "vào", "ra", "quá khó" (**vòng tròn năng lực**); các công ty công nghệ sinh học và một đợt IPO đang được quảng cáo rầm rộ vào giỏ "quá khó".
+
+Anh chọn ra năm doanh nghiệp (**đầu tư tập trung**), trong đó có một chuỗi bán lẻ có lợi suất trên vốn 25%, cho phép trả cổ tức và không phải tái đầu tư hết lợi nhuận (doanh nghiệp "loại 1" của Munger), dù giá đang cao hơn mức anh muốn trả 15%; nhớ bài học See's, anh chấp nhận trả cao cho chất lượng.
+
+Anh so mỗi khoản với phương án tốt nhất kế tiếp, là gửi tiết kiệm lãi 6% hoặc trả nợ vay mua nhà lãi 10% (**chi phí cơ hội**), chứ không dùng một con số "chi phí vốn chủ sở hữu" lấy từ sách. Khi đọc báo cáo, anh bỏ qua dòng EBITDA mà ban lãnh đạo nhấn mạnh và hỏi lợi nhuận sau khi trừ khấu hao là bao nhiêu, rồi để ý xem khoản "chi phí bất thường" có lặp lại năm nào cũng có không.
+
+Một công ty anh xem xét trao quyền chọn cổ phiếu lớn cho ban lãnh đạo nhưng không ghi chi phí rõ; anh tự tính phần pha loãng và hạ giá trị ước tính. Giữ 40% tiền mặt chờ **cú ném dễ đánh**, anh không bực khi bạn bè lãi gấp đôi nhờ một cổ phiếu đầu cơ (tránh **đố kỵ**).
+
+Một năm sau thị trường giảm 30%, cổ phiếu chuỗi bán lẻ giảm theo dù kết quả kinh doanh vẫn tốt; vì đã có sự tự tin dựa trên hiểu biết, anh mua thêm thay vì "mua nhỏ giọt" (tránh **sai lầm do không làm**). Phần tiền dành cho bố mẹ, những người không có thời gian tìm hiểu, anh đặt vào một quỹ chỉ số phí thấp thay vì quỹ chủ động phí 2%/năm (**quỹ chỉ số**). Anh không vay ký quỹ để mua thêm, và trả hết dư nợ thẻ tín dụng mỗi tháng (**tránh nợ**, giữ **biên an toàn**).
 
 ## Luận điểm cốt lõi
 
@@ -2338,19 +2395,29 @@ Thành công lâu dài trong đầu tư, kinh doanh và cuộc sống đến ch�
 
 ### Chương này cho thấy các nguyên tắc của Munger rất nhất quán dù được nói tự phát
 
-Vì là những câu trả lời tại chỗ trong khoảng năm năm, chương này là phép thử tốt cho việc Munger có thật sống theo những gì ông viết hay không. Kết quả đáng chú ý là sự nhất quán: cùng một vài ý (động cơ khuyến khích, không tự lừa mình, vòng tròn năng lực, chi phí cơ hội, biên an toàn, tránh lằn ranh đạo đức) xuất hiện lại ở những đề tài rất xa nhau, từ việc mua See's Candy tới vụ amiăng hay cách tìm người bạn đời. Chương cũng cho thấy một mặt ít thấy trong các bài nói soạn sẵn: sự khiêm tốn có tính toán (ông tự hạ vai trò của mình với Buffett, thừa nhận sai lầm Wal-Mart, tự nhận "học chậm") và sự hài hước tự giễu. Điểm mạnh nữa là ông nói thật về Berkshire theo hướng bất lợi cho giá cổ phiếu: liên tục "bảo đảm" tương lai kém quá khứ, muốn giá gần giá trị nội tại, không dụ thêm cổ đông. Ít lãnh đạo công ty đại chúng nào nói như vậy.
+Vì là những câu trả lời tại chỗ trong khoảng năm năm, chương này là phép thử tốt cho việc Munger có thật sống theo những gì ông viết hay không. Kết quả đáng chú ý là sự nhất quán: cùng một vài ý (động cơ khuyến khích, không tự lừa mình, vòng tròn năng lực, chi phí cơ hội, biên an toàn, tránh lằn ranh đạo đức) xuất hiện lại ở những đề tài rất xa nhau, từ việc mua See's Candy tới vụ amiăng hay cách tìm người bạn đời.
+
+Chương cũng cho thấy một mặt ít thấy trong các bài nói soạn sẵn: sự khiêm tốn có tính toán (ông tự hạ vai trò của mình với Buffett, thừa nhận sai lầm Wal-Mart, tự nhận "học chậm") và sự hài hước tự giễu. Điểm mạnh nữa là ông nói thật về Berkshire theo hướng bất lợi cho giá cổ phiếu: liên tục "bảo đảm" tương lai kém quá khứ, muốn giá gần giá trị nội tại, không dụ thêm cổ đông. Ít lãnh đạo công ty đại chúng nào nói như vậy.
 
 ### Điểm yếu: nhiều nhận định mạnh nhưng ít bằng chứng, và một số mang tính quy chụp
 
-Hình thức tập trích khiến nhiều câu nói trở thành khẳng định mà không có lập luận đi kèm. Một số nhận định mang tính quy chụp hoặc theo khẩu vị cá nhân: bỏ ba phần tư giảng viên đại học trừ khoa học tự nhiên; giảng viên nhân văn có quan điểm chính sách công không vững "nhưng có thể biết nhiều tiếng Pháp"; người Hoa "là dân mê đánh bạc" để giải thích bong bóng Hồng Kông; người làm nghề cai ngục "không phải người cao quý nhất của tạo hoá". Đây là những khái quát về cả một nhóm người, khó kiểm chứng và dễ gây phản cảm. Một số chi tiết sự kiện được kể theo trí nhớ và không chính xác (Robert Maxwell "tự tử"; ví dụ Black-Scholes ở Costco không nói rõ điều kiện). Phê phán Black-Scholes cũng có phần cường điệu: giới tài chính biết mô hình có giả định hạn chế, nhưng với quyền chọn thù lao không giao dịch được, chưa có phương pháp nào được chấp nhận rộng rãi hơn; điều Munger nói đúng là con số ra từ mô hình không nên được coi là chính xác. Người đọc nên tách phần nguyên tắc (rất vững) khỏi phần nhận xét nhất thời về người và nhóm người.
+Hình thức tập trích khiến nhiều câu nói trở thành khẳng định mà không có lập luận đi kèm. Một số nhận định mang tính quy chụp hoặc theo khẩu vị cá nhân: bỏ ba phần tư giảng viên đại học trừ khoa học tự nhiên; giảng viên nhân văn có quan điểm chính sách công không vững "nhưng có thể biết nhiều tiếng Pháp"; người Hoa "là dân mê đánh bạc" để giải thích bong bóng Hồng Kông; người làm nghề cai ngục "không phải người cao quý nhất của tạo hoá". Đây là những khái quát về cả một nhóm người, khó kiểm chứng và dễ gây phản cảm.
+
+Một số chi tiết sự kiện được kể theo trí nhớ và không chính xác (Robert Maxwell "tự tử"; ví dụ Black-Scholes ở Costco không nói rõ điều kiện). Phê phán Black-Scholes cũng có phần cường điệu: giới tài chính biết mô hình có giả định hạn chế, nhưng với quyền chọn thù lao không giao dịch được, chưa có phương pháp nào được chấp nhận rộng rãi hơn; điều Munger nói đúng là con số ra từ mô hình không nên được coi là chính xác. Người đọc nên tách phần nguyên tắc (rất vững) khỏi phần nhận xét nhất thời về người và nhóm người.
 
 ### Nhiều lời cảnh báo đã ứng nghiệm, một số dự đoán thì chưa
 
-Theo hiểu biết của người tổng hợp: lời cảnh báo tháng 4/2000 về bong bóng ("cực đoan nhất trong chủ nghĩa tư bản hiện đại") rơi đúng đỉnh bong bóng dot-com; lời dự đoán một vụ nổ phái sinh đáng kể "trong năm tới mười năm" ứng nghiệm với khủng hoảng 2007–2009, khi các điều khoản ký quỹ bị hạ hạng tín nhiệm mà ông mô tả chính là cơ chế khiến AIG gần sụp; quyền chọn cổ phiếu đã phải ghi nhận là chi phí từ giữa thập niên 2000; bê bối quỹ tương hỗ và vụ Arthur Andersen dẫn tới cải cách. Mặt khác, dự đoán lợi suất cổ phiếu Mỹ chỉ khoảng 6%/năm sau 2000 đúng cho thập niên đầu (thường gọi là "thập niên mất mát") nhưng không đúng cho giai đoạn sau 2009, khi cổ phiếu Mỹ, nhất là công nghệ, tăng mạnh. Lời chê EBITDA chưa làm thay đổi thói quen: các chỉ tiêu "điều chỉnh" ngoài chuẩn mực kế toán còn phổ biến hơn. Quỹ chỉ số mà ông khuyên dùng đã trở thành dòng chính, và chính câu hỏi ông nêu, "đầu tư theo chỉ số không thể hiệu quả mãi nếu ai cũng dùng", nay là một tranh luận thật trong giới học thuật và quản lý.
+Theo hiểu biết của người tổng hợp: lời cảnh báo tháng 4/2000 về bong bóng ("cực đoan nhất trong chủ nghĩa tư bản hiện đại") rơi đúng đỉnh bong bóng dot-com; lời dự đoán một vụ nổ phái sinh đáng kể "trong năm tới mười năm" ứng nghiệm với khủng hoảng 2007–2009, khi các điều khoản ký quỹ bị hạ hạng tín nhiệm mà ông mô tả chính là cơ chế khiến AIG gần sụp; quyền chọn cổ phiếu đã phải ghi nhận là chi phí từ giữa thập niên 2000; bê bối quỹ tương hỗ và vụ Arthur Andersen dẫn tới cải cách.
+
+Mặt khác, dự đoán lợi suất cổ phiếu Mỹ chỉ khoảng 6%/năm sau 2000 đúng cho thập niên đầu (thường gọi là "thập niên mất mát") nhưng không đúng cho giai đoạn sau 2009, khi cổ phiếu Mỹ, nhất là công nghệ, tăng mạnh. Lời chê EBITDA chưa làm thay đổi thói quen: các chỉ tiêu "điều chỉnh" ngoài chuẩn mực kế toán còn phổ biến hơn. Quỹ chỉ số mà ông khuyên dùng đã trở thành dòng chính, và chính câu hỏi ông nêu, "đầu tư theo chỉ số không thể hiệu quả mãi nếu ai cũng dùng", nay là một tranh luận thật trong giới học thuật và quản lý.
 
 ### Quan điểm trái chiều: cách làm của Berkshire không phải ai cũng chép được
 
-Munger nói cách làm của Berkshire "không khó, chỉ trông khó". Nhưng nhiều điều kiện làm nên nó khó sao chép: một nguồn tiền thả nổi bảo hiểm rẻ và lớn; quyền kiểm soát tập trung trong tay hai người có uy tín cực cao, nên không phải chiều theo uỷ ban hay cổ đông ngắn hạn; danh tiếng khiến chủ doanh nghiệp gia đình muốn bán cho họ dưới giá thị trường; và chính tài phân bổ vốn của Buffett, điều Munger thừa nhận người kế nhiệm khó bằng. Một nhà quản lý quỹ làm thuê, bị đo theo chỉ số chuẩn hằng quý, gần như không thể giữ 70 tỷ USD tiền mặt hay dồn vào mười cổ phiếu mà không bị rút vốn; Munger chê hệ thống đó, nhưng nó tồn tại vì người gửi tiền không phân biệt được người kiên nhẫn có tài với người chỉ đơn giản là sai. Ngoài ra, đầu tư tập trung tăng rủi ro "chọn nhầm": thống kê thành tích của những người thắng như Berkshire có thiên lệch kẻ sống sót, vì những người tập trung mà chọn sai không ai viết sách về họ. Cuối cùng, sự hoài nghi của ông với kinh tế học hàn lâm có phần lạc hậu: tài chính hành vi và kinh tế học thể chế từ thập niên 2000 đã tiếp nhận nhiều ý ông nêu (tâm lý học, động cơ khuyến khích, liên ngành).
+Munger nói cách làm của Berkshire "không khó, chỉ trông khó". Nhưng nhiều điều kiện làm nên nó khó sao chép: một nguồn tiền thả nổi bảo hiểm rẻ và lớn; quyền kiểm soát tập trung trong tay hai người có uy tín cực cao, nên không phải chiều theo uỷ ban hay cổ đông ngắn hạn; danh tiếng khiến chủ doanh nghiệp gia đình muốn bán cho họ dưới giá thị trường; và chính tài phân bổ vốn của Buffett, điều Munger thừa nhận người kế nhiệm khó bằng.
+
+Một nhà quản lý quỹ làm thuê, bị đo theo chỉ số chuẩn hằng quý, gần như không thể giữ 70 tỷ USD tiền mặt hay dồn vào mười cổ phiếu mà không bị rút vốn; Munger chê hệ thống đó, nhưng nó tồn tại vì người gửi tiền không phân biệt được người kiên nhẫn có tài với người chỉ đơn giản là sai.
+
+Ngoài ra, đầu tư tập trung tăng rủi ro "chọn nhầm": thống kê thành tích của những người thắng như Berkshire có thiên lệch kẻ sống sót, vì những người tập trung mà chọn sai không ai viết sách về họ. Cuối cùng, sự hoài nghi của ông với kinh tế học hàn lâm có phần lạc hậu: tài chính hành vi và kinh tế học thể chế từ thập niên 2000 đã tiếp nhận nhiều ý ông nêu (tâm lý học, động cơ khuyến khích, liên ngành).
 
 ### Điều Munger nói về đạo đức có giá trị lâu hơn điều ông nói về thị trường
 
@@ -2361,4 +2428,217 @@ Nhận định về thị trường gắn với thời điểm (2000–2004) và
 - **Trong đầu tư.** Lập ba giỏ "vào, ra, quá khó" và chỉ đầu tư vào giỏ thứ nhất; giữ một danh sách ngắn doanh nghiệp tốt đã nghiên cứu sẵn để hành động khi giá giảm; ghi lại cả những cơ hội đã thấy mà không mua để tự rút kinh nghiệm về sai lầm do không làm; khi đọc báo cáo, thay EBITDA bằng lợi nhuận sau khấu hao và dòng tiền tự do, hỏi về khoản chi phí "bất thường" lặp lại, quyền chọn và giả định hưu trí; nếu không có lợi thế hiểu biết thì dùng quỹ chỉ số phí thấp; không bán khống và không vay ký quỹ.
 - **Trong doanh nghiệp và nghề nghiệp.** Nói thật với cổ đông, cấp trên, khách hàng kể cả tin xấu; chọn người có đam mê và chính trực rồi trao quyền thay vì giám sát chi li; nghi ngờ mọi lời hứa "cộng hưởng" trong sáp nhập; thiết kế thưởng gắn với đóng góp thật thay vì giá cổ phiếu; với tổ chức tài chính, coi lời khoe "quản trị rủi ro tốt" là tín hiệu cần kiểm tra thêm; khi một việc hợp pháp nhưng khiến mình phải giải thích quanh co, coi đó là lằn ranh và đứng xa ra.
 - **Trong ra quyết định cá nhân.** Trước mỗi lựa chọn lớn, so với phương án tốt nhất kế tiếp (chi phí cơ hội) và hỏi hệ quả của hệ quả; liệt kê những điều muốn tránh (nợ thẻ tín dụng, cám dỗ, mối quan hệ xấu) trước khi liệt kê điều muốn đạt (tư duy đảo ngược); đọc mỗi ngày, cả tiểu sử; khi thấy người khác giàu nhanh hơn, nhắc mình rằng luôn có người như vậy; giảm nhu cầu vật chất để bớt phụ thuộc vào lợi suất cao; khi nhận lời khuyên, hỏi người khuyên được lợi gì.
-- **Ở Việt Nam.** Thị trường chứng khoán có nhiều nhà đầu tư cá nhân giao dịch ngắn hạn, theo tin đồn và theo đám đông, nên lời khuyên kiên nhẫn, tập trung trong vòng tròn năng lực và tránh vay ký quỹ đặc biệt hợp; các đợt IPO và cổ phiếu được "thổi giá" là nơi bài học về IPO và kẻ thổi giá áp dụng trực tiếp; nhà đầu tư nên đọc kỹ thuyết minh báo cáo tài chính, chú ý giao dịch với bên liên quan, khoản phải thu lớn và lợi nhuận từ hoạt động bất thường; doanh nghiệp gia đình muốn bán cho nhà đầu tư chiến lược có thể học cách Berkshire giữ nguyên người sáng lập; và cảnh báo "ngắt cái xấu từ trong trứng" là lời nhắc cho việc thiết kế quy định thị trường vốn và chuẩn mực kế toán trước khi các nhóm hưởng lợi đủ mạnh để cản trở cải cách.
+- **Ở Việt Nam.** Thị trường chứng khoán có nhiều nhà đầu tư cá nhân giao dịch ngắn hạn, theo tin đồn và theo đám đông, nên lời khuyên kiên nhẫn, tập trung trong vòng tròn năng lực và tránh vay ký quỹ đặc biệt hợp; các đợt IPO và cổ phiếu được "thổi giá" là nơi bài học về IPO và kẻ thổi giá áp dụng trực tiếp.
+
+  Nhà đầu tư nên đọc kỹ thuyết minh báo cáo tài chính, chú ý giao dịch với bên liên quan, khoản phải thu lớn và lợi nhuận từ hoạt động bất thường; doanh nghiệp gia đình muốn bán cho nhà đầu tư chiến lược có thể học cách Berkshire giữ nguyên người sáng lập; và cảnh báo "ngắt cái xấu từ trong trứng" là lời nhắc cho việc thiết kế quy định thị trường vốn và chuẩn mực kế toán trước khi các nhóm hưởng lợi đủ mạnh để cản trở cải cách.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 3 trên một trang: sáu nhánh lớn đi theo các mục 1–18 của phần Nội dung chi tiết (lời mở đầu và hai chìa khoá thành công, Berkshire và Buffett, lời khuyên đầu tư và nhận xét thị trường, chuỗi động cơ khuyến khích sai từ kế toán tới phái sinh và kiện tụng, mô hình tư duy và giới học thuật, cách sống cùng lời của Simpson và Sinegal), mỗi nhánh ghi nguyên tắc, ví dụ, con số và câu nói then chốt của Munger; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 3: Berkshire thành công nhờ luôn nhớ điều hiển nhiên, nhất quán để không ngu ngốc và đứng xa lằn ranh pháp luật`"]
+  n1["`Mục 1–2 — Lời mở đầu của Tilson và hai chìa khoá thành công`"]
+  n0 --- n1
+  n2["`Tilson: Buffett và Munger là cặp đầu tư giỏi nhất, nhà đầu tư không học họ là #quot;bonkers#quot;`"]
+  n1 --- n2
+  n3["`Câu #quot;I have nothing to add#quot; thành thương hiệu, Munger nói sâu ở đại hội Wesco tại Pasadena`"]
+  n1 --- n3
+  n4["`Con rùa thắng thỏ: tiếp thu hiểu biết đã kiểm chứng và tránh các tai hoạ thường gặp`"]
+  n1 --- n4
+  n5["`Lợi thế dài hạn đến từ cố gắng nhất quán để không ngu ngốc, không phải cố để rất thông minh`"]
+  n1 --- n5
+  n6["`Có một vùng rất rộng việc hợp pháp mà họ không làm, và làm điều đúng thường mang thêm tiền`"]
+  n1 --- n6
+  n7["`Mục 3–4 — Nhận xét về Berkshire và về Buffett`"]
+  n0 --- n7
+  n8["`Như con nhím biết một điều lớn: tiền thả nổi chi phí 3% đầu tư vào doanh nghiệp lãi 13%`"]
+  n7 --- n8
+  n9["`Không dùng đòn bẩy, nếu vay bằng nửa mức Murdoch thì Berkshire đã lớn gấp năm`"]
+  n7 --- n9
+  n10["`Quá lớn và cổ phiếu hết rẻ, nên họ #quot;bảo đảm#quot; tương lai sẽ kém quá khứ`"]
+  n7 --- n10
+  n11["`Hai phần ba thương vụ mua lại thất bại, Berkshire chỉ chờ thương vụ không cần đắn đo`"]
+  n7 --- n11
+  n12["`Chọn công ty và người quản lý tốt sẵn, phân quyền gần tới mức buông bỏ, đam mê hơn trí lực`"]
+  n7 --- n12
+  n13["`Muốn giá cổ phiếu quanh giá trị nội tại, giá lên quá thì nói cho nó xuống`"]
+  n7 --- n13
+  n14["`Bảo hiểm: chấp nhận kết quả thất thường, nhận ít hợp đồng khi thị trường xấu, nhắm 10% tốt nhất ngành`"]
+  n7 --- n14
+  n15["`Buffett: Charlie nói #quot;không#quot; thì dồn hết tiền, nói #quot;ngu nhất#quot; thì đầu tư vừa phải`"]
+  n7 --- n15
+  n16["`Người kế nhiệm phân bổ vốn kém Buffett, nhưng Berkshire có đà lớn và ngập tiền`"]
+  n7 --- n16
+  n17["`Mục 5–6 — Lời khuyên đầu tư và nhận xét thị trường`"]
+  n0 --- n17
+  n18["`Tính khí và cách chờ cơ hội`"]
+  n17 --- n18
+  n19["`Rất kiên nhẫn nhưng quyết liệt khi đến lúc, thiếu tò mò lâu dài thì IQ cao vẫn thất bại`"]
+  n18 --- n19
+  n20["`Kỷ luật chờ cú ném dễ đánh, như Harmon Killebrew với 573 cú home run`"]
+  n18 --- n20
+  n21["`Thứ mình thích giảm giá thì mua thêm, nếu đã có tự tin đúng đắn vào phán đoán`"]
+  n18 --- n21
+  n22["`Chọn doanh nghiệp và danh mục`"]
+  n17 --- n22
+  n23["`Đầu tư tập trung khoảng mười khoản, 98% giới đầu tư không nghĩ vậy`"]
+  n22 --- n23
+  n24["`Bỏ 15 quyết định hàng đầu thì Berkshire chỉ có thành tích trung bình`"]
+  n22 --- n24
+  n25["`Hai doanh nghiệp cùng lãi 12%: loại cho rút tiền ra tốt hơn loại #quot;lợi nhuận gỉ sét ngoài bãi#quot;`"]
+  n22 --- n25
+  n26["`See's Candy: suýt bỏ đi vì thêm 100.000 USD, Ira Marshall dạy họ trả giá cao cho chất lượng`"]
+  n22 --- n26
+  n27["`Sai lầm, giới hạn và công cụ sai`"]
+  n17 --- n27
+  n28["`Sai lầm lớn nhất là do không làm: không mua Wal-Mart vì giá nhích lên, mất khoảng 10 tỷ USD`"]
+  n27 --- n28
+  n29["`Ba giỏ vào, ra, quá khó, không biết ranh giới ở đâu thì chẳng phải năng lực`"]
+  n27 --- n29
+  n30["`So mọi phương án bằng chi phí cơ hội (Mankiw), có 80% mà không gì hơn thì vẫn nên làm`"]
+  n27 --- n30
+  n31["`Beta, coi biến động giá là rủi ro, dự báo kiểu đọc ruột cừu và IPO đều nên tránh`"]
+  n27 --- n31
+  n32["`Thị trường 2000–2004`"]
+  n17 --- n32
+  n33["`Cổ phiếu định giá một phần như trái phiếu, một phần như tranh Rembrandt mua vì giá đã tăng`"]
+  n32 --- n33
+  n34["`Tháng 4/2000: cực đoan nhất chủ nghĩa tư bản hiện đại, ngược chiều với thập niên 1930`"]
+  n32 --- n34
+  n35["`Nhật từng ở 50–60 lần lợi nhuận rồi suy thoái mười năm, ông đoán lợi suất Mỹ khoảng 6%`"]
+  n32 --- n35
+  n36["`Năm 2004 Berkshire giữ 70 tỷ USD tiền mặt và trái phiếu vì thiếu ý tưởng tốt`"]
+  n32 --- n36
+  n37["`Mục 7–13 — Động cơ khuyến khích sai trong tài chính và pháp lý Mỹ`"]
+  n0 --- n37
+  n38["`Ban lãnh đạo và kế toán`"]
+  n37 --- n38
+  n39["`Nhiều tiền phụ thuộc con số báo cáo thì người ta thao túng, hiệu ứng Serpico vì ai cũng làm`"]
+  n38 --- n39
+  n40["`Trộn nho khô với phân thì vẫn là phân, như thư dây chuyền trộn với đầu tư mạo hiểm`"]
+  n38 --- n40
+  n41["`EBITDA nên đọc là #quot;lợi nhuận nhảm nhí#quot;, chi phí #quot;bất thường#quot; năm nào cũng có thì không bất thường`"]
+  n38 --- n41
+  n42["`Quỹ hưu trí: IBM giả định 10%, đa số 9%, Munger cho 6% mới thực tế`"]
+  n38 --- n42
+  n43["`Kế toán viên im lặng vì #quot;ăn bánh của ai thì hát bài của người đó#quot;`"]
+  n38 --- n43
+  n44["`Kế toán lỏng lẻo như mang thúng tiền qua khu ổ chuột, người đặt luật lỏng cũng có tội`"]
+  n38 --- n44
+  n45["`Chủ nghĩa tư bản không có thất bại như tôn giáo không có địa ngục, nên Arthur Andersen sụp`"]
+  n38 --- n45
+  n46["`Quản lý tiền và Phố Wall`"]
+  n37 --- n46
+  n47["`Quỹ tương hỗ thu 2%/năm, chuyển quỹ tốn thêm 3–4 điểm, gộp cả ngành không tạo thêm giá trị`"]
+  n46 --- n47
+  n48["`Quỹ từ thiện có tổng phí trên 1%/năm thì đầu tư theo chỉ số khôn ngoan hơn`"]
+  n46 --- n48
+  n49["`Phố Wall coi #quot;bán được không?#quot; là phép thử đạo đức, Salomon chạy theo Robert Maxwell`"]
+  n46 --- n49
+  n50["`Quyền chọn cổ phiếu và phái sinh`"]
+  n37 --- n50
+  n51["`Quyền chọn vừa là chi phí vừa là pha loãng, 88 thượng nghị sĩ bỏ phiếu không ghi chi phí`"]
+  n50 --- n51
+  n52["`Black-Scholes chỉ tạm ổn cho quyền chọn 90 ngày, ở Costco định giá loại 60 USD cao hơn loại 30 USD`"]
+  n50 --- n52
+  n53["`Không nghĩ hệ quả của hệ quả: phòng ngừa lãi suất rồi dùng phái sinh làm mượt lợi nhuận thành nói dối`"]
+  n50 --- n53
+  n54["`Ai nói thật sự hiểu sổ phái sinh của mình thì hoặc điên hoặc nói dối`"]
+  n50 --- n54
+  n55["`Điều khoản ký quỹ khi bị hạ hạng tín nhiệm tạo bất ổn, tài chính thiếu biên an toàn như kỹ thuật`"]
+  n50 --- n55
+  n56["`Gen Re phải thanh lý dần mảng phái sinh, ông dự đoán một vụ nổ đáng kể trong 5–10 năm`"]
+  n50 --- n56
+  n57["`Luật sư và kiện tụng`"]
+  n37 --- n57
+  n58["`Martha Stewart vào tù vì nói dối điều tra viên sau khi đã thuê luật sư, không vì giao dịch`"]
+  n57 --- n58
+  n59["`Amiăng: chỉ 25% tiền tới người kiện, họ chỉ #quot;nhớ#quot; ba công ty còn khả năng trả`"]
+  n57 --- n59
+  n60["`Kẻ làm sai giàu lên thì có quyền lực chính trị, nên phải ngắt từ trong trứng`"]
+  n57 --- n60
+  n61["`Mục 14–15 — Mô hình tư duy và phê phán học thuật`"]
+  n0 --- n61
+  n62["`Cần khoảng 100 ý tưởng lớn của mọi ngành, học để dùng hằng ngày chứ không học rồi xả như nước bồn tắm`"]
+  n61 --- n62
+  n63["`Với người cầm búa, thế giới trông như cái đinh: giải mọi vấn đề một kiểu là ngu ngốc`"]
+  n61 --- n63
+  n64["`Tinh thần không tự lừa mình mạnh vì hiếm, Keynes: khó là gạt bỏ ý cũ`"]
+  n61 --- n64
+  n65["`Người ta tính toán quá nhiều và suy nghĩ quá ít, gạt bỏ sự dại dột cũng là trí tuệ`"]
+  n61 --- n65
+  n66["`Nhật suy thoái với lãi suất dưới 1% còn Hồng Kông có bong bóng: kinh tế học một mình không giải thích được`"]
+  n61 --- n66
+  n67["`Whitehead: sự rời rạc chết người, giáo sư không biết mô hình của ngành khác`"]
+  n61 --- n67
+  n68["`Mục 16–18 — Cách sống, hài hước và lời của Simpson, Sinegal`"]
+  n0 --- n68
+  n69["`Một đời chỉ thành công ở làm giàu bằng mua cổ phiếu là một đời thất bại`"]
+  n68 --- n69
+  n70["`Biết mình muốn tránh gì: chết sớm, hôn nhân tồi, cocaine, đua với tàu hoả qua chỗ chắn`"]
+  n68 --- n70
+  n71["`Đố kỵ là tội ngu nhất vì không có chút vui nào, Druckenmiller và Soros lỗ vì nó`"]
+  n68 --- n71
+  n72["`Mỗi ngày cố khôn hơn lúc thức dậy, sống đủ lâu thì hầu hết nhận được điều mình xứng đáng`"]
+  n68 --- n72
+  n73["`Không biết người khôn nào không đọc liên tục, hãy kết bạn với những người lỗi lạc đã khuất`"]
+  n68 --- n73
+  n74["`Tránh nợ thẻ tín dụng lãi 18%, muốn có bạn đời tốt thì hãy xứng đáng với họ`"]
+  n68 --- n74
+  n75["`Thà thả rắn độc vào áo còn hơn thuê tư vấn lương thưởng`"]
+  n68 --- n75
+  n76["`Simpson vượt S#amp;P 500 trung bình 6,8 điểm mỗi năm suốt 25 năm, Sinegal là Sam Walton của Costco`"]
+  n68 --- n76
+  n77["`Thông điệp xuyên suốt`"]
+  n0 --- n77
+  n78["`Tránh ngu ngốc và tai hoạ quan trọng hơn cố tỏ ra xuất chúng, trong đầu tư lẫn cuộc sống`"]
+  n77 --- n78
+  n79["`Gần như mọi hư hỏng tài chính quy về động cơ khuyến khích sai cộng với sự tự lừa mình`"]
+  n77 --- n79
+  n80["`Nói thật với cổ đông kể cả tin xấu, vì về lâu dài cư xử đúng cũng là kinh doanh khôn`"]
+  n77 --- n80
+  class n0 root
+  class n1,n7,n17,n18,n22,n27,n32,n37,n38,n46,n50,n57,n61,n68,n77 branch
+  class n2,n3,n4,n5,n6,n8,n9,n10,n11,n12,n13,n14,n15,n16,n19,n20,n21,n23,n24,n25,n26,n28,n29,n30,n31,n33,n34,n35,n36,n39,n40,n41,n42,n43,n44,n45,n47,n48,n49,n51,n52,n53,n54,n55,n56,n58,n59,n60,n62,n63,n64,n65,n66,n67,n69,n70,n71,n72,n73,n74,n75,n76,n78,n79,n80 leaf
+```
+
+## Nguồn
+
+*Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger*, biên tập Peter D. Kaufman, The Donning Company Publishers, ấn bản mở rộng thứ ba (Expanded Third Edition), Chương 3 "Mungerisms: Charlie Unscripted — Highlights from Recent Berkshire Hathaway and Wesco Financial Annual Meetings", trang in 82–147. Đây là tập trích những câu Munger nói (phần lớn là trả lời câu hỏi của cổ đông) tại các đại hội cổ đông thường niên của Berkshire Hathaway ở Omaha và của Wesco Financial ở Pasadena, trong khoảng năm năm trước khi sách ra đời (khoảng 1999–2004), do Whitney Tilson ghi chép, chọn lọc, xếp theo chủ đề và biên tập nhẹ.
+
+## Tác giả
+
+Lời là của Charles T. Munger (1924–2023), phó chủ tịch Berkshire Hathaway và chủ tịch Wesco Financial; người ghi chép và biên soạn là Whitney Tilson, nhà quản lý quỹ đầu tư giá trị ở New York, người nhiều năm dự cả hai đại hội. Xen giữa là các hộp bên lề do người biên tập (Peter Kaufman và nhóm) thêm vào: lời của bạn bè, cộng sự và các nhà quản lý công ty con về Munger, tiểu sử ngắn nhân vật và doanh nghiệp, chú thích ảnh. Cuối chương có bốn trang lời qua lại giữa Munger với Lou Simpson (GEICO) và Jim Sinegal (Costco).
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 1 vẽ chân dung con người Munger (tiểu sử, tuổi già, lời các con); Chương 2 tóm hệ thống cách sống, học và ra quyết định của ông thành một cách tiếp cận có tổ chức (trí tuệ thế gian, mạng lưới mô hình tư duy, danh sách kiểm tra, vòng tròn năng lực).
+
+Chương 3 là cầu nối giữa phần "giới thiệu về Munger" và phần "Munger tự nói" ở Chương 4 (mười một bài nói): ở đây người đọc nghe chính ông nói, nhưng không phải bài soạn sẵn mà là phản xạ tự nhiên trước các câu hỏi bất kỳ. Vì vậy chương này cho thấy các nguyên tắc ở Chương 2 được ông áp dụng ra sao vào những việc cụ thể: điều hành Berkshire, chọn cổ phiếu, phán xét kế toán, quyền chọn cổ phiếu, phái sinh, luật sư, giới học thuật, và cách sống.
+
+Nhiều ý ở đây (khuynh hướng tâm lý, đố kỵ, thiên lệch do động cơ khuyến khích, tự lừa mình) sẽ được ông trình bày có hệ thống ở Bài 11 "The Psychology of Human Misjudgment".
+
+## Lưu ý
+
+- **Bản chất của chương.** Đây không phải một bài viết liền mạch mà là tập trích, đã được Whitney Tilson biên tập nhẹ; chữ trong ngoặc vuông [ ] là chữ người biên soạn thêm để làm rõ ngữ cảnh, hoặc là lời của Buffett chen vào. Bản tổng hợp giữ đúng thứ tự 17 chủ đề lớn và các tiểu mục của bản gốc, ghi rõ lời nào là của Buffett, của người biên soạn, hay của hộp bên lề.
+- **Thời điểm.** Các câu nói rơi vào khoảng 1999–2004 (một số có ghi rõ tháng năm: [April 2000], [November 2000], [April 2001], [May 2001], [May 2004]); bốn trang cuối viết năm 2005. Các con số (Berkshire có khoảng 70 tỷ USD tiền mặt và trái phiếu, Buffett 72 tuổi, giao dịch 50 triệu USD cổ phiếu Berkshire mỗi ngày, NYSE giao dịch 1,46 tỷ cổ phiếu mỗi ngày) là số của thời điểm đó.
+- **Những điều đã thay đổi từ khi nói (theo hiểu biết của người tổng hợp, không tra cứu):** Quy định bắt buộc ghi nhận quyền chọn cổ phiếu là chi phí đã được ban hành ở Mỹ (chuẩn mực FAS 123R, có hiệu lực từ khoảng 2005–2006), đúng như Munger đòi hỏi. Lời cảnh báo về một vụ đổ vỡ lớn liên quan tới phái sinh "trong năm đến mười năm tới" đã ứng nghiệm phần nào với khủng hoảng tài chính 2007–2009. Vụ kiện chống độc quyền của Chính phủ Mỹ với Microsoft đã kết thúc bằng thoả thuận dàn xếp năm 2001.
+
+  Munger mất năm 2023, Buffett rút khỏi vị trí điều hành sau đó; câu hỏi "khi Buffett không còn" vì vậy nay mang ý nghĩa khác. "Eighty-eight senators" (88 thượng nghị sĩ) mà Munger chê có lẽ là cuộc bỏ phiếu 88–9 của Thượng viện Mỹ năm 1994 phản đối đề xuất buộc ghi nhận quyền chọn là chi phí.
+- **Lỗi OCR đã sửa khi đọc:** "Buffert" là Buffett; "Weseo" là Wesco; "Royal Dutch [Shelll" là Royal Dutch Shell; "PetroChinal" là PetroChina; "Foeus Investing" là Focus Investing; "Cirele of Competence" là Circle of Competence; "mecting" là meeting; "east of mind" là cast of mind (nếp nghĩ); "carth" là earth; "intrinsie" là intrinsic; "Unseripted" là Unscripted; trang 121 và 131 bị đọc thành "12", "13"; "Vaughn Montoe" trong quảng cáo Camel là ca sĩ Vaughn Monroe; "Hendrickje Stofells" là Hendrickje Stoffels. Trong mục bảo hiểm, cụm "we de different things" là "we do different things".
+- **Chỗ sách có thể sai hoặc cần đính chính (theo hiểu biết của người tổng hợp):** Hộp bên lề về Tòa án Tối cao Mỹ ghi "Judicial Act of 1799"; luật lập ra hệ thống toà án liên bang là Judiciary Act năm 1789. Buffett nói Robert Maxwell "tự tử" khi bê bối vỡ lở; thực tế Maxwell chết đuối khi rơi khỏi du thuyền năm 1991 và nguyên nhân (tai nạn, tự tử hay khác) chưa bao giờ được xác định chắc chắn.
+
+  Hộp bên lề về Martha Stewart nói bà bị kết tội cản trở công lý và nói dối điều tra viên, không phải tội giao dịch nội gián; điều này khớp với ý Munger rằng tội của bà nằm ở lời nói dối chứ không ở giao dịch. Hộp về Carnegie ghi ông bán đế chế thép giá 500 triệu USD (con số thường được nêu là khoảng 480 triệu USD).
+
+  Ví dụ Black-Scholes của Munger ở Costco (quyền chọn giá thực hiện 60 USD được định giá cao hơn quyền chọn giá thực hiện 30 USD) chỉ có thể xảy ra nếu hai quyền chọn có thời hạn hoặc giả định khác nhau; sách không nói rõ, bản tổng hợp ghi lại đúng lời ông.
+- **Hộp bên lề.** Chương có rất nhiều hộp bên lề, chú thích ảnh và câu trích in nổi (NetJets, Andrew Carnegie, trò chơi Monopoly, Otis Booth, Al Ueltschi, Ajit Jain, Sở Giao dịch Chứng khoán New York, sách của Robert Hagstrom, người thợ sửa máy Maytag, Marc Hamburg, Chuck Rickershauser, những lời tri ân Munger, Harmon Killebrew, Will Rogers, See's Candies, Picasso, thành Osaka, Gregory Mankiw, eToys, Rembrandt, Nhật Bản, Enron, Coca-Cola, cuộc họp Wesco, Lou Simpson, C. F. Braun, Lincoln, Vermeer, Jim Sinegal, Mark Twain, Mad Hatter, Maggie Kaufman, sách *F.I.A.S.C.O.*, Martha Stewart, Tòa án Tối cao, Bill Gates, Trái Đất phẳng hay tròn, Henry Singleton, Plato, Ulysses, Géricault, Borges, Nancy Munger, Ben Franklin).
+
+  Tất cả được đưa vào đúng chủ đề chứa chúng và được ghi rõ là "hộp bên lề của người biên tập". Một số ảnh chỉ có chú thích ngắn (ảnh Munger trên bãi biển lúc hoàng hôn ở trang in 82, chụp năm 2005 bởi Alan Levenson; ảnh chân dung Munger trước giá sách ở trang in 143) được nhắc ở đây và không có nội dung riêng.
+- **Một trang lạ.** Trang in 112 có tiêu đề "'Nothing to Add' Number Two" và mở bằng câu "We continue with the question of how Charlie monitors broad economic trends and changes" (chúng tôi tiếp tục câu hỏi Charlie theo dõi xu hướng kinh tế vĩ mô ra sao), dù trước đó không có câu hỏi nào như vậy; có vẻ đây là một hộp của người biên tập nối với một phần khác của sách. Bản tổng hợp đặt nó trong chủ đề "Comments on the Market".
+- **Ngôn ngữ.** Munger nói rất thô và rất mạnh ("bonkers", "bullshit earnings", "raisins and turds", "a sewer", "playing piano in a whorehouse"). Bản tổng hợp diễn đạt lại đủ sức nặng nhưng không cố giữ từng chữ thô; nguyên văn được giữ ở phần Câu nói đáng nhớ.

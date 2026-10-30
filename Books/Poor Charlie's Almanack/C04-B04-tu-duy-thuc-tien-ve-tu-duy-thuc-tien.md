@@ -1,18 +1,22 @@
 # Bài 4 — Tư duy thực tiễn về tư duy thực tiễn? (Practical Thought About Practical Thought?)
 
-**Nguồn:** *Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger*, biên tập Peter D. Kaufman, The Donning Company Publishers, ấn bản mở rộng thứ ba (Expanded Third Edition), Chương 4 "Eleven Talks", Bài 4 "Practical Thought About Practical Thought?", trang in 278–301. Gồm: lời dẫn của người biên tập (trang in 278), bài nói (279–296), các hộp bên lề, trang ảnh và thư (280–299), phần Munger viết thêm "Talk Four Revisited" (300–301). Bài nói không chính thức (*An Informal Talk*) ngày 20 tháng 7 năm 1996, trước một nhóm người có chính sách không công khai chương trình của mình; theo chú thích ảnh của người biên tập, Henry Kissinger là một trong nhiều nhân vật nổi tiếng có mặt.
-**Tác giả:** Charles T. Munger (1924–2023), Phó Chủ tịch Berkshire Hathaway, cộng sự lâu năm của Warren Buffett; lời dẫn, các hộp bên lề và chú thích ảnh do người biên tập (Peter Kaufman và nhóm) viết; phần "Talk Four Revisited" do Munger viết thêm cho các ấn bản sau.
-**Vị trí trong lập luận của cả cuốn sách:** Bài 2 ("A Lesson on Elementary, Worldly Wisdom", 1994) đưa ra ý tưởng **mạng lưới mô hình tư duy** (*latticework of mental models*) và Bài 3 ("... Revisited", 1997) nhìn lại ý tưởng đó. Bài 4 là phần **trình diễn** của ý tưởng ấy: Munger lấy năm nguyên tắc tư duy chung cùng các khái niệm năm nhất đại học (tâm lý học, toán, hoá học, kinh tế) rồi dùng chúng để "phát minh lại" công ty Coca-Cola từ con số không. Bài nói dựa nặng vào tâm lý học (phản xạ có điều kiện, bằng chứng xã hội, đố kỵ, phản ứng thái quá khi bị tước đoạt), tức chính các khuynh hướng mà Bài 11 "The Psychology of Human Misjudgment" trình bày đầy đủ; trong phần viết thêm, Munger thừa nhận lẽ ra Bài 11 nên đứng trước Bài 4 và khuyên người đọc đọc lại Bài 4 sau khi học xong Bài 11. Bài 5 (Diễn văn họp mặt 50 năm Trường Luật Harvard) tiếp tục chủ đề phê phán giáo dục chuyên ngành hẹp, lần này nhắm vào trường luật.
-**Ý chính:** Munger muốn người đọc thấy rằng **một vài nguyên tắc tư duy đơn giản cộng với các ý tưởng sơ đẳng của nhiều môn học, dùng cùng nhau, đủ để giải những bài toán thực tế cực lớn**, và rằng giới học thuật lẫn giới kinh doanh Mỹ thiếu đúng loại tư duy đó. Ví dụ trung tâm: năm 1884 ở Atlanta, một nhà giàu lập dị tên Glotz góp 2 triệu USD để lập công ty đồ uống không cồn tên "Coca-Cola" và hứa trao một nửa cổ phần cho ai thuyết phục được ông rằng công ty sẽ trị giá 2.000 tỷ USD vào năm 2034. Munger giải bằng năm nguyên tắc: (1) quyết định trước những câu hỏi lớn hiển nhiên (phải có thương hiệu mạnh được bảo hộ pháp lý, phải bán ra toàn thế giới); (2) dùng con số (8 tỷ người tiêu dùng, mỗi người uống 64 ounce nước mỗi ngày, tức tám khẩu phần 8 ounce; chiếm một nửa của một phần tư lượng nước đó là 2.920 tỷ khẩu phần năm 2034; lãi ròng 4 cent mỗi khẩu phần là 117 tỷ USD); (3) đảo ngược (4 cent năm 2034 chỉ tương đương một phần mười cent theo điều kiện năm 1884; và những gì phải tránh); (4) dùng trí tuệ hàn lâm sơ đẳng của mọi ngành; (5) tìm hiệu ứng Lollapalooza từ tổ hợp nhiều yếu tố. Lời giải coi việc kinh doanh là **tạo ra và duy trì phản xạ có điều kiện**: dùng điều kiện hoá từ kết quả (đồ uống lạnh, có đường và caffeine, ngon, có mặt khắp nơi), điều kiện hoá Pavlov (quảng cáo gắn đồ uống với mọi thứ người ta thích, tên gọi đắt tiền, màu như rượu vang, có ga như sâm panh), bằng chứng xã hội, lợi thế quy mô, công thức bí mật; rồi đảo ngược để tránh bốn điều (hậu vị gây ngán, mất một nửa thương hiệu, sự đố kỵ, đổi hương vị đột ngột). Phần sau của bài dùng thất bại "New Coke" để cho thấy cả giáo sư lẫn lãnh đạo doanh nghiệp không hiểu tâm lý học sơ đẳng, quy lỗi cho tâm lý học hàn lâm thiếu tổng hợp và cho sự chia cắt giữa các ngành, nhưng kết thúc lạc quan nhờ những người biết tự đảo ngược ý mình như Darwin và khoa kinh tế Đại học Chicago khi mời Richard Thaler.
+## Ý chính
 
-> **Lưu ý:**
-> - **Bối cảnh thời điểm.** Bài nói năm 1996; mọi con số "hiện nay" (Coca-Cola trị giá khoảng 125 tỷ USD, cần tăng 8% mỗi năm tới 2034) là của năm 1996. Phần "Talk Four Revisited" viết trong khoảng 2006 (Munger nói "từ 1996 tới 2006" và nhắc ấn bản thứ hai). Theo hiểu biết của người tổng hợp: giá trị thị trường của Coca-Cola sau 1996 không tăng đều 8% mỗi năm (đứng yên trong nhiều năm sau đỉnh cuối thập niên 1990), nên mốc 2.000 tỷ USD vào năm 2034 của công ty thật xa hơn nhiều so với ước tính của Munger; Richard Thaler sau này nhận giải Nobel Kinh tế (2017), sau khi sách in; Munger mất năm 2023.
-> - **Đơn vị đo.** Sách dùng ounce chất lỏng Mỹ. Theo hiểu biết của người tổng hợp, 1 ounce chất lỏng Mỹ khoảng 29,6 ml, nên một khẩu phần 8 ounce khoảng 237 ml và 64 ounce mỗi ngày khoảng 1,9 lít. Phép tính của Munger kiểm lại được: 8 tỷ người × 8 khẩu phần × 365 ngày = 23.360 tỷ khẩu phần mỗi năm; một phần tư là 5.840 tỷ; một nửa của số đó là 2.920 tỷ; nhân 4 cent ra 116,8 tỷ USD, Munger làm tròn 117 tỷ.
-> - **Lỗi OCR đã sửa khi đọc:** "mimies" là *mimics*; "flueney" là *fluency*; "academie" là *academic*; "tubereulosis" là *tuberculosis*; "carn" là *earn*; "produet" là *product*; "suecess" là *success*; "crademarked" là *trademarked*; "beeause" là *because*; "welve" là *twelve*; "economies" (giải Nobel) là *economics*; "Hie depositum est" là *Hic depositum est*; "impiery" là *impiety*; "Tattempted" là *I attempted*. Đoạn chữ trong quảng cáo Coca-Cola năm 1943 bị OCR làm vụn; bản tổng hợp đọc lại theo ảnh trang. Các câu in nổi giữa trang (pull quote) lặp lại câu trong bài nên chỉ ghi một lần.
-> - **Chỗ sách có thể sai hoặc cần dè dặt (theo hiểu biết của người tổng hợp):** câu "mọi thứ nên được làm đơn giản nhất có thể, nhưng không đơn giản hơn" thường được gán cho Einstein nhưng không tìm thấy nguyên văn trong các bài viết của ông (có lẽ là bản rút gọn của một câu dài hơn trong bài giảng năm 1933). Ý "Đại học Chicago đơn giản là bãi bỏ khoa tâm lý học" là cách nói của Munger; người tổng hợp không chắc chi tiết lịch sử, nên ghi lại như lời Munger. Hộp bên lề về Galileo nói ông "chế tạo kính viễn vọng thiên văn đầu tiên" và "khám phá dải Ngân Hà"; chính xác hơn, Galileo là người đầu tiên dùng kính viễn vọng tự chế (cải tiến từ phát minh ở Hà Lan) để quan sát bầu trời một cách có hệ thống, và thấy dải Ngân Hà gồm vô số ngôi sao. Năm sinh, mất của Pythagoras (582–496 trước Công nguyên) trong hộp bên lề là ước đoán truyền thống. Biệt danh của Maxwell ở Học viện Edinburgh thường được ghi là "Dafty" hoặc "Daftie".
-> - **Các hộp bên lề của người biên tập** (Galileo, Pythagoras và số vô tỷ, đồng drachma La Mã, sự mất giá tiền tệ, Pavlov, Will Rogers, quảng cáo Coca-Cola năm 1943 và câu của Eisenhower, phản ứng tự xúc tác, Mười điều răn, Aristotle, Faraday, Maxwell, Newton, Thaler, câu quảng cáo của Warner & Swasey, thư gửi Kissinger, ảnh máy tính của Munger, tục ngữ Trung Hoa) được gom lại thành hai khối riêng ở cuối phần Sơ đồ và Nội dung chi tiết, ghi rõ là của người biên tập. Trang in 297 chỉ có ảnh logo Coca-Cola hình tròn với chai nước, không có chữ.
-> - **Cách chia mục.** Bài nói gốc không có tiểu mục (ngoài tiêu đề "Talk Four Revisited" của phần viết thêm). Người tổng hợp chia theo trình tự lập luận của Munger (mở đầu, năm khái niệm, đề bài, năm bước của lời giải, đối chiếu lịch sử, hàm ý giáo dục, New Coke, đoạn kết) và ghi trang in cho từng phần. *Helpful notions* được dịch thống nhất là "khái niệm hữu ích" (có thể hiểu là "nguyên tắc tư duy hữu ích").
-> - **Lời cảnh báo của người biên tập theo gợi ý của Munger:** phần lớn người nghe không hiểu bài này; Munger tự gọi đó là "một thất bại giao tiếp cực độ". Phần "Talk Four Revisited" giải thích nguyên nhân và khuyên đọc lại bài sau Bài 11.
+Munger muốn người đọc thấy rằng **một vài nguyên tắc tư duy đơn giản cộng với các ý tưởng sơ đẳng của nhiều môn học, dùng cùng nhau, đủ để giải những bài toán thực tế cực lớn**, và rằng giới học thuật lẫn giới kinh doanh Mỹ thiếu đúng loại tư duy đó.
+
+Ví dụ trung tâm: năm 1884 ở Atlanta, một nhà giàu lập dị tên Glotz góp 2 triệu USD để lập công ty đồ uống không cồn tên "Coca-Cola" và hứa trao một nửa cổ phần cho ai thuyết phục được ông rằng công ty sẽ trị giá 2.000 tỷ USD vào năm 2034.
+
+Munger giải bằng năm nguyên tắc:
+
+- Quyết định trước những câu hỏi lớn hiển nhiên (phải có thương hiệu mạnh được bảo hộ pháp lý, phải bán ra toàn thế giới).
+- Dùng con số (8 tỷ người tiêu dùng, mỗi người uống 64 ounce nước mỗi ngày, tức tám khẩu phần 8 ounce; chiếm một nửa của một phần tư lượng nước đó là 2.920 tỷ khẩu phần năm 2034; lãi ròng 4 cent mỗi khẩu phần là 117 tỷ USD).
+- Đảo ngược (4 cent năm 2034 chỉ tương đương một phần mười cent theo điều kiện năm 1884; và những gì phải tránh).
+- Dùng trí tuệ hàn lâm sơ đẳng của mọi ngành.
+- Tìm hiệu ứng Lollapalooza từ tổ hợp nhiều yếu tố.
+
+Lời giải coi việc kinh doanh là **tạo ra và duy trì phản xạ có điều kiện**: dùng điều kiện hoá từ kết quả (đồ uống lạnh, có đường và caffeine, ngon, có mặt khắp nơi), điều kiện hoá Pavlov (quảng cáo gắn đồ uống với mọi thứ người ta thích, tên gọi đắt tiền, màu như rượu vang, có ga như sâm panh), bằng chứng xã hội, lợi thế quy mô, công thức bí mật; rồi đảo ngược để tránh bốn điều (hậu vị gây ngán, mất một nửa thương hiệu, sự đố kỵ, đổi hương vị đột ngột).
+
+Phần sau của bài dùng thất bại "New Coke" để cho thấy cả giáo sư lẫn lãnh đạo doanh nghiệp không hiểu tâm lý học sơ đẳng, quy lỗi cho tâm lý học hàn lâm thiếu tổng hợp và cho sự chia cắt giữa các ngành, nhưng kết thúc lạc quan nhờ những người biết tự đảo ngược ý mình như Darwin và khoa kinh tế Đại học Chicago khi mời Richard Thaler.
 
 ## Sơ đồ
 
@@ -746,9 +750,17 @@
 
 ## Ba câu hỏi bài này trả lời
 
-1. **Năm khái niệm tư duy mà Munger thấy hữu ích nhất là gì?** (1) Đơn giản hoá bài toán bằng cách quyết định trước những câu hỏi lớn có đáp án hiển nhiên. (2) Thông thạo con số: như Galileo, coi toán là ngôn ngữ lộ ra thực tại; thiếu nó, trong đời sống thường ngày, người ta như "người một chân trong cuộc thi đá đít". (3) Nghĩ ngược, đảo ngược, luôn đảo ngược (Jacobi), như anh nhà quê muốn biết mình chết ở đâu để tránh chỗ đó, hay phái Pythagoras chứng minh căn 2 là số vô tỷ. (4) Dùng trí tuệ hàn lâm sơ đẳng của mọi ngành, không để sự chia cắt ngành nghề giới hạn mình, và không phó thác hoàn toàn cho cố vấn chuyên môn, vì cố vấn bị thiên lệch vô thức bởi động cơ tài chính khác bạn và bởi hội chứng người cầm búa. (5) Hiệu ứng thật lớn (Lollapalooza) chỉ đến từ tổ hợp lớn của nhiều yếu tố, như điều trị lao bằng ba thuốc kết hợp hay chiếc máy bay.
-2. **Dùng năm khái niệm đó, làm sao dựng một công ty đồ uống trị giá 2.000 tỷ USD từ 2 triệu USD năm 1884?** Quyết định trước: phải có thương hiệu mạnh được bảo hộ và phải bán ra toàn thế giới. Tính số: 8 tỷ người năm 2034, mỗi người tám khẩu phần 8 ounce nước mỗi ngày; chiếm một nửa của 25% lượng nước đó là 2.920 tỷ khẩu phần, lãi 4 cent mỗi khẩu phần là 117 tỷ USD mỗi năm, đủ cho giá trị 2.000 tỷ USD; nghĩ ngược, 4 cent năm 2034 chỉ là một phần mười cent theo điều kiện 1884 vì sức mua đồ uống tính bằng đô la tăng ít nhất 40 lần. Phát minh sức hấp dẫn phổ quát bằng tâm lý học: kinh doanh phản xạ có điều kiện; điều kiện hoá từ kết quả (đồ uống lạnh, đường, caffeine, hương vị được tìm bằng thử và sai, có mặt khắp nơi để đối thủ không được thử); điều kiện hoá Pavlov (quảng cáo gắn với mọi thứ người ta thích, tên đắt tiền, màu như vang, có ga như sâm panh, vị khác mọi vị chuẩn); bằng chứng xã hội; lợi thế quy mô trong quảng cáo và phân phối, tổng cộng giống phản ứng tự xúc tác. Phân phối: bán cả sirô lẫn chai, chi quảng cáo trên 40% giá sirô mỗi khẩu phần, giữ quyền định giá với nhà đóng chai (nhà thầu phụ, không nhượng quyền vĩnh viễn giá cố định), giữ công thức bí mật. Đảo ngược: tránh hậu vị gây ngán, tránh mất nửa thương hiệu ("cola"), tránh đố kỵ bằng cách xứng đáng với thành công, tránh đổi vị đột ngột vì phản ứng thái quá khi bị tước đoạt.
-3. **Bài toán Coca-Cola cho thấy gì về giáo dục, và Munger rút ra bài học gì về chính mình?** Nếu lời giải gần đúng mà phần lớn giáo sư, kể cả giáo sư tâm lý học và trưởng khoa kinh doanh, không đưa ra được, thì xã hội đang nuôi nhiều nhà giáo dục không giải thích nổi Coca-Cola; còn lãnh đạo Coca-Cola, dù có cố vấn từ các trường tốt nhất, đã không tránh được thất bại New Coke. Munger quy cho hai nguyên nhân: tâm lý học hàn lâm thiếu tổng hợp trong nội bộ ngành (nhất là về tổ hợp các khuynh hướng), và thiếu tổng hợp giữa tâm lý học với các ngành khác; ông đòi phản ứng nghiêm như Boeing khi máy bay rơi. Ông vẫn lạc quan vì những nơi biết tự nghĩ ngược như Darwin, ví dụ Chicago mời Thaler. Mười năm sau, ông thừa nhận bài nói thất bại trong giao tiếp vì ông ôm đồm và vì bài giả định người nghe đã nắm tâm lý học mà chính bài nói cho rằng họ thiếu; ông khuyên đọc lại Bài 4 sau Bài 11.
+1. **Năm khái niệm tư duy mà Munger thấy hữu ích nhất là gì?** (1) Đơn giản hoá bài toán bằng cách quyết định trước những câu hỏi lớn có đáp án hiển nhiên. (2) Thông thạo con số: như Galileo, coi toán là ngôn ngữ lộ ra thực tại; thiếu nó, trong đời sống thường ngày, người ta như "người một chân trong cuộc thi đá đít". (3) Nghĩ ngược, đảo ngược, luôn đảo ngược (Jacobi), như anh nhà quê muốn biết mình chết ở đâu để tránh chỗ đó, hay phái Pythagoras chứng minh căn 2 là số vô tỷ.
+
+   (4) Dùng trí tuệ hàn lâm sơ đẳng của mọi ngành, không để sự chia cắt ngành nghề giới hạn mình, và không phó thác hoàn toàn cho cố vấn chuyên môn, vì cố vấn bị thiên lệch vô thức bởi động cơ tài chính khác bạn và bởi hội chứng người cầm búa. (5) Hiệu ứng thật lớn (Lollapalooza) chỉ đến từ tổ hợp lớn của nhiều yếu tố, như điều trị lao bằng ba thuốc kết hợp hay chiếc máy bay.
+2. **Dùng năm khái niệm đó, làm sao dựng một công ty đồ uống trị giá 2.000 tỷ USD từ 2 triệu USD năm 1884?** Quyết định trước: phải có thương hiệu mạnh được bảo hộ và phải bán ra toàn thế giới. Tính số: 8 tỷ người năm 2034, mỗi người tám khẩu phần 8 ounce nước mỗi ngày; chiếm một nửa của 25% lượng nước đó là 2.920 tỷ khẩu phần, lãi 4 cent mỗi khẩu phần là 117 tỷ USD mỗi năm, đủ cho giá trị 2.000 tỷ USD; nghĩ ngược, 4 cent năm 2034 chỉ là một phần mười cent theo điều kiện 1884 vì sức mua đồ uống tính bằng đô la tăng ít nhất 40 lần.
+
+   Phát minh sức hấp dẫn phổ quát bằng tâm lý học: kinh doanh phản xạ có điều kiện; điều kiện hoá từ kết quả (đồ uống lạnh, đường, caffeine, hương vị được tìm bằng thử và sai, có mặt khắp nơi để đối thủ không được thử); điều kiện hoá Pavlov (quảng cáo gắn với mọi thứ người ta thích, tên đắt tiền, màu như vang, có ga như sâm panh, vị khác mọi vị chuẩn); bằng chứng xã hội; lợi thế quy mô trong quảng cáo và phân phối, tổng cộng giống phản ứng tự xúc tác.
+
+   Phân phối: bán cả sirô lẫn chai, chi quảng cáo trên 40% giá sirô mỗi khẩu phần, giữ quyền định giá với nhà đóng chai (nhà thầu phụ, không nhượng quyền vĩnh viễn giá cố định), giữ công thức bí mật. Đảo ngược: tránh hậu vị gây ngán, tránh mất nửa thương hiệu ("cola"), tránh đố kỵ bằng cách xứng đáng với thành công, tránh đổi vị đột ngột vì phản ứng thái quá khi bị tước đoạt.
+3. **Bài toán Coca-Cola cho thấy gì về giáo dục, và Munger rút ra bài học gì về chính mình?** Nếu lời giải gần đúng mà phần lớn giáo sư, kể cả giáo sư tâm lý học và trưởng khoa kinh doanh, không đưa ra được, thì xã hội đang nuôi nhiều nhà giáo dục không giải thích nổi Coca-Cola; còn lãnh đạo Coca-Cola, dù có cố vấn từ các trường tốt nhất, đã không tránh được thất bại New Coke.
+
+   Munger quy cho hai nguyên nhân: tâm lý học hàn lâm thiếu tổng hợp trong nội bộ ngành (nhất là về tổ hợp các khuynh hướng), và thiếu tổng hợp giữa tâm lý học với các ngành khác; ông đòi phản ứng nghiêm như Boeing khi máy bay rơi. Ông vẫn lạc quan vì những nơi biết tự nghĩ ngược như Darwin, ví dụ Chicago mời Thaler. Mười năm sau, ông thừa nhận bài nói thất bại trong giao tiếp vì ông ôm đồm và vì bài giả định người nghe đã nắm tâm lý học mà chính bài nói cho rằng họ thiếu; ông khuyên đọc lại Bài 4 sau Bài 11.
 
 ## Khái niệm cần biết
 
@@ -821,7 +833,9 @@ Munger bắt đầu bằng tên bài: "Tư duy thực tiễn về tư duy thực
 
 **Khái niệm thứ tư:** trí tuệ tốt nhất và thực tiễn nhất là trí tuệ hàn lâm sơ đẳng, với một điều kiện cực kỳ quan trọng: phải nghĩ theo lối đa ngành. Phải thường xuyên dùng mọi khái niệm dễ học từ khoá năm nhất của mọi môn cơ bản. Ở những chỗ ý tưởng sơ đẳng dùng được, việc giải quyết vấn đề không được bị giới hạn như giới học thuật và nhiều bộ máy hành chính doanh nghiệp đang bị giới hạn: bị chia cắt cực độ thành các ngành và tiểu ngành (Munger gọi là "Balkan hoá"), với những điều cấm kỵ mạnh đối với việc bước ra ngoài lãnh thổ được giao. Thay vào đó, phải tư duy đa ngành theo lời khuyên của Ben Franklin trong *Poor Richard*: "Nếu muốn việc được làm, hãy tự đi. Nếu không, hãy sai người."
 
-Munger cảnh báo: nếu trong suy nghĩ bạn dựa hoàn toàn vào người khác, thường là bằng cách mua lời khuyên chuyên môn, mỗi khi ra ngoài lãnh thổ nhỏ của mình, bạn sẽ gặp nhiều tai hoạ. Không chỉ những khó khăn của việc phối hợp phức tạp hạ gục bạn; bạn còn chịu thực tế mà một nhân vật của Bernard Shaw nói: "Xét cho cùng, mọi nghề nghiệp đều là một âm mưu chống lại người ngoài nghề." Munger nói lần này nhân vật của Shaw thậm chí còn nói nhẹ đi sự tồi tệ của một thứ mà Shaw không ưa. Thường thì thứ hạ gục bạn không phải là sự gian dối có ý thức của người cố vấn chuyên môn hẹp, mà là thiên lệch vô thức của họ. Nhận thức của họ, xét theo mục đích của bạn, thường bị làm hỏng bởi động cơ tài chính khác với động cơ của bạn (thiên lệch do động cơ khuyến khích). Họ còn mắc khiếm khuyết tâm lý mà câu tục ngữ đã nói: "Với người cầm búa, vấn đề nào cũng giống cái đinh" (hội chứng người cầm búa).
+Munger cảnh báo: nếu trong suy nghĩ bạn dựa hoàn toàn vào người khác, thường là bằng cách mua lời khuyên chuyên môn, mỗi khi ra ngoài lãnh thổ nhỏ của mình, bạn sẽ gặp nhiều tai hoạ. Không chỉ những khó khăn của việc phối hợp phức tạp hạ gục bạn; bạn còn chịu thực tế mà một nhân vật của Bernard Shaw nói: "Xét cho cùng, mọi nghề nghiệp đều là một âm mưu chống lại người ngoài nghề." Munger nói lần này nhân vật của Shaw thậm chí còn nói nhẹ đi sự tồi tệ của một thứ mà Shaw không ưa.
+
+Thường thì thứ hạ gục bạn không phải là sự gian dối có ý thức của người cố vấn chuyên môn hẹp, mà là thiên lệch vô thức của họ. Nhận thức của họ, xét theo mục đích của bạn, thường bị làm hỏng bởi động cơ tài chính khác với động cơ của bạn (thiên lệch do động cơ khuyến khích). Họ còn mắc khiếm khuyết tâm lý mà câu tục ngữ đã nói: "Với người cầm búa, vấn đề nào cũng giống cái đinh" (hội chứng người cầm búa).
 
 **Khái niệm thứ năm:** những hiệu ứng thật lớn, hiệu ứng Lollapalooza, thường chỉ đến từ những tổ hợp lớn của nhiều yếu tố. Ví dụ, bệnh lao đã bị chế ngự, ít nhất trong một thời gian dài, chỉ nhờ dùng kết hợp thường quy ba loại thuốc khác nhau cho mỗi ca bệnh. Những hiệu ứng Lollapalooza khác, như việc một chiếc máy bay bay được, cũng theo khuôn mẫu tương tự.
 
@@ -862,7 +876,9 @@ Munger đưa ra lời giải của mình, "bài thuyết trình cho Glotz", ch�
 
 Munger nói với Glotz: những quyết định lớn hiển nhiên cần đưa ra trước để đơn giản hoá bài toán như sau. Thứ nhất, sẽ không bao giờ tạo ra thứ gì trị giá 2.000 tỷ USD bằng cách bán một đồ uống chung chung. Vì vậy phải biến cái tên "Coca-Cola" thành một thương hiệu mạnh, được bảo hộ pháp lý. Thứ hai, chỉ có thể tới 2.000 tỷ USD bằng cách bắt đầu ở Atlanta, rồi thành công ở phần còn lại của nước Mỹ, rồi nhanh chóng thành công với đồ uống mới trên khắp thế giới. Điều này đòi hỏi phát triển một sản phẩm có sức hấp dẫn phổ quát vì nó khai thác những lực cơ bản mạnh mẽ. Và chỗ đúng để tìm những lực đó là nội dung các môn đại cương.
 
-Tiếp theo, dùng sự thông thạo con số để xem mục tiêu ngụ ý gì. Có thể đoán hợp lý rằng tới năm 2034 sẽ có khoảng 8 tỷ người tiêu dùng đồ uống trên thế giới. Trung bình, mỗi người sẽ thịnh vượng hơn nhiều, tính theo giá trị thực, so với người tiêu dùng trung bình năm 1884. Cơ thể mỗi người phần lớn là nước và phải uống khoảng 64 ounce nước mỗi ngày (khoảng 1,9 lít), tức tám khẩu phần 8 ounce (mỗi khẩu phần khoảng 237 ml). Vậy nếu đồ uống mới cùng các đồ uống bắt chước trong thị trường mới tạo hương và làm ngon hơn được chỉ 25% lượng nước uống trên toàn thế giới, và công ty chiếm được một nửa thị trường mới đó, thì có thể bán 2.920 tỷ khẩu phần 8 ounce trong năm 2034. Nếu lãi ròng được 4 cent mỗi khẩu phần, công ty sẽ kiếm 117 tỷ USD. Nếu khi đó việc kinh doanh vẫn tăng trưởng tốt, con số này đủ để công ty dễ dàng trị giá 2.000 tỷ USD.
+Tiếp theo, dùng sự thông thạo con số để xem mục tiêu ngụ ý gì. Có thể đoán hợp lý rằng tới năm 2034 sẽ có khoảng 8 tỷ người tiêu dùng đồ uống trên thế giới. Trung bình, mỗi người sẽ thịnh vượng hơn nhiều, tính theo giá trị thực, so với người tiêu dùng trung bình năm 1884. Cơ thể mỗi người phần lớn là nước và phải uống khoảng 64 ounce nước mỗi ngày (khoảng 1,9 lít), tức tám khẩu phần 8 ounce (mỗi khẩu phần khoảng 237 ml).
+
+Vậy nếu đồ uống mới cùng các đồ uống bắt chước trong thị trường mới tạo hương và làm ngon hơn được chỉ 25% lượng nước uống trên toàn thế giới, và công ty chiếm được một nửa thị trường mới đó, thì có thể bán 2.920 tỷ khẩu phần 8 ounce trong năm 2034. Nếu lãi ròng được 4 cent mỗi khẩu phần, công ty sẽ kiếm 117 tỷ USD. Nếu khi đó việc kinh doanh vẫn tăng trưởng tốt, con số này đủ để công ty dễ dàng trị giá 2.000 tỷ USD.
 
 | Bước tính | Con số |
 |---|---|
@@ -876,7 +892,9 @@ Tiếp theo, dùng sự thông thạo con số để xem mục tiêu ngụ ý g�
 | Lợi nhuận năm 2034 | 117 tỷ USD |
 | Giá trị công ty (nếu còn tăng trưởng tốt) | dễ dàng 2.000 tỷ USD |
 
-Câu hỏi lớn là 4 cent mỗi khẩu phần có phải mục tiêu lợi nhuận hợp lý cho năm 2034 không. Munger trả lời là có, nếu tạo được một đồ uống có sức hấp dẫn phổ quát mạnh. 150 năm là khoảng thời gian dài. Đồng đô la, như đồng drachma La Mã, gần như chắc chắn sẽ mất giá. Đồng thời, sức mua thực của người tiêu dùng đồ uống trung bình trên thế giới sẽ tăng mạnh. Xu hướng của người đó muốn chi ít tiền để làm trải nghiệm uống nước của mình tốt hơn sẽ tăng còn nhanh hơn đáng kể. Trong khi đó, khi công nghệ tiến bộ, chi phí của sản phẩm đơn giản này, tính theo đơn vị sức mua cố định, sẽ giảm. Cả bốn yếu tố cùng tác động có lợi cho mục tiêu 4 cent mỗi khẩu phần. Sức mua đồ uống toàn cầu tính bằng đô la có lẽ sẽ nhân lên ít nhất 40 lần trong 150 năm.
+Câu hỏi lớn là 4 cent mỗi khẩu phần có phải mục tiêu lợi nhuận hợp lý cho năm 2034 không. Munger trả lời là có, nếu tạo được một đồ uống có sức hấp dẫn phổ quát mạnh.
+
+150 năm là khoảng thời gian dài. Đồng đô la, như đồng drachma La Mã, gần như chắc chắn sẽ mất giá. Đồng thời, sức mua thực của người tiêu dùng đồ uống trung bình trên thế giới sẽ tăng mạnh. Xu hướng của người đó muốn chi ít tiền để làm trải nghiệm uống nước của mình tốt hơn sẽ tăng còn nhanh hơn đáng kể. Trong khi đó, khi công nghệ tiến bộ, chi phí của sản phẩm đơn giản này, tính theo đơn vị sức mua cố định, sẽ giảm. Cả bốn yếu tố cùng tác động có lợi cho mục tiêu 4 cent mỗi khẩu phần. Sức mua đồ uống toàn cầu tính bằng đô la có lẽ sẽ nhân lên ít nhất 40 lần trong 150 năm.
 
 Nghĩ ngược lại, điều này làm cho mục tiêu lợi nhuận mỗi khẩu phần, theo điều kiện năm 1884, chỉ còn một phần bốn mươi của 4 cent, tức một phần mười cent mỗi khẩu phần. Đó là mục tiêu dễ vượt ngay từ đầu nếu sản phẩm mới có sức hấp dẫn phổ quát.
 
@@ -888,7 +906,9 @@ Nghĩ ngược lại, điều này làm cho mục tiêu lợi nhuận mỗi kh�
 | Chi phí sản phẩm (theo sức mua cố định) giảm nhờ công nghệ | biên lợi nhuận tăng |
 | Tổng hợp: sức mua đồ uống toàn cầu tính bằng đô la tăng ít nhất 40 lần | 4 cent năm 2034 tương đương 0,1 cent năm 1884 |
 
-Sau khi quyết định xong phần đó, phải giải bài toán phát minh để tạo ra sức hấp dẫn phổ quát. Có hai thách thức quy mô lớn đan vào nhau. Thứ nhất, trong 150 năm, phải làm cho một thị trường đồ uống mới hấp thụ khoảng một phần tư lượng nước uống của thế giới. Thứ hai, phải vận hành sao cho một nửa thị trường mới là của công ty, trong khi mọi đối thủ cộng lại chia nhau nửa còn lại. Đó là những kết quả Lollapalooza. Do đó, phải tấn công bài toán bằng cách làm cho mọi yếu tố thuận lợi nghĩ ra được cùng làm việc cho mình. Rõ ràng chỉ một tổ hợp mạnh của nhiều yếu tố mới có khả năng gây ra hệ quả Lollapalooza mong muốn. May thay, lời giải cho các vấn đề đan xen này hoá ra khá dễ nếu người ta đã thức trong mọi giờ học năm nhất.
+Sau khi quyết định xong phần đó, phải giải bài toán phát minh để tạo ra sức hấp dẫn phổ quát. Có hai thách thức quy mô lớn đan vào nhau. Thứ nhất, trong 150 năm, phải làm cho một thị trường đồ uống mới hấp thụ khoảng một phần tư lượng nước uống của thế giới. Thứ hai, phải vận hành sao cho một nửa thị trường mới là của công ty, trong khi mọi đối thủ cộng lại chia nhau nửa còn lại.
+
+Đó là những kết quả Lollapalooza. Do đó, phải tấn công bài toán bằng cách làm cho mọi yếu tố thuận lợi nghĩ ra được cùng làm việc cho mình. Rõ ràng chỉ một tổ hợp mạnh của nhiều yếu tố mới có khả năng gây ra hệ quả Lollapalooza mong muốn. May thay, lời giải cho các vấn đề đan xen này hoá ra khá dễ nếu người ta đã thức trong mọi giờ học năm nhất.
 
 ### 6. Lời giải, bước 2: phản xạ có điều kiện và điều kiện hoá từ kết quả (trang in 285–287)
 
@@ -919,7 +939,9 @@ Tiếp theo là điều kiện hoá Pavlov, thứ cũng phải dùng. Trong đi�
 
 Điều kiện hoá Pavlov trên diện rộng như vậy sẽ tốn rất nhiều tiền, nhất là cho quảng cáo. Công ty sẽ chi lớn, xa tới mức có thể hình dung. Nhưng tiền sẽ được tiêu hiệu quả. Khi công ty mở rộng nhanh trong thị trường đồ uống mới, các đối thủ sẽ chịu bất lợi quy mô nặng nề khi mua quảng cáo để tạo điều kiện hoá Pavlov họ cần. Kết quả đó, cùng các hiệu ứng "sản lượng tạo ra sức mạnh" khác, sẽ giúp công ty giành và giữ ít nhất 50% thị trường mới ở mọi nơi. Thật vậy, nếu người mua phân tán, sản lượng cao hơn sẽ cho công ty lợi thế chi phí rất lớn trong phân phối.
 
-Hơn nữa, hiệu ứng Pavlov từ liên tưởng đơn thuần sẽ giúp chọn hương vị, kết cấu và màu của đồ uống mới. Xét hiệu ứng Pavlov, công ty đã khôn ngoan chọn cái tên nghe ngoại lai và đắt tiền "Coca-Cola" thay vì một cái tên tầm thường như "Nước có đường và caffeine của Glotz". Vì lý do Pavlov tương tự, nên cho đồ uống trông khá giống rượu vang thay vì nước đường; vì vậy nếu nó ra màu trong thì sẽ tạo màu nhân tạo. Công ty sẽ cho ga vào nước, làm sản phẩm giống sâm panh hay một đồ uống đắt tiền khác, đồng thời làm hương vị ngon hơn và làm đối thủ khó bắt chước hơn. Và vì sẽ gắn rất nhiều hiệu ứng tâm lý tốn kém vào hương vị, hương vị đó nên khác mọi hương vị chuẩn khác, để tối đa hoá khó khăn cho đối thủ và không để sản phẩm sẵn có nào được hưởng lợi tình cờ vì cùng vị.
+Hơn nữa, hiệu ứng Pavlov từ liên tưởng đơn thuần sẽ giúp chọn hương vị, kết cấu và màu của đồ uống mới. Xét hiệu ứng Pavlov, công ty đã khôn ngoan chọn cái tên nghe ngoại lai và đắt tiền "Coca-Cola" thay vì một cái tên tầm thường như "Nước có đường và caffeine của Glotz". Vì lý do Pavlov tương tự, nên cho đồ uống trông khá giống rượu vang thay vì nước đường; vì vậy nếu nó ra màu trong thì sẽ tạo màu nhân tạo.
+
+Công ty sẽ cho ga vào nước, làm sản phẩm giống sâm panh hay một đồ uống đắt tiền khác, đồng thời làm hương vị ngon hơn và làm đối thủ khó bắt chước hơn. Và vì sẽ gắn rất nhiều hiệu ứng tâm lý tốn kém vào hương vị, hương vị đó nên khác mọi hương vị chuẩn khác, để tối đa hoá khó khăn cho đối thủ và không để sản phẩm sẵn có nào được hưởng lợi tình cờ vì cùng vị.
 
 Sách tâm lý học còn gì giúp được doanh nghiệp mới? Có khía cạnh "khỉ thấy gì làm nấy" rất mạnh của bản tính người mà các nhà tâm lý học thường gọi là "bằng chứng xã hội" (*social proof*). Bằng chứng xã hội, tức tiêu dùng bắt chước được kích hoạt chỉ vì nhìn thấy người khác tiêu dùng, không chỉ giúp khiến người ta thử đồ uống, mà còn làm tăng phần thưởng mà họ cảm nhận được khi uống. Công ty sẽ luôn tính tới yếu tố bằng chứng xã hội mạnh mẽ này khi thiết kế quảng cáo và khuyến mãi, và khi hy sinh lợi nhuận hiện tại để tăng tiêu dùng hiện tại và tương lai. Hơn hầu hết các sản phẩm khác, mỗi lần tăng doanh số sẽ đem lại thêm sức bán.
 
@@ -939,7 +961,9 @@ Hậu cần và chiến lược phân phối sẽ đơn giản. Chỉ có hai c�
 
 Vài nhà máy làm sirô có thể phục vụ cả thế giới. Tuy nhiên, để tránh vận chuyển vô ích "khoảng trống và nước", công ty sẽ cần nhiều nhà máy đóng chai rải khắp thế giới. Công ty sẽ tối đa hoá lợi nhuận nếu, như General Electric thời đầu với bóng đèn, luôn tự đặt giá bán lần đầu cho (1) sirô bán cho quầy pha, hoặc (2) bất kỳ bao bì nào của sản phẩm hoàn chỉnh. Cách tốt nhất để có quyền kiểm soát tối đa hoá lợi nhuận này là biến mọi nhà đóng chai độc lập cần dùng thành nhà thầu phụ, không phải người mua sirô, và chắc chắn không phải người mua sirô theo một hợp đồng nhượng quyền vĩnh viễn quy định giá sirô đóng băng mãi mãi ở mức ban đầu.
 
-Vì không thể lấy bằng sáng chế hay bản quyền cho hương vị cực kỳ quan trọng của mình, công ty sẽ làm việc một cách ám ảnh để giữ bí mật công thức. Công ty sẽ làm ầm ĩ về sự bí mật đó, điều này sẽ tăng thêm hiệu ứng Pavlov. Cuối cùng, kỹ thuật hoá học thực phẩm sẽ tiến bộ tới mức hương vị có thể bị chép gần như chính xác. Nhưng tới lúc đó, công ty đã đi trước rất xa, với thương hiệu rất mạnh và mạng lưới phân phối toàn cầu đầy đủ, "luôn có mặt", nên việc chép được vị ngon sẽ không ngăn công ty đạt mục tiêu. Hơn nữa, những tiến bộ hoá học thực phẩm giúp đối thủ gần như chắc chắn sẽ đi kèm những tiến bộ công nghệ giúp công ty: làm lạnh, vận tải tốt hơn, và cho người ăn kiêng, khả năng tạo vị ngọt mà không đưa vào calo của đường. Cũng sẽ có những cơ hội đồ uống liên quan để công ty nắm lấy.
+Vì không thể lấy bằng sáng chế hay bản quyền cho hương vị cực kỳ quan trọng của mình, công ty sẽ làm việc một cách ám ảnh để giữ bí mật công thức. Công ty sẽ làm ầm ĩ về sự bí mật đó, điều này sẽ tăng thêm hiệu ứng Pavlov.
+
+Cuối cùng, kỹ thuật hoá học thực phẩm sẽ tiến bộ tới mức hương vị có thể bị chép gần như chính xác. Nhưng tới lúc đó, công ty đã đi trước rất xa, với thương hiệu rất mạnh và mạng lưới phân phối toàn cầu đầy đủ, "luôn có mặt", nên việc chép được vị ngon sẽ không ngăn công ty đạt mục tiêu. Hơn nữa, những tiến bộ hoá học thực phẩm giúp đối thủ gần như chắc chắn sẽ đi kèm những tiến bộ công nghệ giúp công ty: làm lạnh, vận tải tốt hơn, và cho người ăn kiêng, khả năng tạo vị ngọt mà không đưa vào calo của đường. Cũng sẽ có những cơ hội đồ uống liên quan để công ty nắm lấy.
 
 | Quyết định phân phối | Lý do |
 |---|---|
@@ -959,7 +983,9 @@ Munger đưa kế hoạch qua một lần kiểm tra thực tế cuối cùng: m
 
 **Thứ ba,** với thành công lớn sắp tới, phải tránh tác hại của sự đố kỵ, thứ được dành một vị trí nổi bật trong Mười điều răn vì đố kỵ là một phần rất lớn của bản tính người. Cách tốt nhất để tránh đố kỵ, như Aristotle đã nhận ra, là xứng đáng một cách rõ ràng với thành công mình có. Công ty sẽ cuồng tín về chất lượng sản phẩm, chất lượng cách trình bày sản phẩm, và sự hợp lý của giá, xét theo niềm vui vô hại mà nó mang lại.
 
-**Thứ tư,** sau khi hương vị mang thương hiệu thống trị thị trường mới, phải tránh mọi thay đổi lớn và đột ngột về hương vị. Kể cả khi một hương vị mới thắng trong thử nghiệm nếm mù, đổi sang vị mới vẫn là việc dại dột. Lý do là trong điều kiện đó, vị cũ đã bám rễ sâu trong sở thích người tiêu dùng nhờ các hiệu ứng tâm lý, nên đổi vị lớn chẳng đem lại bao nhiêu lợi ích. Ngược lại, nó gây hại rất lớn, vì kích hoạt ở người tiêu dùng hội chứng phản ứng thái quá khi bị tước đoạt, thứ làm cho việc "lấy lại" (đòi đối phương bỏ đi quyền lợi đã có) rất khó đạt được trong mọi loại đàm phán và góp phần làm phần lớn con bạc trở nên phi lý. Hơn nữa, một thay đổi vị lớn như vậy cho phép đối thủ, bằng cách chép vị cũ, tận dụng cả (1) phản ứng thái quá đầy thù địch của người tiêu dùng trước việc bị tước đoạt, và (2) tình yêu lớn với vị gốc do chính công ty đã tạo ra bằng công sức trước đó.
+**Thứ tư,** sau khi hương vị mang thương hiệu thống trị thị trường mới, phải tránh mọi thay đổi lớn và đột ngột về hương vị. Kể cả khi một hương vị mới thắng trong thử nghiệm nếm mù, đổi sang vị mới vẫn là việc dại dột. Lý do là trong điều kiện đó, vị cũ đã bám rễ sâu trong sở thích người tiêu dùng nhờ các hiệu ứng tâm lý, nên đổi vị lớn chẳng đem lại bao nhiêu lợi ích.
+
+Ngược lại, nó gây hại rất lớn, vì kích hoạt ở người tiêu dùng hội chứng phản ứng thái quá khi bị tước đoạt, thứ làm cho việc "lấy lại" (đòi đối phương bỏ đi quyền lợi đã có) rất khó đạt được trong mọi loại đàm phán và góp phần làm phần lớn con bạc trở nên phi lý. Hơn nữa, một thay đổi vị lớn như vậy cho phép đối thủ, bằng cách chép vị cũ, tận dụng cả (1) phản ứng thái quá đầy thù địch của người tiêu dùng trước việc bị tước đoạt, và (2) tình yêu lớn với vị gốc do chính công ty đã tạo ra bằng công sức trước đó.
 
 | Điều phải tránh | Cơ chế tâm lý, sinh học | Cách tránh |
 |---|---|---|
@@ -995,7 +1021,9 @@ Hơn nữa, và kết quả này còn cực đoan hơn, những lãnh đạo xu�
 
 Sự dốt nát cực độ như vậy, ở cả đỉnh cao của giới học thuật lẫn đỉnh cao của giới kinh doanh, là một hiệu ứng Lollapalooza theo chiều tiêu cực, cho thấy những khiếm khuyết nghiêm trọng trong giới học thuật. Vì tác hại là một Lollapalooza, phải kỳ vọng tìm thấy nhiều nguyên nhân học thuật đan vào nhau. Munger nghi có ít nhất hai.
 
-**Nguyên nhân thứ nhất:** tâm lý học hàn lâm, dù đáng khâm phục và hữu ích như một danh sách những thí nghiệm tài tình và quan trọng, thiếu sự tổng hợp trong nội bộ ngành. Đặc biệt, không đủ chú ý tới các hiệu ứng Lollapalooza đến từ tổ hợp các khuynh hướng tâm lý. Điều này tạo ra tình huống gợi nhớ ông thầy giáo làng muốn đơn giản hoá bài vở bằng cách làm tròn số pi thành đúng 3. Nó cũng vi phạm lời răn của Einstein rằng "mọi thứ nên được làm đơn giản nhất có thể, nhưng không đơn giản hơn". Nhìn chung, tâm lý học được trình bày và bị hiểu sai giống như điện từ học sẽ bị hiểu sai ngày nay nếu vật lý đã sản sinh nhiều nhà thí nghiệm xuất sắc như Michael Faraday mà không có nhà tổng hợp vĩ đại nào như James Clerk Maxwell.
+**Nguyên nhân thứ nhất:** tâm lý học hàn lâm, dù đáng khâm phục và hữu ích như một danh sách những thí nghiệm tài tình và quan trọng, thiếu sự tổng hợp trong nội bộ ngành. Đặc biệt, không đủ chú ý tới các hiệu ứng Lollapalooza đến từ tổ hợp các khuynh hướng tâm lý. Điều này tạo ra tình huống gợi nhớ ông thầy giáo làng muốn đơn giản hoá bài vở bằng cách làm tròn số pi thành đúng 3. Nó cũng vi phạm lời răn của Einstein rằng "mọi thứ nên được làm đơn giản nhất có thể, nhưng không đơn giản hơn".
+
+Nhìn chung, tâm lý học được trình bày và bị hiểu sai giống như điện từ học sẽ bị hiểu sai ngày nay nếu vật lý đã sản sinh nhiều nhà thí nghiệm xuất sắc như Michael Faraday mà không có nhà tổng hợp vĩ đại nào như James Clerk Maxwell.
 
 **Nguyên nhân thứ hai:** có một sự thiếu tổng hợp thật sự tồi tệ giữa tâm lý học và các môn học thuật khác. Nhưng chỉ một cách tiếp cận liên ngành mới xử lý đúng thực tại, trong giới học thuật cũng như ở công ty Coca-Cola.
 
@@ -1014,7 +1042,9 @@ Nhưng gần như không có phản ứng có trách nhiệm kiểu Boeing nào 
 
 Dù sự mù quáng và trì trệ đáng tiếc này nay là kết quả thông thường của giới học thuật, liệu có những ngoại lệ cho hy vọng rằng những thiếu sót đáng hổ thẹn của hệ thống giáo dục cuối cùng sẽ được sửa? Munger trả lời: có, rất lạc quan.
 
-Ví dụ, hãy xem cách hành xử gần đây của khoa kinh tế Đại học Chicago. Trong thập niên vừa qua, khoa này đã gần như độc chiếm các giải Nobel kinh tế, phần lớn nhờ rút ra được những dự đoán tốt từ các mô hình "thị trường tự do" giả định con người duy lý. Sau khi thắng đều đặn như vậy với cách tiếp cận "con người duy lý", khoa phản ứng thế nào? Khoa vừa mời vào một vị trí quý giá giữa đội ngũ các bậc vĩ nhân của mình một nhà kinh tế thông thái và dí dỏm của Đại học Cornell, Richard Thaler. Và khoa làm vậy vì Thaler chế giễu nhiều điều được coi là thiêng liêng ở Đại học Chicago. Thật vậy, Thaler cùng Munger tin rằng con người thường phi lý một cách ồ ạt theo những cách mà tâm lý học dự đoán được, và kinh tế học vi mô phải tính tới những cách đó.
+Ví dụ, hãy xem cách hành xử gần đây của khoa kinh tế Đại học Chicago. Trong thập niên vừa qua, khoa này đã gần như độc chiếm các giải Nobel kinh tế, phần lớn nhờ rút ra được những dự đoán tốt từ các mô hình "thị trường tự do" giả định con người duy lý.
+
+Sau khi thắng đều đặn như vậy với cách tiếp cận "con người duy lý", khoa phản ứng thế nào? Khoa vừa mời vào một vị trí quý giá giữa đội ngũ các bậc vĩ nhân của mình một nhà kinh tế thông thái và dí dỏm của Đại học Cornell, Richard Thaler. Và khoa làm vậy vì Thaler chế giễu nhiều điều được coi là thiêng liêng ở Đại học Chicago. Thật vậy, Thaler cùng Munger tin rằng con người thường phi lý một cách ồ ạt theo những cách mà tâm lý học dự đoán được, và kinh tế học vi mô phải tính tới những cách đó.
 
 Khi hành xử như vậy, Đại học Chicago đang bắt chước Darwin, người dành phần lớn cuộc đời dài của mình nghĩ ngược, cố bác bỏ chính những ý tưởng ông đã khó nhọc mới có được và yêu quý nhất. Và chừng nào còn những bộ phận của giới học thuật giữ được những giá trị tốt nhất của nó bằng cách nghĩ ngược như Darwin, có thể tự tin rằng các thực hành giáo dục ngớ ngẩn cuối cùng sẽ được thay bằng những thực hành tốt hơn, đúng như Carl Jacobi có thể đã dự đoán.
 
@@ -1036,17 +1066,25 @@ Khi hành xử như vậy, Đại học Chicago đang bắt chước Darwin, ng�
 
 Một nền văn minh đặt Darwin đã khuất ở chỗ như vậy cuối cùng sẽ phát triển và tích hợp tâm lý học một cách đúng đắn và thực tiễn, làm tăng mạnh mọi loại kỹ năng. Nhưng tất cả những ai có chút quyền lực và đã nhìn ra vấn đề nên giúp đẩy quá trình đó nhanh hơn. Có nhiều thứ bị đặt cược. Nếu ở nhiều nơi cao, một sản phẩm phổ quát thành công như Coca-Cola không được hiểu và giải thích đúng, thì đó không phải điềm tốt cho năng lực của chúng ta trong việc xử lý nhiều việc quan trọng khác.
 
-Munger đùa: tất nhiên, những ai trong số người nghe có 50% tài sản ròng nằm trong cổ phiếu Coca-Cola, vì từng định đầu tư 10% như vậy sau khi nghĩ giống ông khi thuyết trình cho Glotz (tức khoản đầu tư đã tăng giá mạnh), có thể bỏ qua thông điệp về tâm lý học của ông vì quá sơ đẳng để truyền đạt hữu ích cho họ. Nhưng ông không chắc phản ứng đó là khôn ngoan với những người còn lại. Tình huống làm ông nhớ tới câu quảng cáo cũ của hãng Warner & Swasey (một hãng sản xuất máy công cụ) mà ông rất thích: "Công ty nào cần một máy công cụ mới mà chưa mua, thì đã đang trả tiền cho nó rồi." Hàm ý: ai cần kiến thức tâm lý học mà chưa học thì đang trả giá cho sự thiếu hụt đó bằng những quyết định kém.
+Munger đùa: tất nhiên, những ai trong số người nghe có 50% tài sản ròng nằm trong cổ phiếu Coca-Cola, vì từng định đầu tư 10% như vậy sau khi nghĩ giống ông khi thuyết trình cho Glotz (tức khoản đầu tư đã tăng giá mạnh), có thể bỏ qua thông điệp về tâm lý học của ông vì quá sơ đẳng để truyền đạt hữu ích cho họ. Nhưng ông không chắc phản ứng đó là khôn ngoan với những người còn lại.
+
+Tình huống làm ông nhớ tới câu quảng cáo cũ của hãng Warner & Swasey (một hãng sản xuất máy công cụ) mà ông rất thích: "Công ty nào cần một máy công cụ mới mà chưa mua, thì đã đang trả tiền cho nó rồi." Hàm ý: ai cần kiến thức tâm lý học mà chưa học thì đang trả giá cho sự thiếu hụt đó bằng những quyết định kém.
 
 ### 14. Hộp bên lề của người biên tập: tiểu sử các nhân vật lịch sử (gom từ trang in 280–295)
 
 Người biên tập đặt bên lề bài nói các tiểu sử ngắn của những nhân vật Munger nhắc tới. Đây là phần của người biên tập, không phải lời Munger.
 
-**Galileo Galilei (1564–1642)** (kèm ảnh tờ tiền 2.000 lire của Ngân hàng Ý in chân dung ông). Sinh gần Pisa, Ý, Galileo từng nghĩ tới việc gia nhập một dòng tu. Nhưng cuối cùng sở thích và việc học của ông chuyển sang toán học và y học, và ông được ghi công với những phát hiện nền tảng về con lắc, trọng lực, quỹ đạo và nhiều chủ đề khác. Ông dựng chiếc kính viễn vọng thiên văn đầu tiên và dùng nó để phát hiện các vệ tinh của Sao Mộc và dải Ngân Hà. Năm 1633, ông bị đưa ra trước Toà án dị giáo ở Rome, bị quản thúc tại gia tới cuối đời, và bị buộc từ bỏ niềm tin vào thuyết nhật tâm của Copernicus. Dù hoàn cảnh khắc nghiệt, ông vẫn tiếp tục viết *Discourses* (Các thảo luận và chứng minh toán học về hai khoa học mới) và hoàn thành năm 1638. Bản thảo được lén mang ra khỏi Ý và in ở Hà Lan; sách trình bày phần lớn đóng góp của Galileo cho vật lý.
+**Galileo Galilei (1564–1642)** (kèm ảnh tờ tiền 2.000 lire của Ngân hàng Ý in chân dung ông). Sinh gần Pisa, Ý, Galileo từng nghĩ tới việc gia nhập một dòng tu. Nhưng cuối cùng sở thích và việc học của ông chuyển sang toán học và y học, và ông được ghi công với những phát hiện nền tảng về con lắc, trọng lực, quỹ đạo và nhiều chủ đề khác. Ông dựng chiếc kính viễn vọng thiên văn đầu tiên và dùng nó để phát hiện các vệ tinh của Sao Mộc và dải Ngân Hà.
 
-**Pythagoras và số vô tỷ.** Pythagoras (582–496 trước Công nguyên), nhà toán học và triết gia người Ionia (Hy Lạp), được gọi là "cha đẻ của các con số", thường được ghi công phát hiện ra số vô tỷ. Nhưng có lẽ công đó thuộc về một hoặc vài môn đồ của ông, phái Pythagoras, những người đã chứng minh căn bậc hai của 2 là số vô tỷ. Còn Pythagoras, vì tin rằng các con số là tuyệt đối, đã bác bỏ số vô tỷ, và tương truyền đã xử người cổ vũ hàng đầu cho chúng tội chết đuối vì tà thuyết. Nói chung, số vô tỷ là số thực không thể viết dưới dạng phân số a/b, với a và b là số nguyên và b khác không. Một số là vô tỷ khi khai triển của nó ở bất kỳ cơ số nào (thập phân, nhị phân...) không bao giờ kết thúc và không bao giờ đi vào một chu kỳ lặp. Hộp kèm ảnh chi tiết Pythagoras trong bức bích hoạ *Trường học Athens* (1509) của Raffaello Sanzio ở Vatican.
+Năm 1633, ông bị đưa ra trước Toà án dị giáo ở Rome, bị quản thúc tại gia tới cuối đời, và bị buộc từ bỏ niềm tin vào thuyết nhật tâm của Copernicus. Dù hoàn cảnh khắc nghiệt, ông vẫn tiếp tục viết *Discourses* (Các thảo luận và chứng minh toán học về hai khoa học mới) và hoàn thành năm 1638. Bản thảo được lén mang ra khỏi Ý và in ở Hà Lan; sách trình bày phần lớn đóng góp của Galileo cho vật lý.
 
-**Ivan Pavlov (1849–1936).** Sinh ở miền trung nước Nga, Pavlov học chủng viện tới năm 21 tuổi thì bỏ thần học để theo hoá học và sinh lý học. Nhận bằng bác sĩ năm 1883, ông xuất sắc về sinh lý học và kỹ thuật phẫu thuật. Về sau ông nghiên cứu hoạt động tiết dịch của tiêu hoá và cuối cùng xây dựng các quy luật của phản xạ có điều kiện. Thí nghiệm nổi tiếng nhất của ông cho thấy chó có xu hướng chảy nước dãi trước khi thức ăn thực sự được đưa tới miệng. Kết quả này dẫn ông tới một loạt thí nghiệm dài, trong đó ông thay đổi các kích thích xảy ra trước khi đưa thức ăn. Nhờ đó ông xác lập các quy luật cơ bản về việc hình thành và dập tắt cái ông gọi là "phản xạ có điều kiện" (*conditional reflexes*), về sau bị dịch sai từ tiếng Nga thành *conditioned reflexes*. Ông nhận giải Nobel năm 1904 cho công trình về dịch tiêu hoá.
+**Pythagoras và số vô tỷ.** Pythagoras (582–496 trước Công nguyên), nhà toán học và triết gia người Ionia (Hy Lạp), được gọi là "cha đẻ của các con số", thường được ghi công phát hiện ra số vô tỷ. Nhưng có lẽ công đó thuộc về một hoặc vài môn đồ của ông, phái Pythagoras, những người đã chứng minh căn bậc hai của 2 là số vô tỷ. Còn Pythagoras, vì tin rằng các con số là tuyệt đối, đã bác bỏ số vô tỷ, và tương truyền đã xử người cổ vũ hàng đầu cho chúng tội chết đuối vì tà thuyết.
+
+Nói chung, số vô tỷ là số thực không thể viết dưới dạng phân số a/b, với a và b là số nguyên và b khác không. Một số là vô tỷ khi khai triển của nó ở bất kỳ cơ số nào (thập phân, nhị phân...) không bao giờ kết thúc và không bao giờ đi vào một chu kỳ lặp. Hộp kèm ảnh chi tiết Pythagoras trong bức bích hoạ *Trường học Athens* (1509) của Raffaello Sanzio ở Vatican.
+
+**Ivan Pavlov (1849–1936).** Sinh ở miền trung nước Nga, Pavlov học chủng viện tới năm 21 tuổi thì bỏ thần học để theo hoá học và sinh lý học. Nhận bằng bác sĩ năm 1883, ông xuất sắc về sinh lý học và kỹ thuật phẫu thuật. Về sau ông nghiên cứu hoạt động tiết dịch của tiêu hoá và cuối cùng xây dựng các quy luật của phản xạ có điều kiện.
+
+Thí nghiệm nổi tiếng nhất của ông cho thấy chó có xu hướng chảy nước dãi trước khi thức ăn thực sự được đưa tới miệng. Kết quả này dẫn ông tới một loạt thí nghiệm dài, trong đó ông thay đổi các kích thích xảy ra trước khi đưa thức ăn. Nhờ đó ông xác lập các quy luật cơ bản về việc hình thành và dập tắt cái ông gọi là "phản xạ có điều kiện" (*conditional reflexes*), về sau bị dịch sai từ tiếng Nga thành *conditioned reflexes*. Ông nhận giải Nobel năm 1904 cho công trình về dịch tiêu hoá.
 
 **Aristotle (384–322 trước Công nguyên).** Sinh ở Stagyra, một thuộc địa Hy Lạp, là con của một ngự y của vua Macedonia. Vào Học viện ở Athens, Aristotle học dưới Plato hai mươi năm. Tách khỏi giáo huấn của Plato, cuối cùng ông lập trường riêng, Lyceum. Sau khi Alexander chết và chính quyền của ông bị lật đổ, Aristotle bị buộc tội bất kính thần linh và phải chạy trốn; ông chết khi lưu vong khỏi Athens. Tác phẩm của ông gồm các khảo luận về vật lý, siêu hình học, tu từ học và đạo đức học. Ông cũng nổi tiếng với các quan sát về tự nhiên và thế giới vật chất, nền tảng cho ngành sinh học hiện đại.
 
@@ -1102,9 +1140,13 @@ Người biên tập đặt bên lề bài nói các tiểu sử ngắn của nh
 | Dwight D. Eisenhower, Tư lệnh tối cao quân Đồng minh, Thế chiến II | Tôi muốn có một lon Coke trong tầm tay của mọi quân nhân Mỹ, một thứ nhắc anh ta nhớ về nhà. |
 | Tục ngữ Trung Hoa | Thầy mở cửa, nhưng bạn phải tự bước vào. |
 
-**Quảng cáo Coca-Cola năm 1943** (bản quyền của công ty Coca-Cola). Tiêu đề: "Have a 'Coke' = Good winds have blown you here" (Mời một chai Coke nghĩa là: gió lành đã đưa bạn tới đây). Tranh vẽ phi công Mỹ và quân nhân Trung Hoa cầm chai Coca-Cola bên một máy bay chiến đấu. Dòng phụ: "... một cách nói 'Chúng ta là bạn' với người Trung Hoa". Nội dung quảng cáo: ở những nơi xa xôi, khi có sẵn Coca-Cola, nó gắn kết tình bạn cho quân nhân Mỹ; Trung Hoa đã biết Coca-Cola từ Thiên Tân tới Thượng Hải, từ Hồng Kông tới các vùng khác; với người Trung Hoa và người Mỹ như nhau, "Have a Coke" là lời chào đón, gắn với sự thân thiện và tự do; từ Atlanta tới bảy đại dương, Coca-Cola tượng trưng cho "khoảnh khắc nghỉ ngơi sảng khoái" và đã thành biểu tượng thiện chí giữa những người thân thiện. Logo đề "Coca-Cola, the global high-sign" (Coca-Cola, dấu hiệu chào toàn cầu). Đặt cạnh câu của Eisenhower, quảng cáo minh hoạ ý Munger về điều kiện hoá Pavlov (gắn đồ uống với tình bạn, quê nhà, tự do) và về việc có mặt khắp nơi.
+**Quảng cáo Coca-Cola năm 1943** (bản quyền của công ty Coca-Cola). Tiêu đề: "Have a 'Coke' = Good winds have blown you here" (Mời một chai Coke nghĩa là: gió lành đã đưa bạn tới đây). Tranh vẽ phi công Mỹ và quân nhân Trung Hoa cầm chai Coca-Cola bên một máy bay chiến đấu. Dòng phụ: "... một cách nói 'Chúng ta là bạn' với người Trung Hoa".
 
-**Thư Munger gửi Henry Kissinger** (ngày 23 tháng 7 năm 1996, ba ngày sau bài nói). Chú thích của người biên tập: Henry Kissinger là một trong nhiều nhân vật nổi tiếng có mặt khi Munger trình bày bài nói này. Nội dung thư: như một người chiều chuộng bản thân viết cho một người khác cùng kiểu, Munger vui mừng gửi kèm cuốn sách "Dine Out & Lose Weight" (Ăn nhà hàng mà vẫn giảm cân), thứ đã giúp ông giảm 20 pound (khoảng 9 kg); ông theo hệ thống "lố bịch" đó khi thấy một người bạn còn chiều chuộng bản thân hơn (một nhà nhập khẩu rượu vang và pho mát) giảm 50 pound (khoảng 23 kg) với cùng chế độ ăn. Ông cũng gửi kèm "một thứ sẽ không giúp gì cho ông", tức bản đầy đủ hơn của bài nói ngày 20 tháng 7, "gửi từ một cựu cố vấn tới một người vẫn đang hành nghề, và từ một nhà học thuật giấu mặt tới một nhà học thuật thật sự". Ông khen Kissinger "rất phong độ" cuối tuần trước và nói rất vui được gặp.
+Nội dung quảng cáo: ở những nơi xa xôi, khi có sẵn Coca-Cola, nó gắn kết tình bạn cho quân nhân Mỹ; Trung Hoa đã biết Coca-Cola từ Thiên Tân tới Thượng Hải, từ Hồng Kông tới các vùng khác; với người Trung Hoa và người Mỹ như nhau, "Have a Coke" là lời chào đón, gắn với sự thân thiện và tự do; từ Atlanta tới bảy đại dương, Coca-Cola tượng trưng cho "khoảnh khắc nghỉ ngơi sảng khoái" và đã thành biểu tượng thiện chí giữa những người thân thiện. Logo đề "Coca-Cola, the global high-sign" (Coca-Cola, dấu hiệu chào toàn cầu). Đặt cạnh câu của Eisenhower, quảng cáo minh hoạ ý Munger về điều kiện hoá Pavlov (gắn đồ uống với tình bạn, quê nhà, tự do) và về việc có mặt khắp nơi.
+
+**Thư Munger gửi Henry Kissinger** (ngày 23 tháng 7 năm 1996, ba ngày sau bài nói). Chú thích của người biên tập: Henry Kissinger là một trong nhiều nhân vật nổi tiếng có mặt khi Munger trình bày bài nói này. Nội dung thư: như một người chiều chuộng bản thân viết cho một người khác cùng kiểu, Munger vui mừng gửi kèm cuốn sách "Dine Out & Lose Weight" (Ăn nhà hàng mà vẫn giảm cân), thứ đã giúp ông giảm 20 pound (khoảng 9 kg); ông theo hệ thống "lố bịch" đó khi thấy một người bạn còn chiều chuộng bản thân hơn (một nhà nhập khẩu rượu vang và pho mát) giảm 50 pound (khoảng 23 kg) với cùng chế độ ăn.
+
+Ông cũng gửi kèm "một thứ sẽ không giúp gì cho ông", tức bản đầy đủ hơn của bài nói ngày 20 tháng 7, "gửi từ một cựu cố vấn tới một người vẫn đang hành nghề, và từ một nhà học thuật giấu mặt tới một nhà học thuật thật sự". Ông khen Kissinger "rất phong độ" cuối tuần trước và nói rất vui được gặp.
 
 **"Nothing to Add" số bốn** (trang in 299; loạt ảnh "Không có gì để thêm" của người biên tập, gợi câu quen thuộc của Munger ở các đại hội cổ đông). Ảnh: máy tính văn phòng của Charles T. Munger, chưa bao giờ bật, phủ bụi. Hỏi: "Ông có dùng máy tính không?" Đáp: "Không. Tôi có một cái trong văn phòng, nhưng chưa bao giờ bật nó lên. Thật ra tôi còn không biết cắm điện nó thế nào. Trong đời tôi, không có nhiều câu hỏi mà tôi không xử lý được bằng chiếc máy cộng 40 USD và một bảng lãi kép quăn mép."
 
@@ -1125,9 +1167,13 @@ Kết quả thực tế: bài nói năm 1996 không tới được gần như ai
 
 Như vậy thất bại của ông với tư cách người truyền đạt còn cực đoan hơn thất bại nhận thức ông cố giải thích. Vì sao?
 
-Lời giải thích tốt nhất, theo ông bây giờ, là ông đã tỏ ra dại dột lớn khi làm một ông thầy nghiệp dư. Ông đã ôm đồm quá nhiều. Ông luôn tránh mọi người muốn trò chuyện dài về "ý nghĩa của ý nghĩa", vậy mà lại chọn tên bài là "Tư duy thực tiễn về tư duy thực tiễn?"; đó là bước vào một vùng khó. Rồi ông dựng một tương tác dài và phức tạp giữa năm mẹo giải quyết vấn đề chung, mạnh mẽ, với những ý tưởng cơ bản từ rất nhiều ngành. Ông đặc biệt đưa vào tâm lý học, ngành mà ông muốn chứng minh có rất nhiều sự dốt nát đáng tiếc, kể cả ở những người học vấn cao, trong đó có người dạy tâm lý học. Màn chứng minh của ông đương nhiên dựa vào tâm lý học đúng như một phần của nó. Điều đó đúng về lô-gic. Nhưng nếu sự dốt nát tâm lý học phổ biến, tại sao phần lớn người nghe lại nhận ra phiên bản tâm lý học của ông là đúng? Vì thế, với phần lớn người nghe, ông đã làm một việc gần giống việc cố giải thích những ý khó hiểu bằng cách định nghĩa chúng tương đương với chính chúng.
+Lời giải thích tốt nhất, theo ông bây giờ, là ông đã tỏ ra dại dột lớn khi làm một ông thầy nghiệp dư. Ông đã ôm đồm quá nhiều. Ông luôn tránh mọi người muốn trò chuyện dài về "ý nghĩa của ý nghĩa", vậy mà lại chọn tên bài là "Tư duy thực tiễn về tư duy thực tiễn?"; đó là bước vào một vùng khó. Rồi ông dựng một tương tác dài và phức tạp giữa năm mẹo giải quyết vấn đề chung, mạnh mẽ, với những ý tưởng cơ bản từ rất nhiều ngành.
 
-Và đó chưa phải giới hạn cuối của sự dại dột sư phạm. Sau khi biết bản viết khó hiểu, ông vẫn đồng ý với một thứ tự bài trong ấn bản đầu của *Poor Charlie's Almanack*, trong đó bài tâm lý học của ông là Bài 10, đặt sau Bài 4 nhiều trang. Lẽ ra ông phải nhận ra rằng nên đảo thứ tự hai bài, vì Bài 4 giả định người nghe đã nắm vững tâm lý học cơ bản, chủ đề của Bài 10. Rồi cuối cùng, trong ấn bản thứ hai, ông vẫn chọn giữ thứ tự ban đầu không có ích đó. Ông làm vậy vì thích kết sách bằng bản sắp xếp tâm lý học gần đây nhất của mình thành một kiểu danh sách kiểm tra (*checklist*) đã giúp ích cho ông từ lâu. [Chú thích của người biên tập: Bài 10 nay là Bài 11 trong ấn bản này.]
+Ông đặc biệt đưa vào tâm lý học, ngành mà ông muốn chứng minh có rất nhiều sự dốt nát đáng tiếc, kể cả ở những người học vấn cao, trong đó có người dạy tâm lý học. Màn chứng minh của ông đương nhiên dựa vào tâm lý học đúng như một phần của nó. Điều đó đúng về lô-gic. Nhưng nếu sự dốt nát tâm lý học phổ biến, tại sao phần lớn người nghe lại nhận ra phiên bản tâm lý học của ông là đúng? Vì thế, với phần lớn người nghe, ông đã làm một việc gần giống việc cố giải thích những ý khó hiểu bằng cách định nghĩa chúng tương đương với chính chúng.
+
+Và đó chưa phải giới hạn cuối của sự dại dột sư phạm. Sau khi biết bản viết khó hiểu, ông vẫn đồng ý với một thứ tự bài trong ấn bản đầu của *Poor Charlie's Almanack*, trong đó bài tâm lý học của ông là Bài 10, đặt sau Bài 4 nhiều trang. Lẽ ra ông phải nhận ra rằng nên đảo thứ tự hai bài, vì Bài 4 giả định người nghe đã nắm vững tâm lý học cơ bản, chủ đề của Bài 10.
+
+Rồi cuối cùng, trong ấn bản thứ hai, ông vẫn chọn giữ thứ tự ban đầu không có ích đó. Ông làm vậy vì thích kết sách bằng bản sắp xếp tâm lý học gần đây nhất của mình thành một kiểu danh sách kiểm tra (*checklist*) đã giúp ích cho ông từ lâu. [Chú thích của người biên tập: Bài 10 nay là Bài 11 trong ấn bản này.]
 
 Người đọc ấn bản thứ hai và thứ ba, nếu muốn, có thể tự sửa phần nào những khiếm khuyết sư phạm mà ông bướng bỉnh giữ lại: đọc lại Bài 4 sau khi đã nắm vững bài cuối cùng (Bài 11, "The Psychology of Human Misjudgment"). Nếu họ chịu đựng được "thử thách" này, ông đoán ít nhất một số người sẽ thấy kết quả đáng công.
 
@@ -1139,7 +1185,17 @@ Người đọc ấn bản thứ hai và thứ ba, nếu muốn, có thể tự 
 | Xếp bài tâm lý học (Bài 10, nay Bài 11) sau Bài 4, và giữ thứ tự đó ở ấn bản thứ hai | người đọc gặp Bài 4 khi chưa có nền tâm lý học |
 | Cách khắc phục cho người đọc | đọc lại Bài 4 sau Bài 11 |
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Một nhóm khởi nghiệp muốn xây một thương hiệu trà xanh đóng chai cho thị trường 100 triệu dân và đặt mục tiêu công ty trị giá 10.000 tỷ đồng sau 15 năm. **Quyết định hiển nhiên trước:** họ không thể đạt con số đó với trà không thương hiệu, nên đăng ký bảo hộ tên, nhãn, hình chai ngay từ đầu; và không thể đạt nếu chỉ bán ở một thành phố, nên thiết kế từ đầu cho phân phối toàn quốc. **Thông thạo con số:** giả sử 60 triệu người uống đồ uống đóng chai, trung bình mỗi người 2 chai mỗi tuần, tức khoảng 6,2 tỷ chai mỗi năm; nếu loại trà xanh đóng chai chiếm 20% và công ty chiếm 40% loại đó, công ty bán khoảng 500 triệu chai; lãi ròng 1.500 đồng mỗi chai là khoảng 750 tỷ đồng mỗi năm, đủ cho mức giá trị mục tiêu nếu còn tăng trưởng. **Đảo ngược:** hỏi chiều ngược lại, với giá mỗi chai 10.000 đồng, lãi 1.500 đồng nghĩa là biên ròng 15%, cao so với ngành, nên họ phải tìm lợi thế quy mô trong mua nguyên liệu, quảng cáo và vận chuyển. **Tâm lý học:** điều kiện hoá từ kết quả (uống lạnh, vị dễ chịu, ít hậu vị đắng để uống được nhiều chai liền), điều kiện hoá Pavlov (quảng cáo gắn chai trà với thể thao, bạn bè, cảm giác tươi mát), bằng chứng xã hội (cho chai xuất hiện ở các sự kiện đông người), có mặt ở mọi cửa hàng tiện lợi để khách không thử hàng của đối thủ. **Phân phối:** giữ quyền định giá với nhà phân phối thay vì ký hợp đồng độc quyền dài hạn với giá cố định. **Đảo ngược lần nữa, bốn điều tránh:** tránh hậu vị gây ngán; không để đối thủ dùng chữ chung làm nhãn gần giống; tránh bị ghét vì tăng giá quá tay hay chất lượng tụt; và khi vị đã quen, không đổi công thức đột ngột, kể cả khi thử mù cho kết quả tốt hơn, vì khách sẽ phản ứng mạnh khi "bị lấy mất" vị quen. Chính phép thử cuối cùng này là chỗ Coca-Cola thật đã vấp với New Coke.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Một nhóm khởi nghiệp muốn xây một thương hiệu trà xanh đóng chai cho thị trường 100 triệu dân và đặt mục tiêu công ty trị giá 10.000 tỷ đồng sau 15 năm. **Quyết định hiển nhiên trước:** họ không thể đạt con số đó với trà không thương hiệu, nên đăng ký bảo hộ tên, nhãn, hình chai ngay từ đầu; và không thể đạt nếu chỉ bán ở một thành phố, nên thiết kế từ đầu cho phân phối toàn quốc.
+
+**Thông thạo con số:** giả sử 60 triệu người uống đồ uống đóng chai, trung bình mỗi người 2 chai mỗi tuần, tức khoảng 6,2 tỷ chai mỗi năm; nếu loại trà xanh đóng chai chiếm 20% và công ty chiếm 40% loại đó, công ty bán khoảng 500 triệu chai; lãi ròng 1.500 đồng mỗi chai là khoảng 750 tỷ đồng mỗi năm, đủ cho mức giá trị mục tiêu nếu còn tăng trưởng.
+
+**Đảo ngược:** hỏi chiều ngược lại, với giá mỗi chai 10.000 đồng, lãi 1.500 đồng nghĩa là biên ròng 15%, cao so với ngành, nên họ phải tìm lợi thế quy mô trong mua nguyên liệu, quảng cáo và vận chuyển.
+
+**Tâm lý học:** điều kiện hoá từ kết quả (uống lạnh, vị dễ chịu, ít hậu vị đắng để uống được nhiều chai liền), điều kiện hoá Pavlov (quảng cáo gắn chai trà với thể thao, bạn bè, cảm giác tươi mát), bằng chứng xã hội (cho chai xuất hiện ở các sự kiện đông người), có mặt ở mọi cửa hàng tiện lợi để khách không thử hàng của đối thủ.
+
+**Phân phối:** giữ quyền định giá với nhà phân phối thay vì ký hợp đồng độc quyền dài hạn với giá cố định.
+
+**Đảo ngược lần nữa, bốn điều tránh:** tránh hậu vị gây ngán; không để đối thủ dùng chữ chung làm nhãn gần giống; tránh bị ghét vì tăng giá quá tay hay chất lượng tụt; và khi vị đã quen, không đổi công thức đột ngột, kể cả khi thử mù cho kết quả tốt hơn, vì khách sẽ phản ứng mạnh khi "bị lấy mất" vị quen. Chính phép thử cuối cùng này là chỗ Coca-Cola thật đã vấp với New Coke.
 
 ## Luận điểm cốt lõi
 
@@ -1289,23 +1345,33 @@ Một vài nguyên tắc tư duy chung (quyết định trước câu hỏi hi�
 
 ### Bài nói là bản trình diễn rõ nhất trong sách về cách dùng mạng lưới mô hình tư duy
 
-Ở Bài 2, Munger mô tả ý tưởng mạng lưới mô hình tư duy và trí tuệ thế gian ở mức nguyên tắc. Bài 4 cho thấy nó vận hành ra sao trên một bài toán cụ thể: phép tính khẩu phần (toán), mất giá tiền tệ (kinh tế), phản xạ có điều kiện và bằng chứng xã hội (tâm lý học), hậu vị gây ngán và sở thích vị (sinh học tiến hoá), phản ứng tự xúc tác (hoá học), quyền định giá và nhượng quyền (kinh doanh, pháp lý), đố kỵ (đạo đức, tôn giáo). Điểm mạnh nhất là các mô hình không đứng riêng: quyết định thương hiệu dẫn tới tâm lý học, tâm lý học dẫn tới quảng cáo, quảng cáo dẫn tới lợi thế quy mô, và tất cả cộng lại thành hiệu ứng Lollapalooza. Người đọc thấy được lý do Munger nhấn mạnh tổ hợp thay vì từng mô hình riêng lẻ. Bài cũng cho thấy cách dùng tư duy đảo ngược hai lần ở hai chỗ khác nhau: một lần để kiểm tra tính khả thi của con số, một lần để tìm các điều phải tránh.
+Ở Bài 2, Munger mô tả ý tưởng mạng lưới mô hình tư duy và trí tuệ thế gian ở mức nguyên tắc. Bài 4 cho thấy nó vận hành ra sao trên một bài toán cụ thể: phép tính khẩu phần (toán), mất giá tiền tệ (kinh tế), phản xạ có điều kiện và bằng chứng xã hội (tâm lý học), hậu vị gây ngán và sở thích vị (sinh học tiến hoá), phản ứng tự xúc tác (hoá học), quyền định giá và nhượng quyền (kinh doanh, pháp lý), đố kỵ (đạo đức, tôn giáo).
+
+Điểm mạnh nhất là các mô hình không đứng riêng: quyết định thương hiệu dẫn tới tâm lý học, tâm lý học dẫn tới quảng cáo, quảng cáo dẫn tới lợi thế quy mô, và tất cả cộng lại thành hiệu ứng Lollapalooza. Người đọc thấy được lý do Munger nhấn mạnh tổ hợp thay vì từng mô hình riêng lẻ. Bài cũng cho thấy cách dùng tư duy đảo ngược hai lần ở hai chỗ khác nhau: một lần để kiểm tra tính khả thi của con số, một lần để tìm các điều phải tránh.
 
 ### Lời giải là "giải thích ngược" có lợi thế nhìn lại, nên tính dự đoán của nó bị phóng đại
 
-Munger tự đặt điều kiện người giải chỉ biết những gì có trước 1884, nhưng lời giải được viết bởi người đã thấy Coca-Cola thành công trong 110 năm. Nhiều yếu tố "hiển nhiên" trong lời giải (bán ra toàn thế giới, uống lạnh, chi quảng cáo trên 40% giá sirô, tránh mất chữ "cola") hiển nhiên chủ yếu vì đã biết kết quả; năm 1884, dân số thế giới khoảng 1,5 tỷ, chưa có tủ lạnh gia dụng, chưa có phát thanh hay truyền hình để quảng cáo, và hàng trăm hãng đồ uống khác cũng làm nhiều điều tương tự mà thất bại. Lời giải cũng bỏ qua vai trò của may mắn, của các nhân vật lịch sử cụ thể và của các sự kiện như hai cuộc thế chiến (chính quảng cáo năm 1943 và câu của Eisenhower trong hộp bên lề cho thấy chiến tranh đã giúp Coca-Cola có mặt toàn cầu). Giá trị của bài nói vì vậy nằm ở việc giải thích cơ chế và rèn cách tư duy, hơn là chứng minh rằng ai biết năm nguyên tắc cũng sẽ dựng được Coca-Cola.
+Munger tự đặt điều kiện người giải chỉ biết những gì có trước 1884, nhưng lời giải được viết bởi người đã thấy Coca-Cola thành công trong 110 năm. Nhiều yếu tố "hiển nhiên" trong lời giải (bán ra toàn thế giới, uống lạnh, chi quảng cáo trên 40% giá sirô, tránh mất chữ "cola") hiển nhiên chủ yếu vì đã biết kết quả; năm 1884, dân số thế giới khoảng 1,5 tỷ, chưa có tủ lạnh gia dụng, chưa có phát thanh hay truyền hình để quảng cáo, và hàng trăm hãng đồ uống khác cũng làm nhiều điều tương tự mà thất bại.
+
+Lời giải cũng bỏ qua vai trò của may mắn, của các nhân vật lịch sử cụ thể và của các sự kiện như hai cuộc thế chiến (chính quảng cáo năm 1943 và câu của Eisenhower trong hộp bên lề cho thấy chiến tranh đã giúp Coca-Cola có mặt toàn cầu). Giá trị của bài nói vì vậy nằm ở việc giải thích cơ chế và rèn cách tư duy, hơn là chứng minh rằng ai biết năm nguyên tắc cũng sẽ dựng được Coca-Cola.
 
 ### Phê phán giới học thuật mạnh nhưng dựa vào một giả định Munger không kiểm chứng
 
-Toàn bộ hàm ý giáo dục dựa vào giả định "phần lớn giáo sư tiến sĩ sẽ không đưa ra câu trả lời đơn giản như tôi", mà Munger chỉ nêu là điều ông tin. Thất bại New Coke là bằng chứng mạnh hơn: các lãnh đạo có cố vấn từ những trường tốt nhất vẫn không đoán được phản ứng của khách hàng. Tuy nhiên, người ta cũng có thể giải thích New Coke bằng các nguyên nhân khác (áp lực cạnh tranh từ Pepsi, tin quá mức vào thử mù, cơ chế ra quyết định trong tổ chức). Chính Munger, trong phần viết thêm, thừa nhận không ai bảo bài sai nhưng cũng không ai thật sự hiểu, điều cho thấy cả người phê phán lẫn người bị phê phán đều gặp khó khi truyền đạt tâm lý học. Ý về khoa tâm lý học bị bãi bỏ ở Chicago được nêu như một sự kiện mà không có chi tiết.
+Toàn bộ hàm ý giáo dục dựa vào giả định "phần lớn giáo sư tiến sĩ sẽ không đưa ra câu trả lời đơn giản như tôi", mà Munger chỉ nêu là điều ông tin. Thất bại New Coke là bằng chứng mạnh hơn: các lãnh đạo có cố vấn từ những trường tốt nhất vẫn không đoán được phản ứng của khách hàng.
+
+Tuy nhiên, người ta cũng có thể giải thích New Coke bằng các nguyên nhân khác (áp lực cạnh tranh từ Pepsi, tin quá mức vào thử mù, cơ chế ra quyết định trong tổ chức). Chính Munger, trong phần viết thêm, thừa nhận không ai bảo bài sai nhưng cũng không ai thật sự hiểu, điều cho thấy cả người phê phán lẫn người bị phê phán đều gặp khó khi truyền đạt tâm lý học. Ý về khoa tâm lý học bị bãi bỏ ở Chicago được nêu như một sự kiện mà không có chi tiết.
 
 ### Từ 1996 tới nay, kinh tế học hành vi đã đi đúng hướng Munger hy vọng, còn Coca-Cola thì không đi đúng con số của ông
 
-Theo hiểu biết của người tổng hợp: sự lạc quan của Munger về việc học thuật tự sửa sai phần lớn đã được xác nhận. Kinh tế học hành vi trở thành dòng chính; Daniel Kahneman (2002) và Richard Thaler (2017) nhận giải Nobel; các ý tưởng như sợ mất, bằng chứng xã hội và "cú hích" đi vào chính sách công và marketing. Các khoa tâm lý học cũng đã trải qua cuộc "khủng hoảng tái lập" sau năm 2010, khi nhiều thí nghiệm nổi tiếng không lặp lại được; điều này phần nào xác nhận lời phê phán của Munger rằng tâm lý học là "danh sách thí nghiệm" thiếu tổng hợp. Ngược lại, dự báo kinh doanh của ông lạc quan quá: Coca-Cola không giữ được mức tăng giá trị 8% mỗi năm; người tiêu dùng nhiều nước chuyển dần khỏi đồ uống có đường vì lo ngại sức khoẻ, béo phì và các loại thuế đồ uống có đường. Đây cũng là một yếu tố mà lời giải của Munger không tính tới: phần thưởng "đường và calo" có thể đổi dấu khi xã hội đổi nhận thức.
+Theo hiểu biết của người tổng hợp: sự lạc quan của Munger về việc học thuật tự sửa sai phần lớn đã được xác nhận. Kinh tế học hành vi trở thành dòng chính; Daniel Kahneman (2002) và Richard Thaler (2017) nhận giải Nobel; các ý tưởng như sợ mất, bằng chứng xã hội và "cú hích" đi vào chính sách công và marketing. Các khoa tâm lý học cũng đã trải qua cuộc "khủng hoảng tái lập" sau năm 2010, khi nhiều thí nghiệm nổi tiếng không lặp lại được; điều này phần nào xác nhận lời phê phán của Munger rằng tâm lý học là "danh sách thí nghiệm" thiếu tổng hợp.
+
+Ngược lại, dự báo kinh doanh của ông lạc quan quá: Coca-Cola không giữ được mức tăng giá trị 8% mỗi năm; người tiêu dùng nhiều nước chuyển dần khỏi đồ uống có đường vì lo ngại sức khoẻ, béo phì và các loại thuế đồ uống có đường. Đây cũng là một yếu tố mà lời giải của Munger không tính tới: phần thưởng "đường và calo" có thể đổi dấu khi xã hội đổi nhận thức.
 
 ### Quan điểm trái chiều: có câu hỏi đạo đức trong việc "kinh doanh phản xạ có điều kiện"
 
-Munger nói tới điều kiện hoá Pavlov "đàng hoàng, chính đáng" và việc tránh đố kỵ bằng cách xứng đáng với thành công, nhưng bài nói về cơ bản coi người tiêu dùng là hệ thần kinh cần được điều kiện hoá để uống càng nhiều càng tốt, kể cả việc thiết kế vị không có hậu vị để người ta uống "chai này tới chai khác" vượt qua cơ chế điều độ tự nhiên. Những người phê phán ngành đồ uống có đường và ngành quảng cáo sẽ cho rằng chính cơ chế này góp phần gây béo phì và tiểu đường; "niềm vui vô hại" mà Munger nhắc tới là một giả định có thể tranh cãi. Một góc nhìn khác: hiểu cơ chế này cũng giúp người tiêu dùng và nhà làm chính sách tự vệ, vì biết rằng sự có mặt khắp nơi, liên tưởng và bằng chứng xã hội đang tác động lên mình.
+Munger nói tới điều kiện hoá Pavlov "đàng hoàng, chính đáng" và việc tránh đố kỵ bằng cách xứng đáng với thành công, nhưng bài nói về cơ bản coi người tiêu dùng là hệ thần kinh cần được điều kiện hoá để uống càng nhiều càng tốt, kể cả việc thiết kế vị không có hậu vị để người ta uống "chai này tới chai khác" vượt qua cơ chế điều độ tự nhiên.
+
+Những người phê phán ngành đồ uống có đường và ngành quảng cáo sẽ cho rằng chính cơ chế này góp phần gây béo phì và tiểu đường; "niềm vui vô hại" mà Munger nhắc tới là một giả định có thể tranh cãi. Một góc nhìn khác: hiểu cơ chế này cũng giúp người tiêu dùng và nhà làm chính sách tự vệ, vì biết rằng sự có mặt khắp nơi, liên tưởng và bằng chứng xã hội đang tác động lên mình.
 
 ### Vận dụng: trước một bài toán lớn, hãy chốt điều hiển nhiên, đếm bằng con số, đảo ngược, và tìm tổ hợp nhiều yếu tố
 
@@ -1313,3 +1379,191 @@ Munger nói tới điều kiện hoá Pavlov "đàng hoàng, chính đáng" và 
 - **Trong doanh nghiệp, nghề nghiệp.** Khi thiết kế sản phẩm hay chiến dịch, liệt kê có hệ thống các loại phần thưởng, các liên tưởng, bằng chứng xã hội và độ phủ phân phối, rồi cố cho chúng cùng tác động một hướng. Trước mỗi thay đổi lớn với khách hàng hiện có (đổi công thức, bỏ tính năng, tăng giá), tính tới phản ứng thái quá khi bị tước đoạt, không chỉ dựa vào thử nghiệm mù. Không phó thác hoàn toàn cho cố vấn chuyên môn; hỏi động cơ của họ là gì.
 - **Trong ra quyết định cá nhân.** Dùng đảo ngược: trước một kế hoạch, hỏi "điều gì sẽ làm nó thất bại" và tránh những điều đó. Tự học ý tưởng cơ bản của nhiều môn (tâm lý học, thống kê, kinh tế, sinh học) thay vì chỉ đào sâu một ngành. Khi truyền đạt một ý tưởng khó, dạy nền tảng trước, như Munger tự rút kinh nghiệm.
 - **Ở Việt Nam.** Thị trường đồ uống đóng chai, trà, cà phê và sữa là nơi có thể quan sát rõ các cơ chế trong bài: thương hiệu nội địa và quốc tế cạnh tranh bằng độ phủ ở cửa hàng tạp hoá, cửa hàng tiện lợi, bằng quảng cáo gắn với cảm xúc và bằng chứng xã hội. Người làm kinh doanh có thể dùng bài toán Glotz như một khung lập kế hoạch: lượng hoá thị trường bằng số khẩu phần, kiểm tra lãi mỗi khẩu phần, giữ quyền định giá với nhà phân phối, bảo hộ nhãn hiệu sớm. Người tiêu dùng và nhà làm chính sách có thể dùng cùng khung đó để hiểu vì sao đồ uống có đường dễ được tiêu thụ nhiều, và cân nhắc các biện pháp về thông tin dinh dưỡng hay quảng cáo cho trẻ em.
+
+## Bản đồ tư duy
+
+Toàn cảnh Bài 4 trên một trang: sáu nhánh theo các mục của phần Nội dung chi tiết (Mục 1–3 năm khái niệm hữu ích, Mục 4–5 đề bài Glotz và phép tính, Mục 6–7 phản xạ có điều kiện, Mục 8–9 phân phối và bốn điều phải tránh, Mục 10–13 Coca-Cola thật và hàm ý giáo dục, Mục 14–16 hộp bên lề và phần Munger nhìn lại), mỗi nhánh ghi luận điểm, con số và ví dụ then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Bài 4: Vài nguyên tắc tư duy đơn giản cộng ý tưởng sơ đẳng đa ngành đủ để #quot;phát minh lại#quot; Coca-Cola`"]
+  n1["`Mục 1–3 — Năm khái niệm hữu ích, dùng cùng nhau, đủ cho một bài toán cực lớn`"]
+  n0 --- n1
+  n2["`Khái niệm 1: chốt trước những câu hỏi lớn có đáp án hiển nhiên (#quot;no-brainer#quot;) để đơn giản hoá bài toán`"]
+  n1 --- n2
+  n3["`Khái niệm 2: thông thạo con số, như Galileo coi toán là ngôn ngữ của Chúa`"]
+  n1 --- n3
+  n4["`Thiếu nó, bạn như #quot;người một chân trong cuộc thi đá đít#quot;`"]
+  n3 --- n4
+  n5["`Khái niệm 3: #quot;Đảo ngược, luôn đảo ngược#quot; (Carl Jacobi)`"]
+  n1 --- n5
+  n6["`Anh nhà quê muốn biết mình sẽ chết ở đâu để không bao giờ tới đó`"]
+  n5 --- n6
+  n7["`Phái Pythagoras nghĩ ngược để chứng minh căn bậc hai của 2 là số vô tỷ`"]
+  n5 --- n7
+  n8["`Khái niệm 4: trí tuệ hàn lâm sơ đẳng, với điều kiện phải nghĩ đa ngành, không #quot;Balkan hoá#quot;`"]
+  n1 --- n8
+  n9["`Phó thác cho cố vấn hẹp gây hại vì thiên lệch vô thức, không phải gian dối có ý thức`"]
+  n8 --- n9
+  n10["`Cố vấn có động cơ tài chính khác bạn, và #quot;với người cầm búa, vấn đề nào cũng giống cái đinh#quot;`"]
+  n8 --- n10
+  n11["`Khái niệm 5: hiệu ứng Lollapalooza chỉ đến từ tổ hợp lớn của nhiều yếu tố`"]
+  n1 --- n11
+  n12["`Bệnh lao bị chế ngự nhờ kết hợp ba thuốc#59; máy bay bay được cũng theo khuôn mẫu đó`"]
+  n11 --- n12
+  n13["`Mục 4–5 — Đề bài Glotz: biến 2 triệu USD năm 1884 thành 2.000 tỷ USD năm 2034`"]
+  n0 --- n13
+  n14["`Glotz góp 2 triệu USD, lấy nửa cổ phần#59; công ty chỉ làm đồ uống không cồn, mãi mãi`"]
+  n13 --- n14
+  n15["`Quyết định hiển nhiên: #quot;Coca-Cola#quot; phải là thương hiệu mạnh, được bảo hộ, bán ra toàn thế giới`"]
+  n13 --- n15
+  n16["`Phép tính: 8 tỷ người năm 2034, mỗi người 64 ounce, tức 8 khẩu phần mỗi ngày`"]
+  n13 --- n16
+  n17["`Chiếm một nửa của 25% lượng nước uống thế giới = 2.920 tỷ khẩu phần`"]
+  n16 --- n17
+  n18["`Lãi ròng 4 cent mỗi khẩu phần = 117 tỷ USD lợi nhuận năm 2034`"]
+  n16 --- n18
+  n19["`Đảo ngược: sức mua đồ uống tính bằng đô la tăng ít nhất 40 lần trong 150 năm`"]
+  n13 --- n19
+  n20["`Đô la mất giá như drachma La Mã#59; sức mua thực tăng#59; chi phí giảm nhờ công nghệ`"]
+  n19 --- n20
+  n21["`4 cent năm 2034 chỉ bằng một phần mười cent theo điều kiện năm 1884: dễ vượt`"]
+  n19 --- n21
+  n22["`Bài toán còn lại: phát minh sức hấp dẫn phổ quát bằng tổ hợp mọi yếu tố thuận lợi`"]
+  n13 --- n22
+  n23["`Mục 6–7 — Bản chất việc kinh doanh: tạo ra và duy trì phản xạ có điều kiện`"]
+  n0 --- n23
+  n24["`Kích thích là tên và diện mạo thương mại#59; phản ứng mong muốn là mua và uống`"]
+  n23 --- n24
+  n25["`Điều kiện hoá từ kết quả: đưa đủ bốn loại phần thưởng`"]
+  n23 --- n25
+  n26["`Dinh dưỡng#59; hương vị và mùi#59; chất kích thích (đường, caffeine)#59; làm mát`"]
+  n25 --- n26
+  n27["`Uống lạnh, có đường lẫn caffeine, thử và sai cuồng tín để tìm hương vị`"]
+  n25 --- n27
+  n28["`Có mặt khắp nơi: sản phẩm không bao giờ được thử không tạo được thói quen xung đột`"]
+  n25 --- n28
+  n29["`Điều kiện hoá Pavlov: gắn đồ uống với mọi thứ khách thích hoặc ngưỡng mộ`"]
+  n23 --- n29
+  n30["`Não người đàn ông thèm đồ uống mà người phụ nữ đẹp anh ta không có được đang cầm`"]
+  n29 --- n30
+  n31["`Tên ngoại lai đắt tiền thay #quot;Nước có đường và caffeine của Glotz#quot;#59; màu như vang#59; ga như sâm panh`"]
+  n29 --- n31
+  n32["`Hương vị khác mọi vị chuẩn để đối thủ khó chép`"]
+  n29 --- n32
+  n33["`Quảng cáo khổng lồ#59; đối thủ chịu bất lợi quy mô#59; giữ ít nhất 50% thị trường`"]
+  n29 --- n33
+  n34["`Bằng chứng xã hội (#quot;khỉ thấy gì làm nấy#quot;): mỗi lần tăng doanh số lại tăng sức bán`"]
+  n23 --- n34
+  n35["`Tổ hợp ba lực cho doanh số tăng tốc lâu dài như phản ứng tự xúc tác`"]
+  n23 --- n35
+  n36["`Mục 8–9 — Phân phối và bốn điều phải tránh (đảo ngược lần hai)`"]
+  n0 --- n36
+  n37["`Phân phối: giữ quyền định giá và bí mật`"]
+  n36 --- n37
+  n38["`Bán cả sirô cho quầy pha lẫn chai, lon#59; chi quảng cáo trên 40% giá sirô mỗi khẩu phần`"]
+  n37 --- n38
+  n39["`Vài nhà máy sirô, nhiều nhà máy đóng chai để khỏi chở #quot;khoảng trống và nước#quot;`"]
+  n37 --- n39
+  n40["`Tự đặt giá bán lần đầu như General Electric#59; nhà đóng chai là nhà thầu phụ, không nhượng quyền vĩnh viễn`"]
+  n37 --- n40
+  n41["`Không có bằng sáng chế: giữ công thức bí mật và làm ầm lên để tăng hiệu ứng Pavlov`"]
+  n37 --- n41
+  n42["`Đảo ngược như Jacobi: bốn điều phải tránh`"]
+  n36 --- n42
+  n43["`Tránh hậu vị gây ngán, cơ chế điều độ do tiến hoá Darwin tạo ra`"]
+  n42 --- n43
+  n44["`Tránh mất nửa thương hiệu: nếu có #quot;peppy cola#quot; thì công ty phải là chủ`"]
+  n42 --- n44
+  n45["`Tránh đố kỵ: theo Aristotle, xứng đáng rõ ràng với thành công bằng chất lượng, giá hợp lý`"]
+  n42 --- n45
+  n46["`Tránh đổi vị lớn, đột ngột kể cả khi vị mới thắng thử mù: phản ứng thái quá khi bị tước đoạt`"]
+  n42 --- n46
+  n47["`Mục 10–13 — Coca-Cola thật, thất bại New Coke và lỗ hổng giáo dục`"]
+  n0 --- n47
+  n48["`Coca-Cola thật năm 1896: tài sản ròng dưới 150.000 USD, lợi nhuận gần bằng 0`"]
+  n47 --- n48
+  n49["`Công ty thật mất nửa thương hiệu và cấp nhượng quyền đóng chai vĩnh viễn giá sirô cố định`"]
+  n47 --- n49
+  n50["`Năm 1996 trị giá khoảng 125 tỷ USD#59; chỉ cần tăng 8%/năm tới 2034`"]
+  n47 --- n50
+  n51["`Phần lớn giáo sư tiến sĩ không giải thích nổi Coca-Cola: không chấp nhận được`"]
+  n47 --- n51
+  n52["`Lãnh đạo Coke không lường trước New Coke: Lollapalooza theo chiều xấu`"]
+  n47 --- n52
+  n53["`Nguyên nhân 1: tâm lý học thiếu tổng hợp nội ngành, như có Faraday mà không có Maxwell`"]
+  n52 --- n53
+  n54["`Nguyên nhân 2: thiếu tổng hợp giữa tâm lý học và các ngành khác`"]
+  n52 --- n54
+  n55["`Giới học thuật lẽ ra phải phản ứng như Boeing khi ba máy bay mới rơi trong một tuần`"]
+  n52 --- n55
+  n56["`Hy vọng: khoa kinh tế Chicago mời Richard Thaler, bắt chước Darwin tự bác bỏ ý mình`"]
+  n47 --- n56
+  n57["`Einstein xếp tự phê bình ngang tò mò, tập trung, bền bỉ`"]
+  n56 --- n57
+  n58["`Mộ Darwin #quot;không có năng khiếu#quot; nằm cạnh mộ Newton ở Tu viện Westminster`"]
+  n56 --- n58
+  n59["`Warner #amp; Swasey: #quot;Công ty nào cần một máy công cụ mới mà chưa mua, thì đã đang trả tiền cho nó rồi#quot;`"]
+  n47 --- n59
+  n60["`Mục 14–16 — Hộp bên lề và phần Munger nhìn lại (Talk Four Revisited)`"]
+  n0 --- n60
+  n61["`Pavlov: chó chảy nước dãi trước khi thức ăn tới miệng#59; Nobel 1904`"]
+  n60 --- n61
+  n62["`Eisenhower muốn một lon Coke trong tầm tay mọi quân nhân Mỹ, để nhắc họ nhớ nhà`"]
+  n60 --- n62
+  n63["`Munger không bật máy tính: chỉ cần máy cộng 40 USD và bảng lãi kép`"]
+  n60 --- n63
+  n64["`Munger: #quot;thất bại giao tiếp cực độ#quot;#59; 1996–2006 đọc chậm hai lần vẫn không hiểu`"]
+  n60 --- n64
+  n65["`Dùng tâm lý học đúng để chứng minh người nghe dốt tâm lý học`"]
+  n64 --- n65
+  n66["`Bài 11 về tâm lý học lẽ ra phải đứng trước#59; đọc lại Bài 4 sau Bài 11`"]
+  n64 --- n66
+  n67["`Thông điệp xuyên suốt`"]
+  n0 --- n67
+  n68["`Trước bài toán lớn: chốt điều hiển nhiên, đếm bằng con số, đảo ngược, tìm tổ hợp nhiều yếu tố`"]
+  n67 --- n68
+  n69["`Thương hiệu tiêu dùng lớn là hệ thống phản xạ có điều kiện được duy trì`"]
+  n67 --- n69
+  n70["`Không phó thác tư duy cho chuyên gia hẹp#59; tự học ý tưởng sơ đẳng của nhiều ngành`"]
+  n67 --- n70
+  n71["`Tự đảo ngược ý mình kiểu Darwin là động lực sửa sai của cá nhân lẫn tổ chức`"]
+  n67 --- n71
+  n72["`Dè dặt: lời giải viết với lợi thế nhìn lại#59; giá trị nằm ở cơ chế, không ở dự đoán`"]
+  n67 --- n72
+  class n0 root
+  class n1,n13,n23,n36,n47,n60,n67 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n14,n15,n16,n17,n18,n19,n20,n21,n22,n24,n25,n26,n27,n28,n29,n30,n31,n32,n33,n34,n35,n37,n38,n39,n40,n41,n42,n43,n44,n45,n46,n48,n49,n50,n51,n52,n53,n54,n55,n56,n57,n58,n59,n61,n62,n63,n64,n65,n66,n68,n69,n70,n71,n72 leaf
+```
+
+## Nguồn
+
+*Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger*, biên tập Peter D. Kaufman, The Donning Company Publishers, ấn bản mở rộng thứ ba (Expanded Third Edition), Chương 4 "Eleven Talks", Bài 4 "Practical Thought About Practical Thought?", trang in 278–301. Gồm: lời dẫn của người biên tập (trang in 278), bài nói (279–296), các hộp bên lề, trang ảnh và thư (280–299), phần Munger viết thêm "Talk Four Revisited" (300–301). Bài nói không chính thức (*An Informal Talk*) ngày 20 tháng 7 năm 1996, trước một nhóm người có chính sách không công khai chương trình của mình; theo chú thích ảnh của người biên tập, Henry Kissinger là một trong nhiều nhân vật nổi tiếng có mặt.
+
+## Tác giả
+
+Charles T. Munger (1924–2023), Phó Chủ tịch Berkshire Hathaway, cộng sự lâu năm của Warren Buffett; lời dẫn, các hộp bên lề và chú thích ảnh do người biên tập (Peter Kaufman và nhóm) viết; phần "Talk Four Revisited" do Munger viết thêm cho các ấn bản sau.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Bài 2 ("A Lesson on Elementary, Worldly Wisdom", 1994) đưa ra ý tưởng **mạng lưới mô hình tư duy** (*latticework of mental models*) và Bài 3 ("... Revisited", 1997) nhìn lại ý tưởng đó.
+
+Bài 4 là phần **trình diễn** của ý tưởng ấy: Munger lấy năm nguyên tắc tư duy chung cùng các khái niệm năm nhất đại học (tâm lý học, toán, hoá học, kinh tế) rồi dùng chúng để "phát minh lại" công ty Coca-Cola từ con số không.
+
+Bài nói dựa nặng vào tâm lý học (phản xạ có điều kiện, bằng chứng xã hội, đố kỵ, phản ứng thái quá khi bị tước đoạt), tức chính các khuynh hướng mà Bài 11 "The Psychology of Human Misjudgment" trình bày đầy đủ; trong phần viết thêm, Munger thừa nhận lẽ ra Bài 11 nên đứng trước Bài 4 và khuyên người đọc đọc lại Bài 4 sau khi học xong Bài 11. Bài 5 (Diễn văn họp mặt 50 năm Trường Luật Harvard) tiếp tục chủ đề phê phán giáo dục chuyên ngành hẹp, lần này nhắm vào trường luật.
+
+## Lưu ý
+
+- **Bối cảnh thời điểm.** Bài nói năm 1996; mọi con số "hiện nay" (Coca-Cola trị giá khoảng 125 tỷ USD, cần tăng 8% mỗi năm tới 2034) là của năm 1996. Phần "Talk Four Revisited" viết trong khoảng 2006 (Munger nói "từ 1996 tới 2006" và nhắc ấn bản thứ hai). Theo hiểu biết của người tổng hợp: giá trị thị trường của Coca-Cola sau 1996 không tăng đều 8% mỗi năm (đứng yên trong nhiều năm sau đỉnh cuối thập niên 1990), nên mốc 2.000 tỷ USD vào năm 2034 của công ty thật xa hơn nhiều so với ước tính của Munger; Richard Thaler sau này nhận giải Nobel Kinh tế (2017), sau khi sách in; Munger mất năm 2023.
+- **Đơn vị đo.** Sách dùng ounce chất lỏng Mỹ. Theo hiểu biết của người tổng hợp, 1 ounce chất lỏng Mỹ khoảng 29,6 ml, nên một khẩu phần 8 ounce khoảng 237 ml và 64 ounce mỗi ngày khoảng 1,9 lít. Phép tính của Munger kiểm lại được: 8 tỷ người × 8 khẩu phần × 365 ngày = 23.360 tỷ khẩu phần mỗi năm; một phần tư là 5.840 tỷ; một nửa của số đó là 2.920 tỷ; nhân 4 cent ra 116,8 tỷ USD, Munger làm tròn 117 tỷ.
+- **Lỗi OCR đã sửa khi đọc:** "mimies" là *mimics*; "flueney" là *fluency*; "academie" là *academic*; "tubereulosis" là *tuberculosis*; "carn" là *earn*; "produet" là *product*; "suecess" là *success*; "crademarked" là *trademarked*; "beeause" là *because*; "welve" là *twelve*; "economies" (giải Nobel) là *economics*; "Hie depositum est" là *Hic depositum est*; "impiery" là *impiety*; "Tattempted" là *I attempted*. Đoạn chữ trong quảng cáo Coca-Cola năm 1943 bị OCR làm vụn; bản tổng hợp đọc lại theo ảnh trang. Các câu in nổi giữa trang (pull quote) lặp lại câu trong bài nên chỉ ghi một lần.
+- **Chỗ sách có thể sai hoặc cần dè dặt (theo hiểu biết của người tổng hợp):** câu "mọi thứ nên được làm đơn giản nhất có thể, nhưng không đơn giản hơn" thường được gán cho Einstein nhưng không tìm thấy nguyên văn trong các bài viết của ông (có lẽ là bản rút gọn của một câu dài hơn trong bài giảng năm 1933). Ý "Đại học Chicago đơn giản là bãi bỏ khoa tâm lý học" là cách nói của Munger; người tổng hợp không chắc chi tiết lịch sử, nên ghi lại như lời Munger.
+
+  Hộp bên lề về Galileo nói ông "chế tạo kính viễn vọng thiên văn đầu tiên" và "khám phá dải Ngân Hà"; chính xác hơn, Galileo là người đầu tiên dùng kính viễn vọng tự chế (cải tiến từ phát minh ở Hà Lan) để quan sát bầu trời một cách có hệ thống, và thấy dải Ngân Hà gồm vô số ngôi sao. Năm sinh, mất của Pythagoras (582–496 trước Công nguyên) trong hộp bên lề là ước đoán truyền thống. Biệt danh của Maxwell ở Học viện Edinburgh thường được ghi là "Dafty" hoặc "Daftie".
+- **Các hộp bên lề của người biên tập** (Galileo, Pythagoras và số vô tỷ, đồng drachma La Mã, sự mất giá tiền tệ, Pavlov, Will Rogers, quảng cáo Coca-Cola năm 1943 và câu của Eisenhower, phản ứng tự xúc tác, Mười điều răn, Aristotle, Faraday, Maxwell, Newton, Thaler, câu quảng cáo của Warner & Swasey, thư gửi Kissinger, ảnh máy tính của Munger, tục ngữ Trung Hoa) được gom lại thành hai khối riêng ở cuối phần Sơ đồ và Nội dung chi tiết, ghi rõ là của người biên tập. Trang in 297 chỉ có ảnh logo Coca-Cola hình tròn với chai nước, không có chữ.
+- **Cách chia mục.** Bài nói gốc không có tiểu mục (ngoài tiêu đề "Talk Four Revisited" của phần viết thêm). Người tổng hợp chia theo trình tự lập luận của Munger (mở đầu, năm khái niệm, đề bài, năm bước của lời giải, đối chiếu lịch sử, hàm ý giáo dục, New Coke, đoạn kết) và ghi trang in cho từng phần. *Helpful notions* được dịch thống nhất là "khái niệm hữu ích" (có thể hiểu là "nguyên tắc tư duy hữu ích").
+- **Lời cảnh báo của người biên tập theo gợi ý của Munger:** phần lớn người nghe không hiểu bài này; Munger tự gọi đó là "một thất bại giao tiếp cực độ". Phần "Talk Four Revisited" giải thích nguyên nhân và khuyên đọc lại bài sau Bài 11.
