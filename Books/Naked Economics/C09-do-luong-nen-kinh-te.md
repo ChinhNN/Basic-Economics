@@ -1,11 +1,14 @@
 # Chương 9 — Đo lường nền kinh tế (Keeping Score: Is my economy bigger than your economy?)
 
-**Nguồn:** Charles Wheelan, *Naked Economics: Undressing the Dismal Science*, ấn bản sửa đổi và cập nhật (W. W. Norton, 2010), Chương 9.
-**Tác giả:** Charles Wheelan (sinh 1966), nhà kinh tế và nhà báo Mỹ, từng là phóng viên của *The Economist* ở Trung Tây nước Mỹ, giảng dạy chính sách công tại Đại học Chicago và Dartmouth.
-**Vị trí trong lập luận của cả cuốn sách:** Đây là chương mở đầu phần kinh tế vĩ mô của cuốn sách. Các chương trước nhìn từng người, từng doanh nghiệp, từng thị trường; Chương 8 vừa giải thích vì sao chính sách tốt hay thua trong chính trị. Chương 9 lùi ra xa để nhìn cả nền kinh tế: đo nó bằng gì (GDP và các chỉ số khác), vì sao nó lúc tiến lúc lùi (chu kỳ kinh doanh, cuộc Đại suy thoái 2007–2009), và chính phủ có hai công cụ nào để kéo nó ra khỏi suy thoái. Chương 10 sẽ đi sâu vào công cụ thứ hai, chính sách tiền tệ và Cục Dự trữ Liên bang (Fed); Chương 11 bàn tiếp về tài khoá công và nợ chính phủ mà chương này mới nêu sơ qua.
-**Ý chính:** Wheelan muốn người đọc biết đọc "bảng điểm" của một nền kinh tế. Chỉ số trung tâm là GDP thực tế bình quân đầu người: nó là thước đo khá tốt cho mức sống vì về dài hạn một nước chỉ tiêu dùng được những gì nó sản xuất ra, và nó cho thấy người Mỹ năm 2008 giàu gấp năm lần năm 1940 (đổi ra giờ làm việc: một con gà năm 1919 tốn 2 giờ 37 phút lao động, nay chưa tới 13 phút). Nhưng GDP bỏ sót việc nhà, môi trường, thời gian rảnh, phân phối thu nhập và hạnh phúc. Sau đó Wheelan giải thích suy thoái lây lan thế nào, từ khủng hoảng giá cà phê ở Trung Mỹ tới vụ Lehman Brothers sụp đổ năm 2008, vì sao chính sách tài khoá hay đến muộn còn chính sách tiền tệ thì bị "kẹt" ở lãi suất bằng 0, và kết bằng một danh sách các "dấu hiệu sinh tồn" của nền kinh tế: thất nghiệp, nghèo đói, bất bình đẳng, quy mô chính phủ, thâm hụt ngân sách, tài khoản vãng lai, tiết kiệm quốc gia và cơ cấu dân số.
+## Ý chính
 
-> **Lưu ý:** Chương được viết giữa cuộc Đại suy thoái (Great Recession), khoảng cuối 2009, nên các con số phản ánh thời điểm đó: thất nghiệp Mỹ vừa vượt 10%, Nikkei khoảng 10.000 điểm, nợ công Mỹ được dự báo lên 68% GDP vào năm 2019. Nhiều con số nay đã cũ: nợ công Mỹ thực tế tăng vượt xa dự báo đó; thất nghiệp Mỹ giảm dần trong thập niên 2010; Nikkei về sau đã vượt lại đỉnh năm 1989. Một vài chi tiết cần đọc thận trọng: (1) các con số GDP của Ấn Độ (3.300 tỷ USD, bình quân 2.900 USD), Israel và Trung Quốc (8.000 tỷ USD) có vẻ là GDP tính theo ngang giá sức mua (PPP), không phải theo tỷ giá thị trường; sách không nói rõ. (2) Sách ghi hệ số Gini của Mỹ là 36,5 năm 1980 và 37,9 năm 1950, tức năm 1950 cao hơn năm 1980; xu hướng "bất bình đẳng hơn" mà Wheelan nói là từ 1980 tới 2007 (45), và con số 45 có thể lấy từ nguồn khác với hai con số cũ. (3) Wheelan viết điện thoại di động rẻ hơn 98% so với "hai mươi năm trước", nhưng ở câu trước lại nói "gần ba thập kỷ sau" giữa thập niên 1980. (4) Câu ví von "đẩy sợi mì ướt" mà Wheelan gán cho Keynes thường được biết dưới dạng "đẩy một sợi dây" (pushing on a string). Chương này có một chú thích chân trang dấu `*` (về cách tính hệ số Gini bằng đường Lorenz), đã đưa vào mục bất bình đẳng. Các câu trích là bản dịch của người tổng hợp.
+Wheelan muốn người đọc biết đọc "bảng điểm" của một nền kinh tế.
+
+Chỉ số trung tâm là GDP thực tế bình quân đầu người: nó là thước đo khá tốt cho mức sống vì về dài hạn một nước chỉ tiêu dùng được những gì nó sản xuất ra, và nó cho thấy người Mỹ năm 2008 giàu gấp năm lần năm 1940 (đổi ra giờ làm việc: một con gà năm 1919 tốn 2 giờ 37 phút lao động, nay chưa tới 13 phút).
+
+Nhưng GDP bỏ sót việc nhà, môi trường, thời gian rảnh, phân phối thu nhập và hạnh phúc.
+
+Sau đó Wheelan giải thích suy thoái lây lan thế nào, từ khủng hoảng giá cà phê ở Trung Mỹ tới vụ Lehman Brothers sụp đổ năm 2008, vì sao chính sách tài khoá hay đến muộn còn chính sách tiền tệ thì bị "kẹt" ở lãi suất bằng 0, và kết bằng một danh sách các "dấu hiệu sinh tồn" của nền kinh tế: thất nghiệp, nghèo đói, bất bình đẳng, quy mô chính phủ, thâm hụt ngân sách, tài khoản vãng lai, tiết kiệm quốc gia và cơ cấu dân số.
 
 ## Sơ đồ
 
@@ -569,7 +572,9 @@ GDP chỉ là một con số tóm tắt một thực thể rất phức tạp, n
 
 **Chỉ số Phát triển Con người (HDI).** HDI của Liên Hợp Quốc kết hợp GDP với tuổi thọ, tỷ lệ biết chữ và trình độ học vấn. Trong báo cáo 2009, Na Uy đứng đầu, tiếp theo là Úc và Iceland; Mỹ xếp thứ 13. HDI hữu ích để đánh giá nước đang phát triển nhưng nói ít về nước giàu, nơi các chỉ tiêu này đều đã cao.
 
-**GDP và hạnh phúc.** Kinh tế học truyền thống mặc định giàu hơn là tốt hơn, vì có thêm nhiều thứ mình muốn. Khảo sát cho thấy khác: trong giai đoạn thu nhập thực tế tăng 1970–1999, tỷ lệ người Mỹ tự nhận "rất hạnh phúc" giảm từ 36% xuống 29%. David Blanchflower (Dartmouth) và Andrew Oswald (Warwick) ước tính một cuộc hôn nhân bền lâu đáng giá 100.000 USD mỗi năm, vì người có gia đình tự nhận hạnh phúc ngang người ly hôn (chưa tái hôn) có thu nhập cao hơn 100.000 USD. Các nghiên cứu dùng nhật ký hằng ngày cho thấy quan hệ thân mật đứng đầu danh sách trải nghiệm dễ chịu, còn đi làm buổi sáng đứng cuối. Theo hướng kinh tế học hành vi, các nghiên cứu này chỉ ra những lựa chọn tưởng làm người ta vui mà không phải vậy: quãng đường đi làm dài để đổi lấy nhà to hay lương cao có chi phí cơ hội lớn (mất thời gian gặp gỡ, tập thể dục, thư giãn); người ta nhanh chóng quen với đồ vật mới mua, còn niềm vui từ trải nghiệm bền hơn. *The Economist* tóm lại: chọn trải nghiệm hơn hàng hoá, làm hơn có.
+**GDP và hạnh phúc.** Kinh tế học truyền thống mặc định giàu hơn là tốt hơn, vì có thêm nhiều thứ mình muốn. Khảo sát cho thấy khác: trong giai đoạn thu nhập thực tế tăng 1970–1999, tỷ lệ người Mỹ tự nhận "rất hạnh phúc" giảm từ 36% xuống 29%. David Blanchflower (Dartmouth) và Andrew Oswald (Warwick) ước tính một cuộc hôn nhân bền lâu đáng giá 100.000 USD mỗi năm, vì người có gia đình tự nhận hạnh phúc ngang người ly hôn (chưa tái hôn) có thu nhập cao hơn 100.000 USD.
+
+Các nghiên cứu dùng nhật ký hằng ngày cho thấy quan hệ thân mật đứng đầu danh sách trải nghiệm dễ chịu, còn đi làm buổi sáng đứng cuối. Theo hướng kinh tế học hành vi, các nghiên cứu này chỉ ra những lựa chọn tưởng làm người ta vui mà không phải vậy: quãng đường đi làm dài để đổi lấy nhà to hay lương cao có chi phí cơ hội lớn (mất thời gian gặp gỡ, tập thể dục, thư giãn); người ta nhanh chóng quen với đồ vật mới mua, còn niềm vui từ trải nghiệm bền hơn. *The Economist* tóm lại: chọn trải nghiệm hơn hàng hoá, làm hơn có.
 
 **Các thước đo thay thế.** Nhiều người đề xuất thước đo rộng hơn GDP, nhưng mỗi đề xuất phản ánh một quan niệm riêng về tiến bộ:
 
@@ -603,9 +608,13 @@ Cuộc suy thoái bắt đầu năm 2007 (bùng thành khủng hoảng tài chí
 
 **Đòn bẩy quá mức.** Nhiều hộ gia đình đã vay nhiều hơn khả năng: cơn sốt nhà đất khuyến khích nhà to hơn, khoản vay lớn hơn, tiền trả trước nhỏ hơn, và cho vay thế chấp dưới chuẩn (subprime) mở đường cho người tín nhiệm kém vay, hoặc vay theo cách rủi ro như không cần trả trước. Khi giá nhà tăng, người không trả nổi có thể bán nhà trả nợ; khi bong bóng vỡ, họ vừa không trả được vừa không bán được. Hàng triệu căn nhà bị tịch biên, và việc bán tháo chúng đẩy giá nhà xuống thêm.
 
-**Hệ thống tài chính.** Vấn đề thế chấp lan sang khu vực tài chính qua hai đường. Ngân hàng ôm nhiều khoản vay xấu nên ngừng cho vay mới, kể cả với người vay tốt, làm thị trường nhà đất càng tệ. Các ngân hàng đầu tư và quỹ phòng hộ thì nắm nhiều chứng khoán phái sinh gắn với nhà đất (như chứng khoán bảo đảm bằng thế chấp), được mua bằng tiền vay và "bảo hiểm" bằng hợp đồng hoán đổi rủi ro tín dụng (CDS) mô tả ở Chương 7. Điểm nguy hiểm nhất là mùa thu 2008: Lehman Brothers không trả được nợ ngắn hạn, và Bộ Tài chính cùng Fed không thể hoặc không muốn cứu (dù đầu năm đó đã cứu Bear Stearns bằng cách sắp xếp để JPMorgan Chase mua lại). Một quan chức Bộ Tài chính mô tả với *The New Yorker* chuỗi hoảng loạn sau đó: Lehman phá sản kéo theo sự sụp đổ của quỹ thị trường tiền tệ Reserve; nhà đầu tư ồ ạt rút tiền khỏi các quỹ thị trường tiền tệ; các quỹ này ngừng mua thương phiếu (khoản vay ngắn hạn cho các tập đoàn như GE); thị trường thương phiếu bên bờ sụp đổ, và hệ thống ngân hàng về cơ bản ngừng hoạt động.
+**Hệ thống tài chính.** Vấn đề thế chấp lan sang khu vực tài chính qua hai đường. Ngân hàng ôm nhiều khoản vay xấu nên ngừng cho vay mới, kể cả với người vay tốt, làm thị trường nhà đất càng tệ. Các ngân hàng đầu tư và quỹ phòng hộ thì nắm nhiều chứng khoán phái sinh gắn với nhà đất (như chứng khoán bảo đảm bằng thế chấp), được mua bằng tiền vay và "bảo hiểm" bằng hợp đồng hoán đổi rủi ro tín dụng (CDS) mô tả ở Chương 7.
 
-Wheelan ghi lại mức độ hoảng sợ lúc đó qua vài chi tiết: một người bạn cùng phòng đại học, nay là CEO một công ty lớn, giấu 10.000 USD tiền mặt trong tủ; và theo bài của James Stewart trên *The New Yorker*, Timothy Geithner (khi đó là Chủ tịch Fed chi nhánh New York) dặn một lãnh đạo tài chính lớn đừng gọi cho ai khác vì giọng run của ông ta sẽ làm người nghe hoảng. Hệ quả kinh tế là không ai vay được, kể cả công ty khoẻ mạnh cần vay để mua hàng tồn kho, đó là lý do chính phủ phải chặn cơn hoảng loạn ở Phố Wall dù không ai thích các nhà ngân hàng đầu tư. Thiệt hại lan tới mọi ngóc ngách: năm 2009, đơn đặt trước bánh quy của Hội Nữ Hướng đạo (Girl Scout) giảm 19%; số phim người lớn sản xuất ở Nam California giảm từ 5.000–6.000 xuống 3.000–4.000 phim mỗi năm, kéo theo những người làm dịch vụ hỗ trợ cho khoảng 1.200 diễn viên ở thung lũng San Fernando.
+Điểm nguy hiểm nhất là mùa thu 2008: Lehman Brothers không trả được nợ ngắn hạn, và Bộ Tài chính cùng Fed không thể hoặc không muốn cứu (dù đầu năm đó đã cứu Bear Stearns bằng cách sắp xếp để JPMorgan Chase mua lại). Một quan chức Bộ Tài chính mô tả với *The New Yorker* chuỗi hoảng loạn sau đó: Lehman phá sản kéo theo sự sụp đổ của quỹ thị trường tiền tệ Reserve; nhà đầu tư ồ ạt rút tiền khỏi các quỹ thị trường tiền tệ; các quỹ này ngừng mua thương phiếu (khoản vay ngắn hạn cho các tập đoàn như GE); thị trường thương phiếu bên bờ sụp đổ, và hệ thống ngân hàng về cơ bản ngừng hoạt động.
+
+Wheelan ghi lại mức độ hoảng sợ lúc đó qua vài chi tiết: một người bạn cùng phòng đại học, nay là CEO một công ty lớn, giấu 10.000 USD tiền mặt trong tủ; và theo bài của James Stewart trên *The New Yorker*, Timothy Geithner (khi đó là Chủ tịch Fed chi nhánh New York) dặn một lãnh đạo tài chính lớn đừng gọi cho ai khác vì giọng run của ông ta sẽ làm người nghe hoảng.
+
+Hệ quả kinh tế là không ai vay được, kể cả công ty khoẻ mạnh cần vay để mua hàng tồn kho, đó là lý do chính phủ phải chặn cơn hoảng loạn ở Phố Wall dù không ai thích các nhà ngân hàng đầu tư. Thiệt hại lan tới mọi ngóc ngách: năm 2009, đơn đặt trước bánh quy của Hội Nữ Hướng đạo (Girl Scout) giảm 19%; số phim người lớn sản xuất ở Nam California giảm từ 5.000–6.000 xuống 3.000–4.000 phim mỗi năm, kéo theo những người làm dịch vụ hỗ trợ cho khoảng 1.200 diễn viên ở thung lũng San Fernando.
 
 **Lây qua biên giới.** Khi kinh tế Mỹ yếu, người Mỹ mua ít hàng nhập khẩu hơn, và các nước xuất khẩu lao đao; Mexico, nơi hơn 80% xuất khẩu sang Mỹ, bị ảnh hưởng ngay. Khác với cạnh tranh giữa doanh nghiệp, ở cấp quốc gia đối tác suy thoái không làm mình được lợi: thất nghiệp ở Nhật hay Đức tăng gấp đôi thì họ ngừng mua hàng của mình.
 
@@ -627,9 +636,13 @@ Vì chu kỳ kinh doanh gây thiệt hại thật cho con người, chính phủ
 
 Dùng tài khoá để "tinh chỉnh" nền kinh tế là tư tưởng trung tâm của John Maynard Keynes, và về lý thuyết hầu hết nhà kinh tế đồng ý. Vấn đề là chính sách tài khoá được làm ở Quốc hội, nên cần ba điều khó đạt cùng lúc: (1) Quốc hội và Tổng thống đồng ý một kế hoạch với liều lượng phù hợp; (2) thông qua kịp thời; (3) thuốc có tác dụng nhanh. Trong phần lớn các cuộc suy thoái sau chiến tranh, Quốc hội chỉ thông qua luật ứng phó khi suy thoái đã hết; tháng 5/1977 Quốc hội còn thông qua luật cho cuộc suy thoái kết thúc từ tháng 3/1975, và cuối cuộc suy thoái 2001–2002, *New York Times* đăng cùng lúc tin Chủ tịch Fed thấy suy giảm đã hết và tin Hạ viện thông qua dự luật phục hồi.
 
-**Gói kích thích của Obama.** Đạo luật 2009 được thông qua kịp thời nhưng phần lớn tiền không chi ngay (dù riêng việc công bố cũng có thể có tác dụng tâm lý). Người phê phán cho rằng gói này vung tiền vay vào nhiều dự án kém hiệu quả và làm nợ quốc gia tăng mạnh; người ủng hộ như Christina Romer ước tính gói 787 tỷ USD làm tăng trưởng GDP thực tế cao hơn 2 tới 3 điểm phần trăm và cứu khoảng 1 triệu việc làm. Wheelan, khi đó đang tranh cử vào Quốc hội, cho rằng cả hai phía đều đúng. Nền kinh tế mắc kẹt trong vòng phản hồi tiêu cực (tịch biên nhà gây khó cho ngân hàng, ngân hàng khó khăn gây sa thải, sa thải gây thêm tịch biên), chính sách tiền tệ đã hết tác dụng, nên theo ông kích thích dở vẫn hơn không kích thích. Ông muốn tiền được dồn nhiều hơn vào hạ tầng và vốn con người để nâng năng lực sản xuất dài hạn, và thừa nhận nợ chính phủ tăng là vấn đề (Chương 11), nhưng trước nguy cơ hoảng loạn lan rộng thì ngay cả trả tiền cho người ta đào hố rồi lấp lại cũng tốt hơn không làm gì.
+**Gói kích thích của Obama.** Đạo luật 2009 được thông qua kịp thời nhưng phần lớn tiền không chi ngay (dù riêng việc công bố cũng có thể có tác dụng tâm lý). Người phê phán cho rằng gói này vung tiền vay vào nhiều dự án kém hiệu quả và làm nợ quốc gia tăng mạnh; người ủng hộ như Christina Romer ước tính gói 787 tỷ USD làm tăng trưởng GDP thực tế cao hơn 2 tới 3 điểm phần trăm và cứu khoảng 1 triệu việc làm.
 
-**Chính sách tiền tệ** nhanh hơn nhiều: Chủ tịch Fed có thể tăng hoặc giảm lãi suất ngắn hạn bằng một cuộc điện thoại, không phải mặc cả với Quốc hội. Vì vậy các nhà kinh tế nay đồng thuận rằng chu kỳ kinh doanh bình thường nên được quản lý chủ yếu bằng chính sách tiền tệ (Chương 10). Lãi suất thấp làm việc mua nhà, xe, đồ đắt tiền và đầu tư nhà máy, máy móc rẻ hơn. Nhưng trong giai đoạn tồi tệ nhất của cuộc Đại suy thoái, Fed đã đưa lãi suất ngắn hạn về gần 0 mà người tiêu dùng và doanh nghiệp vẫn không muốn vay (còn ngân hàng yếu thì không cho vay được); chính sách tiền tệ khi đó, theo hình ảnh Wheelan dẫn từ Keynes, giống "đẩy một sợi mì ướt". Đây là lý do kinh tế để thêm kích thích tài khoá.
+Wheelan, khi đó đang tranh cử vào Quốc hội, cho rằng cả hai phía đều đúng. Nền kinh tế mắc kẹt trong vòng phản hồi tiêu cực (tịch biên nhà gây khó cho ngân hàng, ngân hàng khó khăn gây sa thải, sa thải gây thêm tịch biên), chính sách tiền tệ đã hết tác dụng, nên theo ông kích thích dở vẫn hơn không kích thích. Ông muốn tiền được dồn nhiều hơn vào hạ tầng và vốn con người để nâng năng lực sản xuất dài hạn, và thừa nhận nợ chính phủ tăng là vấn đề (Chương 11), nhưng trước nguy cơ hoảng loạn lan rộng thì ngay cả trả tiền cho người ta đào hố rồi lấp lại cũng tốt hơn không làm gì.
+
+**Chính sách tiền tệ** nhanh hơn nhiều: Chủ tịch Fed có thể tăng hoặc giảm lãi suất ngắn hạn bằng một cuộc điện thoại, không phải mặc cả với Quốc hội. Vì vậy các nhà kinh tế nay đồng thuận rằng chu kỳ kinh doanh bình thường nên được quản lý chủ yếu bằng chính sách tiền tệ (Chương 10). Lãi suất thấp làm việc mua nhà, xe, đồ đắt tiền và đầu tư nhà máy, máy móc rẻ hơn.
+
+Nhưng trong giai đoạn tồi tệ nhất của cuộc Đại suy thoái, Fed đã đưa lãi suất ngắn hạn về gần 0 mà người tiêu dùng và doanh nghiệp vẫn không muốn vay (còn ngân hàng yếu thì không cho vay được); chính sách tiền tệ khi đó, theo hình ảnh Wheelan dẫn từ Keynes, giống "đẩy một sợi mì ướt". Đây là lý do kinh tế để thêm kích thích tài khoá.
 
 ### 9. Các dấu hiệu sinh tồn của nền kinh tế
 
@@ -687,7 +700,11 @@ Tỷ lệ của Mỹ đang tăng vì gói kích thích đẩy chi tiêu lên (t�
 - Thâm hụt phải được bù bằng vay (ở Mỹ là phát hành trái phiếu kho bạc), và nợ quốc gia là thâm hụt cộng dồn. Từ khoảng năm 2001, Mỹ liên tục thâm hụt; nợ quốc gia tăng từ 33% GDP năm 2001 tới mức dự báo 68% GDP năm 2019. Nợ đủ lớn thì nhà đầu tư có thể ngần ngại cho vay thêm.
 - Vốn trên thế giới có hạn, nên chính phủ vay nhiều có thể "chèn lấn" đầu tư tư nhân bằng cách đẩy lãi suất thực tế lên. Khi thâm hụt lớn của Mỹ tạm biến mất trong thập niên 1990, lãi suất thực tế dài hạn giảm, làm mọi người đi vay đều được lợi.
 
-**Thặng dư / thâm hụt tài khoản vãng lai (Current account surplus/deficit).** Tài khoản vãng lai phản ánh chênh lệch giữa thu nhập một nước kiếm từ phần còn lại của thế giới và thu nhập thế giới kiếm từ nước đó; thành phần lớn nhất là cán cân thương mại (ngoài ra còn cổ tức từ cổ phiếu nước ngoài, kiều hối và các thu nhập khác từ nước ngoài). Mỹ thâm hụt vãng lai khoảng 700 tỷ USD năm 2008. Một nước xuất 50 tỷ USD mà nhập 100 tỷ USD phải trả 50 tỷ chênh lệch bằng tiền tiết kiệm, đi vay, hoặc bán tài sản như cổ phiếu, trái phiếu; nói cách khác, cả nước đang tiêu dùng nhiều hơn sản xuất. Thâm hụt tốt hay xấu tuỳ tiền được dùng vào đâu. Trong thế kỷ đầu tiên, Mỹ thâm hụt lớn để nhập hàng hoá xây dựng năng lực công nghiệp, đó là điều tốt, và vốn đổ vào nước có triển vọng tăng trưởng có thể là dấu hiệu sức mạnh. Nếu chỉ nhập để tiêu dùng mà không nâng sản lượng tương lai thì giống tiêu hết 100.000 USD vay học phí mà không lấy được bằng: vẫn phải trả gốc và lãi, và cách duy nhất là cắt tiêu dùng sau này. Thâm hụt vãng lai lớn không nhất thiết dẫn tới khủng hoảng, nhưng nước gặp khủng hoảng tài chính thường đang thâm hụt vãng lai lớn.
+**Thặng dư / thâm hụt tài khoản vãng lai (Current account surplus/deficit).** Tài khoản vãng lai phản ánh chênh lệch giữa thu nhập một nước kiếm từ phần còn lại của thế giới và thu nhập thế giới kiếm từ nước đó; thành phần lớn nhất là cán cân thương mại (ngoài ra còn cổ tức từ cổ phiếu nước ngoài, kiều hối và các thu nhập khác từ nước ngoài). Mỹ thâm hụt vãng lai khoảng 700 tỷ USD năm 2008.
+
+Một nước xuất 50 tỷ USD mà nhập 100 tỷ USD phải trả 50 tỷ chênh lệch bằng tiền tiết kiệm, đi vay, hoặc bán tài sản như cổ phiếu, trái phiếu; nói cách khác, cả nước đang tiêu dùng nhiều hơn sản xuất.
+
+Thâm hụt tốt hay xấu tuỳ tiền được dùng vào đâu. Trong thế kỷ đầu tiên, Mỹ thâm hụt lớn để nhập hàng hoá xây dựng năng lực công nghiệp, đó là điều tốt, và vốn đổ vào nước có triển vọng tăng trưởng có thể là dấu hiệu sức mạnh. Nếu chỉ nhập để tiêu dùng mà không nâng sản lượng tương lai thì giống tiêu hết 100.000 USD vay học phí mà không lấy được bằng: vẫn phải trả gốc và lãi, và cách duy nhất là cắt tiêu dùng sau này. Thâm hụt vãng lai lớn không nhất thiết dẫn tới khủng hoảng, nhưng nước gặp khủng hoảng tài chính thường đang thâm hụt vãng lai lớn.
 
 **Tiết kiệm quốc gia (National savings).** Tiết kiệm của hộ gia đình, của doanh nghiệp (lợi nhuận giữ lại) và của chính phủ (thặng dư hay thâm hụt) là nguồn tài trợ cho đầu tư, và đầu tư làm xã hội năng suất hơn: 10% thu nhập một người gửi ngân hàng sẽ được dùng ở đâu đó để xây nhà máy hay trả học phí. Nếu cả nước không tiết kiệm thì phải bỏ bớt đầu tư hoặc vay nước ngoài, với điều kiện nhà đầu tư nước ngoài sẵn lòng cho vay với lãi suất hợp lý. Qua thời gian, tỷ lệ đầu tư của các nước tương quan rõ với tỷ lệ tiết kiệm trong nước.
 
@@ -701,7 +718,9 @@ Tỷ lệ của Mỹ đang tăng vì gói kích thích đẩy chi tiêu lên (t�
 
 Chính phủ liên bang và các bang đều thâm hụt, tức "tiết kiệm âm"; doanh nghiệp Mỹ là bên duy nhất còn tiết kiệm cho tới khi suy thoái khiến hộ gia đình tiết kiệm trở lại. Mỹ đã vay nước ngoài để tài trợ đầu tư, nhưng vay thì phải chia một phần lợi suất đầu tư cho người cho vay, và nước phụ thuộc nhiều vào vốn nước ngoài luôn đối mặt nguy cơ nhà đầu tư quốc tế hoảng sợ rút vốn khi có khó khăn.
 
-**Cơ cấu dân số (Demographics).** Người Mỹ đang già đi; Paul Krugman nhận xét cơ cấu tuổi của cả nước Mỹ rồi sẽ giống bang Florida (nơi nhiều người về hưu sinh sống). Điều này đe doạ tài chính công vì Social Security (hưu trí) và Medicare (bảo hiểm y tế cho người già) được trả bằng thuế lương của người đang đi làm. Social Security là chương trình "thu tới đâu chi tới đó" (pay-as-you-go): khoản khấu trừ FICA trên phiếu lương không được đầu tư để người đóng rút ra 20–30 năm sau, mà dùng ngay để trả cho người đang hưởng hưu. Wheelan ví chương trình với một mô hình kim tự tháp: nó chạy được chừng nào còn đủ người đi làm ở đáy để trả cho người hưu ở đỉnh. Người Mỹ sinh ít con hơn và sống lâu hơn, nên điều kiện đó đang mất dần:
+**Cơ cấu dân số (Demographics).** Người Mỹ đang già đi; Paul Krugman nhận xét cơ cấu tuổi của cả nước Mỹ rồi sẽ giống bang Florida (nơi nhiều người về hưu sinh sống). Điều này đe doạ tài chính công vì Social Security (hưu trí) và Medicare (bảo hiểm y tế cho người già) được trả bằng thuế lương của người đang đi làm.
+
+Social Security là chương trình "thu tới đâu chi tới đó" (pay-as-you-go): khoản khấu trừ FICA trên phiếu lương không được đầu tư để người đóng rút ra 20–30 năm sau, mà dùng ngay để trả cho người đang hưởng hưu. Wheelan ví chương trình với một mô hình kim tự tháp: nó chạy được chừng nào còn đủ người đi làm ở đáy để trả cho người hưu ở đỉnh. Người Mỹ sinh ít con hơn và sống lâu hơn, nên điều kiện đó đang mất dần:
 
 | Năm | Số người đi làm trên một người hưu trí |
 |---|---|
@@ -719,7 +738,9 @@ Câu hỏi cuối cùng là nhà hoạch định chính sách có giỏi hơn tr
 
 Bài học từ Đại khủng hoảng cũng giúp chính sách lần này: Chủ tịch Fed Ben Bernanke (cựu giáo sư Princeton) và Chủ tịch Hội đồng Cố vấn Kinh tế Christina Romer (cựu giáo sư UC Berkeley) đều là học giả nghiên cứu Đại khủng hoảng. Wheelan dự đoán các nhà kinh tế sẽ còn tranh cãi 50 năm nữa về phản ứng chính sách, nhưng cho rằng ngay cả người phê phán gay gắt nhất cũng phải thừa nhận giới chức cuối thời Bush và đầu thời Obama đã tránh được sai lầm của thập niên 1930, khi Fed tăng lãi suất và Quốc hội tăng thuế giữa khủng hoảng. Ông đoán lịch sử sẽ đánh giá họ còn tốt hơn thế.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Áp dụng cách đo của Fed Dallas cho một gia đình bất kỳ: giả sử mười lăm năm trước một chiếc điện thoại thông minh tầm trung giá 6 triệu đồng khi lương của một nhân viên văn phòng là 25.000 đồng/giờ, tức 240 giờ làm việc; nay một máy tương đương (mạnh hơn nhiều) giá 5 triệu đồng khi lương là 100.000 đồng/giờ, tức 50 giờ. Tính bằng tiền, giá gần như không đổi; tính bằng thời gian lao động, giá giảm gần 80%. Ngược lại, nếu một căn hộ trước kia tốn 10 năm lương mà nay tốn 25 năm lương, thì dù GDP bình quân đầu người tăng, với người mua nhà lần đầu cuộc sống có thể đã khó hơn ở mặt này. Cách đo bằng giờ làm việc vì thế vừa cho thấy tiến bộ của năng suất, vừa chỉ ra chỗ nào mức sống thực sự chưa đi lên.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Áp dụng cách đo của Fed Dallas cho một gia đình bất kỳ: giả sử mười lăm năm trước một chiếc điện thoại thông minh tầm trung giá 6 triệu đồng khi lương của một nhân viên văn phòng là 25.000 đồng/giờ, tức 240 giờ làm việc; nay một máy tương đương (mạnh hơn nhiều) giá 5 triệu đồng khi lương là 100.000 đồng/giờ, tức 50 giờ. Tính bằng tiền, giá gần như không đổi; tính bằng thời gian lao động, giá giảm gần 80%.
+
+Ngược lại, nếu một căn hộ trước kia tốn 10 năm lương mà nay tốn 25 năm lương, thì dù GDP bình quân đầu người tăng, với người mua nhà lần đầu cuộc sống có thể đã khó hơn ở mặt này. Cách đo bằng giờ làm việc vì thế vừa cho thấy tiến bộ của năng suất, vừa chỉ ra chỗ nào mức sống thực sự chưa đi lên.
 
 ## Luận điểm kinh tế cốt lõi
 
@@ -836,7 +857,9 @@ Mức "3% tăng trưởng thì thất nghiệp đứng yên" phản ánh tốc �
 
 ### Lịch sử sau 2010 xác nhận phần lớn nhận định, nhưng đặt ra câu hỏi mới về nợ công
 
-Wheelan đoán lịch sử sẽ đánh giá tốt phản ứng chính sách 2008–2009; nhìn chung đánh giá của giới kinh tế học sau đó nghiêng về hướng ấy (tránh được một cuộc Đại khủng hoảng thứ hai), dù tranh cãi về quy mô gói kích thích (có người cho là quá nhỏ, có người cho là lãng phí) vẫn tiếp tục. Đại dịch năm 2020 là một lần thử nữa của cả hai công cụ, với gói tài khoá lớn hơn nhiều và lãi suất lại về 0. Nhưng con số nợ công 68% GDP năm 2019 mà sách lo ngại hoá ra thấp xa so với thực tế, và thời kỳ lạm phát cao đầu thập niên 2020 nhắc rằng kích thích quá mức cũng có cái giá của nó. Câu hỏi "khi nào nợ trở nên quá lớn" mà Wheelan chỉ nêu qua nay là một trong những tranh luận lớn nhất của kinh tế vĩ mô.
+Wheelan đoán lịch sử sẽ đánh giá tốt phản ứng chính sách 2008–2009; nhìn chung đánh giá của giới kinh tế học sau đó nghiêng về hướng ấy (tránh được một cuộc Đại khủng hoảng thứ hai), dù tranh cãi về quy mô gói kích thích (có người cho là quá nhỏ, có người cho là lãng phí) vẫn tiếp tục. Đại dịch năm 2020 là một lần thử nữa của cả hai công cụ, với gói tài khoá lớn hơn nhiều và lãi suất lại về 0.
+
+Nhưng con số nợ công 68% GDP năm 2019 mà sách lo ngại hoá ra thấp xa so với thực tế, và thời kỳ lạm phát cao đầu thập niên 2020 nhắc rằng kích thích quá mức cũng có cái giá của nó. Câu hỏi "khi nào nợ trở nên quá lớn" mà Wheelan chỉ nêu qua nay là một trong những tranh luận lớn nhất của kinh tế vĩ mô.
 
 ### Quan điểm trái chiều về suy thoái và kích thích
 
@@ -847,4 +870,174 @@ Wheelan dung hoà hai quan điểm: suy thoái có thể "làm sạch" nền kin
 - **Trong doanh nghiệp.** Kế hoạch kinh doanh nên được kiểm tra theo chu kỳ: nếu doanh thu của bạn phụ thuộc vào chi tiêu cho hàng đắt tiền (nhà, xe, nội thất, quảng cáo), nó sẽ giảm mạnh hơn GDP khi suy thoái tới, đúng như ví dụ "tôi hoãn mua xe, bạn mất việc". Đòn bẩy là thứ biến một cú sốc thành khủng hoảng: doanh nghiệp vay quá nhiều khi tài sản đang tăng giá sẽ gặp đúng vòng xoáy của các hộ gia đình Mỹ năm 2008 (không trả được, không bán được). Giữ một lượng tiền mặt và hạn mức tín dụng dự phòng là bảo hiểm cho giai đoạn tín dụng đóng băng.
 - **Trong đầu tư.** Phân biệt tăng trưởng danh nghĩa với thực tế khi đọc báo cáo của doanh nghiệp và của quốc gia: doanh thu tăng 10% khi lạm phát 8% chỉ là tăng trưởng thực khoảng 2%. Theo dõi các chỉ báo Wheelan liệt kê, nhất là tài khoản vãng lai, nợ công và tỷ lệ tiết kiệm, vì một nền kinh tế phụ thuộc vốn nước ngoài dễ bị rút vốn đột ngột khi nhà đầu tư quốc tế hoảng sợ. Và nhớ rằng ở cấp toàn cầu, suy thoái của nước bạn hàng lớn là tin xấu cho doanh nghiệp xuất khẩu, không phải cơ hội.
 - **Trong nghề nghiệp.** Quy luật Okun nhắc rằng thị trường lao động đi theo tăng trưởng: kỹ năng gắn với ngành chu kỳ (xây dựng, bất động sản, tài chính) chịu rủi ro lớn hơn. Nghiên cứu về hạnh phúc trong chương cũng có giá trị thực tế: một công việc lương cao hơn nhưng phải đi lại xa mỗi ngày có chi phí cơ hội (thời gian, sức khoẻ, quan hệ) thường bị đánh giá thấp.
-- **Khi đọc tin chính sách.** Ở Việt Nam, khi đọc tin tăng trưởng GDP, nên hỏi thêm: là tăng trưởng thực tế hay danh nghĩa, bình quân đầu người tăng bao nhiêu, tăng trưởng đó có kèm chi phí môi trường không (như logic "GDP xanh"), và phân phối ra sao. Với một nền kinh tế mở, phụ thuộc nhiều vào xuất khẩu như Việt Nam, kênh lây lan qua thương mại mà Wheelan mô tả (Mỹ suy thoái thì Mexico lao đao) là kênh cần theo dõi đầu tiên. Và với một dân số đang già đi, logic cái bập bênh của hệ thống hưu trí "thu tới đâu chi tới đó" giúp hiểu vì sao các tranh luận về tuổi nghỉ hưu, mức đóng và mức hưởng bảo hiểm xã hội sẽ ngày càng quan trọng, và vì sao chúng khó về chính trị như Chương 8 đã giải thích.
+- **Khi đọc tin chính sách.** Ở Việt Nam, khi đọc tin tăng trưởng GDP, nên hỏi thêm: là tăng trưởng thực tế hay danh nghĩa, bình quân đầu người tăng bao nhiêu, tăng trưởng đó có kèm chi phí môi trường không (như logic "GDP xanh"), và phân phối ra sao.
+
+  Với một nền kinh tế mở, phụ thuộc nhiều vào xuất khẩu như Việt Nam, kênh lây lan qua thương mại mà Wheelan mô tả (Mỹ suy thoái thì Mexico lao đao) là kênh cần theo dõi đầu tiên. Và với một dân số đang già đi, logic cái bập bênh của hệ thống hưu trí "thu tới đâu chi tới đó" giúp hiểu vì sao các tranh luận về tuổi nghỉ hưu, mức đóng và mức hưởng bảo hiểm xã hội sẽ ngày càng quan trọng, và vì sao chúng khó về chính trị như Chương 8 đã giải thích.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 9 trên một trang: năm nhánh lớn đi theo các mục 1–10 của phần Nội dung chi tiết (GDP đo mức sống và giá tính bằng giờ làm việc, những gì GDP bỏ sót, suy thoái và các kênh lây lan, hai công cụ chống suy thoái cùng bài học Đại khủng hoảng, các dấu hiệu sinh tồn của nền kinh tế), mỗi nhánh ghi định nghĩa, cơ chế và con số then chốt của Wheelan; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 9: GDP thực tế bình quân đầu người là bảng điểm khá tốt của mức sống, nhưng nền kinh tế lúc tiến lúc lùi`"]
+  n1["`Mục 1–3 — GDP đo mức sống và người Mỹ giàu tới đâu`"]
+  n0 --- n1
+  n2["`Chuyện cười Quayle báo giá bánh mì 240 yên: Nikkei đỉnh 38.916, nay chỉ hơn 10.000`"]
+  n1 --- n2
+  n3["`GDP là tổng giá trị hàng hoá và dịch vụ một nền kinh tế sản xuất ra`"]
+  n1 --- n3
+  n4["`Về dài hạn một nước chỉ tiêu dùng được những gì nó sản xuất hoặc đem đổi`"]
+  n1 --- n4
+  n5["`Dùng GDP thực tế: GDP danh nghĩa tăng 10% mà lạm phát 10% thì không sản xuất thêm gì`"]
+  n1 --- n5
+  n6["`Dùng GDP bình quân đầu người: Israel 28.300 USD, Ấn Độ 2.900 USD dù GDP Ấn Độ lớn hơn`"]
+  n1 --- n6
+  n7["`GDP Mỹ khoảng 14.000 tỷ USD, bình quân 47.000 USD năm 2008, gấp 5 lần năm 1940`"]
+  n1 --- n7
+  n8["`Nguồn gốc là năng suất: Fed Dallas đo giá bằng số giờ làm việc`"]
+  n1 --- n8
+  n9["`Con gà: 2 giờ 37 phút năm 1919, chưa tới 13 phút năm 2009`"]
+  n8 --- n9
+  n10["`Điện thoại di động: 456 giờ giữa thập niên 1980, nay khoảng 9 giờ`"]
+  n8 --- n10
+  n11["`Châu Âu năm 500–1500 tăng trưởng gần bằng 0, mức sống tăng bền vững chỉ mới vài thế kỷ`"]
+  n1 --- n11
+  n12["`Ấn Độ hơn 100.000 ca bệnh phong, chữa được bằng liều kháng sinh 3 USD`"]
+  n1 --- n12
+  n13["`Mục 4 — Những gì GDP bỏ sót`"]
+  n0 --- n13
+  n14["`Không tính việc nhà không trả tiền, nhưng tính đồ ăn mua ngoài và nhà trẻ`"]
+  n13 --- n14
+  n15["`Không trừ suy thoái môi trường: giấy được cộng, khu rừng mất không bị trừ`"]
+  n13 --- n15
+  n16["`GDP xanh của Trung Quốc: tăng 10% năm 2004 chỉ còn gần 7% sau 64 tỷ USD chi phí ô nhiễm`"]
+  n15 --- n16
+  n17["`Không phán xét giá trị: xây nhà tù, dọn dẹp thiên tai đều làm GDP tăng`"]
+  n13 --- n17
+  n18["`Không tính thời gian rảnh và phân phối thu nhập`"]
+  n13 --- n18
+  n19["`HDI cộng tuổi thọ, biết chữ, học vấn: Na Uy hạng 1, Mỹ hạng 13 năm 2009`"]
+  n13 --- n19
+  n20["`1970–1999 thu nhập tăng nhưng người Mỹ #quot;rất hạnh phúc#quot; giảm từ 36% xuống 29%`"]
+  n13 --- n20
+  n21["`Hôn nhân bền lâu đáng giá 100.000 USD mỗi năm, đi làm buổi sáng đứng cuối bảng dễ chịu`"]
+  n20 --- n21
+  n22["`Nên chi cho trải nghiệm hơn đồ vật, vì người ta nhanh quen với đồ mới mua`"]
+  n20 --- n22
+  n23["`Mọi thước đo tiến bộ phụ thuộc định nghĩa tiến bộ, GDP vẫn có giá trị vì GDP giảm thì thiệt hại là thật`"]
+  n13 --- n23
+  n24["`Mục 5–7 — Suy thoái: cú sốc, các kênh lây lan và phục hồi`"]
+  n0 --- n24
+  n25["`Suy thoái như chiến tranh: ngăn được thì đã ngăn, mỗi cuộc khác cuộc trước`"]
+  n24 --- n25
+  n26["`Cú sốc: bong bóng vỡ (1929, 1989, 2007), giá dầu (1973), Fed hãm nền kinh tế quá nóng`"]
+  n24 --- n26
+  n27["`Giá cà phê rơi từ 150 xuống 50 USD mỗi 100 pound làm cả Trung Mỹ lao đao`"]
+  n24 --- n27
+  n28["`Tài sản hộ gia đình Mỹ giảm 17% năm 2008, gấp 5 lần mức giảm năm 1929`"]
+  n24 --- n28
+  n29["`Kênh niềm tin: thắt chặt chi tiêu hợp lý với từng người nhưng làm tình hình chung tệ hơn`"]
+  n24 --- n29
+  n30["`Tôi hoãn mua xe làm bạn mất việc, rồi điều đó quay lại hại tôi`"]
+  n29 --- n30
+  n31["`Kênh đòn bẩy: vay dưới chuẩn, không trả nổi cũng không bán được, nhà tịch biên bán tháo`"]
+  n24 --- n31
+  n32["`Kênh tài chính: Lehman phá sản kéo sập quỹ Reserve, thương phiếu đóng băng`"]
+  n24 --- n32
+  n33["`Tín dụng đóng băng làm cả công ty khoẻ cũng không vay được để mua hàng tồn kho`"]
+  n32 --- n33
+  n34["`Kênh biên giới: quý 4/2008 GDP Mỹ giảm 5,4%, Nhật 12%, Singapore 16%`"]
+  n24 --- n34
+  n35["`Phục hồi cần các mất cân đối gốc tự điều chỉnh, suy thoái loại bỏ hoạt động kém năng suất`"]
+  n24 --- n35
+  n36["`Mục 8 và 10 — Hai công cụ chống suy thoái và bài học Đại khủng hoảng`"]
+  n0 --- n36
+  n37["`Mục tiêu chung: khiến người dân và doanh nghiệp chi tiêu, đầu tư trở lại`"]
+  n36 --- n37
+  n38["`Tài khoá (thuế, chi tiêu) là ý tưởng của Keynes nhưng phải qua Quốc hội`"]
+  n36 --- n38
+  n39["`Ba điều kiện: đúng liều, kịp thời, tác dụng nhanh, khả năng đạt cả ba là thấp`"]
+  n38 --- n39
+  n40["`Năm 1977 Quốc hội còn ra luật cho cuộc suy thoái đã hết từ năm 1975`"]
+  n38 --- n40
+  n41["`Gói Obama 787 tỷ USD: Romer ước tăng GDP 2–3 điểm phần trăm, cứu khoảng 1 triệu việc làm`"]
+  n36 --- n41
+  n42["`Wheelan: kích thích dở còn hơn không kích thích, kể cả đào hố rồi lấp lại`"]
+  n41 --- n42
+  n43["`Tiền tệ nhanh: Chủ tịch Fed đổi lãi suất bằng một cuộc điện thoại`"]
+  n36 --- n43
+  n44["`Lãi suất gần 0 năm 2008–2009 mà vẫn không ai vay: #quot;đẩy một sợi mì ướt#quot;`"]
+  n43 --- n44
+  n45["`Đại khủng hoảng 1929–1933: GDP thực tế giảm 30%, thất nghiệp từ 3% lên 25%`"]
+  n36 --- n45
+  n46["`Lần này tránh được sai lầm thập niên 1930 là Fed tăng lãi suất, Quốc hội tăng thuế`"]
+  n36 --- n46
+  n47["`Mục 9 — Các dấu hiệu sinh tồn của nền kinh tế`"]
+  n0 --- n47
+  n48["`Thất nghiệp chỉ tính người muốn làm, lao động nản lòng bị bỏ ra nên con số đánh giá thấp`"]
+  n47 --- n48
+  n49["`Quy luật Okun: GDP tăng 3% thì thất nghiệp đứng yên, lệch 1 điểm thì thất nghiệp đổi 0,5 điểm`"]
+  n48 --- n49
+  n50["`Nghèo khoảng 13%, gần 35% trẻ em da đen, người già từ 30% xuống dưới 10% nhờ Social Security`"]
+  n47 --- n50
+  n51["`Gini năm 2007: Thuỵ Điển 23, Pháp 28, Mỹ 45, Brazil 57`"]
+  n47 --- n51
+  n52["`Chi tiêu chính phủ / GDP: Mỹ khoảng 30%, Anh 40%, Pháp và Thuỵ Điển hơn 50%`"]
+  n47 --- n52
+  n53["`Ngân sách chỉ cần cân bằng dài hạn, Hoover cân bằng ngân sách giữa Đại khủng hoảng là sai lầm`"]
+  n47 --- n53
+  n54["`Nợ Mỹ từ 33% GDP năm 2001, dự báo 68% năm 2019, thâm hụt lớn chèn lấn đầu tư tư nhân`"]
+  n53 --- n54
+  n55["`Thâm hụt vãng lai Mỹ khoảng 700 tỷ USD năm 2008, tốt hay xấu tuỳ tiền vay để đầu tư hay tiêu dùng`"]
+  n47 --- n55
+  n56["`Tiết kiệm cá nhân Mỹ từ hơn 9% thập niên 1960–1970 xuống khoảng 0 cuối thập niên 1990`"]
+  n47 --- n56
+  n57["`Social Security thu tới đâu chi tới đó: 5 người đi làm trên một người hưu năm 1960, 2 vào năm 2032`"]
+  n47 --- n57
+  n58["`Thông điệp xuyên suốt`"]
+  n0 --- n58
+  n59["`Trước mỗi con số tăng trưởng, hỏi là thực tế hay danh nghĩa và bình quân đầu người ra sao`"]
+  n58 --- n59
+  n60["`Con số kinh tế chỉ có nghĩa khi đổi được ra đời sống, như giá con gà tính bằng phút`"]
+  n58 --- n60
+  n61["`Chu kỳ chưa biến mất nhưng các cú xóc đã nhỏ hơn`"]
+  n58 --- n61
+  n62["`Giải pháp kinh tế thường đơn giản, khó khăn nằm ở chính trị`"]
+  n58 --- n62
+  class n0 root
+  class n1,n13,n24,n36,n47,n58 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n25,n26,n27,n28,n29,n30,n31,n32,n33,n34,n35,n37,n38,n39,n40,n41,n42,n43,n44,n45,n46,n48,n49,n50,n51,n52,n53,n54,n55,n56,n57,n59,n60,n61,n62 leaf
+```
+
+## Nguồn
+
+Charles Wheelan, *Naked Economics: Undressing the Dismal Science*, ấn bản sửa đổi và cập nhật (W. W. Norton, 2010), Chương 9.
+
+## Tác giả
+
+Charles Wheelan (sinh 1966), nhà kinh tế và nhà báo Mỹ, từng là phóng viên của *The Economist* ở Trung Tây nước Mỹ, giảng dạy chính sách công tại Đại học Chicago và Dartmouth.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Đây là chương mở đầu phần kinh tế vĩ mô của cuốn sách. Các chương trước nhìn từng người, từng doanh nghiệp, từng thị trường; Chương 8 vừa giải thích vì sao chính sách tốt hay thua trong chính trị.
+
+Chương 9 lùi ra xa để nhìn cả nền kinh tế: đo nó bằng gì (GDP và các chỉ số khác), vì sao nó lúc tiến lúc lùi (chu kỳ kinh doanh, cuộc Đại suy thoái 2007–2009), và chính phủ có hai công cụ nào để kéo nó ra khỏi suy thoái.
+
+Chương 10 sẽ đi sâu vào công cụ thứ hai, chính sách tiền tệ và Cục Dự trữ Liên bang (Fed); Chương 11 bàn tiếp về tài khoá công và nợ chính phủ mà chương này mới nêu sơ qua.
+
+## Lưu ý
+
+- Chương được viết giữa cuộc Đại suy thoái (Great Recession), khoảng cuối 2009, nên các con số phản ánh thời điểm đó: thất nghiệp Mỹ vừa vượt 10%, Nikkei khoảng 10.000 điểm, nợ công Mỹ được dự báo lên 68% GDP vào năm 2019.
+- Nhiều con số nay đã cũ: nợ công Mỹ thực tế tăng vượt xa dự báo đó; thất nghiệp Mỹ giảm dần trong thập niên 2010; Nikkei về sau đã vượt lại đỉnh năm 1989.
+- Một vài chi tiết cần đọc thận trọng:
+  - Các con số GDP của Ấn Độ (3.300 tỷ USD, bình quân 2.900 USD), Israel và Trung Quốc (8.000 tỷ USD) có vẻ là GDP tính theo ngang giá sức mua (PPP), không phải theo tỷ giá thị trường; sách không nói rõ.
+  - Sách ghi hệ số Gini của Mỹ là 36,5 năm 1980 và 37,9 năm 1950, tức năm 1950 cao hơn năm 1980; xu hướng "bất bình đẳng hơn" mà Wheelan nói là từ 1980 tới 2007 (45), và con số 45 có thể lấy từ nguồn khác với hai con số cũ.
+  - Wheelan viết điện thoại di động rẻ hơn 98% so với "hai mươi năm trước", nhưng ở câu trước lại nói "gần ba thập kỷ sau" giữa thập niên 1980.
+  - Câu ví von "đẩy sợi mì ướt" mà Wheelan gán cho Keynes thường được biết dưới dạng "đẩy một sợi dây" (pushing on a string).
+- Chương này có một chú thích chân trang dấu `*` (về cách tính hệ số Gini bằng đường Lorenz), đã đưa vào mục bất bình đẳng.
+- Các câu trích là bản dịch của người tổng hợp.

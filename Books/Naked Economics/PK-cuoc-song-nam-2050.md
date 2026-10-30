@@ -1,11 +1,22 @@
 # Phần kết — Cuộc sống năm 2050: bảy câu hỏi (Epilogue: Life in 2050: Seven Questions)
 
-**Nguồn:** Charles Wheelan, *Naked Economics: Undressing the Dismal Science*, ấn bản sửa đổi và cập nhật (W. W. Norton, 2010), Phần kết (Epilogue).
-**Tác giả:** Charles Wheelan (sinh 1966), nhà kinh tế và nhà báo Mỹ, từng là phóng viên của *The Economist* ở Trung Tây nước Mỹ, giảng dạy chính sách công tại Đại học Chicago và Dartmouth.
-**Vị trí trong lập luận của cả cuốn sách:** Mười ba chương trước đã trao cho người đọc các công cụ: thị trường và động cơ khuyến khích (Chương 1–2), vai trò chính phủ (3–4), thông tin và vốn con người (5–6), thị trường tài chính (7), nhóm lợi ích (8), kinh tế vĩ mô, Fed và tiền (9–10), kinh tế quốc tế, thương mại và phát triển (11–13). Phần kết không thêm công cụ mới mà hỏi: ta muốn dùng các công cụ ấy để đi tới đâu? Wheelan đặt bảy câu hỏi về năm 2050, mỗi câu gom lại một mạch của sách: năng suất (Chương 6), phân phối thu nhập (Chương 1 và 3), dùng thị trường giải quyết vấn đề xã hội (Chương 2 và 3), giá trị phi thị trường, chính sách tiền tệ và rủi ro hệ thống (Chương 7 và 10), phát triển (Chương 12 và 13), và nợ công (Chương 9).
-**Ý chính:** Wheelan muốn người đọc hiểu rằng **kinh tế học là một bộ công cụ, không phải lời tiên tri**: nó không định trước tương lai, cũng như vật lý không bắt buộc con người lên mặt trăng mà chỉ làm việc đó thành khả thi. Muốn dùng công cụ cho tốt, xã hội phải tự quyết định ưu tiên, sự đánh đổi và những kết cục nào chấp nhận được; như nhà sử học kinh tế Robert Fogel nói, phải định nghĩa "cuộc sống tốt đẹp" trước. Bảy câu hỏi là: một ổ bánh mì sẽ tốn bao nhiêu phút lao động (năng suất, và giàu đến đâu là đủ); bao nhiêu người sẽ ngủ dưới đường Wacker Drive (chia chiếc bánh giữa người giàu và người nghèo); ta có dùng thị trường một cách sáng tạo để giải quyết vấn đề xã hội không (Luật Thuốc mồ côi 1983); ta có còn những dãy cửa hàng ven đường xấu xí năm 2050 không (giá trị thẩm mỹ so với hiệu quả); ta đã thật sự nắm được chính sách tiền tệ chưa (khủng hoảng 2008, Lehman Brothers); "con hổ châu Phi" sẽ là thú hoang hay câu chuyện phát triển; và nước Mỹ có lấy lại được kỷ luật tài khoá không. Sách kết bằng nhận xét rằng một khi đã tiếp xúc với các ý tưởng lớn của kinh tế học, ta sẽ thấy chúng ở khắp nơi.
+## Ý chính
 
-> **Lưu ý:** Phần kết được viết cho ấn bản 2010, ngay sau khủng hoảng tài chính, nên câu hỏi về chính sách tiền tệ và nợ công mang đậm dấu ấn thời điểm đó (Mỹ nợ các trái chủ Trung Quốc hơn 1.000 tỷ USD; thế hệ Baby Boom sắp nghỉ hưu). Mười lăm năm sau, vài câu hỏi đã có câu trả lời một phần: chính sách tiền tệ tiếp tục bị thử thách, với lãi suất gần 0 kéo dài suốt thập niên 2010, rồi lạm phát bùng lên sau đại dịch 2020 và Fed tăng lãi suất nhanh nhất trong bốn thập kỷ, đúng tinh thần câu hỏi "Fed đã làm sai điều gì mà ta chưa biết"; nợ công Mỹ tăng mạnh hơn nhiều so với lúc Wheelan viết; một số nền kinh tế châu Phi (như Ethiopia, Rwanda) có những giai đoạn tăng trưởng nhanh, nhưng châu Phi nói chung chưa trở thành "con hổ". Câu hỏi về năng suất và "giàu đến đâu là đủ" vẫn còn mở, nay gắn thêm với tranh luận về trí tuệ nhân tạo. Đội Chicago Cubs mà Wheelan đùa rằng ông nhiều lần đoán vô địch đã thật sự vô địch World Series năm 2016. Phần kết không có chú thích chân trang dấu `*`. Các câu trích là bản dịch của người tổng hợp.
+Wheelan muốn người đọc hiểu rằng **kinh tế học là một bộ công cụ, không phải lời tiên tri**: nó không định trước tương lai, cũng như vật lý không bắt buộc con người lên mặt trăng mà chỉ làm việc đó thành khả thi.
+
+Muốn dùng công cụ cho tốt, xã hội phải tự quyết định ưu tiên, sự đánh đổi và những kết cục nào chấp nhận được; như nhà sử học kinh tế Robert Fogel nói, phải định nghĩa "cuộc sống tốt đẹp" trước.
+
+Bảy câu hỏi là:
+
+- Một ổ bánh mì sẽ tốn bao nhiêu phút lao động (năng suất, và giàu đến đâu là đủ).
+- Bao nhiêu người sẽ ngủ dưới đường Wacker Drive (chia chiếc bánh giữa người giàu và người nghèo).
+- Ta có dùng thị trường một cách sáng tạo để giải quyết vấn đề xã hội không (Luật Thuốc mồ côi 1983).
+- Ta có còn những dãy cửa hàng ven đường xấu xí năm 2050 không (giá trị thẩm mỹ so với hiệu quả).
+- Ta đã thật sự nắm được chính sách tiền tệ chưa (khủng hoảng 2008, Lehman Brothers).
+- "Con hổ châu Phi" sẽ là thú hoang hay câu chuyện phát triển.
+- Nước Mỹ có lấy lại được kỷ luật tài khoá không.
+
+Sách kết bằng nhận xét rằng một khi đã tiếp xúc với các ý tưởng lớn của kinh tế học, ta sẽ thấy chúng ở khắp nơi.
 
 ## Sơ đồ
 
@@ -318,7 +329,9 @@ Tăng năng suất cho ta lựa chọn: làm như cũ và sản xuất nhiều h
 
 ### 3. Câu hỏi 2: bao nhiêu người sẽ ngủ dưới đường Wacker Drive?
 
-Đây là câu hỏi về cách chia chiếc bánh. Năm 2000, *The Economist* giao Wheelan viết bài về nghèo đói ở Mỹ. Kinh tế khi đó vẫn đang bùng nổ, và ông tìm cách thể hiện sự đối lập giữa người giàu và người nghèo; ông tìm thấy nó ngay trước cửa toà nhà văn phòng của mình. Trên mặt đường Wacker Drive ở Chicago là hình ảnh của một nền kinh tế đang bùng nổ: dân văn phòng trẻ vừa đi vừa ra lệnh qua điện thoại di động, người mua sắm kéo về các cửa hàng sang trọng trên đại lộ Michigan, cần cẩu dựng một toà chung cư cao cấp. Ngay bên dưới là Lower Wacker, con đường ngầm dành cho xe tải giao hàng, và cũng là nơi nhiều người vô gia cư ngủ trong lều các-tông giữa các cột bê tông, khuất khỏi tầm mắt và phần lớn khuất khỏi tâm trí của những người phía trên. Wheelan kết bài báo bằng nhận xét rằng Wacker Drive thế nào thì nước Mỹ thế ấy: sự giàu có và cảnh vô gia cư nằm sát nhau mà ít ai nhìn thấy cả hai.
+Đây là câu hỏi về cách chia chiếc bánh. Năm 2000, *The Economist* giao Wheelan viết bài về nghèo đói ở Mỹ. Kinh tế khi đó vẫn đang bùng nổ, và ông tìm cách thể hiện sự đối lập giữa người giàu và người nghèo; ông tìm thấy nó ngay trước cửa toà nhà văn phòng của mình.
+
+Trên mặt đường Wacker Drive ở Chicago là hình ảnh của một nền kinh tế đang bùng nổ: dân văn phòng trẻ vừa đi vừa ra lệnh qua điện thoại di động, người mua sắm kéo về các cửa hàng sang trọng trên đại lộ Michigan, cần cẩu dựng một toà chung cư cao cấp. Ngay bên dưới là Lower Wacker, con đường ngầm dành cho xe tải giao hàng, và cũng là nơi nhiều người vô gia cư ngủ trong lều các-tông giữa các cột bê tông, khuất khỏi tầm mắt và phần lớn khuất khỏi tâm trí của những người phía trên. Wheelan kết bài báo bằng nhận xét rằng Wacker Drive thế nào thì nước Mỹ thế ấy: sự giàu có và cảnh vô gia cư nằm sát nhau mà ít ai nhìn thấy cả hai.
 
 Ta sẵn lòng hứa gì cho người thiệt thòi nhất? Các nền kinh tế thị trường phát triển nằm trên một dải, với Mỹ ở một đầu và các nền kinh tế châu Âu tương đối bao cấp như Pháp, Thuỵ Điển ở đầu kia.
 
@@ -334,7 +347,9 @@ Châu Âu đưa ra phiên bản kinh tế thị trường nhân hậu, mềm m�
 
 ### 4. Câu hỏi 3: ta có dùng thị trường một cách sáng tạo để giải quyết vấn đề xã hội không?
 
-Cách dễ nhất và hiệu quả nhất để một việc được làm là cho những người liên quan một lý do để muốn nó được làm. Ai cũng gật gù như thể đó là điều hiển nhiên nhất đời, rồi lại đi thiết kế chính sách làm đúng điều ngược lại. Hệ thống trường công vẫn không thật sự thưởng giáo viên và hiệu trưởng khi học sinh học tốt (hay phạt khi học kém). Ta nói giáo dục quan trọng biết bao, nhưng lại khiến người giỏi muốn làm giáo viên phải qua thủ tục khó và tốn thời gian (dù có bằng chứng rằng khoá đào tạo đó ít tác dụng). Ta không trả giáo viên giỏi nhiều hơn giáo viên kém. Ta làm cho việc đi ô tô rẻ một cách giả tạo, ngầm trợ cấp cho mọi thứ từ đô thị dàn trải đến ấm lên toàn cầu. Ta đánh phần lớn thuế vào hoạt động sản xuất như làm việc, tiết kiệm, đầu tư, trong khi có thể vừa tăng thu vừa tiết kiệm tài nguyên bằng nhiều "thuế xanh" hơn.
+Cách dễ nhất và hiệu quả nhất để một việc được làm là cho những người liên quan một lý do để muốn nó được làm. Ai cũng gật gù như thể đó là điều hiển nhiên nhất đời, rồi lại đi thiết kế chính sách làm đúng điều ngược lại.
+
+Hệ thống trường công vẫn không thật sự thưởng giáo viên và hiệu trưởng khi học sinh học tốt (hay phạt khi học kém). Ta nói giáo dục quan trọng biết bao, nhưng lại khiến người giỏi muốn làm giáo viên phải qua thủ tục khó và tốn thời gian (dù có bằng chứng rằng khoá đào tạo đó ít tác dụng). Ta không trả giáo viên giỏi nhiều hơn giáo viên kém. Ta làm cho việc đi ô tô rẻ một cách giả tạo, ngầm trợ cấp cho mọi thứ từ đô thị dàn trải đến ấm lên toàn cầu. Ta đánh phần lớn thuế vào hoạt động sản xuất như làm việc, tiết kiệm, đầu tư, trong khi có thể vừa tăng thu vừa tiết kiệm tài nguyên bằng nhiều "thuế xanh" hơn.
 
 Nếu đặt đúng động cơ khuyến khích, ta có thể dùng thị trường làm đủ thứ việc. Hãy xem trường hợp bệnh hiếm. Mắc bệnh nặng đã tệ, mắc bệnh nặng mà lại hiếm còn tệ hơn. Đã có lúc khoảng 5.000 bệnh bị coi là hiếm đến mức hãng dược bỏ qua, vì dù tìm ra thuốc chữa họ cũng không hy vọng thu hồi chi phí nghiên cứu. Năm 1983, Quốc hội Mỹ thông qua Luật Thuốc mồ côi (Orphan Drug Act), cho những ưu đãi làm việc nghiên cứu này có lãi hơn: tài trợ nghiên cứu, tín dụng thuế, và quyền độc quyền bán và định giá thuốc cho bệnh hiếm (gọi là thuốc mồ côi) trong 7 năm.
 
@@ -355,7 +370,9 @@ Wheelan viết: không có gì trong kinh tế học nói ông ấy sai. Một x
 
 ### 6. Câu hỏi 5: ta đã thật sự nắm được chính sách tiền tệ chưa?
 
-Wheelan đã đặt câu hỏi này trong ấn bản đầu năm 2002, với một phần câu trả lời: kinh tế Nhật, phép màu của thập niên 1980, vẫn trơ lì trước các biện pháp tiền tệ và tài khoá truyền thống, gây ra điều mà *Wall Street Journal* gọi là "một trong những cuộc tranh luận kinh tế lớn của thời đại". Điều tương tự có thể xảy ra ở Mỹ không? Nó đã xảy ra, bắt đầu từ năm 2007. Wheelan đùa rằng điều đó không làm ông thành thiên tài, vì ông cũng đã nhiều lần đoán đội bóng chày Chicago Cubs vô địch World Series. Nhưng nó chứng minh ta chưa chế ngự được chu kỳ kinh doanh (sự lên xuống của nền kinh tế dẫn tới các cuộc suy thoái định kỳ). Ta tưởng đã thuần hoá được nó, rồi khủng hoảng tài chính suýt làm ta trật bánh hoàn toàn. Những dao động như thế kéo theo rất nhiều nạn nhân vô tội.
+Wheelan đã đặt câu hỏi này trong ấn bản đầu năm 2002, với một phần câu trả lời: kinh tế Nhật, phép màu của thập niên 1980, vẫn trơ lì trước các biện pháp tiền tệ và tài khoá truyền thống, gây ra điều mà *Wall Street Journal* gọi là "một trong những cuộc tranh luận kinh tế lớn của thời đại". Điều tương tự có thể xảy ra ở Mỹ không? Nó đã xảy ra, bắt đầu từ năm 2007.
+
+Wheelan đùa rằng điều đó không làm ông thành thiên tài, vì ông cũng đã nhiều lần đoán đội bóng chày Chicago Cubs vô địch World Series. Nhưng nó chứng minh ta chưa chế ngự được chu kỳ kinh doanh (sự lên xuống của nền kinh tế dẫn tới các cuộc suy thoái định kỳ). Ta tưởng đã thuần hoá được nó, rồi khủng hoảng tài chính suýt làm ta trật bánh hoàn toàn. Những dao động như thế kéo theo rất nhiều nạn nhân vô tội.
 
 Ben Bernanke và Fed có vẻ đã làm đúng nhiều việc. Họ đã làm sai điều gì mà ta chưa biết? Hãy nhớ Alan Greenspan từng là thiên tài (giữ được lạm phát) cho tới khi không còn là thiên tài nữa (vì tiền dễ dãi đã thổi phồng bong bóng tài sản).
 
@@ -367,7 +384,9 @@ Wheelan đề nghị một bài tập: tìm một đứa trẻ tám, chín tuổ
 
 Thế giới năm 2050 có bớt nghèo đáng kể không? Câu trả lời không hiển nhiên. Ta có thể hình dung một kịch bản Đông Á, trong đó các nước tự chuyển đổi trong vài thập kỷ; hoặc một kịch bản châu Phi cận Sahara, trong đó các nước lần lữa hết thập kỷ này sang thập kỷ khác mà gần như không tăng trưởng. Một kịch bản sẽ đưa hàng tỷ người thoát nghèo khổ; kịch bản kia thì không.
 
-Khi hỏi liệu nước nghèo có còn nghèo sau bốn thập kỷ không, câu hỏi nghe xa xôi và trừu tượng, như thể đáp án sẽ do vị trí các vì sao quyết định. Nhưng khi chia nó thành các phần, hỏi về những thứ ta biết sẽ phân biệt nước giàu với nước nghèo, thì nghèo đói toàn cầu có vẻ dễ xử lý hơn. Chính phủ các nước đang phát triển có dựng và duy trì được những thể chế hỗ trợ kinh tế thị trường không? Họ có phát triển được các ngành xuất khẩu giúp thoát khỏi bẫy nông nghiệp tự cung tự cấp không, và Mỹ có mở thị trường khổng lồ của mình cho những sản phẩm ấy không? Nước giàu có dùng công nghệ và nguồn lực của mình để chống lại các bệnh đang tàn phá thế giới đang phát triển, nhất là AIDS, không? Gia đình của một bé gái sinh ngày mai ở nông thôn Ấn Độ có động cơ để đầu tư vào vốn con người của bé không?
+Khi hỏi liệu nước nghèo có còn nghèo sau bốn thập kỷ không, câu hỏi nghe xa xôi và trừu tượng, như thể đáp án sẽ do vị trí các vì sao quyết định. Nhưng khi chia nó thành các phần, hỏi về những thứ ta biết sẽ phân biệt nước giàu với nước nghèo, thì nghèo đói toàn cầu có vẻ dễ xử lý hơn.
+
+Chính phủ các nước đang phát triển có dựng và duy trì được những thể chế hỗ trợ kinh tế thị trường không? Họ có phát triển được các ngành xuất khẩu giúp thoát khỏi bẫy nông nghiệp tự cung tự cấp không, và Mỹ có mở thị trường khổng lồ của mình cho những sản phẩm ấy không? Nước giàu có dùng công nghệ và nguồn lực của mình để chống lại các bệnh đang tàn phá thế giới đang phát triển, nhất là AIDS, không? Gia đình của một bé gái sinh ngày mai ở nông thôn Ấn Độ có động cơ để đầu tư vào vốn con người của bé không?
 
 ### 8. Câu hỏi 7: nước Mỹ có lấy lại được kỷ luật tài khoá không?
 
@@ -381,7 +400,9 @@ Simon Johnson, người có nhiều kinh nghiệm với khủng hoảng tài ch�
 
 Wheelan viết rằng đó chỉ là những câu hỏi của ông; ông mong đến giờ người đọc đã có thêm câu hỏi của riêng mình. Điều đáng chú ý ở kinh tế học là một khi đã tiếp xúc với các ý tưởng lớn, ta bắt đầu thấy chúng ở khắp nơi. Nghịch lý buồn của môn Kinh tế học nhập môn (Econ 101) là sinh viên thường phải chịu đựng những bài giảng khô khan, xa vời, trong khi kinh tế học đang diễn ra quanh họ. Kinh tế học cho ta cái nhìn sâu vào của cải, nghèo đói, quan hệ giới, môi trường, phân biệt đối xử, chính trị, chỉ kể vài chủ đề sách đã chạm tới. Ông kết: làm sao điều đó lại có thể không thú vị?
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một kỹ sư phần mềm 30 tuổi có năng suất tăng 3% mỗi năm nhờ công cụ mới. Sau 20 năm, cùng một khối lượng công việc chỉ cần khoảng 55% số giờ như hôm nay (vì 1,03 mũ 20 xấp xỉ 1,8, và 1 chia 1,8 xấp xỉ 0,55). Câu hỏi đầu tiên của Wheelan áp vào cá nhân này: dùng khoản năng suất ấy để kiếm gấp 1,8 lần thu nhập với 48 giờ/tuần, hay giữ thu nhập như cũ với khoảng 26 giờ/tuần, hay ở giữa? Đường cung lao động uốn ngược dự đoán khi thu nhập đã đủ cao, nhiều người sẽ chọn phương án thứ hai hoặc thứ ba. Còn nhà quản lý quỹ trong câu chuyện của Wheelan sẽ không đổi lối sống của mình, mà mua cổ phiếu du lịch, giải trí, đồ thể thao để kiếm lời từ lựa chọn của người khác.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một kỹ sư phần mềm 30 tuổi có năng suất tăng 3% mỗi năm nhờ công cụ mới. Sau 20 năm, cùng một khối lượng công việc chỉ cần khoảng 55% số giờ như hôm nay (vì 1,03 mũ 20 xấp xỉ 1,8, và 1 chia 1,8 xấp xỉ 0,55).
+
+Câu hỏi đầu tiên của Wheelan áp vào cá nhân này: dùng khoản năng suất ấy để kiếm gấp 1,8 lần thu nhập với 48 giờ/tuần, hay giữ thu nhập như cũ với khoảng 26 giờ/tuần, hay ở giữa? Đường cung lao động uốn ngược dự đoán khi thu nhập đã đủ cao, nhiều người sẽ chọn phương án thứ hai hoặc thứ ba. Còn nhà quản lý quỹ trong câu chuyện của Wheelan sẽ không đổi lối sống của mình, mà mua cổ phiếu du lịch, giải trí, đồ thể thao để kiếm lời từ lựa chọn của người khác.
 
 ## Luận điểm kinh tế cốt lõi
 
@@ -499,3 +520,158 @@ Từ thời Keynes (bài "Khả năng kinh tế cho cháu chắt chúng ta", 193
 - **Trong đầu tư.** Nhà quản lý quỹ trong câu chuyện của Wheelan minh hoạ một cách nghĩ hữu ích: không cần đoán mình sẽ sống thế nào, chỉ cần đoán xã hội sẽ chọn gì khi giàu lên (thêm thời gian rảnh, thêm môi trường sạch, thêm chăm sóc sức khoẻ) và ngành nào hưởng lợi. Câu hỏi về Lehman và về nợ công nhắc rằng rủi ro lớn nhất của danh mục thường là rủi ro hệ thống mà đa dạng hoá không loại bỏ được, và rằng đòn bẩy quá mức "luôn kết thúc tồi tệ".
 - **Trong nghề nghiệp.** Đường cung lao động uốn ngược áp vào chính mỗi người: khi thu nhập tăng, hãy chủ động quyết định dùng phần năng suất tăng thêm cho tiền hay cho thời gian, thay vì mặc định làm nhiều hơn. Và như Wheelan nói về sinh viên Econ 101, kỹ năng nhìn thấy các ý tưởng kinh tế (động cơ, chi phí cơ hội, đánh đổi) trong công việc hằng ngày có giá trị hơn việc nhớ các mô hình.
 - **Khi đọc tin chính sách.** Ở Việt Nam, nhiều tranh luận lớn mang đúng hình dạng bảy câu hỏi: tăng năng suất lao động để thoát bẫy thu nhập trung bình (câu 1), mở rộng an sinh và bảo hiểm xã hội mà không làm thị trường lao động xơ cứng (câu 2), dùng thuế, phí và đặt cọc thay cho mệnh lệnh trong quản lý rác thải và môi trường (câu 3), bảo tồn phố cổ, làng nghề, cảnh quan so với nhu cầu phát triển (câu 4), quản lý rủi ro hệ thống ngân hàng và thị trường trái phiếu doanh nghiệp (câu 5), và giữ kỷ luật tài khoá khi dân số già đi nhanh (câu 7). Với mỗi tin, hãy hỏi theo cách của Wheelan: mục tiêu chính sách là gì, đánh đổi nào đang được chấp nhận, và ai trả giá.
+
+## Bản đồ tư duy
+
+Toàn cảnh Phần kết trên một trang: sáu nhánh lớn đi theo các mục 1–9 của phần Nội dung chi tiết (mở đầu và lời kết, câu hỏi 1 về năng suất, câu hỏi 2 về chia chiếc bánh, câu hỏi 3–4 về thị trường và giá trị ngoài thị trường, câu hỏi 5 về chính sách tiền tệ, câu hỏi 6–7 về phát triển và nợ công), mỗi nhánh ghi luận điểm, ví dụ và con số then chốt của Wheelan; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Phần kết: kinh tế học là bộ công cụ, không phải lời tiên tri, xã hội phải tự chọn đích cho năm 2050`"]
+  n1["`Mục 1 và 9 — Mở đầu và lời kết của cả cuốn sách`"]
+  n0 --- n1
+  n2["`Vật lý không bắt buộc lên mặt trăng, chỉ làm việc đó khả thi, Kennedy đặt mục tiêu chứ không sửa định luật`"]
+  n1 --- n2
+  n3["`Xã hội phải tự quyết ưu tiên, đánh đổi và kết cục nào chấp nhận được`"]
+  n1 --- n3
+  n4["`Robert Fogel: phải định nghĩa cuộc sống tốt đẹp trước, rồi kinh tế học mới giúp tới đó`"]
+  n1 --- n4
+  n5["`Bảy câu hỏi không để đoán tương lai, mà vì quyết định hôm nay định hình năm 2050`"]
+  n1 --- n5
+  n6["`Một khi đã tiếp xúc với các ý tưởng lớn, ta thấy chúng ở khắp nơi`"]
+  n1 --- n6
+  n7["`Nghịch lý Econ 101: bài giảng khô khan trong khi kinh tế học diễn ra quanh sinh viên`"]
+  n1 --- n7
+  n8["`Mục 2 — Câu hỏi 1: một ổ bánh mì tốn bao nhiêu phút lao động`"]
+  n0 --- n8
+  n9["`Năng suất gần như là thứ duy nhất quan trọng cho đời sống vật chất`"]
+  n8 --- n9
+  n10["`Thể chế, quyền tài sản, đầu tư, vốn con người là phương tiện để tăng năng suất`"]
+  n8 --- n10
+  n11["`Năng suất tăng 1%/năm đến 2050 thì mức sống cao hơn khoảng 50%, tăng 2%/năm thì hơn gấp đôi`"]
+  n8 --- n11
+  n12["`Giàu đến đâu là đủ: người Mỹ giàu hơn nhưng làm nhiều hơn, nghỉ phép ít hơn, nghỉ hưu muộn hơn`"]
+  n8 --- n12
+  n13["`Đường cung lao động uốn ngược: lương tăng thì làm thêm giờ đến một mức, rồi làm ít đi`"]
+  n8 --- n13
+  n14["`Hiệu ứng thu nhập lấn át hiệu ứng thay thế, chưa ai biết đường cong uốn ở đâu`"]
+  n13 --- n14
+  n15["`Năng suất cho lựa chọn: làm 60 giờ/tuần để giàu hơn hay 25 giờ/tuần và nghe nhạc trong công viên`"]
+  n8 --- n15
+  n16["`Nhà quản lý quỹ tin người Mỹ sẽ làm ít đi, nhưng chính ông đầu tư vào hàng hoá cho thời gian rảnh`"]
+  n8 --- n16
+  n17["`Mục 3 — Câu hỏi 2: bao nhiêu người ngủ dưới đường Wacker Drive`"]
+  n0 --- n17
+  n18["`Câu hỏi về cách chia chiếc bánh giữa người giàu và người nghèo`"]
+  n17 --- n18
+  n19["`Bài báo năm 2000 cho The Economist: phía trên là bùng nổ, Lower Wacker là người vô gia cư ngủ lều các-tông`"]
+  n17 --- n19
+  n20["`Wacker Drive thế nào, nước Mỹ thế ấy: giàu có và vô gia cư sát nhau mà ít ai thấy cả hai`"]
+  n17 --- n20
+  n21["`Mô hình Mỹ: chiếc bánh lớn, năng động, người thắng được miếng rất to, nhưng khắc nghiệt và bất bình đẳng hơn`"]
+  n17 --- n21
+  n22["`Mô hình châu Âu (Pháp, Thuỵ Điển): nghèo trẻ em và bất bình đẳng thấp hơn, ai cũng có phần bánh`"]
+  n17 --- n22
+  n23["`Cái giá: thất nghiệp thanh niên cao hơn, đổi mới và tạo việc làm chậm hơn`"]
+  n22 --- n23
+  n24["`Lao động đắt, khó sa thải nên ngại tuyển, trợ cấp hậu nên chậm nhận việc: thị trường lao động xơ cứng`"]
+  n22 --- n24
+  n25["`Chủ nghĩa tư bản có nhiều hương vị, người Mỹ sẽ chọn loại nào`"]
+  n17 --- n25
+  n26["`Mục 4–5 — Câu hỏi 3 và 4: thị trường như công cụ và giá trị ngoài thị trường`"]
+  n0 --- n26
+  n27["`Cách dễ nhất để một việc được làm là cho người liên quan lý do để muốn nó được làm`"]
+  n26 --- n27
+  n28["`Chính sách Mỹ làm ngược lại: trường công không thưởng giáo viên giỏi, thủ tục vào nghề rườm rà`"]
+  n27 --- n28
+  n29["`Đi ô tô rẻ giả tạo trợ cấp đô thị dàn trải và ấm lên toàn cầu, thuế đánh vào sản xuất thay vì thuế xanh`"]
+  n27 --- n29
+  n30["`Luật Thuốc mồ côi 1983: tài trợ nghiên cứu, tín dụng thuế, 7 năm độc quyền cho thuốc bệnh hiếm`"]
+  n26 --- n30
+  n31["`Khoảng 5.000 bệnh hiếm từng bị bỏ qua, thuốc mồ côi tăng từ dưới 10 lên khoảng 200`"]
+  n30 --- n31
+  n32["`Tiền đặt cọc vỏ lon, vỏ chai nâng tỷ lệ tái chế, phí rác theo khối lượng sẽ giảm bao bì`"]
+  n26 --- n32
+  n33["`Thị trường không tự giải quyết vấn đề xã hội, nhưng có động cơ đúng thì như chèo thuyền xuôi dòng`"]
+  n26 --- n33
+  n34["`Anthony Lewis: giữ trang trại nhỏ ở Tuscany và Umbria vì cái đẹp và cộng đồng dù không kinh tế`"]
+  n26 --- n34
+  n35["`Kinh tế học không nói ông sai: mục tiêu là tối đa hoá độ thoả dụng, không phải thu nhập`"]
+  n26 --- n35
+  n36["`Giàu lên thì càng sẵn lòng đặt cái đẹp trên túi tiền, như trợ cấp trang trại nhỏ ở Vermont`"]
+  n35 --- n36
+  n37["`Ba cảnh báo: nói rõ chi phí và ai trả, để người hưởng lợi trả, không để một nhóm áp sở thích thẩm mỹ lên nhóm khác`"]
+  n26 --- n37
+  n38["`Mục 6 — Câu hỏi 5: ta đã nắm được chính sách tiền tệ chưa`"]
+  n0 --- n38
+  n39["`Ấn bản 2002 hỏi: Nhật trơ lì trước biện pháp tiền tệ và tài khoá, Mỹ có thể như vậy không`"]
+  n38 --- n39
+  n40["`Nó đã xảy ra từ năm 2007: ta chưa chế ngự được chu kỳ kinh doanh`"]
+  n38 --- n40
+  n41["`Bernanke và Fed làm đúng nhiều việc, nhưng đã làm sai điều gì mà ta chưa biết`"]
+  n38 --- n41
+  n42["`Greenspan là thiên tài vì giữ lạm phát thấp, cho tới khi tiền dễ dãi thổi phồng bong bóng tài sản`"]
+  n38 --- n42
+  n43["`Rủi ro hệ thống: để Lehman Brothers phá sản theo luật sắt của tư bản suýt kéo tất cả xuống`"]
+  n38 --- n43
+  n44["`Hệ thống tài chính như nhóm người leo núi buộc chung một dây bên mép vực`"]
+  n43 --- n44
+  n45["`Cần quy định để thị trường trừng phạt kẻ sai mà không kéo tất cả xuống vực`"]
+  n43 --- n45
+  n46["`Mục 7–8 — Câu hỏi 6 và 7: phát triển và kỷ luật tài khoá`"]
+  n0 --- n46
+  n47["`Không có viên đạn bạc cho phát triển, như với ung thư, nhưng chưa bỏ cuộc`"]
+  n46 --- n47
+  n48["`Hai kịch bản: Đông Á chuyển đổi trong vài thập kỷ, hay châu Phi cận Sahara lần lữa không tăng trưởng`"]
+  n46 --- n48
+  n49["`Chia nhỏ câu hỏi: thể chế thị trường, ngành xuất khẩu và thị trường Mỹ mở cửa, chống AIDS, vốn con người cho bé gái nông thôn Ấn Độ`"]
+  n46 --- n49
+  n50["`Mỹ là con nợ lớn nhất thế giới, nợ trái chủ Trung Quốc hơn 1.000 tỷ USD`"]
+  n46 --- n50
+  n51["`Chi lớn nhất còn ở phía trước: Baby Boom nghỉ hưu hưởng Social Security và Medicare`"]
+  n46 --- n51
+  n52["`Xã hội thù địch với tăng thuế nhưng không chịu thu nhỏ chính phủ: quỹ đạo tài khoá không bền vững`"]
+  n46 --- n52
+  n53["`Phải thu đủ cho bộ máy chính phủ, lãi nợ cũ và chi phí dân số già`"]
+  n52 --- n53
+  n54["`Simon Johnson: vay quá mức luôn kết thúc tồi tệ, người tiêu dùng và tài chính đã trả giá, liệu đến lượt chính phủ`"]
+  n46 --- n54
+  n55["`Thông điệp xuyên suốt`"]
+  n0 --- n55
+  n56["`Các lựa chọn cho năm 2050 là lựa chọn giá trị, kinh tế học làm rõ cái giá của mỗi lựa chọn`"]
+  n55 --- n56
+  n57["`Tách câu hỏi mục tiêu là gì khỏi làm thế nào, và hỏi rõ ai trả giá`"]
+  n55 --- n57
+  n58["`Dùng động cơ khuyến khích thay mệnh lệnh khi có thể, và khiêm tốn về khả năng của ngân hàng trung ương`"]
+  n55 --- n58
+  class n0 root
+  class n1,n8,n17,n26,n38,n46,n55 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n15,n16,n18,n19,n20,n21,n22,n23,n24,n25,n27,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n39,n40,n41,n42,n43,n44,n45,n47,n48,n49,n50,n51,n52,n53,n54,n56,n57,n58 leaf
+```
+
+## Nguồn
+
+Charles Wheelan, *Naked Economics: Undressing the Dismal Science*, ấn bản sửa đổi và cập nhật (W. W. Norton, 2010), Phần kết (Epilogue).
+
+## Tác giả
+
+Charles Wheelan (sinh 1966), nhà kinh tế và nhà báo Mỹ, từng là phóng viên của *The Economist* ở Trung Tây nước Mỹ, giảng dạy chính sách công tại Đại học Chicago và Dartmouth.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Mười ba chương trước đã trao cho người đọc các công cụ: thị trường và động cơ khuyến khích (Chương 1–2), vai trò chính phủ (3–4), thông tin và vốn con người (5–6), thị trường tài chính (7), nhóm lợi ích (8), kinh tế vĩ mô, Fed và tiền (9–10), kinh tế quốc tế, thương mại và phát triển (11–13).
+
+Phần kết không thêm công cụ mới mà hỏi: ta muốn dùng các công cụ ấy để đi tới đâu? Wheelan đặt bảy câu hỏi về năm 2050, mỗi câu gom lại một mạch của sách: năng suất (Chương 6), phân phối thu nhập (Chương 1 và 3), dùng thị trường giải quyết vấn đề xã hội (Chương 2 và 3), giá trị phi thị trường, chính sách tiền tệ và rủi ro hệ thống (Chương 7 và 10), phát triển (Chương 12 và 13), và nợ công (Chương 9).
+
+## Lưu ý
+
+- Phần kết được viết cho ấn bản 2010, ngay sau khủng hoảng tài chính, nên câu hỏi về chính sách tiền tệ và nợ công mang đậm dấu ấn thời điểm đó (Mỹ nợ các trái chủ Trung Quốc hơn 1.000 tỷ USD; thế hệ Baby Boom sắp nghỉ hưu).
+- Mười lăm năm sau, vài câu hỏi đã có câu trả lời một phần: chính sách tiền tệ tiếp tục bị thử thách, với lãi suất gần 0 kéo dài suốt thập niên 2010, rồi lạm phát bùng lên sau đại dịch 2020 và Fed tăng lãi suất nhanh nhất trong bốn thập kỷ, đúng tinh thần câu hỏi "Fed đã làm sai điều gì mà ta chưa biết"; nợ công Mỹ tăng mạnh hơn nhiều so với lúc Wheelan viết; một số nền kinh tế châu Phi (như Ethiopia, Rwanda) có những giai đoạn tăng trưởng nhanh, nhưng châu Phi nói chung chưa trở thành "con hổ".
+- Câu hỏi về năng suất và "giàu đến đâu là đủ" vẫn còn mở, nay gắn thêm với tranh luận về trí tuệ nhân tạo.
+- Đội Chicago Cubs mà Wheelan đùa rằng ông nhiều lần đoán vô địch đã thật sự vô địch World Series năm 2016.
+- Phần kết không có chú thích chân trang dấu `*`.
+- Các câu trích là bản dịch của người tổng hợp.

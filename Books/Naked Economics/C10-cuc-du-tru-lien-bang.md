@@ -1,11 +1,12 @@
 # Chương 10 — Cục Dự trữ Liên bang (The Federal Reserve: Why that dollar in your pocket is more than just a piece of paper)
 
-**Nguồn:** Charles Wheelan, *Naked Economics: Undressing the Dismal Science*, ấn bản sửa đổi và cập nhật (W. W. Norton, 2010), Chương 10.
-**Tác giả:** Charles Wheelan (sinh 1966), nhà kinh tế và nhà báo Mỹ, từng là phóng viên của *The Economist* ở Trung Tây nước Mỹ, giảng dạy chính sách công tại Đại học Chicago và Dartmouth.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 9 mở phần kinh tế vĩ mô: GDP, chu kỳ kinh doanh, suy thoái, và hai công cụ để chống suy thoái là chính sách tài khoá và chính sách tiền tệ. Chương 10 đi sâu vào công cụ thứ hai: Cục Dự trữ Liên bang (Fed) điều chỉnh lãi suất bằng cách nào, vì sao nó không thể cứ hạ lãi suất mãi, tiền giấy có giá trị nhờ đâu, vì sao lạm phát và nhất là giảm phát nguy hiểm, và Fed đã làm gì trong khủng hoảng 2007–2009. Chương 11 tiếp theo mở rộng câu chuyện tiền tệ ra phạm vi quốc tế: nếu đồng đô la chỉ là tờ giấy và đồng yên cũng vậy, thì đổi bao nhiêu giấy Mỹ lấy bao nhiêu giấy Nhật.
-**Ý chính:** Wheelan muốn người đọc hiểu rằng **Fed nắm "vòi tín dụng" của nền kinh tế** vì nó kiểm soát lượng cung tiền, và rằng điều hành vòi này giống phẫu thuật não: cho quá ít tín dụng thì nền kinh tế tăng trưởng dưới sức, cho quá nhiều thì sinh lạm phát. Ông mở đầu bằng thông báo hai câu của Fed vài giờ sau vụ khủng bố 11/9/2001 ("Hệ thống Dự trữ Liên bang vẫn mở cửa và hoạt động; cửa sổ chiết khấu sẵn sàng đáp ứng nhu cầu thanh khoản"), rồi giải thích cơ chế bằng hình ảnh xe chở tiền bọc thép của Ben Bernanke đổi tiền mới lấy trái phiếu của ngân hàng Citibank. Ở phần sau, ông lấy ví dụ tù nhân Mỹ dùng hộp cá thu làm tiền, lạm phát phi mã ở Đức năm 1923, bài học Đại Suy thoái và Nhật Bản, để chỉ ra rằng tiền giấy chỉ có giá trị nhờ lòng tin, và một ngân hàng trung ương vô trách nhiệm hoặc bất lực có thể phá huỷ lòng tin đó.
+## Ý chính
 
-> **Lưu ý:** Sách được cập nhật sau khủng hoảng 2008, số liệu và bối cảnh tính đến khoảng cuối 2009 (Bernanke vừa được Tổng thống Obama tái bổ nhiệm, nhiệm kỳ hai bắt đầu năm 2010). Một số nhận định đã bị thời gian thử thách: Wheelan viết lãi suất danh nghĩa "không thể âm" (và tự đính chính trong chú thích rằng lợi suất tín phiếu kho bạc Mỹ từng xuống dưới 0 trong lúc hoảng loạn 2008); về sau một số ngân hàng trung ương châu Âu và Nhật Bản còn chủ động đặt lãi suất chính sách âm trong nhiều năm. Wheelan lo các biện pháp phi truyền thống có thể "dựng sân khấu cho rắc rối mới"; nỗi lo lạm phát cao sau đó không xảy ra suốt thập niên 2010, nhưng đến đầu thập niên 2020 lạm phát ở Mỹ lại tăng vọt, khiến Fed phải tăng lãi suất mạnh, đúng loại "lấy bát rượu punch đi" mà chương mô tả. Mẫu xe Chrysler PT Cruiser mà Wheelan dùng làm ví dụ nay đã ngừng sản xuất. Các câu trích là bản dịch của người tổng hợp.
+Wheelan muốn người đọc hiểu rằng **Fed nắm "vòi tín dụng" của nền kinh tế** vì nó kiểm soát lượng cung tiền, và rằng điều hành vòi này giống phẫu thuật não: cho quá ít tín dụng thì nền kinh tế tăng trưởng dưới sức, cho quá nhiều thì sinh lạm phát.
+
+Ông mở đầu bằng thông báo hai câu của Fed vài giờ sau vụ khủng bố 11/9/2001 ("Hệ thống Dự trữ Liên bang vẫn mở cửa và hoạt động; cửa sổ chiết khấu sẵn sàng đáp ứng nhu cầu thanh khoản"), rồi giải thích cơ chế bằng hình ảnh xe chở tiền bọc thép của Ben Bernanke đổi tiền mới lấy trái phiếu của ngân hàng Citibank.
+
+Ở phần sau, ông lấy ví dụ tù nhân Mỹ dùng hộp cá thu làm tiền, lạm phát phi mã ở Đức năm 1923, bài học Đại Suy thoái và Nhật Bản, để chỉ ra rằng tiền giấy chỉ có giá trị nhờ lòng tin, và một ngân hàng trung ương vô trách nhiệm hoặc bất lực có thể phá huỷ lòng tin đó.
 
 ## Sơ đồ
 
@@ -522,7 +523,9 @@ Quyền lực ấy, ở một tổ chức không do cử tri bầu, đến từ 
 
 ### 2. Cơ cấu của Fed và bản chất khó của chính sách tiền tệ
 
-Hệ thống Fed gồm 12 Ngân hàng Dự trữ khu vực và Hội đồng Thống đốc 7 người ở Washington, do Bernanke làm chủ tịch. Việc giám sát ngân hàng và giữ cho hệ thống thanh toán vận hành chỉ cần năng lực; chính sách tiền tệ thì khó như phẫu thuật não. Các nhà kinh tế không thống nhất Fed nên quản lý cung tiền thế nào, thậm chí không thống nhất chính xác vì sao cung tiền tác động như vậy; họ chỉ đồng ý rằng Fed phải cung cấp đúng lượng tín dụng để kinh tế tăng đều, và làm sai thì hậu quả có thể thảm khốc. Robert Mundell (Nobel 1999) còn cho rằng nếu cuối thập niên 1920 giá vàng được nâng lên, hoặc các ngân hàng trung ương lớn theo đuổi ổn định giá thay vì bám bản vị vàng, thì đã không có Đại Suy thoái, Đức Quốc xã hay Thế chiến II.
+Hệ thống Fed gồm 12 Ngân hàng Dự trữ khu vực và Hội đồng Thống đốc 7 người ở Washington, do Bernanke làm chủ tịch. Việc giám sát ngân hàng và giữ cho hệ thống thanh toán vận hành chỉ cần năng lực; chính sách tiền tệ thì khó như phẫu thuật não. Các nhà kinh tế không thống nhất Fed nên quản lý cung tiền thế nào, thậm chí không thống nhất chính xác vì sao cung tiền tác động như vậy; họ chỉ đồng ý rằng Fed phải cung cấp đúng lượng tín dụng để kinh tế tăng đều, và làm sai thì hậu quả có thể thảm khốc.
+
+Robert Mundell (Nobel 1999) còn cho rằng nếu cuối thập niên 1920 giá vàng được nâng lên, hoặc các ngân hàng trung ương lớn theo đuổi ổn định giá thay vì bám bản vị vàng, thì đã không có Đại Suy thoái, Đức Quốc xã hay Thế chiến II.
 
 ### 3. Vì sao không thể hạ lãi suất mãi: ví dụ PT Cruiser
 
@@ -563,7 +566,9 @@ Quyết định tăng, giảm hay giữ lãi suất do Uỷ ban Thị trường 
 | Lãi suất chiết khấu | Lãi suất ngân hàng thương mại vay trực tiếp từ Fed | Vay Fed mang tiếng xấu vì ngụ ý ngân hàng không huy động được vốn trên thị trường (Wheelan ví như người ngoài 25 tuổi vẫn vay tiền bố mẹ) |
 | Lãi suất quỹ liên bang | Lãi suất ngân hàng cho nhau vay ngắn hạn | Fed không ấn định trực tiếp mà đặt mục tiêu (ví dụ 4,5%) rồi điều chỉnh cung tiền để đạt; Wheelan ví cung tiền là lò sưởi, lãi suất quỹ liên bang là bộ điều nhiệt |
 
-Để bơm tiền, Fed đổi tiền mới tạo lấy trái phiếu chính phủ mà ngân hàng đang giữ: nếu Fed mua 100 triệu USD trái phiếu của Citibank, Citibank không giàu thêm, chỉ đổi loại tài sản. Nhưng tiền nằm trong trái phiếu không cho vay được, còn tiền mặt thì cho vay được. Ngân hàng giữ một phần làm dự trữ bắt buộc và cho vay phần còn lại; người vay tiêu khoản đó, tiền chảy vào ngân hàng khác, ngân hàng đó lại giữ một phần và cho vay tiếp, nên 100 triệu USD ban đầu có thể làm cung tiền tăng tới khoảng 10 lần. Trên thực tế, người giao dịch thay mặt Fed mua trái phiếu trên thị trường bằng tiền mới tạo cho tới khi lãi suất đạt mục tiêu; đó là nghiệp vụ thị trường mở. Muốn tăng lãi suất, Fed làm ngược lại: tăng lãi suất chiết khấu và/hoặc mục tiêu lãi suất quỹ liên bang, bán trái phiếu để rút tiền khỏi hệ thống, khiến mọi thứ mua bằng tiền vay đắt hơn và kinh tế chậm lại.
+Để bơm tiền, Fed đổi tiền mới tạo lấy trái phiếu chính phủ mà ngân hàng đang giữ: nếu Fed mua 100 triệu USD trái phiếu của Citibank, Citibank không giàu thêm, chỉ đổi loại tài sản. Nhưng tiền nằm trong trái phiếu không cho vay được, còn tiền mặt thì cho vay được. Ngân hàng giữ một phần làm dự trữ bắt buộc và cho vay phần còn lại; người vay tiêu khoản đó, tiền chảy vào ngân hàng khác, ngân hàng đó lại giữ một phần và cho vay tiếp, nên 100 triệu USD ban đầu có thể làm cung tiền tăng tới khoảng 10 lần.
+
+Trên thực tế, người giao dịch thay mặt Fed mua trái phiếu trên thị trường bằng tiền mới tạo cho tới khi lãi suất đạt mục tiêu; đó là nghiệp vụ thị trường mở. Muốn tăng lãi suất, Fed làm ngược lại: tăng lãi suất chiết khấu và/hoặc mục tiêu lãi suất quỹ liên bang, bán trái phiếu để rút tiền khỏi hệ thống, khiến mọi thứ mua bằng tiền vay đắt hơn và kinh tế chậm lại.
 
 ### 6. Bốn cái khó: lái xe khi không biết giới hạn tốc độ
 
@@ -589,7 +594,9 @@ Theo Wheelan, Fed luôn lái trên địa hình lạ với tấm bản đồ đ�
 
 Người ta luôn tìm ra thứ làm tiền được. Trong tù, nơi cấm tiền mặt, thuốc lá từng là tiền; khi nhà tù liên bang Mỹ cấm hút thuốc, tù nhân chuyển sang hộp cá thu ("mack"), vì không hỏng, mua được ở căng-tin và giá khoảng 1 USD nên dễ tính. Cắt tóc ở nhà tù liên bang Lompoc giá 2 hộp; một số nhà tù chuyển sang cá đóng túi nhựa vì vỏ hộp có thể chế thành vũ khí.
 
-Phần lớn lịch sử Mỹ, tiền giấy đổi được ra kim loại quý. Trước thế kỷ 20, ngân hàng tư phát hành tiền riêng; năm 1913 chính phủ độc quyền phát hành, nhưng tiền vẫn đổi được ra vàng hay bạc. Năm 1971, Mỹ bỏ hẳn bản vị vàng, và từ đó đô la không có giá trị nội tại: một mình trên đảo hoang với 100 triệu USD thì vẫn chết đói. Giá trị của tiền hiện đại nằm ở sức mua, tức niềm tin rằng người khác sẽ nhận nó. Ví dụ ở Ấn Độ cho thấy điều này: phần lớn chủ tiệm và tài xế taxi từ chối tờ rupee rách hay bẩn, dù ngân hàng trung ương coi mọi tờ có số sê-ri là tiền hợp pháp và ngân hàng nào cũng đổi tờ mới. Họ từ chối chỉ vì tin người khác cũng sẽ từ chối.
+Phần lớn lịch sử Mỹ, tiền giấy đổi được ra kim loại quý. Trước thế kỷ 20, ngân hàng tư phát hành tiền riêng; năm 1913 chính phủ độc quyền phát hành, nhưng tiền vẫn đổi được ra vàng hay bạc.
+
+Năm 1971, Mỹ bỏ hẳn bản vị vàng, và từ đó đô la không có giá trị nội tại: một mình trên đảo hoang với 100 triệu USD thì vẫn chết đói. Giá trị của tiền hiện đại nằm ở sức mua, tức niềm tin rằng người khác sẽ nhận nó. Ví dụ ở Ấn Độ cho thấy điều này: phần lớn chủ tiệm và tài xế taxi từ chối tờ rupee rách hay bẩn, dù ngân hàng trung ương coi mọi tờ có số sê-ri là tiền hợp pháp và ngân hàng nào cũng đổi tờ mới. Họ từ chối chỉ vì tin người khác cũng sẽ từ chối.
 
 ### 8. Lạm phát: nguyên nhân, cái giá và động cơ
 
@@ -619,7 +626,9 @@ Vậy vì sao chính phủ để lạm phát vượt khỏi tầm kiểm soát? 
 
 Lạm phát vừa phải cũng có sức hút chính trị. Tiền dễ dãi làm mọi người tưởng mình giàu lên: đại lý Chrysler ở Des Moines tăng giá và tưởng mình bán giỏi, mãi sau mới thấy ai cũng tăng giá và phần thu thêm bị lạm phát ăn mất; nhưng lúc đó chính trị gia đã tái đắc cử. Ngân hàng trung ương thiếu độc lập vì thế có thể bơm tiền trước bầu cử; có lời đồn Arthur Burns đã giúp Nixon như vậy năm 1972, và gia đình Bush giận Greenspan vì không nới tiền trước bầu cử 1992, khi George H. W. Bush thất cử sau một cuộc suy thoái nhẹ.
 
-Do đó độc lập chính trị của ngân hàng trung ương là then chốt, và bằng chứng cho thấy ngân hàng trung ương độc lập có lạm phát trung bình thấp hơn. Thống đốc Fed được bổ nhiệm với nhiệm kỳ 14 năm, đủ dài để khó bị chính trị chi phối. Chức vụ kinh tế quan trọng nhất nước Mỹ vì thế không do bầu cử, một quyết định dân chủ để lập ra thể chế tương đối phi dân chủ, và điều này cũng bị chỉ trích. Uy tín của Fed tự thực hiện: nếu doanh nghiệp tin Fed không dung thứ lạm phát, họ sẽ không tăng giá, và lạm phát không xảy ra. Wheelan kể Paul Volcker, trong bữa tối với sinh viên Princeton mùa xuân 1993, phàn nàn việc Greenspan ngồi cạnh bà Hillary Clinton khi Tổng thống Clinton đọc diễn văn trước lưỡng viện, vì nó gửi tín hiệu sai về sự độc lập của Fed.
+Do đó độc lập chính trị của ngân hàng trung ương là then chốt, và bằng chứng cho thấy ngân hàng trung ương độc lập có lạm phát trung bình thấp hơn. Thống đốc Fed được bổ nhiệm với nhiệm kỳ 14 năm, đủ dài để khó bị chính trị chi phối. Chức vụ kinh tế quan trọng nhất nước Mỹ vì thế không do bầu cử, một quyết định dân chủ để lập ra thể chế tương đối phi dân chủ, và điều này cũng bị chỉ trích.
+
+Uy tín của Fed tự thực hiện: nếu doanh nghiệp tin Fed không dung thứ lạm phát, họ sẽ không tăng giá, và lạm phát không xảy ra. Wheelan kể Paul Volcker, trong bữa tối với sinh viên Princeton mùa xuân 1993, phàn nàn việc Greenspan ngồi cạnh bà Hillary Clinton khi Tổng thống Clinton đọc diễn văn trước lưỡng viện, vì nó gửi tín hiệu sai về sự độc lập của Fed.
 
 ### 9. Giảm phát còn tệ hơn: Nhật Bản và Đại Suy thoái
 
@@ -627,7 +636,11 @@ Giảm phát (giá giảm liên tục) còn tệ hơn lạm phát; ngay cả gi�
 
 Vòng xoáy này làm hỏng hệ thống tài chính ngay cả khi ngân hàng không liều lĩnh: nợ xấu tăng, tài sản thế chấp mất giá, một số ngân hàng mất khả năng thanh toán, số khác thiếu vốn để cho vay, nên doanh nghiệp lành mạnh cũng không vay được. Chương trình TARP cuối thời George W. Bush nhằm tái cấp vốn cho ngân hàng để chúng lại cho vay; theo Wheelan, thiết kế có lỗi và truyền thông tệ, nhưng ý tưởng hợp lý.
 
-Chính sách tiền tệ một mình có thể không phá được vòng xoáy. Ngân hàng trung ương Nhật đã hạ lãi suất danh nghĩa về gần 0 từ lâu và không thể hạ thêm, vì lãi suất danh nghĩa gần như không thể âm (cho vay 100 USD để nhận lại 98 USD thì thà giữ tiền). Wheelan chú thích một ngoại lệ: đúng lúc Lehman Brothers phá sản, lợi suất tín phiếu kho bạc Mỹ 3 tháng xuống dưới 0, vì nhà đầu tư chấp nhận lỗ để giữ tiền an toàn; Keith Hennessey, giám đốc Hội đồng Kinh tế Quốc gia của Nhà Trắng, nói với James Stewart của *The New Yorker* rằng với nhà hoạch định chính sách đó là dấu hiệu hoảng loạn. Khi giá giảm, lãi suất thực vẫn cao dù lãi suất danh nghĩa bằng 0: lãi suất danh nghĩa 0% mà giá giảm 5%/năm thì lãi suất thực là 5%, quá đắt cho một nền kinh tế trì trệ. Vì vậy các nhà kinh tế từ lâu cho rằng Nhật cần một liều lạm phát mạnh; một nhà kinh tế rất nổi tiếng khuyên Ngân hàng Nhật Bản làm mọi thứ, chỉ thiếu điều "thả tiền từ trực thăng". Nối với Chương 8, một giả thuyết cho rằng Nhật không chống giảm phát quyết liệt hơn vì dân số già, nhiều người sống bằng thu nhập cố định hay tiền tiết kiệm nên được lợi khi giá giảm.
+Chính sách tiền tệ một mình có thể không phá được vòng xoáy. Ngân hàng trung ương Nhật đã hạ lãi suất danh nghĩa về gần 0 từ lâu và không thể hạ thêm, vì lãi suất danh nghĩa gần như không thể âm (cho vay 100 USD để nhận lại 98 USD thì thà giữ tiền).
+
+Wheelan chú thích một ngoại lệ: đúng lúc Lehman Brothers phá sản, lợi suất tín phiếu kho bạc Mỹ 3 tháng xuống dưới 0, vì nhà đầu tư chấp nhận lỗ để giữ tiền an toàn; Keith Hennessey, giám đốc Hội đồng Kinh tế Quốc gia của Nhà Trắng, nói với James Stewart của *The New Yorker* rằng với nhà hoạch định chính sách đó là dấu hiệu hoảng loạn.
+
+Khi giá giảm, lãi suất thực vẫn cao dù lãi suất danh nghĩa bằng 0: lãi suất danh nghĩa 0% mà giá giảm 5%/năm thì lãi suất thực là 5%, quá đắt cho một nền kinh tế trì trệ. Vì vậy các nhà kinh tế từ lâu cho rằng Nhật cần một liều lạm phát mạnh; một nhà kinh tế rất nổi tiếng khuyên Ngân hàng Nhật Bản làm mọi thứ, chỉ thiếu điều "thả tiền từ trực thăng". Nối với Chương 8, một giả thuyết cho rằng Nhật không chống giảm phát quyết liệt hơn vì dân số già, nhiều người sống bằng thu nhập cố định hay tiền tiết kiệm nên được lợi khi giá giảm.
 
 Mỹ cũng từng chịu giảm phát. Các nhà kinh tế đồng thuận rằng chính sách tiền tệ sai là cốt lõi của Đại Suy thoái: từ 1929 tới 1933, cung tiền Mỹ giảm 28%. Fed không chủ động thu hẹp cung tiền mà để nó tự co lại khi làn sóng đổ vỡ ngân hàng năm 1930 khiến ngân hàng và dân chúng tích trữ tiền mặt không cho vay lại; thay vì bơm tiền, Fed còn tăng mạnh lãi suất năm 1931 để bảo vệ bản vị vàng.
 
@@ -652,7 +665,9 @@ Mục đích chung của các biện pháp này là đưa tín dụng tới nh�
 
 Chính sách tiền tệ làm đúng thì giúp tăng trưởng và đỡ cho nền kinh tế trước các cú sốc; làm sai thì gây đau khổ. Wheelan thừa nhận các biện pháp phi truyền thống có thể gieo mầm cho rắc rối mới, nhưng theo bằng chứng tới lúc đó, nhiều khả năng Fed đã ngăn một khủng hoảng nghiêm trọng hơn. Khi tái bổ nhiệm Bernanke cho nhiệm kỳ thứ hai bắt đầu năm 2010, Tổng thống Obama nói Bernanke, chuyên gia về nguyên nhân Đại Suy thoái, hẳn không ngờ mình sẽ góp phần ngăn một cuộc Đại Suy thoái khác; Wheelan nhận xét lời khen đó tạm thời có vẻ đúng.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một hộ gia đình gửi tiết kiệm 1 tỷ đồng kỳ hạn một năm, lãi 5%/năm, và một doanh nghiệp vay 1 tỷ đồng cũng lãi 5%/năm. Nếu lạm phát năm đó là 3%, người gửi tiền có lãi thực khoảng 2%, doanh nghiệp chịu chi phí vay thực khoảng 2%. Nếu lạm phát bất ngờ lên 8%, cả hai vẫn thấy con số 5% trên giấy, nhưng người gửi tiền thực tế mất khoảng 3% sức mua, còn doanh nghiệp được lợi vì khoản nợ trả lại có sức mua thấp hơn khoản đã vay. Ngược lại, nếu giá cả bất ngờ giảm 2%, lãi suất thực của doanh nghiệp vọt lên khoảng 7% dù hợp đồng không đổi một chữ nào. Đây đúng là điều Wheelan nói: lạm phát bất ngờ phân phối lại của cải từ người cho vay sang người đi vay, và giảm phát làm điều ngược lại, nên nó bóp nghẹt những người đang mắc nợ.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một hộ gia đình gửi tiết kiệm 1 tỷ đồng kỳ hạn một năm, lãi 5%/năm, và một doanh nghiệp vay 1 tỷ đồng cũng lãi 5%/năm. Nếu lạm phát năm đó là 3%, người gửi tiền có lãi thực khoảng 2%, doanh nghiệp chịu chi phí vay thực khoảng 2%.
+
+Nếu lạm phát bất ngờ lên 8%, cả hai vẫn thấy con số 5% trên giấy, nhưng người gửi tiền thực tế mất khoảng 3% sức mua, còn doanh nghiệp được lợi vì khoản nợ trả lại có sức mua thấp hơn khoản đã vay. Ngược lại, nếu giá cả bất ngờ giảm 2%, lãi suất thực của doanh nghiệp vọt lên khoảng 7% dù hợp đồng không đổi một chữ nào. Đây đúng là điều Wheelan nói: lạm phát bất ngờ phân phối lại của cải từ người cho vay sang người đi vay, và giảm phát làm điều ngược lại, nên nó bóp nghẹt những người đang mắc nợ.
 
 ## Luận điểm kinh tế cốt lõi
 
@@ -755,7 +770,9 @@ Ngân hàng trung ương kiểm soát cung tiền, và qua đó kiểm soát lã
 
 ### Hình ảnh xe chở tiền là cách giải thích nghiệp vụ thị trường mở dễ nhớ nhất, nhưng cơ chế số nhân tiền đã đơn giản hoá
 
-Điểm mạnh của chương là biến một cơ chế trừu tượng thành hình ảnh cụ thể: Fed không cho tiền, mà đổi tiền lấy trái phiếu, và ngân hàng không giàu thêm mà chỉ có thêm tiền để cho vay. Tuy vậy, câu chuyện "100 triệu USD thành 1 tỷ USD" dựa vào giả định ngân hàng luôn cho vay hết phần vượt dự trữ. Ngay trong thời điểm sách viết, điều đó đã không đúng: sau 2008, Fed bơm rất nhiều tiền nhưng phần lớn nằm lại thành dự trữ dư thừa của ngân hàng, vì ngân hàng ngại cho vay và người vay ngại vay (chính là hình ảnh "đẩy sợi mì ướt" mà Wheelan nhắc). Về sau, Fed và nhiều ngân hàng trung ương chuyển sang điều hành lãi suất bằng cách trả lãi trên dự trữ thay vì chỉ điều chỉnh lượng dự trữ; cơ chế "lò sưởi và bộ điều nhiệt" vẫn đúng về tinh thần nhưng đường ống đã khác.
+Điểm mạnh của chương là biến một cơ chế trừu tượng thành hình ảnh cụ thể: Fed không cho tiền, mà đổi tiền lấy trái phiếu, và ngân hàng không giàu thêm mà chỉ có thêm tiền để cho vay.
+
+Tuy vậy, câu chuyện "100 triệu USD thành 1 tỷ USD" dựa vào giả định ngân hàng luôn cho vay hết phần vượt dự trữ. Ngay trong thời điểm sách viết, điều đó đã không đúng: sau 2008, Fed bơm rất nhiều tiền nhưng phần lớn nằm lại thành dự trữ dư thừa của ngân hàng, vì ngân hàng ngại cho vay và người vay ngại vay (chính là hình ảnh "đẩy sợi mì ướt" mà Wheelan nhắc). Về sau, Fed và nhiều ngân hàng trung ương chuyển sang điều hành lãi suất bằng cách trả lãi trên dự trữ thay vì chỉ điều chỉnh lượng dự trữ; cơ chế "lò sưởi và bộ điều nhiệt" vẫn đúng về tinh thần nhưng đường ống đã khác.
 
 ### Lập luận về động cơ chính trị đằng sau lạm phát là phần sắc nhất của chương
 
@@ -779,3 +796,171 @@ Wheelan chủ yếu bênh Fed năm 2008. Phía phê phán có hai luồng: một
 - **Trong đầu tư.** Câu chuyện Greenspan cho thấy tiền rẻ có thể không hiện ra ở giá hàng tiêu dùng mà ở giá cổ phiếu và bất động sản. Khi lãi suất thấp kéo dài và giá tài sản tăng mạnh hơn nhiều so với thu nhập, nhà đầu tư nên tự hỏi phần tăng nào đến từ giá trị thật, phần nào đến từ "vòi tín dụng" đang mở. Gửi tiết kiệm lãi thấp cũng không "an toàn" nếu lạm phát cao hơn lãi suất: tiền gốc bị gặm qua cửa sau.
 - **Trong nghề nghiệp và tài chính cá nhân.** Một mức tăng lương danh nghĩa chỉ có nghĩa khi so với lạm phát; khi đàm phán hợp đồng nhiều năm, nên quan tâm tới điều khoản điều chỉnh theo giá. Người có nợ lãi suất thả nổi chịu rủi ro trực tiếp từ quyết định của ngân hàng trung ương.
 - **Khi đọc tin chính sách ở Việt Nam.** Ngân hàng Nhà nước Việt Nam điều hành bằng nhiều công cụ hơn Fed (lãi suất điều hành, hạn mức tăng trưởng tín dụng, tỷ giá, nghiệp vụ thị trường mở), và mức độ độc lập với chính phủ khác với Fed. Khi đọc tin "nới room tín dụng" hay "hạ lãi suất điều hành", hãy dùng khung của chương: tín dụng thêm sẽ chảy vào sản xuất hay vào bất động sản và chứng khoán; nền kinh tế đang dưới hay đã chạm "giới hạn tốc độ"; và người dân, doanh nghiệp có tin vào cam kết giữ ổn định giá cả không, vì niềm tin đó tự nó giữ lạm phát thấp.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 10 trên một trang: sáu nhánh lớn đi theo các mục 1–11 của phần Nội dung chi tiết (quyền lực và cơ cấu của Fed, giới hạn tốc độ và cái giá dập lạm phát, cơ chế điều khiển lãi suất và bốn cái khó, bản chất của tiền và lạm phát, giảm phát và Fed trong khủng hoảng 2007–2009), mỗi nhánh ghi cơ chế, ví dụ và con số then chốt của Wheelan; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 10: Fed nắm vòi tín dụng qua cung tiền, cấp quá ít thì tăng trưởng dưới sức, quá nhiều thì lạm phát`"]
+  n1["`Mục 1–2 — Quyền lực của Fed đến từ việc kiểm soát cung tiền`"]
+  n0 --- n1
+  n2["`Ngày 11/9/2001, thông báo hai câu đủ làm thị trường thế giới bình tĩnh, rồi Fed hạ lãi suất 0,5 điểm`"]
+  n1 --- n2
+  n3["`Mở rộng cung tiền làm lãi suất giảm, khuyến khích chi tiêu cho thứ mua bằng tiền vay, từ ô tô tới nhà máy`"]
+  n1 --- n3
+  n4["`Fed bơm tiền sau sụp đổ chứng khoán 1987, vụ 11/9 và bong bóng nhà đất vỡ`"]
+  n3 --- n4
+  n5["`Krugman: muốn dự báo thất nghiệp Mỹ thì lấy con số Greenspan muốn, cộng trừ sai số`"]
+  n1 --- n5
+  n6["`Fed gồm 12 Ngân hàng Dự trữ khu vực và Hội đồng Thống đốc 7 người ở Washington`"]
+  n1 --- n6
+  n7["`Giám sát ngân hàng chỉ cần năng lực, chính sách tiền tệ thì khó như phẫu thuật não`"]
+  n1 --- n7
+  n8["`Mundell: ổn định giá thay vì bám bản vị vàng thập niên 1920 thì đã không có Đại Suy thoái, Thế chiến II`"]
+  n7 --- n8
+  n9["`Mục 3–4 — Không thể hạ lãi suất mãi vì nền kinh tế có giới hạn tốc độ`"]
+  n0 --- n9
+  n10["`Ví dụ PT Cruiser: cầu tăng 5%, Chrysler thiếu thợ lành nghề, tăng giá, công đoàn đòi tăng lương`"]
+  n9 --- n10
+  n11["`Cầu vượt sức sản xuất khắp nền kinh tế thì cách duy nhất phân bổ là giá tăng, tức lạm phát`"]
+  n9 --- n11
+  n12["`Lạm phát không làm ai khá hơn: chỉ con số danh nghĩa đổi, GDP thực đã chạm giới hạn`"]
+  n11 --- n12
+  n13["`Kỳ vọng giá tăng mãi tự duy trì và rất khó phá, như nước Mỹ thập niên 1970`"]
+  n11 --- n13
+  n14["`Giới hạn tốc độ của Mỹ khoảng 3%/năm, do lao động, vốn và tiến bộ công nghệ quyết định`"]
+  n9 --- n14
+  n15["`Cuối thập niên 1990: công nhân ô tô dọa đình công vì làm thêm giờ, quán ăn nhanh trả thưởng tuyển người`"]
+  n14 --- n15
+  n16["`Có sức tăng 3% mà chỉ đạt 1,5% thì nhà máy nằm im, người lẽ ra có việc thì thất nghiệp`"]
+  n14 --- n16
+  n17["`Martin: việc của Fed là lấy bát rượu punch đi đúng lúc bữa tiệc vừa vui lên`"]
+  n9 --- n17
+  n18["`Lạm phát 3% (1972) lên 13,5% (1980), Volcker đẩy lãi suất ngắn hạn lên trên 16% năm 1981`"]
+  n17 --- n18
+  n19["`Suy thoái 1981–1982: GDP giảm 3%, thất nghiệp gần 10%, đến 1983 lạm phát còn 3%`"]
+  n17 --- n19
+  n20["`Bài học: ngăn lạm phát từ đầu dễ và ít đau hơn nhiều so với chữa sau`"]
+  n17 --- n20
+  n21["`Mục 5–6 — Fed tác động gián tiếp lên lãi suất qua phía cung của vốn`"]
+  n0 --- n21
+  n22["`Lãi suất là giá thuê vốn, như tiền thuê căn hộ: ngân hàng nhiều tiền phải hạ lãi để tìm người vay`"]
+  n21 --- n22
+  n23["`FOMC gồm 7 thống đốc, chủ tịch Fed New York và 4 chủ tịch Fed khu vực luân phiên quyết định lãi suất`"]
+  n21 --- n23
+  n24["`Lãi suất chiết khấu: vay thẳng từ Fed, mang tiếng như người ngoài 25 tuổi vẫn vay tiền bố mẹ`"]
+  n23 --- n24
+  n25["`Lãi suất quỹ liên bang: Fed đặt mục tiêu, cung tiền là lò sưởi, lãi suất là bộ điều nhiệt`"]
+  n23 --- n25
+  n26["`Nghiệp vụ thị trường mở: Fed dùng tiền mới tạo mua trái phiếu của ngân hàng tới khi lãi suất đạt mục tiêu`"]
+  n21 --- n26
+  n27["`Fed mua 100 triệu USD trái phiếu của Citibank: ngân hàng không giàu thêm, chỉ có thêm tiền để cho vay`"]
+  n26 --- n27
+  n28["`Cho vay lại qua nhiều vòng, 100 triệu USD có thể làm cung tiền tăng tới khoảng 10 lần`"]
+  n26 --- n28
+  n29["`Bốn cái khó: không biết chính xác giới hạn tốc độ, Greenspan tin công nghệ thông tin đã nâng nó lên`"]
+  n21 --- n29
+  n30["`Độ trễ vài tuần tới vài năm: hạ 0,25 điểm khiến 12 hay 421 người ở Des Moines mua xe, không ai biết`"]
+  n29 --- n30
+  n31["`Fed chỉ điều khiển lãi suất ngắn hạn, lãi suất dài hạn theo dự đoán cung tiền 10–30 năm tới`"]
+  n29 --- n31
+  n32["`Chính sách tài khóa của Quốc hội tác động độc lập, cùng cú sốc như khủng hoảng tài chính, giá dầu`"]
+  n29 --- n32
+  n33["`Greenspan bị chê giữ lãi suất quá thấp quá lâu: tiền rẻ chảy vào cổ phiếu, nhà đất, không hiện trong CPI`"]
+  n21 --- n33
+  n34["`Mục 7–8 — Tiền giấy chỉ có giá trị nhờ khan hiếm và lòng tin`"]
+  n0 --- n34
+  n35["`Tiền khác của cải: chỉ là phương tiện trao đổi, thay cho đổi 5 con gà lấy một cái váy`"]
+  n34 --- n35
+  n36["`Bốn điều kiện: phương tiện trao đổi, đơn vị tính, gọn và bền, tương đối khan hiếm`"]
+  n34 --- n36
+  n37["`Nhà tù liên bang cấm thuốc lá, tù nhân dùng hộp cá thu giá khoảng 1 USD làm tiền, cắt tóc 2 hộp`"]
+  n34 --- n37
+  n38["`Năm 1971 Mỹ bỏ hẳn bản vị vàng, đô la không còn giá trị nội tại, chỉ còn sức mua`"]
+  n34 --- n38
+  n39["`Ấn Độ: chủ tiệm từ chối tờ rupee rách dù là tiền hợp pháp, chỉ vì tin người khác cũng từ chối`"]
+  n38 --- n39
+  n40["`Lạm phát là sức mua của đồng tiền giảm, đo bằng chỉ số giá tiêu dùng, như máy kéo 7.500 lên 40.000 USD`"]
+  n34 --- n40
+  n41["`Đức: tờ báo từ khoảng 1/3 mác năm 1921 lên 70 triệu mác hai năm sau, rúp Belarus mất 10% trong một tuần`"]
+  n40 --- n41
+  n42["`Lạm phát bất ngờ phân phối lại từ người cho vay sang người vay, ăn mòn tiền gửi và lương hưu cố định`"]
+  n40 --- n42
+  n43["`Cổ phiếu lãi 10%, lạm phát 10%: không có lãi thực mà vẫn nộp thuế trên khoản lãi 10%`"]
+  n40 --- n43
+  n44["`Barro, gần 100 nước: lạm phát đáng kể đi kèm tăng trưởng GDP thực chậm hơn`"]
+  n40 --- n44
+  n45["`Chính phủ gây lạm phát vì nợ nhiều và in tiền là thuế lạm phát đánh vào tiền trong ví dân`"]
+  n34 --- n45
+  n46["`Lời đồn Arthur Burns giúp Nixon năm 1972, gia đình Bush giận Greenspan vì không nới tiền trước 1992`"]
+  n45 --- n46
+  n47["`Ngân hàng trung ương độc lập có lạm phát thấp hơn, thống đốc Fed nhiệm kỳ 14 năm, uy tín tự thực hiện`"]
+  n45 --- n47
+  n48["`Mục 9–11 — Giảm phát còn tệ hơn, và Fed 2008 làm ngược lại Fed 1930`"]
+  n0 --- n48
+  n49["`Vòng xoáy giảm phát: giá giảm thì hoãn mua, kinh tế suy sụp, giá lại giảm, như Nhật Bản hai thập kỷ`"]
+  n48 --- n49
+  n50["`Nợ xấu tăng, tài sản thế chấp mất giá, doanh nghiệp lành mạnh cũng không vay được, TARP nhằm tái cấp vốn`"]
+  n49 --- n50
+  n51["`Lãi suất danh nghĩa không xuống dưới 0, giá giảm 5%/năm thì lãi suất thực vẫn là 5%`"]
+  n48 --- n51
+  n52["`Lợi suất tín phiếu kho bạc Mỹ 3 tháng từng dưới 0 lúc Lehman sụp, một dấu hiệu hoảng loạn`"]
+  n51 --- n52
+  n53["`Nhật cần liều lạm phát mạnh, làm mọi thứ chỉ thiếu điều thả tiền từ trực thăng`"]
+  n51 --- n53
+  n54["`Đại Suy thoái: cung tiền Mỹ giảm 28% giai đoạn 1929–1933, Fed còn tăng lãi suất năm 1931 giữ bản vị vàng`"]
+  n48 --- n54
+  n55["`Ben trực thăng hạ mục tiêu lãi suất 7 lần từ 9/2007 tới 4/2008, rồi như đẩy sợi mì ướt`"]
+  n48 --- n55
+  n56["`Người cho vay cuối cùng: Điều 13(3) cho Fed cho vay bất kỳ ai không vay được ngân hàng`"]
+  n55 --- n56
+  n57["`Băng keo: cho vay ẩn danh qua cửa sổ chiết khấu, nới tài sản thế chấp sang chứng khoán nợ nhà`"]
+  n55 --- n57
+  n58["`Cho JPMorgan Chase vay 30 tỷ USD mua lại Bear Stearns, tránh hỗn loạn kiểu Lehman`"]
+  n55 --- n58
+  n59["`Romer: khác thập niên 1930, phản ứng lần này nhanh và táo bạo, Obama tái bổ nhiệm Bernanke từ 2010`"]
+  n48 --- n59
+  n60["`Thông điệp xuyên suốt`"]
+  n0 --- n60
+  n61["`Chính sách tiền tệ làm đúng thì giúp tăng trưởng và đỡ cú sốc, làm sai thì gây đau khổ`"]
+  n60 --- n61
+  n62["`Uy tín và độc lập là tài sản quan trọng nhất của ngân hàng trung ương vì tiền dựa vào lòng tin`"]
+  n60 --- n62
+  n63["`Phòng lạm phát dễ hơn chữa, còn khi khủng hoảng phải bơm tiền và giữ tín dụng chảy`"]
+  n60 --- n63
+  n64["`Biện pháp phi truyền thống có thể gieo mầm rắc rối mới, nhưng nhiều khả năng đã ngăn khủng hoảng tồi tệ hơn`"]
+  n60 --- n64
+  class n0 root
+  class n1,n9,n21,n34,n48,n60 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n33,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n46,n47,n49,n50,n51,n52,n53,n54,n55,n56,n57,n58,n59,n61,n62,n63,n64 leaf
+```
+
+## Nguồn
+
+Charles Wheelan, *Naked Economics: Undressing the Dismal Science*, ấn bản sửa đổi và cập nhật (W. W. Norton, 2010), Chương 10.
+
+## Tác giả
+
+Charles Wheelan (sinh 1966), nhà kinh tế và nhà báo Mỹ, từng là phóng viên của *The Economist* ở Trung Tây nước Mỹ, giảng dạy chính sách công tại Đại học Chicago và Dartmouth.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 9 mở phần kinh tế vĩ mô: GDP, chu kỳ kinh doanh, suy thoái, và hai công cụ để chống suy thoái là chính sách tài khoá và chính sách tiền tệ.
+
+Chương 10 đi sâu vào công cụ thứ hai: Cục Dự trữ Liên bang (Fed) điều chỉnh lãi suất bằng cách nào, vì sao nó không thể cứ hạ lãi suất mãi, tiền giấy có giá trị nhờ đâu, vì sao lạm phát và nhất là giảm phát nguy hiểm, và Fed đã làm gì trong khủng hoảng 2007–2009.
+
+Chương 11 tiếp theo mở rộng câu chuyện tiền tệ ra phạm vi quốc tế: nếu đồng đô la chỉ là tờ giấy và đồng yên cũng vậy, thì đổi bao nhiêu giấy Mỹ lấy bao nhiêu giấy Nhật.
+
+## Lưu ý
+
+- Sách được cập nhật sau khủng hoảng 2008, số liệu và bối cảnh tính đến khoảng cuối 2009 (Bernanke vừa được Tổng thống Obama tái bổ nhiệm, nhiệm kỳ hai bắt đầu năm 2010).
+- Một số nhận định đã bị thời gian thử thách: Wheelan viết lãi suất danh nghĩa "không thể âm" (và tự đính chính trong chú thích rằng lợi suất tín phiếu kho bạc Mỹ từng xuống dưới 0 trong lúc hoảng loạn 2008); về sau một số ngân hàng trung ương châu Âu và Nhật Bản còn chủ động đặt lãi suất chính sách âm trong nhiều năm.
+- Wheelan lo các biện pháp phi truyền thống có thể "dựng sân khấu cho rắc rối mới"; nỗi lo lạm phát cao sau đó không xảy ra suốt thập niên 2010, nhưng đến đầu thập niên 2020 lạm phát ở Mỹ lại tăng vọt, khiến Fed phải tăng lãi suất mạnh, đúng loại "lấy bát rượu punch đi" mà chương mô tả.
+- Mẫu xe Chrysler PT Cruiser mà Wheelan dùng làm ví dụ nay đã ngừng sản xuất.
+- Các câu trích là bản dịch của người tổng hợp.

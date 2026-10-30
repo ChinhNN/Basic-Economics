@@ -1,11 +1,20 @@
 # Chương 6 — Năng suất và vốn con người (Productivity and Human Capital: Why is Bill Gates so much richer than you are?)
 
-**Nguồn:** Charles Wheelan, *Naked Economics: Undressing the Dismal Science*, ấn bản sửa đổi và cập nhật (W. W. Norton, 2010), Chương 6.
-**Tác giả:** Charles Wheelan (sinh 1966), nhà kinh tế và nhà báo Mỹ, từng là phóng viên của *The Economist* ở Trung Tây nước Mỹ, giảng dạy chính sách công tại Đại học Chicago và Dartmouth.
-**Vị trí trong lập luận của cả cuốn sách:** Các chương 1 đến 5 dựng bộ công cụ vi mô: thị trường và động cơ khuyến khích, vai trò của chính phủ, ngoại ứng, thông tin. Chương 6 dùng bộ công cụ đó để trả lời câu hỏi lớn nhất về phân phối: vì sao có người rất giàu và có người rất nghèo, trong một nước và giữa các nước. Câu trả lời là vốn con người và năng suất. Chương này đặt nền cho Chương 7 (thị trường tài chính: vốn khan hiếm nên được trả "tiền thuê"), cho phần vĩ mô (Chương 9–11: muốn mức sống tăng thì năng suất phải tăng) và cho Chương 12–13 (thương mại, toàn cầu hoá và kinh tế học phát triển: nước nghèo nghèo chủ yếu vì thiếu vốn con người và thể chế).
-**Ý chính:** Wheelan muốn người đọc hiểu rằng **thu nhập của một người, và mức sống của một nước, được quyết định chủ yếu bởi năng suất, mà năng suất lại phụ thuộc vào vốn con người**: học vấn, kỹ năng, sức khoẻ, kinh nghiệm, óc kinh doanh. Ông mở đầu bằng ngôi nhà 100 triệu USD của Bill Gates và câu hỏi: nếu tước hết tài sản của một người và thả họ ra góc phố, họ còn lại gì? Gates sẽ ổn; một người bỏ học lớp 10 nghiện ma tuý thì không. Từ đó ông giải thích: giá của một kỹ năng phụ thuộc vào độ khan hiếm chứ không vào giá trị xã hội; nghèo đói về bản chất là thiếu vốn con người; "ngụy biện khối lượng việc làm cố định" là sai; tăng trưởng năng suất là trò chơi tổng dương; và bất bình đẳng ở Mỹ tăng vì vốn con người được trả công cao hơn bao giờ hết. Ông kết rằng người nghèo không nghèo **vì** Bill Gates giàu, và về lý thuyết không có giới hạn nào cho việc của cải có thể lan rộng tới đâu.
+## Ý chính
 
-> **Lưu ý:** Sách cập nhật sau khủng hoảng 2008; phần lớn số liệu trong chương tính đến khoảng 2004–2009 (tỷ lệ nghèo của Mỹ khoảng 13%, thu nhập theo nhóm của Văn phòng Ngân sách Quốc hội Mỹ (CBO) đến năm 2004, năng suất đến năm 2008). Vài chi tiết trong sách có sai sót nhỏ: Iraq rút khỏi Kuwait vào đầu năm 1991 chứ không phải 1990; tên hiệp định NAFTA bị in nhầm là "Free Tree"; câu "về lâu dài, năng suất là tất cả" được Wheelan gán cho Keynes, nhưng thường được biết là của Paul Krugman ("năng suất không phải là tất cả, nhưng về lâu dài nó gần như là tất cả"). Một số nhận định nay đã được thời gian kiểm chứng thêm: khoảng cách lương giữa người có và không có bằng đại học ở Mỹ vẫn lớn; tranh luận "công nghệ thông tin có làm năng suất tăng nhanh lâu dài không" nghiêng về phía Robert Gordon vì năng suất của Mỹ tăng chậm lại sau 2005; và trí tuệ nhân tạo đang đặt lại câu hỏi "công nghệ thay thế lao động ở nhóm kỹ năng nào". Chương không có chú thích chân trang dấu `*`. Các câu trích là bản dịch của người tổng hợp.
+Wheelan muốn người đọc hiểu rằng **thu nhập của một người, và mức sống của một nước, được quyết định chủ yếu bởi năng suất, mà năng suất lại phụ thuộc vào vốn con người**: học vấn, kỹ năng, sức khoẻ, kinh nghiệm, óc kinh doanh.
+
+Ông mở đầu bằng ngôi nhà 100 triệu USD của Bill Gates và câu hỏi: nếu tước hết tài sản của một người và thả họ ra góc phố, họ còn lại gì? Gates sẽ ổn; một người bỏ học lớp 10 nghiện ma tuý thì không.
+
+Từ đó ông giải thích:
+
+- giá của một kỹ năng phụ thuộc vào độ khan hiếm chứ không vào giá trị xã hội;
+- nghèo đói về bản chất là thiếu vốn con người;
+- "ngụy biện khối lượng việc làm cố định" là sai;
+- tăng trưởng năng suất là trò chơi tổng dương;
+- và bất bình đẳng ở Mỹ tăng vì vốn con người được trả công cao hơn bao giờ hết.
+
+Ông kết rằng người nghèo không nghèo **vì** Bill Gates giàu, và về lý thuyết không có giới hạn nào cho việc của cải có thể lan rộng tới đâu.
 
 ## Sơ đồ
 
@@ -528,7 +537,9 @@ Thị trường lao động trả giá cho kỹ năng theo độ khan hiếm, kh
 
 Người khá giả ở Mỹ (lập trình viên, bác sĩ phẫu thuật, kỹ sư, kế toán, giáo viên) phần lớn có kỹ năng nhờ đào tạo, tức là đã **đầu tư vào vốn con người**: bỏ chi phí hôm nay để có thu nhập cao hơn về sau. Một tấm bằng đại học được ước tính sinh lợi khoảng 10%/năm, mức mà ít nhà đầu tư Phố Wall đạt được đều đặn.
 
-**Câu chuyện Gamal Abouali: vốn con người là "hộ chiếu kinh tế".** Wheelan gọi vốn con người là hộ chiếu kinh tế, có khi theo nghĩa đen. Cuối thập niên 1980, người bạn đại học của ông là Gamal Abouali, người Palestine có gia đình sống ở Kuwait, bị cha mẹ buộc học dồn bốn năm đại học vào ba năm. Cha của Gamal giải thích: người Palestine không biết rồi sẽ phải sống ở đâu (gia đình từng ở Canada trước khi sang Kuwait), nên ông chọn nghề kế toán và muốn con có bằng kỹ sư càng sớm càng tốt, vì đó là những nghề hành nghề được ở mọi nước, và vì nhiều nước phát triển xét nhập cư theo học vấn và kỹ năng. Ông đã đúng: sau khi quân Saddam Hussein rút khỏi Kuwait, chính phủ Kuwait trục xuất phần lớn cộng đồng Palestine, trong đó có gia đình Gamal.
+**Câu chuyện Gamal Abouali: vốn con người là "hộ chiếu kinh tế".** Wheelan gọi vốn con người là hộ chiếu kinh tế, có khi theo nghĩa đen. Cuối thập niên 1980, người bạn đại học của ông là Gamal Abouali, người Palestine có gia đình sống ở Kuwait, bị cha mẹ buộc học dồn bốn năm đại học vào ba năm.
+
+Cha của Gamal giải thích: người Palestine không biết rồi sẽ phải sống ở đâu (gia đình từng ở Canada trước khi sang Kuwait), nên ông chọn nghề kế toán và muốn con có bằng kỹ sư càng sớm càng tốt, vì đó là những nghề hành nghề được ở mọi nước, và vì nhiều nước phát triển xét nhập cư theo học vấn và kỹ năng. Ông đã đúng: sau khi quân Saddam Hussein rút khỏi Kuwait, chính phủ Kuwait trục xuất phần lớn cộng đồng Palestine, trong đó có gia đình Gamal.
 
 Ở đầu kia, kỹ năng bán suất ăn ở McDonald's không khan hiếm (có lẽ 150 triệu người Mỹ làm được), nên cửa hàng chỉ cần trả đủ để có người đứng quầy: 7,25 USD/giờ khi kinh tế chậm, 11 USD/giờ khi thị trường lao động căng, và không bao giờ 500 USD/giờ như một luật sư tranh tụng hàng đầu.
 
@@ -553,7 +564,9 @@ Trái lại, công nhân học vấn thấp trong các nhà máy đóng cửa m�
 
 ### 4. Ngụy biện khối lượng việc làm cố định
 
-**Ngụy biện khối lượng việc làm cố định** (lump of labor fallacy) là niềm tin rằng nền kinh tế có một lượng việc nhất định, nên người này có việc thì người khác phải mất việc. Wheelan nêu chính phủ Pháp là ví dụ từng tin như vậy. Thực tế, việc làm được tạo ra mỗi khi ai đó cung cấp một sản phẩm mới hoặc cách làm tốt hơn, rẻ hơn cho sản phẩm cũ. Kinh tế Mỹ tạo hàng chục triệu việc làm trong ba thập kỷ, kể cả gần như toàn bộ ngành Internet (dù suy thoái từ 2007 cũng xoá nhiều việc). Hàng triệu phụ nữ vào thị trường lao động trong nửa sau thế kỷ 20 và các làn sóng nhập cư lớn đều không làm thất nghiệp tăng về dài hạn. Ngắn hạn có người mất việc hoặc bị ép lương, nhưng người lao động mới tiêu thu nhập của họ và tạo cầu mới, nên chiếc bánh to ra chứ không chỉ bị chia lại.
+**Ngụy biện khối lượng việc làm cố định** (lump of labor fallacy) là niềm tin rằng nền kinh tế có một lượng việc nhất định, nên người này có việc thì người khác phải mất việc. Wheelan nêu chính phủ Pháp là ví dụ từng tin như vậy. Thực tế, việc làm được tạo ra mỗi khi ai đó cung cấp một sản phẩm mới hoặc cách làm tốt hơn, rẻ hơn cho sản phẩm cũ.
+
+Kinh tế Mỹ tạo hàng chục triệu việc làm trong ba thập kỷ, kể cả gần như toàn bộ ngành Internet (dù suy thoái từ 2007 cũng xoá nhiều việc). Hàng triệu phụ nữ vào thị trường lao động trong nửa sau thế kỷ 20 và các làn sóng nhập cư lớn đều không làm thất nghiệp tăng về dài hạn. Ngắn hạn có người mất việc hoặc bị ép lương, nhưng người lao động mới tiêu thu nhập của họ và tạo cầu mới, nên chiếc bánh to ra chứ không chỉ bị chia lại.
 
 **Thị trấn nông nghiệp.** Wheelan dựng một cộng đồng nông dân tự cung tự cấp, mỗi nhà làm vừa đủ ăn và tự lo mọi việc vặt. Kết quả khi có người mới đến phụ thuộc vào vốn con người của họ:
 
@@ -595,7 +608,9 @@ Vốn con người quan trọng vì nó quyết định **năng suất** (produc
 
 Ngay chuẩn nghèo hiện nay cũng tương ứng với thu nhập thực của nhóm 10% giàu nhất một thế kỷ trước.
 
-**Ross Perot và NAFTA.** Năm 1992, ứng viên tổng thống độc lập Ross Perot phản đối Hiệp định Thương mại Tự do Bắc Mỹ (NAFTA), cảnh báo một "tiếng hút khổng lồ" kéo việc làm sang Mexico, nơi lương công nhân chỉ bằng một phần nhỏ ở Mỹ. Câu trả lời là năng suất: công nhân Mỹ phần lớn cạnh tranh được với lao động nước ngoài lương bằng một nửa hay thấp hơn, vì họ học cao hơn, khoẻ hơn, có nhiều vốn và công nghệ hơn, có thể chế và hạ tầng tốt hơn. Một nông dân Việt Nam học hai năm khó làm được việc của họ. Ngược lại, ở các ngành dùng nhiều lao động ít kỹ năng như dệt may, giày dép, công nhân Mỹ không đủ năng suất để bù mức lương cao: người nông dân Việt Nam ấy may được giày bóng rổ với chi phí thấp hơn nhiều lương tối thiểu ở Mỹ. Doanh nghiệp chỉ chuyển việc ra nước ngoài khi lương ở đó rẻ **so với sản lượng**:
+**Ross Perot và NAFTA.** Năm 1992, ứng viên tổng thống độc lập Ross Perot phản đối Hiệp định Thương mại Tự do Bắc Mỹ (NAFTA), cảnh báo một "tiếng hút khổng lồ" kéo việc làm sang Mexico, nơi lương công nhân chỉ bằng một phần nhỏ ở Mỹ.
+
+Câu trả lời là năng suất: công nhân Mỹ phần lớn cạnh tranh được với lao động nước ngoài lương bằng một nửa hay thấp hơn, vì họ học cao hơn, khoẻ hơn, có nhiều vốn và công nghệ hơn, có thể chế và hạ tầng tốt hơn. Một nông dân Việt Nam học hai năm khó làm được việc của họ. Ngược lại, ở các ngành dùng nhiều lao động ít kỹ năng như dệt may, giày dép, công nhân Mỹ không đủ năng suất để bù mức lương cao: người nông dân Việt Nam ấy may được giày bóng rổ với chi phí thấp hơn nhiều lương tối thiểu ở Mỹ. Doanh nghiệp chỉ chuyển việc ra nước ngoài khi lương ở đó rẻ **so với sản lượng**:
 
 | Người lao động nước ngoài | Chi phí so với lao động Mỹ | Sản lượng so với lao động Mỹ | Có đáng thuê không |
 |---|---|---|---|
@@ -618,7 +633,9 @@ Con cháu sẽ sống khá hơn nếu chúng năng suất hơn; chính **tăng t
 
 Tăng trưởng năng suất không phải trò chơi tổng bằng không. Nếu năng suất Nhật tăng 4% và Mỹ tăng 2%, cả hai cùng giàu lên; hai nông dân, một người mỗi năm làm thêm 2% còn người kia thêm 4%, đều ăn ngon hơn mỗi năm, dù chênh lệch kéo dài có thể gây ghen tị. Tương tự, nếu 500 triệu người Ấn Độ thoát nghèo, Mỹ cũng giàu lên: họ sẽ mua được phần mềm, ô tô, sách, nông sản Mỹ, và trong số họ có thể có người tìm ra vắc-xin AIDS hay cách chống ấm lên toàn cầu. Wheelan phỏng theo khẩu hiệu của Quỹ học bổng United Negro College Fund: lãng phí 500 triệu khối óc là điều tồi tệ.
 
-Tăng năng suất cần đầu tư (vốn vật chất, vốn con người, nghiên cứu, thể chế), tức là hy sinh tiêu dùng hôm nay: bỏ chiếc BMW để học đại học, công ty giữ lợi nhuận làm sản phẩm mới thay vì trả cổ tức, nhà nước thu thuế để tài trợ nghiên cứu di truyền. Thể chế cũng quan trọng: thuế cao, chính phủ tồi, quyền tài sản mập mờ, điều tiết quá mức làm nản đầu tư (nông trang tập thể là ví dụ), còn phân biệt đối xử với phụ nữ hay một nhóm dân cư bỏ phí một nguồn lực lớn. Đổi mới công nghệ thì chưa ai hiểu hết: vì sao Internet bùng nổ giữa thập niên 1990 mà không sớm hơn, vì sao giải mã được gen người mà chưa có năng lượng sạch rẻ. Wheelan so thúc đẩy năng suất với nuôi con: biết những gì quan trọng nhưng không có bản thiết kế chắc chắn.
+Tăng năng suất cần đầu tư (vốn vật chất, vốn con người, nghiên cứu, thể chế), tức là hy sinh tiêu dùng hôm nay: bỏ chiếc BMW để học đại học, công ty giữ lợi nhuận làm sản phẩm mới thay vì trả cổ tức, nhà nước thu thuế để tài trợ nghiên cứu di truyền.
+
+Thể chế cũng quan trọng: thuế cao, chính phủ tồi, quyền tài sản mập mờ, điều tiết quá mức làm nản đầu tư (nông trang tập thể là ví dụ), còn phân biệt đối xử với phụ nữ hay một nhóm dân cư bỏ phí một nguồn lực lớn. Đổi mới công nghệ thì chưa ai hiểu hết: vì sao Internet bùng nổ giữa thập niên 1990 mà không sớm hơn, vì sao giải mã được gen người mà chưa có năng lượng sạch rẻ. Wheelan so thúc đẩy năng suất với nuôi con: biết những gì quan trọng nhưng không có bản thiết kế chắc chắn.
 
 ### 8. Malthus và dân số
 
@@ -671,7 +688,9 @@ Về lý thuyết, một thế giới ai cũng có học, khoẻ mạnh và năn
 
 Wheelan kết luận vốn con người làm ta giàu hơn, khoẻ hơn, làm ít mà sống tốt hơn, và là thứ phân chia người có với người không có. Ông dẫn ý của Marvin Zonis (Trường Kinh doanh sau đại học, Đại học Chicago): thế giới ngày càng phức tạp nên nơi nào cũng cần nhiều vốn con người hơn; quốc gia, công ty, trường học nào tạo ra và dùng tốt người giỏi sẽ thắng, nơi nào không làm được sẽ tụt lại và trở thành nguồn rắc rối cho phần còn lại của thế giới.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Hai người cùng 18 tuổi ở một tỉnh. Người thứ nhất đi làm công nhân ngay, lương khởi điểm 7 triệu đồng/tháng. Người thứ hai học bốn năm ngành điện tử, tốn tổng cộng khoảng 200 triệu đồng (học phí, sinh hoạt phí) và mất bốn năm thu nhập (khoảng 340 triệu đồng nếu đi làm), tổng chi phí cơ hội khoảng 540 triệu đồng. Ra trường, người thứ hai làm kỹ thuật viên lương 14 triệu đồng/tháng; lúc đó lương người thứ nhất đã tăng lên khoảng 8 triệu đồng/tháng, nên chênh lệch là 6 triệu đồng/tháng, khoảng 72 triệu đồng/năm. Nếu chênh lệch đó giữ trong 30 năm, khoản đầu tư 540 triệu đồng sinh lợi khoảng 13%/năm, cao hơn hầu hết các kênh tiết kiệm. Nhưng nếu nhà máy nơi người thứ nhất làm đóng cửa, ví dụ NAWC và Springsteen cho thấy ai sẽ tìm được việc mới nhanh hơn. Đó là "vốn con người là hộ chiếu kinh tế" ở quy mô một hộ gia đình.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Hai người cùng 18 tuổi ở một tỉnh. Người thứ nhất đi làm công nhân ngay, lương khởi điểm 7 triệu đồng/tháng. Người thứ hai học bốn năm ngành điện tử, tốn tổng cộng khoảng 200 triệu đồng (học phí, sinh hoạt phí) và mất bốn năm thu nhập (khoảng 340 triệu đồng nếu đi làm), tổng chi phí cơ hội khoảng 540 triệu đồng.
+
+Ra trường, người thứ hai làm kỹ thuật viên lương 14 triệu đồng/tháng; lúc đó lương người thứ nhất đã tăng lên khoảng 8 triệu đồng/tháng, nên chênh lệch là 6 triệu đồng/tháng, khoảng 72 triệu đồng/năm. Nếu chênh lệch đó giữ trong 30 năm, khoản đầu tư 540 triệu đồng sinh lợi khoảng 13%/năm, cao hơn hầu hết các kênh tiết kiệm. Nhưng nếu nhà máy nơi người thứ nhất làm đóng cửa, ví dụ NAWC và Springsteen cho thấy ai sẽ tìm được việc mới nhanh hơn. Đó là "vốn con người là hộ chiếu kinh tế" ở quy mô một hộ gia đình.
 
 ## Luận điểm kinh tế cốt lõi
 
@@ -779,19 +798,27 @@ Thu nhập của một người và mức sống của một nước được qu
 
 Chương này mạnh ở chỗ dùng một khái niệm duy nhất để nối nhiều câu hỏi tưởng rời nhau: vì sao Gates giàu, vì sao người bỏ học nghèo, vì sao Nhật giàu mà Nigeria nghèo, vì sao mức sinh giảm, vì sao bất bình đẳng tăng. Những bằng chứng ông chọn (chênh lệch tỷ lệ nghèo 12 lần, chênh lệch lương 40% lên 80%, câu chuyện NAWC) đều thuyết phục.
 
-Nhưng Wheelan đơn giản hoá ở hai chỗ. Thứ nhất, ông nói gần như hoàn toàn về **cung** kỹ năng, ít nói về **thể chế** và **quyền lực thị trường**. Phần tăng thu nhập của nhóm 1% giàu nhất (từ 9% lên 16%) khó giải thích chỉ bằng vốn con người: nó gắn với lương thưởng giám đốc, tài chính, thuế, và các thị trường "người thắng lấy hết". Chính ông có nhắc công đoàn yếu đi, nhưng chỉ lướt qua. Thứ hai, câu "Ấn Độ nghèo chủ yếu vì 35% dân mù chữ" đảo ngược phần nào quan hệ nhân quả: mù chữ vừa là nguyên nhân vừa là hệ quả của nghèo, và Chương 13 của chính cuốn sách sẽ nhấn mạnh thể chế (pháp quyền, quyền tài sản) như nguyên nhân gốc. Vốn con người là điều kiện cần, chưa phải điều kiện đủ: nhiều nước có tỷ lệ biết chữ cao nhưng vẫn nghèo vì thể chế kém, và người có học ở đó di cư đi nơi khác.
+Nhưng Wheelan đơn giản hoá ở hai chỗ. Thứ nhất, ông nói gần như hoàn toàn về **cung** kỹ năng, ít nói về **thể chế** và **quyền lực thị trường**. Phần tăng thu nhập của nhóm 1% giàu nhất (từ 9% lên 16%) khó giải thích chỉ bằng vốn con người: nó gắn với lương thưởng giám đốc, tài chính, thuế, và các thị trường "người thắng lấy hết". Chính ông có nhắc công đoàn yếu đi, nhưng chỉ lướt qua.
+
+Thứ hai, câu "Ấn Độ nghèo chủ yếu vì 35% dân mù chữ" đảo ngược phần nào quan hệ nhân quả: mù chữ vừa là nguyên nhân vừa là hệ quả của nghèo, và Chương 13 của chính cuốn sách sẽ nhấn mạnh thể chế (pháp quyền, quyền tài sản) như nguyên nhân gốc. Vốn con người là điều kiện cần, chưa phải điều kiện đủ: nhiều nước có tỷ lệ biết chữ cao nhưng vẫn nghèo vì thể chế kém, và người có học ở đó di cư đi nơi khác.
 
 ### Bác bỏ ngụy biện khối lượng việc làm cố định là phần chắc chắn nhất, nhưng "dài hạn" có thể rất dài với từng người
 
-Lập luận rằng tổng số việc làm không cố định được kinh tế học chính thống ủng hộ gần như tuyệt đối, và số liệu Mỹ (phụ nữ, người nhập cư vào thị trường lao động mà thất nghiệp không tăng dài hạn) rất mạnh. Tuy nhiên, chính ước tính của Robert Topel mà Wheelan dẫn (mất 25% khả năng kiếm tiền vĩnh viễn) cho thấy cái giá cho từng người bị thay thế là lớn và kéo dài. Các nghiên cứu sau 2010 về "cú sốc Trung Quốc" đối với các vùng công nghiệp ở Mỹ cho thấy tác động lên việc làm và thu nhập ở những địa phương bị ảnh hưởng kéo dài hơn một thập kỷ; người lao động không dễ chuyển vùng hay chuyển nghề như mô hình thị trấn nông nghiệp gợi ý. Điều này không bác bỏ luận điểm của Wheelan (tổng số việc vẫn tăng), nhưng cho thấy câu "về dài hạn ai cũng khá lên" cần đi kèm chính sách hỗ trợ chuyển đổi, điều ông chỉ ngụ ý qua nhấn mạnh vào giáo dục.
+Lập luận rằng tổng số việc làm không cố định được kinh tế học chính thống ủng hộ gần như tuyệt đối, và số liệu Mỹ (phụ nữ, người nhập cư vào thị trường lao động mà thất nghiệp không tăng dài hạn) rất mạnh. Tuy nhiên, chính ước tính của Robert Topel mà Wheelan dẫn (mất 25% khả năng kiếm tiền vĩnh viễn) cho thấy cái giá cho từng người bị thay thế là lớn và kéo dài.
+
+Các nghiên cứu sau 2010 về "cú sốc Trung Quốc" đối với các vùng công nghiệp ở Mỹ cho thấy tác động lên việc làm và thu nhập ở những địa phương bị ảnh hưởng kéo dài hơn một thập kỷ; người lao động không dễ chuyển vùng hay chuyển nghề như mô hình thị trấn nông nghiệp gợi ý. Điều này không bác bỏ luận điểm của Wheelan (tổng số việc vẫn tăng), nhưng cho thấy câu "về dài hạn ai cũng khá lên" cần đi kèm chính sách hỗ trợ chuyển đổi, điều ông chỉ ngụ ý qua nhấn mạnh vào giáo dục.
 
 ### Từ 2010 đến nay: tranh luận năng suất nghiêng về Robert Gordon, và AI đặt lại câu hỏi "công nghệ thay ai"
 
-Wheelan trình bày tranh luận Greenspan và Gordon như một câu hỏi mở. Kể từ khi sách ra, năng suất của các nước giàu tăng chậm hẳn so với giai đoạn 2000–2008 mà ông dẫn, và quan điểm "công nghệ thông tin không nâng tốc độ tăng năng suất lâu dài" của Gordon có thêm bằng chứng (Gordon trình bày đầy đủ trong cuốn sách năm 2016 về sự trỗi dậy và suy giảm tăng trưởng của Mỹ). Mặt khác, mô hình "công nghệ làm người giỏi năng suất hơn, người ít kỹ năng thừa ra" của Wheelan đang được kiểm nghiệm lại với trí tuệ nhân tạo tạo sinh: lần đầu tiên một công nghệ có thể thay thế một phần công việc của chính những người có bằng đại học (viết, lập trình, phân tích), và một số nghiên cứu ban đầu cho thấy nó giúp người ít kinh nghiệm nhiều hơn người giỏi. Nếu điều đó đúng trên diện rộng, phí bảo hiểm của bằng cấp có thể không tiếp tục tăng như xu hướng 40% lên 80% mà Wheelan mô tả.
+Wheelan trình bày tranh luận Greenspan và Gordon như một câu hỏi mở. Kể từ khi sách ra, năng suất của các nước giàu tăng chậm hẳn so với giai đoạn 2000–2008 mà ông dẫn, và quan điểm "công nghệ thông tin không nâng tốc độ tăng năng suất lâu dài" của Gordon có thêm bằng chứng (Gordon trình bày đầy đủ trong cuốn sách năm 2016 về sự trỗi dậy và suy giảm tăng trưởng của Mỹ).
+
+Mặt khác, mô hình "công nghệ làm người giỏi năng suất hơn, người ít kỹ năng thừa ra" của Wheelan đang được kiểm nghiệm lại với trí tuệ nhân tạo tạo sinh: lần đầu tiên một công nghệ có thể thay thế một phần công việc của chính những người có bằng đại học (viết, lập trình, phân tích), và một số nghiên cứu ban đầu cho thấy nó giúp người ít kinh nghiệm nhiều hơn người giỏi. Nếu điều đó đúng trên diện rộng, phí bảo hiểm của bằng cấp có thể không tiếp tục tăng như xu hướng 40% lên 80% mà Wheelan mô tả.
 
 ### Phần về bất bình đẳng trung thực ở chỗ thừa nhận lập luận truyền thống của giới kinh tế có lỗ hổng
 
-Đáng chú ý là Wheelan không dừng ở lập luận quen thuộc "miễn người nghèo khá lên thì đừng lo". Ông đưa ra Mencken, nghiên cứu các cặp chị em và khảo sát của Robert Frank để cho thấy thu nhập tương đối ảnh hưởng thật đến hành vi và hạnh phúc, và nêu ba kênh cụ thể qua đó bất bình đẳng có thể kìm tăng trưởng. Ông để câu hỏi mở. Kể từ 2010, chủ đề này trở thành trung tâm của kinh tế học (công trình của Piketty, Saez, Chetty về cơ hội đi lên giữa các thế hệ), và nhiều nghiên cứu, kể cả của IMF, nghiêng về phía cho rằng bất bình đẳng quá cao làm tăng trưởng kém bền vững hơn. Câu kết "người nghèo nghèo dù Gates giàu" vẫn đúng về logic tổng dương, nhưng các nghiên cứu về cơ hội cho thấy nơi bất bình đẳng cao thường cũng là nơi trẻ em nghèo ít cơ hội tích luỹ vốn con người hơn, tức vòng xoắn mà chính Becker và Wheelan mô tả.
+Đáng chú ý là Wheelan không dừng ở lập luận quen thuộc "miễn người nghèo khá lên thì đừng lo". Ông đưa ra Mencken, nghiên cứu các cặp chị em và khảo sát của Robert Frank để cho thấy thu nhập tương đối ảnh hưởng thật đến hành vi và hạnh phúc, và nêu ba kênh cụ thể qua đó bất bình đẳng có thể kìm tăng trưởng. Ông để câu hỏi mở.
+
+Kể từ 2010, chủ đề này trở thành trung tâm của kinh tế học (công trình của Piketty, Saez, Chetty về cơ hội đi lên giữa các thế hệ), và nhiều nghiên cứu, kể cả của IMF, nghiêng về phía cho rằng bất bình đẳng quá cao làm tăng trưởng kém bền vững hơn. Câu kết "người nghèo nghèo dù Gates giàu" vẫn đúng về logic tổng dương, nhưng các nghiên cứu về cơ hội cho thấy nơi bất bình đẳng cao thường cũng là nơi trẻ em nghèo ít cơ hội tích luỹ vốn con người hơn, tức vòng xoắn mà chính Becker và Wheelan mô tả.
 
 ### Ví dụ về Việt Nam trong chương phản ánh Việt Nam đầu thập niên 2000, không phải hôm nay
 
@@ -802,4 +829,170 @@ Wheelan dùng "nông dân Việt Nam học hai năm" và "Nike trả 1 USD/ngày
 - **Trong nghề nghiệp.** Câu hỏi đúng không phải "nghề này có giá trị với xã hội không" mà "kỹ năng này khan hiếm đến đâu so với cầu". Kỹ năng phổ biến (thao tác đơn giản, việc có thể tự động hoá) sẽ bị trả theo giá thị trường thấp nhất, như suất ăn ở McDonald's; kỹ năng gần như độc nhất, hoặc tổ hợp kỹ năng hiếm (kỹ thuật cộng ngoại ngữ cộng hiểu ngành), mới được trả cao. Bài học của cha Gamal Abouali cũng áp dụng: ưu tiên kỹ năng "mang theo được" (dùng được ở nhiều công ty, nhiều ngành, nhiều nước) hơn kỹ năng chỉ có giá trị ở một nhà máy cụ thể, vì đó là bảo hiểm khi "nhà máy đóng cửa".
 - **Trong doanh nghiệp.** Thương vụ NAWC cho thấy tài sản quý nhất của một tổ chức trí thức là con người, không phải nhà xưởng. Khi định giá một doanh nghiệp hay quyết định đặt nhà máy, hãy hỏi lực lượng lao động ở đó có bao nhiêu vốn con người và có ở lại không. Khi cân nhắc chuyển sản xuất đi nơi lương thấp hơn, phép so sánh đúng là "chi phí lương trên một đơn vị sản lượng", không phải lương tuyệt đối: người tốn 1/10 tiền lương nhưng làm ra 1/10 sản lượng không phải món hời.
 - **Trong đầu tư.** Quy tắc 72 là công cụ nhanh để cảm nhận lãi kép, cả với tiền lẫn với năng suất. Khi đánh giá triển vọng dài hạn của một nền kinh tế hay một ngành, tốc độ tăng năng suất và chất lượng nguồn nhân lực là chỉ báo quan trọng hơn tài nguyên. Một nước hay một công ty giàu tài nguyên mà không đầu tư vào con người là một rủi ro, như ví dụ Nigeria.
-- **Khi đọc tin chính sách.** Khi nghe lập luận "người nước ngoài, người nhập cư hay máy móc lấy mất việc của người lao động trong nước", hãy nhận ra ngụy biện khối lượng việc làm cố định; câu hỏi đúng là ai bị thay thế trong ngắn hạn, họ được hỗ trợ chuyển đổi thế nào, và tổng số việc làm có tăng không. Ở Việt Nam, khi đọc về lợi thế "lao động giá rẻ" để thu hút đầu tư, cần nhớ rằng theo logic của chương này, lợi thế đó chỉ là tạm thời và sẽ mất đi đúng khi đất nước thành công; lợi thế bền vững là năng suất, tức là giáo dục, đào tạo nghề và sức khoẻ của người lao động. Các chính sách cho trẻ em vùng khó khăn, đặc biệt là bé gái, đi học đầy đủ là đầu tư có lợi suất cao nhất mà chương này gợi ý.
+- **Khi đọc tin chính sách.** Khi nghe lập luận "người nước ngoài, người nhập cư hay máy móc lấy mất việc của người lao động trong nước", hãy nhận ra ngụy biện khối lượng việc làm cố định; câu hỏi đúng là ai bị thay thế trong ngắn hạn, họ được hỗ trợ chuyển đổi thế nào, và tổng số việc làm có tăng không.
+
+  Ở Việt Nam, khi đọc về lợi thế "lao động giá rẻ" để thu hút đầu tư, cần nhớ rằng theo logic của chương này, lợi thế đó chỉ là tạm thời và sẽ mất đi đúng khi đất nước thành công; lợi thế bền vững là năng suất, tức là giáo dục, đào tạo nghề và sức khoẻ của người lao động. Các chính sách cho trẻ em vùng khó khăn, đặc biệt là bé gái, đi học đầy đủ là đầu tư có lợi suất cao nhất mà chương này gợi ý.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 6 trên một trang: sáu nhánh lớn đi theo các mục 1–11 của phần Nội dung chi tiết (vốn con người và giá theo độ khan hiếm, nghèo đói và ngụy biện khối lượng việc làm cố định, vốn con người của xã hội và năng suất, tăng trưởng năng suất và dân số, bất bình đẳng, phần kết), mỗi nhánh ghi khái niệm, cơ chế, ví dụ và con số then chốt của Wheelan; nhánh cuối là thông điệp xuyên suốt và hàm ý chính sách.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 6: thu nhập và mức sống do năng suất quyết định, năng suất phụ thuộc vào vốn con người`"]
+  n1["`Mục 1–2 — Vốn con người và giá của kỹ năng theo độ khan hiếm`"]
+  n0 --- n1
+  n2["`Vốn con người: học vấn, kỹ năng, sức khoẻ, kinh nghiệm, óc kinh doanh nằm trong một người`"]
+  n1 --- n2
+  n3["`Phép thử: tước hết tiền, nhà, việc làm và thả ra góc phố, Gates vẫn ổn, Bubba bỏ học lớp 10 thì không`"]
+  n1 --- n3
+  n4["`Quốc vương Brunei có thể không ổn vì giàu nhờ dầu, không nhờ kỹ năng`"]
+  n3 --- n4
+  n5["`Thị trường trả cho kỹ năng theo độ khan hiếm, không theo giá trị xã hội`"]
+  n1 --- n5
+  n6["`Alex Rodriguez nhận 275 triệu USD cho 10 năm, Solow: có nhiều nhà kinh tế giỏi, chỉ có một Roger Clemens`"]
+  n5 --- n6
+  n7["`Khoảng 150 triệu người Mỹ bán được suất ăn McDonald's nên lương 7,25–11 USD/giờ, không bao giờ 500 USD/giờ`"]
+  n5 --- n7
+  n8["`Học là đầu tư vào vốn con người: bằng đại học sinh lợi khoảng 10%/năm`"]
+  n1 --- n8
+  n9["`Hộ chiếu kinh tế: cha Gamal Abouali ép con học kỹ sư trong 3 năm, gia đình sau bị Kuwait trục xuất`"]
+  n1 --- n9
+  n10["`Mục 3–4 — Nghèo đói là thiếu vốn con người, việc làm không cố định`"]
+  n0 --- n10
+  n11["`Không tìm được việc tốt là triệu chứng, thiếu kỹ năng mới là căn bệnh`"]
+  n10 --- n11
+  n12["`Tỷ lệ nghèo của người bỏ học trung học gấp 12 lần người tốt nghiệp đại học, Ấn Độ 35% dân mù chữ`"]
+  n10 --- n12
+  n13["`Các yếu tố vĩ mô quyết định mực nước, vốn con người quyết định chất lượng con thuyền`"]
+  n10 --- n13
+  n14["`Thả 100.000 người bỏ học xuống Chicago là thảm hoạ, 100.000 người tốt nghiệp đại học hàng đầu là vận may`"]
+  n10 --- n14
+  n15["`NAWC: 2.600 nhân viên, 40% là nhà khoa học hoặc kỹ sư, 98% ở lại làm cho Hughes năm 1997`"]
+  n10 --- n15
+  n16["`Topel: công nhân lâu năm mất việc vì nhà máy đóng cửa mất 25% khả năng kiếm tiền`"]
+  n10 --- n16
+  n17["`Ngụy biện khối lượng việc làm cố định sai: phụ nữ và người nhập cư vào thị trường lao động mà thất nghiệp không tăng dài hạn`"]
+  n10 --- n17
+  n18["`Thị trấn nông nghiệp: người không kỹ năng bị bảo lên tàu, nhà nông học bán cày tạo thêm việc`"]
+  n10 --- n18
+  n19["`Thợ mộc, cô giáo kéo theo, Wheelan gọi đó là lịch sử kinh tế Mỹ trong một trang`"]
+  n18 --- n19
+  n20["`Phá huỷ sáng tạo: cày tốt hơn làm người bán cày cũ mất việc, nhưng không gây thất nghiệp hàng loạt dài hạn`"]
+  n10 --- n20
+  n21["`Mục 5–6 — Vốn con người của xã hội và năng suất`"]
+  n0 --- n21
+  n22["`Ở nước thu nhập thấp, người mẹ học thêm 1 năm thì tử vong trẻ dưới 5 tuổi giảm 5–10%`"]
+  n21 --- n22
+  n23["`Becker: giáo dục, đào tạo, kỹ năng, sức khoẻ chiếm khoảng 75% của cải nền kinh tế hiện đại`"]
+  n21 --- n23
+  n24["`Mức sống tương quan với vốn con người, không với tài nguyên: Nhật, Thuỵ Sĩ giàu, Nigeria nhiều dầu`"]
+  n21 --- n24
+  n25["`Israel gần như không có tài nguyên nhưng thu nhập đầu người cao hơn Ả Rập Xê Út`"]
+  n24 --- n25
+  n26["`Khác biệt nhỏ trong sự chuẩn bị của gia đình phóng đại thành khác biệt lớn ở tuổi thiếu niên`"]
+  n21 --- n26
+  n27["`Năng suất là hiệu quả biến đầu vào thành đầu ra, mà một ngày chỉ có 24 giờ`"]
+  n21 --- n27
+  n28["`Lương thực cả năm cần 1.800 giờ lao động năm 1870, nay khoảng 260 giờ`"]
+  n21 --- n28
+  n29["`GDP thực đầu người từ 4.800 lên hơn 40.000 USD, giờ làm mỗi năm từ 3.100 xuống khoảng 1.730`"]
+  n21 --- n29
+  n30["`Perot sai về NAFTA: doanh nghiệp chỉ chuyển việc khi lương rẻ so với sản lượng`"]
+  n21 --- n30
+  n31["`Tốn 1/10 lương, làm 1/10 sản lượng thì không phải món hời, làm 1/2 thì có lẽ là món hời`"]
+  n30 --- n31
+  n32["`Mục 7–8 — Tăng trưởng năng suất và dân số`"]
+  n0 --- n32
+  n33["`Năng suất tăng 2,7%/năm (1947–1975) thì mức sống gấp đôi sau 27 năm, 1,4%/năm phải 51 năm`"]
+  n32 --- n33
+  n34["`Quy tắc 72: lấy 72 chia cho tốc độ tăng ra số năm để gấp đôi`"]
+  n32 --- n34
+  n35["`Greenspan cho rằng công nghệ thông tin nâng tốc độ tăng năng suất lâu dài, Gordon cho rằng không`"]
+  n32 --- n35
+  n36["`Tổng dương: năng suất Nhật tăng 4%, Mỹ tăng 2% thì cả hai cùng giàu lên`"]
+  n32 --- n36
+  n37["`500 triệu người Ấn Độ thoát nghèo sẽ mua hàng Mỹ, nên Mỹ cũng giàu lên`"]
+  n32 --- n37
+  n38["`Tăng năng suất cần đầu tư, tức hy sinh tiêu dùng hôm nay, và thể chế tốt`"]
+  n32 --- n38
+  n39["`Krugman: Malthus đúng trong 55 của 57 thế kỷ, chỉ sai từ Cách mạng Công nghiệp`"]
+  n32 --- n39
+  n40["`Becker: thời gian cha mẹ đắt hơn nên sinh ít con, đầu tư nhiều hơn cho mỗi con`"]
+  n32 --- n40
+  n41["`Người nghèo đông con vì nuôi con rẻ, cho bé gái đi học là vũ khí mạnh nhất giảm tăng dân số`"]
+  n32 --- n41
+  n42["`Đài Loan 1966–1975: số nữ tốt nghiệp trung học gấp đôi, mức sinh giảm một nửa`"]
+  n41 --- n42
+  n43["`Mục 9–10 — Bất bình đẳng tăng, và có nên lo`"]
+  n0 --- n43
+  n44["`CBO 1979–2004: thu nhập thực nhóm 20% thấp nhất tăng 2%, nhóm giữa 15%, nhóm 20% cao nhất 63%`"]
+  n43 --- n44
+  n45["`Nhóm 1% giàu nhất nhận 9% tổng thu nhập năm 1979, nay nhận 16%`"]
+  n43 --- n45
+  n46["`Chênh lệch lương giữa người có bằng đại học và người học hết trung học tăng từ 40% lên 80%`"]
+  n43 --- n46
+  n47["`Công nghệ làm người ít kỹ năng thừa ra: ATM, cây xăng tự phục vụ, robot ở General Motors`"]
+  n43 --- n47
+  n48["`Thương mại mở thị trường cho Boeing, Microsoft, còn Nike trả 1 USD/ngày ở xưởng bóc lột Việt Nam`"]
+  n43 --- n48
+  n49["`Lập luận không cần lo: bất bình đẳng là tín hiệu, người nghèo có bao nhiêu mới quan trọng`"]
+  n43 --- n49
+  n50["`Fogel: hơn 90% cư dân nhà ở xã hội có tivi màu`"]
+  n49 --- n50
+  n51["`Frank: đa số chọn kiếm 100.000 USD khi người khác 85.000, hơn là 110.000 khi người khác 200.000`"]
+  n43 --- n51
+  n52["`Bất bình đẳng quá lớn có thể kìm tăng trưởng: chối bỏ quyền tài sản, xa xỉ vô bổ, chính sách trừng phạt người giàu`"]
+  n43 --- n52
+  n53["`Mục 11 — Kết: người nghèo không nghèo vì Bill Gates giàu`"]
+  n0 --- n53
+  n54["`Gia đình ở nhà ở xã hội phía Nam Chicago nghèo dù Gates giàu, không phải vì Gates giàu`"]
+  n53 --- n54
+  n55["`Gates không lấy phần của họ mà tạo ra một khối của cải mới`"]
+  n53 --- n55
+  n56["`Ai làm việc chân tay: tự động hoá vì chi phí cơ hội cao, giao cho người trẻ, hoặc trả lương cao`"]
+  n53 --- n56
+  n57["`Mỹ ít người giúp việc hơn Ấn Độ: ai thuê nổi quản gia lẽ ra kiếm 50 USD/giờ viết phần mềm`"]
+  n56 --- n57
+  n58["`Người chở bùn trong cộng đồng toàn người học cao sẽ thuộc hàng lương cao nhất`"]
+  n56 --- n58
+  n59["`Zonis: quốc gia, công ty, trường học tạo ra và dùng tốt người giỏi sẽ thắng`"]
+  n53 --- n59
+  n60["`Thông điệp xuyên suốt`"]
+  n0 --- n60
+  n61["`Chống nghèo lâu dài là đầu tư vào vốn con người của người nghèo, đặc biệt giáo dục trẻ em gái`"]
+  n60 --- n61
+  n62["`Chia bớt giờ làm, chặn nhập cư hay thương mại để giữ việc dựa trên ngụy biện, sai về nguyên tắc`"]
+  n60 --- n62
+  n63["`Giải pháp cho bất bình đẳng là nâng vốn con người của người nghèo, không phải trừng phạt người giàu`"]
+  n60 --- n63
+  class n0 root
+  class n1,n10,n21,n32,n43,n53,n60 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n33,n34,n35,n36,n37,n38,n39,n40,n41,n42,n44,n45,n46,n47,n48,n49,n50,n51,n52,n54,n55,n56,n57,n58,n59,n61,n62,n63 leaf
+```
+
+## Nguồn
+
+Charles Wheelan, *Naked Economics: Undressing the Dismal Science*, ấn bản sửa đổi và cập nhật (W. W. Norton, 2010), Chương 6.
+
+## Tác giả
+
+Charles Wheelan (sinh 1966), nhà kinh tế và nhà báo Mỹ, từng là phóng viên của *The Economist* ở Trung Tây nước Mỹ, giảng dạy chính sách công tại Đại học Chicago và Dartmouth.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Các chương 1 đến 5 dựng bộ công cụ vi mô: thị trường và động cơ khuyến khích, vai trò của chính phủ, ngoại ứng, thông tin. Chương 6 dùng bộ công cụ đó để trả lời câu hỏi lớn nhất về phân phối: vì sao có người rất giàu và có người rất nghèo, trong một nước và giữa các nước. Câu trả lời là vốn con người và năng suất.
+
+Chương này đặt nền cho Chương 7 (thị trường tài chính: vốn khan hiếm nên được trả "tiền thuê"), cho phần vĩ mô (Chương 9–11: muốn mức sống tăng thì năng suất phải tăng) và cho Chương 12–13 (thương mại, toàn cầu hoá và kinh tế học phát triển: nước nghèo nghèo chủ yếu vì thiếu vốn con người và thể chế).
+
+## Lưu ý
+
+- Sách cập nhật sau khủng hoảng 2008; phần lớn số liệu trong chương tính đến khoảng 2004–2009 (tỷ lệ nghèo của Mỹ khoảng 13%, thu nhập theo nhóm của Văn phòng Ngân sách Quốc hội Mỹ (CBO) đến năm 2004, năng suất đến năm 2008).
+- Vài chi tiết trong sách có sai sót nhỏ: Iraq rút khỏi Kuwait vào đầu năm 1991 chứ không phải 1990; tên hiệp định NAFTA bị in nhầm là "Free Tree"; câu "về lâu dài, năng suất là tất cả" được Wheelan gán cho Keynes, nhưng thường được biết là của Paul Krugman ("năng suất không phải là tất cả, nhưng về lâu dài nó gần như là tất cả").
+- Một số nhận định nay đã được thời gian kiểm chứng thêm: khoảng cách lương giữa người có và không có bằng đại học ở Mỹ vẫn lớn; tranh luận "công nghệ thông tin có làm năng suất tăng nhanh lâu dài không" nghiêng về phía Robert Gordon vì năng suất của Mỹ tăng chậm lại sau 2005; và trí tuệ nhân tạo đang đặt lại câu hỏi "công nghệ thay thế lao động ở nhóm kỹ năng nào".
+- Chương không có chú thích chân trang dấu `*`.
+- Các câu trích là bản dịch của người tổng hợp.

@@ -1,11 +1,14 @@
 # Lời tựa và Lời giới thiệu (Foreword by Burton G. Malkiel; Introduction)
 
-**Nguồn:** Charles Wheelan, *Naked Economics: Undressing the Dismal Science*, ấn bản sửa đổi và cập nhật (W. W. Norton, 2010), Lời tựa (Foreword, do Burton G. Malkiel viết, ký tại Princeton, New Jersey, tháng 1/2010) và Lời giới thiệu (Introduction) của tác giả.
-**Tác giả:** Charles Wheelan (sinh 1966), nhà kinh tế và nhà báo Mỹ, từng là phóng viên của *The Economist* ở Trung Tây nước Mỹ, giảng dạy chính sách công tại Đại học Chicago và Dartmouth. Người viết lời tựa, Burton G. Malkiel, là giáo sư kinh tế Đại học Princeton, tác giả cuốn *A Random Walk Down Wall Street*, từng làm trong Hội đồng Cố vấn Kinh tế của Tổng thống Mỹ.
-**Vị trí trong lập luận của cả cuốn sách:** Hai phần mở đầu này không dạy một khái niệm cụ thể nào mà nói **vì sao** cần một cuốn sách như vậy và **cách** cuốn sách sẽ làm. Malkiel giải thích "tư duy như nhà kinh tế" gồm những gì và vì sao các nhà kinh tế, dù khác đảng phái, lại đồng ý với nhau nhiều đến thế. Wheelan đưa ra một loạt ví dụ ngắn để cho thấy kinh tế học soi sáng được những tranh luận chính sách nóng (thương mại, giờ làm, phân biệt đối xử, bảo hiểm y tế, ô nhiễm, khủng hoảng 2008), và hứa rằng sách sẽ không có đồ thị, biểu đồ hay phương trình. Các ví dụ ở đây là "trailer" cho các chương sau: động cơ khuyến khích và khủng hoảng 2008 (Chương 2), chính phủ và ngoại ứng (Chương 3), Fed (Chương 10), thương mại (Chương 12). Chương 1 sẽ bắt đầu bằng nền móng: thị trường vận hành thế nào.
-**Ý chính:** Kinh tế học bị coi là "khoa học ảm đạm" (*the dismal science*) và môn Kinh tế học nhập môn (Econ 101) làm sinh viên sợ, nhưng những ý tưởng quan trọng nhất của nó là trực giác, và người thông minh nào cũng hiểu được nếu bóc đi lớp vỏ kỹ thuật. Hậu quả của việc không hiểu là có thật: chính phủ Pháp năm 2000 rút tuần làm việc từ 39 xuống 35 giờ để "chia việc" cho người thất nghiệp, dựa trên ngụy biện rằng số việc làm trong nền kinh tế là cố định; chính sách không giảm được thất nghiệp và bị nới bỏ năm 2008. Kinh tế học không phải là quảng cáo cho phe thị trường tự do: chính nó cho thấy người lái xe không trả hết chi phí họ gây ra cho xã hội, và lời giải là thuế xăng cao hơn. "Kinh tế học trần trụi" (*naked economics*) nghĩa là kinh tế học khi đã bóc đi lớp áo phức tạp.
+## Ý chính
 
-> **Lưu ý:** Ấn bản đầu của sách ra năm 2002; ấn bản này (2010) được cập nhật sau khủng hoảng tài chính 2008, nên Lời giới thiệu dành nhiều chỗ cho khủng hoảng, bong bóng nhà đất và kinh tế học hành vi. Số liệu và ví dụ là của khoảng 2008–2009 (Ben Bernanke đang làm Chủ tịch Fed, Mỹ đang tranh luận cải cách y tế, Obama vừa thắng cử). Một số tranh luận nay đã ngã ngũ hoặc đổi hướng (cải cách y tế Mỹ đã thành luật năm 2010; NAFTA đã được thay bằng một hiệp định mới), nhưng lập luận kinh tế đằng sau vẫn nguyên giá trị. Lời cảm ơn (*Acknowledgments*) chủ yếu cảm ơn biên tập viên, trợ lý nghiên cứu và các nhà kinh tế đã đọc bản thảo (Malkiel, Robert Willis, Kenneth Rogoff), trong đó Wheelan nói ông chỉ là "người dịch" những ý tưởng của các nhà tư tưởng lớn qua nhiều thế kỷ, và ghi công Ann Wroe của *The Economist* đặt phụ đề cho sách. Các câu trích là bản dịch của người tổng hợp.
+Kinh tế học bị coi là "khoa học ảm đạm" (*the dismal science*) và môn Kinh tế học nhập môn (Econ 101) làm sinh viên sợ, nhưng những ý tưởng quan trọng nhất của nó là trực giác, và người thông minh nào cũng hiểu được nếu bóc đi lớp vỏ kỹ thuật.
+
+Hậu quả của việc không hiểu là có thật: chính phủ Pháp năm 2000 rút tuần làm việc từ 39 xuống 35 giờ để "chia việc" cho người thất nghiệp, dựa trên ngụy biện rằng số việc làm trong nền kinh tế là cố định; chính sách không giảm được thất nghiệp và bị nới bỏ năm 2008.
+
+Kinh tế học không phải là quảng cáo cho phe thị trường tự do: chính nó cho thấy người lái xe không trả hết chi phí họ gây ra cho xã hội, và lời giải là thuế xăng cao hơn.
+
+"Kinh tế học trần trụi" (*naked economics*) nghĩa là kinh tế học khi đã bóc đi lớp áo phức tạp.
 
 ## Sơ đồ
 
@@ -242,17 +245,23 @@ Malkiel cho rằng người ta hiểu sai biệt danh "khoa học ảm đạm" m
 
 ### 2. Kinh tế học khó, nhưng không phải không biết gì
 
-Theo Malkiel, kinh tế học khó hơn khoa học tự nhiên ở hai điểm: nhà kinh tế hiếm khi làm được thí nghiệm có kiểm soát, và con người không phải lúc nào cũng hành xử dự đoán được. Ngay khoa học tự nhiên cũng gặp giới hạn khi hệ thống phức tạp: mô hình thời tiết dùng vệ tinh nhiều khi không đánh bại được dự báo ngây thơ "mai giống hôm nay", và dự báo nóng lên toàn cầu dài hạn có khoảng sai số còn rộng hơn dự báo kinh tế. Dù vậy, nghề kinh tế vẫn nắm chắc một số điều: hành vi chịu ảnh hưởng mạnh của động cơ khuyến khích, mỗi lần bán đều có một lần mua, và cơ hội kiếm lời rõ ràng hiếm khi bị bỏ qua. Ý cuối là nền tảng của giả thuyết thị trường hiệu quả, chủ đề làm Malkiel nổi tiếng.
+Theo Malkiel, kinh tế học khó hơn khoa học tự nhiên ở hai điểm: nhà kinh tế hiếm khi làm được thí nghiệm có kiểm soát, và con người không phải lúc nào cũng hành xử dự đoán được. Ngay khoa học tự nhiên cũng gặp giới hạn khi hệ thống phức tạp: mô hình thời tiết dùng vệ tinh nhiều khi không đánh bại được dự báo ngây thơ "mai giống hôm nay", và dự báo nóng lên toàn cầu dài hạn có khoảng sai số còn rộng hơn dự báo kinh tế.
+
+Dù vậy, nghề kinh tế vẫn nắm chắc một số điều: hành vi chịu ảnh hưởng mạnh của động cơ khuyến khích, mỗi lần bán đều có một lần mua, và cơ hội kiếm lời rõ ràng hiếm khi bị bỏ qua. Ý cuối là nền tảng của giả thuyết thị trường hiệu quả, chủ đề làm Malkiel nổi tiếng.
 
 ### 3. Ảnh hưởng của nhà kinh tế trong chính phủ và kinh doanh
 
 Ở khu vực nhà nước, nhà kinh tế lo mục tiêu tăng trưởng và việc làm mà không gây lạm phát (khẩu hiệu tranh cử năm 1992 của Clinton là "Vấn đề là kinh tế, đồ ngốc!"), và công việc của Bộ Tư pháp (chống độc quyền), Cơ quan Bảo vệ Môi trường (hạn chế ô nhiễm) hay Bộ Y tế đều có lõi kinh tế. Malkiel dẫn ý của Keynes: những "người thực tế" tưởng mình miễn nhiễm với lý thuyết thường đang làm theo một nhà kinh tế đã quá cố.
 
-Ở khu vực tư nhân, dù Peter Lynch (quỹ Magellan của Fidelity) từng chê nói chuyện với nhà kinh tế là phí thời gian, thành tích của chính các nhà quản lý quỹ nay được chấm bằng công cụ của kinh tế học tài chính. Nhà kinh tế dự báo nhu cầu cho General Motors và Procter & Gamble, tư vấn chiến lược và quản lý tồn kho, lập danh mục theo đánh đổi rủi ro / lợi suất, tư vấn chính sách cổ tức và nợ; người giao dịch quyền chọn định giá bằng một mô hình kinh tế cài trong máy tính cầm tay. Với người tiêu dùng, kinh tế học giải thích những chuyện như vì sao cá nhân khó mua bảo hiểm y tế, vì sao người đi xa lộ dừng ở McDonald's dù có quán ngon hơn, vì sao nhiều người chọn trường "danh giá" đắt tiền, cùng các khái niệm lựa chọn bất lợi, hàng hoá công, thế lưỡng nan của người tù.
+Ở khu vực tư nhân, dù Peter Lynch (quỹ Magellan của Fidelity) từng chê nói chuyện với nhà kinh tế là phí thời gian, thành tích của chính các nhà quản lý quỹ nay được chấm bằng công cụ của kinh tế học tài chính. Nhà kinh tế dự báo nhu cầu cho General Motors và Procter & Gamble, tư vấn chiến lược và quản lý tồn kho, lập danh mục theo đánh đổi rủi ro / lợi suất, tư vấn chính sách cổ tức và nợ; người giao dịch quyền chọn định giá bằng một mô hình kinh tế cài trong máy tính cầm tay.
+
+Với người tiêu dùng, kinh tế học giải thích những chuyện như vì sao cá nhân khó mua bảo hiểm y tế, vì sao người đi xa lộ dừng ở McDonald's dù có quán ngon hơn, vì sao nhiều người chọn trường "danh giá" đắt tiền, cùng các khái niệm lựa chọn bất lợi, hàng hoá công, thế lưỡng nan của người tù.
 
 ### 4. Nhà kinh tế đồng ý với nhau nhiều hơn người ta tưởng
 
-Malkiel đảo lại câu đùa "mười nhà kinh tế, mười câu trả lời": về những câu hỏi cốt lõi, họ gần như nhất trí. New York thiếu taxi vì giới hạn giấy phép và thiếu căn hộ vì kiểm soát giá thuê; thương mại tự do nâng mức sống, còn thuế quan và hạn ngạch làm giảm phúc lợi; kiểm soát giá thuê làm giảm cả số lượng lẫn chất lượng nhà ở; vụ khủng bố 11/9/2001 sẽ làm hoạt động kinh tế co lại. Từ kinh nghiệm làm trong chính phủ, ông nhận xét khoảng cách giữa nhà kinh tế hai đảng Cộng hoà và Dân chủ nhỏ hơn nhiều so với khoảng cách giữa nhà kinh tế và người làm ngành khác: trên nhiều vấn đề, đa số nhà kinh tế của cả hai đảng sẽ đứng đối diện một liên minh chính khách của cả hai đảng.
+Malkiel đảo lại câu đùa "mười nhà kinh tế, mười câu trả lời": về những câu hỏi cốt lõi, họ gần như nhất trí. New York thiếu taxi vì giới hạn giấy phép và thiếu căn hộ vì kiểm soát giá thuê; thương mại tự do nâng mức sống, còn thuế quan và hạn ngạch làm giảm phúc lợi; kiểm soát giá thuê làm giảm cả số lượng lẫn chất lượng nhà ở; vụ khủng bố 11/9/2001 sẽ làm hoạt động kinh tế co lại.
+
+Từ kinh nghiệm làm trong chính phủ, ông nhận xét khoảng cách giữa nhà kinh tế hai đảng Cộng hoà và Dân chủ nhỏ hơn nhiều so với khoảng cách giữa nhà kinh tế và người làm ngành khác: trên nhiều vấn đề, đa số nhà kinh tế của cả hai đảng sẽ đứng đối diện một liên minh chính khách của cả hai đảng.
 
 Sự đồng thuận đó đến từ một cách nhìn chung của nghề mà Malkiel liệt kê: suy luận theo chuỗi với mô hình đơn giản như cung và cầu; nhận diện đánh đổi trong ràng buộc; đo chi phí bằng lợi ích bị bỏ qua (chi phí cơ hội); nhắm tới hiệu quả; nghĩ theo cận biên; thấy các nguồn lực có thể thay thế nhau; tin rằng để cá nhân tự chọn thì phúc lợi tăng và thị trường cạnh tranh là cơ chế tốt để thể hiện lựa chọn; và tạm gác câu hỏi giá trị.
 
@@ -282,9 +291,13 @@ Wheelan không phủ nhận vai trò của toán, vốn là cách mô tả thế
 
 **Glenn Loury và ưu tiên nhóm thiểu số.** Glenn Loury, nhà kinh tế lý thuyết người da đen ở Đại học Boston, đặt ra thí nghiệm tư duy: 10 ứng viên (9 da trắng, 1 da đen) tranh 1 vị trí ở một công ty có chính sách chọn ứng viên thiểu số khi ngang tài; hai người giỏi nhất ngang nhau và công ty chọn người da đen. Chỉ một ứng viên da trắng thật sự bị thiệt, tám người kia đằng nào cũng trượt, nhưng cả chín người đều có thể ra về với cảm giác bị phân biệt đối xử. Loury không nhất thiết phản đối chính sách; ông chỉ ra rằng nó có thể làm tổn hại chính quan hệ chủng tộc mà nó muốn hàn gắn.
 
-**Đêm nằm viện thứ hai sau sinh.** Trong Thông điệp Liên bang năm 1998, Clinton hứa chấm dứt tình trạng sản phụ "sinh xong về ngay". Đêm thứ hai thường không cần thiết về y khoa nhưng đắt; nếu luật buộc bảo hiểm trả (cho quyền lợi này hay bất kỳ quyền lợi bắt buộc nào), công ty bảo hiểm sẽ tăng phí, và một số người ở ranh giới sẽ không còn mua nổi bảo hiểm. Câu hỏi chính sách thật vì vậy là: có nên làm nhiều phụ nữ dễ chịu hơn nếu cái giá là một nhóm nhỏ hơn mất cả bảo hiểm cơ bản. Wheelan cho rằng đánh đổi này nằm ở trung tâm cải cách y tế: hệ thống càng hào phóng càng đắt, dù nhà nước hay tư nhân vận hành, và việc khó nhất là thiết kế hệ thống chi tiền cho công nghệ y tế đáng đồng tiền và từ chối thứ không đáng.
+**Đêm nằm viện thứ hai sau sinh.** Trong Thông điệp Liên bang năm 1998, Clinton hứa chấm dứt tình trạng sản phụ "sinh xong về ngay". Đêm thứ hai thường không cần thiết về y khoa nhưng đắt; nếu luật buộc bảo hiểm trả (cho quyền lợi này hay bất kỳ quyền lợi bắt buộc nào), công ty bảo hiểm sẽ tăng phí, và một số người ở ranh giới sẽ không còn mua nổi bảo hiểm.
 
-**Xe hơi và thuế xăng.** Ví dụ này cho thấy kinh tế học không phải là quảng cáo cho phe thị trường tự do (ngay Milton Friedman cũng thừa nhận thị trường không kiềm chế có thể cho kết quả rất lệch). Người lái xe trả tiền xe, xăng, bảo dưỡng, bảo hiểm, nhưng không trả cho khí thải, ùn tắc, hao mòn đường công và nguy hiểm gây cho người đi xe nhỏ. Vì không trả đủ hoá đơn, giống như đi chơi bằng thẻ tín dụng của bố, người ta lái xe to hơn, dọn ra ngoại ô xa hơn và bỏ qua giao thông công cộng, còn xã hội gánh ô nhiễm, nóng lên toàn cầu và đô thị lan toả. Lời giải Wheelan đề xuất là thuế xăng và thuế xe cao hơn, cùng trợ cấp nhiều hơn cho giao thông công cộng (bàn tiếp ở Chương 3).
+Câu hỏi chính sách thật vì vậy là: có nên làm nhiều phụ nữ dễ chịu hơn nếu cái giá là một nhóm nhỏ hơn mất cả bảo hiểm cơ bản. Wheelan cho rằng đánh đổi này nằm ở trung tâm cải cách y tế: hệ thống càng hào phóng càng đắt, dù nhà nước hay tư nhân vận hành, và việc khó nhất là thiết kế hệ thống chi tiền cho công nghệ y tế đáng đồng tiền và từ chối thứ không đáng.
+
+**Xe hơi và thuế xăng.** Ví dụ này cho thấy kinh tế học không phải là quảng cáo cho phe thị trường tự do (ngay Milton Friedman cũng thừa nhận thị trường không kiềm chế có thể cho kết quả rất lệch). Người lái xe trả tiền xe, xăng, bảo dưỡng, bảo hiểm, nhưng không trả cho khí thải, ùn tắc, hao mòn đường công và nguy hiểm gây cho người đi xe nhỏ.
+
+Vì không trả đủ hoá đơn, giống như đi chơi bằng thẻ tín dụng của bố, người ta lái xe to hơn, dọn ra ngoại ô xa hơn và bỏ qua giao thông công cộng, còn xã hội gánh ô nhiễm, nóng lên toàn cầu và đô thị lan toả. Lời giải Wheelan đề xuất là thuế xăng và thuế xe cao hơn, cùng trợ cấp nhiều hơn cho giao thông công cộng (bàn tiếp ở Chương 3).
 
 **Thử giọng "mù" ở dàn nhạc.** Claudia Goldin (Harvard) và Cecilia Rouse (Princeton) đo phân biệt đối xử với phụ nữ bằng một thay đổi có thật: từ thập niên 1950 các dàn nhạc giao hưởng Mỹ dần cho người dự tuyển chơi sau tấm màn. Khi giám khảo không biết giới tính, khả năng phụ nữ qua vòng đầu tăng khoảng 50% và khả năng được chọn ở vòng cuối tăng gấp nhiều lần.
 
@@ -399,3 +412,156 @@ Hiếm sách nhập môn nào tự nhận nghề mình đã bỏ lỡ khủng ho
 - **Trong đầu tư.** Lời cảnh báo của Wheelan về bong bóng ("tin rằng điều đang xảy ra sẽ tiếp tục") là quy tắc phòng thân trực tiếp: khi lý do chính để mua là "giá đang lên", hãy coi đó là tín hiệu kiểm tra lại, không phải tín hiệu mua.
 - **Trong nghề nghiệp.** Bộ công cụ của Malkiel là thứ phân biệt người phân tích giỏi: biết hỏi chi phí cơ hội, nghĩ cận biên, thấy ngoại ứng. Những kỹ năng này dùng được trong mọi ngành, không chỉ kinh tế.
 - **Khi đọc tin chính sách.** Ở Việt Nam, các đề xuất như giảm giờ làm để tạo việc, bắt buộc doanh nghiệp đóng thêm một khoản phúc lợi, hay hạn chế hàng nhập để bảo vệ việc làm trong nước đều đáng được đặt dưới câu hỏi của Wheelan: chính sách có coi số việc làm là cố định không, chi phí thêm sẽ chuyển sang ai, và nhóm nào sẽ bị gạt ra ở ranh giới.
+
+## Bản đồ tư duy
+
+Toàn cảnh Lời tựa và Lời giới thiệu trên một trang: năm nhánh lớn đi theo các mục 1–11 của phần Nội dung chi tiết (nghĩa thật của chữ "ảm đạm" và giới hạn của kinh tế học, ảnh hưởng và sự đồng thuận của nhà kinh tế cùng bộ công cụ tư duy của Malkiel, lớp Econ 101 và nạn mù chữ kinh tế, năm ví dụ về sắc thái kinh tế học đem lại, khủng hoảng 2008 và mục tiêu của sách), mỗi nhánh ghi luận điểm, ví dụ và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Lời tựa và Lời giới thiệu: ý tưởng lớn của kinh tế học là trực giác, không hiểu chúng thì chính sách gây hại`"]
+  n1["`Mục 1–2 — #quot;Ảm đạm#quot; nghĩa là khan hiếm, kinh tế học khó nhưng vẫn nắm chắc vài điều`"]
+  n0 --- n1
+  n2["`Carlyle gọi kinh tế học là #quot;khoa học ảm đạm#quot;, Truman muốn có #quot;nhà kinh tế một tay#quot;`"]
+  n1 --- n2
+  n3["`Malkiel: ảm đạm vì khan hiếm ở khắp nơi, mọi thứ có chi phí, phải chọn giữa hôm nay và ngày mai`"]
+  n1 --- n3
+  n4["`Sinh viên thấy khô khan phần lớn do nhà kinh tế viết khó hiểu, lạm dụng toán và đồ thị`"]
+  n1 --- n4
+  n5["`Khó hơn khoa học tự nhiên: hiếm làm được thí nghiệm có kiểm soát, con người khó dự đoán`"]
+  n1 --- n5
+  n6["`Dự báo thời tiết nhiều khi thua cách đoán #quot;mai giống hôm nay#quot;`"]
+  n5 --- n6
+  n7["`Điều chắc chắn: hành vi chịu ảnh hưởng mạnh của động cơ khuyến khích, mỗi lần bán có một lần mua`"]
+  n1 --- n7
+  n8["`Cơ hội kiếm lời rõ ràng hiếm khi bị bỏ qua, nền của giả thuyết thị trường hiệu quả`"]
+  n7 --- n8
+  n9["`Mục 3–5 — Nhà kinh tế có ảnh hưởng thật và đồng thuận nhiều hơn người ta tưởng`"]
+  n0 --- n9
+  n10["`Khu vực nhà nước: tăng trưởng và việc làm không gây lạm phát, chống độc quyền, hạn chế ô nhiễm`"]
+  n9 --- n10
+  n11["`Keynes: #quot;người thực tế#quot; tưởng miễn nhiễm lý thuyết thường làm theo một nhà kinh tế đã quá cố`"]
+  n10 --- n11
+  n12["`Khu vực tư nhân: dự báo nhu cầu cho General Motors, Procter #amp; Gamble, lập danh mục theo rủi ro và lợi suất`"]
+  n9 --- n12
+  n13["`Người giao dịch quyền chọn định giá bằng mô hình kinh tế cài trong máy tính cầm tay`"]
+  n12 --- n13
+  n14["`Mười nhà kinh tế đều đồng ý: New York thiếu taxi vì giới hạn giấy phép, thiếu căn hộ vì kiểm soát giá thuê`"]
+  n9 --- n14
+  n15["`Thương mại tự do nâng mức sống, thuế quan và hạn ngạch làm giảm phúc lợi`"]
+  n14 --- n15
+  n16["`Khác biệt giữa nhà kinh tế Cộng hoà và Dân chủ nhỏ hơn nhiều so với giữa nhà kinh tế và ngành khác`"]
+  n14 --- n16
+  n17["`Bộ công cụ: mô hình cung cầu, đánh đổi trong ràng buộc, chi phí cơ hội, hiệu quả, cận biên`"]
+  n9 --- n17
+  n18["`Nguồn lực thay thế được nhau, để cá nhân tự chọn thì phúc lợi tăng, tạm gác câu hỏi giá trị`"]
+  n17 --- n18
+  n19["`Malkiel khen sách cân bằng: thấy sức mạnh thị trường và vai trò chính phủ với hàng hoá công, ngoại ứng`"]
+  n9 --- n19
+  n20["`Mục 6–8 — Econ 101 làm sinh viên bỏ chạy, cái giá là mù chữ kinh tế`"]
+  n0 --- n20
+  n21["`Econ 101 dạy dựng đường cầu, lấy đạo hàm hàm tổng chi phí, bỏ qua câu hỏi hấp dẫn`"]
+  n20 --- n21
+  n22["`Liên Xô sụp đổ là tất yếu: phân bổ nguồn lực lâu dài không có hệ thống giá là quá khó`"]
+  n21 --- n22
+  n23["`Người hút thuốc chết sớm, để lại lương hưu và an sinh xã hội cho người không hút`"]
+  n21 --- n23
+  n24["`Bắt buộc nghỉ thai sản dài hơn có thể hại phụ nữ vì chủ thuê né tuyển phụ nữ trẻ`"]
+  n21 --- n24
+  n25["`Hai thiệt hại: người ham hiểu biết bỏ lỡ môn học thú vị, công dân và chính khách mù chữ kinh tế`"]
+  n20 --- n25
+  n26["`Thương mại có người thua, nhưng nói nó làm cả nước nghèo đi là sai về căn bản`"]
+  n20 --- n26
+  n27["`Perot 1992: NAFTA gây #quot;tiếng hút khổng lồ#quot; việc làm sang Mexico, dự báo không thành hiện thực`"]
+  n26 --- n27
+  n28["`Pháp 2000 hạ tuần làm việc tối đa từ 39 xuống 35 giờ để chia việc cho người thất nghiệp`"]
+  n20 --- n28
+  n29["`Ngụy biện số việc làm cố định: coi việc làm là cái bánh có sẵn để chia lại`"]
+  n28 --- n29
+  n30["`Bằng chứng ngược: Mỹ tạo hàng triệu việc làm gắn với Internet mà không cần chia giờ làm`"]
+  n28 --- n30
+  n31["`Năm 2008 chính phủ Sarkozy cho bỏ giới hạn 35 giờ vì không giảm được thất nghiệp`"]
+  n28 --- n31
+  n32["`Lời hứa: không đồ thị, không biểu đồ, không phương trình, vì ý tưởng quan trọng nhất là trực giác`"]
+  n20 --- n32
+  n33["`Mục 9 — Năm ví dụ: kinh tế học đem lại sắc thái cho tranh luận chính sách`"]
+  n0 --- n33
+  n34["`Glenn Loury: 10 ứng viên, 9 da trắng, 1 da đen, ngang tài thì công ty chọn người da đen`"]
+  n33 --- n34
+  n35["`Chỉ 1 người thật sự bị thiệt nhưng cả 9 thấy bị phân biệt, chính sách có thể hại quan hệ chủng tộc`"]
+  n34 --- n35
+  n36["`Clinton 1998: bắt bảo hiểm trả đêm nằm viện thứ hai sau sinh, thường không cần về y khoa nhưng đắt`"]
+  n33 --- n36
+  n37["`Bảo hiểm tăng phí, người ở ranh giới mất cả bảo hiểm cơ bản, hệ thống càng hào phóng càng đắt`"]
+  n36 --- n37
+  n38["`Người lái xe không trả cho khí thải, ùn tắc, hao mòn đường công, như đi chơi bằng thẻ của bố`"]
+  n33 --- n38
+  n39["`Hệ quả: xe to hơn, nhà ngoại ô xa hơn, ô nhiễm, nóng lên toàn cầu, đô thị lan toả`"]
+  n38 --- n39
+  n40["`Lời giải: thuế xăng và thuế xe cao hơn, trợ cấp giao thông công cộng, kinh tế học không chỉ bênh thị trường`"]
+  n38 --- n40
+  n41["`Goldin và Rouse: thử giọng #quot;mù#quot; sau tấm màn, khả năng phụ nữ qua vòng đầu tăng khoảng 50%`"]
+  n33 --- n41
+  n42["`Lehman Brothers phá sản 15/9/2008 mở đầu suy thoái tệ nhất kể từ Đại suy thoái`"]
+  n33 --- n42
+  n43["`Môi giới thế chấp hưởng hoa hồng theo số lượng và quy mô khoản vay bằng tiền không phải của mình`"]
+  n42 --- n43
+  n44["`Ngân hàng bán phần lớn khoản vay như chuyền củ khoai nóng, người mua cuối cùng là Phố Wall`"]
+  n42 --- n44
+  n45["`Mục 10–11 — Nghề kinh tế tự vấn sau 2008 và mục tiêu của cuốn sách`"]
+  n0 --- n45
+  n46["`Ít nhà kinh tế thấy trước khủng hoảng, năm 2005 vài người còn viết #quot;ít thấy dấu hiệu bong bóng nhà đất#quot;`"]
+  n45 --- n46
+  n47["`Bong bóng giải thích tốt nhất bằng tâm lý học: tin rằng điều đang xảy ra sẽ tiếp tục xảy ra`"]
+  n45 --- n47
+  n48["`Kinh tế học hành vi: đánh giá thấp rủi ro béo phì, đánh giá cao rủi ro đi máy bay, phản ứng thái quá`"]
+  n45 --- n48
+  n49["`Ý tưởng cũ vẫn giá trị: Bernanke dùng bài học thập niên 1930 ở Fed, ngăn tình hình tệ đi nhiều`"]
+  n45 --- n49
+  n50["`Không cần biết đặt tường chịu lực ở đâu cũng thấy được thiên tài của Frank Lloyd Wright`"]
+  n45 --- n50
+  n51["`Sách dành cho người thông minh chưa từng học kinh tế, không phải kinh tế học cho người kém`"]
+  n45 --- n51
+  n52["`Thông điệp xuyên suốt`"]
+  n0 --- n52
+  n53["`Trực giác thấy tác động trực tiếp, tư duy kinh tế hỏi ai trả và động cơ khuyến khích thay đổi thế nào`"]
+  n52 --- n53
+  n54["`Chính sách tốt cân nhắc cả tác động gián tiếp ngược chiều, chính sách tồi chỉ thấy vế đầu`"]
+  n52 --- n54
+  n55["`Thị trường mạnh nhưng không hoàn hảo, ngoại ứng cần thuế hay trợ cấp`"]
+  n52 --- n55
+  n56["`Kinh tế học giống trọng lực: phớt lờ nó thì gặp những bất ngờ khó chịu`"]
+  n52 --- n56
+  class n0 root
+  class n1,n9,n20,n33,n45,n52 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n34,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n46,n47,n48,n49,n50,n51,n53,n54,n55,n56 leaf
+```
+
+## Nguồn
+
+Charles Wheelan, *Naked Economics: Undressing the Dismal Science*, ấn bản sửa đổi và cập nhật (W. W. Norton, 2010), Lời tựa (Foreword, do Burton G. Malkiel viết, ký tại Princeton, New Jersey, tháng 1/2010) và Lời giới thiệu (Introduction) của tác giả.
+
+## Tác giả
+
+Charles Wheelan (sinh 1966), nhà kinh tế và nhà báo Mỹ, từng là phóng viên của *The Economist* ở Trung Tây nước Mỹ, giảng dạy chính sách công tại Đại học Chicago và Dartmouth.
+
+Người viết lời tựa, Burton G. Malkiel, là giáo sư kinh tế Đại học Princeton, tác giả cuốn *A Random Walk Down Wall Street*, từng làm trong Hội đồng Cố vấn Kinh tế của Tổng thống Mỹ.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Hai phần mở đầu này không dạy một khái niệm cụ thể nào mà nói **vì sao** cần một cuốn sách như vậy và **cách** cuốn sách sẽ làm. Malkiel giải thích "tư duy như nhà kinh tế" gồm những gì và vì sao các nhà kinh tế, dù khác đảng phái, lại đồng ý với nhau nhiều đến thế.
+
+Wheelan đưa ra một loạt ví dụ ngắn để cho thấy kinh tế học soi sáng được những tranh luận chính sách nóng (thương mại, giờ làm, phân biệt đối xử, bảo hiểm y tế, ô nhiễm, khủng hoảng 2008), và hứa rằng sách sẽ không có đồ thị, biểu đồ hay phương trình.
+
+Các ví dụ ở đây là "trailer" cho các chương sau: động cơ khuyến khích và khủng hoảng 2008 (Chương 2), chính phủ và ngoại ứng (Chương 3), Fed (Chương 10), thương mại (Chương 12). Chương 1 sẽ bắt đầu bằng nền móng: thị trường vận hành thế nào.
+
+## Lưu ý
+
+- Ấn bản đầu của sách ra năm 2002; ấn bản này (2010) được cập nhật sau khủng hoảng tài chính 2008, nên Lời giới thiệu dành nhiều chỗ cho khủng hoảng, bong bóng nhà đất và kinh tế học hành vi.
+- Số liệu và ví dụ là của khoảng 2008–2009 (Ben Bernanke đang làm Chủ tịch Fed, Mỹ đang tranh luận cải cách y tế, Obama vừa thắng cử). Một số tranh luận nay đã ngã ngũ hoặc đổi hướng (cải cách y tế Mỹ đã thành luật năm 2010; NAFTA đã được thay bằng một hiệp định mới), nhưng lập luận kinh tế đằng sau vẫn nguyên giá trị.
+- Lời cảm ơn (*Acknowledgments*) chủ yếu cảm ơn biên tập viên, trợ lý nghiên cứu và các nhà kinh tế đã đọc bản thảo (Malkiel, Robert Willis, Kenneth Rogoff), trong đó Wheelan nói ông chỉ là "người dịch" những ý tưởng của các nhà tư tưởng lớn qua nhiều thế kỷ, và ghi công Ann Wroe của *The Economist* đặt phụ đề cho sách.
+- Các câu trích là bản dịch của người tổng hợp.

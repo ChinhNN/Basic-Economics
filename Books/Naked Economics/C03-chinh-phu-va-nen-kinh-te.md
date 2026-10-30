@@ -1,11 +1,19 @@
 # Chương 3 — Chính phủ và nền kinh tế (Government and the Economy: Government is your friend (and a round of applause for all those lawyers))
 
-**Nguồn:** Charles Wheelan, *Naked Economics: Undressing the Dismal Science*, ấn bản sửa đổi và cập nhật (W. W. Norton, 2010), Chương 3.
-**Tác giả:** Charles Wheelan (sinh 1966), nhà kinh tế và nhà báo Mỹ, từng là phóng viên của *The Economist* ở Trung Tây nước Mỹ, giảng dạy chính sách công tại Đại học Chicago và Dartmouth.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 1 ca ngợi sức mạnh của thị trường; Chương 2 cho thấy động cơ khuyến khích là thứ làm thị trường chạy, và cũng cho thấy những chỗ động cơ cá nhân lệch khỏi lợi ích chung (tê giác, ngư trường). Chương 3 trả lời câu hỏi tiếp theo: khi đó ai sửa? Wheelan lập luận rằng chính phủ không chỉ vá những chỗ thị trường thất bại (ngoại ứng, hàng hoá công) mà còn **làm cho thị trường có thể tồn tại** (quyền tài sản, tòa án, pháp quyền, hạ tầng). Chương 4 ("Government and the Economy II: The army was lucky to get that screwdriver for $500") sẽ nói mặt kia: chính phủ cũng có thể làm rất tệ, và cái khôn là phân biệt được hai trường hợp.
-**Ý chính:** Wheelan muốn người đọc bỏ ý nghĩ "chính phủ tránh đường thì thị trường sẽ đem lại thịnh vượng". Ông bắt đầu bằng chính chiếc Ford Explorer của mình: mua nó, ông làm người lái Honda Civic nguy hiểm hơn, làm trẻ em hen suyễn khó thở hơn, góp phần làm băng tan, nhưng không phải trả đồng nào cho những người đó. Đó là **ngoại ứng** (*externality*): chi phí riêng khác chi phí xã hội, và thị trường tự nó không sửa được. Cách sửa: quy định, hoặc tốt hơn là đánh thuế để chi phí riêng bằng chi phí xã hội (nếu xã hội tốn 75 xu mỗi dặm xe Explorer chạy mà chủ xe chỉ tốn 50 xu, hãy đánh thuế phần chênh); đôi khi các bên tự thương lượng được (Ronald Coase, ví dụ công ty điện mua cả thị trấn 221 dân với giá 20 triệu USD). Rộng hơn, chính phủ định nghĩa và bảo vệ quyền tài sản (bản quyền, bằng sáng chế), giữ pháp quyền (ở Ấn Độ một vụ kiện kéo dài 39 năm), cung cấp hàng hoá công mà tư nhân không cung cấp (Stephen King thử bán truyện theo kiểu tự nguyện trả tiền và thất bại), và tái phân phối thu nhập, một chuyện mà kinh tế học chỉ trả lời được một phần.
+## Ý chính
 
-> **Lưu ý:** Ấn bản này cập nhật tới khoảng 2009: Cass Sunstein "đang làm việc cho chính quyền Obama", cuốn *Nudge* vừa ra (2008), thu nhập bình quân Mỹ "khoảng 48.000 USD", dân số thế giới "sáu tỷ người" (nay đã đông hơn nhiều). Chi phí trung bình để đưa một loại thuốc mới ra thị trường mà Wheelan dẫn (khoảng 600 triệu USD) nay được các ước tính sau này đặt cao hơn đáng kể. Cơ quan INS mà Thomas Friedman liệt kê đã bị giải thể và chia vào Bộ An ninh Nội địa Mỹ. Richard Thaler, đồng tác giả *Nudge*, về sau được giải Nobel kinh tế, và "cú hích" (đăng ký mặc định vào quỹ hưu) đã được nhiều nước áp dụng, tức nhận định của Wheelan được thời gian ủng hộ. Chương có hai chú thích chân trang dấu `*` (về chiếc Explorer bị lật và về thuốc HIV/AIDS ở châu Phi), đã đưa vào đúng chỗ bên dưới. Phụ đề "vỗ tay cho các luật sư" ám chỉ câu "việc đầu tiên ta làm là giết hết bọn luật sư" trong kịch *Henry VI* của Shakespeare, mà Wheelan đáp lại ở phần tòa án. Các câu trích là bản dịch của người tổng hợp.
+Wheelan muốn người đọc bỏ ý nghĩ "chính phủ tránh đường thì thị trường sẽ đem lại thịnh vượng".
+
+Ông bắt đầu bằng chính chiếc Ford Explorer của mình: mua nó, ông làm người lái Honda Civic nguy hiểm hơn, làm trẻ em hen suyễn khó thở hơn, góp phần làm băng tan, nhưng không phải trả đồng nào cho những người đó. Đó là **ngoại ứng** (*externality*): chi phí riêng khác chi phí xã hội, và thị trường tự nó không sửa được.
+
+Cách sửa: quy định, hoặc tốt hơn là đánh thuế để chi phí riêng bằng chi phí xã hội (nếu xã hội tốn 75 xu mỗi dặm xe Explorer chạy mà chủ xe chỉ tốn 50 xu, hãy đánh thuế phần chênh). Đôi khi các bên tự thương lượng được (Ronald Coase, ví dụ công ty điện mua cả thị trấn 221 dân với giá 20 triệu USD).
+
+Rộng hơn, chính phủ:
+
+- định nghĩa và bảo vệ quyền tài sản (bản quyền, bằng sáng chế),
+- giữ pháp quyền (ở Ấn Độ một vụ kiện kéo dài 39 năm),
+- cung cấp hàng hoá công mà tư nhân không cung cấp (Stephen King thử bán truyện theo kiểu tự nguyện trả tiền và thất bại),
+- và tái phân phối thu nhập, một chuyện mà kinh tế học chỉ trả lời được một phần.
 
 ## Sơ đồ
 
@@ -612,9 +620,13 @@ Khi ngoại ứng lớn, cá nhân có động cơ làm điều có lợi cho m�
 
 ### 2. Ngoại ứng ở khắp nơi
 
-Wheelan nói nếu khái niệm này khô khan như sách giáo khoa thì phim *Michael Clayton* đã không thu hàng triệu USD. Bộ phim kể về một ngoại ứng đơn giản: một công ty nông nghiệp lớn bị cáo buộc làm ra thuốc trừ sâu ngấm vào nguồn nước, đầu độc các gia đình. Ở đây không có giải pháp thị trường; chính thị trường là vấn đề. Công ty tối đa hoá lợi nhuận bằng sản phẩm gây ung thư cho nạn nhân vô tội; nông dân không biết hoặc không quan tâm còn thưởng cho công ty bằng cách mua nhiều hơn, vì sản phẩm rẻ hơn hoặc hiệu quả hơn hàng của đối thủ chịu đầu tư làm sản phẩm không độc. Cách đòi công lý duy nhất, như trong *Erin Brockovich* và *A Civil Action*, là một cơ chế phi thị trường do nhà nước duy trì: tòa án.
+Wheelan nói nếu khái niệm này khô khan như sách giáo khoa thì phim *Michael Clayton* đã không thu hàng triệu USD. Bộ phim kể về một ngoại ứng đơn giản: một công ty nông nghiệp lớn bị cáo buộc làm ra thuốc trừ sâu ngấm vào nguồn nước, đầu độc các gia đình. Ở đây không có giải pháp thị trường; chính thị trường là vấn đề.
 
-Một ví dụ tầm thường hơn nhưng làm dân thành phố bực bội: người dắt chó không dọn phân. Trong một thế giới hoàn hảo ai cũng mang xẻng hốt phân vì cư xử có trách nhiệm đem lại sự thoả mãn. Nhưng với một số người dắt chó, lờ đi thì "ít tốn kém" hơn. Ai nghĩ đây là chuyện vặt thì nên biết: theo *New York Times*, trung bình mỗi năm ở Paris có 650 người gãy xương hoặc nhập viện vì trượt chân trên phân chó. Quyết định dọn hay không có thể mô hình hoá như mọi quyết định kinh tế: chủ chó cân chi phí và lợi ích. Nhưng ai lên tiếng cho người phụ nữ chạy bắt xe buýt sáng hôm sau, trượt một bước và có một ngày rất tệ? Không ai, vì vậy phần lớn thành phố có luật buộc chủ vật nuôi dọn phân.
+Công ty tối đa hoá lợi nhuận bằng sản phẩm gây ung thư cho nạn nhân vô tội; nông dân không biết hoặc không quan tâm còn thưởng cho công ty bằng cách mua nhiều hơn, vì sản phẩm rẻ hơn hoặc hiệu quả hơn hàng của đối thủ chịu đầu tư làm sản phẩm không độc. Cách đòi công lý duy nhất, như trong *Erin Brockovich* và *A Civil Action*, là một cơ chế phi thị trường do nhà nước duy trì: tòa án.
+
+Một ví dụ tầm thường hơn nhưng làm dân thành phố bực bội: người dắt chó không dọn phân. Trong một thế giới hoàn hảo ai cũng mang xẻng hốt phân vì cư xử có trách nhiệm đem lại sự thoả mãn. Nhưng với một số người dắt chó, lờ đi thì "ít tốn kém" hơn.
+
+Ai nghĩ đây là chuyện vặt thì nên biết: theo *New York Times*, trung bình mỗi năm ở Paris có 650 người gãy xương hoặc nhập viện vì trượt chân trên phân chó. Quyết định dọn hay không có thể mô hình hoá như mọi quyết định kinh tế: chủ chó cân chi phí và lợi ích. Nhưng ai lên tiếng cho người phụ nữ chạy bắt xe buýt sáng hôm sau, trượt một bước và có một ngày rất tệ? Không ai, vì vậy phần lớn thành phố có luật buộc chủ vật nuôi dọn phân.
 
 Từ đó Wheelan rút ra điểm rộng hơn: một vai trò then chốt của chính phủ trong kinh tế thị trường là xử lý ngoại ứng, những trường hợp hành vi riêng có hệ quả xã hội rộng hơn. Ở Chương 1 ông nói mọi giao dịch thị trường là trao đổi tự nguyện làm các bên tham gia khá hơn. Điều đó vẫn đúng, nhưng chữ "tham gia" là chỗ quan trọng: không phải mọi người bị giao dịch ảnh hưởng đều ngồi ở bàn khi giao dịch được chốt. Stuart, người hàng xóm chung tường của Wheelan, mê chơi trống bongo; chắc chắn Stuart và chủ cửa hàng nhạc cụ đều vui khi Stuart mua bộ trống mới (có thể kèm cả bộ khuếch đại, xét theo độ ồn). Nhưng Wheelan thì không vui với giao dịch đó.
 
@@ -622,7 +634,9 @@ Ngoại ứng là gốc của nhiều vấn đề chính sách, từ vặt vãnh
 
 - *The Economist* từng đề xuất, giọng hơi cáu, rằng gia đình có con nhỏ nên ngồi cuối máy bay để có "vùng không trẻ em". Bài xã luận viết rằng trẻ con, như thuốc lá hay điện thoại di động, gây ngoại ứng tiêu cực cho người ở gần; ai từng ngồi chuyến bay 12 tiếng với em bé khóc ở hàng trên hoặc đứa trẻ chán đời đạp ghế từ phía sau sẽ hiểu ngay. Đây là thất bại thị trường: bố mẹ không chịu đủ chi phí (em bé còn bay miễn phí), nên quá sẵn lòng mang con theo. Bài báo hỏi: bàn tay vô hình ở đâu khi cần một cái phát vào mông?
 - Điện thoại di động bị soi kỹ hơn, ở nơi công cộng như nhà hàng, tàu điện, nơi nó cực kỳ phiền, và trong ô tô, nơi nó gắn với tỷ lệ tai nạn cao hơn. Nhắn tin là việc nguy hiểm thứ hai có thể làm khi lái xe, chỉ sau lái xe khi say.
-- Ở Chicago, Thị trưởng Richard Daley định đánh thuế 1 xu trên mỗi 2 USD đồ ăn mang đi, lập luận rằng "thuế rác" sẽ bù chi phí dọn rác cho thành phố, phần lớn là vỏ hộp đồ ăn nhanh. Kinh tế học của ông đúng (rác là ngoại ứng kinh điển), nhưng một thẩm phán phán quyết quy định vi hiến vì "mơ hồ và thiếu đồng nhất" trong cách xử lý các loại vỏ hộp khác nhau. Nay cấp liên bang bàn tới thuế đồ ăn vặt hoặc nước ngọt để xử lý một ngoại ứng khác liên quan tới đồ ăn: béo phì. Chi phí y tế do béo phì nay xấp xỉ chi phí do hút thuốc, và xã hội gánh ít nhất một phần qua chương trình y tế công và phí bảo hiểm cao hơn, nên Wheelan có lý do để quan tâm bữa trưa của bạn có Big Mac hay không.
+- Ở Chicago, Thị trưởng Richard Daley định đánh thuế 1 xu trên mỗi 2 USD đồ ăn mang đi, lập luận rằng "thuế rác" sẽ bù chi phí dọn rác cho thành phố, phần lớn là vỏ hộp đồ ăn nhanh. Kinh tế học của ông đúng (rác là ngoại ứng kinh điển), nhưng một thẩm phán phán quyết quy định vi hiến vì "mơ hồ và thiếu đồng nhất" trong cách xử lý các loại vỏ hộp khác nhau.
+
+  Nay cấp liên bang bàn tới thuế đồ ăn vặt hoặc nước ngọt để xử lý một ngoại ứng khác liên quan tới đồ ăn: béo phì. Chi phí y tế do béo phì nay xấp xỉ chi phí do hút thuốc, và xã hội gánh ít nhất một phần qua chương trình y tế công và phí bảo hiểm cao hơn, nên Wheelan có lý do để quan tâm bữa trưa của bạn có Big Mac hay không.
 - Nóng lên toàn cầu là một trong những thách thức quốc tế khó nhất, phần lớn vì doanh nghiệp thải nhiều khí nhà kính chỉ trả một phần nhỏ chi phí, và ngay cả nước nơi họ đặt nhà máy cũng không gánh hết chi phí ô nhiễm. Một nhà máy thép ở Pennsylvania thải CO2 có thể một ngày gây lụt ở Bangladesh (trong khi mưa axit do khí thải Mỹ đã đang giết rừng Canada). Mọi giải pháp sẽ phải nâng chi phí phát thải theo cách ràng buộc mọi bên gây ô nhiễm trên trái đất, không phải việc dễ.
 
 ### 3. Ngoại ứng tích cực và thuốc lá
@@ -657,7 +671,11 @@ Nhưng như vậy có nên để một số người trả tiền để được
 | Tạo nguồn thu | Lệnh cấm không thu được gì; thuế xe tốn xăng có thể trả chi phí nóng lên toàn cầu (nghiên cứu năng lượng thay thế, hoặc ít nhất xây đê cho vài đảo quốc Thái Bình Dương), hoặc dùng để giảm thuế thu nhập, thuế tiền lương vốn làm nản những hành vi ta muốn khuyến khích |
 | Khuyến khích đổi mới | Nếu Washington cấm xe dưới 18 dặm/gallon mà không tăng chi phí lái chúng, Detroit sẽ làm rất nhiều xe đạt khoảng 18 dặm/gallon, không phải 20, 28 hay 60 dặm với công nghệ mặt trời; nếu người mua phải chịu thuế theo nhiên liệu hoặc trọng lượng, họ sẽ đòi hỏi khác hẳn khi bước vào phòng trưng bày, và hãng xe sẽ đáp ứng nhanh |
 
-Thuế ngoại ứng không hoàn hảo. Khó nhất là định đúng mức thuế: các nhà khoa học chưa thống nhất hoàn toàn nóng lên toàn cầu diễn ra nhanh thế nào, chứ chưa nói chi phí của nó, và còn xa hơn là chi phí thật của một dặm lái Hummer. Thuế đúng là 0,75 USD, 2,21 USD hay 3,07 USD? Không bao giờ có một nhóm nhà khoa học thống nhất, huống chi Quốc hội Mỹ. Còn vấn đề công bằng: Wheelan đã nói đúng rằng nếu tăng chi phí lái xe tốn xăng thì người coi trọng chúng nhất sẽ tiếp tục lái; nhưng thước đo "coi trọng" là sẵn lòng trả bao nhiêu, và người giàu luôn trả được nhiều hơn. Nếu chi phí lái Explorer lên 9 USD một gallon, người lái có thể là người chở rượu vang và phô mai tới tiệc bãi biển ở Nantucket, trong khi một nhà thầu ở Chicago cần xe bán tải chở gỗ, gạch không còn kham nổi. Ai thật sự "coi trọng" chiếc xe hơn? (Chính trị gia khéo có thể dùng thuế xe tốn xăng để bù vào việc giảm một loại thuế đè nặng lên tầng lớp trung lưu như thuế tiền lương; khi đó nhà thầu Chicago trả nhiều hơn cho xe nhưng ít hơn cho sở thuế.) Cuối cùng, việc tìm và đánh thuế ngoại ứng có thể vượt tầm kiểm soát, vì mọi hoạt động đều gây ngoại ứng ở mức nào đó. Wheelan đùa rằng nhà phân tích chính sách chín chắn nào cũng biết vài người mặc đồ thun bó ở nơi công cộng đáng bị đánh thuế, nếu không phải bỏ tù; ở Chicago, ngày đầu tiên nhiệt độ vượt 50 độ F, cả đám đông da trắng bệch sau mùa đông nằm dài trên ghế sofa ùa ra đường trong quần áo hở hang. Dù vậy, thuế đồ thun bó có lẽ không thực tế.
+Thuế ngoại ứng không hoàn hảo. Khó nhất là định đúng mức thuế: các nhà khoa học chưa thống nhất hoàn toàn nóng lên toàn cầu diễn ra nhanh thế nào, chứ chưa nói chi phí của nó, và còn xa hơn là chi phí thật của một dặm lái Hummer. Thuế đúng là 0,75 USD, 2,21 USD hay 3,07 USD? Không bao giờ có một nhóm nhà khoa học thống nhất, huống chi Quốc hội Mỹ.
+
+Còn vấn đề công bằng: Wheelan đã nói đúng rằng nếu tăng chi phí lái xe tốn xăng thì người coi trọng chúng nhất sẽ tiếp tục lái; nhưng thước đo "coi trọng" là sẵn lòng trả bao nhiêu, và người giàu luôn trả được nhiều hơn. Nếu chi phí lái Explorer lên 9 USD một gallon, người lái có thể là người chở rượu vang và phô mai tới tiệc bãi biển ở Nantucket, trong khi một nhà thầu ở Chicago cần xe bán tải chở gỗ, gạch không còn kham nổi. Ai thật sự "coi trọng" chiếc xe hơn? (Chính trị gia khéo có thể dùng thuế xe tốn xăng để bù vào việc giảm một loại thuế đè nặng lên tầng lớp trung lưu như thuế tiền lương; khi đó nhà thầu Chicago trả nhiều hơn cho xe nhưng ít hơn cho sở thuế.)
+
+Cuối cùng, việc tìm và đánh thuế ngoại ứng có thể vượt tầm kiểm soát, vì mọi hoạt động đều gây ngoại ứng ở mức nào đó. Wheelan đùa rằng nhà phân tích chính sách chín chắn nào cũng biết vài người mặc đồ thun bó ở nơi công cộng đáng bị đánh thuế, nếu không phải bỏ tù; ở Chicago, ngày đầu tiên nhiệt độ vượt 50 độ F, cả đám đông da trắng bệch sau mùa đông nằm dài trên ghế sofa ùa ra đường trong quần áo hở hang. Dù vậy, thuế đồ thun bó có lẽ không thực tế.
 
 Quay lại ý chính: ai nói với bạn rằng thị trường để tự nhiên luôn dẫn tới kết quả có lợi cho xã hội là đang nói nhảm. Thị trường một mình không làm ta khá hơn khi chi phí riêng và chi phí xã hội của một hoạt động chênh nhau lớn. Người có lý trí có thể và nên tranh luận về cách sửa; thường thì cách sửa cần đến chính phủ.
 
@@ -672,37 +690,63 @@ Nhưng không phải lúc nào cũng cần chính phủ. Các bên trong một n
 | Ai trả ai | Wheelan trả Stuart (ví dụ 75 USD) để chuyển sang đan len | Stuart phải trả Wheelan ít nhất 100 USD mới được chơi, nhưng không đáng với Stuart nên không trả |
 | Kết quả | Yên tĩnh; Stuart được tiền nhiều hơn giá trị của bongo, Wheelan mua được sự yên tĩnh đáng giá hơn 75 USD | Yên tĩnh; Wheelan không tốn đồng nào |
 
-Bảng cho thấy hai phát hiện của Coase. Thứ nhất, các bên chỉ tự giải quyết được ngoại ứng khi quyền tài sản được xác định rõ, tức biết bên nào có quyền làm gì. Stuart có quyền gây tiếng ồn tuỳ thích, hay Wheelan có quyền làm việc trong yên tĩnh tương đối? Có lẽ luật thành phố Chicago trả lời câu đó, và câu trả lời có thể tuỳ giờ trong ngày (Stuart được gây ồn đến một giờ nhất định, Wheelan được yên tĩnh vào ban đêm). Wheelan nói thêm rằng quyền tài sản thường liên quan tới những thứ phức tạp hơn nhiều so với tài sản hữu hình, như phần sau của chương sẽ bàn. Thứ hai, các bên luôn đi tới cùng một giải pháp hiệu quả (dùng nguồn lực tốt nhất) bất kể ai được giao quyền ban đầu; chỉ khác ai trả tiền cho ai. Ở đây nguồn lực tranh chấp là bức tường chung và sóng âm qua lại nó; dùng hiệu quả nhất là để yên tĩnh, vì Wheelan coi trọng việc viết hơn Stuart coi trọng việc chơi trống.
+Bảng cho thấy hai phát hiện của Coase. Thứ nhất, các bên chỉ tự giải quyết được ngoại ứng khi quyền tài sản được xác định rõ, tức biết bên nào có quyền làm gì. Stuart có quyền gây tiếng ồn tuỳ thích, hay Wheelan có quyền làm việc trong yên tĩnh tương đối? Có lẽ luật thành phố Chicago trả lời câu đó, và câu trả lời có thể tuỳ giờ trong ngày (Stuart được gây ồn đến một giờ nhất định, Wheelan được yên tĩnh vào ban đêm). Wheelan nói thêm rằng quyền tài sản thường liên quan tới những thứ phức tạp hơn nhiều so với tài sản hữu hình, như phần sau của chương sẽ bàn.
 
-Điều này xảy ra thật. Ví dụ ưa thích của Wheelan là một công ty điện ở Ohio bị hàng xóm cáo buộc thải "một cột khói xanh kỳ lạ" gây hại tài sản và sức khoẻ. Đạo luật Không khí Sạch cho 221 cư dân của thị trấn quyền kiện để buộc công ty ngừng ô nhiễm. Công ty American Electric Power phải chọn: ngừng ô nhiễm, hoặc trả tiền cho cả thị trấn chuyển đi nơi khác. *New York Times* đưa tin với tít "Công ty điện mua lại thị trấn mà nó làm nghẹt thở, cả nhà cửa lẫn cột khói xanh". Công ty trả cho cư dân khoảng gấp ba giá trị căn nhà của họ, đổi lấy cam kết ký kết rằng sẽ không bao giờ kiện về thiệt hại do ô nhiễm. Với 20 triệu USD, rắc rối của công ty "khăn gói ra đi", theo đúng nghĩa đen. Có lẽ điều đó hợp lý về tài chính. Báo cho biết đây được cho là thoả thuận đầu tiên một công ty giải thể cả một thị trấn; các chuyên gia luật và môi trường nói nó giúp công ty tránh chi phí lớn và rắc rối truyền thông của hàng loạt vụ kiện riêng lẻ.
+Thứ hai, các bên luôn đi tới cùng một giải pháp hiệu quả (dùng nguồn lực tốt nhất) bất kể ai được giao quyền ban đầu; chỉ khác ai trả tiền cho ai. Ở đây nguồn lực tranh chấp là bức tường chung và sóng âm qua lại nó; dùng hiệu quả nhất là để yên tĩnh, vì Wheelan coi trọng việc viết hơn Stuart coi trọng việc chơi trống.
 
-Coase còn một ý cuối: chi phí giao dịch của thoả thuận (từ thời gian tìm đủ các bên đến chi phí pháp lý) phải đủ thấp thì các bên mới tự giải quyết được ngoại ứng. Wheelan và Stuart có thể mặc cả chuyện hàng rào sau nhà; American Electric Power thoả thuận được với 221 chủ nhà. Nhưng các bên tư nhân sẽ không tự giải quyết được thách thức như phát thải CO2. Mỗi lần Wheelan nổ máy xe, ông làm cả sáu tỷ người trên hành tinh khá tệ đi một chút; viết séc cho sáu tỷ người mất rất lâu, nhất là khi đã muộn giờ làm. (Và có thể lập luận rằng một số người ở vùng lạnh sẽ được lợi từ biến đổi khí hậu, nên có lẽ họ nên trả tiền cho ông.) Quyền tài sản về khí nhà kính cũng còn mơ hồ: Wheelan có quyền thải CO2 không giới hạn, hay người dân một đảo quốc Thái Bình Dương có quyền ngăn ông làm điều có thể nhấn chìm cả đất nước họ? Đây là xung đột mà các chính phủ phải giải quyết.
+Điều này xảy ra thật. Ví dụ ưa thích của Wheelan là một công ty điện ở Ohio bị hàng xóm cáo buộc thải "một cột khói xanh kỳ lạ" gây hại tài sản và sức khoẻ. Đạo luật Không khí Sạch cho 221 cư dân của thị trấn quyền kiện để buộc công ty ngừng ô nhiễm. Công ty American Electric Power phải chọn: ngừng ô nhiễm, hoặc trả tiền cho cả thị trấn chuyển đi nơi khác. *New York Times* đưa tin với tít "Công ty điện mua lại thị trấn mà nó làm nghẹt thở, cả nhà cửa lẫn cột khói xanh".
+
+Công ty trả cho cư dân khoảng gấp ba giá trị căn nhà của họ, đổi lấy cam kết ký kết rằng sẽ không bao giờ kiện về thiệt hại do ô nhiễm. Với 20 triệu USD, rắc rối của công ty "khăn gói ra đi", theo đúng nghĩa đen. Có lẽ điều đó hợp lý về tài chính. Báo cho biết đây được cho là thoả thuận đầu tiên một công ty giải thể cả một thị trấn; các chuyên gia luật và môi trường nói nó giúp công ty tránh chi phí lớn và rắc rối truyền thông của hàng loạt vụ kiện riêng lẻ.
+
+Coase còn một ý cuối: chi phí giao dịch của thoả thuận (từ thời gian tìm đủ các bên đến chi phí pháp lý) phải đủ thấp thì các bên mới tự giải quyết được ngoại ứng. Wheelan và Stuart có thể mặc cả chuyện hàng rào sau nhà; American Electric Power thoả thuận được với 221 chủ nhà.
+
+Nhưng các bên tư nhân sẽ không tự giải quyết được thách thức như phát thải CO2. Mỗi lần Wheelan nổ máy xe, ông làm cả sáu tỷ người trên hành tinh khá tệ đi một chút; viết séc cho sáu tỷ người mất rất lâu, nhất là khi đã muộn giờ làm. (Và có thể lập luận rằng một số người ở vùng lạnh sẽ được lợi từ biến đổi khí hậu, nên có lẽ họ nên trả tiền cho ông.) Quyền tài sản về khí nhà kính cũng còn mơ hồ: Wheelan có quyền thải CO2 không giới hạn, hay người dân một đảo quốc Thái Bình Dương có quyền ngăn ông làm điều có thể nhấn chìm cả đất nước họ? Đây là xung đột mà các chính phủ phải giải quyết.
 
 ### 6. Chính phủ làm cho thị trường có thể tồn tại
 
 Wheelan lùi lại một bước: chính phủ không chỉ mài nhẵn những góc cạnh thô ráp của chủ nghĩa tư bản; nó làm cho thị trường có thể tồn tại ngay từ đầu. Ông thừa nhận ý "chính phủ chỉ cần tránh đường để thị trường đem thịnh vượng" rất được lòng người nghe, từ tiệc rượu đến các chiến dịch tranh cử, và ai từng mệt mỏi với thủ tục cấp bằng lái hay giấy phép xây dựng đều dễ gật đầu. Nhưng theo Wheelan, ý đó sai: thiếu chính phủ tốt thì kinh tế thị trường không vận hành được; chính phủ tồi hoặc vắng bóng chính phủ làm chủ nghĩa tư bản đổ vỡ, và đó là một lý do khiến hàng tỷ người còn sống trong nghèo khổ cùng cực.
 
-Trước hết, chính phủ đặt luật chơi. Các nước không có chính phủ vận hành được không phải ốc đảo của thịnh vượng thị trường tự do; ở đó làm việc kinh doanh đơn giản nhất cũng đắt và khó. Nigeria có trữ lượng dầu và khí thiên nhiên thuộc hàng lớn nhất thế giới, nhưng doanh nghiệp làm ăn ở đó gặp vấn đề mà người địa phương gọi là BYOI, "tự mang hạ tầng của mình theo". Angola giàu dầu và kim cương nhưng của cải đó đã nuôi hơn một thập kỷ nội chiến chứ không phải thịnh vượng; năm 1999, giới cầm quyền Angola chi 900 triệu USD tiền dầu mua vũ khí, mặc cho một phần ba trẻ em chết trước 5 tuổi và tuổi thọ trung bình chỉ 42. Đây không phải nước có kinh tế thị trường thất bại, mà là nước có chính phủ thất bại trong việc xây dựng và duy trì thể chế cần cho kinh tế thị trường. Một báo cáo của Chương trình Phát triển Liên Hợp Quốc quy phần lớn trách nhiệm về nghèo đói trên thế giới cho chính phủ tồi; báo cáo kết luận rằng không có quản trị tốt thì trông chờ tăng trưởng "nhỏ giọt" và nhiều chiến lược khác sẽ không hiệu quả.
+Trước hết, chính phủ đặt luật chơi. Các nước không có chính phủ vận hành được không phải ốc đảo của thịnh vượng thị trường tự do; ở đó làm việc kinh doanh đơn giản nhất cũng đắt và khó. Nigeria có trữ lượng dầu và khí thiên nhiên thuộc hàng lớn nhất thế giới, nhưng doanh nghiệp làm ăn ở đó gặp vấn đề mà người địa phương gọi là BYOI, "tự mang hạ tầng của mình theo".
 
-Không ai ưa trọng tài, nhưng không có trọng tài thì không chơi được World Series. Vậy luật chơi của một nền kinh tế thị trường vận hành được là gì? Thứ nhất, chính phủ định nghĩa và bảo vệ quyền tài sản. Bạn sở hữu nhà, xe, con chó, bộ gậy golf; trong giới hạn hợp lý bạn làm gì với chúng cũng được: bán, cho thuê, thế chấp. Quan trọng nhất, bạn có thể đầu tư vào tài sản của mình với niềm tin rằng lợi tức từ khoản đầu tư cũng thuộc về bạn. Hãy tưởng tượng cả mùa hè chăm ruộng ngô rồi hàng xóm lái máy gặt đến, vẫy tay vui vẻ và gặt hết cho mình. Nghe gượng? Không với một nhạc sĩ, vì đó gần như là điều Napster đã làm khi cho người dùng tải nhạc mà không trả gì cho nhạc sĩ hay hãng đĩa sở hữu bản quyền. Ngành âm nhạc đã kiện Napster thành công vì tiếp tay cho vi phạm bản quyền.
+Angola giàu dầu và kim cương nhưng của cải đó đã nuôi hơn một thập kỷ nội chiến chứ không phải thịnh vượng; năm 1999, giới cầm quyền Angola chi 900 triệu USD tiền dầu mua vũ khí, mặc cho một phần ba trẻ em chết trước 5 tuổi và tuổi thọ trung bình chỉ 42. Đây không phải nước có kinh tế thị trường thất bại, mà là nước có chính phủ thất bại trong việc xây dựng và duy trì thể chế cần cho kinh tế thị trường. Một báo cáo của Chương trình Phát triển Liên Hợp Quốc quy phần lớn trách nhiệm về nghèo đói trên thế giới cho chính phủ tồi; báo cáo kết luận rằng không có quản trị tốt thì trông chờ tăng trưởng "nhỏ giọt" và nhiều chiến lược khác sẽ không hiệu quả.
 
-Quyền tài sản không chỉ là nhà, xe và những thứ xếp được vào tủ. Một số quyền quan trọng nhất liên quan tới sở hữu ý tưởng, tác phẩm, công thức, phát minh, thậm chí quy trình phẫu thuật. Chính cuốn sách này là ví dụ: Wheelan viết, người đại diện của ông bán cho nhà xuất bản, nhà xuất bản thuê in và phân phối, sách bán ở cửa hàng tư nhân, nơi bảo vệ tư nhân được thuê để giữ trật tự cho "đám đông khổng lồ" muốn xin chữ ký (ông đùa). Ở mọi khâu chỉ có các bên tư nhân, và ông có thể còn nguyền rủa chính phủ vì đánh thuế thu nhập, thuế bán sách, thuế cả tiền lương người giữ trẻ. Thật ra cả chuỗi giao dịch tồn tại được nhờ một thứ: luật bản quyền. Chính phủ Mỹ bảo đảm rằng sau khi ông bỏ thời gian viết bản thảo, không công ty nào được lấy văn bản và xuất bản mà không trả tiền cho ông; giáo sư nào photo để dạy cũng phải trả phí cho nhà xuất bản trước. Chính phủ cũng bảo vệ quyền tương tự cho phần mềm Microsoft, và một quyền liên quan, bằng sáng chế, cho hãng dược phát minh ra Viagra.
+Không ai ưa trọng tài, nhưng không có trọng tài thì không chơi được World Series. Vậy luật chơi của một nền kinh tế thị trường vận hành được là gì? Thứ nhất, chính phủ định nghĩa và bảo vệ quyền tài sản. Bạn sở hữu nhà, xe, con chó, bộ gậy golf; trong giới hạn hợp lý bạn làm gì với chúng cũng được: bán, cho thuê, thế chấp. Quan trọng nhất, bạn có thể đầu tư vào tài sản của mình với niềm tin rằng lợi tức từ khoản đầu tư cũng thuộc về bạn.
 
-Bằng sáng chế thường bị hiểu sai. Nguyên liệu của Viagra chỉ vài xu một viên, nhưng vì Pfizer có bằng sáng chế cho quyền độc quyền bán thuốc trong 20 năm, công ty bán mỗi viên tới 7 USD. Mức chênh khổng lồ này, phổ biến ở thuốc HIV/AIDS mới và các sản phẩm cứu mạng khác, thường bị mô tả là bất công do các "hãng dược lớn" tham lam gây ra, những công ty bị bêu riếu định kỳ trong các mùa tranh cử tổng thống. Nếu cho công ty khác bán Viagra, hoặc ép Pfizer bán rẻ, giá sẽ giảm gần về chi phí sản xuất; thật vậy, khi một thuốc hết hạn bằng sáng chế và thuốc generic thay thế trở nên hợp pháp, giá thường giảm 80–90%. Vậy sao lại để Pfizer "chặt chém" người dùng Viagra? Vì không có bằng sáng chế, Pfizer đã không bao giờ bỏ khoản đầu tư lớn cần thiết để phát minh ra thuốc. Chi phí thật của thuốc đột phá là nghiên cứu và phát triển, như việc lùng sục rừng mưa nhiệt đới tìm vỏ cây có dược tính, chứ không phải làm viên thuốc khi đã có công thức. Điều này đúng với thuốc cho mọi bệnh, kể cả bệnh đe doạ tính mạng. Chi phí trung bình để đưa một thuốc mới ra thị trường khoảng 600 triệu USD, và với mỗi thuốc thành công có nhiều dự án nghiên cứu tốn kém thất bại.
+Hãy tưởng tượng cả mùa hè chăm ruộng ngô rồi hàng xóm lái máy gặt đến, vẫy tay vui vẻ và gặt hết cho mình. Nghe gượng? Không với một nhạc sĩ, vì đó gần như là điều Napster đã làm khi cho người dùng tải nhạc mà không trả gì cho nhạc sĩ hay hãng đĩa sở hữu bản quyền. Ngành âm nhạc đã kiện Napster thành công vì tiếp tay cho vi phạm bản quyền.
 
-(Chú thích chân trang của Wheelan: ông không hoàn toàn giải thích được vì sao các hãng dược lại phản đối mạnh việc bán thuốc HIV/AIDS giá rẻ cho châu Phi. Những nước này không bao giờ trả nổi giá cao như ở các nước phát triển, nên hãng dược không mất lợi nhuận gì khi bán rẻ; ở những nơi như Nam Phi, lựa chọn là thuốc rẻ hoặc không có thuốc. Đây có vẻ là cơ hội hoàn hảo cho phân biệt giá: bán rẻ ở Cape Town, bán đắt ở New York. Đúng là phân biệt giá có thể sinh chợ đen, khi thuốc bán rẻ ở châu Phi bị bán lậu lại ở New York với giá cao; nhưng đó có vẻ là vấn đề quản lý được so với tổn hại uy tín khổng lồ khi từ chối thuốc quan trọng cho một phần lớn dân số thế giới.)
+Quyền tài sản không chỉ là nhà, xe và những thứ xếp được vào tủ. Một số quyền quan trọng nhất liên quan tới sở hữu ý tưởng, tác phẩm, công thức, phát minh, thậm chí quy trình phẫu thuật. Chính cuốn sách này là ví dụ: Wheelan viết, người đại diện của ông bán cho nhà xuất bản, nhà xuất bản thuê in và phân phối, sách bán ở cửa hàng tư nhân, nơi bảo vệ tư nhân được thuê để giữ trật tự cho "đám đông khổng lồ" muốn xin chữ ký (ông đùa). Ở mọi khâu chỉ có các bên tư nhân, và ông có thể còn nguyền rủa chính phủ vì đánh thuế thu nhập, thuế bán sách, thuế cả tiền lương người giữ trẻ.
 
-Có cách nào cung cấp thuốc giá phải chăng cho người Mỹ thu nhập thấp, hay người nghèo ở nơi khác, mà không phá động cơ phát minh? Có: chính phủ có thể mua đứt bằng sáng chế khi thuốc mới ra đời, trả trước cho công ty một khoản bằng số tiền công ty lẽ ra kiếm được trong 20 năm độc quyền, sau đó chính phủ sở hữu quyền tài sản và định giá tuỳ ý. Giải pháp này tốn kém và có vấn đề riêng: chính phủ sẽ mua bằng sáng chế thuốc nào? Viêm khớp có đủ nghiêm trọng để dùng tiền công làm thuốc mới rẻ hơn không? Còn hen suyễn? Dù vậy, kế hoạch kiểu này ít nhất nhất quán với thực tế kinh tế: cá nhân và doanh nghiệp chỉ đầu tư khi được bảo đảm gặt được cái mình gieo, theo nghĩa đen hay nghĩa bóng.
+Thật ra cả chuỗi giao dịch tồn tại được nhờ một thứ: luật bản quyền. Chính phủ Mỹ bảo đảm rằng sau khi ông bỏ thời gian viết bản thảo, không công ty nào được lấy văn bản và xuất bản mà không trả tiền cho ông; giáo sư nào photo để dạy cũng phải trả phí cho nhà xuất bản trước. Chính phủ cũng bảo vệ quyền tương tự cho phần mềm Microsoft, và một quyền liên quan, bằng sáng chế, cho hãng dược phát minh ra Viagra.
 
-Wheelan từng gặp một ví dụ lạ về việc quyền tài sản mơ hồ kìm hãm phát triển, khi viết bài dài về người da đỏ châu Mỹ cho *The Economist*. Ở vài khu bảo tồn ông đến, có rất ít nhà ở tư nhân: thành viên bộ tộc sống trong nhà do liên bang tài trợ hoặc trong nhà di động. Một lý do chính là gần như không thể vay mua nhà thông thường trên đất khu bảo tồn, vì đất thuộc sở hữu chung. Thành viên bộ tộc có thể được giao một mảnh đất để dùng, nhưng không sở hữu nó; Quốc gia Da đỏ sở hữu. Với ngân hàng thương mại, điều đó có nghĩa là khoản vay quá hạn không thể bị tịch biên; không có quyền khó chịu nhưng cần thiết đó, người cho vay không có tài sản bảo đảm thực sự. Nhà di động thì khác: nếu bạn không trả nợ, công ty có thể đến kéo nó ra khỏi khu bảo tồn. Nhưng khác với nhà xây thông thường, nhà di động không nuôi ngành xây dựng địa phương; chúng được lắp ráp ở nhà máy cách hàng nghìn dặm rồi chở đến. Quá trình đó không tạo việc cho thợ lợp mái, thợ nề, thợ trát vách, thợ điện, mà việc làm là thứ các khu bảo tồn người da đỏ ở Mỹ cần hơn hết.
+Bằng sáng chế thường bị hiểu sai. Nguyên liệu của Viagra chỉ vài xu một viên, nhưng vì Pfizer có bằng sáng chế cho quyền độc quyền bán thuốc trong 20 năm, công ty bán mỗi viên tới 7 USD. Mức chênh khổng lồ này, phổ biến ở thuốc HIV/AIDS mới và các sản phẩm cứu mạng khác, thường bị mô tả là bất công do các "hãng dược lớn" tham lam gây ra, những công ty bị bêu riếu định kỳ trong các mùa tranh cử tổng thống. Nếu cho công ty khác bán Viagra, hoặc ép Pfizer bán rẻ, giá sẽ giảm gần về chi phí sản xuất; thật vậy, khi một thuốc hết hạn bằng sáng chế và thuốc generic thay thế trở nên hợp pháp, giá thường giảm 80–90%.
+
+Vậy sao lại để Pfizer "chặt chém" người dùng Viagra? Vì không có bằng sáng chế, Pfizer đã không bao giờ bỏ khoản đầu tư lớn cần thiết để phát minh ra thuốc. Chi phí thật của thuốc đột phá là nghiên cứu và phát triển, như việc lùng sục rừng mưa nhiệt đới tìm vỏ cây có dược tính, chứ không phải làm viên thuốc khi đã có công thức. Điều này đúng với thuốc cho mọi bệnh, kể cả bệnh đe doạ tính mạng. Chi phí trung bình để đưa một thuốc mới ra thị trường khoảng 600 triệu USD, và với mỗi thuốc thành công có nhiều dự án nghiên cứu tốn kém thất bại.
+
+(Chú thích chân trang của Wheelan: ông không hoàn toàn giải thích được vì sao các hãng dược lại phản đối mạnh việc bán thuốc HIV/AIDS giá rẻ cho châu Phi. Những nước này không bao giờ trả nổi giá cao như ở các nước phát triển, nên hãng dược không mất lợi nhuận gì khi bán rẻ; ở những nơi như Nam Phi, lựa chọn là thuốc rẻ hoặc không có thuốc.
+
+Đây có vẻ là cơ hội hoàn hảo cho phân biệt giá: bán rẻ ở Cape Town, bán đắt ở New York. Đúng là phân biệt giá có thể sinh chợ đen, khi thuốc bán rẻ ở châu Phi bị bán lậu lại ở New York với giá cao; nhưng đó có vẻ là vấn đề quản lý được so với tổn hại uy tín khổng lồ khi từ chối thuốc quan trọng cho một phần lớn dân số thế giới.)
+
+Có cách nào cung cấp thuốc giá phải chăng cho người Mỹ thu nhập thấp, hay người nghèo ở nơi khác, mà không phá động cơ phát minh? Có: chính phủ có thể mua đứt bằng sáng chế khi thuốc mới ra đời, trả trước cho công ty một khoản bằng số tiền công ty lẽ ra kiếm được trong 20 năm độc quyền, sau đó chính phủ sở hữu quyền tài sản và định giá tuỳ ý.
+
+Giải pháp này tốn kém và có vấn đề riêng: chính phủ sẽ mua bằng sáng chế thuốc nào? Viêm khớp có đủ nghiêm trọng để dùng tiền công làm thuốc mới rẻ hơn không? Còn hen suyễn? Dù vậy, kế hoạch kiểu này ít nhất nhất quán với thực tế kinh tế: cá nhân và doanh nghiệp chỉ đầu tư khi được bảo đảm gặt được cái mình gieo, theo nghĩa đen hay nghĩa bóng.
+
+Wheelan từng gặp một ví dụ lạ về việc quyền tài sản mơ hồ kìm hãm phát triển, khi viết bài dài về người da đỏ châu Mỹ cho *The Economist*. Ở vài khu bảo tồn ông đến, có rất ít nhà ở tư nhân: thành viên bộ tộc sống trong nhà do liên bang tài trợ hoặc trong nhà di động.
+
+Một lý do chính là gần như không thể vay mua nhà thông thường trên đất khu bảo tồn, vì đất thuộc sở hữu chung. Thành viên bộ tộc có thể được giao một mảnh đất để dùng, nhưng không sở hữu nó; Quốc gia Da đỏ sở hữu. Với ngân hàng thương mại, điều đó có nghĩa là khoản vay quá hạn không thể bị tịch biên; không có quyền khó chịu nhưng cần thiết đó, người cho vay không có tài sản bảo đảm thực sự.
+
+Nhà di động thì khác: nếu bạn không trả nợ, công ty có thể đến kéo nó ra khỏi khu bảo tồn. Nhưng khác với nhà xây thông thường, nhà di động không nuôi ngành xây dựng địa phương; chúng được lắp ráp ở nhà máy cách hàng nghìn dặm rồi chở đến. Quá trình đó không tạo việc cho thợ lợp mái, thợ nề, thợ trát vách, thợ điện, mà việc làm là thứ các khu bảo tồn người da đỏ ở Mỹ cần hơn hết.
 
 ### 7. Hạ tầng, giám sát, pháp quyền, tòa án và chống độc quyền
 
 Chính phủ giảm chi phí kinh doanh của khu vực tư nhân theo đủ cách: đưa ra luật lệ thống nhất như luật hợp đồng, trừng trị gian lận, lưu hành đồng tiền ổn định. Chính phủ xây và duy trì hạ tầng (đường, cầu, cảng, đập) làm thương mại tư nhân rẻ hơn. Thương mại điện tử có thể là kỳ tích hiện đại, nhưng sau khi bạn đặt chiếc quần kaki trên Gap.com, nó vẫn rời trung tâm phân phối trên một chiếc xe tải lao trên đường cao tốc liên bang. Trong thập niên 1950 và 1960, đường mới, gồm cả hệ thống cao tốc liên bang, chiếm một phần đáng kể lượng vốn mới tạo ra ở Mỹ, và đầu tư hạ tầng đó gắn với mức tăng năng suất lớn ở các ngành dùng nhiều xe cộ.
 
-Giám sát và quy định hiệu quả làm thị trường đáng tin hơn. Nhờ sự cần mẫn của Uỷ ban Chứng khoán và Giao dịch (SEC), người ta có thể mua cổ phiếu một công ty mới niêm yết trên NASDAQ với mức chắc chắn hợp lý rằng cả công ty lẫn các nhà giao dịch trên sàn không gian lận. Tóm lại, chính phủ chịu trách nhiệm về pháp quyền. (Pháp quyền yếu là một lý do khiến gia đình trị, phe nhóm và các kiểu làm ăn dựa vào gia đình phổ biến ở các nước đang phát triển: khi không có hợp đồng ràng buộc, giao dịch chỉ được bảo đảm bằng quan hệ cá nhân.) Jerry Jordan, cựu chủ tịch Ngân hàng Dự trữ Liên bang chi nhánh Cleveland, từng nhận xét về điều hiển nhiên nhưng hay bị coi là đương nhiên: các thể chế tinh vi, cả công lẫn tư, cho phép ta thực hiện giao dịch phức tạp với người hoàn toàn xa lạ. Ta mang những khoản tiền lớn đến ngân hàng và giao cho người chưa từng gặp; nhà giao dịch chứng khoán gửi hàng triệu USD cho người không quen ở những nước chưa từng đến. Ta tin rằng hạ tầng đã có sẵn để không phải lo nhân viên ngân hàng bỏ túi tiền của mình, và khi dùng thẻ tín dụng mua đĩa CD hay vợt tennis qua mạng từ một doanh nghiệp ở bang khác, nước khác, ta tin sẽ nhận được hàng, còn họ tin sẽ được trả tiền.
+Giám sát và quy định hiệu quả làm thị trường đáng tin hơn. Nhờ sự cần mẫn của Uỷ ban Chứng khoán và Giao dịch (SEC), người ta có thể mua cổ phiếu một công ty mới niêm yết trên NASDAQ với mức chắc chắn hợp lý rằng cả công ty lẫn các nhà giao dịch trên sàn không gian lận. Tóm lại, chính phủ chịu trách nhiệm về pháp quyền. (Pháp quyền yếu là một lý do khiến gia đình trị, phe nhóm và các kiểu làm ăn dựa vào gia đình phổ biến ở các nước đang phát triển: khi không có hợp đồng ràng buộc, giao dịch chỉ được bảo đảm bằng quan hệ cá nhân.)
 
-Shakespeare có thể đã khuyên giết hết luật sư, nhưng ông là nhà soạn kịch, không phải nhà kinh tế. Thực tế là ta đều than phiền về luật sư cho đến khi bị hại, lúc đó ta chạy đi thuê người giỏi nhất có thể. Chính phủ thực thi luật chơi một cách khá công bằng và hiệu quả. Có hoàn hảo không? Không. Nhưng thay vì ca ngợi hệ thống tư pháp Mỹ, Wheelan đưa một phản ví dụ từ Ấn Độ. Ông Abdul Waheed kiện hàng xóm là người buôn sữa Mohammad Nanhe, người đã xây mấy đường cống ở mép đất nhà mình đổ nước vào sân trước nhà ông Waheed. Ông Waheed không thích nước chảy vào đất nhà mình, một phần vì ông định xây thêm phòng thứ ba cho căn nhà xi măng và lo cống gây thấm. Vụ án được đưa ra xét xử tháng 6 năm 2000 ở Moradabad, một thành phố gần New Delhi. Có một rắc rối lớn: vụ kiện đã được nộp 39 năm trước, ông Waheed đã chết và ông Nanhe cũng vậy; người thân của họ thừa kế vụ kiện.
+Jerry Jordan, cựu chủ tịch Ngân hàng Dự trữ Liên bang chi nhánh Cleveland, từng nhận xét về điều hiển nhiên nhưng hay bị coi là đương nhiên: các thể chế tinh vi, cả công lẫn tư, cho phép ta thực hiện giao dịch phức tạp với người hoàn toàn xa lạ. Ta mang những khoản tiền lớn đến ngân hàng và giao cho người chưa từng gặp; nhà giao dịch chứng khoán gửi hàng triệu USD cho người không quen ở những nước chưa từng đến. Ta tin rằng hạ tầng đã có sẵn để không phải lo nhân viên ngân hàng bỏ túi tiền của mình, và khi dùng thẻ tín dụng mua đĩa CD hay vợt tennis qua mạng từ một doanh nghiệp ở bang khác, nước khác, ta tin sẽ nhận được hàng, còn họ tin sẽ được trả tiền.
+
+Shakespeare có thể đã khuyên giết hết luật sư, nhưng ông là nhà soạn kịch, không phải nhà kinh tế. Thực tế là ta đều than phiền về luật sư cho đến khi bị hại, lúc đó ta chạy đi thuê người giỏi nhất có thể. Chính phủ thực thi luật chơi một cách khá công bằng và hiệu quả. Có hoàn hảo không? Không.
+
+Nhưng thay vì ca ngợi hệ thống tư pháp Mỹ, Wheelan đưa một phản ví dụ từ Ấn Độ. Ông Abdul Waheed kiện hàng xóm là người buôn sữa Mohammad Nanhe, người đã xây mấy đường cống ở mép đất nhà mình đổ nước vào sân trước nhà ông Waheed. Ông Waheed không thích nước chảy vào đất nhà mình, một phần vì ông định xây thêm phòng thứ ba cho căn nhà xi măng và lo cống gây thấm. Vụ án được đưa ra xét xử tháng 6 năm 2000 ở Moradabad, một thành phố gần New Delhi. Có một rắc rối lớn: vụ kiện đã được nộp 39 năm trước, ông Waheed đã chết và ông Nanhe cũng vậy; người thân của họ thừa kế vụ kiện.
 
 | Tình trạng tòa án Ấn Độ (khoảng năm 2000) | Số liệu |
 |---|---|
@@ -712,7 +756,9 @@ Shakespeare có thể đã khuyên giết hết luật sư, nhưng ông là nhà
 
 Và Wheelan nhấn mạnh: theo chuẩn của các nước đang phát triển, Ấn Độ có thể chế nhà nước tương đối tốt. Ở Somalia, những tranh chấp kiểu này không được giải quyết ở tòa.
 
-Song song, chính phủ thực thi luật chống độc quyền, cấm các công ty thông đồng theo cách xoá bỏ lợi ích của cạnh tranh. Có ba hãng hàng không bí mật thông đồng khi định giá vé thì cũng chẳng hơn một hãng độc quyền làm ăn cẩu thả. Kết luận: tất cả các thể chế này là đường ray cho chủ nghĩa tư bản chạy. Thomas Friedman, cây bút chuyên mục đối ngoại của *New York Times*, từng hỏi người Nga trung bình sẵn lòng trả bao nhiêu để có một tuần Bộ Tư pháp Mỹ trị các đầu sỏ và kẻ độc quyền ở Nga. Ông nhận thấy, khi nhiều nền kinh tế bị tham nhũng tràn lan, nhất là ở các nước đang phát triển, người nước ngoài thường ghen tị với Mỹ vì... các quan chức ở Washington: tức các thể chế, tòa án, bộ máy hành chính, quân đội và các cơ quan quản lý của Mỹ như SEC, Fed, FAA, FDA, FBI, EPA, IRS, INS, Cục Sáng chế và Cơ quan Quản lý Tình trạng Khẩn cấp Liên bang.
+Song song, chính phủ thực thi luật chống độc quyền, cấm các công ty thông đồng theo cách xoá bỏ lợi ích của cạnh tranh. Có ba hãng hàng không bí mật thông đồng khi định giá vé thì cũng chẳng hơn một hãng độc quyền làm ăn cẩu thả. Kết luận: tất cả các thể chế này là đường ray cho chủ nghĩa tư bản chạy.
+
+Thomas Friedman, cây bút chuyên mục đối ngoại của *New York Times*, từng hỏi người Nga trung bình sẵn lòng trả bao nhiêu để có một tuần Bộ Tư pháp Mỹ trị các đầu sỏ và kẻ độc quyền ở Nga. Ông nhận thấy, khi nhiều nền kinh tế bị tham nhũng tràn lan, nhất là ở các nước đang phát triển, người nước ngoài thường ghen tị với Mỹ vì... các quan chức ở Washington: tức các thể chế, tòa án, bộ máy hành chính, quân đội và các cơ quan quản lý của Mỹ như SEC, Fed, FAA, FDA, FBI, EPA, IRS, INS, Cục Sáng chế và Cơ quan Quản lý Tình trạng Khẩn cấp Liên bang.
 
 ### 8. Hàng hoá công
 
@@ -720,11 +766,21 @@ Chính phủ còn một vai trò then chốt khác: cung cấp nhiều loại "h
 
 Hàng hoá công có hai đặc điểm nổi bật. Thứ nhất, chi phí cung cấp cho thêm người dùng, kể cả hàng nghìn hay hàng triệu người, rất thấp hoặc bằng không: nếu Wheelan trả tiền bắn hạ tên lửa khủng bố, hàng triệu người sống gần ông ở vùng đô thị Chicago được hưởng miễn phí; sóng radio, ngọn hải đăng, công viên lớn cũng vậy. Thứ hai, rất khó, nếu không nói là không thể, ngăn người không trả tiền sử dụng: làm sao bảo một thuyền trưởng rằng ông không được dùng ngọn hải đăng? Bắt ông nhắm mắt khi đi qua? Một giáo sư của Wheelan ở Princeton mở đầu bài giảng về hàng hoá công bằng câu: "Nào, những kẻ khờ thật sự góp tiền cho đài phát thanh công cộng là ai?"
 
-Kẻ đi xe không trả tiền có thể làm sụp đổ cả một dự án kinh doanh. Nhà văn Stephen King từng thử bán tiểu thuyết mới thẳng cho độc giả qua Internet: mỗi tháng một phần, tải về với giá 1 USD trả theo tinh thần tự giác. Ông cảnh báo truyện sẽ dừng nếu dưới 75% độc giả trả tiền: "Bạn trả, truyện chạy tiếp. Bạn không trả, truyện dừng." Kết quả buồn mà nhà kinh tế đã đoán trước: truyện dừng. Khi "The Plant" đi vào giấc ngủ đông, chỉ 46% độc giả đã trả tiền cho chương cuối cùng được đưa lên. Đó là vấn đề căn bản nếu để hàng hoá công cho doanh nghiệp tư nhân: doanh nghiệp không ép được người tiêu dùng trả tiền, dù họ có được lợi bao nhiêu hay dùng thường xuyên thế nào (hãy nhớ ngọn hải đăng), và mọi hệ thống trả tiền tự nguyện đều bị kẻ đi xe không trả tiền làm hỏng. Các ví dụ:
+Kẻ đi xe không trả tiền có thể làm sụp đổ cả một dự án kinh doanh. Nhà văn Stephen King từng thử bán tiểu thuyết mới thẳng cho độc giả qua Internet: mỗi tháng một phần, tải về với giá 1 USD trả theo tinh thần tự giác. Ông cảnh báo truyện sẽ dừng nếu dưới 75% độc giả trả tiền: "Bạn trả, truyện chạy tiếp. Bạn không trả, truyện dừng." Kết quả buồn mà nhà kinh tế đã đoán trước: truyện dừng. Khi "The Plant" đi vào giấc ngủ đông, chỉ 46% độc giả đã trả tiền cho chương cuối cùng được đưa lên.
 
-- **Nghiên cứu cơ bản.** Lợi nhuận tạo động cơ mạnh cho hãng dược, nhưng không phải phát hiện khoa học quan trọng nào cũng có ứng dụng thương mại ngay. Khám phá vũ trụ, hiểu cách tế bào phân chia hay tìm hạt hạ nguyên tử có thể còn cách rất nhiều bước tới việc phóng vệ tinh viễn thông, làm thuốc thu nhỏ khối u hay tìm nguồn năng lượng sạch hơn. Hơn nữa, loại nghiên cứu này phải được chia sẻ tự do với giới khoa học thì mới phát huy hết giá trị. Nói cách khác, bạn sẽ không giàu lên, thậm chí thường không đủ bù chi phí, bằng việc tạo ra tri thức có thể một ngày cải thiện lớn đời sống con người. Phần lớn nghiên cứu cơ bản ở Mỹ do chính phủ trực tiếp làm (NASA, Viện Y tế Quốc gia) hoặc do các đại học nghiên cứu, vốn là tổ chức phi lợi nhuận nhận tài trợ liên bang.
-- **Thực thi pháp luật.** Không thiếu công ty bảo vệ tư nhân ("cảnh sát thuê" mà hồi đại học Wheelan và bạn bè gọi những người hăng hái đi bắt sinh viên 20 tuổi uống bia). Nhưng họ chỉ bảo vệ tài sản của bạn khỏi bị xâm phạm; họ không chủ động truy tìm tội phạm có thể một ngày đột nhập nhà bạn, không truy lùng trùm ma tuý Mexico, không chặn tội phạm nhập cảnh hay phá những vụ án khác để thủ phạm khỏi tấn công bạn sau này. Những việc đó làm bạn và tài sản của bạn an toàn hơn về lâu dài, nhưng có vấn đề đi xe không trả tiền cố hữu: ai trả tiền cho loại an ninh này thì cả nước được hưởng. Ở mọi nơi trên thế giới, phần lớn việc thực thi pháp luật do chính phủ làm.
-- **Công viên và không gian mở.** Bờ hồ là tài sản quý nhất của Chicago: khoảng 30 dặm dọc hồ Michigan là công viên và bãi biển do thành phố sở hữu, không cho tư nhân xây dựng. Nếu đây là cách dùng đất tốt nhất (Wheelan tin chắc vậy), sao chủ đất tư nhân không dùng y như thế, khi ta vừa nói sở hữu tư nhân bảo đảm tài sản được dùng hiệu quả nhất? Nếu Wheelan sở hữu 30 dặm bờ hồ, sao không thu tiền người đạp xe, trượt patin, đi picnic để kiếm lãi? Có hai lý do. Một, tuần tra và thu vé trên diện tích lớn như vậy là cơn ác mộng về hậu cần. Quan trọng hơn, nhiều người coi trọng bờ hồ thoáng đãng lại không hề dùng nó; họ ngắm từ cửa sổ căn hộ cao tầng hoặc khi lái xe trên đường Lake Shore Drive. Nhà phát triển tư nhân sẽ không bao giờ thu được gì từ họ, nên sẽ đánh giá thấp không gian mở. Điều này đúng với nhiều tài nguyên thiên nhiên của Mỹ: có thể bạn chưa từng và sẽ không bao giờ đến vịnh Prince William ở Alaska, nhưng gần như chắc chắn bạn đã bận tâm khi tàu chở dầu khổng lồ *Exxon Valdez* mắc cạn và làm ô nhiễm vùng này. Chính phủ có thể làm mọi người cùng khá hơn bằng cách bảo vệ những tài nguyên như vậy.
+Đó là vấn đề căn bản nếu để hàng hoá công cho doanh nghiệp tư nhân: doanh nghiệp không ép được người tiêu dùng trả tiền, dù họ có được lợi bao nhiêu hay dùng thường xuyên thế nào (hãy nhớ ngọn hải đăng), và mọi hệ thống trả tiền tự nguyện đều bị kẻ đi xe không trả tiền làm hỏng. Các ví dụ:
+
+- **Nghiên cứu cơ bản.** Lợi nhuận tạo động cơ mạnh cho hãng dược, nhưng không phải phát hiện khoa học quan trọng nào cũng có ứng dụng thương mại ngay. Khám phá vũ trụ, hiểu cách tế bào phân chia hay tìm hạt hạ nguyên tử có thể còn cách rất nhiều bước tới việc phóng vệ tinh viễn thông, làm thuốc thu nhỏ khối u hay tìm nguồn năng lượng sạch hơn. Hơn nữa, loại nghiên cứu này phải được chia sẻ tự do với giới khoa học thì mới phát huy hết giá trị.
+
+  Nói cách khác, bạn sẽ không giàu lên, thậm chí thường không đủ bù chi phí, bằng việc tạo ra tri thức có thể một ngày cải thiện lớn đời sống con người. Phần lớn nghiên cứu cơ bản ở Mỹ do chính phủ trực tiếp làm (NASA, Viện Y tế Quốc gia) hoặc do các đại học nghiên cứu, vốn là tổ chức phi lợi nhuận nhận tài trợ liên bang.
+- **Thực thi pháp luật.** Không thiếu công ty bảo vệ tư nhân ("cảnh sát thuê" mà hồi đại học Wheelan và bạn bè gọi những người hăng hái đi bắt sinh viên 20 tuổi uống bia). Nhưng họ chỉ bảo vệ tài sản của bạn khỏi bị xâm phạm; họ không chủ động truy tìm tội phạm có thể một ngày đột nhập nhà bạn, không truy lùng trùm ma tuý Mexico, không chặn tội phạm nhập cảnh hay phá những vụ án khác để thủ phạm khỏi tấn công bạn sau này.
+
+  Những việc đó làm bạn và tài sản của bạn an toàn hơn về lâu dài, nhưng có vấn đề đi xe không trả tiền cố hữu: ai trả tiền cho loại an ninh này thì cả nước được hưởng. Ở mọi nơi trên thế giới, phần lớn việc thực thi pháp luật do chính phủ làm.
+- **Công viên và không gian mở.** Bờ hồ là tài sản quý nhất của Chicago: khoảng 30 dặm dọc hồ Michigan là công viên và bãi biển do thành phố sở hữu, không cho tư nhân xây dựng. Nếu đây là cách dùng đất tốt nhất (Wheelan tin chắc vậy), sao chủ đất tư nhân không dùng y như thế, khi ta vừa nói sở hữu tư nhân bảo đảm tài sản được dùng hiệu quả nhất? Nếu Wheelan sở hữu 30 dặm bờ hồ, sao không thu tiền người đạp xe, trượt patin, đi picnic để kiếm lãi?
+
+  Có hai lý do. Một, tuần tra và thu vé trên diện tích lớn như vậy là cơn ác mộng về hậu cần. Quan trọng hơn, nhiều người coi trọng bờ hồ thoáng đãng lại không hề dùng nó; họ ngắm từ cửa sổ căn hộ cao tầng hoặc khi lái xe trên đường Lake Shore Drive. Nhà phát triển tư nhân sẽ không bao giờ thu được gì từ họ, nên sẽ đánh giá thấp không gian mở.
+
+  Điều này đúng với nhiều tài nguyên thiên nhiên của Mỹ: có thể bạn chưa từng và sẽ không bao giờ đến vịnh Prince William ở Alaska, nhưng gần như chắc chắn bạn đã bận tâm khi tàu chở dầu khổng lồ *Exxon Valdez* mắc cạn và làm ô nhiễm vùng này. Chính phủ có thể làm mọi người cùng khá hơn bằng cách bảo vệ những tài nguyên như vậy.
 
 Dĩ nhiên không phải mọi nỗ lực chung đều cần bàn tay chính phủ. Wikipedia là nguồn tra cứu tiện lợi, kể cả với người không bao giờ đóng góp để duy trì nó. Trường học, nhà thờ, khu phố nào cũng có một nhóm người nhiệt tình làm nhiều hơn phần mình để tạo lợi ích chung, cho một nhóm kẻ đi xe không trả tiền lớn hơn nhiều được hưởng. Dù có những ví dụ đó, vẫn có lý do thuyết phục để tin rằng xã hội sẽ đầu tư quá ít vào những thứ làm ta khá hơn nếu không có cơ chế nào buộc hợp tác. Wheelan nói ông yêu tinh thần Wikipedia, nhưng thấy yên tâm hơn khi để việc chống khủng bố cho FBI, cơ quan mà chúng ta lập ra (và trả tiền bằng thuế) để hành động thay mình.
 
@@ -739,29 +795,47 @@ Chính phủ tái phân phối của cải: thu thuế của một số công d�
 
 Thế giới nào tốt hơn? Kinh tế học không có công cụ trả lời. Nhà kinh tế không chứng minh được rằng lấy cưỡng bức 1 USD của Steve Jobs đưa cho một đứa trẻ đói sẽ làm phúc lợi xã hội tăng. Đa số trực giác tin như vậy, nhưng về lý thuyết vẫn có thể Steve Jobs mất nhiều độ thoả dụng hơn số đứa trẻ được thêm. Đây là ví dụ cực đoan của một vấn đề chung: ta đo phúc lợi bằng độ thoả dụng, một khái niệm lý thuyết chứ không phải công cụ đo lường có thể lượng hoá, so sánh giữa các cá nhân hay cộng lại cho cả nước. Ta không thể nói kế hoạch thuế của ứng viên A tạo 120 đơn vị thoả dụng cho đất nước còn của ứng viên B chỉ 111.
 
-Amartya Sen, giải Nobel kinh tế 1998, đặt ra câu hỏi sau. Ba người đến xin việc; bạn chỉ có một việc, không chia được, và cả ba ngang tài. Một mục tiêu của bạn là làm thế giới tốt hơn bằng cách tuyển người cần việc nhất. Người thứ nhất nghèo nhất; nếu cải thiện phúc lợi con người là mục tiêu chính, có lẽ anh ta nên được nhận. Hoặc không. Người thứ hai không nghèo nhất nhưng khổ nhất, vì mới rơi vào cảnh nghèo và chưa quen thiếu thốn; trao việc cho anh ta làm hạnh phúc tăng nhiều nhất. Người thứ ba không nghèo nhất cũng không khổ nhất, nhưng mang một bệnh mãn tính chịu đựng cả đời, chữa được bằng tiền lương; trao việc cho anh ta tác động sâu nhất tới chất lượng sống của một con người. Ai nên được nhận? Sen có nhiều điều thú vị để nói, nhưng kết luận là không có đáp án đúng. Điều đó cũng đúng, trái với điều chính trị gia cả hai phe sẽ nói, với các vấn đề tái phân phối trong nền kinh tế hiện đại. Một đợt tăng thuế để có lưới an sinh tốt hơn cho người nghèo nhưng làm tăng trưởng chậm lại có làm đất nước khá hơn không? Đó là chuyện quan điểm, không phải chuyên môn kinh tế. (Wheelan lưu ý: chính quyền nào cũng tìm được những nhà kinh tế rất giỏi ủng hộ lập trường ý thức hệ của mình.)
+Amartya Sen, giải Nobel kinh tế 1998, đặt ra câu hỏi sau. Ba người đến xin việc; bạn chỉ có một việc, không chia được, và cả ba ngang tài. Một mục tiêu của bạn là làm thế giới tốt hơn bằng cách tuyển người cần việc nhất.
 
-Ông nhắc cả hai phe. Phe tự do (theo nghĩa Mỹ, tức thiên tả) hay quên rằng một chiếc bánh đang lớn, dù chia không đều, gần như luôn làm cả những miếng nhỏ to hơn. Thế giới đang phát triển cần tăng trưởng kinh tế (mà thương mại quốc tế đóng góp lớn) để người nghèo khá lên, chấm hết. Một thực tế lịch sử là những chính sách bề ngoài phục vụ người nghèo có thể vô hiệu hoặc phản tác dụng nếu chúng làm què nền kinh tế rộng hơn. Còn phe bảo thủ hay vô tư cho rằng ta nên ra đường hoan hô mọi chính sách làm kinh tế tăng trưởng nhanh hơn, quên rằng có những lý lẽ trí tuệ hoàn toàn chính đáng để ủng hộ các chính sách khác, như bảo vệ môi trường hay tái phân phối thu nhập, dù chúng có thể làm chiếc bánh nhỏ đi. Thậm chí có bằng chứng rằng cảm giác hạnh phúc phụ thuộc vào mức giàu tương đối ít nhất cũng nhiều như mức giàu tuyệt đối: ta thoả mãn không chỉ vì có chiếc ti vi to, mà vì có chiếc ti vi to bằng hoặc hơn của hàng xóm.
+Người thứ nhất nghèo nhất; nếu cải thiện phúc lợi con người là mục tiêu chính, có lẽ anh ta nên được nhận. Hoặc không. Người thứ hai không nghèo nhất nhưng khổ nhất, vì mới rơi vào cảnh nghèo và chưa quen thiếu thốn; trao việc cho anh ta làm hạnh phúc tăng nhiều nhất. Người thứ ba không nghèo nhất cũng không khổ nhất, nhưng mang một bệnh mãn tính chịu đựng cả đời, chữa được bằng tiền lương; trao việc cho anh ta tác động sâu nhất tới chất lượng sống của một con người.
+
+Ai nên được nhận? Sen có nhiều điều thú vị để nói, nhưng kết luận là không có đáp án đúng. Điều đó cũng đúng, trái với điều chính trị gia cả hai phe sẽ nói, với các vấn đề tái phân phối trong nền kinh tế hiện đại. Một đợt tăng thuế để có lưới an sinh tốt hơn cho người nghèo nhưng làm tăng trưởng chậm lại có làm đất nước khá hơn không? Đó là chuyện quan điểm, không phải chuyên môn kinh tế. (Wheelan lưu ý: chính quyền nào cũng tìm được những nhà kinh tế rất giỏi ủng hộ lập trường ý thức hệ của mình.)
+
+Ông nhắc cả hai phe. Phe tự do (theo nghĩa Mỹ, tức thiên tả) hay quên rằng một chiếc bánh đang lớn, dù chia không đều, gần như luôn làm cả những miếng nhỏ to hơn. Thế giới đang phát triển cần tăng trưởng kinh tế (mà thương mại quốc tế đóng góp lớn) để người nghèo khá lên, chấm hết. Một thực tế lịch sử là những chính sách bề ngoài phục vụ người nghèo có thể vô hiệu hoặc phản tác dụng nếu chúng làm què nền kinh tế rộng hơn.
+
+Còn phe bảo thủ hay vô tư cho rằng ta nên ra đường hoan hô mọi chính sách làm kinh tế tăng trưởng nhanh hơn, quên rằng có những lý lẽ trí tuệ hoàn toàn chính đáng để ủng hộ các chính sách khác, như bảo vệ môi trường hay tái phân phối thu nhập, dù chúng có thể làm chiếc bánh nhỏ đi. Thậm chí có bằng chứng rằng cảm giác hạnh phúc phụ thuộc vào mức giàu tương đối ít nhất cũng nhiều như mức giàu tuyệt đối: ta thoả mãn không chỉ vì có chiếc ti vi to, mà vì có chiếc ti vi to bằng hoặc hơn của hàng xóm.
 
 ### 10. Có nên bảo vệ người ta khỏi chính họ?
 
 Rồi đến một trong những câu hỏi gây tranh cãi nhất: chính phủ có nên bảo vệ người ta khỏi chính họ? Xã hội có nên bỏ nguồn lực ngăn bạn làm điều dại dột không ảnh hưởng gì tới người khác, hay đó là chuyện của bạn? Điều quan trọng nhất cần hiểu là câu trả lời mang tính triết học; kinh tế học chỉ làm được việc vạch ra dải các quan điểm có thể bảo vệ.
 
-Ở một đầu là niềm tin rằng cá nhân lý trí (hoặc ít nhất lý trí hơn chính phủ), nghĩa là mỗi công dân là người phán xét tốt nhất điều gì tốt cho mình, không phải phần còn lại của xã hội. Nếu bạn thích hít keo rồi lăn ngửa xuống cầu thang tầng hầm, tốt cho bạn; chỉ cần đảm bảo tự trả mọi chi phí y tế và đừng lái xe sau khi hít keo. Ở đầu kia, kinh tế học hành vi đã cung cấp nhiều "đạn dược" cho những người có lý trí cho rằng xã hội có thể và nên ngăn người ta làm những việc nhiều khả năng sẽ có kết cục tồi. Có bằng chứng tốt rằng quyết định của con người dễ mắc một số loại lỗi, như đánh giá thấp rủi ro hay lập kế hoạch kém cho tương lai. Trên thực tế, những lỗi đó thường lan sang người khác, như ta đã thấy trong vụ sụp đổ thị trường nhà đất và mớ hỗn độn thế chấp đi kèm.
+Ở một đầu là niềm tin rằng cá nhân lý trí (hoặc ít nhất lý trí hơn chính phủ), nghĩa là mỗi công dân là người phán xét tốt nhất điều gì tốt cho mình, không phải phần còn lại của xã hội. Nếu bạn thích hít keo rồi lăn ngửa xuống cầu thang tầng hầm, tốt cho bạn; chỉ cần đảm bảo tự trả mọi chi phí y tế và đừng lái xe sau khi hít keo.
+
+Ở đầu kia, kinh tế học hành vi đã cung cấp nhiều "đạn dược" cho những người có lý trí cho rằng xã hội có thể và nên ngăn người ta làm những việc nhiều khả năng sẽ có kết cục tồi. Có bằng chứng tốt rằng quyết định của con người dễ mắc một số loại lỗi, như đánh giá thấp rủi ro hay lập kế hoạch kém cho tương lai. Trên thực tế, những lỗi đó thường lan sang người khác, như ta đã thấy trong vụ sụp đổ thị trường nhà đất và mớ hỗn độn thế chấp đi kèm.
 
 Ở giữa có nhiều quan điểm (ví dụ được hít keo và lăn xuống cầu thang, nhưng phải đội mũ bảo hiểm). Một lối trung dung thú vị và thực tế là "chủ nghĩa gia trưởng tự do", đề xuất trong cuốn sách có ảnh hưởng *Nudge* của Richard Thaler, giáo sư khoa học hành vi và kinh tế ở Đại học Chicago, và Cass Sunstein, giáo sư Trường Luật Harvard đang làm việc trong chính quyền Obama. Ý tưởng là cá nhân có mắc lỗi phán đoán có hệ thống, nhưng xã hội không nên ép bạn đổi hành vi (phần "tự do"); thay vào đó chỉ nên chỉ bạn đúng hướng (phần "gia trưởng").
 
-Một phát hiện then chốt của Thaler và Sunstein là quyết định của ta thường là sản phẩm của quán tính. Nếu công ty tự động đăng ký cho ta một gói bảo hiểm, ta sẽ giữ nguyên, dù có sáu gói khác. Ngược lại, ta có thể không đăng ký gói nào nếu việc đó đòi chút chủ động: đọc sổ tay phúc lợi, điền mẫu, dự một buổi hội thảo nhân sự vô bổ, hay bất cứ thứ gì tốn thời gian công sức. Thaler và Sunstein đề nghị tận dụng quán tính (và các tật xấu khác trong ra quyết định). Nếu nhà làm chính sách lo về một hành vi như tiết kiệm hưu trí không đủ, lựa chọn theo tinh thần gia trưởng tự do là đặt phương án mặc định tự động chuyển một khoản tiền kha khá từ mỗi kỳ lương vào tài khoản hưu trí. Đó là "cú hích". Ai cũng được tự do chọn khác bất cứ lúc nào, nhưng một tỷ lệ cao đến kinh ngạc sẽ ở nguyên chỗ họ được đặt vào lúc đầu.
+Một phát hiện then chốt của Thaler và Sunstein là quyết định của ta thường là sản phẩm của quán tính. Nếu công ty tự động đăng ký cho ta một gói bảo hiểm, ta sẽ giữ nguyên, dù có sáu gói khác. Ngược lại, ta có thể không đăng ký gói nào nếu việc đó đòi chút chủ động: đọc sổ tay phúc lợi, điền mẫu, dự một buổi hội thảo nhân sự vô bổ, hay bất cứ thứ gì tốn thời gian công sức.
 
-Ý tưởng này có hàm ý sâu sắc với chuyện như hiến tạng. Tây Ban Nha, Pháp, Na Uy, Israel và nhiều nước khác có luật hiến tạng "mặc định đồng ý" (*opt-out*, hay đồng ý giả định): bạn là người hiến tạng trừ khi bày tỏ ý khác, và bạn được tự do làm vậy. Ngược lại, Mỹ dùng hệ thống "tự đăng ký" (*opt-in*): bạn không phải người hiến tạng trừ khi đăng ký. Quán tính có tác dụng ngay cả với chuyện hệ trọng như hiến tạng: các nhà kinh tế thấy luật đồng ý giả định có tác động tích cực đáng kể tới số ca hiến tạng, kể cả sau khi đã tính tới các đặc điểm của từng nước như tôn giáo và chi tiêu y tế. Tây Ban Nha có tỷ lệ hiến tạng từ người đã chết cao nhất thế giới, cao hơn Mỹ 50%. Những người theo chủ nghĩa tự do thật sự (khác với kiểu gia trưởng) phản đối luật đồng ý giả định, vì nó ngụ ý chính phủ "sở hữu" nội tạng của bạn cho tới khi bạn bỏ công đòi lại.
+Thaler và Sunstein đề nghị tận dụng quán tính (và các tật xấu khác trong ra quyết định). Nếu nhà làm chính sách lo về một hành vi như tiết kiệm hưu trí không đủ, lựa chọn theo tinh thần gia trưởng tự do là đặt phương án mặc định tự động chuyển một khoản tiền kha khá từ mỗi kỳ lương vào tài khoản hưu trí. Đó là "cú hích". Ai cũng được tự do chọn khác bất cứ lúc nào, nhưng một tỷ lệ cao đến kinh ngạc sẽ ở nguyên chỗ họ được đặt vào lúc đầu.
+
+Ý tưởng này có hàm ý sâu sắc với chuyện như hiến tạng. Tây Ban Nha, Pháp, Na Uy, Israel và nhiều nước khác có luật hiến tạng "mặc định đồng ý" (*opt-out*, hay đồng ý giả định): bạn là người hiến tạng trừ khi bày tỏ ý khác, và bạn được tự do làm vậy. Ngược lại, Mỹ dùng hệ thống "tự đăng ký" (*opt-in*): bạn không phải người hiến tạng trừ khi đăng ký.
+
+Quán tính có tác dụng ngay cả với chuyện hệ trọng như hiến tạng: các nhà kinh tế thấy luật đồng ý giả định có tác động tích cực đáng kể tới số ca hiến tạng, kể cả sau khi đã tính tới các đặc điểm của từng nước như tôn giáo và chi tiêu y tế. Tây Ban Nha có tỷ lệ hiến tạng từ người đã chết cao nhất thế giới, cao hơn Mỹ 50%. Những người theo chủ nghĩa tự do thật sự (khác với kiểu gia trưởng) phản đối luật đồng ý giả định, vì nó ngụ ý chính phủ "sở hữu" nội tạng của bạn cho tới khi bạn bỏ công đòi lại.
 
 ### 11. Kết: chính phủ tốt là quan trọng
 
 Nền kinh tế càng tinh vi, thể chế nhà nước càng phải tinh vi. Internet là ví dụ hoàn hảo: khu vực tư nhân là động cơ tăng trưởng của kinh tế mạng, nhưng chính phủ là bên trừng trị gian lận, làm cho giao dịch trực tuyến ràng buộc về pháp lý, phân định quyền tài sản (như tên miền), giải quyết tranh chấp và xử lý những vấn đề ta còn chưa nghĩ tới.
 
-Một nghịch lý buồn của sự kiện 11/9 là nó phơi bày sự rỗng tuếch của một quan niệm giản đơn về chính phủ, rằng "người nộp thuế biết làm gì với tiền của mình tốt hơn chính phủ". Người nộp thuế không thể tự thu thập tình báo, truy lùng một kẻ trốn chạy trên núi Afghanistan, nghiên cứu về khủng bố sinh học hay bảo vệ máy bay và sân bay. Đúng là nếu chính phủ lấy tiền từ phiếu lương của Wheelan, có những thứ đem lại thoả dụng mà ông không còn mua được. Nhưng cũng đúng là có những thứ làm ông khá hơn mà ông không thể tự mua: hệ thống chống tên lửa, bảo vệ loài nguy cấp, chặn nóng lên toàn cầu, lắp đèn giao thông, giám sát Sở Giao dịch Chứng khoán New York, hay đàm phán giảm rào cản thương mại với Trung Quốc. Chính phủ cho phép chúng ta cùng nhau làm những việc đó.
+Một nghịch lý buồn của sự kiện 11/9 là nó phơi bày sự rỗng tuếch của một quan niệm giản đơn về chính phủ, rằng "người nộp thuế biết làm gì với tiền của mình tốt hơn chính phủ". Người nộp thuế không thể tự thu thập tình báo, truy lùng một kẻ trốn chạy trên núi Afghanistan, nghiên cứu về khủng bố sinh học hay bảo vệ máy bay và sân bay.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một con hẻm có 40 hộ, đường ống thoát nước chung bị tắc, mỗi mùa mưa nước ngập vào nhà khoảng 10 lần. Sửa ống hết 200 triệu đồng, tức 5 triệu đồng mỗi hộ; mỗi hộ ước tính thiệt hại do ngập khoảng 3 triệu đồng mỗi năm, nên sửa ống có lợi cho tất cả trong vòng 2 năm. Nhưng khi tổ trưởng kêu gọi góp tự nguyện, chỉ 18 hộ góp: các hộ còn lại biết ống sửa xong thì nhà họ cũng hết ngập (không thể loại trừ), giống hệt câu chuyện Etienne và hệ thống chống tên lửa, hay 46% độc giả của Stephen King. Có ba lối ra theo đúng các công cụ của chương: chính quyền phường đưa vào ngân sách và thu qua phí (cơ chế bắt buộc hợp tác); một hộ kinh doanh ở đầu hẻm, bị thiệt nặng nhất vì mất khách khi ngập, tự bỏ tiền sửa vì lợi ích riêng đủ lớn; hoặc các hộ thoả thuận "ai không góp thì không được nối ống thoát nước nhà mình vào đường mới" (biến hàng hoá công thành hàng hoá có thể loại trừ). Còn nếu một xưởng giặt trong hẻm xả hoá chất làm tắc ống nhanh hơn, đó là ngoại ứng: cách theo tinh thần Wheelan là bắt xưởng trả một khoản phí theo lượng nước thải, thay vì cấm hẳn xưởng hoạt động.
+Đúng là nếu chính phủ lấy tiền từ phiếu lương của Wheelan, có những thứ đem lại thoả dụng mà ông không còn mua được. Nhưng cũng đúng là có những thứ làm ông khá hơn mà ông không thể tự mua: hệ thống chống tên lửa, bảo vệ loài nguy cấp, chặn nóng lên toàn cầu, lắp đèn giao thông, giám sát Sở Giao dịch Chứng khoán New York, hay đàm phán giảm rào cản thương mại với Trung Quốc. Chính phủ cho phép chúng ta cùng nhau làm những việc đó.
+
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một con hẻm có 40 hộ, đường ống thoát nước chung bị tắc, mỗi mùa mưa nước ngập vào nhà khoảng 10 lần. Sửa ống hết 200 triệu đồng, tức 5 triệu đồng mỗi hộ; mỗi hộ ước tính thiệt hại do ngập khoảng 3 triệu đồng mỗi năm, nên sửa ống có lợi cho tất cả trong vòng 2 năm. Nhưng khi tổ trưởng kêu gọi góp tự nguyện, chỉ 18 hộ góp: các hộ còn lại biết ống sửa xong thì nhà họ cũng hết ngập (không thể loại trừ), giống hệt câu chuyện Etienne và hệ thống chống tên lửa, hay 46% độc giả của Stephen King.
+
+Có ba lối ra theo đúng các công cụ của chương: chính quyền phường đưa vào ngân sách và thu qua phí (cơ chế bắt buộc hợp tác); một hộ kinh doanh ở đầu hẻm, bị thiệt nặng nhất vì mất khách khi ngập, tự bỏ tiền sửa vì lợi ích riêng đủ lớn; hoặc các hộ thoả thuận "ai không góp thì không được nối ống thoát nước nhà mình vào đường mới" (biến hàng hoá công thành hàng hoá có thể loại trừ).
+
+Còn nếu một xưởng giặt trong hẻm xả hoá chất làm tắc ống nhanh hơn, đó là ngoại ứng: cách theo tinh thần Wheelan là bắt xưởng trả một khoản phí theo lượng nước thải, thay vì cấm hẳn xưởng hoạt động.
 
 ## Luận điểm kinh tế cốt lõi
 
@@ -877,7 +951,9 @@ Wheelan không bán thuế Pigou như thuốc tiên. Ông nêu ba khó khăn có
 
 ### Định lý Coase được trình bày đúng nhưng dễ bị hiểu là lạc quan hơn thực tế
 
-Ví dụ công ty điện mua cả thị trấn rất sinh động, nhưng nó là ngoại lệ: một bên gây hại duy nhất, số nạn nhân nhỏ, quyền kiện được luật xác lập rõ. Phần lớn ngoại ứng ngoài đời (khói bụi đô thị, tiếng ồn giao thông, ô nhiễm sông) có nhiều bên gây hại, nhiều bên chịu hại, thiệt hại khó đo, nên chi phí giao dịch rất cao. Chính Coase nhấn mạnh chi phí giao dịch là điều quan trọng nhất trong lập luận của mình; Wheelan nêu ý này ở cuối phần, và người đọc nên coi nó là ý chính chứ không phải chú thích. Thêm một điểm nhỏ: kết quả "như nhau bất kể ai có quyền" chỉ đúng về hiệu quả; về công bằng thì khác hẳn (trong ví dụ bongo, việc ai phải trả tiền cho ai là chuyện lớn với Wheelan và Stuart).
+Ví dụ công ty điện mua cả thị trấn rất sinh động, nhưng nó là ngoại lệ: một bên gây hại duy nhất, số nạn nhân nhỏ, quyền kiện được luật xác lập rõ. Phần lớn ngoại ứng ngoài đời (khói bụi đô thị, tiếng ồn giao thông, ô nhiễm sông) có nhiều bên gây hại, nhiều bên chịu hại, thiệt hại khó đo, nên chi phí giao dịch rất cao.
+
+Chính Coase nhấn mạnh chi phí giao dịch là điều quan trọng nhất trong lập luận của mình; Wheelan nêu ý này ở cuối phần, và người đọc nên coi nó là ý chính chứ không phải chú thích. Thêm một điểm nhỏ: kết quả "như nhau bất kể ai có quyền" chỉ đúng về hiệu quả; về công bằng thì khác hẳn (trong ví dụ bongo, việc ai phải trả tiền cho ai là chuyện lớn với Wheelan và Stuart).
 
 ### Một vài số liệu và nhận định đã thay đổi từ 2010
 
@@ -893,3 +969,181 @@ Wheelan nói đúng rằng câu hỏi "chiếc bánh lớn chia không đều ha
 - **Trong đầu tư.** Chất lượng thể chế là một yếu tố định giá: hợp đồng có thực thi được không, tranh chấp mất bao lâu để xử, quyền sở hữu đất và tài sản trí tuệ có rõ không. Ví dụ Nigeria và Ấn Độ cho thấy cùng một tài nguyên hay cùng một thị trường lớn, thể chế yếu làm chi phí kinh doanh tăng vọt. Với doanh nghiệp dựa vào bằng sáng chế (dược phẩm, công nghệ), hãy theo dõi thời điểm hết hạn bằng, vì giá có thể giảm 80–90%.
 - **Trong nghề nghiệp và đời sống.** Những gì Wheelan nói về quyền tài sản áp dụng cho chính sản phẩm trí tuệ của bạn: thiết kế, phần mềm, bài viết, công thức. Nếu không có cách bảo vệ hoặc thu tiền (hợp đồng, bản quyền, mô hình thuê bao), bạn đang làm ra hàng hoá công cho kẻ đi xe không trả tiền, như Stephen King với "The Plant". Với tài chính cá nhân, dùng chính "cú hích" cho mình: đặt chế độ tự động trích tiết kiệm mỗi kỳ lương, vì quán tính sẽ giữ nó.
 - **Khi đọc tin chính sách.** Với một đề xuất thu phí, đánh thuế (phí xả thải, thuế bảo vệ môi trường với xăng dầu, phí vào nội đô), hãy hỏi: nó có nhắm đúng khoảng chênh giữa chi phí riêng và xã hội không, ai gánh nhiều nhất so với thu nhập, và nguồn thu dùng vào đâu. Với các tranh luận về cải cách tư pháp, đăng ký đất đai hay bảo hộ sở hữu trí tuệ ở Việt Nam, chương này gợi ý coi đó là hạ tầng cho thị trường, có giá trị kinh tế ngang với đường cao tốc, chứ không chỉ là chuyện hành chính.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 3 trên một trang: sáu nhánh lớn đi theo các mục 1–10 trong phần Nội dung chi tiết (ngoại ứng, quy định và thuế, định lý Coase, luật chơi của thị trường, hàng hoá công, tái phân phối và cú hích), mỗi nhánh ghi cơ chế, ví dụ và con số then chốt của Wheelan; nhánh cuối là thông điệp xuyên suốt, gồm cả phần kết ở Mục 11.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 3: chính phủ tốt không chỉ sửa chỗ thị trường thất bại mà làm cho kinh tế thị trường có thể tồn tại`"]
+  n1["`Mục 1–3 — Ngoại ứng: chi phí riêng khác chi phí xã hội`"]
+  n0 --- n1
+  n2["`Ngoại ứng: chi phí riêng của hành vi khác chi phí xã hội, người chịu thiệt không có tiếng nói`"]
+  n1 --- n2
+  n3["`Chiếc Explorer 9 dặm/gallon làm người lái Civic, trẻ hen suyễn, đảo quốc Thái Bình Dương thiệt mà không được trả`"]
+  n1 --- n3
+  n4["`Chi phí không phải trả thì không vào bảng tính mua xe, nên thị trường để tự nhiên không sửa được`"]
+  n1 --- n4
+  n5["`Phim Michael Clayton: chính thị trường là vấn đề, cách đòi công lý là tòa án do nhà nước duy trì`"]
+  n1 --- n5
+  n6["`Paris: 650 người mỗi năm gãy xương hoặc nhập viện vì phân chó, nên thành phố có luật buộc dọn`"]
+  n1 --- n6
+  n7["`Giao dịch chỉ làm các bên tham gia khá hơn: Stuart mua trống bongo thì hàng xóm Wheelan thiệt`"]
+  n1 --- n7
+  n8["`Béo phì: chi phí y tế xấp xỉ hút thuốc, xã hội gánh qua y tế công và phí bảo hiểm`"]
+  n1 --- n8
+  n9["`Nhà máy thép Pennsylvania có thể gây lụt ở Bangladesh, giải pháp phải ràng buộc mọi bên gây ô nhiễm`"]
+  n1 --- n9
+  n10["`Ngoại ứng tích cực: toà nhà Wrigley, doanh nghiệp mở đường cho khu phố xuống cấp nên được trợ cấp`"]
+  n1 --- n10
+  n11["`Thuốc lá: người hút chết sớm 7 năm, Philip Morris tính cho Séc lợi ích ròng ngân sách 148 triệu USD`"]
+  n1 --- n11
+  n12["`Mục 4 — Sửa ngoại ứng: quy định hay đánh thuế`"]
+  n0 --- n12
+  n13["`Quy định: hàng nghìn trang luật liên bang mỗi năm, khí thải California, quy hoạch, màu sơn Nantucket`"]
+  n12 --- n13
+  n14["`Robert Frank: chạy đua vũ trang SUV, gia đình mua xe nhỏ là đơn phương giải giáp`"]
+  n12 --- n14
+  n15["`Lái xe quá rẻ: xã hội tốn 75 xu mỗi dặm, chủ Explorer tốn 50 xu, đánh thuế 25 xu`"]
+  n12 --- n15
+  n16["`Như kem gây bệnh tim mà không bị cấm: nâng chi phí riêng lên bằng chi phí xã hội rồi để mỗi người tự quyết`"]
+  n12 --- n16
+  n17["`Lợi ích thứ nhất: ít Explorer hơn, người còn lái là người cần SUV nhất`"]
+  n12 --- n17
+  n18["`Lợi ích thứ hai: tạo nguồn thu, có thể dùng giảm thuế thu nhập, thuế tiền lương`"]
+  n12 --- n18
+  n19["`Lợi ích thứ ba: cấm xe dưới 18 dặm/gallon chỉ ra xe đạt đúng 18, thuế thúc xe tiết kiệm hơn nữa`"]
+  n12 --- n19
+  n20["`Giới hạn: khó định mức thuế, 0,75 USD, 2,21 USD hay 3,07 USD mỗi dặm?`"]
+  n12 --- n20
+  n21["`Giới hạn: đo bằng sẵn lòng trả thì thiên vị người giàu, xăng 9 USD/gallon nhà thầu Chicago không lái nổi`"]
+  n12 --- n21
+  n22["`Giới hạn: mọi hoạt động đều có ngoại ứng nên dễ đánh thuế tràn lan, như thuế đồ thun bó`"]
+  n12 --- n22
+  n23["`Mục 5 — Định lý Coase: các bên tự thương lượng`"]
+  n0 --- n23
+  n24["`Bongo đáng 50 USD/giờ với Stuart, yên tĩnh đáng 100 USD/giờ với Wheelan`"]
+  n23 --- n24
+  n25["`Stuart có quyền gây ồn: Wheelan trả 75 USD để Stuart chuyển sang đan len`"]
+  n23 --- n25
+  n26["`Wheelan có quyền yên tĩnh: Stuart không trả nổi 100 USD, kết quả vẫn là yên tĩnh`"]
+  n23 --- n26
+  n27["`Quyền tài sản phải rõ, và dù ai có quyền ban đầu kết quả hiệu quả như nhau, chỉ khác ai trả ai`"]
+  n23 --- n27
+  n28["`American Electric Power trả 221 cư dân Ohio khoảng gấp ba giá nhà, tổng 20 triệu USD, để cả thị trấn dọn đi`"]
+  n23 --- n28
+  n29["`Chi phí giao dịch phải thấp: không thể viết séc cho sáu tỷ người vì CO2, nên cần chính phủ`"]
+  n23 --- n29
+  n30["`Mục 6–7 — Luật chơi: quyền tài sản, hạ tầng, tòa án`"]
+  n0 --- n30
+  n31["`Ý #quot;chính phủ tránh đường#quot; là sai: chính phủ tồi hay vắng bóng là một lý do hàng tỷ người còn nghèo`"]
+  n30 --- n31
+  n32["`Nigeria nhiều dầu khí nhưng doanh nghiệp phải tự mang hạ tầng theo (BYOI)`"]
+  n30 --- n32
+  n33["`Angola năm 1999 chi 900 triệu USD tiền dầu mua vũ khí, 1/3 trẻ em chết trước 5 tuổi, tuổi thọ 42`"]
+  n30 --- n33
+  n34["`Như trọng tài: không ai ưa, nhưng không có thì không chơi được World Series`"]
+  n30 --- n34
+  n35["`Quyền tài sản bảo đảm lợi tức đầu tư thuộc về bạn: ngành âm nhạc kiện thắng Napster`"]
+  n30 --- n35
+  n36["`Luật bản quyền giữ cả chuỗi giao dịch tư nhân làm ra cuốn sách`"]
+  n30 --- n36
+  n37["`Viagra vài xu một viên bán 7 USD nhờ bằng sáng chế 20 năm, hết hạn thì giá giảm 80–90%`"]
+  n30 --- n37
+  n38["`Không có bằng sáng chế thì không ai bỏ khoảng 600 triệu USD nghiên cứu một thuốc mới`"]
+  n37 --- n38
+  n39["`Muốn thuốc rẻ: nhà nước mua đứt bằng sáng chế, hoặc bán rẻ thuốc HIV/AIDS ở châu Phi bằng phân biệt giá`"]
+  n37 --- n39
+  n40["`Khu bảo tồn người da đỏ: đất sở hữu chung, không tịch biên được nên gần như không vay mua nhà được`"]
+  n30 --- n40
+  n41["`Đường mới thập niên 1950–1960, gồm cao tốc liên bang, gắn với năng suất tăng mạnh`"]
+  n30 --- n41
+  n42["`SEC và luật hợp đồng cho giao dịch với người lạ, pháp quyền yếu thì làm ăn dựa vào gia đình, phe nhóm`"]
+  n30 --- n42
+  n43["`Ấn Độ: vụ kiện cống nước xử sau 39 năm, cần 324 năm để xử hết án tồn đọng`"]
+  n30 --- n43
+  n44["`Ba hãng bay thông đồng giá vé tệ như một hãng độc quyền, nên cần luật chống độc quyền`"]
+  n30 --- n44
+  n45["`Mục 8 — Hàng hoá công và kẻ đi xe không trả tiền`"]
+  n0 --- n45
+  n46["`Hai đặc điểm: phục vụ thêm người gần như không tốn, và không ngăn được người không trả tiền`"]
+  n45 --- n46
+  n47["`Hàng xóm Etienne không góp tiền hệ thống chống tên lửa vì đằng nào cũng được che, nên không ai có`"]
+  n45 --- n47
+  n48["`Ngọn hải đăng: không thể bắt thuyền trưởng nhắm mắt khi đi qua`"]
+  n45 --- n48
+  n49["`Stephen King bán #quot;The Plant#quot; 1 USD mỗi phần, cần 75% trả tiền, chỉ 46% trả nên truyện dừng`"]
+  n45 --- n49
+  n50["`Nghiên cứu cơ bản phải chia sẻ tự do, nên do NASA, Viện Y tế Quốc gia, đại học được tài trợ làm`"]
+  n45 --- n50
+  n51["`Thực thi pháp luật: ai trả tiền truy tội phạm thì cả nước cùng hưởng`"]
+  n45 --- n51
+  n52["`30 dặm bờ hồ Michigan: nhiều người hưởng mà không bước vào, tư nhân sẽ đánh giá thấp không gian mở`"]
+  n45 --- n52
+  n53["`Có Wikipedia, nhưng không có cơ chế buộc hợp tác thì xã hội đầu tư quá ít`"]
+  n45 --- n53
+  n54["`Mục 9–10 — Tái phân phối và bảo vệ người ta khỏi chính họ`"]
+  n0 --- n54
+  n55["`Phần lớn trợ cấp ở Mỹ đến tầng lớp trung lưu qua Medicare và An sinh Xã hội`"]
+  n54 --- n55
+  n56["`Ai cũng 25.000 USD hay hiện trạng trung bình 48.000 USD: bánh nhỏ chia đều hay bánh to chia lệch`"]
+  n54 --- n56
+  n57["`Độ thoả dụng không đo, so sánh, cộng được giữa người với người, nên kinh tế học không tự trả lời`"]
+  n54 --- n57
+  n58["`Amartya Sen: trao việc cho người nghèo nhất, khổ nhất hay bệnh mãn tính? Không có đáp án đúng`"]
+  n54 --- n58
+  n59["`Phe tả quên bánh lớn làm cả miếng nhỏ to hơn, phe hữu quên lý do chính đáng để tái phân phối, bảo vệ môi trường`"]
+  n54 --- n59
+  n60["`Kinh tế học hành vi: người ta đánh giá thấp rủi ro, lập kế hoạch kém, và lỗi lan sang người khác`"]
+  n54 --- n60
+  n61["`Nudge của Thaler và Sunstein: không ép, chỉ hướng về lựa chọn tốt bằng cách tận dụng quán tính`"]
+  n54 --- n61
+  n62["`Mặc định tự trích lương vào tài khoản hưu trí, ai cũng được rút ra nhưng phần lớn ở nguyên`"]
+  n54 --- n62
+  n63["`Mặc định đồng ý hiến tạng: Tây Ban Nha cao hơn Mỹ 50%, người theo chủ nghĩa tự do phản đối`"]
+  n54 --- n63
+  n64["`Thông điệp xuyên suốt`"]
+  n0 --- n64
+  n65["`Chính phủ tốt làm cho kinh tế thị trường có thể tồn tại, chính phủ tồi làm nó sụp đổ`"]
+  n64 --- n65
+  n66["`Với ngoại ứng, ưu tiên thuế hơn lệnh cấm, và hỏi trước xem các bên có tự thương lượng được không`"]
+  n64 --- n66
+  n67["`Kinh tế càng tinh vi thể chế càng phải tinh vi: Internet cần chính phủ trị gian lận, phân định tên miền`"]
+  n64 --- n67
+  n68["`Sau 11/9: có những thứ người nộp thuế không tự mua được, chính phủ cho phép cùng nhau làm`"]
+  n64 --- n68
+  class n0 root
+  class n1,n12,n23,n30,n45,n54,n64 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n24,n25,n26,n27,n28,n29,n31,n32,n33,n34,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n46,n47,n48,n49,n50,n51,n52,n53,n55,n56,n57,n58,n59,n60,n61,n62,n63,n65,n66,n67,n68 leaf
+```
+
+## Nguồn
+
+Charles Wheelan, *Naked Economics: Undressing the Dismal Science*, ấn bản sửa đổi và cập nhật (W. W. Norton, 2010), Chương 3.
+
+## Tác giả
+
+Charles Wheelan (sinh 1966), nhà kinh tế và nhà báo Mỹ, từng là phóng viên của *The Economist* ở Trung Tây nước Mỹ, giảng dạy chính sách công tại Đại học Chicago và Dartmouth.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 1 ca ngợi sức mạnh của thị trường; Chương 2 cho thấy động cơ khuyến khích là thứ làm thị trường chạy, và cũng cho thấy những chỗ động cơ cá nhân lệch khỏi lợi ích chung (tê giác, ngư trường).
+
+Chương 3 trả lời câu hỏi tiếp theo: khi đó ai sửa? Wheelan lập luận rằng chính phủ không chỉ vá những chỗ thị trường thất bại (ngoại ứng, hàng hoá công) mà còn **làm cho thị trường có thể tồn tại** (quyền tài sản, tòa án, pháp quyền, hạ tầng).
+
+Chương 4 ("Government and the Economy II: The army was lucky to get that screwdriver for $500") sẽ nói mặt kia: chính phủ cũng có thể làm rất tệ, và cái khôn là phân biệt được hai trường hợp.
+
+## Lưu ý
+
+- Ấn bản này cập nhật tới khoảng 2009: Cass Sunstein "đang làm việc cho chính quyền Obama", cuốn *Nudge* vừa ra (2008), thu nhập bình quân Mỹ "khoảng 48.000 USD", dân số thế giới "sáu tỷ người" (nay đã đông hơn nhiều).
+- Chi phí trung bình để đưa một loại thuốc mới ra thị trường mà Wheelan dẫn (khoảng 600 triệu USD) nay được các ước tính sau này đặt cao hơn đáng kể.
+- Cơ quan INS mà Thomas Friedman liệt kê đã bị giải thể và chia vào Bộ An ninh Nội địa Mỹ.
+- Richard Thaler, đồng tác giả *Nudge*, về sau được giải Nobel kinh tế, và "cú hích" (đăng ký mặc định vào quỹ hưu) đã được nhiều nước áp dụng, tức nhận định của Wheelan được thời gian ủng hộ.
+- Chương có hai chú thích chân trang dấu `*` (về chiếc Explorer bị lật và về thuốc HIV/AIDS ở châu Phi), đã đưa vào đúng chỗ ở phần trên.
+- Phụ đề "vỗ tay cho các luật sư" ám chỉ câu "việc đầu tiên ta làm là giết hết bọn luật sư" trong kịch *Henry VI* của Shakespeare, mà Wheelan đáp lại ở phần tòa án.
+- Các câu trích là bản dịch của người tổng hợp.

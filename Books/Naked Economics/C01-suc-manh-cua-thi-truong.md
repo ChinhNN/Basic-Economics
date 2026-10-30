@@ -1,11 +1,16 @@
 # Chương 1 — Sức mạnh của thị trường (The Power of Markets: Who feeds Paris?)
 
-**Nguồn:** Charles Wheelan, *Naked Economics: Undressing the Dismal Science*, ấn bản sửa đổi và cập nhật (W. W. Norton, 2010), Chương 1.
-**Tác giả:** Charles Wheelan (sinh 1966), nhà kinh tế và nhà báo Mỹ, từng là phóng viên của *The Economist* ở Trung Tây nước Mỹ, giảng dạy chính sách công tại Đại học Chicago và Dartmouth.
-**Vị trí trong lập luận của cả cuốn sách:** Đây là chương nền. Lời giới thiệu hứa rằng kinh tế học là trực giác; Chương 1 đặt hai giả định mà mọi chương sau dựa vào: **cá nhân cố làm cho mình khá nhất có thể** (tối đa hoá độ thoả dụng) và **doanh nghiệp cố kiếm nhiều tiền nhất có thể** (tối đa hoá lợi nhuận). Từ hai giả định ấy, chương giải thích vì sao giá cả điều phối được hàng tỷ giao dịch mà không ai chỉ huy, rút ra sáu bài học về thị trường, rồi thừa nhận giới hạn: con người không luôn lý trí (kinh tế học hành vi) và thị trường không công bằng. Chương 2 sẽ đi sâu vào động cơ khuyến khích; Chương 3 bàn chính phủ nên sửa thị trường ở đâu, kể cả trước những thiên lệch phi lý trí nêu cuối chương này.
-**Ý chính:** Wheelan muốn người đọc thấy **bàn tay vô hình** của Adam Smith làm việc trong đời thường. Câu hỏi "Ai nuôi Paris?" (*Who feeds Paris?*) chỉ ra điều kỳ diệu: lượng cá ngừ vừa đủ đi từ tàu cá ở Nam Thái Bình Dương tới nhà hàng trên phố Rivoli mà không ai ra lệnh. Lời đáp là giá cả: khách gọi nhiều sashimi hơn, giá cá bán buôn tăng, ngư dân ở đâu đó chuyển sang đánh cá ngừ, dù họ chẳng quan tâm gì tới thực khách Paris. Cùng cơ chế ấy giải thích vì sao Brad Pitt đóng phim thay vì bán bảo hiểm, vì sao vé máy bay rẻ hơn nếu ở lại qua đêm thứ Bảy, vì sao người Mỹ bỏ xe SUV khi xăng lên 4 USD một gallon năm 2008, và vì sao Wheelan cho rằng vấn đề của xưởng bóc lột (sweatshop) ở châu Á là có quá ít, chứ không phải quá nhiều. Nhưng thị trường **phi đạo đức** (không phải vô đạo đức): nó thưởng cho sự khan hiếm, không thưởng cho giá trị, và kẻ buôn ma tuý cũng đổi mới sáng tạo như bất kỳ doanh nghiệp nào.
+## Ý chính
 
-> **Lưu ý:** Sách được cập nhật sau khủng hoảng 2008; số liệu trong chương tính đến khoảng 2008–2009 (hợp đồng của LeBron James với Cleveland Cavaliers, hợp đồng 400 triệu USD của Rush Limbaugh, giá xăng 2008). Nhiều con số nay đã cũ: tỷ lệ dân số thế giới sống dưới 2 USD một ngày đã giảm mạnh so với "một nửa" mà Wheelan dẫn; phân biệt giá dựa trên dữ liệu khách hàng mà Wheelan dự đoán "sẽ phổ biến hơn" thì nay đã thành chuẩn mực của thương mại điện tử; nghiên cứu "bàn tay nóng" trong bóng rổ mà ông dẫn như kết luận chắc chắn đã bị xem lại (xem phần Đánh giá). Wheelan nhắc tới Việt Nam hai lần (Nike trả công nhân ở Việt Nam khoảng 600 USD một năm; doanh nghiệp có thể "xây nhà máy ở Việt Nam thay vì Colorado"), đều với số liệu khoảng năm 2000. Chương không có chú thích chân trang dấu `*`. Các câu trích là bản dịch của người tổng hợp.
+Wheelan muốn người đọc thấy **bàn tay vô hình** của Adam Smith làm việc trong đời thường.
+
+Câu hỏi "Ai nuôi Paris?" (*Who feeds Paris?*) chỉ ra điều kỳ diệu: lượng cá ngừ vừa đủ đi từ tàu cá ở Nam Thái Bình Dương tới nhà hàng trên phố Rivoli mà không ai ra lệnh.
+
+Lời đáp là giá cả: khách gọi nhiều sashimi hơn, giá cá bán buôn tăng, ngư dân ở đâu đó chuyển sang đánh cá ngừ, dù họ chẳng quan tâm gì tới thực khách Paris.
+
+Cùng cơ chế ấy giải thích vì sao Brad Pitt đóng phim thay vì bán bảo hiểm, vì sao vé máy bay rẻ hơn nếu ở lại qua đêm thứ Bảy, vì sao người Mỹ bỏ xe SUV khi xăng lên 4 USD một gallon năm 2008, và vì sao Wheelan cho rằng vấn đề của xưởng bóc lột (sweatshop) ở châu Á là có quá ít, chứ không phải quá nhiều.
+
+Nhưng thị trường **phi đạo đức** (không phải vô đạo đức): nó thưởng cho sự khan hiếm, không thưởng cho giá trị, và kẻ buôn ma tuý cũng đổi mới sáng tạo như bất kỳ doanh nghiệp nào.
 
 ## Sơ đồ
 
@@ -661,9 +666,15 @@ Câu hỏi này đi kèm những chênh lệch gay gắt. Ở Mỹ, Alex Rodrigu
 
 Kinh tế học giả định mỗi người hành động để làm mình khá nhất, tức tối đa hoá độ thoả dụng, một khái niệm rộng hơn hạnh phúc. Tiêm phòng thương hàn hay nộp thuế không vui nhưng vẫn đem lại thoả dụng, vì giúp tránh bệnh và tránh tù. Nhà kinh tế không phán xét sở thích; họ chỉ chấp nhận rằng mỗi người coi trọng những thứ khác nhau.
 
-**Sở thích khác nhau giữa giàu và nghèo.** Sở thích đổi khi thu nhập đổi. "Hàng xa xỉ" theo nghĩa kỹ thuật là thứ ta mua nhiều lên khi giàu lên, và bảo vệ môi trường là một hàng xa xỉ như vậy: người Mỹ giàu chi cho môi trường một phần thu nhập lớn hơn người kém giàu, và nước giàu dành phần nguồn lực lớn hơn nước nghèo. Từ đó Wheelan rút ra rằng áp sở thích của mình lên người có hoàn cảnh khác hẳn là kinh tế học tồi. Ông lấy chính mình làm ví dụ: đọc tin dân làng Nam Mỹ chặt rừng nguyên sinh, ông thấy khó chịu, nhưng nếu con ông đói và có nguy cơ chết vì sốt rét thì ông cũng sẽ chặt rừng để mua thức ăn và màn chống muỗi. Điều đó không có nghĩa môi trường ở nước nghèo không quan trọng: suy thoái môi trường có thể làm nước nghèo nghèo thêm, và phá rừng làm tăng phát thải CO2 toàn cầu. Lời giải nhà kinh tế thường đề xuất là nước giàu trả tiền cho nước nghèo để bảo vệ những tài nguyên có giá trị với cả thế giới. Ý này sẽ quay lại khi sách bàn toàn cầu hoá và thương mại.
+**Sở thích khác nhau giữa giàu và nghèo.** Sở thích đổi khi thu nhập đổi. "Hàng xa xỉ" theo nghĩa kỹ thuật là thứ ta mua nhiều lên khi giàu lên, và bảo vệ môi trường là một hàng xa xỉ như vậy: người Mỹ giàu chi cho môi trường một phần thu nhập lớn hơn người kém giàu, và nước giàu dành phần nguồn lực lớn hơn nước nghèo. Từ đó Wheelan rút ra rằng áp sở thích của mình lên người có hoàn cảnh khác hẳn là kinh tế học tồi.
 
-**Tối đa hoá thoả dụng không đồng nghĩa với ích kỷ.** Bà Oseola McCarty, thợ giặt cả đời ở Hattiesburg (Mississippi), mất năm 1999 ở tuổi 91, sống đạm bạc với chiếc TV đen trắng một kênh, nhưng bốn năm trước khi mất đã tặng 150.000 USD cho Đại học Nam Mississippi để lập học bổng cho sinh viên nghèo. Năm 2007, Wesley Autrey, công nhân xây dựng 50 tuổi ở New York, nhảy xuống đường ray tàu điện ngầm và nằm che cho một người lạ bị co giật trong khi đoàn tàu chạy qua cả hai. Người Mỹ cũng cho từ thiện hơn 200 tỷ USD mỗi năm. Những hành vi đó không bác bỏ giả định, vì với những người này, cho đi và cứu người đem lại nhiều thoả dụng hơn tiêu dùng. Giả định cũng không nói con người luôn quyết định đúng, chỉ nói họ cố quyết định tốt nhất với thông tin có được.
+Ông lấy chính mình làm ví dụ: đọc tin dân làng Nam Mỹ chặt rừng nguyên sinh, ông thấy khó chịu, nhưng nếu con ông đói và có nguy cơ chết vì sốt rét thì ông cũng sẽ chặt rừng để mua thức ăn và màn chống muỗi.
+
+Điều đó không có nghĩa môi trường ở nước nghèo không quan trọng: suy thoái môi trường có thể làm nước nghèo nghèo thêm, và phá rừng làm tăng phát thải CO2 toàn cầu. Lời giải nhà kinh tế thường đề xuất là nước giàu trả tiền cho nước nghèo để bảo vệ những tài nguyên có giá trị với cả thế giới. Ý này sẽ quay lại khi sách bàn toàn cầu hoá và thương mại.
+
+**Tối đa hoá thoả dụng không đồng nghĩa với ích kỷ.** Bà Oseola McCarty, thợ giặt cả đời ở Hattiesburg (Mississippi), mất năm 1999 ở tuổi 91, sống đạm bạc với chiếc TV đen trắng một kênh, nhưng bốn năm trước khi mất đã tặng 150.000 USD cho Đại học Nam Mississippi để lập học bổng cho sinh viên nghèo. Năm 2007, Wesley Autrey, công nhân xây dựng 50 tuổi ở New York, nhảy xuống đường ray tàu điện ngầm và nằm che cho một người lạ bị co giật trong khi đoàn tàu chạy qua cả hai.
+
+Người Mỹ cũng cho từ thiện hơn 200 tỷ USD mỗi năm. Những hành vi đó không bác bỏ giả định, vì với những người này, cho đi và cứu người đem lại nhiều thoả dụng hơn tiêu dùng. Giả định cũng không nói con người luôn quyết định đúng, chỉ nói họ cố quyết định tốt nhất với thông tin có được.
 
 **Đánh đổi.** Mọi quyết định đều là một đánh đổi, theo ít nhất ba hướng:
 
@@ -693,7 +704,9 @@ Hành vi phản ứng với chi phí: chi phí giảm thì người ta dùng nhi
 
 Chi phí cũng tăng được mà không qua giá: buộc người hút thuốc ra đứng ngoài toà nhà giữa trời 17 độ F (khoảng −8°C) làm việc hút thuốc ở nơi làm việc đắt hơn.
 
-**Tỷ lệ sinh.** Cách nhìn rộng về chi phí giải thích vì sao tỷ lệ sinh ở nước phát triển giảm mạnh. Nuôi con không đắt hơn vì thức ăn hay quần áo (những thứ này còn rẻ đi), mà vì chi phí chính nay là thu nhập người mẹ (thường vẫn là mẹ) bỏ lỡ khi nghỉ hoặc giảm việc, và cơ hội nghề nghiệp của phụ nữ chưa bao giờ tốt hơn; một người hàng xóm của Wheelan là bác sĩ thần kinh đã nghỉ làm sau khi sinh con thứ hai. Đồng thời các lợi ích kinh tế của gia đình đông con đã mất: trẻ không còn phụ việc đồng áng, không cần đẻ nhiều để vài đứa sống sót hay để có người nuôi lúc về già. Kết quả: số con trung bình của phụ nữ Mỹ giảm từ 3,77 năm 1905 xuống 2,07, tức giảm 45%.
+**Tỷ lệ sinh.** Cách nhìn rộng về chi phí giải thích vì sao tỷ lệ sinh ở nước phát triển giảm mạnh. Nuôi con không đắt hơn vì thức ăn hay quần áo (những thứ này còn rẻ đi), mà vì chi phí chính nay là thu nhập người mẹ (thường vẫn là mẹ) bỏ lỡ khi nghỉ hoặc giảm việc, và cơ hội nghề nghiệp của phụ nữ chưa bao giờ tốt hơn; một người hàng xóm của Wheelan là bác sĩ thần kinh đã nghỉ làm sau khi sinh con thứ hai.
+
+Đồng thời các lợi ích kinh tế của gia đình đông con đã mất: trẻ không còn phụ việc đồng áng, không cần đẻ nhiều để vài đứa sống sót hay để có người nuôi lúc về già. Kết quả: số con trung bình của phụ nữ Mỹ giảm từ 3,77 năm 1905 xuống 2,07, tức giảm 45%.
 
 ### 6. Giả định thứ hai: doanh nghiệp tối đa hoá lợi nhuận
 
@@ -773,7 +786,11 @@ Phía cung cũng đổi: các nước ngoài OPEC bơm thêm, chính thành viê
 
 **(5) Nếu ta ấn định giá trong hệ thống thị trường, doanh nghiệp tư nhân sẽ tìm cách khác để cạnh tranh.** Trước năm 1978, giá vé máy bay ở Mỹ do nhà nước ấn định, nên American và United tranh khách bằng chất lượng (đồ ăn ngon, ghế rộng). Khi ngành được bỏ điều tiết, giá thành mặt trận chính: đi máy bay kém dễ chịu hơn, nhưng giá vé trung bình đã điều chỉnh theo lạm phát giảm gần một nửa. Năm 1995 ở Nam Phi, Wheelan ngạc nhiên vì cây xăng có nhân viên đeo nơ chạy ra đổ xăng, lau kính và nhà vệ sinh sạch bong; lý do không phải văn hoá phục vụ mà là giá xăng do nhà nước ấn định, nên cây xăng tư nhân chỉ còn cách hút khách bằng dịch vụ.
 
-**(6) Mọi giao dịch thị trường đều làm các bên khá hơn.** Wheelan áp ý này vào một ví dụ gây phẫn nộ: theo ông, vấn đề của các xưởng bóc lột ở châu Á là có quá ít xưởng như vậy. Nếu người lớn tự nguyện vào làm (ông loại trừ lao động cưỡng bức và lao động trẻ em), thì hoặc đó là lựa chọn tốt nhất họ có, hoặc họ dại dột bỏ qua lời mời tốt hơn. Lập luận chống toàn cầu hoá ngầm giả định điều thứ hai; nhưng đóng cửa các xưởng làm giày, túi xách cho nước giàu không tạo thêm cơ hội nào, nên chỉ giúp công nhân nếu họ tìm được việc tốt hơn mà trước đó họ đã bỏ qua. Xưởng bóc lột tồi tệ theo chuẩn phương Tây, và có thể kêu gọi Nike trả cao hơn vì lòng vị tha, nhưng chúng là triệu chứng của nghèo đói chứ không phải nguyên nhân. Nike trả công nhân ở nhà máy tại Việt Nam khoảng 600 USD một năm, thấp thảm hại nhưng gấp đôi thu nhập năm của người lao động Việt Nam trung bình (theo một bài trên *New York Times* năm 2000 mà Wheelan dẫn). Xưởng bóc lột từng là một nấc trong quá trình phát triển của Hàn Quốc và Đài Loan (Chương 12).
+**(6) Mọi giao dịch thị trường đều làm các bên khá hơn.** Wheelan áp ý này vào một ví dụ gây phẫn nộ: theo ông, vấn đề của các xưởng bóc lột ở châu Á là có quá ít xưởng như vậy. Nếu người lớn tự nguyện vào làm (ông loại trừ lao động cưỡng bức và lao động trẻ em), thì hoặc đó là lựa chọn tốt nhất họ có, hoặc họ dại dột bỏ qua lời mời tốt hơn.
+
+Lập luận chống toàn cầu hoá ngầm giả định điều thứ hai; nhưng đóng cửa các xưởng làm giày, túi xách cho nước giàu không tạo thêm cơ hội nào, nên chỉ giúp công nhân nếu họ tìm được việc tốt hơn mà trước đó họ đã bỏ qua. Xưởng bóc lột tồi tệ theo chuẩn phương Tây, và có thể kêu gọi Nike trả cao hơn vì lòng vị tha, nhưng chúng là triệu chứng của nghèo đói chứ không phải nguyên nhân.
+
+Nike trả công nhân ở nhà máy tại Việt Nam khoảng 600 USD một năm, thấp thảm hại nhưng gấp đôi thu nhập năm của người lao động Việt Nam trung bình (theo một bài trên *New York Times* năm 2000 mà Wheelan dẫn). Xưởng bóc lột từng là một nấc trong quá trình phát triển của Hàn Quốc và Đài Loan (Chương 12).
 
 ### 10. Chúng ta có thật sự lý trí đến vậy?
 
@@ -804,7 +821,11 @@ Wheelan thừa nhận chủ nghĩa tư bản không công bằng ở vài khía 
 - **Thị trường phù hợp với bản tính con người.** Người ta làm việc chăm hơn khi trực tiếp hưởng thành quả (Wheelan viết sách một phần vì muốn có nhà nghỉ hè ở New Hampshire), và sự chăm chỉ đó thường đem lại lợi ích xã hội đáng kể.
 - **Quan trọng nhất, có thể và nên dùng chính phủ để điều chỉnh thị trường.** Cuộc chiến kinh tế thế kỷ 20 giữa tư bản và cộng sản đã kết thúc với phần thắng thuộc về tư bản. Nhưng người có lý trí vẫn bất đồng gay gắt về khi nào và bằng cách nào nhà nước nên can thiệp, và nên có lưới an sinh nào cho người bị chủ nghĩa tư bản đối xử tệ. Các cuộc chiến kinh tế thế kỷ 21 sẽ xoay quanh câu hỏi thị trường nên được thả lỏng tới đâu.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một quán phở ở khu văn phòng thấy buổi trưa khách xếp hàng dài còn buổi tối vắng. Theo cách Liên Xô, quán giữ một giá 50.000 đồng và để người đến sau chịu thiệt (phân phối bằng xếp hàng). Theo cách của chương này, quán có ba lựa chọn: tăng giá trưa lên 55.000 đồng để bớt hàng và tăng lãi (giá phân bổ chỗ ngồi khan hiếm); bán 45.000 đồng cho khách mua mang đi hay đặt trước qua ứng dụng (phân biệt giá theo mức sẵn lòng trả và theo thời gian, giống vé máy bay ở lại qua đêm thứ Bảy); hoặc giữ giá nhưng thêm quẩy, trà đá miễn phí để hút khách buổi tối (cạnh tranh bằng chất lượng khi không muốn đụng giá, giống cây xăng ở Nam Phi). Hàng xếp dài liên tục cũng là tín hiệu cho quán khác mở gần đó, như cá mập đánh hơi thấy máu, và sau vài tháng hàng sẽ ngắn lại mà không cần ai ra lệnh.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một quán phở ở khu văn phòng thấy buổi trưa khách xếp hàng dài còn buổi tối vắng. Theo cách Liên Xô, quán giữ một giá 50.000 đồng và để người đến sau chịu thiệt (phân phối bằng xếp hàng).
+
+Theo cách của chương này, quán có ba lựa chọn: tăng giá trưa lên 55.000 đồng để bớt hàng và tăng lãi (giá phân bổ chỗ ngồi khan hiếm); bán 45.000 đồng cho khách mua mang đi hay đặt trước qua ứng dụng (phân biệt giá theo mức sẵn lòng trả và theo thời gian, giống vé máy bay ở lại qua đêm thứ Bảy); hoặc giữ giá nhưng thêm quẩy, trà đá miễn phí để hút khách buổi tối (cạnh tranh bằng chất lượng khi không muốn đụng giá, giống cây xăng ở Nam Phi).
+
+Hàng xếp dài liên tục cũng là tín hiệu cho quán khác mở gần đó, như cá mập đánh hơi thấy máu, và sau vài tháng hàng sẽ ngắn lại mà không cần ai ra lệnh.
 
 ## Luận điểm kinh tế cốt lõi
 
@@ -926,7 +947,9 @@ Nhiều sách nhập môn chỉ nói "thị trường phân bổ hiệu quả". 
 
 ### Bài học thứ sáu ("mọi giao dịch làm các bên khá hơn") đúng ở cấp giao dịch, nhưng Wheelan bỏ qua câu hỏi về lựa chọn được tạo ra như thế nào
 
-Lập luận "hoặc đó là việc tốt nhất họ có, hoặc họ kém trí" là thế lưỡng nan có chủ đích, và về cơ bản đúng: đóng cửa xưởng mà không tạo việc tốt hơn sẽ làm công nhân thiệt. Nghiên cứu sau này về nhà máy may xuất khẩu ở nhiều nước nghèo cũng cho thấy việc làm nhà máy thường trả cao hơn lựa chọn thay thế, đặc biệt với phụ nữ nông thôn. Nhưng chữ "mọi" mạnh quá ở ba chỗ. Thứ nhất, giao dịch tự nguyện có thể diễn ra trong thông tin lệch (công nhân không biết rủi ro an toàn của nhà xưởng; các vụ sập và cháy nhà máy may lớn ở Nam Á sau 2010 cho thấy rủi ro này có thật). Thứ hai, nó không tính ngoại ứng lên người không tham gia giao dịch (ô nhiễm từ nhà máy). Thứ ba, chính phần kinh tế học hành vi cuối chương cho thấy người ta không luôn chọn điều tốt nhất cho mình. Wheelan hiểu điều này (Chương 3 bàn ngoại ứng), nhưng ở đây ông nói tuyệt đối để gây ấn tượng.
+Lập luận "hoặc đó là việc tốt nhất họ có, hoặc họ kém trí" là thế lưỡng nan có chủ đích, và về cơ bản đúng: đóng cửa xưởng mà không tạo việc tốt hơn sẽ làm công nhân thiệt. Nghiên cứu sau này về nhà máy may xuất khẩu ở nhiều nước nghèo cũng cho thấy việc làm nhà máy thường trả cao hơn lựa chọn thay thế, đặc biệt với phụ nữ nông thôn.
+
+Nhưng chữ "mọi" mạnh quá ở ba chỗ. Thứ nhất, giao dịch tự nguyện có thể diễn ra trong thông tin lệch (công nhân không biết rủi ro an toàn của nhà xưởng; các vụ sập và cháy nhà máy may lớn ở Nam Á sau 2010 cho thấy rủi ro này có thật). Thứ hai, nó không tính ngoại ứng lên người không tham gia giao dịch (ô nhiễm từ nhà máy). Thứ ba, chính phần kinh tế học hành vi cuối chương cho thấy người ta không luôn chọn điều tốt nhất cho mình. Wheelan hiểu điều này (Chương 3 bàn ngoại ứng), nhưng ở đây ông nói tuyệt đối để gây ấn tượng.
 
 ### Ví dụ Việt Nam trong chương là ảnh chụp năm 2000, và chính quá trình Wheelan mô tả đã làm nó lỗi thời
 
@@ -942,7 +965,9 @@ Năm 2010, Wheelan viết rằng phân biệt giá sẽ phổ biến hơn khi do
 
 ### "Tư bản thắng" là đúng, nhưng câu kết của Wheelan về thế kỷ 21 mới là phần sống lâu hơn
 
-Nhận định "cuộc chiến thế kỷ 21 là thị trường nên thả lỏng tới đâu" đã được thời gian xác nhận: sau 2010, tranh luận xoay quanh quy định tài chính sau khủng hoảng, chống độc quyền với các nền tảng công nghệ lớn (chính là hiệu ứng mạng mà Wheelan lấy Microsoft Word làm ví dụ), chính sách công nghiệp và thuế carbon, chứ không quay về câu hỏi kế hoạch hay thị trường. Một quan điểm trái chiều đáng biết: một số nhà kinh tế cho rằng chương đánh giá thấp vai trò của nhà nước trong chính những tiến bộ Wheelan ghi công cho thị trường (tuổi thọ tăng và bệnh truyền nhiễm bị đẩy lùi phần lớn nhờ y tế công cộng, nước sạch và vắc-xin do nhà nước tài trợ). Wheelan không phủ nhận điều này, nhưng chương 1 kể câu chuyện từ phía thị trường.
+Nhận định "cuộc chiến thế kỷ 21 là thị trường nên thả lỏng tới đâu" đã được thời gian xác nhận: sau 2010, tranh luận xoay quanh quy định tài chính sau khủng hoảng, chống độc quyền với các nền tảng công nghệ lớn (chính là hiệu ứng mạng mà Wheelan lấy Microsoft Word làm ví dụ), chính sách công nghiệp và thuế carbon, chứ không quay về câu hỏi kế hoạch hay thị trường.
+
+Một quan điểm trái chiều đáng biết: một số nhà kinh tế cho rằng chương đánh giá thấp vai trò của nhà nước trong chính những tiến bộ Wheelan ghi công cho thị trường (tuổi thọ tăng và bệnh truyền nhiễm bị đẩy lùi phần lớn nhờ y tế công cộng, nước sạch và vắc-xin do nhà nước tài trợ). Wheelan không phủ nhận điều này, nhưng chương 1 kể câu chuyện từ phía thị trường.
 
 ### Vận dụng: hãy đọc giá như tín hiệu, và hỏi rào cản gia nhập nào đang giữ lợi nhuận của bạn
 
@@ -950,3 +975,188 @@ Nhận định "cuộc chiến thế kỷ 21 là thị trường nên thả lỏ
 - **Trong đầu tư.** Giá tăng mạnh của một hàng hoá (dầu, nguyên liệu, nông sản) thường chứa sẵn mầm điều chỉnh: phía cầu sẽ tiết kiệm và thay thế, phía cung sẽ mở rộng. Ngoại suy "giá đang cao sẽ còn cao" là đúng cái bẫy "bàn tay nóng" và bong bóng nhà đất mà chương cảnh báo. Ngược lại, một doanh nghiệp có rào cản gia nhập bền (hiệu ứng mạng, bằng sáng chế, vị trí) đáng giá hơn một doanh nghiệp chỉ đang hưởng giá cao nhất thời.
 - **Trong nghề nghiệp.** Ví dụ Brad Pitt và hiện tượng siêu sao cho thấy thu nhập phụ thuộc vào việc bạn tạo thêm giá trị ở đâu, không chỉ bạn giỏi tới đâu. Cùng một kỹ năng có thể đáng 30.000 USD ở chỗ này và 30 triệu USD ở chỗ khác. Trong thị trường lớn và "người thắng lấy hết", hơn người khác một chút ở đúng thứ thị trường cần có thể quan trọng hơn giỏi đều mọi thứ. Và nhớ chi phí thật: thời gian của bạn có giá, như phép tính đi Kenosha của Wheelan.
 - **Khi đọc tin chính sách.** Ở Việt Nam, mỗi khi có đề xuất bình ổn hay khống chế giá (xăng dầu, dịch vụ, thuê nhà), câu hỏi của chương là: khan hiếm sẽ được phân bổ bằng gì nếu không bằng giá (xếp hàng, quen biết, chợ đen) và doanh nghiệp sẽ cạnh tranh hay cắt giảm ở mặt trận nào khác (chất lượng, dịch vụ, nguồn cung). Khi đọc tranh luận về lương và điều kiện ở nhà máy xuất khẩu, hãy hỏi như Wheelan: lựa chọn thay thế của người lao động là gì; rồi hỏi tiếp như phần Đánh giá: họ có đủ thông tin về rủi ro không, và nấc thang này có dẫn lên khâu giá trị cao hơn không.
+
+## Bản đồ tư duy
+
+Toàn cảnh chương trên một trang: sáu nhánh lớn theo các mục 1–11 của phần Nội dung chi tiết (thị trường điều phối không cần ai chỉ huy, giả định thứ nhất và chi phí thật, giả định thứ hai và giá như tín hiệu, sáu bài học về thị trường, kinh tế học hành vi, thị trường có tốt không), mỗi nhánh ghi khái niệm, cơ chế, ví dụ và con số then chốt của Wheelan; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 1: Giá cả điều phối hàng tỷ giao dịch không ai chỉ huy, nhưng thị trường phi đạo đức và cần chính phủ điều chỉnh`"]
+
+  n1["`Mục 1–3 — Bàn tay vô hình: ai nuôi Paris?`"]
+  n0 --- n1
+  n2["`Coca-Cola 1989 phát không qua Bức tường Berlin, tới 1995 tiêu thụ ở Đông Đức ngang Tây Đức`"]
+  n1 --- n2
+  n3["`Thị trường sắp xếp động cơ khuyến khích để lợi ích riêng nâng mức sống của phần lớn mọi người`"]
+  n1 --- n3
+  n4["`Cá ngừ vừa đủ tới phố Rivoli, hàng tỷ giao dịch mỗi ngày phần lớn không có chính phủ chỉ huy`"]
+  n1 --- n4
+  n5["`Đời sống tốt lên: TV màu 25 inch từ 174 giờ lương (1971) còn khoảng 23 giờ`"]
+  n1 --- n5
+  n6["`Thế kỷ 20: tuổi thọ Mỹ 47 lên 77 năm, tử vong trẻ sơ sinh giảm 93%`"]
+  n1 --- n6
+  n7["`Liên Xô thất bại vì quan chức quyết định mọi thứ, từ xà phòng ở Irkutsk tới sinh viên ở Moscow`"]
+  n1 --- n7
+  n8["`Cuba: xì gà Cohiba giá như nhau ở mọi nơi vì giá do nhà nước định, không có cạnh tranh`"]
+  n1 --- n8
+  n9["`Kinh tế học hỏi: thứ có hạn được phân bổ cho ai và theo cách nào`"]
+  n1 --- n9
+  n10["`Chênh lệch: Alex Rodriguez 275 triệu USD khi 1/5 trẻ em Mỹ nghèo, nửa thế giới sống dưới 2 USD/ngày`"]
+  n9 --- n10
+
+  n11["`Mục 4–5 — Giả định thứ nhất: cá nhân tối đa hoá độ thoả dụng`"]
+  n0 --- n11
+  n12["`Độ thoả dụng rộng hơn hạnh phúc: tiêm phòng, nộp thuế không vui nhưng vẫn có thoả dụng`"]
+  n11 --- n12
+  n13["`Nhà kinh tế không phán xét sở thích`"]
+  n12 --- n13
+  n14["`Bảo vệ môi trường là hàng xa xỉ: người giàu chi phần thu nhập lớn hơn cho nó`"]
+  n11 --- n14
+  n15["`Áp sở thích lên người có hoàn cảnh khác là kinh tế học tồi, nên nước giàu trả tiền cho nước nghèo giữ rừng`"]
+  n14 --- n15
+  n16["`Tối đa hoá thoả dụng không phải ích kỷ: Oseola McCarty tặng 150.000 USD học bổng`"]
+  n11 --- n16
+  n17["`Người Mỹ cho từ thiện hơn 200 tỷ USD mỗi năm, Wesley Autrey nằm che người lạ dưới đường ray`"]
+  n16 --- n17
+  n18["`Mọi quyết định là đánh đổi: hiện tại với tương lai, làm việc với nghỉ ngơi, món này với món khác`"]
+  n11 --- n18
+  n19["`Thời gian là một trong những nguồn lực khan hiếm nhất, lợi ích tinh thần cũng tính vào bàn cân`"]
+  n18 --- n19
+  n20["`Chi phí thật là mọi thứ phải bỏ ra: xe buýt 1,50 USD đắt hơn taxi 7 USD nếu mất hợp đồng 50.000 USD`"]
+  n11 --- n20
+  n21["`Hành vi phản ứng với chi phí: cocaine giảm giá 10% thì người dùng tăng khoảng 10%`"]
+  n20 --- n21
+  n22["`Giá bao thuốc tăng 34% thì thiếu niên hút giảm 1/4, tránh 1,3 triệu ca chết sớm`"]
+  n20 --- n22
+  n23["`Tỷ lệ sinh giảm vì chi phí chính của nuôi con là thu nhập người mẹ bỏ lỡ`"]
+  n20 --- n23
+  n24["`Số con mỗi phụ nữ Mỹ: 3,77 (1905) xuống 2,07, giảm 45%`"]
+  n23 --- n24
+
+  n25["`Mục 6–8 — Giả định thứ hai: doanh nghiệp tối đa hoá lợi nhuận`"]
+  n0 --- n25
+  n26["`Lợi nhuận là doanh thu trừ chi phí, doanh nghiệp tạo thêm giá trị như đầu bếp biến 30 USD thành bữa 80 USD`"]
+  n25 --- n26
+  n27["`Nguồn lực tới nơi dùng tốt nhất: Brad Pitt 30 triệu USD mỗi phim so với 30.000 USD bán bảo hiểm`"]
+  n25 --- n27
+  n28["`Giá như biển đèn neon: khách gọi nhiều sashimi, giá cá ngừ bán buôn tăng, ngư dân chuyển sang cá ngừ`"]
+  n25 --- n28
+  n29["`Ngư dân không biết gì về thực khách Paris, tín hiệu duy nhất họ cần là giá bán buôn`"]
+  n28 --- n29
+  n30["`Lợi nhuận hút doanh nghiệp như máu hút cá mập, kể cả pizza Chester's ở Cabrini Green`"]
+  n25 --- n30
+  n31["`Rào cản gia nhập giữ lợi nhuận cao không bị cạnh tranh xoá đi`"]
+  n25 --- n31
+  n32["`Tài năng độc nhất: LeBron James 60 triệu USD cho 3 năm`"]
+  n31 --- n32
+  n33["`Hiện tượng siêu sao (Rosen): Rush Limbaugh 400 triệu USD/8 năm, 20 triệu người nghe mỗi ngày`"]
+  n31 --- n33
+  n34["`Tự nhiên (truffle 500 USD/pound), pháp lý (bằng sáng chế Viagra), chính trị (thuế quan chặn xe Nhật)`"]
+  n31 --- n34
+  n35["`Tinh vi: American và United nắm khoảng 80% cửa ra máy bay ở O'Hare`"]
+  n31 --- n35
+  n36["`Hiệu ứng mạng: dùng Microsoft Word vì mọi người đều dùng Word`"]
+  n31 --- n36
+  n37["`Chọn cách sản xuất theo giá đầu vào: Nepal cắt cỏ bằng liềm, Mỹ dùng ATM và cây xăng tự phục vụ`"]
+  n25 --- n37
+  n38["`Sức mạnh thị trường: Gap chọn bán áo nỉ 9,99 hay 29,99 USD để tổng lợi nhuận cao nhất`"]
+  n25 --- n38
+  n39["`Phân biệt giá: khách công tác trả 1.800 USD, khách đi đám cưới tối đa 250 USD cho cùng vé`"]
+  n38 --- n39
+  n40["`Hãng bay tách hai nhóm bằng điều kiện ở lại qua đêm thứ Bảy và mua trước hai tuần`"]
+  n39 --- n40
+  n41["`Công nghệ dữ liệu làm phân biệt giá lan rộng: Priceline, phiếu giảm giá, thẻ thành viên`"]
+  n39 --- n41
+
+  n42["`Mục 9 — Sáu bài học về thị trường`"]
+  n0 --- n42
+  n43["`Bài học 1: thị trường là sức mạnh lớn làm đời sống tốt hơn, gọi New York–Chicago từ 5,45 USD (1900) nay gần miễn phí`"]
+  n42 --- n43
+  n44["`Bài học 2: thị trường phi đạo đức, thưởng khan hiếm chứ không thưởng giá trị (kim cương đắt, nước rẻ)`"]
+  n42 --- n44
+  n45["`Thị trường cung cấp thứ ta muốn mua, không phải thứ ta cần`"]
+  n44 --- n45
+  n46["`Kẻ buôn ma tuý đổi mới như doanh nghiệp: thuyền nhỏ, xuồng siêu tốc, rồi tàu ngầm chở 3 tấn cocaine (2006)`"]
+  n44 --- n46
+  n47["`Bài học 3: tư bản phân phối theo khẩu phần bằng giá, Liên Xô bằng xếp hàng`"]
+  n42 --- n47
+  n48["`Bài học 4: thị trường tự điều chỉnh, giá cao như cơn sốt vừa là triệu chứng vừa là thuốc chữa`"]
+  n42 --- n48
+  n49["`Xăng gần 4 USD/gallon năm 2008: SUV lao dốc, số dặm lái giảm lần đầu trong 30 năm`"]
+  n48 --- n49
+  n50["`Mặt trái: mỗi 1 USD tăng giá xăng đi kèm thêm khoảng 1.500 người chết vì xe máy mỗi năm`"]
+  n48 --- n50
+  n51["`Bài học 5: ấn định giá thì doanh nghiệp cạnh tranh bằng cách khác, như chất lượng và dịch vụ`"]
+  n42 --- n51
+  n52["`Bỏ điều tiết hàng không 1978: giá vé thực tế giảm gần một nửa, cây xăng Nam Phi đua dịch vụ vì giá bị ấn định`"]
+  n51 --- n52
+  n53["`Bài học 6: giao dịch tự nguyện làm các bên khá hơn, vấn đề của xưởng bóc lột là có quá ít`"]
+  n42 --- n53
+  n54["`Nike trả công nhân ở Việt Nam khoảng 600 USD/năm, gấp đôi thu nhập trung bình (khoảng năm 2000)`"]
+  n53 --- n54
+  n55["`Xưởng bóc lột là triệu chứng của nghèo đói, không phải nguyên nhân, từng là một nấc phát triển của Hàn Quốc, Đài Loan`"]
+  n53 --- n55
+
+  n56["`Mục 10 — Kinh tế học hành vi: ta không luôn lý trí`"]
+  n0 --- n56
+  n57["`Bát hạt điều của Thaler: khách cảm ơn khi bị bớt lựa chọn, trái lý thuyết chuẩn`"]
+  n56 --- n57
+  n58["`Lý trí có giới hạn (Kahneman, Nobel 2002): quyết định bằng trực giác và quy tắc kinh nghiệm`"]
+  n56 --- n58
+  n59["`Cảm nhận rủi ro kém: xe máy nguy hiểm gấp 2.000 lần máy bay theo km, gấp 14 lần theo chuyến`"]
+  n56 --- n59
+  n60["`Thiếu tự chủ: 80% người hút thuốc ở Mỹ muốn bỏ, Gruber bác thuyết nghiện lý trí`"]
+  n56 --- n60
+  n61["`Thiếu kiến thức: chỉ 1/3 người Mỹ trên 50 tuổi tính được lãi suất đơn giản (Lusardi, Mitchell)`"]
+  n56 --- n61
+  n62["`Thấy quy luật trong ngẫu nhiên: 91% người hâm mộ tin bàn tay nóng, giá nhà tưởng còn lên tới 2006`"]
+  n56 --- n62
+  n63["`Bàn tay nóng nay đã bị xem lại: Miller và Sanjurjo thấy hiệu ứng nhỏ có thật`"]
+  n62 --- n63
+
+  n64["`Mục 11 — Thông điệp xuyên suốt: thị trường là lựa chọn tạm ổn`"]
+  n0 --- n64
+  n65["`Thị trường giống dân chủ: tạm ổn dù có khiếm khuyết, giữa nhiều phương án tồi hơn`"]
+  n64 --- n65
+  n66["`Phù hợp tự do cá nhân: ép chi cho vắc-xin thay bánh cho chó chỉ duy trì được bằng áp bức`"]
+  n65 --- n66
+  n67["`Phù hợp bản tính con người: ta làm chăm hơn khi trực tiếp hưởng thành quả`"]
+  n65 --- n67
+  n68["`Chính phủ có thể và nên điều chỉnh thị trường, cuộc chiến thế kỷ 21 là thả lỏng tới đâu`"]
+  n64 --- n68
+  n69["`Muốn biết chính sách có tác dụng, hỏi nó làm thay đổi giá và động cơ khuyến khích thế nào`"]
+  n64 --- n69
+
+  class n0 root
+  class n1,n11,n25,n42,n56,n64 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n26,n27,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n38,n39,n40,n41,n43,n44,n45,n46,n47,n48,n49,n50,n51,n52,n53,n54,n55,n57,n58,n59,n60,n61,n62,n63,n65,n66,n67,n68,n69 leaf
+```
+
+## Nguồn
+
+Charles Wheelan, *Naked Economics: Undressing the Dismal Science*, ấn bản sửa đổi và cập nhật (W. W. Norton, 2010), Chương 1.
+
+## Tác giả
+
+Charles Wheelan (sinh 1966), nhà kinh tế và nhà báo Mỹ, từng là phóng viên của *The Economist* ở Trung Tây nước Mỹ, giảng dạy chính sách công tại Đại học Chicago và Dartmouth.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Đây là chương nền. Lời giới thiệu hứa rằng kinh tế học là trực giác; Chương 1 đặt hai giả định mà mọi chương sau dựa vào: **cá nhân cố làm cho mình khá nhất có thể** (tối đa hoá độ thoả dụng) và **doanh nghiệp cố kiếm nhiều tiền nhất có thể** (tối đa hoá lợi nhuận).
+
+Từ hai giả định ấy, chương giải thích vì sao giá cả điều phối được hàng tỷ giao dịch mà không ai chỉ huy, rút ra sáu bài học về thị trường, rồi thừa nhận giới hạn: con người không luôn lý trí (kinh tế học hành vi) và thị trường không công bằng.
+
+Chương 2 sẽ đi sâu vào động cơ khuyến khích; Chương 3 bàn chính phủ nên sửa thị trường ở đâu, kể cả trước những thiên lệch phi lý trí nêu cuối chương này.
+
+## Lưu ý
+
+- Sách được cập nhật sau khủng hoảng 2008; số liệu trong chương tính đến khoảng 2008–2009 (hợp đồng của LeBron James với Cleveland Cavaliers, hợp đồng 400 triệu USD của Rush Limbaugh, giá xăng 2008).
+- Nhiều con số nay đã cũ: tỷ lệ dân số thế giới sống dưới 2 USD một ngày đã giảm mạnh so với "một nửa" mà Wheelan dẫn; phân biệt giá dựa trên dữ liệu khách hàng mà Wheelan dự đoán "sẽ phổ biến hơn" thì nay đã thành chuẩn mực của thương mại điện tử; nghiên cứu "bàn tay nóng" trong bóng rổ mà ông dẫn như kết luận chắc chắn đã bị xem lại (xem phần Đánh giá).
+- Wheelan nhắc tới Việt Nam hai lần (Nike trả công nhân ở Việt Nam khoảng 600 USD một năm; doanh nghiệp có thể "xây nhà máy ở Việt Nam thay vì Colorado"), đều với số liệu khoảng năm 2000.
+- Chương không có chú thích chân trang dấu `*`.
+- Các câu trích là bản dịch của người tổng hợp.

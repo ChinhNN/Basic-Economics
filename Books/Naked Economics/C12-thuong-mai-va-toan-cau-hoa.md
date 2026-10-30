@@ -1,11 +1,16 @@
 # Chương 12 — Thương mại và toàn cầu hoá (Trade and Globalization: The good news about Asian sweatshops)
 
-**Nguồn:** Charles Wheelan, *Naked Economics: Undressing the Dismal Science*, ấn bản sửa đổi và cập nhật (W. W. Norton, 2010), Chương 12.
-**Tác giả:** Charles Wheelan (sinh 1966), nhà kinh tế và nhà báo Mỹ, từng là phóng viên của *The Economist* ở Trung Tây nước Mỹ, giảng dạy chính sách công tại Đại học Chicago và Dartmouth.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 1 đã chứng minh rằng trao đổi tự nguyện làm cả hai bên có lợi, và Chương 6 rằng năng suất (nhờ vốn con người và chuyên môn hoá) là thứ quyết định mức sống. Chương 11 vừa giải thích "đường ống" tài chính của kinh tế quốc tế: tỷ giá, cán cân thanh toán, dòng vốn. Chương 12 áp những ý cơ bản ấy vào trao đổi **vượt biên giới**: Wheelan lập luận rằng việc một món hàng đến từ Đức hay Ấn Độ không làm thay đổi kinh tế học của giao dịch. Chương này cũng dựa vào Chương 8 (nhóm lợi ích có tổ chức) để giải thích vì sao bảo hộ vẫn thắng thế về chính trị. Chương 13 tiếp nối ngay: thương mại là một trong những "nguyên liệu" Wheelan liệt kê cho công thức phát triển của các nước nghèo.
-**Ý chính:** Wheelan muốn người đọc hiểu rằng **thương mại làm cả thế giới giàu lên, kể cả và nhất là các nước nghèo**, dù nó tạo ra những người thua cuộc có thật mà xã hội nên bù đắp. Ông mở bằng một "phát minh" tưởng tượng: cỗ máy biến ngô thành đầu DVD và đậu nành thành ô tô, rồi tiết lộ cỗ máy đó đã có tên là thương mại. Ông dùng câu nói của Lincoln về đường ray mua của Anh để chỉ ra ngụy biện "giữ tiền trong nước", dùng kỹ sư Seattle và công nhân dệt Bangladesh để giải thích lợi thế so sánh, dùng thuế quan nước cam Brazil để cho thấy bảo hộ là một khoản thuế ẩn, dùng câu chuyện Daewoo huấn luyện 130 công nhân Bangladesh để cho thấy thương mại gieo hạt cho cả một ngành xuất khẩu 3 tỷ USD. Phần đáng nhớ nhất là phụ đề của chương: **tin tốt về các xưởng bóc lột (sweatshop) ở châu Á**. Wheelan lập luận rằng xưởng bóc lột trả lương thấp vì người lao động không có lựa chọn nào tốt hơn, chứ không phải xưởng bóc lột gây ra lương thấp; tẩy chay chúng (như vụ cấm nhập khẩu hàng do trẻ em Bangladesh làm năm 1993) có thể đẩy chính những người cần giúp vào cảnh tồi tệ hơn.
+## Ý chính
 
-> **Lưu ý:** Sách được cập nhật sau khủng hoảng 2008; số liệu trong chương phần lớn là của khoảng 2000–2009 (xuất khẩu thế giới bằng khoảng 25% GDP toàn cầu; Mỹ là nước xuất khẩu lớn thứ ba sau Trung Quốc và Đức; vòng đàm phán Doha của WTO đang bế tắc). Nhiều nhận định của chương nay đọc với bối cảnh khác: từ giữa thập niên 2010, phản ứng chống toàn cầu hoá ở chính các nước giàu mạnh lên rõ rệt, thuế quan và chiến tranh thương mại Mỹ – Trung quay trở lại, đúng như cảnh báo của Scheve và Slaughter mà Wheelan trích, và đúng như câu kết của chương rằng toàn cầu hoá "không phải không thể đảo ngược". Các nghiên cứu sau 2010 về "cú sốc Trung Quốc" (China shock) cho thấy tổn thất việc làm do nhập khẩu ở một số vùng của Mỹ lớn và kéo dài hơn mức mà các nghiên cứu thời NAFTA Wheelan trích gợi ý. Ngược lại, câu chuyện Trung Quốc, Ấn Độ và Đông Nam Á thoát nghèo nhờ xuất khẩu nhìn chung đã được thời gian xác nhận. Một số chi tiết nhỏ: Wheelan viết "Puerta Vallarta", tên đúng là Puerto Vallarta (Mexico); ông viết "Thumbs-Up Cola", tên thương hiệu nước ngọt Ấn Độ là Thums Up (bản tổng hợp dùng tên đúng); Nokia mà ông lấy làm ví dụ thắng Motorola sau đó cũng bị Apple và Samsung vượt mặt. Chương này không có chú thích chân trang dấu `*`. Các câu trích là bản dịch của người tổng hợp.
+Wheelan muốn người đọc hiểu rằng **thương mại làm cả thế giới giàu lên, kể cả và nhất là các nước nghèo**, dù nó tạo ra những người thua cuộc có thật mà xã hội nên bù đắp.
+
+Ông mở bằng một "phát minh" tưởng tượng: cỗ máy biến ngô thành đầu DVD và đậu nành thành ô tô, rồi tiết lộ cỗ máy đó đã có tên là thương mại.
+
+Ông dùng câu nói của Lincoln về đường ray mua của Anh để chỉ ra ngụy biện "giữ tiền trong nước", dùng kỹ sư Seattle và công nhân dệt Bangladesh để giải thích lợi thế so sánh, dùng thuế quan nước cam Brazil để cho thấy bảo hộ là một khoản thuế ẩn, dùng câu chuyện Daewoo huấn luyện 130 công nhân Bangladesh để cho thấy thương mại gieo hạt cho cả một ngành xuất khẩu 3 tỷ USD.
+
+Phần đáng nhớ nhất là phụ đề của chương: **tin tốt về các xưởng bóc lột (sweatshop) ở châu Á**.
+
+Wheelan lập luận rằng xưởng bóc lột trả lương thấp vì người lao động không có lựa chọn nào tốt hơn, chứ không phải xưởng bóc lột gây ra lương thấp; tẩy chay chúng (như vụ cấm nhập khẩu hàng do trẻ em Bangladesh làm năm 1993) có thể đẩy chính những người cần giúp vào cảnh tồi tệ hơn.
 
 ## Sơ đồ
 
@@ -461,7 +466,9 @@ Về dài hạn, nền kinh tế tăng trưởng hấp thụ người bị thay 
 | Việc làm mất vì thương mại tự do với Mexico | trung bình 37.000 mỗi năm |
 | Việc làm nền kinh tế Mỹ tạo ra cùng thời kỳ | 200.000 mỗi tháng |
 
-Wheelan không coi con số bình quân là lời an ủi. Những cụm như "về dài hạn" hay "chi phí chuyển đổi" che đi thực tế rằng người mất việc phải trả tiền nhà ngay, thường thiếu kỹ năng để chuyển nghề (và công nghệ còn xoá nhiều việc hơn thương mại), có thể không bao giờ khá lại, và khi ngành tập trung ở một vùng thì cả cộng đồng suy tàn. Ông dẫn trường hợp Newton Falls ở vùng cao bang New York, thị trấn mọc lên quanh một nhà máy giấy mở năm 1894 và lụi tàn khi nhà máy đóng cửa một thế kỷ sau, một phần vì cạnh tranh nước ngoài. Tổng lợi ích lớn hơn tổng thiệt hại, nhưng bên thắng hiếm khi bù cho bên thua. Đây là cùng bản chất của chủ nghĩa tư bản đã bàn ở đầu sách và Chương 8: thị trường tạo trật tự mới bằng cách phá trật tự cũ, và thương mại làm quá trình đó lớn hơn, nhanh hơn.
+Wheelan không coi con số bình quân là lời an ủi. Những cụm như "về dài hạn" hay "chi phí chuyển đổi" che đi thực tế rằng người mất việc phải trả tiền nhà ngay, thường thiếu kỹ năng để chuyển nghề (và công nghệ còn xoá nhiều việc hơn thương mại), có thể không bao giờ khá lại, và khi ngành tập trung ở một vùng thì cả cộng đồng suy tàn.
+
+Ông dẫn trường hợp Newton Falls ở vùng cao bang New York, thị trấn mọc lên quanh một nhà máy giấy mở năm 1894 và lụi tàn khi nhà máy đóng cửa một thế kỷ sau, một phần vì cạnh tranh nước ngoài. Tổng lợi ích lớn hơn tổng thiệt hại, nhưng bên thắng hiếm khi bù cho bên thua. Đây là cùng bản chất của chủ nghĩa tư bản đã bàn ở đầu sách và Chương 8: thị trường tạo trật tự mới bằng cách phá trật tự cũ, và thương mại làm quá trình đó lớn hơn, nhanh hơn.
 
 Theo Marvin Zonis (Trường Kinh doanh Booth, Đại học Chicago), lợi ích tiềm năng của toàn cầu hoá rất lớn, nhất là với người nghèo nhất, nhưng nó xáo trộn mọi quan hệ xã hội. Wheelan đề xuất làm dịu cú sốc bằng đào tạo lại, hỗ trợ chuyển chỗ ở, hỗ trợ phát triển cho cộng đồng mất ngành chủ lực và trường học dạy kỹ năng thích nghi, tức là bảo đảm bên thắng chia một phần lợi ích cho bên thua; theo ông, đó vừa là chính trị khôn ngoan vừa là việc đúng.
 
@@ -514,7 +521,9 @@ Phong trào chống toàn cầu hoá (các cuộc biểu tình ở Seattle, Wash
 
 **Lan toả.** Ngành xuất khẩu thường trả lương cao hơn các việc khác, và việc làm xuất khẩu mới làm tăng cạnh tranh giành lao động nên đẩy lương lên ở nơi khác. Thu nhập nông thôn cũng có thể tăng vì người rời làng làm số người trông vào mảnh đất cũ giảm. Doanh nghiệp nước ngoài mang vào vốn, công nghệ và kỹ năng, và người lao động "học qua làm" rồi mang kiến thức sang khu vực khác.
 
-**Câu chuyện Daewoo.** William Easterly (*The Elusive Quest for Growth*) kể ngành may Bangladesh ra đời gần như tình cờ. Thập niên 1970, Mỹ và châu Âu áp hạn ngạch lên hàng dệt Hàn Quốc, nên Daewoo né hạn ngạch bằng cách chuyển một phần sản xuất sang Bangladesh và năm 1979 ký hợp tác sản xuất áo với công ty Desh Garments. Khoản đầu tư quan trọng nhất là đưa 130 công nhân của Desh sang Hàn Quốc đào tạo: khác máy móc hay vốn tài chính, vốn con người này không ai lấy lại được. Daewoo sau đó cắt quan hệ, nhưng 115 trong 130 người ấy rời Desh trong thập niên 1980 để lập công ty may xuất khẩu riêng, và theo Easterly, đó là nền móng của một ngành may xuất khẩu 3 tỷ USD. Wheelan thêm rằng chính quyền Reagan (đảng Cộng hoà) cũng áp hạn ngạch lên hàng dệt Bangladesh, một nước có GDP bình quân đầu người 1.500 USD, như bằng chứng rằng rào cản thương mại không dựng lên để giúp người nghèo và không đảng nào miễn nhiễm với nhóm lợi ích.
+**Câu chuyện Daewoo.** William Easterly (*The Elusive Quest for Growth*) kể ngành may Bangladesh ra đời gần như tình cờ. Thập niên 1970, Mỹ và châu Âu áp hạn ngạch lên hàng dệt Hàn Quốc, nên Daewoo né hạn ngạch bằng cách chuyển một phần sản xuất sang Bangladesh và năm 1979 ký hợp tác sản xuất áo với công ty Desh Garments. Khoản đầu tư quan trọng nhất là đưa 130 công nhân của Desh sang Hàn Quốc đào tạo: khác máy móc hay vốn tài chính, vốn con người này không ai lấy lại được.
+
+Daewoo sau đó cắt quan hệ, nhưng 115 trong 130 người ấy rời Desh trong thập niên 1980 để lập công ty may xuất khẩu riêng, và theo Easterly, đó là nền móng của một ngành may xuất khẩu 3 tỷ USD. Wheelan thêm rằng chính quyền Reagan (đảng Cộng hoà) cũng áp hạn ngạch lên hàng dệt Bangladesh, một nước có GDP bình quân đầu người 1.500 USD, như bằng chứng rằng rào cản thương mại không dựng lên để giúp người nghèo và không đảng nào miễn nhiễm với nhóm lợi ích.
 
 **Con hổ châu Á, Ấn Độ, Trung Quốc.** Các "con hổ" châu Á (Singapore, Hàn Quốc, Hồng Kông, Đài Loan; trước đó là Nhật Bản) đi lên nhờ xuất khẩu hàng rẻ. Ấn Độ khép kín bốn thập kỷ sau độc lập năm 1947 và thuộc nhóm kinh tế kém thành tích nhất thế giới thời gian đó; Wheelan nhận xét Gandhi, như Lincoln, là lãnh đạo lớn nhưng nhà kinh tế tồi (ông muốn lá cờ Ấn Độ mang hình bánh xe quay sợi, biểu tượng tự cung tự cấp). Từ thập niên 1990, Ấn Độ nới kiểm soát trong nước, mở cửa ra ngoài và trở thành một câu chuyện thành công. Trung Quốc dùng xuất khẩu làm bệ phóng:
 
@@ -526,7 +535,9 @@ Phong trào chống toàn cầu hoá (các cuộc biểu tình ở Seattle, Wash
 
 Kết quả là hàng trăm triệu người ở Ấn Độ và Trung Quốc thoát nghèo. Nicholas Kristof và Sheryl WuDunn, hai phóng viên *New York Times* ở châu Á hơn mười năm, thừa nhận họ đã lo quá mức về lao động trẻ em và điều kiện khắc nghiệt ở Trung Quốc và Hàn Quốc: các xưởng bóc lột tạo đủ của cải để chính xã hội đó giải quyết vấn đề mà xưởng gây ra, và nếu thập niên 1980 Mỹ cắt nhập khẩu hàng của họ thì miền Nam Trung Quốc và Hàn Quốc đã không đi xa được như vậy.
 
-Công ty tư vấn AT Kearney nghiên cứu 34 nước và thấy nhóm toàn cầu hoá nhanh nhất tăng trưởng cao hơn 30–50% trong 20 năm so với nhóm ít hội nhập, có tự do chính trị lớn hơn và điểm Chỉ số Phát triển Con người của Liên Hợp Quốc cao hơn; khoảng 1,4 tỷ người thoát nghèo tuyệt đối nhờ tăng trưởng gắn với toàn cầu hoá. Mặt trái là bất bình đẳng thu nhập, tham nhũng và suy thoái môi trường cũng cao hơn (Wheelan bàn tiếp ở mục 10). Lập luận đơn giản nhất của Wheelan dựa trên ý của Jeffrey Sachs: chưa có nước nào trong lịch sử hiện đại phát triển thành công mà không buôn bán và hội nhập với kinh tế thế giới. Vì thế Tom Friedman mỉa rằng liên minh chống toàn cầu hoá nên được gọi là "Liên minh Giữ cho Người nghèo Thế giới mãi Nghèo".
+Công ty tư vấn AT Kearney nghiên cứu 34 nước và thấy nhóm toàn cầu hoá nhanh nhất tăng trưởng cao hơn 30–50% trong 20 năm so với nhóm ít hội nhập, có tự do chính trị lớn hơn và điểm Chỉ số Phát triển Con người của Liên Hợp Quốc cao hơn; khoảng 1,4 tỷ người thoát nghèo tuyệt đối nhờ tăng trưởng gắn với toàn cầu hoá. Mặt trái là bất bình đẳng thu nhập, tham nhũng và suy thoái môi trường cũng cao hơn (Wheelan bàn tiếp ở mục 10).
+
+Lập luận đơn giản nhất của Wheelan dựa trên ý của Jeffrey Sachs: chưa có nước nào trong lịch sử hiện đại phát triển thành công mà không buôn bán và hội nhập với kinh tế thế giới. Vì thế Tom Friedman mỉa rằng liên minh chống toàn cầu hoá nên được gọi là "Liên minh Giữ cho Người nghèo Thế giới mãi Nghèo".
 
 ### 8. Thương mại dựa trên trao đổi tự nguyện (Trade is based on voluntary exchange)
 
@@ -538,11 +549,15 @@ Văn hoá cũng không chỉ chảy một chiều: Wheelan thuê được phim I
 
 ### 9. Tin tốt về xưởng bóc lột châu Á
 
-Xưởng bóc lột tuân theo cùng nguyên tắc tự nguyện: Nike không dùng lao động cưỡng bức ở Việt Nam, và người lao động nhận một, hai USD một ngày vì đó là lựa chọn tốt nhất họ có. Theo Viện Kinh tế Quốc tế (Institute for International Economics), doanh nghiệp nước ngoài ở các nước thu nhập thấp trả lương trung bình gấp đôi lương ngành chế tạo nội địa. Kristof và WuDunn kể về ông Mongkol Latlakorn ở Bangkok: con gái 15 tuổi của ông làm ở xưởng may hàng xuất sang Mỹ, 2 USD một ngày, ca 9 tiếng, 6 ngày một tuần, và đã vài lần bị kim đâm xuyên tay. Khi hai nhà báo tỏ ra thương cảm, ông Mongkol ngạc nhiên vì với gia đình ông đó là lương tốt, và ông chỉ lo tin đồn xưởng sắp đóng cửa. *The Economist* chỉ ra mâu thuẫn của người biểu tình: không tin chính phủ, tổ chức quốc tế hay thị trường, họ tự đứng ra quyết định thay, gạt bỏ cả lựa chọn tự nguyện của chính người lao động.
+Xưởng bóc lột tuân theo cùng nguyên tắc tự nguyện: Nike không dùng lao động cưỡng bức ở Việt Nam, và người lao động nhận một, hai USD một ngày vì đó là lựa chọn tốt nhất họ có. Theo Viện Kinh tế Quốc tế (Institute for International Economics), doanh nghiệp nước ngoài ở các nước thu nhập thấp trả lương trung bình gấp đôi lương ngành chế tạo nội địa.
+
+Kristof và WuDunn kể về ông Mongkol Latlakorn ở Bangkok: con gái 15 tuổi của ông làm ở xưởng may hàng xuất sang Mỹ, 2 USD một ngày, ca 9 tiếng, 6 ngày một tuần, và đã vài lần bị kim đâm xuyên tay. Khi hai nhà báo tỏ ra thương cảm, ông Mongkol ngạc nhiên vì với gia đình ông đó là lương tốt, và ông chỉ lo tin đồn xưởng sắp đóng cửa. *The Economist* chỉ ra mâu thuẫn của người biểu tình: không tin chính phủ, tổ chức quốc tế hay thị trường, họ tự đứng ra quyết định thay, gạt bỏ cả lựa chọn tự nguyện của chính người lao động.
 
 **Lợi thế so sánh của lao động nước nghèo là lao động rẻ.** Họ không năng suất hơn, không học cao hơn, không có công nghệ tốt hơn lao động Mỹ; họ được trả ít vì làm ra ít theo chuẩn phương Tây. Nếu bị buộc tăng lương mạnh, doanh nghiệp nước ngoài sẽ thay người bằng máy hoặc chuyển tới nơi năng suất cao hơn. Vì thế Wheelan kết luận xưởng bóc lột không gây ra lương thấp; chúng trả lương thấp vì người lao động có quá ít lựa chọn khác, và ném đá vào xưởng bóc lột cũng như ném đá vào bệnh viện vì ở đó có nhiều người ốm.
 
-Tẩy chay cũng không giúp được người lao động, vì công nghiệp hoá dù thô sơ vẫn khởi động quá trình làm nước nghèo giàu lên. Kristof và WuDunn, sau mười bốn năm ở châu Á, chuyển từ phẫn nộ sang đồng ý với quan điểm phổ biến ở chính châu Á: dù có những điều kiện tồi tệ (không được đi vệ sinh, tiếp xúc hoá chất độc, làm bảy ngày một tuần), các xưởng này là dấu hiệu của một cuộc cách mạng công nghiệp, và cách đơn giản nhất để giúp người châu Á nghèo nhất là mua nhiều hơn từ đó. Krugman đưa ví dụ ngược: năm 1993, khi phát hiện trẻ em Bangladesh may quần áo cho Wal-Mart, Thượng nghị sĩ Tom Harkin đề xuất cấm nhập khẩu từ các nước dùng lao động vị thành niên. Các xưởng Bangladesh thôi thuê trẻ em, nhưng theo Oxfam, các em không quay lại trường mà bị đẩy sang việc tồi tệ hơn, ra đường, và một số đáng kể bị buộc vào mại dâm.
+Tẩy chay cũng không giúp được người lao động, vì công nghiệp hoá dù thô sơ vẫn khởi động quá trình làm nước nghèo giàu lên. Kristof và WuDunn, sau mười bốn năm ở châu Á, chuyển từ phẫn nộ sang đồng ý với quan điểm phổ biến ở chính châu Á: dù có những điều kiện tồi tệ (không được đi vệ sinh, tiếp xúc hoá chất độc, làm bảy ngày một tuần), các xưởng này là dấu hiệu của một cuộc cách mạng công nghiệp, và cách đơn giản nhất để giúp người châu Á nghèo nhất là mua nhiều hơn từ đó.
+
+Krugman đưa ví dụ ngược: năm 1993, khi phát hiện trẻ em Bangladesh may quần áo cho Wal-Mart, Thượng nghị sĩ Tom Harkin đề xuất cấm nhập khẩu từ các nước dùng lao động vị thành niên. Các xưởng Bangladesh thôi thuê trẻ em, nhưng theo Oxfam, các em không quay lại trường mà bị đẩy sang việc tồi tệ hơn, ra đường, và một số đáng kể bị buộc vào mại dâm.
 
 ### 10. Sở thích thay đổi theo thu nhập, nhất là với môi trường
 
@@ -550,9 +565,13 @@ Người nghèo và người giàu quan tâm những thứ khác nhau. Theo chu�
 
 Sản xuất luôn sinh chất thải, như giáo sư Paul Portney (nguyên chủ tịch viện Resources for the Future) nói trong khoá kinh tế môi trường Wheelan từng học: ngay việc sống sót cũng tạo chất thải. Vấn đề là cân lợi ích của sản xuất với chi phí, kể cả ô nhiễm, và một người khá giả ở Manhattan cân hai thứ đó khác hẳn một người sắp chết đói ở nông thôn Nepal. Vì vậy quyết định ảnh hưởng tới môi trường Nepal nên do Nepal đưa ra; vấn đề vượt biên giới thì giải quyết qua hiệp định và tổ chức đa phương như vẫn làm.
 
-Phát triển cũng không tự nó hại môi trường. Trong ngắn hạn, sản xuất nhiều hơn thì ô nhiễm nhiều hơn, nhưng giàu lên thì người ta chú ý đến môi trường hơn. Wheelan đố người đọc năm nào không khí London (thành phố có số liệu ô nhiễm dài nhất) tệ nhất trong các năm 1890, 1920, 1975, 2001; đáp án là 1890, và không khí London nay sạch nhất kể từ năm 1585. Chất lượng môi trường là hàng xa xỉ theo nghĩa kỹ thuật: thương mại làm các nước giàu lên, và nước giàu vừa muốn môi trường sạch hơn vừa có nguồn lực để xử lý ô nhiễm. Nhiều loại ô nhiễm tăng khi một nước bắt đầu giàu (nhà nào cũng mua xe máy) rồi giảm ở giai đoạn sau (cấm xăng pha chì, đòi động cơ hiệu quả hơn). Nỗi lo "cuộc đua xuống đáy" cũng chưa thành hiện thực: Ngân hàng Thế giới, sau 6 năm nghiên cứu, không thấy "thiên đường ô nhiễm" nào hình thành, và các nước, cộng đồng nghèo hơn đang tự giảm ô nhiễm vì thấy lợi ích vượt chi phí.
+Phát triển cũng không tự nó hại môi trường. Trong ngắn hạn, sản xuất nhiều hơn thì ô nhiễm nhiều hơn, nhưng giàu lên thì người ta chú ý đến môi trường hơn. Wheelan đố người đọc năm nào không khí London (thành phố có số liệu ô nhiễm dài nhất) tệ nhất trong các năm 1890, 1920, 1975, 2001; đáp án là 1890, và không khí London nay sạch nhất kể từ năm 1585.
 
-Biến đổi khí hậu là trường hợp khó hơn, vì phát thải carbon là đánh đổi trực tiếp với tăng trưởng, ít nhất trong ngắn hạn ở các nước đang phát triển: thương mại làm Trung Quốc, Ấn Độ giàu lên, giàu lên thì dùng nhiều năng lượng hơn (Trung Quốc chủ yếu từ than), và phát thải CO2 tăng. Wheelan bác giải pháp hạn chế thương mại bằng một phép so sánh: giáo dục đại học và giáo dục cơ bản cũng làm hai nước này giàu lên và dùng nhiều năng lượng hơn, nhưng không ai đề nghị cấm giáo dục. Lời giải là thúc đẩy tăng trưởng theo cách giảm thiệt hại môi trường, tốt nhất bằng thuế carbon hài hoà giữa các nước, áp dụng càng sớm càng tốt vì các nhà máy điện Ấn Độ và Trung Quốc đang xây sẽ chạy 50 năm. Theo ông, lập luận giữ người nghèo mãi nghèo để bảo vệ hành tinh là sai cả về kinh tế lẫn đạo đức.
+Chất lượng môi trường là hàng xa xỉ theo nghĩa kỹ thuật: thương mại làm các nước giàu lên, và nước giàu vừa muốn môi trường sạch hơn vừa có nguồn lực để xử lý ô nhiễm. Nhiều loại ô nhiễm tăng khi một nước bắt đầu giàu (nhà nào cũng mua xe máy) rồi giảm ở giai đoạn sau (cấm xăng pha chì, đòi động cơ hiệu quả hơn). Nỗi lo "cuộc đua xuống đáy" cũng chưa thành hiện thực: Ngân hàng Thế giới, sau 6 năm nghiên cứu, không thấy "thiên đường ô nhiễm" nào hình thành, và các nước, cộng đồng nghèo hơn đang tự giảm ô nhiễm vì thấy lợi ích vượt chi phí.
+
+Biến đổi khí hậu là trường hợp khó hơn, vì phát thải carbon là đánh đổi trực tiếp với tăng trưởng, ít nhất trong ngắn hạn ở các nước đang phát triển: thương mại làm Trung Quốc, Ấn Độ giàu lên, giàu lên thì dùng nhiều năng lượng hơn (Trung Quốc chủ yếu từ than), và phát thải CO2 tăng.
+
+Wheelan bác giải pháp hạn chế thương mại bằng một phép so sánh: giáo dục đại học và giáo dục cơ bản cũng làm hai nước này giàu lên và dùng nhiều năng lượng hơn, nhưng không ai đề nghị cấm giáo dục. Lời giải là thúc đẩy tăng trưởng theo cách giảm thiệt hại môi trường, tốt nhất bằng thuế carbon hài hoà giữa các nước, áp dụng càng sớm càng tốt vì các nhà máy điện Ấn Độ và Trung Quốc đang xây sẽ chạy 50 năm. Theo ông, lập luận giữ người nghèo mãi nghèo để bảo vệ hành tinh là sai cả về kinh tế lẫn đạo đức.
 
 ### 11. "Nghèo là thứ khốn nạn" và toàn cầu hoá không phải không thể đảo ngược
 
@@ -560,7 +579,9 @@ Wheelan dẫn lời một hiệu trưởng trường trung học gần khu nhà 
 
 Cuối cùng, Wheelan bác ý cho rằng toàn cầu hoá không thể ngăn cản. Cuối thế kỷ 19, đầu thế kỷ 20 đã là một giai đoạn toàn cầu hoá nhanh; theo Micklethwait và Wooldridge, thế giới khi đó ở nhiều mặt còn hội nhập hơn hôm nay (đi lại không cần hộ chiếu, chế độ bản vị vàng làm tiền tệ chung, ô tô, tàu hoả, tàu thuỷ, điện thoại thu nhỏ khoảng cách), và tất cả sụp đổ trên chiến trường sông Somme trong Thế chiến I. Biên giới chính trị vẫn quan trọng, chính phủ có thể đóng cửa với thương mại lần nữa, và theo Wheelan đó sẽ là điều đáng tiếc cho cả nước giàu lẫn nước nghèo.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một xưởng may ở một tỉnh nông nghiệp của một nước đang phát triển trả công nhân 6 triệu đồng/tháng, trong khi thu nhập từ làm ruộng của cùng người đó chỉ khoảng 3 triệu đồng/tháng. Một chiến dịch ở nước nhập khẩu đòi nhãn hàng ngừng đặt hàng vì "lương bóc lột". Nếu nhãn hàng rút đi, 2.000 công nhân không quay lại đâu đó tốt hơn; phần lớn quay về ruộng với 3 triệu đồng hoặc đi làm thuê thời vụ. Cái thấy được là lương 6 triệu đồng thấp so với chuẩn của nước nhập khẩu; cái không thấy là lựa chọn thay thế 3 triệu đồng. Cách giúp có hiệu quả hơn, theo logic của Wheelan, là tiếp tục mua và gây sức ép cải thiện an toàn lao động trong giới hạn mà năng suất cho phép, để xưởng vẫn tồn tại và người lao động tích luỹ kỹ năng như 130 công nhân Desh năm 1979.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một xưởng may ở một tỉnh nông nghiệp của một nước đang phát triển trả công nhân 6 triệu đồng/tháng, trong khi thu nhập từ làm ruộng của cùng người đó chỉ khoảng 3 triệu đồng/tháng. Một chiến dịch ở nước nhập khẩu đòi nhãn hàng ngừng đặt hàng vì "lương bóc lột". Nếu nhãn hàng rút đi, 2.000 công nhân không quay lại đâu đó tốt hơn; phần lớn quay về ruộng với 3 triệu đồng hoặc đi làm thuê thời vụ.
+
+Cái thấy được là lương 6 triệu đồng thấp so với chuẩn của nước nhập khẩu; cái không thấy là lựa chọn thay thế 3 triệu đồng. Cách giúp có hiệu quả hơn, theo logic của Wheelan, là tiếp tục mua và gây sức ép cải thiện an toàn lao động trong giới hạn mà năng suất cho phép, để xưởng vẫn tồn tại và người lao động tích luỹ kỹ năng như 130 công nhân Desh năm 1979.
 
 ## Luận điểm kinh tế cốt lõi
 
@@ -668,7 +689,9 @@ Mọi ví dụ then chốt của Wheelan đều buộc người đọc so sánh 
 
 ### Wheelan thừa nhận người thua cuộc, nhưng đánh giá thấp quy mô và độ bền của thiệt hại
 
-Ông dành hẳn một mục cho người thua cuộc và đồng tình với đề xuất bù đắp của Scheve – Slaughter, điều không phải sách phổ thông ủng hộ thương mại nào cũng làm. Nhưng con số ông dựa vào (37.000 việc làm/năm do NAFTA so với 200.000 việc làm mới/tháng) đo tác động bình quân toàn quốc, không đo tác động tập trung theo vùng. Các nghiên cứu sau 2010 về cú sốc nhập khẩu từ Trung Quốc cho thấy ở những vùng tập trung ngành bị cạnh tranh, thu nhập, việc làm và cả sức khoẻ cộng đồng suy giảm kéo dài hơn một thập kỷ, và người lao động không dễ chuyển sang ngành hay vùng khác như giả định "nền kinh tế hấp thụ" gợi ý. Chính Newton Falls trong chương là một trường hợp như vậy. Việc bù đắp mà Wheelan khuyên thực tế ở Mỹ cũng ít khi được làm đủ, và hệ quả chính trị là làn sóng bảo hộ mà Scheve – Slaughter cảnh báo đã thật sự đến.
+Ông dành hẳn một mục cho người thua cuộc và đồng tình với đề xuất bù đắp của Scheve – Slaughter, điều không phải sách phổ thông ủng hộ thương mại nào cũng làm. Nhưng con số ông dựa vào (37.000 việc làm/năm do NAFTA so với 200.000 việc làm mới/tháng) đo tác động bình quân toàn quốc, không đo tác động tập trung theo vùng.
+
+Các nghiên cứu sau 2010 về cú sốc nhập khẩu từ Trung Quốc cho thấy ở những vùng tập trung ngành bị cạnh tranh, thu nhập, việc làm và cả sức khoẻ cộng đồng suy giảm kéo dài hơn một thập kỷ, và người lao động không dễ chuyển sang ngành hay vùng khác như giả định "nền kinh tế hấp thụ" gợi ý. Chính Newton Falls trong chương là một trường hợp như vậy. Việc bù đắp mà Wheelan khuyên thực tế ở Mỹ cũng ít khi được làm đủ, và hệ quả chính trị là làn sóng bảo hộ mà Scheve – Slaughter cảnh báo đã thật sự đến.
 
 ### Câu kết về toàn cầu hoá có thể đảo ngược đã được thời gian xác nhận một phần
 
@@ -688,3 +711,182 @@ Wheelan kể chuyện các con hổ châu Á như câu chuyện của mở cửa
 - **Trong đầu tư.** Một mức thuế quan mới không chỉ có lợi cho ngành được bảo hộ; nó là chi phí cho mọi ngành dùng sản phẩm đó làm đầu vào và cho người tiêu dùng. Khi đọc tin "ngành X được bảo vệ khỏi hàng nhập", hãy hỏi ai là "người mua nước cam" trong chuỗi giá trị và biên lợi nhuận của họ bị ép thế nào. Ngược lại, các ngành sống nhờ bảo hộ thường có thói quen xấu của kẻ không phải cạnh tranh, và dễ sụp khi hàng rào hạ xuống (bài học Thums Up năm 1994).
 - **Trong nghề nghiệp.** Câu chuyện 130 công nhân Desh cho thấy giá trị lâu dài nhất của một công việc tại doanh nghiệp FDI hay doanh nghiệp xuất khẩu là kỹ năng mang theo được, không phải mức lương hiện tại. Người làm ở ngành dễ bị cạnh tranh quốc tế nên chủ động đầu tư vào kỹ năng chuyển đổi được, vì "về dài hạn nền kinh tế hấp thụ" không bảo đảm chính mình được hấp thụ.
 - **Khi đọc tin chính sách.** Ở Việt Nam, một nền kinh tế đi lên nhờ xuất khẩu và FDI giống mô hình chương này mô tả, các tranh luận về lương tối thiểu, tiêu chuẩn lao động trong hiệp định thương mại, hay chỉ trích "gia công giá rẻ" nên được đọc bằng câu hỏi của Wheelan: lựa chọn thay thế của người lao động là gì, và biện pháp này làm năng suất tăng hay chỉ làm chi phí tăng. Đồng thời, câu chuyện Daewoo nhắc rằng lợi ích lớn nhất của FDI là lan toả kỹ năng sang doanh nghiệp nội địa; chính sách nào thúc đẩy được sự lan toả đó (đào tạo, liên kết nhà cung cấp) quan trọng hơn con số vốn đăng ký.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 12 trên một trang: sáu nhánh lớn đi theo các mục 1–11 trong phần Nội dung chi tiết (cỗ máy thương mại và lợi thế so sánh, người thua cuộc và cách bù đắp, bảo hộ như tự cấm vận và thuế ẩn, thương mại với nước nghèo và trao đổi tự nguyện, tin tốt về xưởng bóc lột, môi trường và giới hạn của toàn cầu hoá), mỗi nhánh ghi lập luận, ví dụ và con số Wheelan dùng; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 12: thương mại làm cả thế giới giàu lên, nhất là nước nghèo, nhưng tạo người thua cuộc cần được bù đắp`"]
+  n1["`Mục 1–3 — Thương mại làm ta giàu lên`"]
+  n0 --- n1
+  n2["`Cỗ máy biến 50 giạ ngô thành đầu DVD, 1.500 giạ đậu nành thành ô tô đã có sẵn, tên là thương mại`"]
+  n1 --- n2
+  n3["`Vượt biên giới chính trị không đổi kinh tế học của giao dịch: hàng từ Đức hay Ấn Độ cũng như từ Detroit`"]
+  n1 --- n3
+  n4["`Xuất khẩu thế giới từ 8% GDP toàn cầu năm 1950 lên khoảng 25%, Mỹ từ 5% lên gần 10%`"]
+  n1 --- n4
+  n5["`Ngụy biện Lincoln về đường ray: tự nuôi bò giữ được tiền nhưng phí thời gian làm việc năng suất hơn`"]
+  n1 --- n5
+  n6["`Lợi thế tuyệt đối: Ả Rập Xê Út rẻ hơn ở dầu, Mỹ rẻ hơn ở ngô, đậu nành, đổi cho nhau`"]
+  n1 --- n6
+  n7["`Lợi thế so sánh: kỹ sư Seattle may áo giỏi hơn nhưng thời gian của họ đáng giá nhất khi làm máy bay`"]
+  n1 --- n7
+  n8["`Công nhân Bangladesh không cần giỏi hơn ai, chỉ cần may áo là việc tốt nhất họ có thể làm`"]
+  n7 --- n8
+  n9["`Nhà Wheelan thuê chị Clementine trông con không vì chị giỏi hơn mà để hai vợ chồng làm việc mình giỏi`"]
+  n7 --- n9
+  n10["`Năng suất làm ta giàu, chuyên môn hoá làm ta năng suất, thương mại cho phép chuyên môn hoá`"]
+  n1 --- n10
+  n11["`Krugman: toàn cầu hoá vì lợi nhuận đã giúp nhiều người hơn mọi khoản viện trợ cộng lại`"]
+  n1 --- n11
+  n12["`Mục 4 — Thương mại tạo ra người thua cuộc`"]
+  n0 --- n12
+  n13["`Thương mại đưa phá huỷ sáng tạo vượt biên giới, xoá trước hết việc làm ít kỹ năng`"]
+  n12 --- n13
+  n14["`Công nhân giày Maine 14 USD/giờ so với Việt Nam 1 USD/giờ phải năng suất gấp 14 lần`"]
+  n12 --- n14
+  n15["`Nước nghèo cũng mất: Thums Up của Ấn Độ bị Coca-Cola đè bẹp năm 1994`"]
+  n12 --- n15
+  n16["`Sau NAFTA mất trung bình 37.000 việc làm mỗi năm, trong khi Mỹ tạo 200.000 việc làm mỗi tháng`"]
+  n12 --- n16
+  n17["`Nhưng nỗi đau tập trung: người mất việc phải trả tiền nhà ngay, nhiều người không bao giờ khá lại`"]
+  n12 --- n17
+  n18["`Newton Falls lụi tàn khi nhà máy giấy mở năm 1894 đóng cửa một thế kỷ sau`"]
+  n17 --- n18
+  n19["`Bên thắng được nhiều hơn bên thua mất, nhưng hiếm khi viết séc bù cho bên thua`"]
+  n12 --- n19
+  n20["`Bù đắp bằng đào tạo lại, hỗ trợ chuyển chỗ ở, hỗ trợ cộng đồng mất ngành chủ lực`"]
+  n12 --- n20
+  n21["`Scheve và Slaughter: thuế liên bang luỹ tiến hơn, một Thoả thuận mới cho toàn cầu hoá`"]
+  n20 --- n21
+  n22["`Cử tri bảo hộ hơn vì thu nhập đứng yên, chia bớt phần được trước khi tất cả cùng thiệt`"]
+  n21 --- n22
+  n23["`Mục 5–6 — Bảo hộ là tự cấm vận và là thuế ẩn`"]
+  n0 --- n23
+  n24["`Lợi ích bảo hộ thấy được (việc làm được giữ), chi phí khó thấy (việc làm không bao giờ xuất hiện)`"]
+  n23 --- n24
+  n25["`Cấm buôn bán qua sông Mississippi vặn ngược đồng hồ chuyên môn hoá, cả nước nghèo đi`"]
+  n23 --- n25
+  n26["`Lập luận cho sông Mississippi cũng áp dụng cho Đại Tây Dương và Thái Bình Dương`"]
+  n25 --- n26
+  n27["`Ta cắt thương mại để trừng phạt kẻ thù: Gaza, Iraq, Iran, phong toả miền Nam thời Nội chiến`"]
+  n23 --- n27
+  n28["`Cấm vận Iraq bị cho là gây cái chết của 100.000 đến 500.000 trẻ em, tuỳ nguồn`"]
+  n27 --- n28
+  n29["`Bảo hộ là tự cấm vận mình: nếu buôn bán ít làm nước nghèo giàu, sao Gaza không giàu?`"]
+  n27 --- n29
+  n30["`Hàng nhập rẻ như thu nhập tăng, có lợi nhất cho người tiêu dùng thu nhập thấp`"]
+  n23 --- n30
+  n31["`Thuế quan tới 63% lên cam Brazil làm mỗi gallon nước cam đắt thêm khoảng 30 xu`"]
+  n23 --- n31
+  n32["`Đánh thẳng 30 xu/gallon sẽ bị phản đối vì thuế lên thực phẩm là thuế luỹ thoái`"]
+  n31 --- n32
+  n33["`8 vòng GATT 1948–1995 hạ thuế quan nước công nghiệp từ 40% xuống 4%, như một đợt giảm thuế`"]
+  n23 --- n33
+  n34["`Cạnh tranh buộc Detroit làm xe tốt hơn: Ford Taurus tốt hơn nhờ có Honda Accord`"]
+  n23 --- n34
+  n35["`Mục 7–8 — Thương mại tốt cho nước nghèo và dựa trên trao đổi tự nguyện`"]
+  n0 --- n35
+  n36["`Phe biểu tình nghĩ tổng bằng không, nhưng chính nước nghèo phàn nàn khi hội nghị WTO Seattle bị phá`"]
+  n35 --- n36
+  n37["`Vòng Doha bế tắc vì nước giàu không chịu giảm trợ cấp nông nghiệp và rào cản`"]
+  n36 --- n37
+  n38["`AGOA 2000: sau một năm xuất khẩu dệt sang Mỹ của Malawi, Nigeria tăng 1.000%, Madagascar 120%`"]
+  n35 --- n38
+  n39["`Ngành xuất khẩu trả lương cao hơn, đẩy lương nơi khác lên, người lao động học qua làm`"]
+  n35 --- n39
+  n40["`Daewoo đào tạo 130 công nhân Desh, 115 người lập công ty riêng, nền móng ngành may 3 tỷ USD`"]
+  n35 --- n40
+  n41["`Kỹ năng đã vào đầu người lao động thì không ai lấy lại được, khác máy móc hay vốn`"]
+  n40 --- n41
+  n42["`Chính quyền Reagan áp hạn ngạch dệt lên Bangladesh, nước có GDP đầu người 1.500 USD`"]
+  n40 --- n42
+  n43["`Ấn Độ khép kín bốn thập kỷ sau 1947 và tụt hậu, mở cửa từ thập niên 1990 thì thành công`"]
+  n35 --- n43
+  n44["`Trung Quốc gấp đôi GDP đầu người mỗi 10 năm, Anh sau Cách mạng Công nghiệp mất 58 năm`"]
+  n35 --- n44
+  n45["`AT Kearney (34 nước): toàn cầu hoá nhanh tăng trưởng cao hơn 30–50%, 1,4 tỷ người thoát nghèo`"]
+  n35 --- n45
+  n46["`Theo ý Sachs: chưa nước nào phát triển thành công mà không buôn bán với thế giới`"]
+  n35 --- n46
+  n47["`McDonald's ở Bangkok không ép ai ăn, thay đổi văn hoá là do người sống và đi bầu ở đó quyết định`"]
+  n35 --- n47
+  n48["`Hạn chế quán ăn nhanh vì ngoại ứng (kẹt xe, rác) là chính đáng nhưng là việc của địa phương`"]
+  n47 --- n48
+  n49["`Mục 9 — Tin tốt về xưởng bóc lột châu Á`"]
+  n0 --- n49
+  n50["`Người ta nhận 1–2 USD/ngày vì đó là lựa chọn tốt nhất họ có`"]
+  n49 --- n50
+  n51["`Doanh nghiệp nước ngoài ở nước thu nhập thấp trả gấp đôi lương ngành chế tạo nội địa`"]
+  n49 --- n51
+  n52["`Con gái 15 tuổi của ông Mongkol: 2 USD/ngày, ca 9 tiếng, 6 ngày/tuần, ông coi là lương tốt`"]
+  n49 --- n52
+  n53["`Lợi thế so sánh duy nhất của lao động nước nghèo là lương thấp, bị buộc tăng mạnh thì xưởng chuyển đi`"]
+  n49 --- n53
+  n54["`Xưởng bóc lột không gây ra lương thấp, chúng trả lương thấp vì người lao động ít lựa chọn khác`"]
+  n53 --- n54
+  n55["`Kristof và WuDunn sau 14 năm: cách giúp người châu Á nghèo nhất là mua nhiều hơn từ xưởng`"]
+  n49 --- n55
+  n56["`Đề xuất cấm hàng do trẻ em Bangladesh làm năm 1993: theo Oxfam các em ra đường, một số vào mại dâm`"]
+  n49 --- n56
+  n57["`Mục 10–11 — Môi trường và giới hạn của toàn cầu hoá`"]
+  n0 --- n57
+  n58["`Thiếu nước uống an toàn giết 2 triệu người mỗi năm, màn chống muỗi 5 USD bằng 5 ngày thu nhập`"]
+  n57 --- n58
+  n59["`Ngụy biện: buộc nước nghèo theo chuẩn của nước giàu, môi trường Nepal nên do Nepal quyết`"]
+  n57 --- n59
+  n60["`Chất lượng môi trường là hàng xa xỉ: không khí London tệ nhất năm 1890, nay sạch nhất từ 1585`"]
+  n57 --- n60
+  n61["`Ngân hàng Thế giới sau 6 năm nghiên cứu không thấy thiên đường ô nhiễm nào hình thành`"]
+  n60 --- n61
+  n62["`Biến đổi khí hậu khó hơn: giải pháp là thuế carbon hài hoà, không phải hạn chế thương mại`"]
+  n57 --- n62
+  n63["`Không ai đề nghị cấm giáo dục dù nó cũng làm Trung Quốc, Ấn Độ dùng nhiều năng lượng hơn`"]
+  n62 --- n63
+  n64["`Toàn cầu hoá cuối thế kỷ 19 sụp đổ trên chiến trường sông Somme, nó không phải không thể đảo ngược`"]
+  n57 --- n64
+  n65["`Thông điệp xuyên suốt`"]
+  n0 --- n65
+  n66["`Luôn hỏi so với cái gì: lương xưởng bóc lột so với lựa chọn thật trong cùng nước nghèo`"]
+  n65 --- n66
+  n67["`Giữ thị trường mở và bù đắp người thua cuộc, thay vì dựng rào cản`"]
+  n65 --- n67
+  n68["`Krugman: không day dứt là thiếu trái tim, tin phẫn nộ với thương mại giải được nghèo đói là thiếu cái đầu`"]
+  n65 --- n68
+  n69["`Giữ người nghèo mãi nghèo vì tốt cho hành tinh là phá sản cả về kinh tế lẫn đạo đức`"]
+  n65 --- n69
+  class n0 root
+  class n1,n12,n23,n35,n49,n57,n65 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n24,n25,n26,n27,n28,n29,n30,n31,n32,n33,n34,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n46,n47,n48,n50,n51,n52,n53,n54,n55,n56,n58,n59,n60,n61,n62,n63,n64,n66,n67,n68,n69 leaf
+```
+
+## Nguồn
+
+Charles Wheelan, *Naked Economics: Undressing the Dismal Science*, ấn bản sửa đổi và cập nhật (W. W. Norton, 2010), Chương 12.
+
+## Tác giả
+
+Charles Wheelan (sinh 1966), nhà kinh tế và nhà báo Mỹ, từng là phóng viên của *The Economist* ở Trung Tây nước Mỹ, giảng dạy chính sách công tại Đại học Chicago và Dartmouth.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 1 đã chứng minh rằng trao đổi tự nguyện làm cả hai bên có lợi, và Chương 6 rằng năng suất (nhờ vốn con người và chuyên môn hoá) là thứ quyết định mức sống. Chương 11 vừa giải thích "đường ống" tài chính của kinh tế quốc tế: tỷ giá, cán cân thanh toán, dòng vốn.
+
+Chương 12 áp những ý cơ bản ấy vào trao đổi **vượt biên giới**: Wheelan lập luận rằng việc một món hàng đến từ Đức hay Ấn Độ không làm thay đổi kinh tế học của giao dịch.
+
+Chương này cũng dựa vào Chương 8 (nhóm lợi ích có tổ chức) để giải thích vì sao bảo hộ vẫn thắng thế về chính trị. Chương 13 tiếp nối ngay: thương mại là một trong những "nguyên liệu" Wheelan liệt kê cho công thức phát triển của các nước nghèo.
+
+## Lưu ý
+
+- Sách được cập nhật sau khủng hoảng 2008; số liệu trong chương phần lớn là của khoảng 2000–2009 (xuất khẩu thế giới bằng khoảng 25% GDP toàn cầu; Mỹ là nước xuất khẩu lớn thứ ba sau Trung Quốc và Đức; vòng đàm phán Doha của WTO đang bế tắc).
+- Nhiều nhận định của chương nay đọc với bối cảnh khác: từ giữa thập niên 2010, phản ứng chống toàn cầu hoá ở chính các nước giàu mạnh lên rõ rệt, thuế quan và chiến tranh thương mại Mỹ – Trung quay trở lại, đúng như cảnh báo của Scheve và Slaughter mà Wheelan trích, và đúng như câu kết của chương rằng toàn cầu hoá "không phải không thể đảo ngược".
+- Các nghiên cứu sau 2010 về "cú sốc Trung Quốc" (China shock) cho thấy tổn thất việc làm do nhập khẩu ở một số vùng của Mỹ lớn và kéo dài hơn mức mà các nghiên cứu thời NAFTA Wheelan trích gợi ý. Ngược lại, câu chuyện Trung Quốc, Ấn Độ và Đông Nam Á thoát nghèo nhờ xuất khẩu nhìn chung đã được thời gian xác nhận.
+- Một số chi tiết nhỏ: Wheelan viết "Puerta Vallarta", tên đúng là Puerto Vallarta (Mexico); ông viết "Thumbs-Up Cola", tên thương hiệu nước ngọt Ấn Độ là Thums Up (bản tổng hợp dùng tên đúng); Nokia mà ông lấy làm ví dụ thắng Motorola sau đó cũng bị Apple và Samsung vượt mặt.
+- Chương này không có chú thích chân trang dấu `*`.
+- Các câu trích là bản dịch của người tổng hợp.

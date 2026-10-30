@@ -1,11 +1,20 @@
 # Chương 5 — Kinh tế học thông tin (Economics of Information: McDonald's didn't create a better hamburger)
 
-**Nguồn:** Charles Wheelan, *Naked Economics: Undressing the Dismal Science*, ấn bản sửa đổi và cập nhật (W. W. Norton, 2010), Chương 5.
-**Tác giả:** Charles Wheelan (sinh 1966), nhà kinh tế và nhà báo Mỹ, từng là phóng viên của *The Economist* ở Trung Tây nước Mỹ, giảng dạy chính sách công tại Đại học Chicago và Dartmouth.
-**Vị trí trong lập luận của cả cuốn sách:** Các chương 1–2 dựng mô hình thị trường với người mua và người bán lý trí; các chương 3–4 bàn khi nào chính phủ nên và không nên can thiệp. Chương 5 nới một giả định ngầm của mô hình sách giáo khoa: mọi người đều có "thông tin hoàn hảo". Khi một bên biết nhiều hơn bên kia, thị trường có thể vận hành méo mó hoặc sụp hẳn, và cả thị trường lẫn chính phủ phải tìm cách xử lý. Chương này nối thẳng sang Chương 6 (vốn con người), vì bằng cấp vừa là kỹ năng vừa là tín hiệu, và chuẩn bị cho các chương về thị trường tài chính, nơi thông tin là hàng hoá chính.
-**Ý chính:** Wheelan muốn người đọc hiểu rằng **thông tin bất cân xứng, tức một bên giao dịch biết nhiều hơn bên kia, có thể làm thị trường méo mó hoặc sụp đổ, và phần lớn thời gian thị trường tự tạo ra cách giải quyết**. Ông mở đầu bằng học bổng Hope của Bill Clinton: cho vay học phí trả theo phần trăm thu nhập, nhưng sinh viên định làm ngân hàng đầu tư sẽ tránh, chỉ người định làm giáo viên mẫu giáo tham gia, nên chương trình không thu hồi được vốn (lựa chọn bất lợi). Cùng logic giải thích thị trường xe cũ "toàn quả chanh" của Akerlof, vòng xoáy phí bảo hiểm y tế (Aetna, 1.300 rồi 1.800 USD), phân biệt đối xử thống kê khi tuyển dụng, và vì sao y tế khác mọi thị trường khác. Cách giải quyết: thương hiệu (McDonald's không làm bánh burger ngon hơn, mà bán sự đoán trước được), bên thứ ba chứng nhận (Roger Ebert), phát tín hiệu (sảnh đá cẩm thạch, bằng Harvard), sàng lọc (mức khấu trừ bảo hiểm), và khi thị trường bất lực thì bắt buộc mọi người mua bảo hiểm.
+## Ý chính
 
-> **Lưu ý:** Sách được cập nhật sau khủng hoảng tài chính 2008, khi cuộc tranh luận cải cách y tế của chính quyền Obama đang diễn ra (2009); số liệu tính đến khoảng 2009. Về sau, đạo luật cải cách y tế Mỹ năm 2010 đã kết hợp đúng thứ Wheelan mô tả: cấm từ chối người có bệnh sẵn, đi kèm nghĩa vụ mua bảo hiểm cá nhân; nghĩa vụ này về sau bị bỏ mức phạt, và cuộc tranh luận về lựa chọn bất lợi tiếp tục. Mỹ cũng đã có luật cấm công ty bảo hiểm y tế dùng thông tin di truyền, nhưng bảo hiểm nhân thọ thì nhìn chung chưa bị cấm, nên "câu hỏi thông tin di truyền" Wheelan đặt ra vẫn còn mở. Các chính sách che giấu tiền án khi tuyển dụng được nhiều địa phương ở Mỹ áp dụng sau 2010, và một số nghiên cứu về sau cho kết quả cùng chiều với cảnh báo của Wheelan. Nhiều ví dụ nay đã cũ (Roger Ebert, máy xử lý văn bản WANG, Firestone và Ford Explorer), nhưng cơ chế vẫn nguyên giá trị, và các hệ thống đánh giá, xếp hạng trực tuyến ngày nay là phiên bản mới của "bên thứ ba chứng nhận". Chương không có chú thích chân trang dấu `*`. Các câu trích là bản dịch của người tổng hợp.
+Wheelan muốn người đọc hiểu rằng **thông tin bất cân xứng, tức một bên giao dịch biết nhiều hơn bên kia, có thể làm thị trường méo mó hoặc sụp đổ, và phần lớn thời gian thị trường tự tạo ra cách giải quyết**.
+
+Ông mở đầu bằng học bổng Hope của Bill Clinton: cho vay học phí trả theo phần trăm thu nhập, nhưng sinh viên định làm ngân hàng đầu tư sẽ tránh, chỉ người định làm giáo viên mẫu giáo tham gia, nên chương trình không thu hồi được vốn (lựa chọn bất lợi).
+
+Cùng logic giải thích thị trường xe cũ "toàn quả chanh" của Akerlof, vòng xoáy phí bảo hiểm y tế (Aetna, 1.300 rồi 1.800 USD), phân biệt đối xử thống kê khi tuyển dụng, và vì sao y tế khác mọi thị trường khác.
+
+Cách giải quyết:
+
+- thương hiệu (McDonald's không làm bánh burger ngon hơn, mà bán sự đoán trước được)
+- bên thứ ba chứng nhận (Roger Ebert)
+- phát tín hiệu (sảnh đá cẩm thạch, bằng Harvard)
+- sàng lọc (mức khấu trừ bảo hiểm)
+- và khi thị trường bất lực thì bắt buộc mọi người mua bảo hiểm
 
 ## Sơ đồ
 
@@ -685,7 +694,11 @@ Phân biệt đối xử thống kê (statistical discrimination), hay "phân bi
 
 ### 5. Thị trường quả chanh
 
-Chủ đề của chương là thông tin, và phân biệt đối xử chỉ là một hệ quả. Khi thông tin thiếu, bên biết nhiều thường có lợi, như người bán xe cũ. George Akerlof (Đại học California, Berkeley) chỉ ra điều mạnh hơn trong bài "The Market for Lemons" ("quả chanh" là tiếng lóng Mỹ chỉ chiếc xe hay hỏng vặt): nếu chênh lệch thông tin đủ lớn, thị trường có thể biến mất. Người hài lòng với xe thường giữ xe, nên người mua đoán xe được rao bán có tật và chỉ trả giá thấp; giá thấp lại khiến chủ xe tốt càng không bán, cho tới khi chợ chỉ còn xe xấu. Về lý thuyết, giao dịch xe cũ tốt không xảy ra được dù cả người mua lẫn người bán đều muốn. Trên thực tế thị trường vẫn hoạt động nhờ các cơ chế mà hai người đồng nhận giải phân tích (sàng lọc ở mục 9, phát tín hiệu ở mục 13). Viện Hàn lâm Khoa học Hoàng gia Thuỵ Điển gọi bài báo này là một ý tưởng đơn giản nhưng sâu sắc và phổ quát.
+Chủ đề của chương là thông tin, và phân biệt đối xử chỉ là một hệ quả. Khi thông tin thiếu, bên biết nhiều thường có lợi, như người bán xe cũ.
+
+George Akerlof (Đại học California, Berkeley) chỉ ra điều mạnh hơn trong bài "The Market for Lemons" ("quả chanh" là tiếng lóng Mỹ chỉ chiếc xe hay hỏng vặt): nếu chênh lệch thông tin đủ lớn, thị trường có thể biến mất. Người hài lòng với xe thường giữ xe, nên người mua đoán xe được rao bán có tật và chỉ trả giá thấp; giá thấp lại khiến chủ xe tốt càng không bán, cho tới khi chợ chỉ còn xe xấu. Về lý thuyết, giao dịch xe cũ tốt không xảy ra được dù cả người mua lẫn người bán đều muốn.
+
+Trên thực tế thị trường vẫn hoạt động nhờ các cơ chế mà hai người đồng nhận giải phân tích (sàng lọc ở mục 9, phát tín hiệu ở mục 13). Viện Hàn lâm Khoa học Hoàng gia Thuỵ Điển gọi bài báo này là một ý tưởng đơn giản nhưng sâu sắc và phổ quát.
 
 ### 6. Y tế: khi bác sĩ biết nhiều hơn bệnh nhân
 
@@ -700,7 +713,9 @@ Trong y tế, bệnh nhân hầu như luôn biết ít hơn bác sĩ, thậm ch�
 
 Điều đáng nói không phải chênh lệch chi phí mà là, theo phân tích của RAND, chưa liệu pháp nào được chứng minh tốt hơn liệu pháp khác.
 
-Các tổ chức chăm sóc sức khoẻ có quản lý (health maintenance organizations, HMO) đảo ngược động cơ: bác sĩ nhận một khoản cố định cho mỗi bệnh nhân mỗi năm, bị hạn chế chỉ định xét nghiệm, có khi được thưởng nếu không chuyển bệnh nhân lên chuyên khoa. Người biết rõ nhất về bệnh của bạn giờ có động cơ chữa ít đi; Wheelan phóng đại rằng bệnh nhân chảy máu tai có thể chỉ được bảo uống hai viên aspirin. Than phiền về chi quá nhiều chuyển thành than phiền về chi quá ít, kèm những câu chuyện bệnh nhân bị nhân viên hành chính của HMO từ chối điều trị cần thiết. Phản ứng là đủ kiểu: có bác sĩ đấu với công ty bảo hiểm thay bệnh nhân, có bác sĩ nguỵ trang điều trị không được chi trả thành điều trị được chi trả (công ty bảo hiểm cũng bị bất cân xứng thông tin), còn chính khách đòi công khai các khoản thưởng và đòi một "bộ quyền của bệnh nhân".
+Các tổ chức chăm sóc sức khoẻ có quản lý (health maintenance organizations, HMO) đảo ngược động cơ: bác sĩ nhận một khoản cố định cho mỗi bệnh nhân mỗi năm, bị hạn chế chỉ định xét nghiệm, có khi được thưởng nếu không chuyển bệnh nhân lên chuyên khoa. Người biết rõ nhất về bệnh của bạn giờ có động cơ chữa ít đi; Wheelan phóng đại rằng bệnh nhân chảy máu tai có thể chỉ được bảo uống hai viên aspirin.
+
+Than phiền về chi quá nhiều chuyển thành than phiền về chi quá ít, kèm những câu chuyện bệnh nhân bị nhân viên hành chính của HMO từ chối điều trị cần thiết. Phản ứng là đủ kiểu: có bác sĩ đấu với công ty bảo hiểm thay bệnh nhân, có bác sĩ nguỵ trang điều trị không được chi trả thành điều trị được chi trả (công ty bảo hiểm cũng bị bất cân xứng thông tin), còn chính khách đòi công khai các khoản thưởng và đòi một "bộ quyền của bệnh nhân".
 
 ### 7. Vì sao y tế khác mọi thị trường khác
 
@@ -728,7 +743,9 @@ Bảo hiểm sống nhờ tính đúng chi phí bình quân. Aetna bán hợp đ
 | 2 | 1.800 USD | Những người khoẻ nhất trong số người không khoẻ | Ốm hơn nữa |
 | 3 | 1.800 USD không còn đủ | Tiếp tục | Về lý thuyết, thị trường sụp hẳn |
 
-Thực tế thị trường không sụp vì công ty bảo hiểm thường bán cho nhóm lớn mà cá nhân không được chọn vào hay ra, ví dụ toàn bộ nhân viên General Motors được bảo hiểm qua công việc; Aetna chỉ cần tính chi phí bình quân của cả nhóm. Bán cho cá nhân thì đáng sợ hơn nhiều, vì ở bất kỳ mức phí nào, kể cả 5.000 USD mỗi tháng, người tự dự đoán chi phí y tế của mình cao hơn mức phí sẽ là người đăng ký nhiều nhất. Vì thế công ty từ chối bán cho người đang ốm hoặc có nguy cơ ốm. Việc này bị coi là tàn nhẫn, nhưng nếu luật cấm từ chối, ai cũng có thể đợi tới khi được bác sĩ báo cần mổ tim mới đi mua bảo hiểm (Wheelan dựng hẳn một đoạn hội thoại phóng đại như vậy), và công ty chỉ còn bán cho người sắp có hoá đơn lớn.
+Thực tế thị trường không sụp vì công ty bảo hiểm thường bán cho nhóm lớn mà cá nhân không được chọn vào hay ra, ví dụ toàn bộ nhân viên General Motors được bảo hiểm qua công việc; Aetna chỉ cần tính chi phí bình quân của cả nhóm.
+
+Bán cho cá nhân thì đáng sợ hơn nhiều, vì ở bất kỳ mức phí nào, kể cả 5.000 USD mỗi tháng, người tự dự đoán chi phí y tế của mình cao hơn mức phí sẽ là người đăng ký nhiều nhất. Vì thế công ty từ chối bán cho người đang ốm hoặc có nguy cơ ốm. Việc này bị coi là tàn nhẫn, nhưng nếu luật cấm từ chối, ai cũng có thể đợi tới khi được bác sĩ báo cần mổ tim mới đi mua bảo hiểm (Wheelan dựng hẳn một đoạn hội thoại phóng đại như vậy), và công ty chỉ còn bán cho người sắp có hoá đơn lớn.
 
 ### 9. Thu thập thông tin và sàng lọc
 
@@ -743,9 +760,13 @@ Cách thứ hai tinh tế hơn là thiết kế hợp đồng để khách hàng
 
 ### 10. Bao nhiêu thông tin là quá nhiều?
 
-Wheelan dự đoán đây sẽ là một trong những câu hỏi chính sách khó nhất. Một sợi tóc hay chút nước bọt chứa toàn bộ mã gen, từ đó có thể đọc nguy cơ bệnh tim, một số ung thư, trầm cảm, và sắp tới cả nguy cơ Alzheimer sớm 25 năm trước khi bệnh xuất hiện. Thế lưỡng nan là: nếu công ty bảo hiểm được dùng thông tin gen, người dễ mắc bệnh nhất sẽ không bao giờ mua được bảo hiểm (người có tiền sử gia đình mắc bệnh Huntington, một bệnh thoái hoá não di truyền gây chết sớm, đã khó mua bảo hiểm nhân thọ); nếu bị cấm, công ty chịu lựa chọn bất lợi nặng vì người biết mình có nguy cơ cao sẽ mua hợp đồng hào phóng nhất. *The Economist* tóm thế khó: cấm thì ngành bảo hiểm có thể sụp, cho phép thì sinh ra một tầng lớp người không ai bảo hiểm. Tờ báo vốn không thiên tả này còn cho rằng xét nghiệm gen có thể thành lý lẽ mạnh nhất cho y tế toàn dân do nhà nước chi trả.
+Wheelan dự đoán đây sẽ là một trong những câu hỏi chính sách khó nhất. Một sợi tóc hay chút nước bọt chứa toàn bộ mã gen, từ đó có thể đọc nguy cơ bệnh tim, một số ung thư, trầm cảm, và sắp tới cả nguy cơ Alzheimer sớm 25 năm trước khi bệnh xuất hiện.
 
-Mọi cải cách muốn bảo hiểm rẻ và dễ mua cho cả người đã ốm đều gặp lựa chọn bất lợi: nếu được hứa mua giá phải chăng bất kể bệnh tật, thời điểm tốt nhất để mua là trên xe cứu thương. Theo Wheelan, cách sửa duy nhất là kèm quyền mua bảo hiểm giá phải chăng với nghĩa vụ ai cũng phải mua, khoẻ hay ốm, trẻ hay già, gọi là "nghĩa vụ cá nhân" (personal mandate); khoản lỗ ở người rủi ro cao được bù bằng lãi ở người khoẻ. Hệ thống y tế quốc gia tài trợ bằng thuế thực chất là một nghĩa vụ như vậy. Massachusetts áp dụng cách này, phạt qua tờ khai thuế bang người có khả năng mua mà không mua. Năm 2008 Hillary Clinton ủng hộ nghĩa vụ cá nhân, còn Obama thì không, mà theo Wheelan có lẽ vì muốn tạo khác biệt với đối thủ hơn là vì phân tích kinh tế. Ép người khoẻ mua là dùng quyền lực nhà nước mạnh tay, nhưng là cách duy nhất để gộp rủi ro khi rủi ro không phân bố ngẫu nhiên.
+Thế lưỡng nan là: nếu công ty bảo hiểm được dùng thông tin gen, người dễ mắc bệnh nhất sẽ không bao giờ mua được bảo hiểm (người có tiền sử gia đình mắc bệnh Huntington, một bệnh thoái hoá não di truyền gây chết sớm, đã khó mua bảo hiểm nhân thọ); nếu bị cấm, công ty chịu lựa chọn bất lợi nặng vì người biết mình có nguy cơ cao sẽ mua hợp đồng hào phóng nhất. *The Economist* tóm thế khó: cấm thì ngành bảo hiểm có thể sụp, cho phép thì sinh ra một tầng lớp người không ai bảo hiểm. Tờ báo vốn không thiên tả này còn cho rằng xét nghiệm gen có thể thành lý lẽ mạnh nhất cho y tế toàn dân do nhà nước chi trả.
+
+Mọi cải cách muốn bảo hiểm rẻ và dễ mua cho cả người đã ốm đều gặp lựa chọn bất lợi: nếu được hứa mua giá phải chăng bất kể bệnh tật, thời điểm tốt nhất để mua là trên xe cứu thương. Theo Wheelan, cách sửa duy nhất là kèm quyền mua bảo hiểm giá phải chăng với nghĩa vụ ai cũng phải mua, khoẻ hay ốm, trẻ hay già, gọi là "nghĩa vụ cá nhân" (personal mandate); khoản lỗ ở người rủi ro cao được bù bằng lãi ở người khoẻ.
+
+Hệ thống y tế quốc gia tài trợ bằng thuế thực chất là một nghĩa vụ như vậy. Massachusetts áp dụng cách này, phạt qua tờ khai thuế bang người có khả năng mua mà không mua. Năm 2008 Hillary Clinton ủng hộ nghĩa vụ cá nhân, còn Obama thì không, mà theo Wheelan có lẽ vì muốn tạo khác biệt với đối thủ hơn là vì phân tích kinh tế. Ép người khoẻ mua là dùng quyền lực nhà nước mạnh tay, nhưng là cách duy nhất để gộp rủi ro khi rủi ro không phân bố ngẫu nhiên.
 
 Phần kinh tế học, theo Wheelan, khá rõ: ta biết ai đang ốm, ngày càng biết ai sẽ ốm, người ốm rất tốn kém, và bảo hiểm tư nhân không vận hành tốt trong điều kiện đó. Phần khó là câu hỏi giá trị: xã hội muốn chia sẻ chi phí y tế đến đâu và bằng cách nào. Đó là câu hỏi trung tâm của cải cách y tế thời Bill Clinton năm 1993 và thời Obama năm 2009.
 
@@ -774,7 +795,9 @@ Với người tiêu dùng, đó là ưu điểm của chủ nghĩa tư bản; v
 
 Một cách khác là trả tiền cho người ngoài đánh giá chất lượng: nhà phê bình Roger Ebert xem phim dở thay khán giả và "giơ ngón cái" cho phim hay (người đọc trả cho thông tin này qua tiền mua báo *Chicago Sun-Times* hay qua việc xem quảng cáo); *Consumer Reports* đánh giá hàng tiêu dùng, Underwriters Laboratories chứng nhận an toàn đồ điện, Morningstar xếp hạng quỹ tương hỗ, còn câu lạc bộ sách của Oprah đẩy được sách vô danh lên danh sách bán chạy.
 
-Về phía người bán, doanh nghiệp "phát tín hiệu" (signal) về chất lượng của mình, ý của Michael Spence (Đại học Stanford, đồng nhận Nobel 2001). Người vừa trúng xổ số Powerball đi chọn công ty tư vấn đầu tư thường tin công ty có sảnh đá cẩm thạch, tường ốp gỗ, tranh Ấn tượng thật hơn là lo mình sẽ trả phí cho những thứ đó; và chẳng ai giao tiền cho người ngồi trong văn phòng ẩm thấp với chiếc máy xử lý văn bản WANG hai mươi năm tuổi. Những thứ xa xỉ ấy không liên quan gì tới chất lượng tư vấn, nhưng là tín hiệu tốn kém rằng công ty làm ăn tốt, giống bộ lông của con công. Ở một số thành phố châu Á, tín hiệu đó là điều hoà lạnh buốt: theo *Wall Street Journal*, văn phòng lạnh đến mức nhân viên dùng máy sưởi dù ngoài trời trên 90 độ F (khoảng 32 °C), để báo rằng công ty đủ giàu trả tiền điện.
+Về phía người bán, doanh nghiệp "phát tín hiệu" (signal) về chất lượng của mình, ý của Michael Spence (Đại học Stanford, đồng nhận Nobel 2001). Người vừa trúng xổ số Powerball đi chọn công ty tư vấn đầu tư thường tin công ty có sảnh đá cẩm thạch, tường ốp gỗ, tranh Ấn tượng thật hơn là lo mình sẽ trả phí cho những thứ đó; và chẳng ai giao tiền cho người ngồi trong văn phòng ẩm thấp với chiếc máy xử lý văn bản WANG hai mươi năm tuổi. Những thứ xa xỉ ấy không liên quan gì tới chất lượng tư vấn, nhưng là tín hiệu tốn kém rằng công ty làm ăn tốt, giống bộ lông của con công.
+
+Ở một số thành phố châu Á, tín hiệu đó là điều hoà lạnh buốt: theo *Wall Street Journal*, văn phòng lạnh đến mức nhân viên dùng máy sưởi dù ngoài trời trên 90 độ F (khoảng 32 °C), để báo rằng công ty đủ giàu trả tiền điện.
 
 ### 14. Câu hỏi Harvard: giá trị thêm vào hay tín hiệu?
 
@@ -803,7 +826,9 @@ Wheelan cho rằng việc chủng tộc có mang thông tin hay không là chuy�
 
 Mô hình kinh tế học nhập môn (Econ 101) giả định "thông tin hoàn hảo". Thế giới thật không như vậy: viên cảnh sát chặn một chiếc xe vỡ đèn hậu trên xa lộ vắng ở Florida, gia đình tìm người giữ trẻ, công ty bảo hiểm lo chi phí điều trị HIV/AIDS đều phải quyết định khi thiếu thông tin. Vì thế các nhà kinh tế nghiên cứu cả cách con người dùng thông tin lẫn cách họ xoay xở khi không có nó.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một startup ở Việt Nam cho sinh viên trường nghề lập trình học trước, trả sau: không thu học phí, đổi lại học viên trả 15% lương trong 2 năm khi có việc trên 10 triệu đồng/tháng (mô hình "chia sẻ thu nhập", họ hàng gần của học bổng Hope). Công ty tính: lương bình quân sau khoá học 15 triệu đồng, 70% có việc, mỗi học viên trả bình quân khoảng 38 triệu đồng, đủ bù chi phí đào tạo 30 triệu. Nhưng học viên giỏi, tự tin sẽ có việc 25 triệu đồng, tính ra phải trả 90 triệu, nên họ vay tiền đóng thẳng học phí 30 triệu ở trường khác; người ở lại nghiêng về nhóm ít chắc chắn có việc. Đó là lựa chọn bất lợi. Cách sửa theo đúng các công cụ trong chương: đặt trần số tiền phải trả (ví dụ tối đa 1,5 lần học phí) để người giỏi không bị thiệt quá nhiều (giảm lựa chọn bất lợi); làm bài kiểm tra đầu vào (sàng lọc); công bố tỷ lệ có việc được kiểm toán độc lập (bên thứ ba chứng nhận); và xây thương hiệu "học viên của chúng tôi được công ty X tuyển" (phát tín hiệu).
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một startup ở Việt Nam cho sinh viên trường nghề lập trình học trước, trả sau: không thu học phí, đổi lại học viên trả 15% lương trong 2 năm khi có việc trên 10 triệu đồng/tháng (mô hình "chia sẻ thu nhập", họ hàng gần của học bổng Hope). Công ty tính: lương bình quân sau khoá học 15 triệu đồng, 70% có việc, mỗi học viên trả bình quân khoảng 38 triệu đồng, đủ bù chi phí đào tạo 30 triệu. Nhưng học viên giỏi, tự tin sẽ có việc 25 triệu đồng, tính ra phải trả 90 triệu, nên họ vay tiền đóng thẳng học phí 30 triệu ở trường khác; người ở lại nghiêng về nhóm ít chắc chắn có việc. Đó là lựa chọn bất lợi.
+
+Cách sửa theo đúng các công cụ trong chương: đặt trần số tiền phải trả (ví dụ tối đa 1,5 lần học phí) để người giỏi không bị thiệt quá nhiều (giảm lựa chọn bất lợi); làm bài kiểm tra đầu vào (sàng lọc); công bố tỷ lệ có việc được kiểm toán độc lập (bên thứ ba chứng nhận); và xây thương hiệu "học viên của chúng tôi được công ty X tuyển" (phát tín hiệu).
 
 ## Luận điểm kinh tế cốt lõi
 
@@ -917,7 +942,9 @@ Học bổng cho vay, xe cũ, bảo hiểm y tế, tuyển dụng, chế độ t
 
 ### Phần phân biệt đối xử dũng cảm nhưng cần đọc kỹ
 
-Wheelan nói thẳng rằng phân biệt đối xử thống kê có thể "lý trí" với người ra quyết định, điều nhiều sách tránh nói. Nhưng ông cũng nói rõ nó không công bằng và trái luật, và giải pháp ông đề xuất (thêm thông tin cá nhân, chế độ thai sản hoàn lại được) nhằm giảm nó chứ không biện hộ cho nó. Chỗ Wheelan đơn giản hoá: ông coi trung bình nhóm là "dữ liệu tốt", trong khi các nhà kinh tế về sau chỉ ra niềm tin của người tuyển dụng về trung bình nhóm thường sai (thiên kiến), và phân biệt đối xử có thể tự củng cố: nếu phụ nữ biết mình bị đối xử kém hơn, họ có ít lý do để gắn bó với hãng, làm "dữ liệu" có vẻ đúng. Đề xuất chế độ thai sản hoàn lại được cũng có mặt trái: nó có thể giữ chân người muốn nghỉ chỉ vì sợ phải trả lại tiền.
+Wheelan nói thẳng rằng phân biệt đối xử thống kê có thể "lý trí" với người ra quyết định, điều nhiều sách tránh nói. Nhưng ông cũng nói rõ nó không công bằng và trái luật, và giải pháp ông đề xuất (thêm thông tin cá nhân, chế độ thai sản hoàn lại được) nhằm giảm nó chứ không biện hộ cho nó.
+
+Chỗ Wheelan đơn giản hoá: ông coi trung bình nhóm là "dữ liệu tốt", trong khi các nhà kinh tế về sau chỉ ra niềm tin của người tuyển dụng về trung bình nhóm thường sai (thiên kiến), và phân biệt đối xử có thể tự củng cố: nếu phụ nữ biết mình bị đối xử kém hơn, họ có ít lý do để gắn bó với hãng, làm "dữ liệu" có vẻ đúng. Đề xuất chế độ thai sản hoàn lại được cũng có mặt trái: nó có thể giữ chân người muốn nghỉ chỉ vì sợ phải trả lại tiền.
 
 ### Phần kiểm tra tiền án đã được nghiên cứu sau này xác nhận về định tính
 
@@ -941,3 +968,183 @@ Nghiên cứu Krueger – Dale dạy cách tách hiệu ứng chọn lọc khỏ
 - **Trong đầu tư.** Người bán một tài sản (cổ phần công ty, căn nhà, xe cũ, doanh nghiệp tư nhân) gần như luôn biết nhiều hơn người mua. Câu hỏi cần đặt là "vì sao người này bán, và vì sao bán cho mình". Các tín hiệu tốn kém (kiểm toán độc lập, nhà đầu tư lớn cùng góp vốn, chủ doanh nghiệp giữ lại phần lớn cổ phần) đáng tin hơn lời hứa. Cũng cần nhớ bài học văn phòng đá cẩm thạch: tín hiệu có thể bị làm giả, và phí của khách hàng là thứ trả cho sảnh đá đó.
 - **Trong nghề nghiệp.** Bằng cấp vừa là kỹ năng vừa là tín hiệu; chứng chỉ, sản phẩm thực tế, người giới thiệu là những tín hiệu bổ sung. Bài học Krueger – Dale: với người đã đủ giỏi để đỗ trường top, tên trường quan trọng ít hơn động lực và năng lực của chính mình; nhưng với người thiếu mạng lưới quan hệ, tín hiệu từ trường danh tiếng có giá trị thật. Khi tuyển dụng, tránh phân biệt đối xử thống kê bằng cách thu thêm thông tin về cá nhân (bài kiểm tra kỹ năng, thử việc, kiểm tra tham chiếu) thay vì đoán theo nhóm.
 - **Khi đọc tin chính sách.** Ở Việt Nam, bảo hiểm y tế được thiết kế theo hướng bắt buộc toàn dân, đúng logic "nghĩa vụ cá nhân" của chương; những nhóm tham gia tự nguyện (như hộ gia đình tự đóng) là nơi dễ thấy lựa chọn bất lợi: người hay ốm có động cơ tham gia hơn người khoẻ. Khi đọc tin về quỹ bảo hiểm y tế bội chi, xét nghiệm "cho chắc", hay tranh luận về cách thanh toán cho bệnh viện (theo dịch vụ hay theo định suất), có thể dùng năm đặc điểm của y tế mà Wheelan liệt kê để nhận ra động cơ của từng bên. Với các chính sách về hồ sơ lý lịch khi tuyển dụng, câu hỏi đúng là bớt thông tin có làm người tuyển dụng quay sang đoán theo nhóm hay không.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 5 trên một trang: sáu nhánh lớn đi theo các mục 1–16 trong phần Nội dung chi tiết (lựa chọn bất lợi từ học bổng Hope tới thị trường quả chanh, phân biệt đối xử thống kê và kiểm tra tiền án, y tế khi bác sĩ biết nhiều hơn bệnh nhân, bảo hiểm khi người mua biết nhiều hơn, các giải pháp thị trường từ thương hiệu tới phát tín hiệu và câu hỏi Harvard, lập hồ sơ theo chủng tộc và lời kết), mỗi nhánh ghi cơ chế, ví dụ và con số then chốt của Wheelan; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 5: thông tin bất cân xứng có thể làm thị trường méo mó hoặc sụp đổ, và thị trường thường tự tạo cách giải quyết`"]
+  n1["`Mục 1–2, 5 — Lựa chọn bất lợi có thể làm thị trường sụp`"]
+  n0 --- n1
+  n2["`Học bổng Hope (Clinton, 1992): vay học phí, trả 1,5% thu nhập mỗi năm trong 15 năm`"]
+  n1 --- n2
+  n3["`Về lý thuyết tự cân đối: bác sĩ phẫu thuật não trả nhiều, người chữa bệnh nhiệt đới ở Togo trả ít`"]
+  n1 --- n3
+  n4["`Sinh viên biết thu nhập mình sẽ trên hay dưới trung bình, người cho vay thì không`"]
+  n1 --- n4
+  n5["`Người định làm Phố Wall tránh (1,5% của 5 triệu USD), người định làm giáo viên mẫu giáo tham gia`"]
+  n1 --- n5
+  n6["`Lựa chọn bất lợi: người có thông tin riêng tự chọn vào hay ra, nhóm tham gia lệch về phía xấu`"]
+  n1 --- n6
+  n7["`Thử nghiệm ở Yale lặng lẽ bị huỷ sau năm năm vì tiền trả nợ thấp, chi phí quản lý cao`"]
+  n1 --- n7
+  n8["`Nobel 2001 cho Akerlof, Spence, Stiglitz về quyết định khi thông tin không đầy đủ`"]
+  n1 --- n8
+  n9["`Thị trường quả chanh: chủ xe tốt không bán, người mua trả giá thấp, chợ chỉ còn xe xấu`"]
+  n1 --- n9
+  n10["`Thực tế chợ xe cũ vẫn chạy nhờ sàng lọc và phát tín hiệu`"]
+  n9 --- n10
+  n11["`Mục 3–4 — Phân biệt đối xử thống kê: thiếu thông tin cá nhân thì đoán theo nhóm`"]
+  n0 --- n11
+  n12["`Hãng luật chọn giữa nam và nữ cùng tốt nghiệp Luật Harvard, lựa chọn lý trí là người nam`"]
+  n11 --- n12
+  n13["`Lý do: phụ nữ vẫn gánh phần lớn việc nuôi con, có thể nghỉ thai sản rồi không quay lại`"]
+  n12 --- n13
+  n14["`Không công bằng và trái luật, nhưng logic của hãng hợp lý`"]
+  n12 --- n14
+  n15["`Becker: sở thích phân biệt đối xử là phi lý, chủ thuê tự hy sinh lợi nhuận`"]
+  n11 --- n15
+  n16["`Giải pháp: chế độ thai sản hào phóng nhưng phải hoàn lại nếu không quay lại làm`"]
+  n11 --- n16
+  n17["`Chủ thuê không tra được tiền án tránh nam da đen: 28% từng ngồi tù so với 4% nam da trắng`"]
+  n11 --- n17
+  n18["`Doanh nghiệp có kiểm tra tiền án tuyển nhiều lao động người Mỹ gốc Phi hơn, nhất là nam`"]
+  n11 --- n18
+  n19["`Che giấu tiền án có thể hại nhiều người hơn giúp, nới rộng khoảng cách chủng tộc`"]
+  n11 --- n19
+  n20["`Mục 6–7 — Y tế: bác sĩ biết nhiều hơn, người trả tiền không phải người quyết định`"]
+  n0 --- n20
+  n21["`Trả phí theo dịch vụ: bác sĩ có động cơ chỉ định thủ thuật đắt, bệnh nhân không có lý do phản đối`"]
+  n20 --- n21
+  n22["`Đau đầu được đề nghị chụp CT cho chắc thì đồng ý, bác sĩ còn sợ bị kiện nếu bỏ sót`"]
+  n21 --- n22
+  n23["`Ung thư tuyến tiền liệt: xạ trị proton khoảng 100.000 USD chưa chứng minh tốt hơn theo dõi chờ đợi (RAND)`"]
+  n20 --- n23
+  n24["`HMO trả bác sĩ khoản cố định mỗi bệnh nhân, động cơ đảo thành chữa quá ít`"]
+  n20 --- n24
+  n25["`Năm đặc điểm: bệnh nhân đòi nhiều, bác sĩ cấp nhiều, bảo hiểm trả ít, công nghệ đắt, khó biết điều trị đúng`"]
+  n20 --- n25
+  n26["`Mua tivi thì tự thấy chất lượng và tự trả tiền, phẫu thuật não thì không`"]
+  n25 --- n26
+  n27["`Cải cách: từ chối điều trị đắt không chứng minh tốt hơn, trả theo chất lượng và kết quả chứ không theo đầu vào`"]
+  n20 --- n27
+  n28["`Leonhardt lấy ung thư tuyến tiền liệt làm phép thử cho cải cách của Obama`"]
+  n27 --- n28
+  n29["`Mục 8–10 — Bảo hiểm: người mua biết về sức khoẻ mình nhiều hơn công ty`"]
+  n0 --- n29
+  n30["`Aetna: 20.000 đàn ông 50 tuổi, chi phí bình quân 1.250 USD, phí 1.300 USD, lãi 50 USD mỗi hợp đồng`"]
+  n29 --- n30
+  n31["`Người khoẻ nhất rút, phí phải lên 1.800 USD, người khoẻ tiếp theo rút, về lý thuyết thị trường sụp`"]
+  n30 --- n31
+  n32["`Bảo hiểm nhóm lớn như nhân viên General Motors không cho chọn vào ra nên tránh lựa chọn bất lợi`"]
+  n29 --- n32
+  n33["`Bảo hiểm cá nhân: ở mọi mức phí, kể cả 5.000 USD mỗi tháng, người cần nhất mua nhiều nhất`"]
+  n29 --- n33
+  n34["`Không được từ chối người ốm thì ai cũng đợi được báo mổ tim mới mua bảo hiểm`"]
+  n33 --- n34
+  n35["`Thu thập thông tin: lấy máu xét nghiệm HIV, hỏi lặn biển, đua xe, thuốc lá trước khi bán bảo hiểm nhân thọ`"]
+  n29 --- n35
+  n36["`Sàng lọc (Stiglitz): người tin mình khoẻ chọn khấu trừ cao phí thấp, người sẽ tốn nhiều chọn khấu trừ thấp phí cao`"]
+  n29 --- n36
+  n37["`Xét nghiệm gen: cho dùng thì người dễ ốm không bao giờ mua được, cấm thì lựa chọn bất lợi nặng`"]
+  n29 --- n37
+  n38["`The Economist: xét nghiệm gen có thể thành lý lẽ mạnh nhất cho y tế toàn dân do nhà nước chi trả`"]
+  n37 --- n38
+  n39["`Hứa bán giá phải chăng bất kể bệnh thì thời điểm tốt nhất để mua là trên xe cứu thương`"]
+  n29 --- n39
+  n40["`Cách sửa duy nhất: nghĩa vụ cá nhân bắt mọi người mua, lãi từ người khoẻ bù lỗ ở người rủi ro cao`"]
+  n29 --- n40
+  n41["`Massachusetts phạt qua tờ khai thuế, năm 2008 Hillary Clinton ủng hộ, Obama thì không`"]
+  n40 --- n41
+  n42["`Phần khó là câu hỏi giá trị: xã hội muốn chia sẻ chi phí y tế đến đâu và bằng cách nào`"]
+  n29 --- n42
+  n43["`Mục 11–14 — Thị trường tự giải quyết: thương hiệu, bên thứ ba, phát tín hiệu`"]
+  n0 --- n43
+  n44["`McDonald's bán burger, khoai tây chiên và quan trọng nhất là sự đoán trước được`"]
+  n43 --- n44
+  n45["`Trên xa lộ 80 gần Omaha, biển McDonald's báo quán sạch, rẻ, có nhà vệ sinh, Chuck's Big Burger thì không`"]
+  n44 --- n45
+  n46["`Thương hiệu tạo niềm tin khi giao dịch lớn với người lạ, như biển Từ năm 1927 của hàng thịt`"]
+  n43 --- n46
+  n47["`Thương hiệu mất được: Firestone mất phần lớn giá trị sau vụ lốp lỗi trên Ford Explorer`"]
+  n46 --- n47
+  n48["`Địa ngục hàng hoá thông thường: lon nước ngọt chi phí 10 cent bị ép từ 1 USD xuống 11 cent`"]
+  n43 --- n48
+  n49["`Thoát bằng khác biệt hoá: Coca-Cola là Coke, Nike là quần áo của Tiger Woods, cam Sunkist`"]
+  n48 --- n49
+  n50["`Bên thứ ba chứng nhận: Roger Ebert, Consumer Reports, Underwriters Laboratories, Morningstar`"]
+  n43 --- n50
+  n51["`Phát tín hiệu (Spence): sảnh đá cẩm thạch, tranh Ấn tượng thật, như bộ lông con công`"]
+  n43 --- n51
+  n52["`Văn phòng lạnh buốt ở châu Á dù ngoài trời trên 90 độ F là tín hiệu đủ giàu trả tiền điện`"]
+  n51 --- n52
+  n53["`Câu hỏi Harvard: trường thêm giá trị hay chỉ chọn người vốn sẽ thành công?`"]
+  n43 --- n53
+  n54["`Krueger và Dale: vào trường rất chọn lọc năm 1976 thu nhập 92.000 USD năm 1995, trường vừa phải ít hơn 22.000 USD`"]
+  n53 --- n54
+  n55["`Người đỗ cả hai loại trường có thu nhập gần như như nhau, trừ sinh viên gia đình thu nhập thấp`"]
+  n53 --- n55
+  n56["`Bằng Ivy League 150.000 USD vẫn là cú giơ ngón cái kiểu Ebert trên hồ sơ xin việc`"]
+  n53 --- n56
+  n57["`Bảng điểm trường Illinois: Hanushek nói học sinh ngoại ô giàu thi tốt dù ngồi trong tủ quần áo bốn năm`"]
+  n53 --- n57
+  n58["`Mục 15–16 — Lập hồ sơ theo chủng tộc và lời kết`"]
+  n0 --- n58
+  n59["`Hai câu hỏi: chủng tộc có mang thông tin về khả năng phạm tội không, và nếu có thì nên làm gì`"]
+  n58 --- n59
+  n60["`Ai cũng đánh giá qua bề ngoài khi chỉ kịp ngoái nhìn trong bãi đỗ xe tối`"]
+  n58 --- n60
+  n61["`Bà cụ đoán Wheelan mặc com-lê trên xe buýt đi xem Bulls: không công bằng nhưng đúng`"]
+  n60 --- n61
+  n62["`Có mang thông tin hay không là chuyện đánh lạc hướng, câu hỏi là có chấp nhận sách nhiễu người vô tội không`"]
+  n58 --- n62
+  n63["`Sách nhiễu hàng chục người vô tội để bắt một kẻ buôn ma tuý là không đáng, với khủng bố đánh đổi khó hơn`"]
+  n62 --- n63
+  n64["`Econ 101 giả định thông tin hoàn hảo, thế giới thật buộc ta quyết định khi thiếu thông tin`"]
+  n58 --- n64
+  n65["`Thông điệp xuyên suốt`"]
+  n0 --- n65
+  n66["`Một cơ chế duy nhất: bên có thông tin riêng tự chọn, bên kia điều chỉnh, giao dịch méo đi`"]
+  n65 --- n66
+  n67["`Chống phân biệt đối xử thống kê bằng thêm thông tin cá nhân đáng tin, không phải cấm thông tin`"]
+  n65 --- n67
+  n68["`Thị trường thường tự sửa, khi không đủ thì cần tham gia bắt buộc hoặc tài trợ bằng thuế`"]
+  n65 --- n68
+  n69["`Trong mọi giao dịch, hỏi ai biết gì mà mình không biết, rồi chọn công cụ thu hẹp khoảng cách`"]
+  n65 --- n69
+  class n0 root
+  class n1,n11,n20,n29,n43,n58,n65 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n12,n13,n14,n15,n16,n17,n18,n19,n21,n22,n23,n24,n25,n26,n27,n28,n30,n31,n32,n33,n34,n35,n36,n37,n38,n39,n40,n41,n42,n44,n45,n46,n47,n48,n49,n50,n51,n52,n53,n54,n55,n56,n57,n59,n60,n61,n62,n63,n64,n66,n67,n68,n69 leaf
+```
+
+## Nguồn
+
+Charles Wheelan, *Naked Economics: Undressing the Dismal Science*, ấn bản sửa đổi và cập nhật (W. W. Norton, 2010), Chương 5.
+
+## Tác giả
+
+Charles Wheelan (sinh 1966), nhà kinh tế và nhà báo Mỹ, từng là phóng viên của *The Economist* ở Trung Tây nước Mỹ, giảng dạy chính sách công tại Đại học Chicago và Dartmouth.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Các chương 1–2 dựng mô hình thị trường với người mua và người bán lý trí; các chương 3–4 bàn khi nào chính phủ nên và không nên can thiệp.
+
+Chương 5 nới một giả định ngầm của mô hình sách giáo khoa: mọi người đều có "thông tin hoàn hảo". Khi một bên biết nhiều hơn bên kia, thị trường có thể vận hành méo mó hoặc sụp hẳn, và cả thị trường lẫn chính phủ phải tìm cách xử lý.
+
+Chương này nối thẳng sang Chương 6 (vốn con người), vì bằng cấp vừa là kỹ năng vừa là tín hiệu, và chuẩn bị cho các chương về thị trường tài chính, nơi thông tin là hàng hoá chính.
+
+## Lưu ý
+
+- Sách được cập nhật sau khủng hoảng tài chính 2008, khi cuộc tranh luận cải cách y tế của chính quyền Obama đang diễn ra (2009); số liệu tính đến khoảng 2009.
+- Về sau, đạo luật cải cách y tế Mỹ năm 2010 đã kết hợp đúng thứ Wheelan mô tả: cấm từ chối người có bệnh sẵn, đi kèm nghĩa vụ mua bảo hiểm cá nhân; nghĩa vụ này về sau bị bỏ mức phạt, và cuộc tranh luận về lựa chọn bất lợi tiếp tục.
+- Mỹ cũng đã có luật cấm công ty bảo hiểm y tế dùng thông tin di truyền, nhưng bảo hiểm nhân thọ thì nhìn chung chưa bị cấm, nên "câu hỏi thông tin di truyền" Wheelan đặt ra vẫn còn mở.
+- Các chính sách che giấu tiền án khi tuyển dụng được nhiều địa phương ở Mỹ áp dụng sau 2010, và một số nghiên cứu về sau cho kết quả cùng chiều với cảnh báo của Wheelan.
+- Nhiều ví dụ nay đã cũ (Roger Ebert, máy xử lý văn bản WANG, Firestone và Ford Explorer), nhưng cơ chế vẫn nguyên giá trị, và các hệ thống đánh giá, xếp hạng trực tuyến ngày nay là phiên bản mới của "bên thứ ba chứng nhận".
+- Chương không có chú thích chân trang dấu `*`.
+- Các câu trích là bản dịch của người tổng hợp.

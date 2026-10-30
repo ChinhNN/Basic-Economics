@@ -1,11 +1,18 @@
 # Chương 4 — Chính phủ và nền kinh tế II (Government and the Economy II: The army was lucky to get that screwdriver for $500)
 
-**Nguồn:** Charles Wheelan, *Naked Economics: Undressing the Dismal Science*, ấn bản sửa đổi và cập nhật (W. W. Norton, 2010), Chương 4.
-**Tác giả:** Charles Wheelan (sinh 1966), nhà kinh tế và nhà báo Mỹ, từng là phóng viên của *The Economist* ở Trung Tây nước Mỹ, giảng dạy chính sách công tại Đại học Chicago và Dartmouth.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 3 (Government and the Economy) trình bày mặt tích cực của chính phủ: xử lý ngoại ứng, cung cấp hàng hoá công, bảo vệ quyền tài sản, dựng khung pháp lý cho thị trường. Chương 4 là nửa còn lại của cùng một câu hỏi: chính phủ làm hỏng nền kinh tế theo những cách nào. Wheelan đi qua bốn kênh gây hại (độc quyền nhà nước, phân bổ nguồn lực theo chính trị, điều tiết, thuế), rồi khép cả hai chương bằng một khung ba ý để trả lời câu hỏi "chính phủ Mỹ quá to, quá nhỏ hay vừa phải". Chương 5 chuyển sang một chủ đề khác: kinh tế học thông tin, tức điều gì xảy ra khi người mua và người bán không biết như nhau.
-**Ý chính:** Wheelan muốn người đọc hiểu rằng **chính phủ giỏi một số việc và tệ một cách bi thảm ở những việc khác, và cái khôn là phân biệt được hai loại đó**. Ông dùng phòng cấp bằng lái xe (DMV) và bưu điện Mỹ để cho thấy độc quyền nhà nước hành xử đúng như động cơ khuyến khích của nó; dùng ví dụ máy gia tốc hạt bị đặt ở Texas "vì George Bush là tổng thống" để cho thấy tiền công chạy theo chính trị chứ không theo lợi suất; dùng thuốc trừ sâu DDT, hạn ngạch cá vược sọc và luật cấp phép thợ làm móng ở Illinois để cho thấy mọi quy định đều có cái giá, và nhiều quy định được chính các doanh nghiệp vận động để kìm đối thủ; dùng ví dụ số (thuế suất 50% xuống 40%) để bác bỏ ý cho rằng giảm thuế tự bù được số thu bị mất. Kết luận: chính phủ giống con dao mổ của bác sĩ phẫu thuật, dùng khéo thì giúp cơ thể tự lành, dùng sai hoặc quá tay thì gây hại lớn.
+## Ý chính
 
-> **Lưu ý:** Sách được cập nhật sau khủng hoảng tài chính 2008, số liệu tính đến khoảng 2009 (ví dụ tỷ lệ nghèo ở Mỹ năm 2009 trên 13%). Phụ đề "Quân đội gặp may khi mua được cái tuốc nơ vít đó với giá 500 USD" là câu mỉa mai, gợi đến các vụ mua sắm quân sự giá cắt cổ mà báo chí Mỹ hay nhắc từ thập niên 1980; trong thân chương Wheelan không kể lại vụ nào cụ thể. Một số ví dụ nay đã cũ: quỹ đầu tư mạo hiểm của CIA mà Wheelan gọi là "In-Q-It" về sau hoạt động dưới tên In-Q-Tel; máy gia tốc hạt ở Texas mà ông kể là dự án siêu máy gia tốc bị Quốc hội Mỹ huỷ đầu thập niên 1990; nghiên cứu so sánh thủ tục mở doanh nghiệp ở 75 nước là tiền thân của loại xếp hạng "môi trường kinh doanh" quốc tế, và Việt Nam nằm trong nhóm bị nêu tên lúc đó, trước khi tiến hành nhiều đợt cải cách đăng ký kinh doanh. Nhận định của Wheelan rằng giảm thuế ở Mỹ không tự bù được số thu tiếp tục được các đợt giảm thuế lớn về sau xác nhận về định tính. Các câu trích là bản dịch của người tổng hợp.
+Wheelan muốn người đọc hiểu rằng **chính phủ giỏi một số việc và tệ một cách bi thảm ở những việc khác, và cái khôn là phân biệt được hai loại đó**.
+
+Ông dùng phòng cấp bằng lái xe (DMV) và bưu điện Mỹ để cho thấy độc quyền nhà nước hành xử đúng như động cơ khuyến khích của nó.
+
+Wheelan dùng ví dụ máy gia tốc hạt bị đặt ở Texas "vì George Bush là tổng thống" để cho thấy tiền công chạy theo chính trị chứ không theo lợi suất.
+
+Ông dùng thuốc trừ sâu DDT, hạn ngạch cá vược sọc và luật cấp phép thợ làm móng ở Illinois để cho thấy mọi quy định đều có cái giá, và nhiều quy định được chính các doanh nghiệp vận động để kìm đối thủ.
+
+Ông dùng ví dụ số (thuế suất 50% xuống 40%) để bác bỏ ý cho rằng giảm thuế tự bù được số thu bị mất.
+
+Kết luận: chính phủ giống con dao mổ của bác sĩ phẫu thuật, dùng khéo thì giúp cơ thể tự lành, dùng sai hoặc quá tay thì gây hại lớn.
 
 ## Sơ đồ
 
@@ -519,9 +526,13 @@ Luận điểm của Wheelan là cơ quan nhà nước không "kém hiệu quả
 
 Chuyện của chính Wheelan cho thấy cùng một cơ chế từ hai phía. Một tấm séc từ công ty quỹ Fidelity không đến tay ông. Fidelity, vốn sợ mất khách sang Vanguard hay Putnam, huỷ séc cũ và phát séc mới trong vài giây dù lỗi không ở họ. Thủ phạm là bưu điện, nhưng Wheelan không có cách nào gây sức ép: bưu cục không nhận khiếu nại qua điện thoại và người đưa thư vẫn thường giao nhầm nhà. Bưu điện Mỹ độc quyền thư hạng nhất, và chất lượng phục vụ phản ánh đúng điều đó.
 
-**Bài học thứ nhất:** nhà nước chỉ nên là người cung cấp duy nhất khi có lý do thuyết phục rằng tư nhân sẽ thất bại. Cấp bằng lái có lẽ thuộc loại này, vì công ty tư nhân có thể hút khách bằng cách dễ dãi cấp bằng cho người lái không đủ chuẩn. Chuyển thư thì không còn thuộc loại này. Một thế kỷ trước, nhà nước có lý do: tem đồng giá ngầm trợ cấp cho vùng xa, và năm 1820 khó có công ty tư nhân nào đủ sức xây mạng lưới toàn quốc (độc quyền tư nhân cũng không tốt hơn, có khi tệ hơn, độc quyền nhà nước). Nay FedEx và UPS đã chứng minh tư nhân xây được hạ tầng giao hàng toàn cầu. Chuyển thư dở gây thiệt hại nhỏ, nhưng ở nhiều nước nhà nước còn điều hành thép, than, ngân hàng, khách sạn, hãng bay và tước của người dân mọi lợi ích của cạnh tranh. Wheelan gợi thêm rằng một trong những độc quyền nhà nước lớn nhất còn lại ở Mỹ là giáo dục công.
+**Bài học thứ nhất:** nhà nước chỉ nên là người cung cấp duy nhất khi có lý do thuyết phục rằng tư nhân sẽ thất bại. Cấp bằng lái có lẽ thuộc loại này, vì công ty tư nhân có thể hút khách bằng cách dễ dãi cấp bằng cho người lái không đủ chuẩn.
 
-**Bài học thứ hai:** nhà nước chịu trách nhiệm về một việc không có nghĩa là phải tự làm việc đó. Nhà nước có thể lập kế hoạch và trả tiền cho đường cao tốc rồi mời thầu; nếu đấu thầu trung thực và cạnh tranh (hai chữ "nếu" không nhỏ), công ty tốt nhất với giá thấp nhất sẽ làm. Nhiều cử tri Mỹ không thấy sự phân biệt này: Obama kể một lá thư phản đối "y tế do nhà nước điều hành" nhưng dặn "đừng đụng vào Medicare của tôi", trong khi Medicare chính là chương trình nhà nước trả tiền cho bác sĩ tư khám người trên 65 tuổi. CIA cũng áp dụng nguyên tắc này: vì nhân viên CIA không có động cơ làm giàu như người khởi nghiệp ở Thung lũng Silicon, CIA dùng tiền ngân sách lập quỹ đầu tư mạo hiểm In-Q-It. Quỹ rót vốn vào công ty công nghệ nhỏ; công ty và quỹ hưởng lợi nếu sản phẩm bán được trên thị trường (ví dụ công nghệ mã hoá cho thương mại điện tử), còn CIA được dùng công nghệ đó cho tình báo, nhanh hơn quy trình mua sắm truyền thống.
+Chuyển thư thì không còn thuộc loại này. Một thế kỷ trước, nhà nước có lý do: tem đồng giá ngầm trợ cấp cho vùng xa, và năm 1820 khó có công ty tư nhân nào đủ sức xây mạng lưới toàn quốc (độc quyền tư nhân cũng không tốt hơn, có khi tệ hơn, độc quyền nhà nước). Nay FedEx và UPS đã chứng minh tư nhân xây được hạ tầng giao hàng toàn cầu. Chuyển thư dở gây thiệt hại nhỏ, nhưng ở nhiều nước nhà nước còn điều hành thép, than, ngân hàng, khách sạn, hãng bay và tước của người dân mọi lợi ích của cạnh tranh. Wheelan gợi thêm rằng một trong những độc quyền nhà nước lớn nhất còn lại ở Mỹ là giáo dục công.
+
+**Bài học thứ hai:** nhà nước chịu trách nhiệm về một việc không có nghĩa là phải tự làm việc đó. Nhà nước có thể lập kế hoạch và trả tiền cho đường cao tốc rồi mời thầu; nếu đấu thầu trung thực và cạnh tranh (hai chữ "nếu" không nhỏ), công ty tốt nhất với giá thấp nhất sẽ làm. Nhiều cử tri Mỹ không thấy sự phân biệt này: Obama kể một lá thư phản đối "y tế do nhà nước điều hành" nhưng dặn "đừng đụng vào Medicare của tôi", trong khi Medicare chính là chương trình nhà nước trả tiền cho bác sĩ tư khám người trên 65 tuổi.
+
+CIA cũng áp dụng nguyên tắc này: vì nhân viên CIA không có động cơ làm giàu như người khởi nghiệp ở Thung lũng Silicon, CIA dùng tiền ngân sách lập quỹ đầu tư mạo hiểm In-Q-It. Quỹ rót vốn vào công ty công nghệ nhỏ; công ty và quỹ hưởng lợi nếu sản phẩm bán được trên thị trường (ví dụ công nghệ mã hoá cho thương mại điện tử), còn CIA được dùng công nghệ đó cho tình báo, nhanh hơn quy trình mua sắm truyền thống.
 
 ### 3. Nguồn lực chạy theo chính trị
 
@@ -529,7 +540,9 @@ Thị trường quyết định nguồn lực đi đâu theo cái người ta s�
 
 Khi nhà nước nắm một phần nền kinh tế, nguồn lực do nhà độc tài, quan chức hay chính khách phân bổ. Liên Xô sản xuất hàng tấn thép và là nước đầu tiên đưa tên lửa lên quỹ đạo, nhưng dân thường không mua được xà phòng hay thuốc lá tử tế. Có quyết định mang tính bi kịch: nhà kế hoạch không coi biện pháp tránh thai là ưu tiên, dù nước làm được tên lửa đạn đạo thừa khả năng làm bao cao su, nên phá thai thành cách kế hoạch hoá gia đình duy nhất, khoảng hai ca phá thai cho mỗi ca sinh sống. Sau khi Liên Xô sụp đổ và thuốc tránh thai phương Tây phổ biến, tỷ lệ phá thai giảm một nửa.
 
-Ở nước dân chủ, chính trị cũng đưa nguồn lực tới chỗ lạ. Đầu thập niên 1990, dự án máy gia tốc hạt tốc độ cao được đặt ở Texas thay vì bắc Illinois, nơi đã có sẵn máy gia tốc và phòng thí nghiệm liên bang; một chuyên gia giải thích ngắn gọn với Wheelan rằng George H. W. Bush là tổng thống. Chính phủ chi khoảng 1 tỷ USD rồi bỏ dự án. Wheelan tóm lại: tư nhân đặt nguồn lực nơi có lợi suất cao nhất, nhà nước đặt nguồn lực nơi quá trình chính trị đẩy tới. Điều này không riêng phe nào: *Wall Street Journal* viết về các ngành từng ủng hộ Bush đòi "lợi suất trên khoản đầu tư", còn *New York Times* viết về Jamie Dimon (JPMorgan Chase) trở thành chủ ngân hàng được chính quyền Obama ưa nhất, nhờ cái mà ông gọi là "mảng kinh doanh thứ bảy" của ngân hàng: quan hệ với chính phủ.
+Ở nước dân chủ, chính trị cũng đưa nguồn lực tới chỗ lạ. Đầu thập niên 1990, dự án máy gia tốc hạt tốc độ cao được đặt ở Texas thay vì bắc Illinois, nơi đã có sẵn máy gia tốc và phòng thí nghiệm liên bang; một chuyên gia giải thích ngắn gọn với Wheelan rằng George H. W. Bush là tổng thống. Chính phủ chi khoảng 1 tỷ USD rồi bỏ dự án.
+
+Wheelan tóm lại: tư nhân đặt nguồn lực nơi có lợi suất cao nhất, nhà nước đặt nguồn lực nơi quá trình chính trị đẩy tới. Điều này không riêng phe nào: *Wall Street Journal* viết về các ngành từng ủng hộ Bush đòi "lợi suất trên khoản đầu tư", còn *New York Times* viết về Jamie Dimon (JPMorgan Chase) trở thành chủ ngân hàng được chính quyền Obama ưa nhất, nhờ cái mà ông gọi là "mảng kinh doanh thứ bảy" của ngân hàng: quan hệ với chính phủ.
 
 Wheelan không coi vận động hành lang là sai về nguyên tắc; ai cũng có quyền tìm ảnh hưởng, và với những việc chỉ nhà nước làm được như đặt căn cứ quân sự, quyết định theo Uỷ ban Quân vụ Thượng viện là điều khó tránh. Nhưng nền kinh tế càng ít bị chính trị quyết định càng tốt. Ở Trung Quốc cũng như Indonesia, "chủ nghĩa tư bản thân hữu" (crony capitalism) khiến dự án có lãi không được vay, còn dự án của người thân tổng thống được rót tiền công. Người dân thiệt hai lần: tiền thuế mất khi các dự án đó phá sản hoặc khi phải cứu cả hệ thống ngân hàng đầy nợ xấu; và tín dụng có hạn bị rút khỏi nhà máy, sinh viên, doanh nhân xứng đáng, nên nền kinh tế chạy dưới tiềm năng.
 
@@ -539,7 +552,11 @@ Hình thức can thiệp phổ biến hơn sở hữu nhà nước là điều t
 
 Milton Friedman, trong *Capitalism and Freedom*, kể một nhà kinh tế đề nghị nới điều kiện vào nghề luật để dịch vụ pháp lý đơn giản (di chúc, thủ tục mua nhà) rẻ hơn, và so sánh: không thể bắt mọi ô tô phải là Cadillac. Một luật sư đáp rằng đất nước chỉ chấp nhận "luật sư Cadillac". Wheelan nhận xét yêu cầu đó bỏ qua đánh đổi: trong thế giới chỉ có Cadillac, phần lớn người dân không có xe nào để đi; nhiều khi một chiếc Toyota Corolla là đủ.
 
-Hai ví dụ quốc tế cho thấy đánh đổi rõ hơn. Năm 2000, Toà án Tối cao Ấn Độ buộc Delhi đóng khoảng 90.000 xưởng nhỏ gây ô nhiễm; hàng nghìn người xuống đường bạo loạn để bảo vệ chính các xưởng ấy, vì chúng thuê khoảng một triệu người. *New York Times* gọi đó là lựa chọn tàn nhẫn giữa việc làm và môi trường an toàn hơn. Với DDT, một chất ô nhiễm hữu cơ khó phân huỷ tích tụ dọc chuỗi thức ăn, *The Economist* lập luận không nên cấm toàn cầu. Sốt rét làm khoảng 300 triệu người mắc và hơn một triệu người chết mỗi năm; nhà nghiên cứu Tanzania Wen Kilama so sánh con số đó với bảy chiếc Boeing 747 chở đầy trẻ em rơi mỗi ngày. Jeffrey Sachs ước tính châu Phi hạ Sahara sẽ giàu hơn gần một phần ba nếu sốt rét bị xoá năm 1965. DDT là cách diệt muỗi rẻ nhất; phương án tốt nhì vừa kém hiệu quả hơn vừa đắt gấp bốn. Vì vậy cả các tổ chức môi trường như Sierra Club, Endangered Wildlife Trust, Environmental Defense Fund và Tổ chức Y tế Thế giới đều chấp nhận dùng DDT chống sốt rét ở nước nghèo, và năm 2000 hội nghị Liên Hợp Quốc của 120 nước ở Nam Phi đã miễn trừ DDT khi cấm các chất ô nhiễm loại này.
+Hai ví dụ quốc tế cho thấy đánh đổi rõ hơn. Năm 2000, Toà án Tối cao Ấn Độ buộc Delhi đóng khoảng 90.000 xưởng nhỏ gây ô nhiễm; hàng nghìn người xuống đường bạo loạn để bảo vệ chính các xưởng ấy, vì chúng thuê khoảng một triệu người. *New York Times* gọi đó là lựa chọn tàn nhẫn giữa việc làm và môi trường an toàn hơn.
+
+Với DDT, một chất ô nhiễm hữu cơ khó phân huỷ tích tụ dọc chuỗi thức ăn, *The Economist* lập luận không nên cấm toàn cầu. Sốt rét làm khoảng 300 triệu người mắc và hơn một triệu người chết mỗi năm; nhà nghiên cứu Tanzania Wen Kilama so sánh con số đó với bảy chiếc Boeing 747 chở đầy trẻ em rơi mỗi ngày. Jeffrey Sachs ước tính châu Phi hạ Sahara sẽ giàu hơn gần một phần ba nếu sốt rét bị xoá năm 1965.
+
+DDT là cách diệt muỗi rẻ nhất; phương án tốt nhì vừa kém hiệu quả hơn vừa đắt gấp bốn. Vì vậy cả các tổ chức môi trường như Sierra Club, Endangered Wildlife Trust, Environmental Defense Fund và Tổ chức Y tế Thế giới đều chấp nhận dùng DDT chống sốt rét ở nước nghèo, và năm 2000 hội nghị Liên Hợp Quốc của 120 nước ở Nam Phi đã miễn trừ DDT khi cấm các chất ô nhiễm loại này.
 
 Câu hỏi đáng hỏi thường không phải "có nên điều tiết không" mà là "điều tiết thế nào". Gary Becker (Nobel, Đại học Chicago) đồng ý cần giới hạn sản lượng cá vược sọc (striped bass) ở Cape Cod, nhưng phê phán cách giới hạn bằng một hạn ngạch tổng chung cho mọi tàu. Cách đó khiến tàu nào cũng đua đánh thật nhiều ngay đầu mùa: cá tràn chợ làm giá thấp, rồi hạn ngạch hết sớm và người tiêu dùng không còn cá. Vài năm sau, Massachusetts chuyển sang chia hạn ngạch cho từng ngư dân, giữ nguyên tổng sản lượng nhưng mỗi người tự chọn lúc đánh.
 
@@ -556,7 +573,9 @@ Theo Wheelan, tư duy như nhà kinh tế nghĩa là nhận ra đánh đổi v�
 
 Trường hợp xấu nhất là doanh nghiệp dùng quy định để trói chân đối thủ mà họ không thắng được trên thị trường. George Stigler (Đại học Chicago) nhận giải Nobel 1982 một phần nhờ chứng minh rằng doanh nghiệp và hiệp hội nghề nghiệp thường chủ động tìm đến điều tiết vì lợi ích của mình.
 
-Ví dụ ở Illinois: người vận động siết cấp phép thợ làm móng không phải khách hàng bị làm hỏng móng, mà là Hiệp hội Thẩm mỹ Illinois, đại diện các salon lâu năm. Cuối thập niên 1990, số tiệm làm móng (phần lớn của người nhập cư) tăng 23% trong một năm, với giá làm móng tay 6 USD so với 25 USD ở salon đủ dịch vụ. Điều kiện cấp phép chặt hơn, vốn hầu như luôn miễn cho người đang hành nghề, sẽ làm việc mở tiệm mới đắt hơn và giảm cạnh tranh. Friedman nêu một trường hợp lớn hơn ở thập niên 1930: khi người có chuyên môn chạy khỏi Đức và Áo sau năm 1933, các nghề ở Mỹ dựng thêm rào cản như yêu cầu "công dân tốt" và thi ngôn ngữ. Số bác sĩ đào tạo ở nước ngoài được cấp phép trong năm năm sau 1933 bằng đúng năm năm trước đó, dù nguồn bác sĩ di cư tăng vọt. Kết quả đó khó giải thích nếu giấy phép chỉ để loại bác sĩ kém, nhưng dễ giải thích nếu giấy phép dùng để định mức người mới vào nghề.
+Ví dụ ở Illinois: người vận động siết cấp phép thợ làm móng không phải khách hàng bị làm hỏng móng, mà là Hiệp hội Thẩm mỹ Illinois, đại diện các salon lâu năm. Cuối thập niên 1990, số tiệm làm móng (phần lớn của người nhập cư) tăng 23% trong một năm, với giá làm móng tay 6 USD so với 25 USD ở salon đủ dịch vụ. Điều kiện cấp phép chặt hơn, vốn hầu như luôn miễn cho người đang hành nghề, sẽ làm việc mở tiệm mới đắt hơn và giảm cạnh tranh.
+
+Friedman nêu một trường hợp lớn hơn ở thập niên 1930: khi người có chuyên môn chạy khỏi Đức và Áo sau năm 1933, các nghề ở Mỹ dựng thêm rào cản như yêu cầu "công dân tốt" và thi ngôn ngữ. Số bác sĩ đào tạo ở nước ngoài được cấp phép trong năm năm sau 1933 bằng đúng năm năm trước đó, dù nguồn bác sĩ di cư tăng vọt. Kết quả đó khó giải thích nếu giấy phép chỉ để loại bác sĩ kém, nhưng dễ giải thích nếu giấy phép dùng để định mức người mới vào nghề.
 
 Theo chuẩn thế giới, Mỹ được điều tiết tương đối nhẹ. Nghịch lý ở nhiều nước đang phát triển là nhà nước không làm nổi việc cơ bản như bảo vệ quyền tài sản và thực thi pháp luật, nhưng lại chồng chất giấy phép. Các nhà kinh tế hỏi: quy định đó là "bàn tay giúp đỡ" (helping hand) cho xã hội, hay "bàn tay vơ vét" (grabbing hand) giúp quan chức có thêm dịp đòi hối lộ? Một nhóm nghiên cứu so sánh thủ tục mở doanh nghiệp ở 75 nước:
 
@@ -576,7 +595,9 @@ Ngay cả khi chính phủ chỉ làm đúng những việc nên làm, tiền ch
 
 Nguồn thứ nhất: thuế lấy bớt sức mua của người nộp. Khi chính phủ chi hàng tỷ USD mua máy bay chiến đấu, việc làm ở nhà máy quốc phòng thì dễ thấy, còn việc làm mất đi vì người dân mua ít tivi, đi nghỉ ít, cho từ thiện ít thì khó thấy. Vì vậy chi tiêu công có thể chỉ dịch chuyển việc làm, hoặc tính ròng còn làm mất việc làm. (Lập luận của Keynes về kích thích lúc suy thoái được để lại cho các chương kinh tế vĩ mô.)
 
-Nguồn thứ hai, tinh tế hơn: thuế làm người ta đổi hành vi theo hướng làm nền kinh tế tệ đi mà nhà nước không thu thêm được gì. Thuế thu nhập liên bang và bang cộng lại có thể tới 50 cent trên mỗi đô la kiếm thêm; người bỏ việc vì thuế suất cận biên 50% thì mất thu nhập, còn nhà nước không thu được đồng nào. Đó là "tổn thất vô ích" (deadweight loss): thiệt hại cho một bên mà không bên nào được lợi. Wheelan minh hoạ bằng tên trộm lấy cả tiền mặt và album ảnh gia đình. Tiền mặt chỉ là chuyển giao (bạn mất bao nhiêu thì tên trộm được bấy nhiêu), còn album ảnh bị vứt vào thùng rác là tổn thất vô ích thuần tuý. Mọi khoản thuế làm nản hoạt động sản xuất đều gây một phần tổn thất loại này.
+Nguồn thứ hai, tinh tế hơn: thuế làm người ta đổi hành vi theo hướng làm nền kinh tế tệ đi mà nhà nước không thu thêm được gì. Thuế thu nhập liên bang và bang cộng lại có thể tới 50 cent trên mỗi đô la kiếm thêm; người bỏ việc vì thuế suất cận biên 50% thì mất thu nhập, còn nhà nước không thu được đồng nào. Đó là "tổn thất vô ích" (deadweight loss): thiệt hại cho một bên mà không bên nào được lợi.
+
+Wheelan minh hoạ bằng tên trộm lấy cả tiền mặt và album ảnh gia đình. Tiền mặt chỉ là chuyển giao (bạn mất bao nhiêu thì tên trộm được bấy nhiêu), còn album ảnh bị vứt vào thùng rác là tổn thất vô ích thuần tuý. Mọi khoản thuế làm nản hoạt động sản xuất đều gây một phần tổn thất loại này.
 
 Thuế cũng làm nản đầu tư, vì quyết định dựa trên lợi suất sau thuế: một dự án rủi ro đáng làm với lợi suất kỳ vọng 100 triệu USD có thể bị bỏ nếu thuế làm nó chỉ còn 60 triệu; một bằng sau đại học tăng thu nhập 10% có thể không đáng học nếu sau thuế chỉ tăng 5%. (Wheelan kể em trai ông, lần đầu nhận lương, ngỡ ngàng hỏi FICA là ai; FICA là thuế an sinh xã hội trừ thẳng vào lương.)
 
@@ -604,23 +625,35 @@ Vì vậy, ở mức thuế của Mỹ, Wheelan gọi ý "giảm thuế mà vẫ
 
 Nhà nước mất thu trên hoạt động kinh tế sẵn có nhưng được bù một phần từ hoạt động mới; tăng thuế thì ngược lại, số thu tăng thêm bị bù trừ một phần vì chiếc bánh co lại. Chuyên gia thuế thường tính các phản ứng này khi dự báo. Kết luận của Wheelan: trừ hoàn cảnh rất bất thường, không có bữa trưa miễn phí. Thuế thấp hơn nghĩa là ít tiền hơn cho quốc phòng, giáo dục, cân bằng ngân sách. Cuộc tranh luận trung thực là chọn giữa trả nhiều thuế để nhận nhiều dịch vụ công hay trả ít và nhận ít; việc bóp méo kinh tế học trọng cung đã thay nó bằng lời hứa trả ít mà được nhiều.
 
-Dù vậy, phe chính phủ nhỏ đúng ở một điểm: thuế thấp hơn có thể tăng đầu tư và tăng trưởng dài hạn, và tăng trưởng quan trọng nhất với người có phần nhỏ nhất. Khi kinh tế suy thoái, người mất việc là công nhân thép và người dọn bàn, không phải bác sĩ phẫu thuật hay giáo sư. Năm 2009, giữa suy thoái do khủng hoảng tài chính, tỷ lệ nghèo ở Mỹ vượt 13%, cao nhất hơn một thập kỷ. Ngược lại, Rebecca Blank (Đại học Michigan, từng ở Hội đồng Cố vấn Kinh tế thời Clinton) rút ra từ thời bùng nổ thập niên 1990 rằng tăng trưởng đều, nhiều việc làm và lương tăng giúp người nghèo không kém các chương trình chi tiêu nhắm vào họ; khi thiếu việc làm, chống nghèo chỉ bằng chương trình nhà nước tốn kém hơn nhiều, cả về ngân sách lẫn chính trị.
+Dù vậy, phe chính phủ nhỏ đúng ở một điểm: thuế thấp hơn có thể tăng đầu tư và tăng trưởng dài hạn, và tăng trưởng quan trọng nhất với người có phần nhỏ nhất. Khi kinh tế suy thoái, người mất việc là công nhân thép và người dọn bàn, không phải bác sĩ phẫu thuật hay giáo sư. Năm 2009, giữa suy thoái do khủng hoảng tài chính, tỷ lệ nghèo ở Mỹ vượt 13%, cao nhất hơn một thập kỷ.
+
+Ngược lại, Rebecca Blank (Đại học Michigan, từng ở Hội đồng Cố vấn Kinh tế thời Clinton) rút ra từ thời bùng nổ thập niên 1990 rằng tăng trưởng đều, nhiều việc làm và lương tăng giúp người nghèo không kém các chương trình chi tiêu nhắm vào họ; khi thiếu việc làm, chống nghèo chỉ bằng chương trình nhà nước tốn kém hơn nhiều, cả về ngân sách lẫn chính trị.
 
 ### 8. Câu hỏi "Goldilocks" và khung ba ý
 
 Câu hỏi chính phủ Mỹ đang quá lớn, quá nhỏ hay vừa phải (câu hỏi "Goldilocks", theo tên cô bé trong truyện cổ tích chọn bát cháo không quá nóng cũng không quá nguội) không có một đáp án: câu trả lời tuỳ người được hỏi, vì có những nhà kinh tế nghiêm túc ở mọi phía.
 
-Wheelan tách hai loại bất đồng. Loại thứ nhất là bất đồng về sự kiện, có thể giải quyết dần bằng dữ liệu. Ví dụ lương tối thiểu: lý thuyết nói tăng lương tối thiểu giúp người còn việc nhưng làm một số lao động lương thấp mất việc; các nghiên cứu còn tranh cãi về số việc làm bị mất, và đó là con số quyết định chính sách này có đáng làm hay không. (Một nhà phân tích nói với Wheelan: nói dối bằng thống kê đã dễ, nói dối khi không có thống kê còn dễ hơn.) Loại thứ hai, phổ biến hơn, là bất đồng về giá trị: kinh tế học sắp xếp được các lựa chọn, còn chọn cái nào là chuyện đạo đức và chính trị. Wheelan so với bệnh nhân ung thư cân nhắc hoá trị: bác sĩ giải thích được mặt y khoa, nhưng chính bệnh nhân quyết định dựa trên những điều ngoài y học, như coi trọng chất lượng sống hay số năm sống hơn. Với tinh thần "tư vấn tốt cho người ra quyết định" đó, ông đưa ra khung ba ý.
+Wheelan tách hai loại bất đồng. Loại thứ nhất là bất đồng về sự kiện, có thể giải quyết dần bằng dữ liệu. Ví dụ lương tối thiểu: lý thuyết nói tăng lương tối thiểu giúp người còn việc nhưng làm một số lao động lương thấp mất việc; các nghiên cứu còn tranh cãi về số việc làm bị mất, và đó là con số quyết định chính sách này có đáng làm hay không. (Một nhà phân tích nói với Wheelan: nói dối bằng thống kê đã dễ, nói dối khi không có thống kê còn dễ hơn.)
 
-**Ý thứ nhất: chính phủ có thể nâng năng lực sản xuất của nền kinh tế.** Chính phủ dựng khung pháp lý cho thị trường, cung cấp hàng hoá công, xử lý ngoại ứng, nên ý "chính phủ càng nhỏ càng tốt" là sai. Nhưng chính phủ có thể chi tiêu tốt về lý thuyết không có nghĩa Quốc hội sẽ chi tiêu như thế. Năm 1990 Quốc hội cấp 500.000 USD cho một bảo tàng Đức–Nga ở Strasburg, Bắc Dakota (quê ca sĩ Lawrence Welk), rồi rút lại năm 1991 vì dư luận phản đối. Khoản 100 triệu USD tìm sự sống ngoài Trái Đất đúng là hàng hoá công, nhưng nhiều người Mỹ có lẽ muốn tiền mình tiêu chỗ khác. Gần như mọi nhà kinh tế đồng ý cải thiện giáo dục phổ thông có lợi lớn, nhưng lại chia rẽ về việc rót thêm tiền vào hệ thống hiện có có cải thiện kết quả học sinh hay không.
+Loại thứ hai, phổ biến hơn, là bất đồng về giá trị: kinh tế học sắp xếp được các lựa chọn, còn chọn cái nào là chuyện đạo đức và chính trị. Wheelan so với bệnh nhân ung thư cân nhắc hoá trị: bác sĩ giải thích được mặt y khoa, nhưng chính bệnh nhân quyết định dựa trên những điều ngoài y học, như coi trọng chất lượng sống hay số năm sống hơn. Với tinh thần "tư vấn tốt cho người ra quyết định" đó, ông đưa ra khung ba ý.
 
-**Ý thứ hai: có việc làm chiếc bánh nhỏ lại nhưng vẫn đáng làm.** Chuyển 1 USD cho một gia đình nghèo có thể tốn của nền kinh tế 1,25 USD khi tính tổn thất vô ích của thuế. Mức thuế cao cần cho lưới an sinh mạnh đè nặng lên người có tài sản sản xuất, kể cả vốn con người; vì vậy Pháp là nơi tốt để sinh ra trong gia đình nghèo nhưng là nơi tệ để làm doanh nhân Internet hay lao động công nghệ cao. Mỹ có thu nhập đầu người cao hơn Pháp nhưng tỷ lệ trẻ em nghèo cũng cao hơn. Người hiểu lý có thể bất đồng vì họ đổi của cải lấy bình đẳng ở tỷ lệ khác nhau, và vì họ khác nhau về cách giúp người nghèo hiệu quả hơn: chương trình tốn kém như y tế toàn dân, hay thuế thấp để tăng trưởng và kéo người thu nhập thấp vào việc làm lương cao hơn.
+**Ý thứ nhất: chính phủ có thể nâng năng lực sản xuất của nền kinh tế.** Chính phủ dựng khung pháp lý cho thị trường, cung cấp hàng hoá công, xử lý ngoại ứng, nên ý "chính phủ càng nhỏ càng tốt" là sai.
+
+Nhưng chính phủ có thể chi tiêu tốt về lý thuyết không có nghĩa Quốc hội sẽ chi tiêu như thế. Năm 1990 Quốc hội cấp 500.000 USD cho một bảo tàng Đức–Nga ở Strasburg, Bắc Dakota (quê ca sĩ Lawrence Welk), rồi rút lại năm 1991 vì dư luận phản đối. Khoản 100 triệu USD tìm sự sống ngoài Trái Đất đúng là hàng hoá công, nhưng nhiều người Mỹ có lẽ muốn tiền mình tiêu chỗ khác. Gần như mọi nhà kinh tế đồng ý cải thiện giáo dục phổ thông có lợi lớn, nhưng lại chia rẽ về việc rót thêm tiền vào hệ thống hiện có có cải thiện kết quả học sinh hay không.
+
+**Ý thứ hai: có việc làm chiếc bánh nhỏ lại nhưng vẫn đáng làm.** Chuyển 1 USD cho một gia đình nghèo có thể tốn của nền kinh tế 1,25 USD khi tính tổn thất vô ích của thuế. Mức thuế cao cần cho lưới an sinh mạnh đè nặng lên người có tài sản sản xuất, kể cả vốn con người; vì vậy Pháp là nơi tốt để sinh ra trong gia đình nghèo nhưng là nơi tệ để làm doanh nhân Internet hay lao động công nghệ cao.
+
+Mỹ có thu nhập đầu người cao hơn Pháp nhưng tỷ lệ trẻ em nghèo cũng cao hơn. Người hiểu lý có thể bất đồng vì họ đổi của cải lấy bình đẳng ở tỷ lệ khác nhau, và vì họ khác nhau về cách giúp người nghèo hiệu quả hơn: chương trình tốn kém như y tế toàn dân, hay thuế thấp để tăng trưởng và kéo người thu nhập thấp vào việc làm lương cao hơn.
 
 **Ý thứ ba: có can thiệp thuần tuý phá hoại.** Ý tốt có thể sinh ra quy định mà chi phí vượt xa lợi ích; ý xấu sinh ra luật phục vụ nhóm lợi ích hay chính khách tham nhũng. Ở các nước đang phát triển, chỉ cần rút nhà nước khỏi những chỗ nó không nên có mặt đã là cải thiện lớn. Jerry Jordan, nguyên chủ tịch Ngân hàng Dự trữ Liên bang Cleveland, cho rằng điều phân biệt nền kinh tế giàu và nghèo là thể chế, nhất là thể chế công, tạo thuận lợi cho sản xuất hay tịch thu thành quả của nó.
 
 Wheelan kết bằng hình ảnh con dao mổ của bác sĩ phẫu thuật: chính phủ là công cụ xâm lấn, dùng cẩn trọng thì giúp cơ thể tự lành, rơi vào tay sai người hoặc dùng quá hăng dù với ý tốt thì gây hại lớn.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một tỉnh muốn phát triển du lịch homestay. Phương án A: mỗi homestay phải có 7 loại giấy phép (phòng cháy, an ninh trật tự, vệ sinh an toàn thực phẩm, đăng ký kinh doanh, lưu trú, môi trường, biển hiệu), mất trung bình 4 tháng và 30 triệu đồng chi phí giấy tờ, chưa kể "chi phí không chính thức". Phương án B: một bộ tiêu chuẩn an toàn tối thiểu công khai, đăng ký trực tuyến trong 5 ngày, hậu kiểm ngẫu nhiên và xử phạt nặng khi vi phạm. Với một hộ dân định đầu tư 200 triệu đồng sửa nhà đón khách, phương án A cộng thêm 15% chi phí và 4 tháng không có doanh thu; nhiều hộ sẽ chọn đón khách "chui", tức ra khỏi mọi sự quản lý, đúng như nghiên cứu 75 nước mà Wheelan dẫn. Người ủng hộ phương án A nhiều khi không phải du khách, mà là các khách sạn đã có giấy phép, giống Hiệp hội Thẩm mỹ Illinois. Còn câu hỏi "điều tiết ra sao" theo kiểu Becker: nếu tỉnh giới hạn tổng số khách mỗi mùa cho cả vùng (để bảo vệ môi trường), các homestay sẽ tranh nhau nhận thật nhiều khách đầu mùa; chia hạn mức cho từng cơ sở thì cùng tổng số khách nhưng không có cuộc đua đó.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một tỉnh muốn phát triển du lịch homestay. Phương án A: mỗi homestay phải có 7 loại giấy phép (phòng cháy, an ninh trật tự, vệ sinh an toàn thực phẩm, đăng ký kinh doanh, lưu trú, môi trường, biển hiệu), mất trung bình 4 tháng và 30 triệu đồng chi phí giấy tờ, chưa kể "chi phí không chính thức". Phương án B: một bộ tiêu chuẩn an toàn tối thiểu công khai, đăng ký trực tuyến trong 5 ngày, hậu kiểm ngẫu nhiên và xử phạt nặng khi vi phạm.
+
+Với một hộ dân định đầu tư 200 triệu đồng sửa nhà đón khách, phương án A cộng thêm 15% chi phí và 4 tháng không có doanh thu; nhiều hộ sẽ chọn đón khách "chui", tức ra khỏi mọi sự quản lý, đúng như nghiên cứu 75 nước mà Wheelan dẫn.
+
+Người ủng hộ phương án A nhiều khi không phải du khách, mà là các khách sạn đã có giấy phép, giống Hiệp hội Thẩm mỹ Illinois. Còn câu hỏi "điều tiết ra sao" theo kiểu Becker: nếu tỉnh giới hạn tổng số khách mỗi mùa cho cả vùng (để bảo vệ môi trường), các homestay sẽ tranh nhau nhận thật nhiều khách đầu mùa; chia hạn mức cho từng cơ sở thì cùng tổng số khách nhưng không có cuộc đua đó.
 
 ## Luận điểm kinh tế cốt lõi
 
@@ -742,4 +775,193 @@ Khung "nâng năng lực sản xuất / làm bánh nhỏ lại nhưng đáng là
 - **Trong doanh nghiệp.** Bộ phận nội bộ độc quyền (phòng IT, phòng mua hàng mà các phòng khác bắt buộc phải dùng) sẽ cư xử như DMV. Cho các phòng ban quyền mua ngoài, hoặc đo hài lòng của "khách nội bộ", là cách đưa cạnh tranh vào. Khi gặp một quy định mới trong ngành, hãy hỏi ai đã vận động cho nó: nếu là các doanh nghiệp lớn đang có chỗ đứng, rất có thể quy định đó là rào cản với người mới, và doanh nghiệp nhỏ cần tính chi phí tuân thủ vào kế hoạch.
 - **Trong đầu tư.** Doanh nghiệp sống nhờ quan hệ chính trị ("mảng kinh doanh thứ bảy") có thể có lợi nhuận cao, nhưng rủi ro chính trị cũng cao: lợi thế mất khi người đỡ đầu mất ghế. Ngành được bảo hộ bằng giấy phép có biên lợi nhuận đẹp cho tới ngày rào cản được gỡ. Khi đọc tin "giảm thuế sẽ tự bù đắp ngân sách", nhà đầu tư nên hỏi phép so sánh phản thực tế, và chuẩn bị cho khả năng thâm hụt, vay nợ công tăng.
 - **Trong nghề nghiệp.** Nghề có giấy phép hành nghề chặt cho thu nhập ổn định, nhưng thu nhập đó một phần đến từ rào cản chứ không chỉ từ năng lực; người làm nghề nên biết phần nào của thu nhập mình có thể biến mất nếu rào cản được nới. Quyết định học thêm bằng cấp nên tính theo thu nhập sau thuế, không theo thu nhập trước thuế.
-- **Khi đọc tin chính sách.** Ở Việt Nam, tranh luận về cắt giảm điều kiện kinh doanh, về doanh nghiệp nhà nước trong các ngành như điện, xăng dầu, viễn thông, hay về đấu thầu dự án công đều có thể đọc bằng khung của chương: ngành này có cần độc quyền nhà nước không, hay chỉ cần nhà nước tài trợ và để tư nhân cạnh tranh làm; quy định này bảo vệ người tiêu dùng hay bảo vệ người đang có giấy phép; và quy định có được thiết kế để tránh "cuộc đua" kiểu hạn ngạch cá vược sọc hay không. Việt Nam từng bị nêu tên trong nghiên cứu 75 nước vì chi phí mở doanh nghiệp bằng một đến hai năm lương; các đợt cải cách đăng ký kinh doanh sau đó cho thấy kênh "bàn tay vơ vét" có thể được thu hẹp khi có ý chí chính trị.
+- **Khi đọc tin chính sách.** Ở Việt Nam, tranh luận về cắt giảm điều kiện kinh doanh, về doanh nghiệp nhà nước trong các ngành như điện, xăng dầu, viễn thông, hay về đấu thầu dự án công đều có thể đọc bằng khung của chương: ngành này có cần độc quyền nhà nước không, hay chỉ cần nhà nước tài trợ và để tư nhân cạnh tranh làm; quy định này bảo vệ người tiêu dùng hay bảo vệ người đang có giấy phép; và quy định có được thiết kế để tránh "cuộc đua" kiểu hạn ngạch cá vược sọc hay không.
+
+  Việt Nam từng bị nêu tên trong nghiên cứu 75 nước vì chi phí mở doanh nghiệp bằng một đến hai năm lương; các đợt cải cách đăng ký kinh doanh sau đó cho thấy kênh "bàn tay vơ vét" có thể được thu hẹp khi có ý chí chính trị.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 4 trên một trang: năm nhánh lớn đi theo các mục 1–8 của phần Nội dung chi tiết (độc quyền nhà nước, nguồn lực chạy theo chính trị, điều tiết và điều tiết phục vụ lợi ích riêng, thuế và đường cong Laffer, câu hỏi Goldilocks với khung ba ý), mỗi nhánh ghi cơ chế kinh tế, ví dụ và con số then chốt mà Wheelan dùng; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 4: chính phủ giỏi một số việc, tệ một cách bi thảm ở việc khác, cái khôn là phân biệt hai loại`"]
+  n1["`Mục 1–2 — Độc quyền nhà nước hành xử đúng như động cơ khuyến khích của nó`"]
+  n0 --- n1
+  n2["`Nếu càng can thiệp càng tốt thì Triều Tiên và Cuba đã là cường quốc kinh tế`"]
+  n1 --- n2
+  n3["`Truyện chiếc Lada hẹn giao sau hai năm: không có cạnh tranh thì không ai cần phục vụ khách`"]
+  n1 --- n3
+  n4["`DMV phục vụ tốt hơn không thêm khách nào, còn người bỏ DMV có thể bị phạt tù`"]
+  n1 --- n4
+  n5["`Fidelity sợ mất khách nên phát séc mới trong vài giây, bưu điện độc quyền thư hạng nhất thì không cần`"]
+  n1 --- n5
+  n6["`Bài học thứ nhất: nhà nước chỉ nên cung cấp độc quyền khi tư nhân chắc chắn thất bại`"]
+  n1 --- n6
+  n7["`Cấp bằng lái nên để nhà nước: công ty tư có động cơ cấp bằng cho người không đủ chuẩn`"]
+  n6 --- n7
+  n8["`Chuyển thư thì không cần nữa: FedEx và UPS đã xây mạng giao hàng toàn cầu`"]
+  n6 --- n8
+  n9["`Một trong những độc quyền nhà nước lớn nhất còn lại ở Mỹ là giáo dục công`"]
+  n6 --- n9
+  n10["`Bài học thứ hai: nhà nước chịu trách nhiệm không có nghĩa phải tự làm (tách tài trợ khỏi sản xuất)`"]
+  n1 --- n10
+  n11["`Đường cao tốc: nhà nước cấp vốn rồi đấu thầu, công ty tốt nhất với giá thấp nhất làm`"]
+  n10 --- n11
+  n12["`Medicare là nhà nước trả tiền cho bác sĩ tư, dù cử tri viết đừng đụng vào Medicare của tôi`"]
+  n10 --- n12
+  n13["`CIA lập quỹ đầu tư mạo hiểm In-Q-It, công ty hưởng lời còn CIA dùng công nghệ cho tình báo`"]
+  n10 --- n13
+  n14["`Mục 3 — Tư nhân đặt nguồn lực nơi lợi suất cao nhất, nhà nước đặt nơi chính trị đẩy tới`"]
+  n0 --- n14
+  n15["`Margarita Space Pak: Wheelan thấy vô bổ, nhưng đó chỉ là ý kiến của ông, thị trường quyết định`"]
+  n14 --- n15
+  n16["`Liên Xô có thép và tên lửa trên quỹ đạo trước tiên, dân không mua được xà phòng tử tế`"]
+  n14 --- n16
+  n17["`Không ưu tiên tránh thai: khoảng hai ca phá thai cho mỗi ca sinh sống`"]
+  n16 --- n17
+  n18["`Sau khi Liên Xô sụp đổ và có thuốc tránh thai phương Tây, tỷ lệ phá thai giảm một nửa`"]
+  n16 --- n18
+  n19["`Máy gia tốc hạt đặt ở Texas vì George H. W. Bush là tổng thống, chi khoảng 1 tỷ USD rồi bỏ dở`"]
+  n14 --- n19
+  n20["`Jamie Dimon gọi quan hệ với chính phủ là mảng kinh doanh thứ bảy của JPMorgan Chase`"]
+  n14 --- n20
+  n21["`Tư bản thân hữu (Trung Quốc, Indonesia): dự án có lãi không được vay, dự án người thân tổng thống được rót tiền`"]
+  n14 --- n21
+  n22["`Dân thiệt lần một: tiền thuế mất khi dự án đổ vỡ hoặc phải cứu ngân hàng đầy nợ xấu`"]
+  n21 --- n22
+  n23["`Dân thiệt lần hai: tín dụng có hạn bị rút khỏi nhà máy, sinh viên, doanh nhân xứng đáng`"]
+  n21 --- n23
+  n24["`Mục 4–5 — Điều tiết: mọi quy định đều có cái giá, và có quy định phục vụ chính người bị điều tiết`"]
+  n0 --- n24
+  n25["`Mỗi quy định là trạm thu phí hoặc rào chắn trên dòng chảy nguồn lực tới nơi được trả giá cao nhất`"]
+  n24 --- n25
+  n26["`Luật sư Cadillac bỏ qua đánh đổi: chỉ có Cadillac thì đa số không có xe, nhiều khi Toyota Corolla là đủ`"]
+  n24 --- n26
+  n27["`Delhi năm 2000 đóng 90.000 xưởng gây ô nhiễm thuê khoảng một triệu người, dân bạo loạn bảo vệ xưởng`"]
+  n24 --- n27
+  n28["`DDT tích tụ trong chuỗi thức ăn nhưng không nên cấm toàn cầu vì sốt rét`"]
+  n24 --- n28
+  n29["`Sốt rét: khoảng 300 triệu ca mắc và hơn một triệu người chết mỗi năm`"]
+  n28 --- n29
+  n30["`Sachs: châu Phi hạ Sahara giàu hơn gần một phần ba nếu xoá sốt rét từ năm 1965`"]
+  n28 --- n30
+  n31["`Phương án tốt nhì kém hiệu quả hơn và đắt gấp bốn, nên LHQ năm 2000 miễn trừ DDT chống sốt rét`"]
+  n28 --- n31
+  n32["`Becker và cá vược sọc: câu hỏi là điều tiết thế nào, không phải có điều tiết hay không`"]
+  n24 --- n32
+  n33["`Hạn ngạch tổng chung: tàu đua đánh đầu mùa, cá tràn chợ giá rẻ, cuối mùa hết cá`"]
+  n32 --- n33
+  n34["`Massachusetts chia hạn ngạch cho từng ngư dân: cùng tổng sản lượng, mỗi người tự chọn lúc đánh`"]
+  n32 --- n34
+  n35["`Stigler (Nobel 1982): doanh nghiệp và hiệp hội nghề nghiệp chủ động vận động để bị điều tiết vì lợi ích riêng`"]
+  n24 --- n35
+  n36["`Thợ làm móng Illinois: Hiệp hội Thẩm mỹ của các salon lâu năm vận động siết cấp phép`"]
+  n35 --- n36
+  n37["`Tiệm mới tăng 23% một năm, làm móng 6 USD so với 25 USD, giấy phép mới miễn cho người đang hành nghề`"]
+  n35 --- n37
+  n38["`Bác sĩ nước ngoài được cấp phép 5 năm sau 1933 bằng đúng 5 năm trước, dù người di cư tăng vọt`"]
+  n35 --- n38
+  n39["`Bàn tay giúp đỡ hay bàn tay vơ vét: nghiên cứu thủ tục mở doanh nghiệp ở 75 nước`"]
+  n24 --- n39
+  n40["`Canada 2 thủ tục trong 2 ngày, Bolivia 20 thủ tục, Mozambique mất 6 tháng`"]
+  n39 --- n40
+  n41["`Chi phí từ 0,4% (New Zealand) đến 260% (Bolivia) GDP bình quân đầu người`"]
+  n39 --- n41
+  n42["`Việt Nam, Mozambique, Ai Cập, Bolivia: giấy phép tốn một đến hai năm lương, chưa tính hối lộ`"]
+  n39 --- n42
+  n43["`Người tiêu dùng không an toàn hơn, doanh nhân bị đẩy vào kinh tế ngầm, tham nhũng nặng nhất nơi thủ tục nặng nhất`"]
+  n39 --- n43
+  n44["`Trường dược Mumbai: luật 168 foot vuông mỗi sinh viên giới hạn ở 300 người, tầng trên bị khoá`"]
+  n24 --- n44
+  n45["`Mục 6–7 — Thuế gây gánh nặng tài khoá, và giảm thuế không tự bù được số thu ở mức thuế của Mỹ`"]
+  n0 --- n45
+  n46["`Kênh một: thuế lấy sức mua, chi tiêu công như mua máy bay chiến đấu có thể chỉ dịch chuyển việc làm`"]
+  n45 --- n46
+  n47["`Kênh hai: tổn thất vô ích, thiệt hại cho một bên mà không bên nào được lợi`"]
+  n45 --- n47
+  n48["`Thuế suất cận biên 50% làm người ta bỏ việc: mất thu nhập, nhà nước không thu được đồng nào`"]
+  n47 --- n48
+  n49["`Tên trộm lấy tiền mặt chỉ là chuyển giao, vứt album ảnh gia đình là tổn thất vô ích thuần tuý`"]
+  n47 --- n49
+  n50["`Thuế làm nản đầu tư: dự án 100 triệu USD bị bỏ nếu sau thuế còn 60 triệu, bằng sau đại học 10% còn 5%`"]
+  n45 --- n50
+  n51["`Gia đình dư 1.000 USD: tivi là tiêu dùng, quỹ đầu tư làm nền kinh tế giàu hơn ngày mai`"]
+  n50 --- n51
+  n52["`Laffer năm 1974 vẽ trên khăn ăn: giảm thuế tăng số thu, đúng khi hạ thuế 95% xuống 50%`"]
+  n45 --- n52
+  n53["`Giảm thuế của Reagan và George W. Bush không tăng số thu so với khi không giảm, dẫn tới thâm hụt lớn`"]
+  n52 --- n53
+  n54["`So sánh đúng là với mức lẽ ra có nếu không giảm thuế (tăng 5% so với 2%), không với năm trước`"]
+  n52 --- n54
+  n55["`Ví dụ số: thuế 50% xuống 40%, cơ sở thuế 100 lên 110 triệu, số thu 50 xuống 44 triệu USD`"]
+  n45 --- n55
+  n56["`Mất 6 triệu thay vì 10 triệu: giảm thuế 1 USD chỉ làm mất khoảng 80 cent (50 cent khi cực đoan)`"]
+  n55 --- n56
+  n57["`Mankiw hỏi lại McCain: nếu vậy sao không tài trợ chương trình mới bằng cách giảm thuế thêm?`"]
+  n55 --- n57
+  n58["`Không có bữa trưa miễn phí: trả nhiều nhận nhiều hay trả ít nhận ít, trả ít được nhiều là không trung thực`"]
+  n45 --- n58
+  n59["`Phe chính phủ nhỏ đúng ở một điểm: thuế thấp tăng đầu tư, tăng trưởng giúp nhất người có phần nhỏ nhất`"]
+  n45 --- n59
+  n60["`Năm 2009 tỷ lệ nghèo ở Mỹ trên 13%, Rebecca Blank: tăng trưởng thập niên 1990 giúp người nghèo không kém chương trình chi tiêu`"]
+  n59 --- n60
+  n61["`Mục 8 — Câu hỏi Goldilocks: chính phủ Mỹ to hay nhỏ tuỳ người hỏi, Wheelan đưa khung ba ý`"]
+  n0 --- n61
+  n62["`Bất đồng về sự kiện giải bằng dữ liệu (lương tối thiểu làm mất bao nhiêu việc), bất đồng về giá trị thì không`"]
+  n61 --- n62
+  n63["`Ý thứ nhất: chính phủ nâng được năng lực sản xuất, nên càng nhỏ càng tốt là sai`"]
+  n61 --- n63
+  n64["`Có thể chi khôn ngoan khác với sẽ chi khôn ngoan: Quốc hội cấp 500.000 USD cho bảo tàng quê Lawrence Welk`"]
+  n63 --- n64
+  n65["`Ý thứ hai: có việc làm bánh nhỏ lại vẫn đáng làm, chuyển 1 USD cho người nghèo tốn 1,25 USD`"]
+  n61 --- n65
+  n66["`Pháp tốt để sinh ra nghèo nhưng tệ để khởi nghiệp Internet, Mỹ giàu hơn nhưng nhiều trẻ em nghèo hơn`"]
+  n65 --- n66
+  n67["`Ý thứ ba: có can thiệp thuần tuý phá hoại, nhất là ở nước đang phát triển`"]
+  n61 --- n67
+  n68["`Jerry Jordan: nước giàu và nghèo khác nhau ở chỗ thể chế công tạo thuận lợi hay tịch thu thành quả sản xuất`"]
+  n67 --- n68
+  n69["`Thông điệp xuyên suốt`"]
+  n0 --- n69
+  n70["`Chính phủ như con dao mổ: dùng cẩn trọng giúp cơ thể tự lành, dùng sai hay quá tay thì gây hại lớn`"]
+  n69 --- n70
+  n71["`Kém hiệu quả của nhà nước đến từ động cơ và cạnh tranh, không từ đạo đức công chức`"]
+  n69 --- n71
+  n72["`Trước mỗi độc quyền, quy định, lời hứa giảm thuế, hãy hỏi ai có động cơ gì`"]
+  n69 --- n72
+  class n0 root
+  class n1,n14,n24,n45,n61,n69 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n13,n15,n16,n17,n18,n19,n20,n21,n22,n23,n25,n26,n27,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n46,n47,n48,n49,n50,n51,n52,n53,n54,n55,n56,n57,n58,n59,n60,n62,n63,n64,n65,n66,n67,n68,n70,n71,n72 leaf
+```
+
+## Nguồn
+
+Charles Wheelan, *Naked Economics: Undressing the Dismal Science*, ấn bản sửa đổi và cập nhật (W. W. Norton, 2010), Chương 4.
+
+## Tác giả
+
+Charles Wheelan (sinh 1966), nhà kinh tế và nhà báo Mỹ, từng là phóng viên của *The Economist* ở Trung Tây nước Mỹ, giảng dạy chính sách công tại Đại học Chicago và Dartmouth.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 3 (Government and the Economy) trình bày mặt tích cực của chính phủ: xử lý ngoại ứng, cung cấp hàng hoá công, bảo vệ quyền tài sản, dựng khung pháp lý cho thị trường.
+
+Chương 4 là nửa còn lại của cùng một câu hỏi: chính phủ làm hỏng nền kinh tế theo những cách nào. Wheelan đi qua bốn kênh gây hại (độc quyền nhà nước, phân bổ nguồn lực theo chính trị, điều tiết, thuế), rồi khép cả hai chương bằng một khung ba ý để trả lời câu hỏi "chính phủ Mỹ quá to, quá nhỏ hay vừa phải".
+
+Chương 5 chuyển sang một chủ đề khác: kinh tế học thông tin, tức điều gì xảy ra khi người mua và người bán không biết như nhau.
+
+## Lưu ý
+
+- Sách được cập nhật sau khủng hoảng tài chính 2008, số liệu tính đến khoảng 2009 (ví dụ tỷ lệ nghèo ở Mỹ năm 2009 trên 13%).
+- Phụ đề "Quân đội gặp may khi mua được cái tuốc nơ vít đó với giá 500 USD" là câu mỉa mai, gợi đến các vụ mua sắm quân sự giá cắt cổ mà báo chí Mỹ hay nhắc từ thập niên 1980; trong thân chương Wheelan không kể lại vụ nào cụ thể.
+- Một số ví dụ nay đã cũ:
+  - quỹ đầu tư mạo hiểm của CIA mà Wheelan gọi là "In-Q-It" về sau hoạt động dưới tên In-Q-Tel;
+  - máy gia tốc hạt ở Texas mà ông kể là dự án siêu máy gia tốc bị Quốc hội Mỹ huỷ đầu thập niên 1990;
+  - nghiên cứu so sánh thủ tục mở doanh nghiệp ở 75 nước là tiền thân của loại xếp hạng "môi trường kinh doanh" quốc tế, và Việt Nam nằm trong nhóm bị nêu tên lúc đó, trước khi tiến hành nhiều đợt cải cách đăng ký kinh doanh.
+- Nhận định của Wheelan rằng giảm thuế ở Mỹ không tự bù được số thu tiếp tục được các đợt giảm thuế lớn về sau xác nhận về định tính.
+- Các câu trích là bản dịch của người tổng hợp.

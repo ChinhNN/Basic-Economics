@@ -1,11 +1,18 @@
 # Chương 11 — Kinh tế học quốc tế (International Economics: How did a nice country like Iceland go bust?)
 
-**Nguồn:** Charles Wheelan, *Naked Economics: Undressing the Dismal Science*, ấn bản sửa đổi và cập nhật (W. W. Norton, 2010), Chương 11.
-**Tác giả:** Charles Wheelan (sinh 1966), nhà kinh tế và nhà báo Mỹ, từng là phóng viên của *The Economist* ở Trung Tây nước Mỹ, giảng dạy chính sách công tại Đại học Chicago và Dartmouth.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 10 giải thích rằng đồng đô la chỉ là tờ giấy có giá trị nhờ lòng tin và nhờ Fed giữ nó khan hiếm. Chương 11 đặt câu hỏi tiếp theo: khi mọi đồng tiền hiện đại đều là giấy, thì đổi bao nhiêu giấy Mỹ lấy bao nhiêu giấy Nhật, và chuyện gì xảy ra khi vốn ồ ạt chảy vào rồi tháo chạy khỏi một nước. Chương này nói về tiền và vốn xuyên biên giới (tỷ giá, cơ chế tỷ giá, khủng hoảng tiền tệ, thâm hụt tài khoản vãng lai, IMF và Ngân hàng Thế giới). Chương 12 tiếp theo nói về dòng hàng hoá xuyên biên giới: thương mại và toàn cầu hoá. Chương 13 quay lại Ngân hàng Thế giới khi bàn kinh tế học phát triển.
-**Ý chính:** Wheelan muốn người đọc hiểu rằng **kinh tế quốc tế tuân theo cùng logic với kinh tế trong một nước**, biên giới chỉ là ranh giới chính trị; điều khác duy nhất là mỗi nước có đồng tiền riêng và thể chế quản lý tiền riêng, và chính điều đó sinh ra phần lớn rắc rối. Ông mở đầu bằng vụ George Soros kiếm gần 1 tỷ USD trong một ngày năm 1992 nhờ đặt cược đồng bảng Anh sẽ mất giá, giải thích tỷ giá bằng ngang giá sức mua (PPP) và chỉ số Big Mac, chỉ ra đồng tiền yếu có lợi cho ai và hại ai, đi qua các cơ chế tỷ giá (bản vị vàng, thả nổi, cố định, uỷ ban tiền tệ của Argentina, tiền "mềm" của Đông Đức), rồi mô tả khủng hoảng tiền tệ như một vở kịch ba hồi, lấy ví dụ Iceland năm 2008. Phần cuối bàn mối quan hệ "cộng sinh không lành mạnh" giữa Mỹ đi vay và Trung Quốc cho vay, vai trò của IMF và Ngân hàng Thế giới, và kết luận rằng các nước không phải đối thủ theo kiểu đội bóng: tất cả có thể cùng giàu lên.
+## Ý chính
 
-> **Lưu ý:** Sách được cập nhật sau khủng hoảng 2008, số liệu tính đến khoảng 2009 (chỉ số Big Mac tháng 7/2009, Mỹ nợ Trung Quốc khoảng 1.000 tỷ USD, Ngân hàng Thế giới có 183 thành viên, tỷ giá 1 USD đổi 90 yên). Hai chỗ trong bản gốc lệch với sự kiện thật: Wheelan viết Soros kiếm 1 tỷ USD "vào một ngày tháng Mười" và ghi "Thứ Tư Đen" là ngày 16/9/2002; thực tế Thứ Tư Đen là ngày 16/9/1992, nên ngày Soros thắng cược cũng là tháng Chín năm 1992. Một số nhận định nay đã cũ: đồng nhân dân tệ đã tăng giá so với đô la trong những năm sau 2010 rồi biến động hai chiều; Trung Quốc giảm dần lượng trái phiếu kho bạc Mỹ nắm giữ và chuyển trọng tâm từ tăng trưởng dựa vào xuất khẩu sang tiêu dùng trong nước; mối quan hệ Mỹ – Trung chuyển sang cạnh tranh, thuế quan và hạn chế công nghệ, chứ không kết thúc bằng một cuộc tháo chạy hoảng loạn khỏi đồng đô la như Fallows lo. Iceland phục hồi tương đối nhanh sau 2008 nhờ kiểm soát vốn tạm thời và du lịch bùng nổ. Câu kết của Wheelan rằng "các nước không phải đối thủ" nay bị tranh cãi nhiều hơn trong chính trị Mỹ. Các câu trích là bản dịch của người tổng hợp.
+Wheelan muốn người đọc hiểu rằng **kinh tế quốc tế tuân theo cùng logic với kinh tế trong một nước**, biên giới chỉ là ranh giới chính trị.
+
+Điều khác duy nhất là mỗi nước có đồng tiền riêng và thể chế quản lý tiền riêng, và chính điều đó sinh ra phần lớn rắc rối.
+
+Ông mở đầu bằng vụ George Soros kiếm gần 1 tỷ USD trong một ngày năm 1992 nhờ đặt cược đồng bảng Anh sẽ mất giá:
+- giải thích tỷ giá bằng ngang giá sức mua (PPP) và chỉ số Big Mac,
+- chỉ ra đồng tiền yếu có lợi cho ai và hại ai,
+- đi qua các cơ chế tỷ giá (bản vị vàng, thả nổi, cố định, uỷ ban tiền tệ của Argentina, tiền "mềm" của Đông Đức),
+- rồi mô tả khủng hoảng tiền tệ như một vở kịch ba hồi, lấy ví dụ Iceland năm 2008.
+
+Phần cuối bàn mối quan hệ "cộng sinh không lành mạnh" giữa Mỹ đi vay và Trung Quốc cho vay, vai trò của IMF và Ngân hàng Thế giới, và kết luận rằng các nước không phải đối thủ theo kiểu đội bóng: tất cả có thể cùng giàu lên.
 
 ## Sơ đồ
 
@@ -581,7 +588,11 @@ Năm đó Anh nằm trong Cơ chế Tỷ giá châu Âu (ERM). ERM được lậ
 
 Anh đang suy thoái và đồng bảng mất giá vì nhà đầu tư quốc tế bán bảng để tìm cơ hội tốt hơn. Đồng tiền không khác hàng hoá nào: tỷ giá, tức "giá" của một đồng tiền tính bằng đồng khác, do cung so với cầu quyết định. Cầu về bảng giảm thì giá bảng giảm. Chính phủ Anh tuyên bố sẽ "bảo vệ đồng bảng"; Soros không tin.
 
-Chính phủ Anh có hai công cụ để giữ giá đồng bảng, nhưng cả hai đều đã tới giới hạn. Công cụ thứ nhất là dùng dự trữ ngoại tệ mua bảng để tăng cầu trực tiếp; chính phủ đã tiêu rất nhiều tiền theo cách này, và Ngân hàng Anh có nguy cơ đốt thêm dự trữ mà không ăn thua. Công cụ thứ hai là tăng lãi suất thực để trái phiếu Anh hấp dẫn hơn và giữ vốn lại; nhưng tăng lãi suất giữa suy thoái làm kinh tế yếu thêm, vừa là kinh tế học tồi vừa là chính trị tệ. Tạp chí *Forbes* viết rằng Anh và Ý (cùng hoàn cảnh) phải giữ lãi suất cao để hút vốn, và điều đó bóp nghẹt khả năng kích thích nền kinh tế đang yếu. Dù vậy, Thủ tướng John Major vẫn tuyên bố bảo vệ đồng bảng là "mục tiêu trên hết". Soros cho rằng đó chỉ là lời nói cứng, và đặt cược rằng Anh sẽ bỏ cuộc, khi đó đồng bảng sẽ giảm mạnh.
+Chính phủ Anh có hai công cụ để giữ giá đồng bảng, nhưng cả hai đều đã tới giới hạn. Công cụ thứ nhất là dùng dự trữ ngoại tệ mua bảng để tăng cầu trực tiếp; chính phủ đã tiêu rất nhiều tiền theo cách này, và Ngân hàng Anh có nguy cơ đốt thêm dự trữ mà không ăn thua.
+
+Công cụ thứ hai là tăng lãi suất thực để trái phiếu Anh hấp dẫn hơn và giữ vốn lại; nhưng tăng lãi suất giữa suy thoái làm kinh tế yếu thêm, vừa là kinh tế học tồi vừa là chính trị tệ. Tạp chí *Forbes* viết rằng Anh và Ý (cùng hoàn cảnh) phải giữ lãi suất cao để hút vốn, và điều đó bóp nghẹt khả năng kích thích nền kinh tế đang yếu.
+
+Dù vậy, Thủ tướng John Major vẫn tuyên bố bảo vệ đồng bảng là "mục tiêu trên hết". Soros cho rằng đó chỉ là lời nói cứng, và đặt cược rằng Anh sẽ bỏ cuộc, khi đó đồng bảng sẽ giảm mạnh.
 
 Chú thích của Wheelan giải thích cách làm, với số làm tròn cho dễ hiểu:
 
@@ -621,7 +632,11 @@ Wheelan tự trả giá đắt vì dùng một tỷ giá đã cũ, tức không 
 
 PPP là công cụ hữu ích: CIA hay Liên Hợp Quốc thường dùng nó khi quy đổi thu nhập bình quân các nước ra đô la, vì nó phản ánh mức sống chính xác nhất (người kiếm 10.000 dinar Jordan một năm cần bao nhiêu đô la ở Mỹ để sống tương đương?). Về dài hạn, logic kinh tế cho rằng tỷ giá nên tiến về PPP: nếu 100 USD đổi ra peso mua được nhiều đồ hơn hẳn ở Mexico, người ta sẽ đổi đô la lấy peso, hoặc doanh nhân mua hàng rẻ ở Mexico bán sang Mỹ. Cầu về peso tăng, giá peso (tức tỷ giá) tăng, giá hàng ở Mexico cũng có thể tăng, cho tới khi hết lời.
 
-Điều lạ là tỷ giá chính thức lệch xa và lâu khỏi PPP. Lời giải nằm ở khác biệt giữa hàng trao đổi được (TV, ô tô) và không trao đổi được (cắt tóc, trông trẻ). Nếu TV Sony ở Tijuana rẻ bằng nửa ở San Diego theo tỷ giá chính thức, doanh nhân đổi đô la lấy peso, mua TV ở Mexico bán ở Mỹ; làm đủ lớn thì peso tăng giá (và có lẽ giá TV ở Mexico cũng tăng), kéo tỷ giá về phía PPP. Nhưng không ai làm thế được với cắt tóc, đổ rác, trông trẻ hay nhà cho thuê, và trong nền kinh tế hiện đại hơn 3/4 hàng hoá và dịch vụ không trao đổi được. Giỏ hàng dùng để tính PPP chứa cả hai loại. Nếu tỷ giá chính thức làm một dịch vụ không trao đổi được rất rẻ ở một nước (bữa ăn 5 USD ở Mumbai, 50 USD ở Manhattan), không doanh nhân nào khai thác được chênh lệch đó, nên nó tồn tại mãi. Cũng vì vậy PPP là cách đúng để so thu nhập: lương ở Mumbai đổi ra đô la theo tỷ giá chính thức trông rất thấp, nhưng vì nhiều thứ không trao đổi được rẻ hơn nhiều, nó mua được mức sống cao hơn con số gợi ý.
+Điều lạ là tỷ giá chính thức lệch xa và lâu khỏi PPP. Lời giải nằm ở khác biệt giữa hàng trao đổi được (TV, ô tô) và không trao đổi được (cắt tóc, trông trẻ). Nếu TV Sony ở Tijuana rẻ bằng nửa ở San Diego theo tỷ giá chính thức, doanh nhân đổi đô la lấy peso, mua TV ở Mexico bán ở Mỹ; làm đủ lớn thì peso tăng giá (và có lẽ giá TV ở Mexico cũng tăng), kéo tỷ giá về phía PPP.
+
+Nhưng không ai làm thế được với cắt tóc, đổ rác, trông trẻ hay nhà cho thuê, và trong nền kinh tế hiện đại hơn 3/4 hàng hoá và dịch vụ không trao đổi được. Giỏ hàng dùng để tính PPP chứa cả hai loại. Nếu tỷ giá chính thức làm một dịch vụ không trao đổi được rất rẻ ở một nước (bữa ăn 5 USD ở Mumbai, 50 USD ở Manhattan), không doanh nhân nào khai thác được chênh lệch đó, nên nó tồn tại mãi.
+
+Cũng vì vậy PPP là cách đúng để so thu nhập: lương ở Mumbai đổi ra đô la theo tỷ giá chính thức trông rất thấp, nhưng vì nhiều thứ không trao đổi được rẻ hơn nhiều, nó mua được mức sống cao hơn con số gợi ý.
 
 Đồng tiền mua được nhiều hơn PPP dự đoán là bị định giá cao, ít hơn là bị định giá thấp. *The Economist* lập chỉ số Big Mac nửa đùa nửa thật: Big Mac sản xuất ở 120 nước, có phần trao đổi được (thịt bò, gia vị) và nhiều phần không trao đổi được (lao động, tiền thuê, thuế). Tỷ giá "PPP Big Mac" là tỷ giá làm bánh có giá như nhau ở Mỹ và nơi khác; so với tỷ giá thật thì biết đồng tiền bị định giá cao hay thấp.
 
@@ -639,11 +654,15 @@ Wheelan nói đây không phải ngẫu nhiên: chính phủ Trung Quốc theo �
 
 Tỷ giá lệch PPP gợi ra hai câu hỏi: tại sao, và thì sao. Wheelan trả lời câu "thì sao" trước, bằng ví dụ một khách sạn ở Paris. Bạn tới khách sạn quen và thấy giá phòng gần gấp đôi lần trước; người quản lý nói giá không đổi nhiều năm, và người quản lý nói thật. Thứ thay đổi là tỷ giá: đô la đã "yếu đi" hay "mất giá" so với euro, mỗi đô la đổi được ít euro hơn; euro thì "tăng giá". Với bạn, khách sạn đắt hơn; với người Pháp từ tỉnh khác tới, giá vẫn như cũ.
 
-Đô la yếu có hai tác động ngược chiều. Thứ nhất, nó làm hàng nước ngoài đắt hơn với người Mỹ, từ túi Gucci tới xe tải Toyota: giá tính bằng euro hay yên không đổi, nhưng tốn nhiều đô la hơn. Thứ hai, nó làm hàng Mỹ rẻ hơn với thế giới. Nếu Ford định giá Taurus 25.000 USD ở Mỹ và giá tương đương bằng tiền địa phương ở nước ngoài, thì khi euro mạnh lên, Taurus rẻ hơn với người mua ở Paris, mà Ford vẫn mang về 25.000 USD: giá rẻ hơn mà lợi nhuận không giảm. Thêm nữa, một chiếc xe giá 25.000 euro trước đây tốn 25.000 USD, nay tốn 31.000 USD, không phải vì xe tăng giá mà vì đô la mất giá. Ở Toledo, giá Toyota và Mercedes tăng, Ford trông rẻ hơn; hoặc Toyota và Mercedes giữ nguyên giá đô la (khỏi dán lại giá mọi chiếc xe) nhưng mang về ít yên và euro hơn. Đằng nào Ford cũng được lợi thế cạnh tranh.
+Đô la yếu có hai tác động ngược chiều. Thứ nhất, nó làm hàng nước ngoài đắt hơn với người Mỹ, từ túi Gucci tới xe tải Toyota: giá tính bằng euro hay yên không đổi, nhưng tốn nhiều đô la hơn. Thứ hai, nó làm hàng Mỹ rẻ hơn với thế giới. Nếu Ford định giá Taurus 25.000 USD ở Mỹ và giá tương đương bằng tiền địa phương ở nước ngoài, thì khi euro mạnh lên, Taurus rẻ hơn với người mua ở Paris, mà Ford vẫn mang về 25.000 USD: giá rẻ hơn mà lợi nhuận không giảm.
+
+Thêm nữa, một chiếc xe giá 25.000 euro trước đây tốn 25.000 USD, nay tốn 31.000 USD, không phải vì xe tăng giá mà vì đô la mất giá. Ở Toledo, giá Toyota và Mercedes tăng, Ford trông rẻ hơn; hoặc Toyota và Mercedes giữ nguyên giá đô la (khỏi dán lại giá mọi chiếc xe) nhưng mang về ít yên và euro hơn. Đằng nào Ford cũng được lợi thế cạnh tranh.
 
 Nói chung, đồng tiền yếu có lợi cho nhà xuất khẩu và hại nhà nhập khẩu. Năm 1992, khi đô la tương đối yếu, *New York Times* viết rằng đô la mất giá đã biến nền kinh tế giàu nhất thế giới thành "tầng hầm Filene's" (một chuỗi cửa hàng giảm giá) của các nước công nghiệp. Năm 2001, khi đô la mạnh theo chuẩn lịch sử, *Wall Street Journal* đưa tít một quan chức GM nói đô la quá mạnh đối với các công ty Mỹ. Với tỷ giá 1 USD đổi 90 yên, chỉ cần yên tăng giá 1 yên, lợi nhuận hoạt động hằng năm của Toyota giảm 450 triệu USD.
 
-Đồng tiền "mạnh" hay "yếu" so với PPP không tự nó tốt hay xấu. Định giá thấp thúc đẩy xuất khẩu và các ngành xuất khẩu, nhưng làm hàng nhập đắt hơn, hại người tiêu dùng (trớ trêu là cũng có thể hại nhà xuất khẩu dùng đầu vào nhập khẩu). Chính phủ cố ý giữ đồng tiền định giá thấp thực chất là đánh thuế người tiêu dùng hàng nhập và trợ cấp nhà sản xuất hàng xuất. Định giá cao thì ngược lại: hàng nhập rẻ giả tạo, hàng xuất kém cạnh tranh. Thao túng tiền tệ, như mọi can thiệp khác của chính phủ, có thể phục vụ mục đích có ích, hoặc kéo nguồn lực khỏi chỗ dùng hiệu quả nhất. Wheelan hỏi: bạn có ủng hộ một khoản phí đáng kể đánh vào mọi món hàng nhập bạn mua, rồi dùng tiền đó gửi séc cho các hãng xuất khẩu không?
+Đồng tiền "mạnh" hay "yếu" so với PPP không tự nó tốt hay xấu. Định giá thấp thúc đẩy xuất khẩu và các ngành xuất khẩu, nhưng làm hàng nhập đắt hơn, hại người tiêu dùng (trớ trêu là cũng có thể hại nhà xuất khẩu dùng đầu vào nhập khẩu). Chính phủ cố ý giữ đồng tiền định giá thấp thực chất là đánh thuế người tiêu dùng hàng nhập và trợ cấp nhà sản xuất hàng xuất. Định giá cao thì ngược lại: hàng nhập rẻ giả tạo, hàng xuất kém cạnh tranh.
+
+Thao túng tiền tệ, như mọi can thiệp khác của chính phủ, có thể phục vụ mục đích có ích, hoặc kéo nguồn lực khỏi chỗ dùng hiệu quả nhất. Wheelan hỏi: bạn có ủng hộ một khoản phí đáng kể đánh vào mọi món hàng nhập bạn mua, rồi dùng tiền đó gửi séc cho các hãng xuất khẩu không?
 
 ### 5. Điều gì làm đồng tiền mạnh lên hay yếu đi
 
@@ -663,15 +682,23 @@ Vì "các yếu tố khác không đổi" không bao giờ đúng trong kinh t�
 
 Một đô la đáng bao nhiêu yên, rúp hay krona tuỳ phần lớn vào cơ chế tỷ giá mỗi nước chọn.
 
-**Bản vị vàng.** Đây là cơ chế dễ hiểu nhất. Không nước công nghiệp hiện đại nào còn dùng vàng làm tiền (trừ đồng xu kỷ niệm đắt đỏ), nhưng trong các thập kỷ sau Thế chiến II, bản vị vàng là cách đơn giản để điều phối tỷ giá: mỗi nước neo đồng tiền vào một lượng vàng cố định, nên các đồng tiền gián tiếp neo vào nhau. Nếu 1 ounce vàng giá 35 USD ở Mỹ và 350 franc ở Pháp, thì 1 USD đổi 10 franc. Bản vị vàng có ba ưu điểm: tỷ giá dự đoán được; lạm phát bị chặn vì chính phủ không in thêm tiền nếu không có thêm vàng; và tờ tiền có giá trị nội tại (35 USD đổi được 1 ounce vàng). Nhược điểm lớn là nó gây ra chính sách tiền tệ thảm hoạ trong Đại Suy thoái và có thể làm tê liệt chính sách tiền tệ cả lúc bình thường. Khi đồng tiền bị sức ép, chẳng hạn vì kinh tế yếu, người nước ngoài đòi vàng thay giấy; để giữ vàng, ngân hàng trung ương phải tăng lãi suất, đúng lúc kinh tế cần điều ngược lại. Paul Krugman (Nobel 2008 về thương mại quốc tế) viết rằng đầu thập niên 1930, tâm lý đó khiến các chính phủ tăng lãi suất và cắt chi tiêu giữa nạn thất nghiệp hàng loạt để giữ vàng, và ngay cả khi đã bỏ vàng vẫn ngại hạ lãi suất. Nếu Mỹ còn bản vị vàng năm 2007, Fed gần như bất lực trước khủng hoảng. Ngân hàng trung ương luôn có thể phá giá (tuyên bố 1 ounce vàng đổi được nhiều đô la hơn), nhưng làm vậy thì bản vị vàng mất ý nghĩa.
+**Bản vị vàng.** Đây là cơ chế dễ hiểu nhất. Không nước công nghiệp hiện đại nào còn dùng vàng làm tiền (trừ đồng xu kỷ niệm đắt đỏ), nhưng trong các thập kỷ sau Thế chiến II, bản vị vàng là cách đơn giản để điều phối tỷ giá: mỗi nước neo đồng tiền vào một lượng vàng cố định, nên các đồng tiền gián tiếp neo vào nhau. Nếu 1 ounce vàng giá 35 USD ở Mỹ và 350 franc ở Pháp, thì 1 USD đổi 10 franc.
+
+Bản vị vàng có ba ưu điểm: tỷ giá dự đoán được; lạm phát bị chặn vì chính phủ không in thêm tiền nếu không có thêm vàng; và tờ tiền có giá trị nội tại (35 USD đổi được 1 ounce vàng). Nhược điểm lớn là nó gây ra chính sách tiền tệ thảm hoạ trong Đại Suy thoái và có thể làm tê liệt chính sách tiền tệ cả lúc bình thường.
+
+Khi đồng tiền bị sức ép, chẳng hạn vì kinh tế yếu, người nước ngoài đòi vàng thay giấy; để giữ vàng, ngân hàng trung ương phải tăng lãi suất, đúng lúc kinh tế cần điều ngược lại. Paul Krugman (Nobel 2008 về thương mại quốc tế) viết rằng đầu thập niên 1930, tâm lý đó khiến các chính phủ tăng lãi suất và cắt chi tiêu giữa nạn thất nghiệp hàng loạt để giữ vàng, và ngay cả khi đã bỏ vàng vẫn ngại hạ lãi suất. Nếu Mỹ còn bản vị vàng năm 2007, Fed gần như bất lực trước khủng hoảng. Ngân hàng trung ương luôn có thể phá giá (tuyên bố 1 ounce vàng đổi được nhiều đô la hơn), nhưng làm vậy thì bản vị vàng mất ý nghĩa.
 
 Mỹ bỏ bản vị vàng qua hai bước. Năm 1933, Franklin Roosevelt chấm dứt quyền của người Mỹ đổi tiền lấy vàng, nhưng các chính phủ nước ngoài vẫn được đổi khi thanh toán quốc tế. Năm 1971, Richard Nixon chấm dứt nốt: lạm phát ở Mỹ làm đô la kém hấp dẫn, các chính phủ nước ngoài ngày càng chọn vàng thay vì 35 USD. Sau một cuối tuần cân nhắc ở trại David, Nixon đơn phương "đóng cửa sổ vàng": các nước đổi được đô la lấy vàng vào thứ Sáu, nhưng không còn đổi được vào thứ Hai. Từ đó Mỹ và mọi nước công nghiệp dùng "tiền pháp định", một cách nói hoa mỹ rằng đô la chỉ là giấy.
 
-**Tỷ giá thả nổi.** Bản vị vàng cố định các đồng tiền với nhau; tỷ giá thả nổi thì để chúng biến động theo điều kiện kinh tế, thậm chí từng phút. Phần lớn nền kinh tế phát triển thả nổi tỷ giá; tiền được mua bán trên thị trường ngoại hối như cổ phiếu hay hàng trên eBay, và tỷ giá đô la – yên là mức giá các bên tự nguyện đổi cho nhau. Toyota bán xe ở Mỹ thu nhiều đô la thì đổi lấy yên với bên muốn làm điều ngược lại (hoặc dùng đô la trả lương công nhân Mỹ, đầu tư ở Mỹ, mua đầu vào Mỹ). Chính phủ không phải giữ giá đồng tiền. Nhược điểm chính là thêm một lớp bất định cho doanh nghiệp quốc tế: Ford có thể lãi lớn ở châu Âu rồi lỗ khi đổi euro về. Tới nay biến động tỷ giá là điểm yếu nhưng không phải lỗi chết người, vì doanh nghiệp có thể phòng ngừa rủi ro: công ty Mỹ làm ăn ở châu Âu ký hợp đồng tương lai chốt tỷ giá euro – đô la cho một ngày trong tương lai, giống hãng hàng không Southwest chốt giá nhiên liệu hay Starbucks dùng thị trường tương lai phòng giá hạt cà phê tăng vọt.
+**Tỷ giá thả nổi.** Bản vị vàng cố định các đồng tiền với nhau; tỷ giá thả nổi thì để chúng biến động theo điều kiện kinh tế, thậm chí từng phút. Phần lớn nền kinh tế phát triển thả nổi tỷ giá; tiền được mua bán trên thị trường ngoại hối như cổ phiếu hay hàng trên eBay, và tỷ giá đô la – yên là mức giá các bên tự nguyện đổi cho nhau. Toyota bán xe ở Mỹ thu nhiều đô la thì đổi lấy yên với bên muốn làm điều ngược lại (hoặc dùng đô la trả lương công nhân Mỹ, đầu tư ở Mỹ, mua đầu vào Mỹ). Chính phủ không phải giữ giá đồng tiền.
+
+Nhược điểm chính là thêm một lớp bất định cho doanh nghiệp quốc tế: Ford có thể lãi lớn ở châu Âu rồi lỗ khi đổi euro về. Tới nay biến động tỷ giá là điểm yếu nhưng không phải lỗi chết người, vì doanh nghiệp có thể phòng ngừa rủi ro: công ty Mỹ làm ăn ở châu Âu ký hợp đồng tương lai chốt tỷ giá euro – đô la cho một ngày trong tương lai, giống hãng hàng không Southwest chốt giá nhiên liệu hay Starbucks dùng thị trường tương lai phòng giá hạt cà phê tăng vọt.
 
 **Tỷ giá cố định (hoặc biên độ tỷ giá).** Tỷ giá cố định hay "neo" giống bản vị vàng, chỉ khác là không có vàng, điều nghe như có vấn đề và thường đúng là có vấn đề. Các nước cam kết giữ tỷ giá ở mức định trước với một nhóm nước (như các nước châu Âu); tiền vẫn giao dịch tự do nhưng mỗi chính phủ dùng chính sách để giữ đồng tiền trong biên độ. ERM là hệ thống như vậy. Vấn đề chính là các nước không thể cam kết một cách đáng tin. Khi đồng tiền trông yếu, như đồng bảng, giới đầu cơ lao vào mong kiếm hàng triệu (hay hàng tỷ) nếu phá giá xảy ra; và khi họ (cùng những người lo phá giá) bán mạnh đồng tiền, như Soros, thì phá giá càng dễ xảy ra.
 
-**Mượn uy tín của người khác.** Một nước không còn ai tin lời hứa chống lạm phát có thể mượn uy tín của nước khác, như Argentina. Cuối năm 1990, lạm phát Argentina hơn 1.000% một năm, không ai ngạc nhiên vì nước này có lịch sử lạm phát phi mã. Wheelan ví Argentina như người lỡ hẹn ba lần liền rồi nói lần thứ tư sẽ khác: không ai tin. Vì vậy, khi muốn chống lạm phát thật, ngân hàng trung ương Argentina phải làm điều cực đoan mà Wheelan gọi là "thuê nước Mỹ làm người giám hộ". Năm 1991, Argentina từ bỏ chính sách tiền tệ riêng, không in tiền nữa, lập uỷ ban tiền tệ với luật chặt: mỗi peso bằng 1 USD; mỗi peso lưu hành có 1 USD dự trữ; chỉ phát hành peso mới khi có đô la mới trong kho; peso đổi ra đô la bất cứ lúc nào. Thực chất là bản vị vàng với đô la thay vàng.
+**Mượn uy tín của người khác.** Một nước không còn ai tin lời hứa chống lạm phát có thể mượn uy tín của nước khác, như Argentina. Cuối năm 1990, lạm phát Argentina hơn 1.000% một năm, không ai ngạc nhiên vì nước này có lịch sử lạm phát phi mã. Wheelan ví Argentina như người lỡ hẹn ba lần liền rồi nói lần thứ tư sẽ khác: không ai tin. Vì vậy, khi muốn chống lạm phát thật, ngân hàng trung ương Argentina phải làm điều cực đoan mà Wheelan gọi là "thuê nước Mỹ làm người giám hộ".
+
+Năm 1991, Argentina từ bỏ chính sách tiền tệ riêng, không in tiền nữa, lập uỷ ban tiền tệ với luật chặt: mỗi peso bằng 1 USD; mỗi peso lưu hành có 1 USD dự trữ; chỉ phát hành peso mới khi có đô la mới trong kho; peso đổi ra đô la bất cứ lúc nào. Thực chất là bản vị vàng với đô la thay vàng.
 
 | Giai đoạn | Diễn biến ở Argentina |
 |---|---|
@@ -685,7 +712,11 @@ Mỹ bỏ bản vị vàng qua hai bước. Năm 1933, Franklin Roosevelt chấm
 
 Trớ trêu là lúc đó Kenneth Rogoff đã từ Princeton sang làm kinh tế trưởng IMF, và phải xử lý chính đống đổ nát ông từng cảnh báo.
 
-**Tiền "mềm".** Có những đồng tiền không có giá trị quốc tế. Năm 1986, Wheelan qua Bức tường Berlin vào Đông Berlin ở trạm Checkpoint Charlie và bị buộc đổi một khoản "tiền cứng" (đô la hoặc mác Tây Đức) lấy mác Đông Đức. Wheelan đùa rằng tỷ giá này được xác định bằng trí tưởng tượng. Mác Đông Đức là tiền "mềm", không giao dịch ngoài khối cộng sản, không có sức mua ở nơi khác; tỷ giá gần như tuỳ tiện, và Wheelan khá chắc thứ ông nhận được có sức mua thấp hơn thứ ông đưa ra. Ông còn không được mang tiền ra; lính biên phòng giữ lại phần thừa và "ghi vào tài khoản" cho lần sau. Wheelan đùa rằng ở nước Đức thống nhất vẫn có một tài khoản đứng tên ông chứa ít tiền Đông Đức vô giá trị. Với các công ty Mỹ hiếm hoi làm ăn ở nước cộng sản, tiền mềm là vấn đề thật: năm 1974, Pepsi thoả thuận bán hàng ở Liên Xô, nhưng biết làm gì với hàng triệu rúp? Hai bên quay về đổi hàng: Pepsi đổi siro lấy vodka Stolichnaya, thứ có giá trị thật ở phương Tây.
+**Tiền "mềm".** Có những đồng tiền không có giá trị quốc tế. Năm 1986, Wheelan qua Bức tường Berlin vào Đông Berlin ở trạm Checkpoint Charlie và bị buộc đổi một khoản "tiền cứng" (đô la hoặc mác Tây Đức) lấy mác Đông Đức. Wheelan đùa rằng tỷ giá này được xác định bằng trí tưởng tượng.
+
+Mác Đông Đức là tiền "mềm", không giao dịch ngoài khối cộng sản, không có sức mua ở nơi khác; tỷ giá gần như tuỳ tiện, và Wheelan khá chắc thứ ông nhận được có sức mua thấp hơn thứ ông đưa ra. Ông còn không được mang tiền ra; lính biên phòng giữ lại phần thừa và "ghi vào tài khoản" cho lần sau. Wheelan đùa rằng ở nước Đức thống nhất vẫn có một tài khoản đứng tên ông chứa ít tiền Đông Đức vô giá trị.
+
+Với các công ty Mỹ hiếm hoi làm ăn ở nước cộng sản, tiền mềm là vấn đề thật: năm 1974, Pepsi thoả thuận bán hàng ở Liên Xô, nhưng biết làm gì với hàng triệu rúp? Hai bên quay về đổi hàng: Pepsi đổi siro lấy vodka Stolichnaya, thứ có giá trị thật ở phương Tây.
 
 ### 7. Khủng hoảng tiền tệ: vở kịch ba hồi và Iceland
 
@@ -709,15 +740,21 @@ Ngay cả chỉ số Big Mac cũng có đoạn kết buồn ở Iceland. Tháng 
 
 ### 8. Kiểm soát vốn và đồng tiền chung
 
-Đổ nát kinh tế lặp đi lặp lại khi nhà đầu tư tháo chạy gợi ra cách sửa hiển nhiên: làm cho việc tháo chạy khó hơn. Một số nước đã thử kiểm soát vốn, tức các giới hạn với dòng vốn tự do. Nhưng như nhiều cách sửa hiển nhiên, cách này có vấn đề không hiển nhiên: nếu không mang vốn ra được, nhà đầu tư nước ngoài ít muốn đến ngay từ đầu, giống tăng doanh thu cửa hàng bách hoá bằng cách cấm trả hàng. Một nhóm nhà kinh tế nghiên cứu 52 nước nghèo từ 1980 đến 2001 về quan hệ giữa tự do hoá tài chính (vốn ra vào dễ hơn) và kết quả kinh tế, và thấy có sự đánh đổi: nước kiểm soát vốn tăng trưởng chậm hơn. *The Economist* tóm lại: thỉnh thoảng một cuộc khủng hoảng có thể là cái giá đáng trả cho tăng trưởng nhanh hơn.
+Đổ nát kinh tế lặp đi lặp lại khi nhà đầu tư tháo chạy gợi ra cách sửa hiển nhiên: làm cho việc tháo chạy khó hơn. Một số nước đã thử kiểm soát vốn, tức các giới hạn với dòng vốn tự do. Nhưng như nhiều cách sửa hiển nhiên, cách này có vấn đề không hiển nhiên: nếu không mang vốn ra được, nhà đầu tư nước ngoài ít muốn đến ngay từ đầu, giống tăng doanh thu cửa hàng bách hoá bằng cách cấm trả hàng.
 
-Nếu mọi nước dùng chung một đồng tiền thì sao? Iowa chưa bao giờ khủng hoảng tài chính vì nhà đầu tư Illinois rút vốn về bên kia sông Mississippi. Mở rộng vùng tiền tệ có lợi ích, và đó là logic của đồng euro: một đồng tiền chung khắp châu Âu (và khắp 50 bang Mỹ) giảm chi phí giao dịch và làm giá minh bạch hơn (dễ thấy và khai thác chênh lệch giá khi mọi thứ tính cùng một tiền). Nhưng cũng có đánh đổi. Chính sách tiền tệ là công cụ chính để chính phủ điều chỉnh "tốc độ" nền kinh tế, bằng cách làm đồng tiền khan hiếm hơn hay dồi dào hơn để tăng hay giảm lãi suất. Nước dùng chung tiền phải từ bỏ chính sách tiền tệ riêng; Ngân hàng Trung ương châu Âu quyết cho cả khu vực đồng euro (Louisiana hay California cũng không có chính sách tiền tệ riêng). Điều này thành vấn đề khi một vùng suy thoái cần lãi suất thấp trong khi vùng khác đang tăng nhanh cần tăng lãi suất để chống lạm phát.
+Một nhóm nhà kinh tế nghiên cứu 52 nước nghèo từ 1980 đến 2001 về quan hệ giữa tự do hoá tài chính (vốn ra vào dễ hơn) và kết quả kinh tế, và thấy có sự đánh đổi: nước kiểm soát vốn tăng trưởng chậm hơn. *The Economist* tóm lại: thỉnh thoảng một cuộc khủng hoảng có thể là cái giá đáng trả cho tăng trưởng nhanh hơn.
+
+Nếu mọi nước dùng chung một đồng tiền thì sao? Iowa chưa bao giờ khủng hoảng tài chính vì nhà đầu tư Illinois rút vốn về bên kia sông Mississippi. Mở rộng vùng tiền tệ có lợi ích, và đó là logic của đồng euro: một đồng tiền chung khắp châu Âu (và khắp 50 bang Mỹ) giảm chi phí giao dịch và làm giá minh bạch hơn (dễ thấy và khai thác chênh lệch giá khi mọi thứ tính cùng một tiền).
+
+Nhưng cũng có đánh đổi. Chính sách tiền tệ là công cụ chính để chính phủ điều chỉnh "tốc độ" nền kinh tế, bằng cách làm đồng tiền khan hiếm hơn hay dồi dào hơn để tăng hay giảm lãi suất. Nước dùng chung tiền phải từ bỏ chính sách tiền tệ riêng; Ngân hàng Trung ương châu Âu quyết cho cả khu vực đồng euro (Louisiana hay California cũng không có chính sách tiền tệ riêng). Điều này thành vấn đề khi một vùng suy thoái cần lãi suất thấp trong khi vùng khác đang tăng nhanh cần tăng lãi suất để chống lạm phát.
 
 ### 9. Thâm hụt tài khoản vãng lai: Mỹ tiêu nhiều hơn làm ra
 
 Wheelan nhắc rằng ta không thật sự quan tâm tới đồng tiền, mà tới dòng hàng hoá và dịch vụ bên dưới; trao đổi qua biên giới làm ta khá hơn, còn tiền chỉ là công cụ giúp các giao dịch đôi bên cùng có lợi. Về dài hạn, giá trị hàng ta gửi đi nên xấp xỉ giá trị hàng ta nhận về; nếu không, ai đó đang chịu thiệt. Trẻ con đổi đồ ăn ở căng-tin cũng hiểu thứ mình đưa đi phải đáng bằng thứ mình nhận lại.
 
-Nước Mỹ là ngoại lệ. Mỹ giống đứa trẻ ở căng-tin đưa đi bánh mì kẹp pa-tê gan và nhận về bánh mì kẹp gà tây kèm khoai chiên, bánh quy, nước trái cây và một món ăn vặt không có lạc. Mỹ thâm hụt tài khoản vãng lai lớn và kéo dài, nghĩa là năm này qua năm khác nhận từ thế giới nhiều hàng hoá, dịch vụ hơn bán cho thế giới. (Tài khoản vãng lai đo thu nhập từ buôn bán hàng hoá, dịch vụ với nước ngoài cộng một số nguồn thu nhập khác như cổ tức, lãi đầu tư ở nước ngoài và kiều hối người Mỹ ở nước ngoài gửi về.) Wheelan đặt hai câu hỏi: Mỹ duy trì thâm hụt bằng cách nào, và thâm hụt có thành vấn đề về dài hạn không. Câu trả lời cho câu thứ hai là có; câu thứ nhất phức tạp hơn.
+Nước Mỹ là ngoại lệ. Mỹ giống đứa trẻ ở căng-tin đưa đi bánh mì kẹp pa-tê gan và nhận về bánh mì kẹp gà tây kèm khoai chiên, bánh quy, nước trái cây và một món ăn vặt không có lạc.
+
+Mỹ thâm hụt tài khoản vãng lai lớn và kéo dài, nghĩa là năm này qua năm khác nhận từ thế giới nhiều hàng hoá, dịch vụ hơn bán cho thế giới. (Tài khoản vãng lai đo thu nhập từ buôn bán hàng hoá, dịch vụ với nước ngoài cộng một số nguồn thu nhập khác như cổ tức, lãi đầu tư ở nước ngoài và kiều hối người Mỹ ở nước ngoài gửi về.) Wheelan đặt hai câu hỏi: Mỹ duy trì thâm hụt bằng cách nào, và thâm hụt có thành vấn đề về dài hạn không. Câu trả lời cho câu thứ hai là có; câu thứ nhất phức tạp hơn.
 
 Như Chương 9 đã nói, thâm hụt tài khoản vãng lai không tự nó xấu, thặng dư không tự nó tốt: Algeria và Guinea Xích Đạo thặng dư năm 2007 nhưng không phải cường quốc kinh tế. Tuy vậy có một thực tế không tránh được: nước thâm hụt đang thu từ thế giới ít hơn số nó chi ra. Ví dụ đơn giản: Mỹ mua 100 triệu USD ô tô Nhật và bán 50 triệu USD máy bay, thâm hụt 50 triệu USD. Người Nhật không gửi thêm 50 triệu USD hàng chỉ vì người Mỹ thân thiện và ưa nhìn; họ chờ Mỹ bù phần chênh. Mỹ chỉ có hai cách:
 
@@ -726,7 +763,9 @@ Như Chương 9 đã nói, thâm hụt tài khoản vãng lai không tự nó x�
 | Bán tài sản | Bán cho doanh nghiệp Nhật 25 triệu USD bất động sản Manhattan và 25 triệu USD cổ phần công ty Mỹ; nhận 100 triệu USD hàng, đổi lại 50 triệu USD máy bay và 50 triệu USD tài sản, sổ sách cân bằng | Tiền thuê nhà và cổ tức sau này chảy về đối tác; mua xe hôm nay bằng cách bỏ thu nhập tương lai |
 | Đi vay | Vay 50 triệu USD trên thị trường tài chính quốc tế; "trả" 100 triệu USD xe bằng 50 triệu USD máy bay và 50 triệu USD tiền vay | Phải trả nợ gốc và lãi; tiêu dùng hôm nay bằng cách vay tương lai, theo đúng nghĩa đen |
 
-Vì sao Mỹ thâm hụt kinh niên? Theo Wheelan, gần như không liên quan tới chất lượng hàng hoá hay sức cạnh tranh của lao động Mỹ như người ta hay nghĩ (Algeria và Guinea Xích Đạo thặng dư đâu phải vì làm ra hàng tốt hơn với lao động năng suất hơn). Mỹ thâm hụt vì năm nào cũng tiêu dùng nhiều hơn sản xuất, tức làm ngược với tiết kiệm (sản xuất nhiều hơn tiêu dùng và để dành phần thừa). Cả nước Mỹ đang làm cái mà nhà kinh tế gọi là "tiết kiệm âm". Mối liên hệ giữa cán cân vãng lai và tỷ lệ tiết kiệm là then chốt: nước tiêu dùng nhiều hơn sản xuất buộc phải thâm hụt, vì phần tiêu thêm phải đến từ nơi khác trên thế giới, và nước đó không có hàng để đổi lấy phần tiêu thêm vì đã tiêu hết những gì mình có.
+Vì sao Mỹ thâm hụt kinh niên? Theo Wheelan, gần như không liên quan tới chất lượng hàng hoá hay sức cạnh tranh của lao động Mỹ như người ta hay nghĩ (Algeria và Guinea Xích Đạo thặng dư đâu phải vì làm ra hàng tốt hơn với lao động năng suất hơn). Mỹ thâm hụt vì năm nào cũng tiêu dùng nhiều hơn sản xuất, tức làm ngược với tiết kiệm (sản xuất nhiều hơn tiêu dùng và để dành phần thừa). Cả nước Mỹ đang làm cái mà nhà kinh tế gọi là "tiết kiệm âm".
+
+Mối liên hệ giữa cán cân vãng lai và tỷ lệ tiết kiệm là then chốt: nước tiêu dùng nhiều hơn sản xuất buộc phải thâm hụt, vì phần tiêu thêm phải đến từ nơi khác trên thế giới, và nước đó không có hàng để đổi lấy phần tiêu thêm vì đã tiêu hết những gì mình có.
 
 Wheelan minh hoạ mối liên hệ này bằng hai nông dân trồng ngô. Ông tả nông dân Mỹ năng suất cao, đẹp trai, thông minh, dùng kỹ thuật hiện đại nhất, rồi nói các chi tiết đó không liên quan, đúng như chất lượng một nền kinh tế không quyết định việc nó thâm hụt hay thặng dư. Mỗi nông dân chỉ có bốn cách dùng ngô: ăn (tiêu dùng), để giống trồng năm sau (đầu tư), nộp chính phủ đổi lấy dịch vụ (chi tiêu chính phủ), hoặc đổi lấy thứ khác (xuất khẩu đổi nhập khẩu).
 
@@ -745,11 +784,15 @@ Wheelan minh hoạ mối liên hệ này bằng hai nông dân trồng ngô. Ôn
 
 Thường các mất cân đối toàn cầu có cơ chế tự điều chỉnh: đồng tiền của nước thâm hụt lớn sẽ mất giá. Wheelan lấy ví dụ New Zealand thâm hụt: thế giới tích luỹ đô la New Zealand vì bán cho New Zealand nhiều hơn mua, và các hãng nước ngoài muốn đổi số đô la đó về tiền nhà. Trên thị trường ngoại hối, cung đô la New Zealand vượt cầu, đô la New Zealand mất giá so với tiền của các đối tác. Đô la New Zealand rẻ đi làm hàng xuất khẩu của New Zealand cạnh tranh hơn và hàng nhập đắt hơn: Toyota đắt hơn ở New Zealand, nông sản New Zealand ("quả kiwi?", Wheelan đùa) rẻ hơn ở Nhật. Điều tương tự xảy ra với các nước khác; New Zealand nhập ít, xuất nhiều, và thâm hụt thu hẹp.
 
-Giữa Mỹ và Trung Quốc, cơ chế này không vận hành. Theo Wheelan, hai nước bị khoá trong một quan hệ cộng sinh không lành mạnh, và quan hệ đó có thể vỡ bất cứ lúc nào. ("Cộng sinh" ở đây có nghĩa là mỗi bên cần bên kia để duy trì cách làm hiện tại; đây là phần giải nghĩa của người tổng hợp.) Trung Quốc có chiến lược phát triển rất thành công dựa vào "tăng trưởng nhờ xuất khẩu": phần lớn việc làm và thịnh vượng đến từ doanh nghiệp làm hàng xuất khẩu, nhiều hàng sang Mỹ. Chiến lược đó cần giữ nhân dân tệ tương đối rẻ; để làm được, chính phủ Trung Quốc dùng số đô la tích luỹ chủ yếu mua trái phiếu kho bạc Mỹ, tức cho chính phủ liên bang Mỹ vay. Ngắn hạn, cả hai được thứ mình muốn (hoặc cần): Trung Quốc dùng xuất khẩu tạo việc làm và tăng trưởng, Mỹ bù tiết kiệm âm bằng các khoản vay khổng lồ từ Trung Quốc. Tình hình không khác mấy hai nông dân: Mỹ vay Trung Quốc để mua hàng xuất khẩu của Trung Quốc.
+Giữa Mỹ và Trung Quốc, cơ chế này không vận hành. Theo Wheelan, hai nước bị khoá trong một quan hệ cộng sinh không lành mạnh, và quan hệ đó có thể vỡ bất cứ lúc nào. ("Cộng sinh" ở đây có nghĩa là mỗi bên cần bên kia để duy trì cách làm hiện tại; đây là phần giải nghĩa của người tổng hợp.)
+
+Trung Quốc có chiến lược phát triển rất thành công dựa vào "tăng trưởng nhờ xuất khẩu": phần lớn việc làm và thịnh vượng đến từ doanh nghiệp làm hàng xuất khẩu, nhiều hàng sang Mỹ. Chiến lược đó cần giữ nhân dân tệ tương đối rẻ; để làm được, chính phủ Trung Quốc dùng số đô la tích luỹ chủ yếu mua trái phiếu kho bạc Mỹ, tức cho chính phủ liên bang Mỹ vay. Ngắn hạn, cả hai được thứ mình muốn (hoặc cần): Trung Quốc dùng xuất khẩu tạo việc làm và tăng trưởng, Mỹ bù tiết kiệm âm bằng các khoản vay khổng lồ từ Trung Quốc. Tình hình không khác mấy hai nông dân: Mỹ vay Trung Quốc để mua hàng xuất khẩu của Trung Quốc.
 
 Dài hạn, cả hai gặp rủi ro lớn. Mỹ thành con nợ lớn, và con nợ luôn phụ thuộc ý muốn của chủ nợ. Mỹ có thói quen đi vay, Trung Quốc nuôi thói quen đó. James Fallows nhận xét rằng không có "một tỷ đô la mỗi ngày" của Trung Quốc, Mỹ không giữ được kinh tế ổn định hay cứu đô la khỏi sụp đổ. Tệ hơn, Trung Quốc có thể doạ bán tháo kho tài sản bằng đô la khổng lồ của mình. Làm thế sẽ tự huỷ hoại, vì như Fallows chỉ ra, tiền tiết kiệm nhiều năm của họ nằm trong chính đồng đô la sẽ mất giá, và trong hoảng loạn họ chỉ rút được một phần nhỏ trước khi giá sụt. Dù vậy, đó là vũ khí quá mạnh trong tay một nước mà Mỹ thường bất đồng.
 
-Theo Wheelan, Trung Quốc còn ở thế tệ hơn. Giả sử nợ của Mỹ lớn quá mức người nộp thuế Mỹ có thể (hoặc muốn) trả. Chính phủ Mỹ có thể vỡ nợ, từ chối trả, nhưng điều đó rất khó xảy ra, phần lớn vì có một lựa chọn vô trách nhiệm tinh vi hơn: Mỹ có thể "lạm phát để xoá" phần lớn nợ với Trung Quốc (và chủ nợ khác) bằng cách in tiền. In đô la bừa bãi thì đồng tiền mất giá, và các khoản nợ tính bằng đô la cũng mất giá. Lạm phát 20% thì giá trị thực của khoản phải trả giảm 20%; lạm phát 50% thì một nửa khoản nợ coi như biến mất. Khả năng đó thấp, nhưng Wheelan nói nếu ai nợ ông 1.000 tỷ USD và lại có quyền in chính số đô la đó, ông sẽ dành nhiều thời gian lo về lạm phát.
+Theo Wheelan, Trung Quốc còn ở thế tệ hơn. Giả sử nợ của Mỹ lớn quá mức người nộp thuế Mỹ có thể (hoặc muốn) trả. Chính phủ Mỹ có thể vỡ nợ, từ chối trả, nhưng điều đó rất khó xảy ra, phần lớn vì có một lựa chọn vô trách nhiệm tinh vi hơn: Mỹ có thể "lạm phát để xoá" phần lớn nợ với Trung Quốc (và chủ nợ khác) bằng cách in tiền.
+
+In đô la bừa bãi thì đồng tiền mất giá, và các khoản nợ tính bằng đô la cũng mất giá. Lạm phát 20% thì giá trị thực của khoản phải trả giảm 20%; lạm phát 50% thì một nửa khoản nợ coi như biến mất. Khả năng đó thấp, nhưng Wheelan nói nếu ai nợ ông 1.000 tỷ USD và lại có quyền in chính số đô la đó, ông sẽ dành nhiều thời gian lo về lạm phát.
 
 Quan hệ kinh tế lệch lạc này sẽ kết thúc; câu hỏi then chốt là khi nào, vì sao và bằng cách nào. Fallows tóm tắt: trong khoảng 10 năm, mỗi người ở nước Mỹ (giàu) đã vay khoảng 4.000 USD từ một người ở Cộng hoà Nhân dân Trung Hoa (nghèo). Như nhiều mất cân đối trong kinh tế, điều này không thể kéo dài mãi, nên sẽ không kéo dài mãi; nhưng nó kết thúc đột ngột hay từ từ, vì lý do dự đoán được hay giữa hoảng loạn, sẽ tạo khác biệt cực lớn cho kinh tế Mỹ và Trung Quốc trong vài năm tới, chưa kể người đứng xem ở châu Âu và nơi khác.
 
@@ -765,13 +808,21 @@ Với mức độ rủi ro như vậy, Wheelan hỏi có "người lớn" nào g
 
 Không nước nào bị buộc nhận tiền hay lời khuyên của IMF hay Ngân hàng Thế giới; quyền lực và ảnh hưởng của hai tổ chức đến từ "củ cà rốt" họ nắm, tức khoản tiền cho vay mà các nước gặp khó cần tới.
 
-Ít tổ chức nào bị chỉ trích từ nhiều phía chính trị như hai tổ chức này. *The Economist* từng đùa rằng nếu các nước đang phát triển được một đô la cho mỗi đề xuất thay đổi "kiến trúc tài chính quốc tế", vấn đề nghèo đói ở thế giới thứ ba đã được giải quyết. Phe bảo thủ cho rằng đây là các tổ chức quan liêu, phí tiền vào dự án không giúp nước nghèo thoát nghèo, và các gói cứu trợ của IMF làm khủng hoảng dễ xảy ra hơn, vì nhà đầu tư cho vay liều khi tin IMF sẽ cứu nước gặp nạn. Năm 2000, Quốc hội do Đảng Cộng hoà chiếm đa số lập một uỷ ban, và uỷ ban khuyến nghị thu nhỏ và cải tổ cả hai. Ở đầu kia, liên minh chống toàn cầu hoá cáo buộc hai tổ chức là tay sai của tư bản, ép toàn cầu hoá lên các nước đang phát triển và để lại cho nước nghèo những khoản nợ lớn. Các cuộc họp của hai tổ chức thành dịp biểu tình bạo lực; trước cuộc họp mùa thu năm 2000 ở Praha, cửa hàng KFC và Pizza Hut ở đó đã đặt sẵn kính thay thế, phòng người biểu tình đập vỡ.
+Ít tổ chức nào bị chỉ trích từ nhiều phía chính trị như hai tổ chức này. *The Economist* từng đùa rằng nếu các nước đang phát triển được một đô la cho mỗi đề xuất thay đổi "kiến trúc tài chính quốc tế", vấn đề nghèo đói ở thế giới thứ ba đã được giải quyết.
+
+Phe bảo thủ cho rằng đây là các tổ chức quan liêu, phí tiền vào dự án không giúp nước nghèo thoát nghèo, và các gói cứu trợ của IMF làm khủng hoảng dễ xảy ra hơn, vì nhà đầu tư cho vay liều khi tin IMF sẽ cứu nước gặp nạn. Năm 2000, Quốc hội do Đảng Cộng hoà chiếm đa số lập một uỷ ban, và uỷ ban khuyến nghị thu nhỏ và cải tổ cả hai.
+
+Ở đầu kia, liên minh chống toàn cầu hoá cáo buộc hai tổ chức là tay sai của tư bản, ép toàn cầu hoá lên các nước đang phát triển và để lại cho nước nghèo những khoản nợ lớn. Các cuộc họp của hai tổ chức thành dịp biểu tình bạo lực; trước cuộc họp mùa thu năm 2000 ở Praha, cửa hàng KFC và Pizza Hut ở đó đã đặt sẵn kính thay thế, phòng người biểu tình đập vỡ.
 
 ### 12. Kết luận: các nước không phải đối thủ
 
-Khi suy thoái toàn cầu 2007 diễn ra, Mỹ chỉ trích vài nước châu Âu không làm đủ để kích thích kinh tế. Lời chê cụ thể gây tranh cãi, nhưng nó nêu một điểm then chốt: muốn kinh tế Mỹ phục hồi, kinh tế châu Âu cũng phải phục hồi, và Nhật, Trung Quốc cùng mọi nền kinh tế lớn khác. Các nước không phải đối thủ theo nghĩa thông thường. Đội bóng chày Red Sox không bao giờ phàn nàn rằng đội Yankees không tăng cường lực lượng trong mùa nghỉ, vì bóng chày là trò chơi tổng bằng 0: chỉ một đội vô địch World Series. Kinh tế quốc tế thì ngược lại: mọi nước có thể cùng giàu lên theo thời gian, dù các doanh nghiệp trong đó cạnh tranh nhau về lợi nhuận và nguồn lực. GDP thế giới đã tăng đều nhiều thế kỷ; loài người giàu hơn năm 1500, và không ai phải nghèo đi để điều đó xảy ra. Mục tiêu của chính sách kinh tế toàn cầu nên là giúp các nước hợp tác với nhau dễ hơn; làm càng tốt, mọi người càng giàu và an toàn hơn.
+Khi suy thoái toàn cầu 2007 diễn ra, Mỹ chỉ trích vài nước châu Âu không làm đủ để kích thích kinh tế. Lời chê cụ thể gây tranh cãi, nhưng nó nêu một điểm then chốt: muốn kinh tế Mỹ phục hồi, kinh tế châu Âu cũng phải phục hồi, và Nhật, Trung Quốc cùng mọi nền kinh tế lớn khác.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một hộ gia đình ở nước A vay 100.000 euro mua nhà vì lãi suất euro chỉ 3%/năm, thấp hơn nhiều mức 9% của tiền trong nước. Giả sử lúc vay, 1 euro đổi 100 đơn vị tiền nội địa, nên khoản nợ tương đương 10 triệu đơn vị, và tiền trả góp hằng tháng khoảng 50.000 đơn vị. Nếu một cú sốc làm đồng nội tệ mất nửa giá, 1 euro đổi 200 đơn vị: khoản nợ tính bằng tiền nội địa thành 20 triệu, tiền trả góp thành khoảng 100.000 đơn vị mỗi tháng, trong khi lương của họ vẫn trả bằng tiền nội địa và giá nhà có khi còn giảm. Đây đúng là điều xảy ra với người Iceland vay "nửa bằng yên, nửa bằng euro" năm 2008. Khoản lãi suất rẻ hơn 6 điểm phần trăm thực chất là tiền công cho việc gánh rủi ro tỷ giá, và rủi ro đó đến cùng lúc với mọi rủi ro khác.
+Các nước không phải đối thủ theo nghĩa thông thường. Đội bóng chày Red Sox không bao giờ phàn nàn rằng đội Yankees không tăng cường lực lượng trong mùa nghỉ, vì bóng chày là trò chơi tổng bằng 0: chỉ một đội vô địch World Series. Kinh tế quốc tế thì ngược lại: mọi nước có thể cùng giàu lên theo thời gian, dù các doanh nghiệp trong đó cạnh tranh nhau về lợi nhuận và nguồn lực. GDP thế giới đã tăng đều nhiều thế kỷ; loài người giàu hơn năm 1500, và không ai phải nghèo đi để điều đó xảy ra. Mục tiêu của chính sách kinh tế toàn cầu nên là giúp các nước hợp tác với nhau dễ hơn; làm càng tốt, mọi người càng giàu và an toàn hơn.
+
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một hộ gia đình ở nước A vay 100.000 euro mua nhà vì lãi suất euro chỉ 3%/năm, thấp hơn nhiều mức 9% của tiền trong nước. Giả sử lúc vay, 1 euro đổi 100 đơn vị tiền nội địa, nên khoản nợ tương đương 10 triệu đơn vị, và tiền trả góp hằng tháng khoảng 50.000 đơn vị.
+
+Nếu một cú sốc làm đồng nội tệ mất nửa giá, 1 euro đổi 200 đơn vị: khoản nợ tính bằng tiền nội địa thành 20 triệu, tiền trả góp thành khoảng 100.000 đơn vị mỗi tháng, trong khi lương của họ vẫn trả bằng tiền nội địa và giá nhà có khi còn giảm. Đây đúng là điều xảy ra với người Iceland vay "nửa bằng yên, nửa bằng euro" năm 2008. Khoản lãi suất rẻ hơn 6 điểm phần trăm thực chất là tiền công cho việc gánh rủi ro tỷ giá, và rủi ro đó đến cùng lúc với mọi rủi ro khác.
 
 ## Luận điểm kinh tế cốt lõi
 
@@ -912,3 +963,172 @@ Wheelan lập luận đúng theo kinh tế học: thương mại và tăng trư�
 - **Trong đầu tư.** Lợi suất cao ở một thị trường mới nổi thường đi kèm rủi ro đồng tiền; khi vở kịch ba hồi bắt đầu, giá tài sản và tỷ giá giảm cùng lúc, nên khoản lỗ nhân đôi với nhà đầu tư nước ngoài. Dấu hiệu cần để ý là những điều Wheelan liệt kê ở hồi 2: nợ công tăng nhanh, bong bóng bất động sản, tỷ giá cố định bị sức ép, ngân hàng nhiều nợ xấu, và người dân vay bằng ngoại tệ.
 - **Trong nghề nghiệp và tài chính cá nhân.** Khi so lương hay chi phí sống giữa các nước, hãy dùng ngang giá sức mua chứ không chỉ quy đổi theo tỷ giá: một mức lương thấp khi đổi ra đô la có thể mua được mức sống khá cao ở nơi dịch vụ rẻ, và ngược lại.
 - **Khi đọc tin chính sách ở Việt Nam.** Việt Nam điều hành tỷ giá theo cơ chế tỷ giá trung tâm với biên độ, tức ở giữa thả nổi và cố định, và là nền kinh tế mở với xuất khẩu lớn. Khung của chương giúp đọc các tin như "giữ ổn định tỷ giá", "tăng dự trữ ngoại hối" hay "Mỹ xem xét danh sách thao túng tiền tệ": đồng tiền yếu hơn hỗ trợ xuất khẩu nhưng làm hàng nhập và nợ ngoại tệ đắt lên; bảo vệ tỷ giá cần dự trữ hoặc lãi suất cao, cả hai đều có giới hạn; và câu hỏi đáng đặt ra luôn là ai đang hưởng lợi, ai đang trả tiền cho mức tỷ giá đó.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 11 trên một trang: sáu nhánh lớn đi theo các mục 1–12 của phần Nội dung chi tiết (Soros và đồng bảng Anh, ngang giá sức mua và đồng tiền yếu, các cơ chế tỷ giá, khủng hoảng tiền tệ ở Iceland và kiểm soát vốn, thâm hụt vãng lai và quan hệ Mỹ – Trung, IMF và Ngân hàng Thế giới), mỗi nhánh ghi cơ chế, ví dụ và con số then chốt của Wheelan; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 11: kinh tế quốc tế cùng logic với kinh tế trong nước, chỉ khác ở chỗ mỗi nước có đồng tiền riêng`"]
+  n1["`Mục 1–2 — Soros 1992 và biên giới chỉ là ranh giới chính trị`"]
+  n0 --- n1
+  n2["`Anh trong ERM neo đồng bảng ở 2,95 mác Đức, sàn 2,778 mác, giữa lúc suy thoái`"]
+  n1 --- n2
+  n3["`Hai công cụ giữ giá đều tới giới hạn: đốt dự trữ ngoại tệ, hoặc tăng lãi suất giữa suy thoái`"]
+  n1 --- n3
+  n4["`Soros vay 10 tỷ bảng đổi ra mác, bảng mất hơn 10%, lời gần 1 tỷ USD trong một ngày`"]
+  n1 --- n4
+  n5["`Thứ Tư Đen 16/9/1992: Anh rút khỏi ERM, phần mất của đồng bảng là phần lời của Soros`"]
+  n1 --- n5
+  n6["`Giao dịch qua biên giới phải làm mọi bên có lợi, vốn tìm lợi suất cao nhất cho mỗi mức rủi ro`"]
+  n1 --- n6
+  n7["`Điểm khác duy nhất: Fed tạo ra đô la nhưng không làm gì được với đồng peso`"]
+  n1 --- n7
+  n8["`Mục 3–5 — Tỷ giá: ngang giá sức mua, đồng tiền yếu và các lực cung cầu`"]
+  n0 --- n8
+  n9["`PPP: giỏ hàng 25 USD ở Mỹ, 750 rúp ở Nga thì 1 USD nên đổi khoảng 30 rúp`"]
+  n8 --- n9
+  n10["`Tỷ giá thực tính thêm lạm phát hai nước, phần còn lại của chương nói về tỷ giá thực`"]
+  n8 --- n10
+  n11["`Hơn 3/4 nền kinh tế không trao đổi được nên tỷ giá lệch PPP rất lâu`"]
+  n8 --- n11
+  n12["`TV Sony ở Tijuana kéo peso về PPP, bữa ăn 5 USD ở Mumbai không chở sang Manhattan được`"]
+  n11 --- n12
+  n13["`Vì vậy PPP là cách đúng để so thu nhập giữa các nước`"]
+  n11 --- n13
+  n14["`Big Mac 7/2009: PPP 3,5 nhân dân tệ/USD, ngân hàng đổi 6,83, nhân dân tệ bị định giá thấp`"]
+  n8 --- n14
+  n15["`Đồng tiền yếu có lợi cho nhà xuất khẩu, hại nhà nhập khẩu`"]
+  n8 --- n15
+  n16["`Euro mạnh lên: xe 25.000 euro từ 25.000 USD thành 31.000 USD, Ford Taurus rẻ hơn ở Paris`"]
+  n15 --- n16
+  n17["`Yên tăng giá 1 yên so với đô la, lợi nhuận hằng năm của Toyota giảm 450 triệu USD`"]
+  n15 --- n17
+  n18["`Giữ đồng tiền định giá thấp là đánh thuế người mua hàng nhập để trợ cấp nhà xuất khẩu`"]
+  n15 --- n18
+  n19["`Kinh tế bùng nổ, xuất khẩu mạnh, lãi suất cao làm đồng tiền tăng giá`"]
+  n8 --- n19
+  n20["`2007–2008 Mỹ là tâm chấn suy thoái nhưng đô la tăng giá vì nhà đầu tư chạy về nơi an toàn`"]
+  n8 --- n20
+  n21["`Can thiệp ngoại hối như làm ấm bồn tắm lạnh bằng từng thìa nước nóng`"]
+  n8 --- n21
+  n22["`Mục 6 — Các cơ chế tỷ giá: đánh đổi ổn định lấy quyền điều hành tiền tệ`"]
+  n0 --- n22
+  n23["`Bản vị vàng: 35 USD và 350 franc một ounce vàng thì 1 USD đổi 10 franc`"]
+  n22 --- n23
+  n24["`Ưu điểm: tỷ giá dự đoán được, chặn lạm phát, tờ tiền có giá trị nội tại`"]
+  n23 --- n24
+  n25["`Buộc tăng lãi suất để giữ vàng đúng lúc kinh tế yếu, gây thảm hoạ trong Đại Suy thoái`"]
+  n23 --- n25
+  n26["`Roosevelt 1933, Nixon đóng cửa sổ vàng 1971, từ đó đô la là tiền pháp định`"]
+  n23 --- n26
+  n27["`Thả nổi: tỷ giá theo thị trường, rủi ro tỷ giá phòng ngừa bằng hợp đồng tương lai`"]
+  n22 --- n27
+  n28["`Cố định không có vàng: cam kết thiếu tin cậy, đầu cơ bán mạnh làm phá giá dễ xảy ra`"]
+  n22 --- n28
+  n29["`Uỷ ban tiền tệ Argentina 1991: 1 peso bằng 1 USD, mỗi peso có 1 USD dự trữ`"]
+  n22 --- n29
+  n30["`Lạm phát từ hơn 1.000%/năm xuống một chữ số, nhưng mất công cụ chống suy thoái`"]
+  n29 --- n30
+  n31["`Real Brazil mất hơn 50%, Argentina không phá giá được, vỡ nợ 12/2001, peso mất khoảng 30%`"]
+  n29 --- n31
+  n32["`Tiền mềm: mác Đông Đức không có sức mua bên ngoài, Pepsi đổi siro lấy vodka năm 1974`"]
+  n22 --- n32
+  n33["`Mục 7–8 — Khủng hoảng tiền tệ, Iceland và các cách phòng tránh`"]
+  n0 --- n33
+  n34["`Hồi 1 vốn đổ vào, hồi 2 chuyện xấu xảy ra, hồi 3 vốn tháo chạy làm tài sản và đồng tiền lao dốc`"]
+  n33 --- n34
+  n35["`Iceland đứng đầu Chỉ số Phát triển Con người 2008, tài sản ngân hàng gấp 10 lần GDP`"]
+  n33 --- n35
+  n36["`Dân vay bằng ngoại tệ: mua xe được hỏi vay nửa bằng yên, nửa bằng euro`"]
+  n35 --- n36
+  n37["`Krona mất nửa giá, tiền trả góp tính bằng krona tăng gấp đôi`"]
+  n35 --- n37
+  n38["`Chứng khoán giảm 90%, GDP giảm 10%, thất nghiệp cao nhất 40 năm`"]
+  n35 --- n38
+  n39["`10/2009 McDonald's đóng cửa vì Big Mac phải bán hơn 6 USD mới có lãi`"]
+  n35 --- n39
+  n40["`Kiểm soát vốn như cấm trả hàng để tăng doanh thu: nhà đầu tư ít muốn vào`"]
+  n33 --- n40
+  n41["`52 nước nghèo 1980–2001: nước kiểm soát vốn tăng trưởng chậm hơn`"]
+  n33 --- n41
+  n42["`Đồng tiền chung giảm chi phí giao dịch nhưng mất chính sách tiền tệ riêng`"]
+  n33 --- n42
+  n43["`Mục 9–10 — Thâm hụt vãng lai và quan hệ Mỹ – Trung cộng sinh không lành mạnh`"]
+  n0 --- n43
+  n44["`Thâm hụt không tự nó xấu, nhưng phải bù bằng bán tài sản hoặc đi vay`"]
+  n43 --- n44
+  n45["`Mua 100 triệu USD ô tô Nhật, bán 50 triệu USD máy bay: thiếu 50 triệu phải bù`"]
+  n44 --- n45
+  n46["`Mỹ thâm hụt vì tiêu dùng nhiều hơn sản xuất (tiết kiệm âm), không phải vì hàng kém`"]
+  n43 --- n46
+  n47["`Nông dân Mỹ trồng 100 giạ dùng 120, nông dân Trung Quốc trồng 65 dùng 45`"]
+  n46 --- n47
+  n48["`Trung Quốc đưa ngô và cho vay tiền để mua chính số ngô đó, Mỹ nợ khoảng 1.000 tỷ USD`"]
+  n46 --- n48
+  n49["`Bình thường đồng tiền nước thâm hụt mất giá và tự sửa, như đô la New Zealand`"]
+  n43 --- n49
+  n50["`Trung Quốc tăng trưởng nhờ xuất khẩu, giữ nhân dân tệ rẻ bằng cách mua trái phiếu kho bạc Mỹ`"]
+  n43 --- n50
+  n51["`Rủi ro: Mỹ lệ thuộc chủ nợ, Trung Quốc có thể bị lạm phát xoá nợ`"]
+  n43 --- n51
+  n52["`Lạm phát 50% thì một nửa khoản nợ coi như biến mất`"]
+  n51 --- n52
+  n53["`Fallows: trong 10 năm mỗi người Mỹ vay khoảng 4.000 USD của một người Trung Quốc`"]
+  n43 --- n53
+  n54["`Mục 11–12 — IMF, Ngân hàng Thế giới và kết luận`"]
+  n0 --- n54
+  n55["`Bretton Woods lập hai chị em: Ngân hàng Thế giới chống nghèo, IMF là đội cứu hoả khủng hoảng`"]
+  n54 --- n55
+  n56["`Khoản vay đầu của Ngân hàng Thế giới: 250 triệu USD cho Pháp năm 1947, nay 183 thành viên`"]
+  n54 --- n56
+  n57["`Quyền lực đến từ củ cà rốt: khoản vay kèm điều kiện cải cách`"]
+  n54 --- n57
+  n58["`Bị chê từ hai phía: phe bảo thủ nói gây rủi ro cho vay liều, phe chống toàn cầu hoá nói là tay sai tư bản`"]
+  n54 --- n58
+  n59["`Bóng chày là trò chơi tổng bằng 0, kinh tế quốc tế thì mọi nước có thể cùng giàu lên`"]
+  n54 --- n59
+  n60["`Thông điệp xuyên suốt`"]
+  n0 --- n60
+  n61["`Không có cơ chế tỷ giá hoàn hảo: chọn ổn định tỷ giá hay quyền điều hành chính sách tiền tệ`"]
+  n60 --- n61
+  n62["`Thâm hụt vãng lai là chuyện tiết kiệm, không phải chất lượng hàng hoá`"]
+  n60 --- n62
+  n63["`Vay bằng đồng tiền mình không in được thì giàu cũng không tránh được khủng hoảng`"]
+  n60 --- n63
+  n64["`Chính sách toàn cầu nên giúp các nước hợp tác, vì thịnh vượng của nước này có lợi cho nước khác`"]
+  n60 --- n64
+  class n0 root
+  class n1,n8,n22,n33,n43,n54,n60 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n34,n35,n36,n37,n38,n39,n40,n41,n42,n44,n45,n46,n47,n48,n49,n50,n51,n52,n53,n55,n56,n57,n58,n59,n61,n62,n63,n64 leaf
+```
+
+## Nguồn
+
+Charles Wheelan, *Naked Economics: Undressing the Dismal Science*, ấn bản sửa đổi và cập nhật (W. W. Norton, 2010), Chương 11.
+
+## Tác giả
+
+Charles Wheelan (sinh 1966), nhà kinh tế và nhà báo Mỹ, từng là phóng viên của *The Economist* ở Trung Tây nước Mỹ, giảng dạy chính sách công tại Đại học Chicago và Dartmouth.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 10 giải thích rằng đồng đô la chỉ là tờ giấy có giá trị nhờ lòng tin và nhờ Fed giữ nó khan hiếm.
+
+Chương 11 đặt câu hỏi tiếp theo: khi mọi đồng tiền hiện đại đều là giấy, thì đổi bao nhiêu giấy Mỹ lấy bao nhiêu giấy Nhật, và chuyện gì xảy ra khi vốn ồ ạt chảy vào rồi tháo chạy khỏi một nước. Chương này nói về tiền và vốn xuyên biên giới (tỷ giá, cơ chế tỷ giá, khủng hoảng tiền tệ, thâm hụt tài khoản vãng lai, IMF và Ngân hàng Thế giới).
+
+Chương 12 tiếp theo nói về dòng hàng hoá xuyên biên giới: thương mại và toàn cầu hoá. Chương 13 quay lại Ngân hàng Thế giới khi bàn kinh tế học phát triển.
+
+## Lưu ý
+
+- Sách được cập nhật sau khủng hoảng 2008, số liệu tính đến khoảng 2009 (chỉ số Big Mac tháng 7/2009, Mỹ nợ Trung Quốc khoảng 1.000 tỷ USD, Ngân hàng Thế giới có 183 thành viên, tỷ giá 1 USD đổi 90 yên).
+- Hai chỗ trong bản gốc lệch với sự kiện thật: Wheelan viết Soros kiếm 1 tỷ USD "vào một ngày tháng Mười" và ghi "Thứ Tư Đen" là ngày 16/9/2002; thực tế Thứ Tư Đen là ngày 16/9/1992, nên ngày Soros thắng cược cũng là tháng Chín năm 1992.
+- Một số nhận định nay đã cũ: đồng nhân dân tệ đã tăng giá so với đô la trong những năm sau 2010 rồi biến động hai chiều; Trung Quốc giảm dần lượng trái phiếu kho bạc Mỹ nắm giữ và chuyển trọng tâm từ tăng trưởng dựa vào xuất khẩu sang tiêu dùng trong nước; mối quan hệ Mỹ – Trung chuyển sang cạnh tranh, thuế quan và hạn chế công nghệ, chứ không kết thúc bằng một cuộc tháo chạy hoảng loạn khỏi đồng đô la như Fallows lo.
+- Iceland phục hồi tương đối nhanh sau 2008 nhờ kiểm soát vốn tạm thời và du lịch bùng nổ.
+- Câu kết của Wheelan rằng "các nước không phải đối thủ" nay bị tranh cãi nhiều hơn trong chính trị Mỹ.
+- Các câu trích là bản dịch của người tổng hợp.

@@ -1,11 +1,23 @@
 # Chương 2 — Động cơ khuyến khích là quan trọng (Incentives Matter: Why you might be able to save your face by cutting off your nose (if you are a black rhinoceros))
 
-**Nguồn:** Charles Wheelan, *Naked Economics: Undressing the Dismal Science*, ấn bản sửa đổi và cập nhật (W. W. Norton, 2010), Chương 2.
-**Tác giả:** Charles Wheelan (sinh 1966), nhà kinh tế và nhà báo Mỹ, từng là phóng viên của *The Economist* ở Trung Tây nước Mỹ, giảng dạy chính sách công tại Đại học Chicago và Dartmouth.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 1 cho thấy thị trường điều phối được hàng triệu người (ai nuôi Paris?) vì mỗi người theo đuổi lợi ích riêng và phản ứng với giá cả. Chương 2 tách riêng cái lõi của cơ chế đó, **động cơ khuyến khích** (*incentives*), và cho thấy nó vận hành ở mọi nơi: trong bảo tồn động vật hoang dã, trong kinh tế kế hoạch, trong chính sách giao thông, trong phòng họp hội đồng quản trị, trong ngư trường, trong hệ thống thuế. Chương này cũng mở đường cho Chương 3: khi động cơ khuyến khích của cá nhân lệch khỏi lợi ích của xã hội (tê giác bị săn, cá bị đánh bắt cạn kiệt), thị trường tự nó không sửa được, và chính phủ phải vào cuộc.
-**Ý chính:** Wheelan muốn người đọc tin rằng **con người phản ứng có hệ thống với động cơ khuyến khích**, và chính sách, tổ chức hay doanh nghiệp nào hiểu điều đó sẽ thành công, còn ai bỏ qua sẽ nhận hậu quả ngoài ý muốn. Ông mở đầu bằng con tê giác đen: một chiếc sừng bán được 30.000 USD trên chợ đen ở nơi thu nhập bình quân khoảng 1.000 USD/năm, nên con tê giác chết đáng giá hơn con tê giác sống; cách cứu nó là làm cho người dân địa phương có lợi khi nó còn sống. Từ đó ông đi qua các ví dụ: nhà máy phân bón Ấn Độ 12 năm không sản xuất được bao phân nào, giáo viên được trả lương không gắn với kết quả, chính sách cấm xe theo biển số ở Mexico City làm không khí tệ hơn, phí vào trung tâm London làm giao thông giảm 15–20%, quyền chọn cổ phiếu biến thành "ma tuý quản trị", người môi giới nhà chỉ muốn bán nhanh, thế lưỡng nan của người tù làm cạn kiệt ngư trường, và thuế suất cao đẩy Björn Borg sang Monaco. Kết luận: chương trình, tổ chức và hệ thống vận hành tốt hơn khi thiết kế đúng động cơ khuyến khích, "như chèo thuyền xuôi dòng", tức là thuận theo cách con người vốn hành xử thay vì cưỡng lại.
+## Ý chính
 
-> **Lưu ý:** Ấn bản sửa đổi viết sau khủng hoảng tài chính 2008, nên phần người uỷ thác – người đại diện có thêm Lehman Brothers, Bear Stearns, các tổ chức xếp hạng tín nhiệm và lời Wheelan tự nhận sai về quyền chọn cổ phiếu (ấn bản đầu năm 2002 khen công cụ này). Số liệu tính đến khoảng 2008–2009 và nay phần lớn đã cũ: số tê giác đen và khỉ đột núi về sau đã nhích lên nhờ các chương trình bảo tồn có chia lợi ích cho dân địa phương (điều này củng cố chứ không bác bỏ lập luận của chương); phí vào trung tâm London đã tăng nhiều lần so với mức 8 bảng năm 2005; mức tín dụng thuế EITC và các chương trình xã hội Mỹ đã thay đổi. Phụ đề chương chơi chữ thành ngữ tiếng Anh *cut off your nose to spite your face* ("cắt mũi để trả thù cái mặt", tức tự làm hại mình vì giận dỗi); Wheelan đảo nghĩa: với tê giác đen, cưa bỏ chiếc sừng trên mũi có thể giữ được mạng sống. Chương này không có chú thích chân trang dấu `*`. Các câu trích là bản dịch của người tổng hợp.
+Wheelan muốn người đọc tin rằng **con người phản ứng có hệ thống với động cơ khuyến khích**, và chính sách, tổ chức hay doanh nghiệp nào hiểu điều đó sẽ thành công, còn ai bỏ qua sẽ nhận hậu quả ngoài ý muốn.
+
+Ông mở đầu bằng con tê giác đen: một chiếc sừng bán được 30.000 USD trên chợ đen ở nơi thu nhập bình quân khoảng 1.000 USD/năm, nên con tê giác chết đáng giá hơn con tê giác sống; cách cứu nó là làm cho người dân địa phương có lợi khi nó còn sống.
+
+Từ đó ông đi qua các ví dụ:
+
+- nhà máy phân bón Ấn Độ 12 năm không sản xuất được bao phân nào
+- giáo viên được trả lương không gắn với kết quả
+- chính sách cấm xe theo biển số ở Mexico City làm không khí tệ hơn
+- phí vào trung tâm London làm giao thông giảm 15–20%
+- quyền chọn cổ phiếu biến thành "ma tuý quản trị"
+- người môi giới nhà chỉ muốn bán nhanh
+- thế lưỡng nan của người tù làm cạn kiệt ngư trường
+- thuế suất cao đẩy Björn Borg sang Monaco
+
+Kết luận: chương trình, tổ chức và hệ thống vận hành tốt hơn khi thiết kế đúng động cơ khuyến khích, "như chèo thuyền xuôi dòng", tức là thuận theo cách con người vốn hành xử thay vì cưỡng lại.
 
 ## Sơ đồ
 
@@ -503,7 +515,9 @@ Số tê giác đen ở miền nam châu Phi đã giảm từ khoảng 65.000 co
 
 Thị trường ở đây không tự điều chỉnh. Với hàng hoá thông thường, giá tăng sẽ kéo thêm nhà sản xuất vào; nhưng không ai "sản xuất" được tê giác hoang dã. Ngược lại, tê giác càng hiếm thì sừng càng đắt, kẻ săn trộm càng có động cơ, tạo một vòng luẩn quẩn. Vấn đề nằm ở quyền tài sản: tê giác là tài sản chung. Wheelan đề nghị một thí nghiệm tư duy: nếu cả đàn thuộc về một chủ trang trại tham lam, chẳng quan tâm gì đến môi trường, ông ta sẽ không bao giờ để đàn giảm từ 65.000 xuống 4.000 trong 30 năm. Ông ta sẽ nhân giống và bảo vệ chúng như người nuôi bò bảo vệ đàn bò, không vì lòng tốt mà vì muốn tối đa hoá giá trị của một tài sản khan hiếm.
 
-Trong thực tế, những người có lợi khi tê giác sống lại không có động cơ bảo vệ nó. Dân làng quanh khu bảo tồn không được gì, mà tê giác và voi còn phá hoa màu. Wheelan đảo ngược tình huống để người đọc Mỹ cảm nhận: hãy tưởng tượng người châu Phi rất quý loài chuột nâu Bắc Mỹ, và muốn bảo tồn chúng thì chuột phải sống và sinh sản trong nhà bạn; rồi một kẻ săn trộm trả tiền mặt để bạn chỉ chỗ tổ chuột dưới tầng hầm. Hàng triệu người trên thế giới thích tê giác đen và khỉ đột núi được bảo tồn, nhưng mỗi người đều là kẻ đi xe không trả tiền: Wheelan hỏi thẳng người đọc năm ngoái đã đóng góp bao nhiêu. Các công ty safari cũng vậy: công ty nào tự bỏ tiền bảo tồn sẽ phải bán tour đắt hơn hoặc chịu lãi thấp hơn. Chính phủ có vai trò, nhưng các chính phủ châu Phi cận Sahara, tốt nhất thì thiếu tiền, tệ nhất thì tham nhũng hoặc rối loạn. Kết quả: chỉ kẻ săn trộm là có động cơ mạnh và rõ ràng.
+Trong thực tế, những người có lợi khi tê giác sống lại không có động cơ bảo vệ nó. Dân làng quanh khu bảo tồn không được gì, mà tê giác và voi còn phá hoa màu. Wheelan đảo ngược tình huống để người đọc Mỹ cảm nhận: hãy tưởng tượng người châu Phi rất quý loài chuột nâu Bắc Mỹ, và muốn bảo tồn chúng thì chuột phải sống và sinh sản trong nhà bạn; rồi một kẻ săn trộm trả tiền mặt để bạn chỉ chỗ tổ chuột dưới tầng hầm.
+
+Hàng triệu người trên thế giới thích tê giác đen và khỉ đột núi được bảo tồn, nhưng mỗi người đều là kẻ đi xe không trả tiền: Wheelan hỏi thẳng người đọc năm ngoái đã đóng góp bao nhiêu. Các công ty safari cũng vậy: công ty nào tự bỏ tiền bảo tồn sẽ phải bán tour đắt hơn hoặc chịu lãi thấp hơn. Chính phủ có vai trò, nhưng các chính phủ châu Phi cận Sahara, tốt nhất thì thiếu tiền, tệ nhất thì tham nhũng hoặc rối loạn. Kết quả: chỉ kẻ săn trộm là có động cơ mạnh và rõ ràng.
 
 ### 2. Các cách cứu: du lịch sinh thái, cưa sừng, cấm hay bán sừng
 
@@ -517,9 +531,15 @@ Cách thứ hai là cưa sừng: bắt tê giác, cưa sừng, rồi thả ra. C
 
 ### 3. Động cơ khuyến khích có sức nặng: từ kinh tế kế hoạch đến giáo dục
 
-Nguyên lý rất đơn giản và hiển nhiên, nhưng thường bị bỏ qua khi thiết kế chính sách: con người hành động vì lợi ích riêng. Nhân viên làm theo hoa hồng thì chăm hơn; giá xăng tăng thì người ta lái xe ít hơn; nếu con gái ba tuổi của Wheelan biết rằng khóc khi bố đang nghe điện thoại sẽ được cho bánh Oreo, cô bé sẽ khóc mỗi lần bố nghe điện thoại. Adam Smith đã viết rằng ta có bữa tối không nhờ lòng tốt của người bán thịt, người nấu bia hay người làm bánh mà nhờ họ quan tâm lợi ích riêng. Bill Gates không bỏ Harvard để tham gia Peace Corps (đoàn tình nguyện của chính phủ Mỹ); ông lập Microsoft, trở thành một trong những người giàu nhất thế giới và đồng thời làm mọi người khá hơn nhờ cuộc cách mạng máy tính cá nhân.
+Nguyên lý rất đơn giản và hiển nhiên, nhưng thường bị bỏ qua khi thiết kế chính sách: con người hành động vì lợi ích riêng. Nhân viên làm theo hoa hồng thì chăm hơn; giá xăng tăng thì người ta lái xe ít hơn; nếu con gái ba tuổi của Wheelan biết rằng khóc khi bố đang nghe điện thoại sẽ được cho bánh Oreo, cô bé sẽ khóc mỗi lần bố nghe điện thoại.
 
-Kinh tế phi thị trường thất bại vì tách thu nhập khỏi năng suất: người đổi mới không được thưởng, người lười không bị phạt. Theo Wheelan, khẩu hiệu "làm theo năng lực, hưởng theo nhu cầu" nghe hay khi là lời bài hát dân ca, nhưng khi thành hệ thống kinh tế thì dẫn tới đủ thứ, từ lãng phí đến nạn đói hàng loạt. Khi Bức tường Berlin sụp đổ, các nhà máy ô tô Đông Đức đang phá huỷ giá trị: chiếc xe làm ra đáng giá ít hơn nguyên liệu đầu vào. Ngay cả nền kinh tế danh nghĩa tư bản có khu vực nhà nước lớn cũng vậy: đến năm 1991, Hindustan Fertilizer Corporation ở Ấn Độ đã hoạt động 12 năm, mỗi ngày 1.200 nhân viên đi làm, nhưng chưa từng sản xuất được bao phân nào bán được. Máy móc không bao giờ chạy, nhà nước vẫn trả lương; không có cơ chế nào buộc nhà máy đóng cửa hay buộc nó bán sản phẩm cao hơn chi phí. Bắc Triều Tiên, ở thời điểm Wheelan viết, không tự nuôi nổi dân và không có gì giá trị để đổi lấy lương thực; nạn đói thập niên 1990 làm khoảng 1 triệu người chết, 60% trẻ em suy dinh dưỡng, người dân ăn cỏ và nhặt than, thức ăn rơi dọc đường ray.
+Adam Smith đã viết rằng ta có bữa tối không nhờ lòng tốt của người bán thịt, người nấu bia hay người làm bánh mà nhờ họ quan tâm lợi ích riêng. Bill Gates không bỏ Harvard để tham gia Peace Corps (đoàn tình nguyện của chính phủ Mỹ); ông lập Microsoft, trở thành một trong những người giàu nhất thế giới và đồng thời làm mọi người khá hơn nhờ cuộc cách mạng máy tính cá nhân.
+
+Kinh tế phi thị trường thất bại vì tách thu nhập khỏi năng suất: người đổi mới không được thưởng, người lười không bị phạt. Theo Wheelan, khẩu hiệu "làm theo năng lực, hưởng theo nhu cầu" nghe hay khi là lời bài hát dân ca, nhưng khi thành hệ thống kinh tế thì dẫn tới đủ thứ, từ lãng phí đến nạn đói hàng loạt. Khi Bức tường Berlin sụp đổ, các nhà máy ô tô Đông Đức đang phá huỷ giá trị: chiếc xe làm ra đáng giá ít hơn nguyên liệu đầu vào.
+
+Ngay cả nền kinh tế danh nghĩa tư bản có khu vực nhà nước lớn cũng vậy: đến năm 1991, Hindustan Fertilizer Corporation ở Ấn Độ đã hoạt động 12 năm, mỗi ngày 1.200 nhân viên đi làm, nhưng chưa từng sản xuất được bao phân nào bán được. Máy móc không bao giờ chạy, nhà nước vẫn trả lương; không có cơ chế nào buộc nhà máy đóng cửa hay buộc nó bán sản phẩm cao hơn chi phí.
+
+Bắc Triều Tiên, ở thời điểm Wheelan viết, không tự nuôi nổi dân và không có gì giá trị để đổi lấy lương thực; nạn đói thập niên 1990 làm khoảng 1 triệu người chết, 60% trẻ em suy dinh dưỡng, người dân ăn cỏ và nhặt than, thức ăn rơi dọc đường ray.
 
 Với vấn đề năng lượng của Mỹ (phụ thuộc dầu nhập khẩu và thải CO2), giải pháp của nhà kinh tế gần như hiển nhiên: làm cho năng lượng gốc carbon đắt hơn để người ta dùng ít hơn. Wheelan kể cha ông chẳng yêu môi trường gì nhưng tiết kiệm đến từng đồng, nên bắt cả nhà đóng cửa tủ quần áo vì không muốn trả tiền điều hoà cho cái tủ.
 
@@ -560,9 +580,13 @@ Khu vực tư nhân không tự động khớp động cơ. Wheelan bắt đầu
 
 Ở đỉnh doanh nghiệp, CEO là người đại diện còn cổ đông là người uỷ thác. Wheelan có cổ phần Starbucks nhưng không biết tên CEO. Giống thu ngân, các nhà quản lý có thể "ăn cắp" theo nghĩa bóng: máy bay riêng, thẻ hội viên câu lạc bộ, và những quyết định chiến lược có lợi cho họ hơn cho cổ đông. Khoảng hai phần ba các vụ sáp nhập không tạo thêm giá trị, và khoảng một phần ba làm cổ đông thiệt. Một phần lý do là sau sáp nhập CEO được chú ý hơn, điều hành một công ty lớn hơn, uy tín hơn dù kém sinh lời hơn, kèm văn phòng lớn, lương cao, máy bay riêng. Một số vụ sáp nhập có lý, nhưng cổ đông thiếu thông tin không phân biệt được vụ nào có lý, vụ nào chỉ có lợi cho CEO.
 
-Quyền chọn cổ phiếu được kỳ vọng làm với CEO điều mà tấm biển hoá đơn làm với thu ngân, tức tạo động cơ để người đại diện tự làm điều người uỷ thác muốn. Quyền chọn là quyền mua cổ phiếu ở giá định trước, ví dụ 10 USD. Nếu cổ phiếu lên 57 USD thì quyền chọn rất giá trị; nếu xuống 7 USD thì vô giá trị (chẳng ai trả 10 USD cho thứ thị trường bán 7 USD). Về lý thuyết, nó gắn CEO với cổ đông. Trước khi ra ấn bản đầu, Wheelan nhờ Paul Volcker (cựu Chủ tịch Fed, thầy cũ của ông) đọc bản thảo; Volcker thích sách nhưng bảo đừng viết khen quyền chọn, vì đó là "công cụ của quỷ". Ở ấn bản này Wheelan viết thẳng rằng Volcker đúng, còn ông đã sai. CEO khôn ngoan có thể đẩy giá cổ phiếu ngắn hạn, gây hại dài hạn, sau khi đã bán hàng chục nghìn quyền chọn. Michael Jensen (Trường Kinh doanh Harvard) gọi quyền chọn là "ma tuý quản trị": phê ngắn hạn, hại dài hạn. Nghiên cứu cho thấy công ty cấp nhiều quyền chọn có khả năng gian lận kế toán và vỡ nợ cao hơn.
+Quyền chọn cổ phiếu được kỳ vọng làm với CEO điều mà tấm biển hoá đơn làm với thu ngân, tức tạo động cơ để người đại diện tự làm điều người uỷ thác muốn. Quyền chọn là quyền mua cổ phiếu ở giá định trước, ví dụ 10 USD. Nếu cổ phiếu lên 57 USD thì quyền chọn rất giá trị; nếu xuống 7 USD thì vô giá trị (chẳng ai trả 10 USD cho thứ thị trường bán 7 USD). Về lý thuyết, nó gắn CEO với cổ đông.
 
-Chính các CEO cũng có bài toán giám sát. Lehman Brothers và Bear Stearns bị phá huỷ bởi những nhân viên chấp nhận rủi ro khổng lồ bằng tiền của công ty. Đây là mắt xích then chốt của khủng hoảng tài chính: các ngân hàng thổi bong bóng bất động sản bằng những khoản cho vay liều lĩnh, vì họ có thể chứng khoán hoá và bán chúng đi. (Chứng khoán hoá: ngân hàng gom khoản vay mua nhà của nhiều hộ gia đình thành một gói, bán cho bên sẵn sàng trả tiền mặt ngay để nhận dòng tiền trả góp hằng tháng về sau. Việc này có ích nếu cho vay có trách nhiệm, vì ngân hàng thu hồi vốn để cho vay tiếp; bỏ chữ "có trách nhiệm" đi thì thành vấn đề.) Simon Johnson, cựu kinh tế trưởng IMF, viết trên *The Atlantic* năm 2009 rằng ngân hàng lớn và quỹ phòng hộ hưởng lợi lớn từ bong bóng kép nhà đất và cổ phiếu; lợi nhuận đến từ khối lượng giao dịch ngày càng tăng trên một nền tài sản thực nhỏ; mỗi lần khoản vay được bán, đóng gói, chứng khoán hoá và bán lại, ngân hàng thu phí. Mỗi giao dịch chứa rủi ro, nhưng nhân viên hưởng hoa hồng lớn từ những thứ về sau thành "tài sản độc hại" không gánh hết rủi ro; công ty gánh. Ngửa thì họ thắng, sấp thì công ty thua. Ở Lehman nhân viên mất việc, nhưng phần lớn những người có lỗi nhất không phải trả lại tiền thưởng khổng lồ của những năm tốt.
+Trước khi ra ấn bản đầu, Wheelan nhờ Paul Volcker (cựu Chủ tịch Fed, thầy cũ của ông) đọc bản thảo; Volcker thích sách nhưng bảo đừng viết khen quyền chọn, vì đó là "công cụ của quỷ". Ở ấn bản này Wheelan viết thẳng rằng Volcker đúng, còn ông đã sai. CEO khôn ngoan có thể đẩy giá cổ phiếu ngắn hạn, gây hại dài hạn, sau khi đã bán hàng chục nghìn quyền chọn. Michael Jensen (Trường Kinh doanh Harvard) gọi quyền chọn là "ma tuý quản trị": phê ngắn hạn, hại dài hạn. Nghiên cứu cho thấy công ty cấp nhiều quyền chọn có khả năng gian lận kế toán và vỡ nợ cao hơn.
+
+Chính các CEO cũng có bài toán giám sát. Lehman Brothers và Bear Stearns bị phá huỷ bởi những nhân viên chấp nhận rủi ro khổng lồ bằng tiền của công ty. Đây là mắt xích then chốt của khủng hoảng tài chính: các ngân hàng thổi bong bóng bất động sản bằng những khoản cho vay liều lĩnh, vì họ có thể chứng khoán hoá và bán chúng đi. (Chứng khoán hoá: ngân hàng gom khoản vay mua nhà của nhiều hộ gia đình thành một gói, bán cho bên sẵn sàng trả tiền mặt ngay để nhận dòng tiền trả góp hằng tháng về sau. Việc này có ích nếu cho vay có trách nhiệm, vì ngân hàng thu hồi vốn để cho vay tiếp; bỏ chữ "có trách nhiệm" đi thì thành vấn đề.)
+
+Simon Johnson, cựu kinh tế trưởng IMF, viết trên *The Atlantic* năm 2009 rằng ngân hàng lớn và quỹ phòng hộ hưởng lợi lớn từ bong bóng kép nhà đất và cổ phiếu; lợi nhuận đến từ khối lượng giao dịch ngày càng tăng trên một nền tài sản thực nhỏ; mỗi lần khoản vay được bán, đóng gói, chứng khoán hoá và bán lại, ngân hàng thu phí. Mỗi giao dịch chứa rủi ro, nhưng nhân viên hưởng hoa hồng lớn từ những thứ về sau thành "tài sản độc hại" không gánh hết rủi ro; công ty gánh. Ngửa thì họ thắng, sấp thì công ty thua. Ở Lehman nhân viên mất việc, nhưng phần lớn những người có lỗi nhất không phải trả lại tiền thưởng khổng lồ của những năm tốt.
 
 Các tổ chức xếp hạng tín nhiệm như Standard & Poor's và Moody's lẽ ra độc lập, nhưng nhiều tài sản độc hại được xếp hạng xuất sắc. Một phần do kém năng lực; một phần do họ được trả tiền bởi chính công ty bán chứng khoán mà họ xếp hạng, giống như người bán xe cũ trả tiền cho người thẩm định đứng ngay trong bãi xe của mình rồi gọi anh ta sang nói với khách xem giá có hời không.
 
@@ -598,7 +622,9 @@ Người tù A lập luận: nếu B im lặng, A khai thì chỉ bị 3 năm th
 
 Áp vào tài nguyên tái tạo như ngư trường: nếu khai thác có chừng mực (giới hạn sản lượng mỗi mùa), đàn cá kiếm Đại Tây Dương sẽ ổn định hoặc tăng, sống mãi. Nhưng không ai sở hữu đàn cá nên khó kiểm soát, và các tàu cá hành xử như những người tù. Ngư dân John Sorlien ở Rhode Island nói với *New York Times* rằng động cơ duy nhất của ông lúc này là ra khơi bắt càng nhiều càng tốt, vì con cá nào ông chừa lại cũng sẽ bị người kế tiếp bắt. Cá ngừ, cá tuyết, cá kiếm, tôm hùm đều bị đánh bắt cạn kiệt. Chính trị gia làm tệ thêm bằng trợ cấp cứu ngư dân, khiến những tàu lẽ ra bỏ nghề vẫn ở lại trên biển.
 
-Port Lincoln, một cộng đồng đánh bắt tôm hùm trên bờ biển phía nam Australia, đã tự cứu mình. Từ thập niên 1960, họ giới hạn số bẫy và bán giấy phép; người mới vào nghề phải mua lại giấy phép của người cũ. Đàn tôm hùm phát triển tốt, ngư dân Port Lincoln bắt được nhiều hơn đồng nghiệp Mỹ mà làm việc ít hơn. Giấy phép cho mỗi bẫy giá 2.000 USD năm 1984, nay khoảng 35.000 USD. Ngư dân Daryl Spencer nói với tờ *Times* rằng ông chẳng có lý do gì để làm hại ngư trường, vì ngư trường là quỹ hưu trí của ông: không ai trả 35.000 USD cho một bẫy nếu không còn tôm hùm. Họ không thông minh hơn hay vị tha hơn ngư dân Mỹ; họ có động cơ khác. Một số nhóm môi trường phản đối hạn ngạch có giấy phép vì nó "tư nhân hoá" tài nguyên công và có thể để công ty lớn mua hết, đẩy ngư dân nhỏ ra. Nhưng bằng chứng cho thấy quyền tài sản tư nhân (quyền được bắt một lượng nhất định và quyền bán nó) là cách hiệu quả nhất chống sụp đổ ngư trường: một nghiên cứu trên *Science* năm 2008 thấy ngư trường dùng hạn ngạch cá nhân chuyển nhượng được (ITQ) có khả năng sụp đổ chỉ bằng một nửa ngư trường quản lý truyền thống.
+Port Lincoln, một cộng đồng đánh bắt tôm hùm trên bờ biển phía nam Australia, đã tự cứu mình. Từ thập niên 1960, họ giới hạn số bẫy và bán giấy phép; người mới vào nghề phải mua lại giấy phép của người cũ. Đàn tôm hùm phát triển tốt, ngư dân Port Lincoln bắt được nhiều hơn đồng nghiệp Mỹ mà làm việc ít hơn. Giấy phép cho mỗi bẫy giá 2.000 USD năm 1984, nay khoảng 35.000 USD. Ngư dân Daryl Spencer nói với tờ *Times* rằng ông chẳng có lý do gì để làm hại ngư trường, vì ngư trường là quỹ hưu trí của ông: không ai trả 35.000 USD cho một bẫy nếu không còn tôm hùm. Họ không thông minh hơn hay vị tha hơn ngư dân Mỹ; họ có động cơ khác.
+
+Một số nhóm môi trường phản đối hạn ngạch có giấy phép vì nó "tư nhân hoá" tài nguyên công và có thể để công ty lớn mua hết, đẩy ngư dân nhỏ ra. Nhưng bằng chứng cho thấy quyền tài sản tư nhân (quyền được bắt một lượng nhất định và quyền bán nó) là cách hiệu quả nhất chống sụp đổ ngư trường: một nghiên cứu trên *Science* năm 2008 thấy ngư trường dùng hạn ngạch cá nhân chuyển nhượng được (ITQ) có khả năng sụp đổ chỉ bằng một nửa ngư trường quản lý truyền thống.
 
 ### 8. Phá huỷ sáng tạo
 
@@ -606,7 +632,9 @@ Wheelan nêu thêm hai điểm. Điểm thứ nhất: kinh tế thị trường 
 
 Chủ nghĩa tư bản có thể tàn nhẫn. Động cơ hơi nước, máy kéo sợi, điện thoại là thời kỳ tồi tệ cho thợ rèn, thợ may, nhân viên điện báo. Nhưng phá huỷ sáng tạo phải xảy ra. Đầu thế kỷ 20, khoảng một nửa người Mỹ làm nông hoặc chăn nuôi; nay khoảng 1 trên 100 và còn giảm (Iowa mất khoảng 1.500 nông dân mỗi năm). Điều không xảy ra là người Mỹ chết đói, hay 49% lao động thất nghiệp. Nông dân năng suất đến mức những người lẽ ra làm nông 90 năm trước nay sửa ô tô, thiết kế trò chơi điện tử, chơi bóng bầu dục chuyên nghiệp. Wheelan mời người đọc tưởng tượng Steve Jobs, Steven Spielberg và Oprah Winfrey là nông dân trồng ngô.
 
-Về dài hạn kết quả là tốt; nhưng người mất việc phải trả hoá đơn hằng tháng chứ không thể chờ tới "dài hạn", và công ty cho vay thế chấp thì không khoan nhượng. Nhà máy đóng cửa có thể khiến một vùng mất nhiều năm hay cả thế hệ để hồi phục: New England đầy xưởng dệt, xưởng giày bỏ hoang; Gary, Indiana có hàng dặm nhà máy thép rỉ sét và nay nổi tiếng nhất vì tỷ lệ giết người trên đầu người cao nhất nước Mỹ. Vì cạnh tranh tạo ra người thua, người ta ủng hộ nó trên lý thuyết và chống nó trong thực tế. Một bạn học đại học của Wheelan làm cho một nghị sĩ Michigan và không được lái chiếc xe Nhật của mình đến chỗ đỗ dành riêng của nghị sĩ; nghị sĩ tự nhận ủng hộ thị trường, trừ khi công ty Nhật làm ra xe tốt hơn, rẻ hơn. (Wheelan cho rằng ngành ô tô Mỹ sẽ mạnh hơn về lâu dài nếu đối đầu thẳng với cạnh tranh Nhật thay vì được bảo hộ chính trị trước làn sóng nhập khẩu đầu tiên thập niên 1970–1980.) Thợ dệt nông thôn Anh thời Cách mạng Công nghiệp biểu tình, kiến nghị Quốc hội, đốt xưởng dệt để chống máy móc; nếu họ thắng, ta có khá hơn khi vẫn dệt vải bằng tay không?
+Về dài hạn kết quả là tốt; nhưng người mất việc phải trả hoá đơn hằng tháng chứ không thể chờ tới "dài hạn", và công ty cho vay thế chấp thì không khoan nhượng. Nhà máy đóng cửa có thể khiến một vùng mất nhiều năm hay cả thế hệ để hồi phục: New England đầy xưởng dệt, xưởng giày bỏ hoang; Gary, Indiana có hàng dặm nhà máy thép rỉ sét và nay nổi tiếng nhất vì tỷ lệ giết người trên đầu người cao nhất nước Mỹ.
+
+Vì cạnh tranh tạo ra người thua, người ta ủng hộ nó trên lý thuyết và chống nó trong thực tế. Một bạn học đại học của Wheelan làm cho một nghị sĩ Michigan và không được lái chiếc xe Nhật của mình đến chỗ đỗ dành riêng của nghị sĩ; nghị sĩ tự nhận ủng hộ thị trường, trừ khi công ty Nhật làm ra xe tốt hơn, rẻ hơn. (Wheelan cho rằng ngành ô tô Mỹ sẽ mạnh hơn về lâu dài nếu đối đầu thẳng với cạnh tranh Nhật thay vì được bảo hộ chính trị trước làn sóng nhập khẩu đầu tiên thập niên 1970–1980.) Thợ dệt nông thôn Anh thời Cách mạng Công nghiệp biểu tình, kiến nghị Quốc hội, đốt xưởng dệt để chống máy móc; nếu họ thắng, ta có khá hơn khi vẫn dệt vải bằng tay không?
 
 Câu ngạn ngữ Mỹ nói ai làm ra cái bẫy chuột tốt hơn thì thiên hạ sẽ kéo đến mua; Wheelan nói nốt vế kia: ai đang làm cái bẫy chuột cũ thì bắt đầu phải sa thải người. Điều đó giải thích vì sao người ta lưỡng lự với thương mại, toàn cầu hoá, Wal-Mart và tự động hoá. Chính sách phải đánh đổi: chính phủ bị ép giúp doanh nghiệp và người lao động đang gặp khó, nhưng cứu doanh nghiệp hay làm cho việc sa thải khó hơn sẽ làm chậm hoặc chặn phá huỷ sáng tạo. Huấn luyện viên bóng bầu dục thời trung học của Wheelan hay nói: không đau thì không tiến.
 
@@ -614,25 +642,43 @@ Câu ngạn ngữ Mỹ nói ai làm ra cái bẫy chuột tốt hơn thì thiên
 
 Điểm thứ hai: không dễ chuyển tiền từ người giàu sang người nghèo, vì người giàu đổi hành vi: chuyển tiền, dùng các hình thức đầu tư tránh thuế, chuyển nơi cư trú. Björn Borg, tay vợt thống trị thời Wheelan còn nhỏ, sống ở Thuỵ Điển nơi thuế rất cao. Ông không vận động hành lang hay viết bài phản đối; ông chuyển nơi cư trú sang Monaco. Wheelan đùa: ít ra ông vẫn chơi quần vợt.
 
-Thuế tạo động cơ tránh hoạt động bị đánh thuế. Thuế thu nhập cao làm giảm động lực kiếm thu nhập, nhất là với người có thu nhập thứ hai trong gia đình. Virginia Postrel, cây bút kinh tế của *New York Times*, cho rằng thuế suất là vấn đề nữ quyền: với "thuế hôn nhân", người có thu nhập thứ hai trong các gia đình thu nhập cao (thường là phụ nữ) trả trung bình 50 xu thuế cho mỗi đô la kiếm thêm. Theo bà, hệ thống thuế bóp méo lựa chọn của phụ nữ đã kết hôn và, khi ngăn cản những công việc có giá trị, làm giảm mức sống chung. Sau cải cách thuế năm 1986, thuế suất cận biên của phụ nữ ở nhóm thu nhập cao nhất giảm mạnh hơn so với phụ nữ thu nhập thấp, và tỷ lệ tham gia lao động của nhóm thu nhập cao tăng gấp ba lần nhóm kia.
+Thuế tạo động cơ tránh hoạt động bị đánh thuế. Thuế thu nhập cao làm giảm động lực kiếm thu nhập, nhất là với người có thu nhập thứ hai trong gia đình.
+
+Virginia Postrel, cây bút kinh tế của *New York Times*, cho rằng thuế suất là vấn đề nữ quyền: với "thuế hôn nhân", người có thu nhập thứ hai trong các gia đình thu nhập cao (thường là phụ nữ) trả trung bình 50 xu thuế cho mỗi đô la kiếm thêm. Theo bà, hệ thống thuế bóp méo lựa chọn của phụ nữ đã kết hôn và, khi ngăn cản những công việc có giá trị, làm giảm mức sống chung. Sau cải cách thuế năm 1986, thuế suất cận biên của phụ nữ ở nhóm thu nhập cao nhất giảm mạnh hơn so với phụ nữ thu nhập thấp, và tỷ lệ tham gia lao động của nhóm thu nhập cao tăng gấp ba lần nhóm kia.
 
 Với doanh nghiệp, thuế cao làm giảm lợi suất đầu tư, nên ít đầu tư vào nhà máy và nghiên cứu hơn; tăng thuế để trợ giúp người khó khăn có thể làm giảm chính những khoản đầu tư sẽ giúp họ khá lên. Ở các nước Bắc Âu với chương trình xã hội hào phóng và thuế suất cận biên cao, kinh tế ngầm phình ra: ở Na Uy, nó tăng từ 1,5% GNP năm 1960 lên 18% vào giữa thập niên 1990. Đây là vòng luẩn quẩn: càng nhiều người trốn vào kinh tế ngầm, thuế suất với người còn lại càng phải tăng, và càng nhiều người bỏ đi.
 
-Trợ cấp cũng có động cơ ngược. Trợ cấp thất nghiệp hào phóng làm giảm động cơ tìm việc. Trước cải cách năm 1996, trợ cấp phúc lợi bằng tiền mặt chỉ trả cho phụ nữ đơn thân có con và không đi làm, nên ngầm phạt phụ nữ nghèo kết hôn hoặc đi làm. Và không phải mọi trợ cấp đều đến tay người nghèo: hai chương trình lớn nhất của liên bang, An sinh Xã hội và Medicare, trả cho mọi người Mỹ, kể cả người rất giàu. Bằng cách bảo đảm thu nhập tuổi già, chúng có thể làm giảm tiết kiệm cá nhân. Một số nhà kinh tế cho rằng chúng làm tỷ lệ tiết kiệm quốc gia giảm; số khác cho rằng chúng chỉ khiến người ta để lại nhiều tiền hơn cho con cháu; nghiên cứu thực nghiệm chưa có kết luận rõ. Đây không phải tranh cãi hàn lâm: tỷ lệ tiết kiệm thấp có thể hạn chế lượng vốn cho đầu tư nâng mức sống.
+Trợ cấp cũng có động cơ ngược. Trợ cấp thất nghiệp hào phóng làm giảm động cơ tìm việc. Trước cải cách năm 1996, trợ cấp phúc lợi bằng tiền mặt chỉ trả cho phụ nữ đơn thân có con và không đi làm, nên ngầm phạt phụ nữ nghèo kết hôn hoặc đi làm.
+
+Và không phải mọi trợ cấp đều đến tay người nghèo: hai chương trình lớn nhất của liên bang, An sinh Xã hội và Medicare, trả cho mọi người Mỹ, kể cả người rất giàu. Bằng cách bảo đảm thu nhập tuổi già, chúng có thể làm giảm tiết kiệm cá nhân. Một số nhà kinh tế cho rằng chúng làm tỷ lệ tiết kiệm quốc gia giảm; số khác cho rằng chúng chỉ khiến người ta để lại nhiều tiền hơn cho con cháu; nghiên cứu thực nghiệm chưa có kết luận rõ. Đây không phải tranh cãi hàn lâm: tỷ lệ tiết kiệm thấp có thể hạn chế lượng vốn cho đầu tư nâng mức sống.
 
 Wheelan nhấn mạnh rằng tất cả những điều này không phải lập luận chống thuế hay chống chương trình của chính phủ. Nhà kinh tế dành nhiều thời gian hơn chính trị gia để nghĩ nên thu loại thuế nào và thiết kế trợ cấp ra sao. Thuế xăng và thuế thu nhập đều tạo thu ngân sách nhưng động cơ khác hẳn: thuế thu nhập làm một số người bớt đi làm (xấu), thuế xăng làm một số người bớt lái xe (có thể tốt). "Thuế xanh" đánh vào hoạt động hại môi trường, "thuế tội lỗi" đánh vào thuốc lá, rượu, cờ bạc.
 
-Nhà kinh tế thường thích thuế **rộng, đơn giản và công bằng**. Đơn giản là dễ hiểu, dễ thu. Công bằng chỉ có nghĩa hai người tương tự (cùng thu nhập) trả thuế tương tự. Rộng là thu bằng một khoản thuế nhỏ trên một nhóm rất lớn, thay vì thuế lớn trên nhóm nhỏ; thuế rộng khó trốn hơn vì ít ngoại lệ, và thuế suất thấp nên ít động cơ trốn. Ví dụ: không nên đánh thuế nặng vào xe thể thao màu đỏ, vì người mua tránh được dễ dàng và hợp pháp bằng cách chọn màu khác; khi đó mọi người đều thiệt: nhà nước không thu được gì, người mê xe không được lái màu mình thích. Hiện tượng thuế làm người ta thiệt mà không ai được lợi gọi là tổn thất vô ích. Đánh thuế mọi xe thể thao, hay mọi ô tô, sẽ thu được nhiều hơn với mức thuế nhỏ hơn. Thuế xăng thu từ người lái xe như thuế ô tô mới nhưng còn khuyến khích tiết kiệm nhiên liệu: lái nhiều trả nhiều. Nhiều nhà kinh tế đi xa hơn: đánh thuế mọi nhiên liệu gốc carbon (than, dầu, xăng), vừa có cơ sở thuế rộng vừa khuyến khích tiết kiệm tài nguyên không tái tạo và giảm CO2 gây nóng lên toàn cầu.
+Nhà kinh tế thường thích thuế **rộng, đơn giản và công bằng**. Đơn giản là dễ hiểu, dễ thu. Công bằng chỉ có nghĩa hai người tương tự (cùng thu nhập) trả thuế tương tự. Rộng là thu bằng một khoản thuế nhỏ trên một nhóm rất lớn, thay vì thuế lớn trên nhóm nhỏ; thuế rộng khó trốn hơn vì ít ngoại lệ, và thuế suất thấp nên ít động cơ trốn.
 
-Nhưng lối suy nghĩ này không dẫn tới một loại thuế tối ưu; mỗi lựa chọn chỉ đổi vấn đề này lấy vấn đề khác. Thuế xe thể thao đỏ chỉ người giàu trả; thuế carbon thì giàu nghèo đều trả nhưng có lẽ chiếm phần thu nhập lớn hơn ở người nghèo. Thuế luỹ thoái (đè nặng lên người nghèo hơn) thường xúc phạm cảm giác công bằng; thuế luỹ tiến như thuế thu nhập thì đè nặng lên người giàu hơn. Kinh tế học không cho "đáp án đúng", chỉ cho khung phân tích. Loại thuế hiệu quả nhất, rộng, đơn giản và công bằng một cách hoàn hảo theo nghĩa hẹp, là thuế khoán: mọi người trong một địa phương trả như nhau. Thủ tướng Anh Margaret Thatcher đã thử năm 1989 với "phí cộng đồng" hay "thuế đầu người": mọi người lớn trả cùng một mức cho dịch vụ địa phương bất kể thu nhập hay tài sản (có giảm cho sinh viên, người nghèo, người thất nghiệp). Người Anh nổi loạn trên đường phố. Kinh tế học tốt không phải lúc nào cũng là chính trị tốt.
+Ví dụ: không nên đánh thuế nặng vào xe thể thao màu đỏ, vì người mua tránh được dễ dàng và hợp pháp bằng cách chọn màu khác; khi đó mọi người đều thiệt: nhà nước không thu được gì, người mê xe không được lái màu mình thích. Hiện tượng thuế làm người ta thiệt mà không ai được lợi gọi là tổn thất vô ích. Đánh thuế mọi xe thể thao, hay mọi ô tô, sẽ thu được nhiều hơn với mức thuế nhỏ hơn.
 
-Trợ cấp cũng không như nhau. Tín dụng thuế thu nhập (EITC), ý tưởng nhà kinh tế thúc đẩy hàng chục năm, là một trong những công cụ chống nghèo lớn nhất gần đây, vì nó tạo động cơ tốt hơn hẳn phúc lợi truyền thống. Phần lớn chương trình xã hội trả cho người không đi làm; EITC làm ngược lại: dùng hệ thống thuế thu nhập để bù thêm cho người lao động lương thấp, đưa tổng thu nhập lên trên chuẩn nghèo. Một người kiếm 11.000 USD nuôi gia đình bốn người có thể nhận thêm khoảng 8.000 USD qua EITC và các chương trình tương ứng của bang. Ý tưởng là "làm cho việc làm đáng công", kéo người ta vào lực lượng lao động, nơi họ có thể học kỹ năng và lên những việc lương cao hơn. Nhược điểm hiển nhiên: khác với phúc lợi, EITC không giúp người không tìm được việc nào, vốn là những người tuyệt vọng nhất.
+Thuế xăng thu từ người lái xe như thuế ô tô mới nhưng còn khuyến khích tiết kiệm nhiên liệu: lái nhiều trả nhiều. Nhiều nhà kinh tế đi xa hơn: đánh thuế mọi nhiên liệu gốc carbon (than, dầu, xăng), vừa có cơ sở thuế rộng vừa khuyến khích tiết kiệm tài nguyên không tái tạo và giảm CO2 gây nóng lên toàn cầu.
+
+Nhưng lối suy nghĩ này không dẫn tới một loại thuế tối ưu; mỗi lựa chọn chỉ đổi vấn đề này lấy vấn đề khác. Thuế xe thể thao đỏ chỉ người giàu trả; thuế carbon thì giàu nghèo đều trả nhưng có lẽ chiếm phần thu nhập lớn hơn ở người nghèo. Thuế luỹ thoái (đè nặng lên người nghèo hơn) thường xúc phạm cảm giác công bằng; thuế luỹ tiến như thuế thu nhập thì đè nặng lên người giàu hơn. Kinh tế học không cho "đáp án đúng", chỉ cho khung phân tích.
+
+Loại thuế hiệu quả nhất, rộng, đơn giản và công bằng một cách hoàn hảo theo nghĩa hẹp, là thuế khoán: mọi người trong một địa phương trả như nhau. Thủ tướng Anh Margaret Thatcher đã thử năm 1989 với "phí cộng đồng" hay "thuế đầu người": mọi người lớn trả cùng một mức cho dịch vụ địa phương bất kể thu nhập hay tài sản (có giảm cho sinh viên, người nghèo, người thất nghiệp). Người Anh nổi loạn trên đường phố. Kinh tế học tốt không phải lúc nào cũng là chính trị tốt.
+
+Trợ cấp cũng không như nhau. Tín dụng thuế thu nhập (EITC), ý tưởng nhà kinh tế thúc đẩy hàng chục năm, là một trong những công cụ chống nghèo lớn nhất gần đây, vì nó tạo động cơ tốt hơn hẳn phúc lợi truyền thống. Phần lớn chương trình xã hội trả cho người không đi làm; EITC làm ngược lại: dùng hệ thống thuế thu nhập để bù thêm cho người lao động lương thấp, đưa tổng thu nhập lên trên chuẩn nghèo.
+
+Một người kiếm 11.000 USD nuôi gia đình bốn người có thể nhận thêm khoảng 8.000 USD qua EITC và các chương trình tương ứng của bang. Ý tưởng là "làm cho việc làm đáng công", kéo người ta vào lực lượng lao động, nơi họ có thể học kỹ năng và lên những việc lương cao hơn. Nhược điểm hiển nhiên: khác với phúc lợi, EITC không giúp người không tìm được việc nào, vốn là những người tuyệt vọng nhất.
 
 ### 10. Kết: tên lửa tuân theo định luật vật lý, con người thì không
 
-Wheelan kể khi nộp đơn học cao học nhiều năm trước, ông viết một bài luận bày tỏ sự khó hiểu: một nước đưa được người lên Mặt Trăng sao vẫn có người ngủ ngoài đường? Một phần là ý chí chính trị; nếu coi đó là ưu tiên quốc gia, ta có thể đưa nhiều người ra khỏi đường phố ngay. Nhưng ông dần nhận ra NASA có việc dễ hơn: tên lửa tuân theo các định luật vật lý không đổi; ta biết Mặt Trăng sẽ ở đâu, tàu vũ trụ vào và ra quỹ đạo nhanh thế nào; giải đúng phương trình thì tên lửa luôn đáp đúng chỗ. Con người phức tạp hơn: người nghiện đang cai không hành xử dễ đoán như tên lửa trên quỹ đạo; không có công thức nào thuyết phục một cậu bé 16 tuổi đừng bỏ học. Nhưng ta có một công cụ mạnh: ta biết con người tìm cách làm mình khá hơn, theo cách họ tự định nghĩa. Hy vọng tốt nhất để cải thiện thân phận con người là hiểu vì sao ta hành động như vậy rồi lên kế hoạch tương ứng. Chương trình, tổ chức và hệ thống vận hành tốt hơn khi đặt đúng động cơ khuyến khích. Wheelan ví việc đó như chèo thuyền xuôi dòng: chính sách đi cùng chiều với cách con người vốn hành xử thì đỡ tốn sức hơn nhiều so với chính sách đi ngược chiều.
+Wheelan kể khi nộp đơn học cao học nhiều năm trước, ông viết một bài luận bày tỏ sự khó hiểu: một nước đưa được người lên Mặt Trăng sao vẫn có người ngủ ngoài đường? Một phần là ý chí chính trị; nếu coi đó là ưu tiên quốc gia, ta có thể đưa nhiều người ra khỏi đường phố ngay.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một chuỗi bán lẻ trả thưởng cho quản lý cửa hàng theo doanh thu tháng. Quản lý cửa hàng A đẩy doanh thu tháng 12 lên 3 tỷ đồng bằng cách giảm giá sâu và cho khách quen mua chịu; thưởng 2% doanh thu là 60 triệu đồng. Sang quý sau, 400 triệu đồng tiền hàng bán chịu không thu được, và khách đã quen chờ giảm giá. Công ty (người uỷ thác) gánh khoản lỗ; người quản lý (người đại diện) đã nhận thưởng. Đây là phiên bản nhỏ của quyền chọn cổ phiếu và của "ngửa thì họ thắng, sấp thì công ty thua". Cách sửa theo tinh thần của chương: thưởng theo lợi nhuận đã thu tiền, trả một phần thưởng chậm sau 6–12 tháng, và có điều khoản thu hồi thưởng nếu kết quả bị đảo ngược.
+Nhưng ông dần nhận ra NASA có việc dễ hơn: tên lửa tuân theo các định luật vật lý không đổi; ta biết Mặt Trăng sẽ ở đâu, tàu vũ trụ vào và ra quỹ đạo nhanh thế nào; giải đúng phương trình thì tên lửa luôn đáp đúng chỗ. Con người phức tạp hơn: người nghiện đang cai không hành xử dễ đoán như tên lửa trên quỹ đạo; không có công thức nào thuyết phục một cậu bé 16 tuổi đừng bỏ học.
+
+Nhưng ta có một công cụ mạnh: ta biết con người tìm cách làm mình khá hơn, theo cách họ tự định nghĩa. Hy vọng tốt nhất để cải thiện thân phận con người là hiểu vì sao ta hành động như vậy rồi lên kế hoạch tương ứng. Chương trình, tổ chức và hệ thống vận hành tốt hơn khi đặt đúng động cơ khuyến khích. Wheelan ví việc đó như chèo thuyền xuôi dòng: chính sách đi cùng chiều với cách con người vốn hành xử thì đỡ tốn sức hơn nhiều so với chính sách đi ngược chiều.
+
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một chuỗi bán lẻ trả thưởng cho quản lý cửa hàng theo doanh thu tháng. Quản lý cửa hàng A đẩy doanh thu tháng 12 lên 3 tỷ đồng bằng cách giảm giá sâu và cho khách quen mua chịu; thưởng 2% doanh thu là 60 triệu đồng. Sang quý sau, 400 triệu đồng tiền hàng bán chịu không thu được, và khách đã quen chờ giảm giá.
+
+Công ty (người uỷ thác) gánh khoản lỗ; người quản lý (người đại diện) đã nhận thưởng. Đây là phiên bản nhỏ của quyền chọn cổ phiếu và của "ngửa thì họ thắng, sấp thì công ty thua". Cách sửa theo tinh thần của chương: thưởng theo lợi nhuận đã thu tiền, trả một phần thưởng chậm sau 6–12 tháng, và có điều khoản thu hồi thưởng nếu kết quả bị đảo ngược.
 
 ## Luận điểm kinh tế cốt lõi
 
@@ -756,3 +802,177 @@ Wheelan không nói "thuế cao là xấu". Ông nói thuế nào cũng tạo đ
 - **Trong đầu tư.** Đọc cơ cấu lương thưởng của ban lãnh đạo trước khi mua cổ phiếu. Ban lãnh đạo được thưởng theo doanh thu hay giá cổ phiếu ngắn hạn thì có động cơ sáp nhập để "lớn" và làm đẹp số liệu; ban lãnh đạo nắm nhiều cổ phần dài hạn thì động cơ gần với cổ đông nhỏ hơn. Với báo cáo phân tích hay xếp hạng tín nhiệm, hỏi ai trả tiền cho người viết.
 - **Trong nghề nghiệp và đời sống.** Khi thuê môi giới nhà, đại lý bảo hiểm hay tư vấn tài chính, nhớ ví dụ 40.000 USD so với 1.200 USD: hoa hồng theo phần trăm thường khiến người đại diện muốn chốt nhanh hoặc bán sản phẩm có hoa hồng cao. Có thể thoả thuận thưởng thêm nếu bán trên một mức giá, hoặc trả phí cố định cho tư vấn độc lập.
 - **Khi đọc tin chính sách.** Với một chính sách cấm hay hạn chế (cấm xe theo ngày, cấm bán một mặt hàng, trợ cấp có điều kiện), hãy tự hỏi người dân và doanh nghiệp sẽ né nó bằng cách nào, như người dân Mexico City mua thêm xe cũ. Ở Việt Nam, các tranh luận về thu phí xe vào nội đô, về quản lý khai thác thuỷ sản ven bờ hay về cơ chế lương theo thâm niên trong khu vực công đều có thể soi bằng đúng các câu hỏi của chương: ai được lợi gì, ai gánh chi phí, và tài sản chung có ai chịu trách nhiệm giữ hay không.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 2 trên một trang: bảy nhánh lớn đi theo các mục 1–10 của phần Nội dung chi tiết (tê giác đen và các cách cứu, kinh tế phi thị trường và giáo dục, động cơ ngược và hệ quả ngoài ý muốn, người uỷ thác – người đại diện, thế lưỡng nan của người tù và ngư trường, phá huỷ sáng tạo cùng thuế và trợ cấp), mỗi nhánh ghi cơ chế, ví dụ và con số then chốt của Wheelan; nhánh cuối là thông điệp xuyên suốt của mục 10 và phần kết luận chính sách.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 2: con người phản ứng có hệ thống với động cơ khuyến khích, chính sách bỏ qua điều đó sẽ gặp hậu quả ngoài ý muốn`"]
+  n1["`Mục 1–2 — Tê giác đen: con vật chết đáng giá hơn con vật sống`"]
+  n0 --- n1
+  n2["`Tê giác đen ở miền nam châu Phi giảm từ khoảng 65.000 con (1970) xuống khoảng 4.000 con`"]
+  n1 --- n2
+  n3["`Một chiếc sừng bán 30.000 USD trên chợ đen, nơi thu nhập bình quân khoảng 1.000 USD/năm`"]
+  n1 --- n3
+  n4["`Không ai sản xuất được tê giác hoang dã: càng hiếm, sừng càng đắt, kẻ săn trộm càng có động cơ`"]
+  n1 --- n4
+  n5["`Tê giác là tài sản chung#59; một chủ trang trại tham lam sẽ nhân giống và bảo vệ đàn để giữ giá trị`"]
+  n1 --- n5
+  n6["`Dân làng không được lợi, người yêu tê giác là kẻ đi xe không trả tiền, chỉ kẻ săn trộm có động cơ rõ`"]
+  n1 --- n6
+  n7["`Du lịch sinh thái chỉ hiệu quả khi du khách trả tiền và dân địa phương được chia lợi nhuận`"]
+  n1 --- n7
+  n8["`Costa Rica dành hơn 25% lãnh thổ làm vườn quốc gia, du lịch thu hơn 1 tỷ USD/năm, khoảng 11% thu nhập quốc gia`"]
+  n7 --- n8
+  n9["`Khỉ đột núi (khoảng 620 con): nội chiến làm du lịch sụp đổ, dân làng nói sẽ quay lại đốn gỗ`"]
+  n7 --- n9
+  n10["`Cưa sừng cho kết quả lẫn lộn: kẻ săn trộm vẫn giết vì gốc sừng còn bán được và sừng tích trữ đắt thêm`"]
+  n1 --- n10
+  n11["`Cấm buôn sừng làm giảm cầu#59; phản biện: bán có giới hạn sừng tích trữ để lấy tiền chống săn trộm và kéo giá xuống`"]
+  n1 --- n11
+  n12["`Bảo vệ tê giác là chuyện kinh tế nhiều như chuyện sinh học: phải hiểu con người hành xử thế nào`"]
+  n1 --- n12
+  n13["`Mục 3 — Tách thu nhập khỏi năng suất thì hệ thống thất bại`"]
+  n0 --- n13
+  n14["`Làm theo hoa hồng thì chăm hơn, giá xăng tăng thì lái xe ít hơn`"]
+  n13 --- n14
+  n15["`Adam Smith: người bán thịt, nấu bia, làm bánh phục vụ ta vì lợi ích riêng, không vì lòng tốt`"]
+  n13 --- n15
+  n16["`Kinh tế phi thị trường: người đổi mới không được thưởng, người lười không bị phạt`"]
+  n13 --- n16
+  n17["`Nhà máy ô tô Đông Đức làm ra chiếc xe đáng giá ít hơn nguyên liệu đầu vào`"]
+  n13 --- n17
+  n18["`Hindustan Fertilizer: 12 năm, 1.200 nhân viên mỗi ngày, chưa bán được bao phân bón nào`"]
+  n13 --- n18
+  n19["`Bắc Triều Tiên thập niên 1990: khoảng 1 triệu người chết đói, 60% trẻ em suy dinh dưỡng`"]
+  n13 --- n19
+  n20["`Năng lượng: làm năng lượng gốc carbon đắt hơn để người ta dùng ít hơn`"]
+  n13 --- n20
+  n21["`Lương giáo viên theo thâm niên và bằng cấp gây lựa chọn bất lợi: người điểm thi cao nhất rời nghề sớm nhất`"]
+  n13 --- n21
+  n22["`Mục 4 — Động cơ khuyến khích ngược và quy luật hệ quả ngoài ý muốn`"]
+  n0 --- n22
+  n23["`Bắt buộc ghế trẻ em trên máy bay khiến một số gia đình lái xe, có thể làm số trẻ tử vong tăng`"]
+  n22 --- n23
+  n24["`Mexico City 1989 cấm xe một ngày mỗi tuần theo biển số: dân mua thêm xe cũ, xăng tiêu thụ tăng`"]
+  n22 --- n24
+  n25["`London từ 2003 thu phí xe vào khu trung tâm 8 dặm vuông: 5 bảng, năm 2005 lên 8 bảng`"]
+  n22 --- n25
+  n26["`Lượng xe giảm 20% tháng đầu, ổn định ở mức giảm 15%#59; tốc độ trung bình tăng gấp đôi`"]
+  n25 --- n26
+  n27["`Chậm trễ xe buýt giảm một nửa, khách xe buýt tăng 14%, nhưng tiền thu thấp hơn dự kiến`"]
+  n25 --- n27
+  n28["`Chính sách tốt dùng động cơ khuyến khích dẫn dắt hành vi#59; chính sách tồi không lường trước người ta né phạt`"]
+  n22 --- n28
+  n29["`Mục 5–6 — Người uỷ thác – người đại diện: động cơ gần giống chứ không giống hệt`"]
+  n0 --- n29
+  n30["`Tấm biển hoá đơn ở Burger King biến khách hàng thành người giám sát thu ngân`"]
+  n29 --- n30
+  n31["`CEO là người đại diện của cổ đông: khoảng 2/3 vụ sáp nhập không tạo giá trị, 1/3 làm cổ đông thiệt`"]
+  n29 --- n31
+  n32["`Quyền chọn giá 10 USD: cổ phiếu lên 57 USD thì rất giá trị, xuống 7 USD thì vô giá trị`"]
+  n29 --- n32
+  n33["`Volcker gọi quyền chọn là công cụ của quỷ, Jensen gọi là ma tuý quản trị#59; Wheelan nhận mình đã sai`"]
+  n29 --- n33
+  n34["`Lehman, Bear Stearns: cho vay liều rồi chứng khoán hoá#59; ngửa thì họ thắng, sấp thì công ty thua`"]
+  n29 --- n34
+  n35["`S#amp;P và Moody's được chính bên bán chứng khoán trả tiền, như thẩm định viên đứng trong bãi xe cũ`"]
+  n29 --- n35
+  n36["`Môi giới nhà hoa hồng 3%: bán 320.000 thay vì 280.000 USD đáng 40.000 USD với chủ nhà, chỉ 1.200 USD với môi giới`"]
+  n29 --- n36
+  n37["`Thách thức chưa giải: thưởng kết quả tốt mà không tạo động cơ lách hệ thống gây hại dài hạn`"]
+  n29 --- n37
+  n38["`Mục 7 — Thế lưỡng nan của người tù và ngư trường`"]
+  n0 --- n38
+  n39["`Cùng im lặng mỗi người 5 năm, cùng khai 25 năm#59; một người khai 3 năm, người im lặng tù chung thân`"]
+  n38 --- n39
+  n40["`Khai là lựa chọn tốt nhất dù người kia làm gì, nên cả hai nhận 25 năm mà không ai phi lý`"]
+  n38 --- n40
+  n41["`Ngư trường không chủ: con cá ngư dân chừa lại sẽ bị người kế tiếp bắt (John Sorlien)`"]
+  n38 --- n41
+  n42["`Cá ngừ, cá tuyết, cá kiếm, tôm hùm cạn kiệt#59; trợ cấp giữ những tàu lẽ ra bỏ nghề ở lại biển`"]
+  n38 --- n42
+  n43["`Port Lincoln giới hạn số bẫy và bán giấy phép: mỗi bẫy từ 2.000 USD (1984) lên khoảng 35.000 USD`"]
+  n38 --- n43
+  n44["`Ngư trường là quỹ hưu trí của ngư dân#59; họ không tốt bụng hơn, chỉ có động cơ khác`"]
+  n38 --- n44
+  n45["`Nghiên cứu Science 2008: ngư trường dùng ITQ có khả năng sụp đổ chỉ bằng một nửa`"]
+  n38 --- n45
+  n46["`Nhóm môi trường lo hạn ngạch tư nhân hoá tài nguyên công và để công ty lớn mua hết`"]
+  n38 --- n46
+  n47["`Mục 8–9 — Phá huỷ sáng tạo, thuế và trợ cấp: cạnh tranh và nhà nước đều tạo động cơ`"]
+  n0 --- n47
+  n48["`Thị trường thưởng người thắng và nghiền nát người thua (Schumpeter: phá huỷ sáng tạo)`"]
+  n47 --- n48
+  n49["`Wal-Mart bán rẻ như tăng thu nhập cho người mua, nhưng cửa hàng trên phố chính đóng cửa`"]
+  n47 --- n49
+  n50["`Người Mỹ làm nông từ khoảng một nửa xuống 1 trên 100 mà không ai chết đói, không có 49% thất nghiệp`"]
+  n47 --- n50
+  n51["`Người mất việc không chờ được dài hạn: xưởng bỏ hoang ở New England, nhà máy thép rỉ sét ở Gary, Indiana`"]
+  n47 --- n51
+  n52["`Người ta ủng hộ cạnh tranh trên lý thuyết, chống nó trong thực tế`"]
+  n47 --- n52
+  n53["`Cứu doanh nghiệp hay làm khó sa thải sẽ làm chậm hoặc chặn phá huỷ sáng tạo`"]
+  n47 --- n53
+  n54["`Thuế tạo động cơ tránh hoạt động bị đánh thuế, người giàu đổi hành vi`"]
+  n47 --- n54
+  n55["`Björn Borg không phản đối thuế cao ở Thuỵ Điển mà chuyển nơi cư trú sang Monaco`"]
+  n54 --- n55
+  n56["`Người có thu nhập thứ hai trong gia đình thu nhập cao trả trung bình 50 xu thuế cho mỗi đô la kiếm thêm`"]
+  n54 --- n56
+  n57["`Kinh tế ngầm ở Na Uy tăng từ 1,5% GNP (1960) lên 18% giữa thập niên 1990`"]
+  n54 --- n57
+  n58["`Thuế tốt thì rộng, đơn giản, công bằng#59; thuế nặng vào xe thể thao màu đỏ chỉ gây tổn thất vô ích`"]
+  n47 --- n58
+  n59["`Thuế carbon có cơ sở rộng nhưng luỹ thoái#59; thuế đầu người của Thatcher 1989 gây bạo loạn`"]
+  n58 --- n59
+  n60["`Trợ cấp cũng tạo động cơ ngược`"]
+  n47 --- n60
+  n61["`Phúc lợi trước 1996 chỉ trả cho phụ nữ đơn thân có con không đi làm, ngầm phạt kết hôn và đi làm`"]
+  n60 --- n61
+  n62["`EITC: người kiếm 11.000 USD nuôi gia đình bốn người nhận thêm khoảng 8.000 USD, nhưng bỏ sót người không có việc`"]
+  n60 --- n62
+  n63["`Thông điệp xuyên suốt`"]
+  n0 --- n63
+  n64["`Tên lửa tuân theo định luật vật lý, con người thì không, nhưng con người luôn tìm cách làm mình khá hơn`"]
+  n63 --- n64
+  n65["`Chương trình, tổ chức, hệ thống đặt đúng động cơ khuyến khích thì vận hành tốt hơn, như chèo thuyền xuôi dòng`"]
+  n63 --- n65
+  n66["`Trước mọi chính sách, hỏi: người ta sẽ thay đổi hành vi thế nào để né hay tận dụng nó`"]
+  n63 --- n66
+  n67["`Dùng giá và quyền tài sản thường hiệu quả hơn lệnh cấm`"]
+  n63 --- n67
+  class n0 root
+  class n1,n13,n22,n29,n38,n47,n63 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n14,n15,n16,n17,n18,n19,n20,n21,n23,n24,n25,n26,n27,n28,n30,n31,n32,n33,n34,n35,n36,n37,n39,n40,n41,n42,n43,n44,n45,n46,n48,n49,n50,n51,n52,n53,n54,n55,n56,n57,n58,n59,n60,n61,n62,n64,n65,n66,n67 leaf
+```
+
+## Nguồn
+
+Charles Wheelan, *Naked Economics: Undressing the Dismal Science*, ấn bản sửa đổi và cập nhật (W. W. Norton, 2010), Chương 2.
+
+## Tác giả
+
+Charles Wheelan (sinh 1966), nhà kinh tế và nhà báo Mỹ, từng là phóng viên của *The Economist* ở Trung Tây nước Mỹ, giảng dạy chính sách công tại Đại học Chicago và Dartmouth.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 1 cho thấy thị trường điều phối được hàng triệu người (ai nuôi Paris?) vì mỗi người theo đuổi lợi ích riêng và phản ứng với giá cả.
+
+Chương 2 tách riêng cái lõi của cơ chế đó, **động cơ khuyến khích** (*incentives*), và cho thấy nó vận hành ở mọi nơi: trong bảo tồn động vật hoang dã, trong kinh tế kế hoạch, trong chính sách giao thông, trong phòng họp hội đồng quản trị, trong ngư trường, trong hệ thống thuế.
+
+Chương này cũng mở đường cho Chương 3: khi động cơ khuyến khích của cá nhân lệch khỏi lợi ích của xã hội (tê giác bị săn, cá bị đánh bắt cạn kiệt), thị trường tự nó không sửa được, và chính phủ phải vào cuộc.
+
+## Lưu ý
+
+- Ấn bản sửa đổi viết sau khủng hoảng tài chính 2008, nên phần người uỷ thác – người đại diện có thêm Lehman Brothers, Bear Stearns, các tổ chức xếp hạng tín nhiệm và lời Wheelan tự nhận sai về quyền chọn cổ phiếu (ấn bản đầu năm 2002 khen công cụ này).
+- Số liệu tính đến khoảng 2008–2009 và nay phần lớn đã cũ: số tê giác đen và khỉ đột núi về sau đã nhích lên nhờ các chương trình bảo tồn có chia lợi ích cho dân địa phương (điều này củng cố chứ không bác bỏ lập luận của chương); phí vào trung tâm London đã tăng nhiều lần so với mức 8 bảng năm 2005; mức tín dụng thuế EITC và các chương trình xã hội Mỹ đã thay đổi.
+- Phụ đề chương chơi chữ thành ngữ tiếng Anh *cut off your nose to spite your face* ("cắt mũi để trả thù cái mặt", tức tự làm hại mình vì giận dỗi); Wheelan đảo nghĩa: với tê giác đen, cưa bỏ chiếc sừng trên mũi có thể giữ được mạng sống.
+- Chương này không có chú thích chân trang dấu `*`.
+- Các câu trích là bản dịch của người tổng hợp.

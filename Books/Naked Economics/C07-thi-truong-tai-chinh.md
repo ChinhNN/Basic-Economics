@@ -1,11 +1,14 @@
 # Chương 7 — Thị trường tài chính (Financial Markets: What economics can tell us about getting rich quick (and losing weight, too!))
 
-**Nguồn:** Charles Wheelan, *Naked Economics: Undressing the Dismal Science*, ấn bản sửa đổi và cập nhật (W. W. Norton, 2010), Chương 7.
-**Tác giả:** Charles Wheelan (sinh 1966), nhà kinh tế và nhà báo Mỹ, từng là phóng viên của *The Economist* ở Trung Tây nước Mỹ, giảng dạy chính sách công tại Đại học Chicago và Dartmouth.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 6 kết luận rằng mức sống tăng nhờ đầu tư (vào vốn vật chất, vốn con người, nghiên cứu), và đầu tư đòi hỏi hy sinh tiêu dùng hôm nay. Chương 7 trả lời câu hỏi tiếp theo: tiền tiết kiệm đi đến khoản đầu tư bằng cách nào, và cá nhân nên đối xử với tiền tiết kiệm của mình ra sao. Wheelan áp các ý tưởng của Chương 1 và 2 (ai cũng tối đa hoá độ thoả dụng; giá thị trường phản ánh thông tin) vào thị trường tài chính, và áp Chương 5 (bảo hiểm, thông tin bất cân xứng) vào quản lý rủi ro. Chương này cũng chuẩn bị cho phần vĩ mô: Chương 10 về Cục Dự trữ Liên bang (Fed) và khủng hoảng 2008 sẽ quay lại các khái niệm lãi suất, đòn bẩy, chứng khoán bảo đảm bằng thế chấp. Chương 8 chuyển sang chính trị và nhóm lợi ích.
-**Ý chính:** Wheelan muốn người đọc hiểu hai điều. Một: mọi công cụ tài chính, dù phức tạp đến đâu, đều phục vụ bốn nhu cầu đơn giản: **huy động vốn, cất giữ và sinh lời từ vốn dư, bảo hiểm rủi ro, và đầu cơ**; phần lớn hoạt động tài chính là trò chơi tổng dương, khác sòng bạc. Hai: các cách "làm giàu nhanh" vi phạm nguyên lý kinh tế cơ bản nhất, giống như ăn kiêng chỉ bằng bưởi và kem vi phạm hoá học và sinh học. Ông dùng ví dụ căn nhà ở khu Lincoln Park (Chicago) rao bán nửa giá để giải thích **giả thuyết thị trường hiệu quả**: không ai để 250.000 USD nằm trên bàn, nên tin vào một "cổ phiếu nóng" cũng phi lý như tin rằng căn nhà nửa giá đó có thật. Từ đó ông rút ra bốn quy tắc đầu tư mà mọi lời khuyên tử tế phải tuân theo: **tiết kiệm; chấp nhận rủi ro để có lợi suất; đa dạng hoá; đầu tư dài hạn**, và một "phép thử mùi" cho mọi lời hứa lợi suất 20–40%.
+## Ý chính
 
-> **Lưu ý:** Sách cập nhật ngay sau khủng hoảng 2008, nên chương có nhiều ví dụ về khủng hoảng (AIG, Lehman Brothers, chứng khoán bảo đảm bằng thế chấp, quỹ của các đại học Harvard và Yale mất 1/4 đến 1/3 giá trị). Các số liệu về quỹ tương hỗ (tỷ lệ quỹ chủ động thắng chỉ số S&P 500, 10.000 USD đầu tư từ 1973) tính đến khoảng 2009. Số liệu lợi suất cổ phiếu và trái phiếu 1945–1997 lấy từ một bài báo cũ của *Wall Street Journal*. Một chỗ cần chú ý: sách in lợi nhuận trước thuế năm 2005 của bộ phận AIG Financial Products là "2,5 triệu USD"; trong bài gốc của Simon Johnson con số là 2,5 **tỷ** USD, nên đây nhiều khả năng là lỗi in. Từ 2010 đến nay, xu hướng mà Wheelan khuyến nghị đã thành dòng chính: tiền chảy mạnh từ quỹ quản lý chủ động sang quỹ chỉ số, phí quỹ giảm sâu; trái phiếu thảm hoạ (cat bond) phát triển thành một thị trường riêng; còn quỹ "tăng trưởng hành vi" của Richard Thaler, mà Wheelan đầu tư một ít, thì thành tích sau 2010 không còn vượt trội rõ như số liệu ông dẫn. Các câu trích là bản dịch của người tổng hợp.
+Wheelan muốn người đọc hiểu hai điều. Một: mọi công cụ tài chính, dù phức tạp đến đâu, đều phục vụ bốn nhu cầu đơn giản: **huy động vốn, cất giữ và sinh lời từ vốn dư, bảo hiểm rủi ro, và đầu cơ**. Phần lớn hoạt động tài chính là trò chơi tổng dương, khác sòng bạc.
+
+Hai: các cách "làm giàu nhanh" vi phạm nguyên lý kinh tế cơ bản nhất, giống như ăn kiêng chỉ bằng bưởi và kem vi phạm hoá học và sinh học.
+
+Ông dùng ví dụ căn nhà ở khu Lincoln Park (Chicago) rao bán nửa giá để giải thích **giả thuyết thị trường hiệu quả**: không ai để 250.000 USD nằm trên bàn, nên tin vào một "cổ phiếu nóng" cũng phi lý như tin rằng căn nhà nửa giá đó có thật.
+
+Từ đó ông rút ra bốn quy tắc đầu tư mà mọi lời khuyên tử tế phải tuân theo: **tiết kiệm; chấp nhận rủi ro để có lợi suất; đa dạng hoá; đầu tư dài hạn**, và một "phép thử mùi" cho mọi lời hứa lợi suất 20–40%.
 
 ## Sơ đồ
 
@@ -568,9 +571,13 @@ Wheelan nói rõ đây không phải chương dạy đầu tư; sách tốt cho 
 
 ### 2. Bốn nhu cầu đằng sau mọi công cụ tài chính
 
-Thị trường tài chính có vẻ rất phức tạp: cổ phiếu, trái phiếu, quyền chọn, hợp đồng tương lai, quyền chọn trên hợp đồng tương lai, hoán đổi lãi suất, trái phiếu chính phủ tách phiếu lãi, hoán đổi rủi ro tín dụng. Sàn Chicago Mercantile Exchange có hợp đồng tương lai về nhiệt độ trung bình ở Los Angeles; sàn Chicago Board of Trade cho mua bán quyền thải khí lưu huỳnh điôxít, tức là "buôn khói bụi". Mọi công cụ tài chính, như mọi sản phẩm khác, phải tạo ra giá trị: người mua và người bán đều phải khá hơn. Doanh nhân liên tục tung ra sản phẩm rẻ hơn, nhanh hơn, tốt hơn; quỹ tương hỗ từng là một đổi mới, quỹ chỉ số mà Malkiel góp phần phổ biến cũng vậy. Năm 2008 cho thấy ngay cả lãnh đạo Phố Wall cũng không hiểu nhiều sản phẩm của chính họ. Nhưng tất cả các công cụ đều dựa trên bốn nhu cầu đơn giản.
+Thị trường tài chính có vẻ rất phức tạp: cổ phiếu, trái phiếu, quyền chọn, hợp đồng tương lai, quyền chọn trên hợp đồng tương lai, hoán đổi lãi suất, trái phiếu chính phủ tách phiếu lãi, hoán đổi rủi ro tín dụng. Sàn Chicago Mercantile Exchange có hợp đồng tương lai về nhiệt độ trung bình ở Los Angeles; sàn Chicago Board of Trade cho mua bán quyền thải khí lưu huỳnh điôxít, tức là "buôn khói bụi".
 
-**Nhu cầu 1: huy động vốn.** Thị trường tài chính cho phép ta tiêu tiền không phải của mình. Thẻ tín dụng cho phép tiêu hôm nay thứ mà sang năm mới đủ tiền; quan trọng hơn, đi vay cho phép đầu tư: học đại học, mua nhà, xây nhà máy, mua thiết bị, lập doanh nghiệp. Ta vay để làm những việc khiến ta khá hơn, ngay cả sau khi trả chi phí vay. Cũng có thể huy động vốn mà không vay, bằng cách bán cổ phần, tức quyền sở hữu một phần lợi nhuận tương lai, để lấy tiền mặt; doanh nghiệp và chính phủ cũng phát hành trái phiếu. Việc này có thể đơn giản như một khoản vay mua xe, hay phức tạp như một gói cứu trợ hàng tỷ USD của IMF. Tóm lại: cá nhân, doanh nghiệp và chính phủ cần vốn để làm ngay những việc mà tự họ chưa đủ tiền làm; thị trường tài chính cung cấp vốn đó, với một cái giá. Nền kinh tế hiện đại không thể tồn tại thiếu tín dụng.
+Mọi công cụ tài chính, như mọi sản phẩm khác, phải tạo ra giá trị: người mua và người bán đều phải khá hơn. Doanh nhân liên tục tung ra sản phẩm rẻ hơn, nhanh hơn, tốt hơn; quỹ tương hỗ từng là một đổi mới, quỹ chỉ số mà Malkiel góp phần phổ biến cũng vậy. Năm 2008 cho thấy ngay cả lãnh đạo Phố Wall cũng không hiểu nhiều sản phẩm của chính họ. Nhưng tất cả các công cụ đều dựa trên bốn nhu cầu đơn giản.
+
+**Nhu cầu 1: huy động vốn.** Thị trường tài chính cho phép ta tiêu tiền không phải của mình. Thẻ tín dụng cho phép tiêu hôm nay thứ mà sang năm mới đủ tiền; quan trọng hơn, đi vay cho phép đầu tư: học đại học, mua nhà, xây nhà máy, mua thiết bị, lập doanh nghiệp. Ta vay để làm những việc khiến ta khá hơn, ngay cả sau khi trả chi phí vay.
+
+Cũng có thể huy động vốn mà không vay, bằng cách bán cổ phần, tức quyền sở hữu một phần lợi nhuận tương lai, để lấy tiền mặt; doanh nghiệp và chính phủ cũng phát hành trái phiếu. Việc này có thể đơn giản như một khoản vay mua xe, hay phức tạp như một gói cứu trợ hàng tỷ USD của IMF. Tóm lại: cá nhân, doanh nghiệp và chính phủ cần vốn để làm ngay những việc mà tự họ chưa đủ tiền làm; thị trường tài chính cung cấp vốn đó, với một cái giá. Nền kinh tế hiện đại không thể tồn tại thiếu tín dụng.
 
 Tín dụng vi mô cho thấy điều đó ở quy mô nhỏ nhất: những khoản vay 50 hay 100 USD được dùng để chống nghèo đói.
 
@@ -584,7 +591,11 @@ Tín dụng vi mô cho thấy điều đó ở quy mô nhỏ nhất: những kho
 
 Một ví dụ: bà Esther Gelabuzi, goá phụ ở Uganda có sáu con, là bà đỡ chuyên nghiệp; một khoản vay nhỏ giúp bà mở một phòng khám (không có điện), nơi bà đã đỡ khoảng 1.400 ca sinh, thu từ 6 đến 14 USD mỗi ca.
 
-**Nhu cầu 2: cất giữ, bảo vệ và sinh lời từ vốn dư.** Người có vốn dư cần hai thứ: giữ cho vốn không mất sức mua, và cho người khác thuê vốn để nó sinh lời. Wheelan minh hoạ bằng quốc vương Brunei, người nhận hàng tỷ USD tiền dầu trong thập niên 1970. Nhét tiền dưới nệm thì có ba vấn đề: khó ngủ; dễ bị trộm (từ kẻ móc túi đến tội phạm tinh vi); và quan trọng nhất là lạm phát, thứ mà Wheelan gọi là kẻ trộm: 1 tỷ USD năm 1970 nay chỉ còn sức mua của khoảng 180 triệu USD. Mối quan tâm thứ nhất vì thế là bảo vệ của cải khỏi trộm cắp và lạm phát, vì cả hai đều làm giảm sức mua. Mối quan tâm thứ hai là đưa vốn dư vào dùng có ích, vì thế giới đầy người sẵn lòng trả tiền để dùng nó. Các nhà kinh tế ký hiệu lãi suất là r (rental rate, giá thuê vốn) chứ không phải i, vì người có vốn dư "cho thuê" vốn cho người dùng nó hiệu quả hơn. Ví dụ, quỹ tài trợ (endowment) của Đại học Harvard, khoảng 25 tỷ USD, là "tiền phòng khi khó khăn" của trường; gần 200 chuyên gia quản lý nó, mua cổ phiếu, trái phiếu, góp vốn vào các quỹ đầu tư mạo hiểm, và đạt lợi suất trung bình 16%/năm trong 1995–2005 (nhưng mất khoảng 30% trong khủng hoảng tài chính; xem phần rủi ro và lợi suất).
+**Nhu cầu 2: cất giữ, bảo vệ và sinh lời từ vốn dư.** Người có vốn dư cần hai thứ: giữ cho vốn không mất sức mua, và cho người khác thuê vốn để nó sinh lời. Wheelan minh hoạ bằng quốc vương Brunei, người nhận hàng tỷ USD tiền dầu trong thập niên 1970. Nhét tiền dưới nệm thì có ba vấn đề: khó ngủ; dễ bị trộm (từ kẻ móc túi đến tội phạm tinh vi); và quan trọng nhất là lạm phát, thứ mà Wheelan gọi là kẻ trộm: 1 tỷ USD năm 1970 nay chỉ còn sức mua của khoảng 180 triệu USD.
+
+Mối quan tâm thứ nhất vì thế là bảo vệ của cải khỏi trộm cắp và lạm phát, vì cả hai đều làm giảm sức mua. Mối quan tâm thứ hai là đưa vốn dư vào dùng có ích, vì thế giới đầy người sẵn lòng trả tiền để dùng nó.
+
+Các nhà kinh tế ký hiệu lãi suất là r (rental rate, giá thuê vốn) chứ không phải i, vì người có vốn dư "cho thuê" vốn cho người dùng nó hiệu quả hơn. Ví dụ, quỹ tài trợ (endowment) của Đại học Harvard, khoảng 25 tỷ USD, là "tiền phòng khi khó khăn" của trường; gần 200 chuyên gia quản lý nó, mua cổ phiếu, trái phiếu, góp vốn vào các quỹ đầu tư mạo hiểm, và đạt lợi suất trung bình 16%/năm trong 1995–2005 (nhưng mất khoảng 30% trong khủng hoảng tài chính; xem phần rủi ro và lợi suất).
 
 Thị trường tài chính còn giúp ta dàn đều tiêu dùng suốt đời: thu nhập không nhất thiết phải tiêu đúng lúc kiếm được. Shakespeare khuyên "đừng đi vay cũng đừng cho vay", nhưng phần lớn chúng ta sẽ làm cả hai trong đời. Xã hội nông nghiệp phải ăn ngay sau mùa gặt hoặc cất trữ; thị trường tài chính là cách quản lý "mùa gặt" tinh vi hơn. Ta có thể tiêu thu nhập chưa kiếm được (vay học đại học, mua nhà) hoặc kiếm bây giờ, tiêu sau (tiết kiệm hưu trí). Việc kiếm thu nhập được tách khỏi việc tiêu nó, và điều đó cho ta rất nhiều linh hoạt.
 
@@ -594,7 +605,9 @@ Wheelan đưa nhiều ví dụ:
 
 - **Cướp biển.** Ở Biển Đông và eo biển Malacca, cướp biển ngày nay là những kẻ nguy hiểm có súng phóng lựu và xuồng cao tốc; năm 2005 có 266 vụ cướp biển hoặc âm mưu cướp được báo cho Tổ chức Hàng hải Quốc tế. Chủ tàu mua bảo hiểm hàng hải. Năm 2002, tàu chở dầu Pháp Limburg bị một xuồng cảm tử đâm ngoài khơi Yemen; công ty bảo hiểm trả 70 triệu USD, giống như khi ai đó lùi xe vào xe bạn ở bãi đỗ siêu thị.
 - **Fila và Kim Clijsters.** Hãng Fila tài trợ tay vợt Bỉ Kim Clijsters và hứa thưởng khoảng 300.000 USD nếu cô vô địch giải Mỹ mở rộng 2009, nhưng không mua "bảo hiểm chiến thắng" (vì nghĩ là đắt, và có lẽ là xúc phạm cô). Thực ra bảo hiểm lẽ ra rất rẻ: Clijsters không được xếp hạt giống, mới chơi hai giải kể từ khi nghỉ sinh con, và nhà cái đặt cửa 40 ăn 1. Cô đã vô địch.
-- **Hợp đồng tương lai.** Hợp đồng chốt giá bán một hàng hoá (từ điện đến bột đậu tương) vào một ngày định trước. Ví dụ ở Chicago Board of Trade: 1.000 giạ ngô giá 3,27 USD/giạ giao tháng 3/2010. Nông dân trồng ngô có thể chốt giá khi ngô còn dưới đất hay chưa gieo; chờ đến lúc thu hoạch có thể bán được giá cao hơn, nhưng cũng có thể giá thấp đến mức không trả nổi các khoản phải trả, nên họ sẵn lòng trả giá cho sự chắc chắn. Bên kia là những người mua lớn: hãng hàng không chốt giá nhiên liệu; chuỗi đồ ăn nhanh chốt giá thịt bò xay, thịt ba chỉ, phô mai cheddar. Giá cà phê hạt thế giới là thứ khiến lãnh đạo Starbucks mất ngủ; người Mỹ trả 3,50 USD chứ không phải 6,50 USD cho một ly latte, và Wheelan sẵn sàng cược tiền bản quyền sách rằng Starbucks phòng ngừa giá cà phê.
+- **Hợp đồng tương lai.** Hợp đồng chốt giá bán một hàng hoá (từ điện đến bột đậu tương) vào một ngày định trước. Ví dụ ở Chicago Board of Trade: 1.000 giạ ngô giá 3,27 USD/giạ giao tháng 3/2010. Nông dân trồng ngô có thể chốt giá khi ngô còn dưới đất hay chưa gieo; chờ đến lúc thu hoạch có thể bán được giá cao hơn, nhưng cũng có thể giá thấp đến mức không trả nổi các khoản phải trả, nên họ sẵn lòng trả giá cho sự chắc chắn.
+
+  Bên kia là những người mua lớn: hãng hàng không chốt giá nhiên liệu; chuỗi đồ ăn nhanh chốt giá thịt bò xay, thịt ba chỉ, phô mai cheddar. Giá cà phê hạt thế giới là thứ khiến lãnh đạo Starbucks mất ngủ; người Mỹ trả 3,50 USD chứ không phải 6,50 USD cho một ly latte, và Wheelan sẵn sàng cược tiền bản quyền sách rằng Starbucks phòng ngừa giá cà phê.
 - **Trái phiếu thảm hoạ** (ví dụ Wheelan thích nhất). Một cây đổ đè một ngôi nhà là vấn đề của chủ nhà; nhiều cây đổ đè nhiều ngôi nhà là vấn đề của cả công ty bảo hiểm, thậm chí cả ngành. Trái phiếu thảm hoạ giúp công ty bảo hiểm phòng ngừa rủi ro đó. Chúng trả lãi cao hơn đáng kể so với trái phiếu doanh nghiệp khác, nhưng có một điều kiện: nếu bão hay động đất gây thiệt hại nghiêm trọng ở một vùng trong một thời gian định trước, nhà đầu tư mất một phần hay toàn bộ vốn gốc, và công ty bảo hiểm dùng khoản không phải trả đó để bù tiền bồi thường. Một trong những thương vụ đầu tiên, của công ty bảo hiểm USAA cuối thập niên 1990, gắn với mùa bão ở bờ Đông nước Mỹ:
 
 | Thiệt hại từ một cơn bão (yêu cầu bồi thường) | Nhà đầu tư trái phiếu USAA nhận |
@@ -605,26 +618,44 @@ Wheelan đưa nhiều ví dụ:
 
   Rủi ro khủng bố cũng được xử lý như vậy: Liên đoàn Bóng đá Thế giới (FIFA) bảo hiểm World Cup 2006 trước nguy cơ bị gián đoạn (do khủng bố hay rủi ro khác) bằng cách phát hành 260 triệu USD "trái phiếu huỷ giải". Giải diễn ra suôn sẻ nên nhà đầu tư nhận lại vốn cộng một khoản lời khá; nếu giải bị huỷ, họ mất một phần hay toàn bộ vốn, và khoản đó bù doanh thu FIFA bị mất. Cái hay của các công cụ này là chúng chia rủi ro: người bán bảo hiểm tránh được phá sản bằng cách chia chi phí cho một nhóm lớn nhà đầu tư, mỗi người có danh mục đa dạng nên chỉ chịu một cú đánh nhỏ.
 
-- **Đừng bỏ trứng vào một giỏ.** Wheelan kể một thí nghiệm ở trường trung học: một "chuyên gia" cho rằng nếu học sinh hiểu trách nhiệm làm cha mẹ thì sẽ ít có con sớm, nên bắt các em mang một quả trứng đi khắp nơi như em bé. Trứng bị đánh rơi, bị đè vỡ, bị bỏ quên trong tủ đồ phòng thể dục, bị bọn bắt nạt ném đi; thí nghiệm không dạy được gì về làm cha mẹ, nhưng làm học sinh tin rằng mang trứng thì rủi ro. Thị trường tài chính giúp chia trứng vào nhiều giỏ rẻ và dễ: 1.000 USD bỏ vào một quỹ tương hỗ cho phép sở hữu một phần của hơn 500 công ty, điều không thể làm khi mua từng cổ phiếu qua môi giới; 10.000 USD có thể chia vào cổ phiếu công ty lớn, công ty nhỏ, cổ phiếu quốc tế, trái phiếu dài hạn, ngắn hạn, trái phiếu rủi ro cao, bất động sản; có khoản làm tốt khi khoản khác làm kém. Trái phiếu thảm hoạ hấp dẫn đặc biệt vì lợi suất của nó phụ thuộc vào tần suất thiên tai, không tương quan với cổ phiếu, trái phiếu hay bất động sản.
+- **Đừng bỏ trứng vào một giỏ.** Wheelan kể một thí nghiệm ở trường trung học: một "chuyên gia" cho rằng nếu học sinh hiểu trách nhiệm làm cha mẹ thì sẽ ít có con sớm, nên bắt các em mang một quả trứng đi khắp nơi như em bé. Trứng bị đánh rơi, bị đè vỡ, bị bỏ quên trong tủ đồ phòng thể dục, bị bọn bắt nạt ném đi; thí nghiệm không dạy được gì về làm cha mẹ, nhưng làm học sinh tin rằng mang trứng thì rủi ro.
+
+  Thị trường tài chính giúp chia trứng vào nhiều giỏ rẻ và dễ: 1.000 USD bỏ vào một quỹ tương hỗ cho phép sở hữu một phần của hơn 500 công ty, điều không thể làm khi mua từng cổ phiếu qua môi giới; 10.000 USD có thể chia vào cổ phiếu công ty lớn, công ty nhỏ, cổ phiếu quốc tế, trái phiếu dài hạn, ngắn hạn, trái phiếu rủi ro cao, bất động sản; có khoản làm tốt khi khoản khác làm kém. Trái phiếu thảm hoạ hấp dẫn đặc biệt vì lợi suất của nó phụ thuộc vào tần suất thiên tai, không tương quan với cổ phiếu, trái phiếu hay bất động sản.
 - **Hoán đổi rủi ro tín dụng (CDS).** Công cụ này có mục đích chính đáng: là hợp đồng bảo hiểm cho khả năng một bên thứ ba trả nợ. Wheelan đưa ví dụ: chồng bạn ép bạn cho người em rể ăn không ngồi rồi vay 25.000 USD để học xong khoá kiểm soát cơn giận do toà án yêu cầu. Bạn có thể trả phí cho một bên khác (người tin tưởng khả năng trả nợ của em rể bạn hơn) để họ cam kết trả bạn 25.000 USD nếu người em rể không trả. Nếu người em rể trả nợ, bạn đã mua CDS "không để làm gì", và đó là cách bên bán kiếm tiền.
 
 **Nhu cầu 4: đầu cơ.** Khi một sản phẩm tài chính ra đời, nó cũng thoả mãn nhu cầu đầu cơ, tức đặt cược vào biến động giá ngắn hạn. Hợp đồng tương lai có thể dùng để giảm rủi ro hoặc để cược giá đậu tương năm sau; thị trường trái phiếu có thể dùng để huy động vốn hoặc để cược Ben Bernanke có hạ lãi suất tháng sau không; thị trường cổ phiếu có thể dùng để đầu tư và chia lợi nhuận doanh nghiệp hoặc để mua lúc 10 giờ sáng rồi bán lúc trưa kiếm chút lời. Wheelan so sánh: sản phẩm tài chính mở đường cho đầu cơ giống như một trận đấu thể thao mở đường cho cá độ, dù đó không phải lý do trận đấu tồn tại.
 
-CDS trở nên nguy hiểm chính vì ai cũng mua được, kể cả người chẳng cho ai vay đồng nào. Bất kỳ ai cũng có thể đặt cược người em rể kia có trả nợ hay không, và khi đó hợp đồng không còn là công cụ phòng ngừa rủi ro mà thành công cụ đầu cơ. Một khoản nợ duy nhất có thể kéo theo hàng trăm, hàng nghìn hợp đồng như vậy, nên khi người em rể bỏ học và vỡ nợ, khoản lỗ 25.000 USD được nhân lên hàng nghìn lần. Nếu những bên đứng ra bảo lãnh lại không chịu tìm hiểu người vay, hoặc chẳng bận tâm vì họ được thưởng lớn khi đem vốn của công ty đi đặt những vụ cược đáng ngờ, thì một cú vấp nhỏ của nền kinh tế có thể bùng thành khủng hoảng, đúng như chuyện xảy ra khi thị trường nhà đất Mỹ chững lại năm 2007. AIG đứng ở tâm của thảm hoạ CDS vì đã bảo lãnh cho rất nhiều khoản nợ về sau thành nợ xấu. Wheelan dẫn đánh giá năm 2009 của Simon Johnson, cựu kinh tế trưởng IMF. Theo Johnson, giới quản lý, lập pháp và học thuật đều mặc nhiên tin rằng lãnh đạo các ngân hàng hiểu việc mình làm, và họ đã nhầm. Bộ phận AIG Financial Products lãi trước thuế 2,5 tỷ USD năm 2005 (sách in nhầm là "triệu"), chủ yếu bằng cách bán bảo hiểm với giá quá thấp cho những chứng khoán phức tạp mà ít ai hiểu rõ. Johnson ví kiểu kinh doanh này như "nhặt đồng xu trước một chiếc xe lu": năm bình thường thì có lãi, năm xấu thì thành thảm hoạ. Vào mùa thu năm 2008 (năm trước khi Johnson viết), AIG đang bảo hiểm cho hơn 400 tỷ USD chứng khoán; để cứu công ty, chính phủ Mỹ đã cam kết khoảng 180 tỷ USD tiền đầu tư và cho vay nhằm bù những khoản lỗ mà các mô hình rủi ro tinh vi của AIG từng coi là gần như không thể xảy ra.
+CDS trở nên nguy hiểm chính vì ai cũng mua được, kể cả người chẳng cho ai vay đồng nào. Bất kỳ ai cũng có thể đặt cược người em rể kia có trả nợ hay không, và khi đó hợp đồng không còn là công cụ phòng ngừa rủi ro mà thành công cụ đầu cơ. Một khoản nợ duy nhất có thể kéo theo hàng trăm, hàng nghìn hợp đồng như vậy, nên khi người em rể bỏ học và vỡ nợ, khoản lỗ 25.000 USD được nhân lên hàng nghìn lần.
+
+Nếu những bên đứng ra bảo lãnh lại không chịu tìm hiểu người vay, hoặc chẳng bận tâm vì họ được thưởng lớn khi đem vốn của công ty đi đặt những vụ cược đáng ngờ, thì một cú vấp nhỏ của nền kinh tế có thể bùng thành khủng hoảng, đúng như chuyện xảy ra khi thị trường nhà đất Mỹ chững lại năm 2007.
+
+AIG đứng ở tâm của thảm hoạ CDS vì đã bảo lãnh cho rất nhiều khoản nợ về sau thành nợ xấu. Wheelan dẫn đánh giá năm 2009 của Simon Johnson, cựu kinh tế trưởng IMF. Theo Johnson, giới quản lý, lập pháp và học thuật đều mặc nhiên tin rằng lãnh đạo các ngân hàng hiểu việc mình làm, và họ đã nhầm. Bộ phận AIG Financial Products lãi trước thuế 2,5 tỷ USD năm 2005 (sách in nhầm là "triệu"), chủ yếu bằng cách bán bảo hiểm với giá quá thấp cho những chứng khoán phức tạp mà ít ai hiểu rõ. Johnson ví kiểu kinh doanh này như "nhặt đồng xu trước một chiếc xe lu": năm bình thường thì có lãi, năm xấu thì thành thảm hoạ.
+
+Vào mùa thu năm 2008 (năm trước khi Johnson viết), AIG đang bảo hiểm cho hơn 400 tỷ USD chứng khoán; để cứu công ty, chính phủ Mỹ đã cam kết khoảng 180 tỷ USD tiền đầu tư và cho vay nhằm bù những khoản lỗ mà các mô hình rủi ro tinh vi của AIG từng coi là gần như không thể xảy ra.
 
 ### 3. Tài chính không phải sòng bạc, nhưng không hoàn hảo
 
-Theo Wheelan, mọi hoạt động sôi động ở Phố Wall hay ở phố LaSalle (nơi đặt các sàn giao dịch hàng hoá Chicago) đều quy về một hay nhiều trong bốn việc trên: huy động vốn, bảo vệ vốn, phòng ngừa rủi ro và đầu cơ. Người ta hay ví giới tài chính là "Las Vegas của người giàu", nhưng ông cho rằng phép so sánh này sai hẳn. Ở sòng bạc, phần nhà cái thắng chính là phần người chơi thua, tức trò chơi tổng bằng không; tỷ lệ lại nghiêng về nhà cái, nên ai chơi xì dách đủ lâu (mà không đếm bài) thì gần như chắc chắn sẽ cháy túi. Sòng bạc mang lại giải trí nhưng không phục vụ mục đích nào lớn hơn cho xã hội. Thị trường tài chính thì có: phần lớn hoạt động của nó là tổng dương, vì nhờ nó mà công trình được xây, doanh nghiệp được lập, và cá nhân lẫn công ty kiểm soát được những rủi ro có thể làm họ khánh kiệt.
+Theo Wheelan, mọi hoạt động sôi động ở Phố Wall hay ở phố LaSalle (nơi đặt các sàn giao dịch hàng hoá Chicago) đều quy về một hay nhiều trong bốn việc trên: huy động vốn, bảo vệ vốn, phòng ngừa rủi ro và đầu cơ.
+
+Người ta hay ví giới tài chính là "Las Vegas của người giàu", nhưng ông cho rằng phép so sánh này sai hẳn. Ở sòng bạc, phần nhà cái thắng chính là phần người chơi thua, tức trò chơi tổng bằng không; tỷ lệ lại nghiêng về nhà cái, nên ai chơi xì dách đủ lâu (mà không đếm bài) thì gần như chắc chắn sẽ cháy túi. Sòng bạc mang lại giải trí nhưng không phục vụ mục đích nào lớn hơn cho xã hội. Thị trường tài chính thì có: phần lớn hoạt động của nó là tổng dương, vì nhờ nó mà công trình được xây, doanh nghiệp được lập, và cá nhân lẫn công ty kiểm soát được những rủi ro có thể làm họ khánh kiệt.
 
 Dĩ nhiên không phải thương vụ nào cũng đúng. Như cá nhân có lúc đầu tư sai, thị trường vốn có thể đốt những lượng vốn khổng lồ: hàng tỷ USD đã chảy vào các công ty dot-com không làm ăn được, và bong bóng nhà đất cùng cuộc sụp đổ của Phố Wall lặp lại chuyện đó ở quy mô lớn hơn. Wheelan viết rằng "bàn tay vô hình" của Adam Smith đã ném rất nhiều vốn xuống biển, không bao giờ lấy lại được. Ở chiều ngược lại, có những doanh nghiệp đáng làm lại không vay được vì thiếu tài sản bảo đảm, và các nhà kinh tế lo rằng gia đình nghèo khó vay để đầu tư vào vốn con người: tấm bằng đại học là khoản đầu tư rất tốt, nhưng ngân hàng không thể tịch thu nó khi người vay không trả nợ.
 
-Dù vậy, thị trường tài chính làm với vốn đúng điều các thị trường khác làm với hàng hoá: phân bổ nó khá hiệu quả, tuy chưa hoàn hảo. Vốn tìm đến nơi có lợi suất cao nhất, và theo Wheelan đó là nơi tốt hơn nhiều so với các doanh nghiệp do quan chức cấp cao hay bạn bè của nhà vua điều hành. Cũng như ở mọi phần khác của nền kinh tế, chính phủ có thể giúp hoặc phá. Chính phủ phá khi đánh thuế và đặt quy định quá nặng, khi lái vốn vào những dự án mình ưa, hay khi không để phá huỷ sáng tạo loại bỏ doanh nghiệp yếu; chính phủ giúp khi hạn chế gian lận, buộc thị trường minh bạch, xây và thực thi khung pháp lý, cung cấp hàng hoá công làm giảm chi phí kinh doanh. Cái khôn, một lần nữa, là phân biệt được hai vai trò này. Wheelan cho rằng cuộc khủng hoảng đang diễn ra là một bài học: hệ thống giám sát tài chính cần được vá lại, nếu không phải làm lại từ đầu. Thách thức là giữ được những gì hệ thống tài chính hiện đại làm tốt nhất, tức đưa vốn vào đầu tư có ích và che chắn cho ta trước những rủi ro ta không gánh nổi, đồng thời chặn những vụ cược liều lĩnh làm giàu cho người đặt cược rồi để người khác dọn hậu quả.
+Dù vậy, thị trường tài chính làm với vốn đúng điều các thị trường khác làm với hàng hoá: phân bổ nó khá hiệu quả, tuy chưa hoàn hảo. Vốn tìm đến nơi có lợi suất cao nhất, và theo Wheelan đó là nơi tốt hơn nhiều so với các doanh nghiệp do quan chức cấp cao hay bạn bè của nhà vua điều hành.
+
+Cũng như ở mọi phần khác của nền kinh tế, chính phủ có thể giúp hoặc phá. Chính phủ phá khi đánh thuế và đặt quy định quá nặng, khi lái vốn vào những dự án mình ưa, hay khi không để phá huỷ sáng tạo loại bỏ doanh nghiệp yếu; chính phủ giúp khi hạn chế gian lận, buộc thị trường minh bạch, xây và thực thi khung pháp lý, cung cấp hàng hoá công làm giảm chi phí kinh doanh. Cái khôn, một lần nữa, là phân biệt được hai vai trò này.
+
+Wheelan cho rằng cuộc khủng hoảng đang diễn ra là một bài học: hệ thống giám sát tài chính cần được vá lại, nếu không phải làm lại từ đầu. Thách thức là giữ được những gì hệ thống tài chính hiện đại làm tốt nhất, tức đưa vốn vào đầu tư có ích và che chắn cho ta trước những rủi ro ta không gánh nổi, đồng thời chặn những vụ cược liều lĩnh làm giàu cho người đặt cược rồi để người khác dọn hậu quả.
 
 ### 4. Căn nhà nửa giá ở Lincoln Park
 
 Wheelan không tin có chiến lược giao dịch chắc thắng để làm giàu. Theo ông, giống như chương trình giảm cân thần kỳ vi phạm gần như mọi hiểu biết về sức khoẻ và dinh dưỡng, các mánh làm giàu nhanh vi phạm những nguyên lý kinh tế cơ bản nhất. Ông biết người đọc vẫn muốn hỏi "làm sao để làm giàu trên thị trường?": một đồng nghiệp cũ ở *The Economist* từng gợi ý đặt tên cuốn sách là *Are You Rich Enough?* (Bạn đã đủ giàu chưa?), vì hầu hết mọi người sẽ trả lời "chưa" và vồ lấy cuốn sách.
 
-Ông giải thích bằng một ví dụ. Bạn tìm mua nhà ở khu Lincoln Park, Chicago. Sau nhiều tuần, bạn biết một căn nhà phố ba tầng cho một gia đình giá khoảng 500.000 USD; có căn rao 450.000 USD nhưng cần sửa, có căn 600.000 USD vì thêm tiện nghi. Đúng lúc bạn chán nản, bạn thấy một căn rao 250.000 USD đáp ứng mọi yêu cầu: cùng vị trí, cùng diện tích, kết cấu tốt như nhau. Vẫn ngờ vực, bạn hỏi người môi giới; cô khẳng định đây là món hời hiếm có, lẽ ra phải bán 500.000 USD, và bạn có thể mua 250.000 rồi vài tháng sau bán 500.000 USD hoặc hơn. Rồi bạn thấy bằng chứng cuối cùng: trang 3 của báo *Crain's Chicago Business* có tít lớn "Món hời của tháng: nhà phố Lincoln Park rao 250.000 USD". Bạn mua, và sáu tháng sau bán 500.000 USD, gấp đôi tiền. (Chú thích của Wheelan: lợi suất thực còn cao hơn nhiều vì phần lớn tiền mua là vay; nếu trả trước 50.000 USD, bạn lời 250.000 USD trên khoản đầu tư 50.000 USD, trừ đi tiền lãi vay thế chấp trong thời gian sở hữu.)
+Ông giải thích bằng một ví dụ. Bạn tìm mua nhà ở khu Lincoln Park, Chicago. Sau nhiều tuần, bạn biết một căn nhà phố ba tầng cho một gia đình giá khoảng 500.000 USD; có căn rao 450.000 USD nhưng cần sửa, có căn 600.000 USD vì thêm tiện nghi.
+
+Đúng lúc bạn chán nản, bạn thấy một căn rao 250.000 USD đáp ứng mọi yêu cầu: cùng vị trí, cùng diện tích, kết cấu tốt như nhau. Vẫn ngờ vực, bạn hỏi người môi giới; cô khẳng định đây là món hời hiếm có, lẽ ra phải bán 500.000 USD, và bạn có thể mua 250.000 rồi vài tháng sau bán 500.000 USD hoặc hơn.
+
+Rồi bạn thấy bằng chứng cuối cùng: trang 3 của báo *Crain's Chicago Business* có tít lớn "Món hời của tháng: nhà phố Lincoln Park rao 250.000 USD". Bạn mua, và sáu tháng sau bán 500.000 USD, gấp đôi tiền. (Chú thích của Wheelan: lợi suất thực còn cao hơn nhiều vì phần lớn tiền mua là vay; nếu trả trước 50.000 USD, bạn lời 250.000 USD trên khoản đầu tư 50.000 USD, trừ đi tiền lãi vay thế chấp trong thời gian sở hữu.)
 
 Câu chuyện có nhiều chỗ sai. Một người tỉnh táo sẽ hỏi:
 
@@ -632,7 +663,9 @@ Câu chuyện có nhiều chỗ sai. Một người tỉnh táo sẽ hỏi:
 2. Nếu vậy, sao người môi giới của bạn không tự mua? Nếu căn nhà "chắc chắn" lên gấp đôi, sao cô lại làm việc để lấy 3% hoa hồng từ bạn khi 250.000 USD đang nằm ngay trước mặt?
 3. Có thể người môi giới cũng ngốc. Thế thì những người mua săn hàng hời khác ở đâu, nhất là sau khi báo đăng tin? Nếu căn nhà là món hời lớn và được quảng cáo rộng rãi, đủ loại người sẽ muốn mua; một cuộc đua giá sẽ diễn ra cho tới khi giá đạt giá trị thị trường hợp lý, khoảng 500.000 USD.
 
-Nói cách khác, gần như không có cơ hội tìm được căn nhà Lincoln Park giá 250.000 USD (mà không có bất ngờ đang chờ dưới tầng hầm). Vì sao? Vì ý tưởng cơ bản nhất của kinh tế học: bạn tìm cách tối đa hoá độ thoả dụng, và mọi người khác cũng vậy. Trong một thế giới ai cũng tìm khoản đầu tư có lời, không ai để 250.000 USD nằm trên bàn. **Thế mà người ta luôn mặc định thị trường cổ phiếu vận hành như vậy.** Ta tin rằng sau khi đọc về một "cổ phiếu nóng" trên *BusinessWeek*, hay đọc khuyến nghị mua của một chuyên viên phân tích Phố Wall (gửi cho mọi khách hàng của công ty), ta có thể dồn tiền vào những cổ phiếu sẽ đè bẹp mức trung bình của thị trường. Theo Wheelan, tin vào một "cổ phiếu nóng" cũng phi lý y như tin vào căn nhà Lincoln Park rao nửa giá. Ông đưa ba lý do:
+Nói cách khác, gần như không có cơ hội tìm được căn nhà Lincoln Park giá 250.000 USD (mà không có bất ngờ đang chờ dưới tầng hầm). Vì sao? Vì ý tưởng cơ bản nhất của kinh tế học: bạn tìm cách tối đa hoá độ thoả dụng, và mọi người khác cũng vậy. Trong một thế giới ai cũng tìm khoản đầu tư có lời, không ai để 250.000 USD nằm trên bàn.
+
+**Thế mà người ta luôn mặc định thị trường cổ phiếu vận hành như vậy.** Ta tin rằng sau khi đọc về một "cổ phiếu nóng" trên *BusinessWeek*, hay đọc khuyến nghị mua của một chuyên viên phân tích Phố Wall (gửi cho mọi khách hàng của công ty), ta có thể dồn tiền vào những cổ phiếu sẽ đè bẹp mức trung bình của thị trường. Theo Wheelan, tin vào một "cổ phiếu nóng" cũng phi lý y như tin vào căn nhà Lincoln Park rao nửa giá. Ông đưa ba lý do:
 
 - **Mỗi lần bạn mua một cổ phiếu (hay bất kỳ tài sản nào), có người bán nó cho bạn.** Người bán "cổ phiếu nóng" đã quyết định rằng anh ta thích có tiền mặt hơn; anh ta đã nhìn "giá hời" hiện tại và muốn thoát ra đúng lúc bạn vào. Có thể anh ta cần tiền vào việc khác, nhưng vẫn sẽ đòi giá thị trường hợp lý, như người phải chuyển khỏi Lincoln Park vẫn sẽ đòi 500.000 USD chứ không phải 250.000 USD. Thị trường cổ phiếu, đúng như tên gọi, là một thị trường: giá cổ phiếu ở mỗi thời điểm là mức giá tại đó số người mua bằng số người bán. Một nửa số người đang giao dịch "cổ phiếu nóng" của bạn đang cố bán nó đi.
 - **Có thể bạn biết điều người bán không biết.** Có thể những người đang bán cổ phiếu công ty XYZ đã bỏ lỡ bài báo trên *Wall Street Journal* về loại thuốc chữa hói đầu mới của XYZ. Điều đó có thể xảy ra. Nhưng những người mua tinh tường khác trên thế giới ở đâu? Cổ phiếu này "chắc thắng" ở giá 45 USD, vậy mà vì lý do nào đó Warren Buffett, dân giao dịch ở Goldman Sachs và các nhà quản lý danh mục hàng đầu ở Fidelity lại không mua. (Nếu họ mua, cổ phiếu đã bị đẩy lên cao hơn nhiều, như căn nhà Lincoln Park.) Còn nếu bạn thật sự biết điều cả Phố Wall không biết, thì đó thường là thông tin nội bộ chưa công bố, và giao dịch dựa trên nó là phạm luật.
@@ -642,11 +675,17 @@ Nói cách khác, gần như không có cơ hội tìm được căn nhà Lincol
 
 ### 5. Hàng thanh toán ở siêu thị và quỹ chỉ số
 
-Chọn cổ phiếu giống chọn hàng thanh toán ngắn nhất ở siêu thị. Có hàng nào đi nhanh hơn hàng khác không? Chắc chắn, như có cổ phiếu tốt hơn cổ phiếu khác. Có dấu hiệu nào báo hàng nào sẽ nhanh hơn không? Có: bạn không muốn đứng sau người đẩy hai xe đầy, hay bà cụ cầm nắm phiếu giảm giá. Vậy sao ta hiếm khi đứng đúng hàng ngắn nhất (và phần lớn người chọn cổ phiếu chuyên nghiệp không thắng được mức trung bình của thị trường)? Vì mọi người khác cũng nhìn đúng những thứ ta nhìn và hành động theo đó: họ cũng thấy người đẩy hai xe hàng, thu ngân đang tập việc ở quầy số ba, "nữ hoàng phiếu giảm giá" ở quầy số sáu. Ai cũng cố chọn hàng nhanh nhất; có lúc bạn đúng, có lúc sai, và về lâu dài chúng bù trừ, nên nếu đi siêu thị đủ nhiều, bạn sẽ chờ xếp hàng xấp xỉ như mọi người.
+Chọn cổ phiếu giống chọn hàng thanh toán ngắn nhất ở siêu thị. Có hàng nào đi nhanh hơn hàng khác không? Chắc chắn, như có cổ phiếu tốt hơn cổ phiếu khác. Có dấu hiệu nào báo hàng nào sẽ nhanh hơn không? Có: bạn không muốn đứng sau người đẩy hai xe đầy, hay bà cụ cầm nắm phiếu giảm giá.
 
-Có thể đẩy so sánh xa hơn. Giả sử gần quầy rau bạn thấy một bà cụ nhét đầy túi phiếu giảm giá; ra quầy thanh toán thấy bà, bạn khôn ngoan rẽ sang hàng khác. Khi bà bắt đầu chậm rãi đưa từng phiếu cho thu ngân, bạn tự khen mình. Vài phút sau bạn nhận ra người đứng trước quên cân quả bơ; "Kiểm giá quả bơ ở quầy số ba!", thu ngân của bạn gọi đi gọi lại, trong khi bà cụ phiếu giảm giá đẩy xe ra khỏi cửa hàng. Ai đoán được điều đó? Không ai, cũng như không ai đoán được MicroStrategy, một công ty phần mềm đang lên, sẽ điều chỉnh lại báo cáo thu nhập ngày 19/3/2000, xoá hàng triệu USD lợi nhuận khỏi sổ sách; cổ phiếu mất 140 USD trong một ngày, tức giảm 62%. Nhà đầu tư và nhà quản lý quỹ mua MicroStrategy có nghĩ điều này sẽ xảy ra không? Tất nhiên là không. **Điều quan trọng là những thứ bạn không thể đoán trước.** Lần tới, khi định dồn một khoản lớn vào một cổ phiếu, kể cả của một công ty lớn và lâu đời, hãy nhắc câu thần chú: Enron, Enron, Enron. Hoặc Lehman, Lehman, Lehman.
+Vậy sao ta hiếm khi đứng đúng hàng ngắn nhất (và phần lớn người chọn cổ phiếu chuyên nghiệp không thắng được mức trung bình của thị trường)? Vì mọi người khác cũng nhìn đúng những thứ ta nhìn và hành động theo đó: họ cũng thấy người đẩy hai xe hàng, thu ngân đang tập việc ở quầy số ba, "nữ hoàng phiếu giảm giá" ở quầy số sáu. Ai cũng cố chọn hàng nhanh nhất; có lúc bạn đúng, có lúc sai, và về lâu dài chúng bù trừ, nên nếu đi siêu thị đủ nhiều, bạn sẽ chờ xếp hàng xấp xỉ như mọi người.
 
-Những người ủng hộ giả thuyết thị trường hiệu quả khuyên nhà đầu tư: cứ chọn một hàng và đứng yên trong đó. Nếu tài sản được định giá hiệu quả, một con khỉ ném phi tiêu vào trang bảng giá chứng khoán sẽ chọn được danh mục tốt ngang, xét trung bình, với danh mục của các ngôi sao Phố Wall. (Burton Malkiel chỉ ra rằng vì đa dạng hoá quan trọng, con khỉ nên ném một chiếc khăn ướt vào trang bảng giá.) Nay nhà đầu tư đã có "con khỉ ném khăn" của riêng mình: **quỹ chỉ số**. Đó là quỹ tương hỗ không tự nhận là chọn được cổ phiếu thắng; chúng chỉ mua và giữ một rổ cổ phiếu định sẵn, như S&P 500, chỉ số gồm 500 công ty lớn nhất nước Mỹ. Vì S&P 500 là mức trung bình rộng của thị trường, lẽ ra một nửa số quỹ quản lý chủ động của Mỹ làm tốt hơn và một nửa làm kém hơn. Nhưng đó là trước chi phí: nhà quản lý quỹ thu phí cho mọi việc "đá thử lốp xe" họ làm, và tốn chi phí khi giao dịch nhiều. Quỹ chỉ số, như những con khỉ ném khăn, rẻ hơn nhiều để vận hành.
+Có thể đẩy so sánh xa hơn. Giả sử gần quầy rau bạn thấy một bà cụ nhét đầy túi phiếu giảm giá; ra quầy thanh toán thấy bà, bạn khôn ngoan rẽ sang hàng khác. Khi bà bắt đầu chậm rãi đưa từng phiếu cho thu ngân, bạn tự khen mình. Vài phút sau bạn nhận ra người đứng trước quên cân quả bơ; "Kiểm giá quả bơ ở quầy số ba!", thu ngân của bạn gọi đi gọi lại, trong khi bà cụ phiếu giảm giá đẩy xe ra khỏi cửa hàng.
+
+Ai đoán được điều đó? Không ai, cũng như không ai đoán được MicroStrategy, một công ty phần mềm đang lên, sẽ điều chỉnh lại báo cáo thu nhập ngày 19/3/2000, xoá hàng triệu USD lợi nhuận khỏi sổ sách; cổ phiếu mất 140 USD trong một ngày, tức giảm 62%. Nhà đầu tư và nhà quản lý quỹ mua MicroStrategy có nghĩ điều này sẽ xảy ra không? Tất nhiên là không. **Điều quan trọng là những thứ bạn không thể đoán trước.** Lần tới, khi định dồn một khoản lớn vào một cổ phiếu, kể cả của một công ty lớn và lâu đời, hãy nhắc câu thần chú: Enron, Enron, Enron. Hoặc Lehman, Lehman, Lehman.
+
+Những người ủng hộ giả thuyết thị trường hiệu quả khuyên nhà đầu tư: cứ chọn một hàng và đứng yên trong đó. Nếu tài sản được định giá hiệu quả, một con khỉ ném phi tiêu vào trang bảng giá chứng khoán sẽ chọn được danh mục tốt ngang, xét trung bình, với danh mục của các ngôi sao Phố Wall. (Burton Malkiel chỉ ra rằng vì đa dạng hoá quan trọng, con khỉ nên ném một chiếc khăn ướt vào trang bảng giá.)
+
+Nay nhà đầu tư đã có "con khỉ ném khăn" của riêng mình: **quỹ chỉ số**. Đó là quỹ tương hỗ không tự nhận là chọn được cổ phiếu thắng; chúng chỉ mua và giữ một rổ cổ phiếu định sẵn, như S&P 500, chỉ số gồm 500 công ty lớn nhất nước Mỹ. Vì S&P 500 là mức trung bình rộng của thị trường, lẽ ra một nửa số quỹ quản lý chủ động của Mỹ làm tốt hơn và một nửa làm kém hơn. Nhưng đó là trước chi phí: nhà quản lý quỹ thu phí cho mọi việc "đá thử lốp xe" họ làm, và tốn chi phí khi giao dịch nhiều. Quỹ chỉ số, như những con khỉ ném khăn, rẻ hơn nhiều để vận hành.
 
 Số liệu cho thấy quỹ chỉ số ("con khỉ ném khăn") có thể là lựa chọn tốt nhất của nhà đầu tư. Theo Morningstar, công ty theo dõi quỹ tương hỗ:
 
@@ -664,7 +703,9 @@ Bất chấp số liệu, giả thuyết thị trường hiệu quả rõ ràng 
 
 Một số nhà kinh tế tài chính giỏi nhất đã dần bào mòn giả thuyết thị trường hiệu quả, và các bong bóng gần đây trên thị trường nhà đất lẫn thị trường cổ phiếu cho thấy con người không hành xử hợp lý và trật tự như giả thuyết này giả định. Các nhà kinh tế học hành vi đã ghi nhận những cách con người ra quyết định sai: ta dễ hành động theo bầy đàn, quá tự tin vào khả năng của mình, quá coi trọng xu hướng quá khứ khi dự đoán tương lai, và nhiều nữa. Vì thị trường chỉ là tập hợp các quyết định cá nhân, nếu cá nhân sai một cách có hệ thống (như phản ứng thái quá trước tin tốt và tin xấu) thì thị trường cũng có thể sai (như bong bóng và sụp đổ).
 
-Thậm chí có một lĩnh vực mới, **kinh tế học thần kinh**, kết hợp kinh tế học, khoa học thần kinh nhận thức và tâm lý học để tìm hiểu vai trò của sinh học trong ra quyết định. Một phát hiện kỳ lạ là người bị tổn thương não có thể là nhà đầu tư đặc biệt giỏi, vì tổn thương ở một số vùng não có thể làm suy giảm những phản ứng cảm xúc khiến người khác làm điều dại dột. Một nhóm nghiên cứu ở Carnegie Mellon, Stanford và Đại học Iowa so quyết định đầu tư của 15 bệnh nhân bị tổn thương vùng não điều khiển cảm xúc (nhưng logic và nhận thức vẫn nguyên vẹn) với một nhóm đối chứng. Nhóm bị tổn thương não kết thúc trò chơi với nhiều hơn 13% tiền, phần lớn, theo các tác giả, vì họ không cảm thấy sợ hãi và lo âu: họ chấp nhận rủi ro nhiều hơn khi khoản thưởng tiềm năng cao, và ít xúc động hơn khi bị lỗ.
+Thậm chí có một lĩnh vực mới, **kinh tế học thần kinh**, kết hợp kinh tế học, khoa học thần kinh nhận thức và tâm lý học để tìm hiểu vai trò của sinh học trong ra quyết định. Một phát hiện kỳ lạ là người bị tổn thương não có thể là nhà đầu tư đặc biệt giỏi, vì tổn thương ở một số vùng não có thể làm suy giảm những phản ứng cảm xúc khiến người khác làm điều dại dột.
+
+Một nhóm nghiên cứu ở Carnegie Mellon, Stanford và Đại học Iowa so quyết định đầu tư của 15 bệnh nhân bị tổn thương vùng não điều khiển cảm xúc (nhưng logic và nhận thức vẫn nguyên vẹn) với một nhóm đối chứng. Nhóm bị tổn thương não kết thúc trò chơi với nhiều hơn 13% tiền, phần lớn, theo các tác giả, vì họ không cảm thấy sợ hãi và lo âu: họ chấp nhận rủi ro nhiều hơn khi khoản thưởng tiềm năng cao, và ít xúc động hơn khi bị lỗ.
 
 Wheelan nói rõ cuốn sách không khuyên tổn thương não như một chiến lược đầu tư. Tuy nhiên, các nhà kinh tế học hành vi tin rằng bằng cách đoán trước những quyết định sai mà nhà đầu tư thường có khả năng mắc phải, ta có thể thắng thị trường (hoặc ít nhất tránh bị nó tàn phá). Robert Shiller, nhà kinh tế ở Yale, thách thức giả thuyết thị trường hiệu quả từ đầu thập niên 1980; ông nổi tiếng hơn nhiều với cuốn *Irrational Exuberance* (Sự hưng phấn phi lý), năm 2000 lập luận rằng thị trường cổ phiếu bị định giá quá cao. Ông đúng. Năm năm sau, ông lập luận có bong bóng trên thị trường nhà đất. Ông lại đúng.
 
@@ -672,17 +713,25 @@ Nếu nhà đầu tư phi lý trí để những tờ 100 USD rơi vãi khắp n
 
 Giả thuyết thị trường hiệu quả vẫn chưa biến mất; nó vẫn là khái niệm then chốt mà mọi nhà đầu tư cần hiểu, vì hai lý do.
 
-Thứ nhất, việc thị trường đôi khi hành xử phi lý không có nghĩa là dễ kiếm tiền từ những lúc ấy, ít nhất là không kiếm được lâu. Ai khai thác một chỗ bất thường, chẳng hạn mua vào những cổ phiếu bị định giá thấp vô lý, thì chính hành động mua đó đẩy giá lên cho tới khi chỗ bất thường biến mất. Wheelan quay lại hình ảnh siêu thị: nếu có một quầy thu ngân lúc nào cũng nhanh hơn, có lẽ nhờ thu ngân thạo việc và người đóng túi khéo tay, thì khách khác cũng sẽ nhận ra và kéo sang quầy đó cho tới khi nó không còn nhanh hơn; chẳng ai có thể tuần nào cũng đứng đúng hàng ngắn nhất. Với quỹ tương hỗ cũng vậy: một nhà quản lý bắt đầu thắng thị trường sẽ bị người khác nhìn thấy và bắt chước, và chiến lược đó mất dần lợi thế. Vì thế, dù đôi khi có tờ 100 USD nằm trên mặt đất thật, nó cũng không nằm đó lâu.
+Thứ nhất, việc thị trường đôi khi hành xử phi lý không có nghĩa là dễ kiếm tiền từ những lúc ấy, ít nhất là không kiếm được lâu. Ai khai thác một chỗ bất thường, chẳng hạn mua vào những cổ phiếu bị định giá thấp vô lý, thì chính hành động mua đó đẩy giá lên cho tới khi chỗ bất thường biến mất.
 
-Thứ hai, ngay cả những người phản biện giả thuyết thị trường hiệu quả sắc sảo nhất cũng cho rằng nhà đầu tư bình thường khó thắng được thị trường và không nên thử. Andrew Lo (MIT) và A. Craig MacKinlay (Trường Wharton), tác giả cuốn *A Non-Random Walk Down Wall Street*, lập luận rằng giới chuyên nghiệp có công cụ đặc biệt như siêu máy tính có thể tìm và khai thác những chỗ giá bất thường. Nhưng theo một bài điểm sách trên *BusinessWeek* mà Wheelan dẫn, hai ông vẫn đồng ý với lời khuyên của Malkiel dành cho người không có chuyên môn, thời gian hay tiền để thuê chuyên gia: hãy mua quỹ chỉ số. Warren Buffett, người có lẽ chọn cổ phiếu giỏi nhất lịch sử, khuyên y như vậy; và chính Richard Thaler, dù quỹ hành vi của ông đang thắng thị trường, cũng nói với *Wall Street Journal* rằng phần lớn tiền hưu trí của ông nằm trong quỹ chỉ số. Wheelan ví quỹ chỉ số trong đầu tư như tập thể dục đều và ăn ít chất béo trong giảm cân: một điểm khởi đầu rất tốt, và ai bảo có cách hay hơn thì phải tự chứng minh.
+Wheelan quay lại hình ảnh siêu thị: nếu có một quầy thu ngân lúc nào cũng nhanh hơn, có lẽ nhờ thu ngân thạo việc và người đóng túi khéo tay, thì khách khác cũng sẽ nhận ra và kéo sang quầy đó cho tới khi nó không còn nhanh hơn; chẳng ai có thể tuần nào cũng đứng đúng hàng ngắn nhất. Với quỹ tương hỗ cũng vậy: một nhà quản lý bắt đầu thắng thị trường sẽ bị người khác nhìn thấy và bắt chước, và chiến lược đó mất dần lợi thế. Vì thế, dù đôi khi có tờ 100 USD nằm trên mặt đất thật, nó cũng không nằm đó lâu.
+
+Thứ hai, ngay cả những người phản biện giả thuyết thị trường hiệu quả sắc sảo nhất cũng cho rằng nhà đầu tư bình thường khó thắng được thị trường và không nên thử. Andrew Lo (MIT) và A. Craig MacKinlay (Trường Wharton), tác giả cuốn *A Non-Random Walk Down Wall Street*, lập luận rằng giới chuyên nghiệp có công cụ đặc biệt như siêu máy tính có thể tìm và khai thác những chỗ giá bất thường.
+
+Nhưng theo một bài điểm sách trên *BusinessWeek* mà Wheelan dẫn, hai ông vẫn đồng ý với lời khuyên của Malkiel dành cho người không có chuyên môn, thời gian hay tiền để thuê chuyên gia: hãy mua quỹ chỉ số. Warren Buffett, người có lẽ chọn cổ phiếu giỏi nhất lịch sử, khuyên y như vậy; và chính Richard Thaler, dù quỹ hành vi của ông đang thắng thị trường, cũng nói với *Wall Street Journal* rằng phần lớn tiền hưu trí của ông nằm trong quỹ chỉ số. Wheelan ví quỹ chỉ số trong đầu tư như tập thể dục đều và ăn ít chất béo trong giảm cân: một điểm khởi đầu rất tốt, và ai bảo có cách hay hơn thì phải tự chứng minh.
 
 ### 7. Phép thử mùi: bốn quy tắc
 
 Wheelan nhắc lại chương này không phải sách hướng dẫn đầu tư; ông để người khác giải thích ưu nhược điểm của quỹ tiết kiệm học phí, trái phiếu đô thị, niên kim biến đổi và các lựa chọn hiện đại khác. Nhưng kinh tế học cơ bản cho ta một "phép thử mùi": một bộ quy tắc mà mọi lời khuyên đầu tư tử tế phải tuân theo.
 
-**Tiết kiệm. Đầu tư. Lặp lại.** Quay về ý tưởng cơ bản nhất của chương: vốn khan hiếm. Đó là lý do duy nhất khiến bất kỳ hình thức đầu tư nào sinh lời. Nếu bạn có vốn dư, sẽ có người trả tiền để dùng nó. Nhưng bạn phải có vốn dư trước, và cách duy nhất để có là tiêu ít hơn kiếm được, tức là tiết kiệm. Bạn tiết kiệm càng nhiều và càng sớm, bạn càng thu được nhiều "tiền thuê" từ thị trường tài chính. Sách tài chính cá nhân nào cũng ca ngợi lãi kép; ở đây chỉ cần nhắc rằng Albert Einstein được cho là đã gọi nó là phát minh vĩ đại nhất mọi thời đại. Mặt trái: nếu bạn tiêu nhiều hơn kiếm được, bạn phải "thuê" phần chênh lệch ở đâu đó, và phải trả tiền cho đặc quyền ấy. Trả tiền thuê vốn không khác gì trả tiền thuê bất cứ thứ gì: đó là một khoản chi chèn lấn những thứ khác bạn có thể muốn tiêu dùng sau này. Cái giá của việc sống sung túc hơn hôm nay là sống kém hơn ngày mai; ngược lại, phần thưởng của việc sống tằn tiện hôm nay là sống tốt hơn ngày mai. Nên tạm gác câu hỏi tài khoản hưu trí 401(k) nên để cổ phiếu hay trái phiếu; bước đầu tiên đơn giản hơn nhiều: tiết kiệm sớm, tiết kiệm đều, và trả hết nợ thẻ tín dụng.
+**Tiết kiệm. Đầu tư. Lặp lại.** Quay về ý tưởng cơ bản nhất của chương: vốn khan hiếm. Đó là lý do duy nhất khiến bất kỳ hình thức đầu tư nào sinh lời. Nếu bạn có vốn dư, sẽ có người trả tiền để dùng nó. Nhưng bạn phải có vốn dư trước, và cách duy nhất để có là tiêu ít hơn kiếm được, tức là tiết kiệm. Bạn tiết kiệm càng nhiều và càng sớm, bạn càng thu được nhiều "tiền thuê" từ thị trường tài chính. Sách tài chính cá nhân nào cũng ca ngợi lãi kép; ở đây chỉ cần nhắc rằng Albert Einstein được cho là đã gọi nó là phát minh vĩ đại nhất mọi thời đại.
 
-**Chấp nhận rủi ro, nhận phần thưởng.** Giờ mới bàn chuyện 401(k) nên để cổ phiếu hay trái phiếu. Giả sử bạn có vốn để cho thuê, và đang chọn giữa hai phương án: cho chính phủ liên bang vay (mua trái phiếu kho bạc), hoặc cho anh hàng xóm Lance vay; Lance đã mày mò trong tầng hầm ba năm và tuyên bố đã chế ra động cơ đốt trong chạy bằng hạt hướng dương. Cả chính phủ lẫn Lance đều sẵn lòng trả bạn lãi 6%. Trừ khi Lance có ảnh bạn trong tư thế khó xử, bạn nên mua trái phiếu chính phủ: động cơ hạt hướng dương rủi ro, trái phiếu chính phủ thì không. Lance có thể cuối cùng huy động được vốn để chế tạo phát minh, nhưng không phải với lãi 6%. **Khoản đầu tư rủi ro hơn phải hứa lợi suất kỳ vọng cao hơn để thu hút vốn.** Đó không phải một luật tài chính bí hiểm, chỉ là thị trường đang vận hành: không người lý trí nào đầu tư vào một chỗ khi có thể nhận cùng lợi suất kỳ vọng với ít rủi ro hơn ở chỗ khác.
+Mặt trái: nếu bạn tiêu nhiều hơn kiếm được, bạn phải "thuê" phần chênh lệch ở đâu đó, và phải trả tiền cho đặc quyền ấy. Trả tiền thuê vốn không khác gì trả tiền thuê bất cứ thứ gì: đó là một khoản chi chèn lấn những thứ khác bạn có thể muốn tiêu dùng sau này. Cái giá của việc sống sung túc hơn hôm nay là sống kém hơn ngày mai; ngược lại, phần thưởng của việc sống tằn tiện hôm nay là sống tốt hơn ngày mai. Nên tạm gác câu hỏi tài khoản hưu trí 401(k) nên để cổ phiếu hay trái phiếu; bước đầu tiên đơn giản hơn nhiều: tiết kiệm sớm, tiết kiệm đều, và trả hết nợ thẻ tín dụng.
+
+**Chấp nhận rủi ro, nhận phần thưởng.** Giờ mới bàn chuyện 401(k) nên để cổ phiếu hay trái phiếu. Giả sử bạn có vốn để cho thuê, và đang chọn giữa hai phương án: cho chính phủ liên bang vay (mua trái phiếu kho bạc), hoặc cho anh hàng xóm Lance vay; Lance đã mày mò trong tầng hầm ba năm và tuyên bố đã chế ra động cơ đốt trong chạy bằng hạt hướng dương. Cả chính phủ lẫn Lance đều sẵn lòng trả bạn lãi 6%. Trừ khi Lance có ảnh bạn trong tư thế khó xử, bạn nên mua trái phiếu chính phủ: động cơ hạt hướng dương rủi ro, trái phiếu chính phủ thì không. Lance có thể cuối cùng huy động được vốn để chế tạo phát minh, nhưng không phải với lãi 6%.
+
+**Khoản đầu tư rủi ro hơn phải hứa lợi suất kỳ vọng cao hơn để thu hút vốn.** Đó không phải một luật tài chính bí hiểm, chỉ là thị trường đang vận hành: không người lý trí nào đầu tư vào một chỗ khi có thể nhận cùng lợi suất kỳ vọng với ít rủi ro hơn ở chỗ khác.
 
 Hàm ý với nhà đầu tư rất rõ: bạn sẽ được trả công vì chấp nhận thêm rủi ro. Danh mục càng rủi ro, lợi suất càng cao, **xét trung bình**. Danh mục rủi ro cũng có nghĩa là thỉnh thoảng sẽ có chuyện rất tệ. Không gì tóm điều này tốt hơn một tít báo cũ trên *Wall Street Journal*: "Trái phiếu cho bạn ngủ ngon, nhưng có giá". Bài báo xem xét lợi suất cổ phiếu và trái phiếu từ 1945 đến 1997:
 
@@ -696,7 +745,11 @@ Nhìn lợi suất trung bình thì người giữ trái phiếu có vẻ dại,
 
 Mức rủi ro hợp lý vì thế tuỳ vào sức chịu đựng và tầm đầu tư của từng người. Wheelan so hai trường hợp. Quỹ Harvard mất khoảng một phần ba giá trị trong khủng hoảng 2008; Yale mất một phần tư quỹ chỉ trong một năm. Trong cùng thời kỳ, mẹ vợ của Wheelan đạt lợi suất khoảng 3% nhờ để gần hết tài sản trong chứng chỉ tiền gửi và tài khoản thanh toán. Điều đó không có nghĩa bà là thiên tài đầu tư, cũng không có nghĩa Harvard nên chuyển tài sản vào một tài khoản thanh toán khổng lồ. Bà luôn để tài sản ở nơi an toàn, lãi thấp vì bà ít chịu được rủi ro; bà được bảo vệ khi thời thế xấu, nhưng khi thị trường cổ phiếu tăng 18% trong một năm, bà vẫn chỉ được 3%.
 
-Ngược lại, Harvard, Yale và các trường có quỹ lớn kiếm lợi suất khổng lồ trong những năm bùng nổ bằng cách chấp nhận rủi ro lớn và đầu tư vào tài sản tương đối **kém thanh khoản**. (Thanh khoản phản ánh một tài sản có thể đổi thành tiền mặt nhanh và chắc chắn đến đâu. Tài sản kém thanh khoản, như tranh quý hiếm hay trái phiếu doanh nghiệp Venezuela, phải trả thêm lợi suất để bù nhược điểm này; dĩ nhiên khi cần bán gấp để lấy tiền mặt thì đó là vấn đề.) Các tổ chức này thỉnh thoảng trả giá cho danh mục mạo hiểm, nhưng những cú xóc đó sẽ được bù lại về lâu dài bằng lợi suất cao hơn nhiều so với chứng chỉ tiền gửi. Quan trọng nhất, quỹ đại học khác nhà đầu tư thông thường đang tiết kiệm cho học phí hay hưu trí: tầm đầu tư của họ về lý thuyết là vô hạn, nghĩa là họ chịu được vài năm, thậm chí vài thập kỷ rất tệ, nếu điều đó tối đa hoá lợi suất trong một hai trăm năm tới (dù cả Harvard và Yale đã phải cắt giảm ngân sách nghiêm trọng gần đây để bù phần thu nhập từ quỹ bị mất). Hiệu trưởng Yale Richard Levin nói với *Wall Street Journal* rằng trường đã có lợi suất vượt trội rất lớn trên đà đi lên, và khi mọi thứ ổn định lại, ông nghĩ thành tích dài hạn tổng thể của quỹ vẫn tốt hơn so với nếu không làm vậy. Wheelan đoán ông đúng, nhưng điều đó không có nghĩa đó là chiến lược khôn ngoan cho mẹ vợ ông.
+Ngược lại, Harvard, Yale và các trường có quỹ lớn kiếm lợi suất khổng lồ trong những năm bùng nổ bằng cách chấp nhận rủi ro lớn và đầu tư vào tài sản tương đối **kém thanh khoản**. (Thanh khoản phản ánh một tài sản có thể đổi thành tiền mặt nhanh và chắc chắn đến đâu. Tài sản kém thanh khoản, như tranh quý hiếm hay trái phiếu doanh nghiệp Venezuela, phải trả thêm lợi suất để bù nhược điểm này; dĩ nhiên khi cần bán gấp để lấy tiền mặt thì đó là vấn đề.)
+
+Các tổ chức này thỉnh thoảng trả giá cho danh mục mạo hiểm, nhưng những cú xóc đó sẽ được bù lại về lâu dài bằng lợi suất cao hơn nhiều so với chứng chỉ tiền gửi. Quan trọng nhất, quỹ đại học khác nhà đầu tư thông thường đang tiết kiệm cho học phí hay hưu trí: tầm đầu tư của họ về lý thuyết là vô hạn, nghĩa là họ chịu được vài năm, thậm chí vài thập kỷ rất tệ, nếu điều đó tối đa hoá lợi suất trong một hai trăm năm tới (dù cả Harvard và Yale đã phải cắt giảm ngân sách nghiêm trọng gần đây để bù phần thu nhập từ quỹ bị mất).
+
+Hiệu trưởng Yale Richard Levin nói với *Wall Street Journal* rằng trường đã có lợi suất vượt trội rất lớn trên đà đi lên, và khi mọi thứ ổn định lại, ông nghĩ thành tích dài hạn tổng thể của quỹ vẫn tốt hơn so với nếu không làm vậy. Wheelan đoán ông đúng, nhưng điều đó không có nghĩa đó là chiến lược khôn ngoan cho mẹ vợ ông.
 
 **Đa dạng hoá.** Khi dạy tài chính, Wheelan cho sinh viên tung đồng xu, vì đó là cách tốt nhất để minh hoạ một số điểm. Một điểm là: danh mục đa dạng hoá tốt sẽ giảm đáng kể rủi ro lỗ nặng mà không làm giảm lợi suất kỳ vọng.
 
@@ -708,11 +761,17 @@ Ngược lại, Harvard, Yale và các trường có quỹ lớn kiếm lợi su
 
 Với một đồng xu, kết quả trung bình rất tốt, nhưng mặt trái là không chấp nhận được: 50% khả năng mất sạch tiền dành dụm (thử giải thích điều đó với vợ hay chồng xem). Chú thích của Wheelan thừa nhận ví dụ này đơn giản hoá: các lần tung đồng xu độc lập với nhau, còn kết quả của các cổ phiếu thì không, vì có những sự kiện như một lần tăng lãi suất tác động lên cả thị trường; nên mua hai cổ phiếu không đa dạng hoá bằng chia danh mục cho hai lần tung đồng xu. Dù vậy, ý chính vẫn đúng.
 
-Vì thế bạn phải hết sức chắc chắn rằng các khoản đầu tư có kết quả thật sự độc lập với nhau. Tung đồng xu thì kết quả lần này không liên quan lần sau; còn mua cổ phiếu Microsoft và Intel rồi cho rằng mình đã chia danh mục an toàn vào hai giỏ là chuyện khác. Đúng là hai công ty khác nhau, sản phẩm khác nhau, ban lãnh đạo khác nhau, nhưng nếu Microsoft có một năm rất tệ thì nhiều khả năng Intel cũng khổ. Một trong những sai lầm làm khủng hoảng tài chính trầm trọng thêm là niềm tin rằng gom nhiều khoản vay thế chấp vào một chứng khoán bảo đảm bằng thế chấp (mortgage-backed security) tạo ra một khoản đầu tư an toàn và dễ dự đoán hơn bất kỳ khoản vay đơn lẻ nào, giống như tung 100 đồng xu thay vì một. Một ngân hàng chỉ có một khoản cho vay thế chấp thì khoản đó có thể vỡ nợ và kéo theo toàn bộ vốn; còn nếu mua một sản phẩm tài chính làm từ hàng nghìn khoản vay, phần lớn sẽ ổn, bù cho rủi ro thỉnh thoảng có khoản vỡ nợ.
+Vì thế bạn phải hết sức chắc chắn rằng các khoản đầu tư có kết quả thật sự độc lập với nhau. Tung đồng xu thì kết quả lần này không liên quan lần sau; còn mua cổ phiếu Microsoft và Intel rồi cho rằng mình đã chia danh mục an toàn vào hai giỏ là chuyện khác. Đúng là hai công ty khác nhau, sản phẩm khác nhau, ban lãnh đạo khác nhau, nhưng nếu Microsoft có một năm rất tệ thì nhiều khả năng Intel cũng khổ.
+
+Một trong những sai lầm làm khủng hoảng tài chính trầm trọng thêm là niềm tin rằng gom nhiều khoản vay thế chấp vào một chứng khoán bảo đảm bằng thế chấp (mortgage-backed security) tạo ra một khoản đầu tư an toàn và dễ dự đoán hơn bất kỳ khoản vay đơn lẻ nào, giống như tung 100 đồng xu thay vì một. Một ngân hàng chỉ có một khoản cho vay thế chấp thì khoản đó có thể vỡ nợ và kéo theo toàn bộ vốn; còn nếu mua một sản phẩm tài chính làm từ hàng nghìn khoản vay, phần lớn sẽ ổn, bù cho rủi ro thỉnh thoảng có khoản vỡ nợ.
 
 Trong thời bình thường, điều đó có lẽ đúng. Một khoản vay thế chấp vỡ nợ khi người vay ốm hay mất việc; điều đó không có tương quan cao giữa các hộ; một nhà trong khu bị siết nợ không có nghĩa nhà khác cũng vậy. Khi bong bóng bất động sản vỡ, mọi thứ khác hẳn: giá nhà lao dốc khắp nước, và suy thoái đi kèm khiến rất nhiều người mất việc cùng lúc. Những chứng khoán tưởng thông minh được bảo đảm bằng các khoản vay bất động sản biến thành "tài sản độc hại" mà người ta vẫn đang dọn dẹp từ đó tới nay.
 
-**Đầu tư dài hạn.** Quy tắc thứ tư dựa trên cùng logic giúp chủ sòng bạc giàu lên. Khi có khách thắng lớn, người điều hành sòng bạc cũng vui như mọi người, vì về dài hạn họ sẽ kiếm được rất nhiều tiền; một lần thua chỉ là trục trặc nhỏ. Tỷ lệ nghiêng về phía sòng bạc, nên chủ sòng chỉ cần chờ đủ lâu, và vui vẻ chụp ảnh trao tấm séc khổng lồ cho người thỉnh thoảng thắng lớn, là sẽ giàu. Đầu tư có cùng lợi thế: tỷ lệ nghiêng về phía bạn nếu bạn kiên nhẫn và chịu được những lần thua thỉnh thoảng. Mọi danh mục đầu tư hợp lý phải có lợi suất kỳ vọng dương, vì bạn đã cho các đơn vị khác thuê vốn và mong nhận lại thứ gì đó; khoản đầu tư càng rủi ro, bạn càng mong nhận lại nhiều, xét trung bình. Nên bạn giữ khoản đầu tư (đã đa dạng hoá) càng lâu, xác suất càng có thời gian phát huy. Chỉ số Dow ngày mai đóng cửa ở đâu? Wheelan không biết. Năm sau? Không biết. Năm năm nữa? Có lẽ cao hơn hôm nay, nhưng không chắc. Hai mươi lăm năm nữa? Cao hơn đáng kể; ông khá chắc chắn. Cái ngớ ngẩn của giao dịch trong ngày (mua cổ phiếu mong bán có lời sau vài giờ) là nó chịu mọi chi phí giao dịch (phí, thuế, chưa kể thời gian) mà không có lợi ích nào của việc nắm giữ cổ phiếu dài hạn.
+**Đầu tư dài hạn.** Quy tắc thứ tư dựa trên cùng logic giúp chủ sòng bạc giàu lên. Khi có khách thắng lớn, người điều hành sòng bạc cũng vui như mọi người, vì về dài hạn họ sẽ kiếm được rất nhiều tiền; một lần thua chỉ là trục trặc nhỏ. Tỷ lệ nghiêng về phía sòng bạc, nên chủ sòng chỉ cần chờ đủ lâu, và vui vẻ chụp ảnh trao tấm séc khổng lồ cho người thỉnh thoảng thắng lớn, là sẽ giàu.
+
+Đầu tư có cùng lợi thế: tỷ lệ nghiêng về phía bạn nếu bạn kiên nhẫn và chịu được những lần thua thỉnh thoảng. Mọi danh mục đầu tư hợp lý phải có lợi suất kỳ vọng dương, vì bạn đã cho các đơn vị khác thuê vốn và mong nhận lại thứ gì đó; khoản đầu tư càng rủi ro, bạn càng mong nhận lại nhiều, xét trung bình. Nên bạn giữ khoản đầu tư (đã đa dạng hoá) càng lâu, xác suất càng có thời gian phát huy.
+
+Chỉ số Dow ngày mai đóng cửa ở đâu? Wheelan không biết. Năm sau? Không biết. Năm năm nữa? Có lẽ cao hơn hôm nay, nhưng không chắc. Hai mươi lăm năm nữa? Cao hơn đáng kể; ông khá chắc chắn. Cái ngớ ngẩn của giao dịch trong ngày (mua cổ phiếu mong bán có lời sau vài giờ) là nó chịu mọi chi phí giao dịch (phí, thuế, chưa kể thời gian) mà không có lợi ích nào của việc nắm giữ cổ phiếu dài hạn.
 
 ### 8. Kết
 
@@ -720,7 +779,9 @@ Trong thời bình thường, điều đó có lẽ đúng. Một khoản vay th
 
 Điều thú vị của kinh tế học là các ý tưởng cơ bản không thay đổi. Vua chúa thời Trung cổ cần huy động vốn (thường để đánh trận), như các công ty công nghệ sinh học khởi nghiệp hôm nay. Wheelan không biết trăm năm nữa hành tinh sẽ ra sao, có thể ta đang định cư trên sao Hoả hay biến nước mặn thành nguồn năng lượng sạch, tái tạo; nhưng ông biết bất kỳ dự án nào như vậy cũng sẽ dùng thị trường tài chính để huy động vốn và giảm rủi ro. Và ông chắc chắn người Mỹ sẽ không trở nên gầy và khoẻ nhờ chỉ ăn bưởi và kem.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một nhân viên văn phòng 30 tuổi mỗi tháng để dành được 3 triệu đồng. Phương án A: gửi tiết kiệm lãi 5%/năm. Phương án B: mua đều đặn chứng chỉ quỹ chỉ số cổ phiếu với giả định lợi suất trung bình dài hạn 10%/năm nhưng có năm giảm 30–40%. Sau 30 năm, A cho khoảng 2,5 tỷ đồng, B cho khoảng 6,8 tỷ đồng; theo quy tắc 72, ở mức 10%/năm tiền gấp đôi sau khoảng 7 năm. Nhưng nếu người này hoảng sợ bán hết ở đáy một lần sụt 40% thì B có thể kém A; đó là ý "rủi ro được trả công, nếu bạn chịu được nó". Cùng lúc, một người quen giới thiệu "nhóm đầu tư" cam kết lãi 5%/tháng (khoảng 80%/năm). Phép thử của Wheelan trả lời ngay: hoặc rủi ro cực cao, hoặc là phép màu mà mọi quỹ đầu tư lớn trên thế giới đều bỏ lỡ, hoặc (khả năng cao nhất) là lừa đảo kiểu Madoff.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một nhân viên văn phòng 30 tuổi mỗi tháng để dành được 3 triệu đồng. Phương án A: gửi tiết kiệm lãi 5%/năm. Phương án B: mua đều đặn chứng chỉ quỹ chỉ số cổ phiếu với giả định lợi suất trung bình dài hạn 10%/năm nhưng có năm giảm 30–40%. Sau 30 năm, A cho khoảng 2,5 tỷ đồng, B cho khoảng 6,8 tỷ đồng; theo quy tắc 72, ở mức 10%/năm tiền gấp đôi sau khoảng 7 năm.
+
+Nhưng nếu người này hoảng sợ bán hết ở đáy một lần sụt 40% thì B có thể kém A; đó là ý "rủi ro được trả công, nếu bạn chịu được nó". Cùng lúc, một người quen giới thiệu "nhóm đầu tư" cam kết lãi 5%/tháng (khoảng 80%/năm). Phép thử của Wheelan trả lời ngay: hoặc rủi ro cực cao, hoặc là phép màu mà mọi quỹ đầu tư lớn trên thế giới đều bỏ lỡ, hoặc (khả năng cao nhất) là lừa đảo kiểu Madoff.
 
 ## Luận điểm kinh tế cốt lõi
 
@@ -835,19 +896,27 @@ Thị trường tài chính tạo ra giá trị bằng cách phục vụ bốn n
 
 ### Khung "bốn nhu cầu" là cách giải thích tài chính rõ nhất cho người không chuyên, và lời khuyên quỹ chỉ số đã được thời gian xác nhận
 
-Sức mạnh lớn nhất của chương là biến một lĩnh vực đầy thuật ngữ thành bốn câu hỏi đơn giản: công cụ này giúp ai huy động vốn, giữ vốn, chia rủi ro, hay chỉ để cược? Người đọc có thể dùng khung đó cho bất kỳ sản phẩm mới nào. Lời khuyên cốt lõi (tiết kiệm, quỹ chỉ số chi phí thấp, đa dạng hoá, dài hạn) cũng là phần được thời gian xác nhận rõ nhất: từ 2010, các báo cáo định kỳ so sánh quỹ chủ động với chỉ số (như của S&P Dow Jones Indices) cho thấy trong 15–20 năm, đại đa số quỹ cổ phiếu chủ động ở Mỹ thua chỉ số tham chiếu, và tỷ lệ này còn cao hơn con số 55% mà Wheelan dẫn. Dòng tiền chuyển từ quỹ chủ động sang quỹ chỉ số và quỹ ETF đã thành một trong những thay đổi lớn nhất của ngành quản lý tài sản.
+Sức mạnh lớn nhất của chương là biến một lĩnh vực đầy thuật ngữ thành bốn câu hỏi đơn giản: công cụ này giúp ai huy động vốn, giữ vốn, chia rủi ro, hay chỉ để cược? Người đọc có thể dùng khung đó cho bất kỳ sản phẩm mới nào.
+
+Lời khuyên cốt lõi (tiết kiệm, quỹ chỉ số chi phí thấp, đa dạng hoá, dài hạn) cũng là phần được thời gian xác nhận rõ nhất: từ 2010, các báo cáo định kỳ so sánh quỹ chủ động với chỉ số (như của S&P Dow Jones Indices) cho thấy trong 15–20 năm, đại đa số quỹ cổ phiếu chủ động ở Mỹ thua chỉ số tham chiếu, và tỷ lệ này còn cao hơn con số 55% mà Wheelan dẫn. Dòng tiền chuyển từ quỹ chủ động sang quỹ chỉ số và quỹ ETF đã thành một trong những thay đổi lớn nhất của ngành quản lý tài sản.
 
 ### Wheelan đơn giản hoá ở chỗ dùng số liệu "sống sót" và một quỹ hành vi duy nhất làm bằng chứng
 
-Hai con số có vấn đề về phương pháp. Thứ nhất, các thống kê kiểu "45% quỹ chủ động thắng chỉ số trong 20 năm" thường chỉ tính những quỹ còn tồn tại; các quỹ làm kém bị đóng cửa hay sáp nhập sẽ biến khỏi mẫu (thiên lệch sống sót), nên tỷ lệ thật thắng chỉ số còn thấp hơn. Điều này củng cố kết luận của Wheelan, nhưng con số ông dẫn là ước lượng lạc quan. Thứ hai, việc dùng quỹ của Thaler (4,5% so với 2,3%/năm trong một giai đoạn ngắn) làm bằng chứng rằng có thể khai thác sai lầm hành vi là yếu; một quỹ thắng trong vài năm là chính điều mà giả thuyết thị trường hiệu quả dự đoán sẽ xảy ra với một số quỹ do may mắn. Wheelan tự cân bằng điều này khi nói Thaler vẫn để tiền hưu trí trong quỹ chỉ số.
+Hai con số có vấn đề về phương pháp. Thứ nhất, các thống kê kiểu "45% quỹ chủ động thắng chỉ số trong 20 năm" thường chỉ tính những quỹ còn tồn tại; các quỹ làm kém bị đóng cửa hay sáp nhập sẽ biến khỏi mẫu (thiên lệch sống sót), nên tỷ lệ thật thắng chỉ số còn thấp hơn. Điều này củng cố kết luận của Wheelan, nhưng con số ông dẫn là ước lượng lạc quan.
+
+Thứ hai, việc dùng quỹ của Thaler (4,5% so với 2,3%/năm trong một giai đoạn ngắn) làm bằng chứng rằng có thể khai thác sai lầm hành vi là yếu; một quỹ thắng trong vài năm là chính điều mà giả thuyết thị trường hiệu quả dự đoán sẽ xảy ra với một số quỹ do may mắn. Wheelan tự cân bằng điều này khi nói Thaler vẫn để tiền hưu trí trong quỹ chỉ số.
 
 ### Phần "bốn quy tắc" khuyên chấp nhận rủi ro mà chưa nói đủ về thời điểm và hành vi
 
-Bảng 1945–1997 (cổ phiếu 12,9%, trái phiếu 5,8%) là dữ liệu của thị trường Mỹ, thị trường thành công nhất thế kỷ 20; nhà đầu tư ở thị trường khác (Nhật sau 1990, nhiều thị trường mới nổi) có thể chờ rất lâu mới hoà vốn. Câu "25 năm nữa chỉ số Dow sẽ cao hơn đáng kể" đúng với lịch sử Mỹ nhưng không phải quy luật phổ quát. Hơn nữa, nghiên cứu sau này (các báo cáo so sánh lợi suất của quỹ với lợi suất thực mà nhà đầu tư nhận được) cho thấy nhà đầu tư cá nhân thường mua khi giá cao và bán khi hoảng loạn, nên lợi suất họ nhận được thấp hơn lợi suất của chính quỹ họ nắm. Chính kinh tế học hành vi mà Wheelan giới thiệu giải thích điều này; "chịu được rủi ro" là vấn đề hành vi nhiều hơn là tính toán.
+Bảng 1945–1997 (cổ phiếu 12,9%, trái phiếu 5,8%) là dữ liệu của thị trường Mỹ, thị trường thành công nhất thế kỷ 20; nhà đầu tư ở thị trường khác (Nhật sau 1990, nhiều thị trường mới nổi) có thể chờ rất lâu mới hoà vốn. Câu "25 năm nữa chỉ số Dow sẽ cao hơn đáng kể" đúng với lịch sử Mỹ nhưng không phải quy luật phổ quát.
+
+Hơn nữa, nghiên cứu sau này (các báo cáo so sánh lợi suất của quỹ với lợi suất thực mà nhà đầu tư nhận được) cho thấy nhà đầu tư cá nhân thường mua khi giá cao và bán khi hoảng loạn, nên lợi suất họ nhận được thấp hơn lợi suất của chính quỹ họ nắm. Chính kinh tế học hành vi mà Wheelan giới thiệu giải thích điều này; "chịu được rủi ro" là vấn đề hành vi nhiều hơn là tính toán.
 
 ### Phân tích về CDS và chứng khoán thế chấp đúng về cơ chế, nhưng khủng hoảng 2008 còn có những nguyên nhân chương không bàn
 
-Wheelan chỉ đúng hai cơ chế then chốt: CDS cho phép cược mà không có rủi ro gốc, khiến một khoản lỗ bị nhân lên; và giả định các khoản vay thế chấp độc lập sụp đổ khi giá nhà giảm toàn quốc. Ông cũng nêu động cơ khuyến khích sai (thưởng lớn cho vụ cược bằng vốn công ty). Những yếu tố khác của khủng hoảng như đòn bẩy rất cao của ngân hàng đầu tư, sự phụ thuộc vào vốn vay ngắn hạn (ngân hàng bóng tối), vai trò của các tổ chức xếp hạng tín nhiệm và tiêu chuẩn cho vay lỏng lẻo được để lại cho Chương 10. Sau 2010, các cải cách như luật Dodd–Frank ở Mỹ đã buộc phần lớn hợp đồng CDS chuẩn hoá đi qua trung tâm thanh toán bù trừ và tăng yêu cầu vốn cho ngân hàng, đúng hướng "vá lại hệ thống" mà Wheelan dự đoán.
+Wheelan chỉ đúng hai cơ chế then chốt: CDS cho phép cược mà không có rủi ro gốc, khiến một khoản lỗ bị nhân lên; và giả định các khoản vay thế chấp độc lập sụp đổ khi giá nhà giảm toàn quốc. Ông cũng nêu động cơ khuyến khích sai (thưởng lớn cho vụ cược bằng vốn công ty).
+
+Những yếu tố khác của khủng hoảng như đòn bẩy rất cao của ngân hàng đầu tư, sự phụ thuộc vào vốn vay ngắn hạn (ngân hàng bóng tối), vai trò của các tổ chức xếp hạng tín nhiệm và tiêu chuẩn cho vay lỏng lẻo được để lại cho Chương 10. Sau 2010, các cải cách như luật Dodd–Frank ở Mỹ đã buộc phần lớn hợp đồng CDS chuẩn hoá đi qua trung tâm thanh toán bù trừ và tăng yêu cầu vốn cho ngân hàng, đúng hướng "vá lại hệ thống" mà Wheelan dự đoán.
 
 ### Từ 2010 đến nay: các "món hời Lincoln Park" mới vẫn xuất hiện dưới dạng khác
 
@@ -855,7 +924,165 @@ Logic "không ai để 250.000 USD trên bàn" là phép thử hữu ích với 
 
 ### Vận dụng: trước mọi quyết định tài chính, hãy hỏi "ai đang ở phía bên kia giao dịch" và "lợi suất này đến từ rủi ro nào"
 
-- **Trong đầu tư cá nhân.** Mỗi khi thấy một "cổ phiếu nóng", một mảnh đất "chắc chắn lên giá" hay một khuyến nghị gửi cho hàng nghìn khách hàng, hãy tự hỏi ba câu của ví dụ Lincoln Park: vì sao người bán chịu bán giá này? vì sao người giới thiệu không tự mua? những người mua khác ở đâu? Với tiền dài hạn, ưu tiên sản phẩm chi phí thấp, đa dạng hoá rộng (ở Việt Nam đã có quỹ ETF và quỹ mở mô phỏng chỉ số), và đánh giá mức rủi ro mình chịu được bằng câu hỏi "nếu tài khoản giảm 30–40% trong một năm, mình có bán tháo không?". Một lời hứa lãi cố định cao hơn nhiều lần lãi tiết kiệm ngân hàng phải được coi là dấu hiệu của rủi ro rất cao hoặc lừa đảo, theo đúng phép thử ba khả năng.
+- **Trong đầu tư cá nhân.** Mỗi khi thấy một "cổ phiếu nóng", một mảnh đất "chắc chắn lên giá" hay một khuyến nghị gửi cho hàng nghìn khách hàng, hãy tự hỏi ba câu của ví dụ Lincoln Park: vì sao người bán chịu bán giá này? vì sao người giới thiệu không tự mua? những người mua khác ở đâu?
+
+  Với tiền dài hạn, ưu tiên sản phẩm chi phí thấp, đa dạng hoá rộng (ở Việt Nam đã có quỹ ETF và quỹ mở mô phỏng chỉ số), và đánh giá mức rủi ro mình chịu được bằng câu hỏi "nếu tài khoản giảm 30–40% trong một năm, mình có bán tháo không?". Một lời hứa lãi cố định cao hơn nhiều lần lãi tiết kiệm ngân hàng phải được coi là dấu hiệu của rủi ro rất cao hoặc lừa đảo, theo đúng phép thử ba khả năng.
 - **Trong doanh nghiệp.** Khung bốn nhu cầu giúp chọn công cụ đúng việc. Một doanh nghiệp nhập khẩu nguyên liệu hay vay ngoại tệ có thể dùng hợp đồng kỳ hạn hoặc tương lai để chốt giá, chấp nhận mất phần lời để tránh phá sản, như người nông dân trồng ngô. Nhưng cần phân biệt phòng ngừa (có rủi ro gốc) với đầu cơ (không có); bộ phận tài chính "phòng ngừa" quá khối lượng hàng thật là đang đầu cơ bằng vốn công ty, và cơ chế thưởng theo lợi nhuận ngắn hạn dễ tạo ra một AIG thu nhỏ. Khi đánh giá rủi ro danh mục khách hàng hay nhà cung cấp, hãy hỏi chúng có cùng lên cùng xuống không: một trăm khách hàng cùng một ngành, cùng một vùng không phải là một trăm đồng xu độc lập.
 - **Trong nghề nghiệp.** Người làm môi giới, tư vấn tài chính hay phân tích nên hiểu rằng giá trị thật của họ là cung cấp thông tin, quản lý rủi ro và giúp khách hàng giữ kỷ luật, không phải hứa thắng thị trường; nghề dựa trên lời hứa thắng thị trường sẽ bị quỹ chỉ số và công nghệ thay thế dần. Với người lao động, "tiết kiệm sớm, trả hết nợ thẻ" là quy tắc rẻ nhất mà hiệu quả nhất; vay tiêu dùng lãi cao là "đi thuê vốn" với giá đắt, chèn lấn tiêu dùng tương lai.
 - **Khi đọc tin chính sách.** Ở Việt Nam, nhiều đợt sốt đất, sốt cổ phiếu, sốt trái phiếu doanh nghiệp lãi cao đã kết thúc bằng thua lỗ của nhà đầu tư cá nhân; khi đọc tin về một đợt siết hay nới quy định với trái phiếu doanh nghiệp, ngân hàng hay chứng khoán, hãy dùng câu hỏi của Wheelan: quy định này bảo vệ chức năng phân bổ vốn và chia rủi ro, hay đang để những vụ cược mà người hưởng lợi khác người chịu thiệt? Quy định buộc minh bạch thông tin, hạn chế bán sản phẩm phức tạp cho nhà đầu tư không chuyên, và yêu cầu vốn cho tổ chức tài chính thuộc nhóm "chính phủ làm thị trường tốt hơn"; dồn vốn vào dự án ưa thích hay cứu những bên đặt cược sai thuộc nhóm "làm hỏng thị trường".
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 7 trên một trang: sáu nhánh lớn đi theo các mục 1–8 trong phần Nội dung chi tiết (huy động vốn và cất giữ vốn dư, bảo hiểm rủi ro, đầu cơ và CDS cùng câu hỏi tài chính có phải sòng bạc, giả thuyết thị trường hiệu quả và quỹ chỉ số, kinh tế học hành vi, phép thử mùi với bốn quy tắc), mỗi nhánh ghi cơ chế, ví dụ và con số then chốt của Wheelan; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 7: mọi công cụ tài chính phục vụ bốn nhu cầu, và làm giàu nhanh vi phạm nguyên lý kinh tế cơ bản nhất`"]
+  n1["`Mục 1–2 — Huy động vốn và cất giữ vốn dư`"]
+  n0 --- n1
+  n2["`Mọi công cụ phải tạo giá trị và dựa trên bốn nhu cầu: huy động vốn, cất giữ vốn dư, bảo hiểm rủi ro, đầu cơ`"]
+  n1 --- n2
+  n3["`Vay hoặc bán cổ phần cho phép làm hôm nay việc tự mình chưa đủ tiền làm, với một cái giá`"]
+  n1 --- n3
+  n4["`Tín dụng vi mô của Opportunity International năm 2000: gần 325.000 khoản vay, trung bình 195 USD, trả nợ 96%`"]
+  n1 --- n4
+  n5["`Bà đỡ Esther Gelabuzi ở Uganda vay nhỏ mở phòng khám, đỡ khoảng 1.400 ca sinh`"]
+  n4 --- n5
+  n6["`Lạm phát là kẻ trộm: 1 tỷ USD năm 1970 nay chỉ còn sức mua khoảng 180 triệu USD`"]
+  n1 --- n6
+  n7["`Lãi suất ký hiệu r (rental rate): giá thuê vốn trả cho người có vốn dư`"]
+  n1 --- n7
+  n8["`Quỹ Harvard khoảng 25 tỷ USD, lợi suất trung bình 16%/năm trong 1995–2005`"]
+  n7 --- n8
+  n9["`Thị trường tài chính tách việc kiếm tiền khỏi việc tiêu tiền, giúp dàn đều tiêu dùng suốt đời`"]
+  n1 --- n9
+  n10["`Mục 2 — Bảo hiểm rủi ro`"]
+  n0 --- n10
+  n11["`Trả một khoản biết trước, kể cả cao hơn kỳ vọng nhận lại, để tránh trường hợp tệ nhất`"]
+  n10 --- n11
+  n12["`Cướp biển: 266 vụ năm 2005, bảo hiểm trả 70 triệu USD cho tàu chở dầu Limburg`"]
+  n11 --- n12
+  n13["`Fila hứa thưởng 300.000 USD cho Clijsters nhưng không mua bảo hiểm dù nhà cái đặt cửa 40 ăn 1`"]
+  n11 --- n13
+  n14["`Hợp đồng tương lai: nông dân chốt 1.000 giạ ngô giá 3,27 USD/giạ, bỏ phần lời để tránh phá sản`"]
+  n10 --- n14
+  n15["`Trái phiếu thảm hoạ USAA: bão thiệt hại từ 1,5 tỷ USD thì mất hết vốn gốc, ít thiệt hại thì lãi gần 12%`"]
+  n10 --- n15
+  n16["`FIFA phát hành 260 triệu USD trái phiếu huỷ giải cho World Cup 2006`"]
+  n15 --- n16
+  n17["`Đừng bỏ trứng vào một giỏ: 1.000 USD vào quỹ tương hỗ sở hữu một phần hơn 500 công ty`"]
+  n10 --- n17
+  n18["`CDS chính đáng: trả phí để được trả 25.000 USD nếu người em rể không trả nợ`"]
+  n10 --- n18
+  n19["`Mục 2–3 — Đầu cơ, CDS và tài chính không phải sòng bạc`"]
+  n0 --- n19
+  n20["`Sản phẩm tài chính mở đường cho đầu cơ như trận đấu thể thao mở đường cho cá độ`"]
+  n19 --- n20
+  n21["`Ai cũng mua được CDS, nên khoản lỗ 25.000 USD có thể bị nhân lên hàng nghìn lần`"]
+  n19 --- n21
+  n22["`AIG Financial Products lãi 2,5 tỷ USD năm 2005 nhờ bán bảo hiểm quá rẻ, như nhặt đồng xu trước xe lu`"]
+  n19 --- n22
+  n23["`AIG bảo hiểm hơn 400 tỷ USD chứng khoán, chính phủ Mỹ cam kết khoảng 180 tỷ USD`"]
+  n22 --- n23
+  n24["`Sòng bạc là tổng bằng không, phần lớn hoạt động tài chính là tổng dương`"]
+  n19 --- n24
+  n25["`Bàn tay vô hình vẫn ném nhiều vốn xuống biển: bong bóng dot-com, bong bóng nhà đất`"]
+  n19 --- n25
+  n26["`Người nghèo khó vay học đại học vì ngân hàng không thể thu hồi tấm bằng khi vỡ nợ`"]
+  n25 --- n26
+  n27["`Chính phủ phá khi đánh thuế, quy định quá nặng, giúp khi chống gian lận và buộc minh bạch`"]
+  n19 --- n27
+  n28["`Mục 4–5 — Giả thuyết thị trường hiệu quả và quỹ chỉ số`"]
+  n0 --- n28
+  n29["`Nhà Lincoln Park đáng 500.000 USD không thể rao 250.000 USD: không ai để 250.000 USD nằm trên bàn`"]
+  n28 --- n29
+  n30["`Ba câu hỏi: sao người bán bán rẻ, sao môi giới không tự mua, những người mua khác ở đâu`"]
+  n29 --- n30
+  n31["`Mỗi lần bạn mua có người bán, và Buffett, Goldman Sachs, Fidelity đã thấy món hời trước bạn`"]
+  n28 --- n31
+  n32["`Giá tài sản đã phản ánh mọi thông tin sẵn có, chỉ đổi khi có sự kiện không lường trước`"]
+  n28 --- n32
+  n33["`Hàng thanh toán siêu thị: ai cũng thấy cùng dấu hiệu, nên về lâu dài ai cũng chờ ngang nhau`"]
+  n28 --- n33
+  n34["`MicroStrategy mất 140 USD (62%) ngày 19/3/2000: điều quan trọng là thứ không đoán trước được`"]
+  n33 --- n34
+  n35["`Quỹ chỉ số là con khỉ ném khăn ướt: mua và giữ rổ S#amp;P 500 với chi phí thấp`"]
+  n28 --- n35
+  n36["`Morningstar: trong 20 năm chỉ 45% quỹ chủ động thắng S#amp;P 500`"]
+  n35 --- n36
+  n37["`10.000 USD năm 1973 thành 355.091 USD ở quỹ chủ động, 364.066 USD ở quỹ chỉ số`"]
+  n35 --- n37
+  n38["`Mục 6 — Kinh tế học hành vi: thị trường có thể sai`"]
+  n0 --- n38
+  n39["`Tâm lý bầy đàn, quá tự tin, ngoại suy xu hướng khiến thị trường có bong bóng và sụp đổ`"]
+  n38 --- n39
+  n40["`15 bệnh nhân tổn thương vùng não điều khiển cảm xúc kết thúc trò chơi đầu tư với nhiều hơn 13% tiền`"]
+  n38 --- n40
+  n41["`Shiller đúng hai lần: cổ phiếu định giá quá cao năm 2000, bong bóng nhà đất năm năm sau`"]
+  n38 --- n41
+  n42["`Quỹ tăng trưởng hành vi của Thaler đạt 4,5%/năm so với 2,3%/năm của S#amp;P 500`"]
+  n38 --- n42
+  n43["`Khai thác chỗ bất thường thì tự xoá nó: tờ 100 USD không nằm trên mặt đất lâu`"]
+  n38 --- n43
+  n44["`Lo và MacKinlay, Buffett, chính Thaler đều khuyên nhà đầu tư thường mua quỹ chỉ số`"]
+  n38 --- n44
+  n45["`Mục 7–8 — Phép thử mùi: bốn quy tắc và ba khả năng`"]
+  n0 --- n45
+  n46["`Tiết kiệm, đầu tư, lặp lại: vốn khan hiếm nên vốn dư được trả tiền thuê, trước hết trả hết nợ thẻ tín dụng`"]
+  n45 --- n46
+  n47["`Chính phủ và Lance cùng trả 6% thì chọn trái phiếu: khoản rủi ro hơn phải hứa lợi suất kỳ vọng cao hơn`"]
+  n45 --- n47
+  n48["`1945–1997: cổ phiếu 12,9%/năm, năm tệ nhất mất 26,5%, trái phiếu 5,8%/năm, không mất quá 5%`"]
+  n47 --- n48
+  n49["`Mức rủi ro theo sức chịu và tầm đầu tư: Harvard mất 1/3, Yale mất 1/4, mẹ vợ Wheelan lãi 3%`"]
+  n47 --- n49
+  n50["`Đa dạng hoá: 10 đồng xu giữ lợi suất kỳ vọng 100% nhưng khả năng mất hết dưới 1/1.000`"]
+  n45 --- n50
+  n51["`Các khoản phải độc lập: năm 2008 các khoản vay thế chấp vỡ nợ cùng nhau thành tài sản độc hại`"]
+  n50 --- n51
+  n52["`Đầu tư dài hạn như chủ sòng bạc: Dow 25 năm nữa khá chắc cao hơn, giao dịch trong ngày là ngớ ngẩn`"]
+  n45 --- n52
+  n53["`Hứa lợi suất 20–40%: rủi ro rất cao, phép màu, hoặc kém cỏi hay gian dối như Madoff, thường là khả năng thứ ba`"]
+  n45 --- n53
+  n54["`Thông điệp xuyên suốt`"]
+  n0 --- n54
+  n55["`Làm giàu nhanh cũng phi lý như ăn kiêng chỉ bằng bưởi và kem`"]
+  n54 --- n55
+  n56["`Quy tắc đầu tư đơn giản nhưng đòi kỷ luật, phần thưởng là tích luỹ chậm và đều`"]
+  n54 --- n56
+  n57["`Quỹ chỉ số với đầu tư như tập thể dục đều và ăn ít chất béo với giảm cân: ai bảo có cách hay hơn phải chứng minh`"]
+  n54 --- n57
+  n58["`Thách thức sau 2008: giữ phân bổ vốn và chia rủi ro, chặn những vụ cược để người khác dọn hậu quả`"]
+  n54 --- n58
+  class n0 root
+  class n1,n10,n19,n28,n38,n45,n54 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n16,n17,n18,n20,n21,n22,n23,n24,n25,n26,n27,n29,n30,n31,n32,n33,n34,n35,n36,n37,n39,n40,n41,n42,n43,n44,n46,n47,n48,n49,n50,n51,n52,n53,n55,n56,n57,n58 leaf
+```
+
+## Nguồn
+
+Charles Wheelan, *Naked Economics: Undressing the Dismal Science*, ấn bản sửa đổi và cập nhật (W. W. Norton, 2010), Chương 7.
+
+## Tác giả
+
+Charles Wheelan (sinh 1966), nhà kinh tế và nhà báo Mỹ, từng là phóng viên của *The Economist* ở Trung Tây nước Mỹ, giảng dạy chính sách công tại Đại học Chicago và Dartmouth.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 6 kết luận rằng mức sống tăng nhờ đầu tư (vào vốn vật chất, vốn con người, nghiên cứu), và đầu tư đòi hỏi hy sinh tiêu dùng hôm nay. Chương 7 trả lời câu hỏi tiếp theo: tiền tiết kiệm đi đến khoản đầu tư bằng cách nào, và cá nhân nên đối xử với tiền tiết kiệm của mình ra sao.
+
+Wheelan áp các ý tưởng của Chương 1 và 2 (ai cũng tối đa hoá độ thoả dụng; giá thị trường phản ánh thông tin) vào thị trường tài chính, và áp Chương 5 (bảo hiểm, thông tin bất cân xứng) vào quản lý rủi ro.
+
+Chương này cũng chuẩn bị cho phần vĩ mô: Chương 10 về Cục Dự trữ Liên bang (Fed) và khủng hoảng 2008 sẽ quay lại các khái niệm lãi suất, đòn bẩy, chứng khoán bảo đảm bằng thế chấp. Chương 8 chuyển sang chính trị và nhóm lợi ích.
+
+## Lưu ý
+
+- Sách cập nhật ngay sau khủng hoảng 2008, nên chương có nhiều ví dụ về khủng hoảng (AIG, Lehman Brothers, chứng khoán bảo đảm bằng thế chấp, quỹ của các đại học Harvard và Yale mất 1/4 đến 1/3 giá trị).
+- Các số liệu về quỹ tương hỗ (tỷ lệ quỹ chủ động thắng chỉ số S&P 500, 10.000 USD đầu tư từ 1973) tính đến khoảng 2009. Số liệu lợi suất cổ phiếu và trái phiếu 1945–1997 lấy từ một bài báo cũ của *Wall Street Journal*.
+- Một chỗ cần chú ý: sách in lợi nhuận trước thuế năm 2005 của bộ phận AIG Financial Products là "2,5 triệu USD". Trong bài gốc của Simon Johnson con số là 2,5 **tỷ** USD, nên đây nhiều khả năng là lỗi in.
+- Từ 2010 đến nay, xu hướng mà Wheelan khuyến nghị đã thành dòng chính: tiền chảy mạnh từ quỹ quản lý chủ động sang quỹ chỉ số, phí quỹ giảm sâu; trái phiếu thảm hoạ (cat bond) phát triển thành một thị trường riêng; còn quỹ "tăng trưởng hành vi" của Richard Thaler, mà Wheelan đầu tư một ít, thì thành tích sau 2010 không còn vượt trội rõ như số liệu ông dẫn.
+- Các câu trích là bản dịch của người tổng hợp.
